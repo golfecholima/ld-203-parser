@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>The National Mentoring Partnership, Inc.</organizationName>
+  <lobbyistPrefix>Ms.</lobbyistPrefix>
+  <lobbyistFirstName>Abigail</lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>Evans</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>30223</senateRegID>
+  <houseRegID>31951</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/6/2020 10:45:13 AM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>Fair Fight, Inc. - Federal</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Fair Fight, Inc. - Federal</payeeName>
+      <recipientName>n/a</recipientName>
+      <amount>50.00</amount>
+      <date>09/20/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

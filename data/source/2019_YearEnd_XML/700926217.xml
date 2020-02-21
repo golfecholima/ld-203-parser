@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>Biotechnology Innovation Organization</organizationName>
+  <lobbyistPrefix>Mrs.</lobbyistPrefix>
+  <lobbyistFirstName>Jordan</lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>Layson</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>6245</senateRegID>
+  <houseRegID>32505</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/30/2020 5:34:10 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>National Republican Senatorial Committee</name>
+    </pac>
+    <pac>
+      <name>National Republican Senatorial Committee</name>
+    </pac>
+    <pac>
+      <name>Friends of Chris Carr</name>
+    </pac>
+    <pac>
+      <name>Georgians for Kelly Loeffler</name>
+    </pac>
+    <pac>
+      <name>Tim Scott for Senate</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>National Republican Senatorial Committee</payeeName>
+      <recipientName>National Republican Senatorial Committee</recipientName>
+      <amount>125.00</amount>
+      <date>08/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>National Republican Senatorial Committee</payeeName>
+      <recipientName>National Republican Senatorial Committee</recipientName>
+      <amount>125.00</amount>
+      <date>08/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Friends of Chris Carr</payeeName>
+      <recipientName>Friends of Chris Carr</recipientName>
+      <amount>500.00</amount>
+      <date>11/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Georgians for Kelly Loeffler</payeeName>
+      <recipientName>Georgians for Kelly Loeffler</recipientName>
+      <amount>500.00</amount>
+      <date>12/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Tim Scott for Senate</payeeName>
+      <recipientName>Tim Scott for Senate</recipientName>
+      <amount>500.00</amount>
+      <date>12/16/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

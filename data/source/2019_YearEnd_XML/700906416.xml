@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>Squire Patton Boggs</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>Glenn Willard</contactName>
+  <senateRegID>30906</senateRegID>
+  <houseRegID>31917</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>True</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/16/2020 10:03:57 AM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>
+  </noContributions>
+  <pacs>
+    <pac>
+      <name>Squire Patton Boggs Political Action Committee</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Squire Patton Boggs Political Action Committee</contributorName>
+      <payeeName>Doug Jones for Senate</payeeName>
+      <recipientName>Doug Jones</recipientName>
+      <amount>1000.00</amount>
+      <date>7/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Squire Patton Boggs Political Action Committee</contributorName>
+      <payeeName>RFW PAC</payeeName>
+      <recipientName>Roger Wicker</recipientName>
+      <amount>1500.00</amount>
+      <date>7/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Squire Patton Boggs Political Action Committee</contributorName>
+      <payeeName>Glenn Grothman for Congress</payeeName>
+      <recipientName>Glenn Grothman</recipientName>
+      <amount>1000.00</amount>
+      <date>7/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Squire Patton Boggs Political Action Committee</contributorName>
+      <payeeName>Walden for Congress</payeeName>
+      <recipientName>Greg Walden</recipientName>
+      <amount>1000.00</amount>
+      <date>7/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Squire Patton Boggs Political Action Committee</contributorName>
+      <payeeName>Cindy Hyde-Smith for U.S. Senate</payeeName>
+      <recipientName>Cindy Hyde-Smith</recipientName>
+      <amount>1000.00</amount>
+      <date>7/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Squire Patton Boggs Political Action Committee</contributorName>
+      <payeeName>Garamendi for Congress</payeeName>
+      <recipientName>John Garamendi</recipientName>
+      <amount>1000.00</amount>
+      <date>7/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Squire Patton Boggs Political Action Committee</contributorName>
+      <payeeName>Meadows for Congress</payeeName>
+      <recipientName>Mark Meadows</recipientName>
+      <amount>1000.00</amount>
+      <date>7/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Squire Patton Boggs Political Action Committee</contributorName>
+      <payeeName>Cory Gardner for Senate</payeeName>
+      <recipientName>US Senator Cory Gardner</recipientName>
+      <amount>1000.00</amount>
+      <date>8/2/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Squire Patton Boggs Political Action Committee</contributorName>
+      <payeeName>Lamborn for Congress</payeeName>
+      <recipientName>Doug Lamborn</recipientName>
+      <amount>1500.00</amount>
+      <date>8/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Squire Patton Boggs Political Action Committee</contributorName>
+      <payeeName>Kaine for Virginia</payeeName>
+      <recipientName>Tim Kaine</recipientName>
+      <amount>1000.00</amount>
+      <date>8/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Squire Patton Boggs Political Action Committee</contributorName>
+      <payeeName>Andy Barr for Congress</payeeName>
+      <recipientName>Andy Barr</recipientName>
+      <amount>1000.00</amount>
+      <date>9/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Squire Patton Boggs Political Action Committee</contributorName>
+      <payeeName>Friends of Roy Blunt</payeeName>
+      <recipientName>Roy Blunt</recipientName>
+      <amount>1000.00</amount>
+      <date>9/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Squire Patton Boggs Political Action Committee</contributorName>
+      <payeeName>David Rouzer for Congress</payeeName>
+      <recipientName>David Rouzer</recipientName>
+      <amount>1000.00</amount>
+      <date>9/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Squire Patton Boggs Political Action Committee</contributorName>
+      <payeeName>Perdue Victory</payeeName>
+      <recipientName>David Perdue</recipientName>
+      <amount>5000.00</amount>
+      <date>9/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Squire Patton Boggs Political Action Committee</contributorName>
+      <payeeName>Friends of Rosa DeLauro</payeeName>
+      <recipientName>Rosa DeLauro</recipientName>
+      <amount>1000.00</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Squire Patton Boggs Political Action Committee</contributorName>
+      <payeeName>David Price for Congress</payeeName>
+      <recipientName>David Price</recipientName>
+      <amount>1000.00</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Squire Patton Boggs Political Action Committee</contributorName>
+      <payeeName>Durbin Victory Fund</payeeName>
+      <recipientName>Senator Dick Durbin</recipientName>
+      <amount>5000.00</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Squire Patton Boggs Political Action Committee</contributorName>
+      <payeeName>Steve Chabot for Congress</payeeName>
+      <recipientName>Steve Chabot</recipientName>
+      <amount>1000.00</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Squire Patton Boggs Political Action Committee</contributorName>
+      <payeeName>Dr. Brian Babin for Congress</payeeName>
+      <recipientName>Brian Babin</recipientName>
+      <amount>1000.00</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Squire Patton Boggs Political Action Committee</contributorName>
+      <payeeName>Families for James Lankford</payeeName>
+      <recipientName>James Lankford</recipientName>
+      <amount>2000.00</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Squire Patton Boggs Political Action Committee</contributorName>
+      <payeeName>Palazzo for Congress</payeeName>
+      <recipientName>Steven Palazzo</recipientName>
+      <amount>1000.00</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Squire Patton Boggs Political Action Committee</contributorName>
+      <payeeName>Paul Gosar for Congress</payeeName>
+      <recipientName>Paul Gosar</recipientName>
+      <amount>1000.00</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Squire Patton Boggs Political Action Committee</contributorName>
+      <payeeName>Heinrich Victory Fund</payeeName>
+      <recipientName>Martin Heinrich</recipientName>
+      <amount>2000.00</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Squire Patton Boggs Political Action Committee</contributorName>
+      <payeeName>RFW PAC</payeeName>
+      <recipientName>Roger Wicker</recipientName>
+      <amount>1000.00</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Squire Patton Boggs Political Action Committee</contributorName>
+      <payeeName>Stivers for Congress</payeeName>
+      <recipientName>Steve Stivers</recipientName>
+      <amount>1000.00</amount>
+      <date>10/2/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Squire Patton Boggs Political Action Committee</contributorName>
+      <payeeName>Friends of Dave Joyce</payeeName>
+      <recipientName>Dave Joyce</recipientName>
+      <amount>2500.00</amount>
+      <date>10/7/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Squire Patton Boggs Political Action Committee</contributorName>
+      <payeeName>Drew Ferguson for Congress</payeeName>
+      <recipientName>Drew Ferguson</recipientName>
+      <amount>1000.00</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Squire Patton Boggs Political Action Committee</contributorName>
+      <payeeName>Rick W. Allen for Congress</payeeName>
+      <recipientName>Rick Allen</recipientName>
+      <amount>1000.00</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Squire Patton Boggs Political Action Committee</contributorName>
+      <payeeName>Steil for Wisconsin</payeeName>
+      <recipientName>Congressman Bryan Steil</recipientName>
+      <amount>2500.00</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Squire Patton Boggs Political Action Committee</contributorName>
+      <payeeName>Joe Wilson for Congress</payeeName>
+      <recipientName>Joe Wilson</recipientName>
+      <amount>1000.00</amount>
+      <date>10/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Squire Patton Boggs Political Action Committee</contributorName>
+      <payeeName>Tom Reed for Congress</payeeName>
+      <recipientName>Tom Reed</recipientName>
+      <amount>2500.00</amount>
+      <date>10/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Squire Patton Boggs Political Action Committee</contributorName>
+      <payeeName>David Price for Congress</payeeName>
+      <recipientName>David Price</recipientName>
+      <amount>500.00</amount>
+      <date>10/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Squire Patton Boggs Political Action Committee</contributorName>
+      <payeeName>Collins for Senator</payeeName>
+      <recipientName>Susan Collins</recipientName>
+      <amount>2500.00</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Squire Patton Boggs Political Action Committee</contributorName>
+      <payeeName>Mooney for Congress</payeeName>
+      <recipientName>Alex Mooney</recipientName>
+      <amount>1000.00</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Squire Patton Boggs Political Action Committee</contributorName>
+      <payeeName>Shaheen for Senate</payeeName>
+      <recipientName>Jeanna Shaheen</recipientName>
+      <amount>2000.00</amount>
+      <date>11/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Squire Patton Boggs Political Action Committee</contributorName>
+      <payeeName>Tina Smith for Minnesota</payeeName>
+      <recipientName>Tina Smith</recipientName>
+      <amount>2000.00</amount>
+      <date>11/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Squire Patton Boggs Political Action Committee</contributorName>
+      <payeeName>Catherine Cortez Masto for Senate</payeeName>
+      <recipientName>Sen. Catherine Cortez Masto</recipientName>
+      <amount>1000.00</amount>
+      <date>11/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Squire Patton Boggs Political Action Committee</contributorName>
+      <payeeName>Thom Tillis Committee</payeeName>
+      <recipientName>Thom Tillis</recipientName>
+      <amount>2500.00</amount>
+      <date>11/7/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Squire Patton Boggs Political Action Committee</contributorName>
+      <payeeName>Alaskans for Dan Sullivan</payeeName>
+      <recipientName>Dan Sullivan</recipientName>
+      <amount>1000.00</amount>
+      <date>11/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Squire Patton Boggs Political Action Committee</contributorName>
+      <payeeName>Sanford Bishop for Congress</payeeName>
+      <recipientName>Sanford Bishop</recipientName>
+      <amount>1000.00</amount>
+      <date>11/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Squire Patton Boggs Political Action Committee</contributorName>
+      <payeeName>Friends of Dick Durbin</payeeName>
+      <recipientName>Dick Durbin</recipientName>
+      <amount>5000.00</amount>
+      <date>11/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Squire Patton Boggs Political Action Committee</contributorName>
+      <payeeName>Friends of Michael Guest</payeeName>
+      <recipientName>Michael Guest</recipientName>
+      <amount>1000.00</amount>
+      <date>11/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Squire Patton Boggs Political Action Committee</contributorName>
+      <payeeName>Doug Jones for Senate</payeeName>
+      <recipientName>Doug Jones</recipientName>
+      <amount>3000.00</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Squire Patton Boggs Political Action Committee</contributorName>
+      <payeeName>Blumenthal for Connecticut</payeeName>
+      <recipientName>Senator Richard Blumenthal</recipientName>
+      <amount>1000.00</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Squire Patton Boggs Political Action Committee</contributorName>
+      <payeeName>Cole for Congress</payeeName>
+      <recipientName>Tom Cole</recipientName>
+      <amount>2500.00</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Squire Patton Boggs Political Action Committee</contributorName>
+      <payeeName>Friends of Neal Dunn</payeeName>
+      <recipientName>Neal Dunn</recipientName>
+      <amount>1000.00</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Squire Patton Boggs Political Action Committee</contributorName>
+      <payeeName>Garamendi for Congress</payeeName>
+      <recipientName>John Garamendi</recipientName>
+      <amount>1000.00</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Squire Patton Boggs Political Action Committee</contributorName>
+      <payeeName>Anna Eshoo for Congress</payeeName>
+      <recipientName>Anna Eshoo</recipientName>
+      <amount>1000.00</amount>
+      <date>12/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Squire Patton Boggs Political Action Committee</contributorName>
+      <payeeName>Bill Cassidy for US Senate</payeeName>
+      <recipientName>Bill Cassidy</recipientName>
+      <amount>2500.00</amount>
+      <date>12/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Squire Patton Boggs Political Action Committee</contributorName>
+      <payeeName>Friends of Chris Smith</payeeName>
+      <recipientName>Chris Smith</recipientName>
+      <amount>1000.00</amount>
+      <date>12/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Squire Patton Boggs Political Action Committee</contributorName>
+      <payeeName>Sean Patrick Maloney for Congress</payeeName>
+      <recipientName>Sean Patrick Maloney</recipientName>
+      <amount>1000.00</amount>
+      <date>12/11/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

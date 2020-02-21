@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>PACE, LLP</organizationName>
+  <lobbyistPrefix>Mr.</lobbyistPrefix>
+  <lobbyistFirstName>Devin</lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>Rhinerson</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>30495</senateRegID>
+  <houseRegID>33662</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/29/2020 4:40:43 AM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Fund for the Majority PAC</payeeName>
+      <recipientName>Sen. Dianne Feinstein </recipientName>
+      <amount>500.00</amount>
+      <date>07/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Harley Rouda</payeeName>
+      <recipientName>Harley rouda </recipientName>
+      <amount>100.00</amount>
+      <date>08/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Mike Levin </payeeName>
+      <recipientName>Congressman Mike Levin</recipientName>
+      <amount>100.00</amount>
+      <date>08/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Josh Harder</payeeName>
+      <recipientName>Rep. Josh Harder</recipientName>
+      <amount>100.00</amount>
+      <date>08/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>TJ Cox</payeeName>
+      <recipientName>Rep TJ Cox</recipientName>
+      <amount>100.00</amount>
+      <date>08/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Gil Cisneros </payeeName>
+      <recipientName>Rep. Gil Cisneros </recipientName>
+      <amount>100.00</amount>
+      <date>08/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Rudy Soto</payeeName>
+      <recipientName>Rudy Soto</recipientName>
+      <amount>100.00</amount>
+      <date>11/18/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

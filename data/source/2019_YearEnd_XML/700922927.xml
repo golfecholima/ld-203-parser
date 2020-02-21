@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>Ernst &amp; Young LLP (Washington Council Ernst &amp; Young)</organizationName>
+  <lobbyistPrefix>Mr.</lobbyistPrefix>
+  <lobbyistFirstName>Ryan</lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>Abraham</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>57475</senateRegID>
+  <houseRegID>35185</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/29/2020 10:56:59 AM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Richard E. Neal for Congress</payeeName>
+      <recipientName>Richard E. Neal</recipientName>
+      <amount>500.00</amount>
+      <date>10/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>DelBene for Congress</payeeName>
+      <recipientName>Suzan DelBene</recipientName>
+      <amount>1000.00</amount>
+      <date>11/1/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Jimmy Panetta for Congress</payeeName>
+      <recipientName>Jimmy Panetta</recipientName>
+      <amount>1000.00</amount>
+      <date>9/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Shaheen for Senate</payeeName>
+      <recipientName>Jeanne Shaheen</recipientName>
+      <amount>500.00</amount>
+      <date>9/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Bullock for President</payeeName>
+      <recipientName>Steve Bullock</recipientName>
+      <amount>100.00</amount>
+      <date>9/19/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

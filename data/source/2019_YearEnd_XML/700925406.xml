@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>AT&amp;T Services, Inc. and its affiliates</organizationName>
+  <lobbyistPrefix>Ms.</lobbyistPrefix>
+  <lobbyistFirstName>KATREICE</lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>BANKS</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>34455</senateRegID>
+  <houseRegID>30731</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/30/2020 2:21:08 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Colin Allred for Congress</payeeName>
+      <recipientName>Rep. Colin Allred</recipientName>
+      <amount>500.00</amount>
+      <date>07/02/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Maggie for NH</payeeName>
+      <recipientName>Sen. Maggie Hassan</recipientName>
+      <amount>500.00</amount>
+      <date>07/02/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Freshman Frontline Victory Fund</payeeName>
+      <recipientName>Democratic Members of the DCCC Frontline program</recipientName>
+      <amount>250.00</amount>
+      <date>07/02/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

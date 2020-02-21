@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>The Glover Park Group LLC</organizationName>
+  <lobbyistPrefix>Mr.</lobbyistPrefix>
+  <lobbyistFirstName>PAUL</lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>POTEET</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>86196</senateRegID>
+  <houseRegID>36548</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/30/2020 2:01:58 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>NRCC</payeeName>
+      <recipientName>NRCC</recipientName>
+      <amount>100.00</amount>
+      <date>7/31/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>NRCC</payeeName>
+      <recipientName>NRCC</recipientName>
+      <amount>100.00</amount>
+      <date>8/31/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Rep. Garret Graves</payeeName>
+      <recipientName>Rep. Garret Graves</recipientName>
+      <amount>1500.00</amount>
+      <date>9/23/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>NRCC</payeeName>
+      <recipientName>NRCC</recipientName>
+      <amount>100.00</amount>
+      <date>9/30/19</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

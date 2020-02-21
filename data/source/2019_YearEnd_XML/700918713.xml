@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>Todd Strategy, LLC</organizationName>
+  <lobbyistPrefix>Mr.</lobbyistPrefix>
+  <lobbyistFirstName>Paul</lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>Edattel</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>401103321</senateRegID>
+  <houseRegID>42659</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/22/2020 9:39:59 AM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Bucshon for Congress</payeeName>
+      <recipientName>U.S. Representative Larry Bucshon</recipientName>
+      <amount>250.00</amount>
+      <date>7/22/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Walden for Congress</payeeName>
+      <recipientName>U.S. Representative Greg Walden</recipientName>
+      <amount>1000.00</amount>
+      <date>8/15/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Bilirakis for Congress</payeeName>
+      <recipientName>U.S. Representative Gus Bilirakis</recipientName>
+      <amount>500.00</amount>
+      <date>9/26/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Morgan Griffith for Congress</payeeName>
+      <recipientName>U.S. Representative Morgan Griffith</recipientName>
+      <amount>500.00</amount>
+      <date>9/26/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Mullin for Congress</payeeName>
+      <recipientName>U.S. Representative Markwayne Mullin
+</recipientName>
+      <amount>1000.00</amount>
+      <date>9/26/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Upton for All of Us</payeeName>
+      <recipientName>U.S. Representative Fred Upton</recipientName>
+      <amount>1500.00</amount>
+      <date>9/26/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Walden Victory Fund</payeeName>
+      <recipientName>U.S. Representative Greg Walden</recipientName>
+      <amount>2500.00</amount>
+      <date>9/26/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Buchson for Congress</payeeName>
+      <recipientName>U.S. Representative Larry Bucshon</recipientName>
+      <amount>1750.00</amount>
+      <date>11/3/19</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

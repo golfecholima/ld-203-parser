@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>CITIZENS FINANCIAL GROUP, INC.</organizationName>
+  <lobbyistPrefix>Mr.</lobbyistPrefix>
+  <lobbyistFirstName>KENNETH</lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>ROBINSON</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>293118</senateRegID>
+  <houseRegID>37377</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>I serve as Treasurer of Citizens Financial Group, Inc. Political Action Committee (Citizens PAC), a separate segregated fund. Covered contributions by the PAC during the reporting period are disclosed on Citizens Financial Group's LD- 203.
+</comments>
+  <signedDate>1/29/2020 4:38:45 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>Citizens Financial Group, Inc. Political Action Committee</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Committee to Elect Ayanna Pressley</payeeName>
+      <recipientName>Ayanna Pressley</recipientName>
+      <amount>1000.00</amount>
+      <date>7/16/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Friends of Mark Warner</payeeName>
+      <recipientName>Mark Warner</recipientName>
+      <amount>1000.00</amount>
+      <date>7/29/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>America Works PAC</payeeName>
+      <recipientName>Sen. Sherrod Brown Leadership PAC</recipientName>
+      <amount>1000.00</amount>
+      <date>8/14/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Shaheen for Senate</payeeName>
+      <recipientName>Jeanne Shaheen</recipientName>
+      <amount>1000.00</amount>
+      <date>9/5/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>The Reed Committee</payeeName>
+      <recipientName>Jack Reed</recipientName>
+      <amount>1000.00</amount>
+      <date>9/5/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>America Works PAC</payeeName>
+      <recipientName>Sen Sherrod Brown Leadership PAC</recipientName>
+      <amount>1000.00</amount>
+      <date>9/6/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>America Works PAC</payeeName>
+      <recipientName>Sen. Sherrod Brown Leadership PAC</recipientName>
+      <amount>1000.00</amount>
+      <date>10/15/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Sinema for Arizona</payeeName>
+      <recipientName>Kyrsten Sinema</recipientName>
+      <amount>1000.00</amount>
+      <date>10/15/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Shaheen for Senate</payeeName>
+      <recipientName>Jeanne Shaheen</recipientName>
+      <amount>1000.00</amount>
+      <date>12/3/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>The Cicilline Committee</payeeName>
+      <recipientName>David Cicilline</recipientName>
+      <amount>500.00</amount>
+      <date>12/19/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Kennedy for Massachusetts</payeeName>
+      <recipientName>Joe Kennedy III</recipientName>
+      <amount>1000.00</amount>
+      <date>11/26/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

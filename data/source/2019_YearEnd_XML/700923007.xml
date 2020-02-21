@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>ASSURANT, INC.</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <zipext>
+  </zipext>
+  <contactName>Debra Woodberry</contactName>
+  <senateRegID>65737</senateRegID>
+  <houseRegID>35608</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/29/2020 11:25:03 AM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>ASSURANT INC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ASSURANT INC</contributorName>
+      <payeeName>Friends of Pat Toomey</payeeName>
+      <recipientName>Sen. Patrick Joseph Toomey (R)</recipientName>
+      <amount>1000.00</amount>
+      <date>07/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ASSURANT INC</contributorName>
+      <payeeName>Alamo PAC</payeeName>
+      <recipientName>Sen. John Cornyn (R)</recipientName>
+      <amount>2800.00</amount>
+      <date>07/25/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>Nathanson+Hauck</organizationName>
+  <lobbyistPrefix>Ms.</lobbyistPrefix>
+  <lobbyistFirstName>MELANIE</lobbyistFirstName>
+  <lobbyistMiddleName>JAN</lobbyistMiddleName>
+  <lobbyistLastName>NATHANSON</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>400693064</senateRegID>
+  <houseRegID>41524</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/25/2020 10:38:39 AM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>DSCC</payeeName>
+      <recipientName>Democratic Senatorial Campaign Committee</recipientName>
+      <amount>2825.00</amount>
+      <date>07/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Finkenauer for Congress</payeeName>
+      <recipientName>Representative Abby Finkenauer</recipientName>
+      <amount>2500.00</amount>
+      <date>07/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>DSCC</payeeName>
+      <recipientName>Democratic Senatorial Campaign Committee</recipientName>
+      <amount>2825.00</amount>
+      <date>08/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Bullock for President</payeeName>
+      <recipientName>Governor Steve Bullock</recipientName>
+      <amount>750.00</amount>
+      <date>09/07/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Friends of Don Beyer</payeeName>
+      <recipientName>Representative Don Beyer</recipientName>
+      <amount>2500.00</amount>
+      <date>09/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>DSCC</payeeName>
+      <recipientName>Democratic Senatorial Campaign Committee</recipientName>
+      <amount>2825.00</amount>
+      <date>09/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>M.J. Hegar For Texas</payeeName>
+      <recipientName>M.J. Hegar</recipientName>
+      <amount>2000.00</amount>
+      <date>09/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Durbin Victory Fund</payeeName>
+      <recipientName>Senator Dick Durbin</recipientName>
+      <amount>1000.00</amount>
+      <date>09/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Ruben Gallego for Congress</payeeName>
+      <recipientName>Representative Ruben Gallego</recipientName>
+      <amount>500.00</amount>
+      <date>09/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Jacky Rosen for Nevada</payeeName>
+      <recipientName>Senator Jacky Rosen</recipientName>
+      <amount>1000.00</amount>
+      <date>09/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Katherine Clark for Congress</payeeName>
+      <recipientName>Representative Katherine Clark</recipientName>
+      <amount>2500.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>DSCC</payeeName>
+      <recipientName>Democratic Senatorial Campaign Committee</recipientName>
+      <amount>2825.00</amount>
+      <date>10/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>TIna Smith for Minnesota</payeeName>
+      <recipientName>Senator Tina Smith</recipientName>
+      <amount>3600.00</amount>
+      <date>10/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Debbie Dingell for Congress</payeeName>
+      <recipientName>Representative Debbie Dingell</recipientName>
+      <amount>500.00</amount>
+      <date>10/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Maria Cantwell for Senate</payeeName>
+      <recipientName>Senator Maria Cantwell</recipientName>
+      <amount>1000.00</amount>
+      <date>10/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Scott Peters for Congress</payeeName>
+      <recipientName>Representative Scott Peters</recipientName>
+      <amount>500.00</amount>
+      <date>10/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Steve Horsford for Congress</payeeName>
+      <recipientName>Representative Steve Horsford</recipientName>
+      <amount>500.00</amount>
+      <date>11/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Mikie Sherill for Congress</payeeName>
+      <recipientName>Representative Mikie Sherill</recipientName>
+      <amount>500.00</amount>
+      <date>11/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>DSCC</payeeName>
+      <recipientName>Democratic Senatorial Campaign Committee</recipientName>
+      <amount>2825.00</amount>
+      <date>11/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Lucy McBath for Congress</payeeName>
+      <recipientName>Representative Lucy McBath</recipientName>
+      <amount>2500.00</amount>
+      <date>11/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Warner Victory Fund</payeeName>
+      <recipientName>Senator Mark Warner</recipientName>
+      <amount>1000.00</amount>
+      <date>11/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Linda Sanchez for Congress</payeeName>
+      <recipientName>Representative Linda Sanchez</recipientName>
+      <amount>1000.00</amount>
+      <date>12/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Richard Blumenthal for Senate</payeeName>
+      <recipientName>Senator Richard Blumenthal</recipientName>
+      <amount>2500.00</amount>
+      <date>12/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Doris Matsui for Congress</payeeName>
+      <recipientName>Representative Doris Matsui</recipientName>
+      <amount>500.00</amount>
+      <date>12/19/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

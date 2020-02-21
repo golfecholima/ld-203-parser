@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>Consumer Healthcare Products Association</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <zipext>
+  </zipext>
+  <contactName>David Spangler</contactName>
+  <senateRegID>29403</senateRegID>
+  <houseRegID>31286</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/10/2020 3:21:36 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Buddy PAC</payeeName>
+      <recipientName>Buddy Carter</recipientName>
+      <amount>1000.00</amount>
+      <date>7/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Steve Daines for Montana</payeeName>
+      <recipientName>Steve Daines</recipientName>
+      <amount>1000.00</amount>
+      <date>7/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>LaHood for Congress</payeeName>
+      <recipientName>Darin LaHood</recipientName>
+      <amount>1500.00</amount>
+      <date>9/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Curtis for Congress</payeeName>
+      <recipientName>John Curtis</recipientName>
+      <amount>1000.00</amount>
+      <date>12/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>New Democrat Coalition Action Fund</payeeName>
+      <recipientName>New Democrat Coalition Action Fund</recipientName>
+      <amount>5000.00</amount>
+      <date>12/3/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

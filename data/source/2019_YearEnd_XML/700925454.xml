@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>CONTURA ENERGY, INC.</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <zipext>
+  </zipext>
+  <contactName>Teresa Anderson</contactName>
+  <senateRegID>401104130</senateRegID>
+  <houseRegID>43339</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/30/2020 2:37:25 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>Contura Energy, Inc. Political Action Committee</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Contura Energy, Inc. Political Action Committee</contributorName>
+      <payeeName>Healthcare Freedom Fund</payeeName>
+      <recipientName>Congressman Phil Roe</recipientName>
+      <amount>2500.00</amount>
+      <date>07/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Contura Energy, Inc. Political Action Committee</contributorName>
+      <payeeName>Volunteers for Shimkus</payeeName>
+      <recipientName>Congressman John Shimkus</recipientName>
+      <amount>1000.00</amount>
+      <date>07/08/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Contura Energy, Inc. Political Action Committee</contributorName>
+      <payeeName>Guy for Congress</payeeName>
+      <recipientName>Congressman Guy Reschenthaler</recipientName>
+      <amount>2500.00</amount>
+      <date>07/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Contura Energy, Inc. Political Action Committee</contributorName>
+      <payeeName>Fightin' Ninth PAC</payeeName>
+      <recipientName>Congressman Morgan Griffith</recipientName>
+      <amount>2500.00</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Contura Energy, Inc. Political Action Committee</contributorName>
+      <payeeName>OORAH! Political Action Committee</payeeName>
+      <recipientName>Senator Todd Young</recipientName>
+      <amount>1000.00</amount>
+      <date>07/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Contura Energy, Inc. Political Action Committee</contributorName>
+      <payeeName>MARSHA PAC</payeeName>
+      <recipientName>Senator Marsha Blackburn</recipientName>
+      <amount>2500.00</amount>
+      <date>07/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Contura Energy, Inc. Political Action Committee</contributorName>
+      <payeeName>McConnell Senate Committee</payeeName>
+      <recipientName>Senator Mitch McConnell</recipientName>
+      <amount>10000.00</amount>
+      <date>09/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Contura Energy, Inc. Political Action Committee</contributorName>
+      <payeeName>Citizens for Prosperity in America Today</payeeName>
+      <recipientName>Senator Pat Toomey</recipientName>
+      <amount>2500.00</amount>
+      <date>10/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Contura Energy, Inc. Political Action Committee</contributorName>
+      <payeeName>Badlands PAC</payeeName>
+      <recipientName>Senator Kevin Cramer</recipientName>
+      <amount>2000.00</amount>
+      <date>10/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Contura Energy, Inc. Political Action Committee</contributorName>
+      <payeeName>Healthcare Freedom Fund</payeeName>
+      <recipientName>Congressman Phil Roe</recipientName>
+      <amount>2500.00</amount>
+      <date>10/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Contura Energy, Inc. Political Action Committee</contributorName>
+      <payeeName>Paul Gosar for Congress</payeeName>
+      <recipientName>Congressman Paul Gosar</recipientName>
+      <amount>1000.00</amount>
+      <date>10/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Contura Energy, Inc. Political Action Committee</contributorName>
+      <payeeName>Alex Mooney for Congress</payeeName>
+      <recipientName>Congressman Alex Mooney</recipientName>
+      <amount>2500.00</amount>
+      <date>10/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Contura Energy, Inc. Political Action Committee</contributorName>
+      <payeeName>McKinley for Congress</payeeName>
+      <recipientName>Congressman David McKinley</recipientName>
+      <amount>2000.00</amount>
+      <date>12/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Contura Energy, Inc. Political Action Committee</contributorName>
+      <payeeName>Kevin McCarthy for Congress</payeeName>
+      <recipientName>Congressman Kevin McCarthy</recipientName>
+      <amount>5000.00</amount>
+      <date>12/05/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

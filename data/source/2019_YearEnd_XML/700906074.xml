@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>AJW, Inc.</organizationName>
+  <lobbyistPrefix>Mr.</lobbyistPrefix>
+  <lobbyistFirstName>Christopher</lobbyistFirstName>
+  <lobbyistMiddleName>J</lobbyistMiddleName>
+  <lobbyistLastName>Miller</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <address2>
+  </address2>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>86777</senateRegID>
+  <houseRegID>36583</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/15/2020 11:33:26 AM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Finkenauer for Congress</payeeName>
+      <recipientName>Rep Abbie Finkenauer</recipientName>
+      <amount>500.00</amount>
+      <date>10/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Valley PAC</payeeName>
+      <recipientName>Rep Colin Peterson</recipientName>
+      <amount>1000.00</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Casten for Congress</payeeName>
+      <recipientName>Rep Sean Casten</recipientName>
+      <amount>500.00</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Butterfield for Congress</payeeName>
+      <recipientName>Rep G.K. Butterfield</recipientName>
+      <amount>500.00</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Madison PAC</payeeName>
+      <recipientName>Rep Richard Neal</recipientName>
+      <amount>1000.00</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Friends of Dick Durbin</payeeName>
+      <recipientName>Senator Dick Durbin</recipientName>
+      <amount>500.00</amount>
+      <date>11/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Stabenow for US Senate</payeeName>
+      <recipientName>Senator Debbie Stabenow</recipientName>
+      <amount>1000.00</amount>
+      <date>12/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Friends of Dick Durbin</payeeName>
+      <recipientName>Senator Dick Durbin</recipientName>
+      <amount>500.00</amount>
+      <date>12/16/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

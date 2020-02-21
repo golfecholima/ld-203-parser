@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>The Fertilizer Institute</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <zipext>
+  </zipext>
+  <contactName>Kurt McMillan</contactName>
+  <senateRegID>14462</senateRegID>
+  <houseRegID>31673</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>The July check for Cedric Richmond was reissued to replace a lost check from October 2018.
+The October check for Ted Yoho was returned when the candidate announced he would not run for reelection.</comments>
+  <signedDate>1/22/2020 3:31:18 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>FERT PAC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>FERT PAC</contributorName>
+      <payeeName>DSCC</payeeName>
+      <recipientName>DSCC</recipientName>
+      <amount>5000.00</amount>
+      <date>7/11/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>FERT PAC</contributorName>
+      <payeeName>Friends of Cheri Bustos</payeeName>
+      <recipientName>Cheryl Bustos</recipientName>
+      <amount>1000.00</amount>
+      <date>9/13/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>FERT PAC</contributorName>
+      <payeeName>Friends of John Thune</payeeName>
+      <recipientName>John Thune</recipientName>
+      <amount>1000.00</amount>
+      <date>9/13/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>FERT PAC</contributorName>
+      <payeeName>Jim Costa for Congress</payeeName>
+      <recipientName>James Costa</recipientName>
+      <amount>1000.00</amount>
+      <date>10/4/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>FERT PAC</contributorName>
+      <payeeName>Jimmy Panetta for Congress</payeeName>
+      <recipientName>James Panetta</recipientName>
+      <amount>1000.00</amount>
+      <date>10/4/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>FERT PAC</contributorName>
+      <payeeName>Wicker for Senate</payeeName>
+      <recipientName>Roger Wicker</recipientName>
+      <amount>1000.00</amount>
+      <date>11/7/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>FERT PAC</contributorName>
+      <payeeName>Garret Graves for Senate</payeeName>
+      <recipientName>Garret Graves</recipientName>
+      <amount>1000.00</amount>
+      <date>12/2/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>FERT PAC</contributorName>
+      <payeeName>Richmond for Congress</payeeName>
+      <recipientName>Cedric Richmond</recipientName>
+      <amount>1000.00</amount>
+      <date>07/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>FERT PAC</contributorName>
+      <payeeName>Ted Yoho for Congress</payeeName>
+      <recipientName>Theodore Yoho</recipientName>
+      <amount>1000.00</amount>
+      <date>10/17/19</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

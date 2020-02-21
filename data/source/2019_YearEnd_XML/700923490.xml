@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>American Bakers Association</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <zipext>
+  </zipext>
+  <contactName>Zachary Decker</contactName>
+  <senateRegID>1774</senateRegID>
+  <houseRegID>31029</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/29/2020 3:03:06 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>American Bakers PAC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Bakers PAC</contributorName>
+      <payeeName>McConnell Senate Committee</payeeName>
+      <recipientName>Mitch McConnell</recipientName>
+      <amount>2500.00</amount>
+      <date>10/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Bakers PAC</contributorName>
+      <payeeName>Harris for Congress</payeeName>
+      <recipientName>Andy Harris</recipientName>
+      <amount>1500.00</amount>
+      <date>10/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Bakers PAC</contributorName>
+      <payeeName>Hudson for Congress</payeeName>
+      <recipientName>Richard Hudson</recipientName>
+      <amount>1000.00</amount>
+      <date>10/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Bakers PAC</contributorName>
+      <payeeName>Perdue for Senate</payeeName>
+      <recipientName>David Perdue</recipientName>
+      <amount>2500.00</amount>
+      <date>10/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Bakers PAC</contributorName>
+      <payeeName>Costa for Congress</payeeName>
+      <recipientName>Jim Costa</recipientName>
+      <amount>1000.00</amount>
+      <date>10/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Bakers PAC</contributorName>
+      <payeeName>Buddy Carter for Congress</payeeName>
+      <recipientName>Buddy Carter</recipientName>
+      <amount>1000.00</amount>
+      <date>10/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Bakers PAC</contributorName>
+      <payeeName>The Thom Tillis Committee</payeeName>
+      <recipientName>Thom Tillis</recipientName>
+      <amount>2500.00</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Bakers PAC</contributorName>
+      <payeeName>Virginia Foxx for Congress</payeeName>
+      <recipientName>Virginia Foxx</recipientName>
+      <amount>2500.00</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Bakers PAC</contributorName>
+      <payeeName>Andy Harris for Congress</payeeName>
+      <recipientName>Andy Harris</recipientName>
+      <amount>1000.00</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Bakers PAC</contributorName>
+      <payeeName>Van Taylor Campaign</payeeName>
+      <recipientName>Van Taylor</recipientName>
+      <amount>1000.00</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Bakers PAC</contributorName>
+      <payeeName>Smucker for Congress</payeeName>
+      <recipientName>Lloyd Smucker</recipientName>
+      <amount>1000.00</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Bakers PAC</contributorName>
+      <payeeName>Lummis for Wyoming</payeeName>
+      <recipientName>Cynthia Lummis</recipientName>
+      <amount>1000.00</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Bakers PAC</contributorName>
+      <payeeName>PORT PAC</payeeName>
+      <recipientName>Rob Portman Leadership PAC</recipientName>
+      <amount>2500.00</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Bakers PAC</contributorName>
+      <payeeName>Steve Daines for Montana</payeeName>
+      <recipientName>Steve Daines</recipientName>
+      <amount>2500.00</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>Meeting Expenses</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Krispy Kreme</payeeName>
+      <recipientName>Rep. Chris Pappas (Meet and Greet Event)</recipientName>
+      <amount>171.32</amount>
+      <date>07/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>Meeting Expenses</type>
+      <contributorName>Self</contributorName>
+      <payeeName>American Bakers Assn Conference Room Rental Fee
+</payeeName>
+      <recipientName>Rep. Chris Pappas (Meet and Greet Event)</recipientName>
+      <amount>100.00</amount>
+      <date>07/12/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

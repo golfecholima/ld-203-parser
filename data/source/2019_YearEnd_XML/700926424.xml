@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>Organogenesis Inc.</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>Daniel Brody</contactName>
+  <senateRegID>401103135</senateRegID>
+  <houseRegID>42437</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/30/2020 7:37:15 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>Meeting Expenses</type>
+      <contributorName>Self</contributorName>
+      <payeeName>The New England Council, Inc.</payeeName>
+      <recipientName>Congressman David Cicilline</recipientName>
+      <amount>3542.95</amount>
+      <date>09/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>Meeting Expenses</type>
+      <contributorName>Self</contributorName>
+      <payeeName>The New England Council, Inc.</payeeName>
+      <recipientName>Senator Maggie Hassan</recipientName>
+      <amount>5000.00</amount>
+      <date>10/21/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

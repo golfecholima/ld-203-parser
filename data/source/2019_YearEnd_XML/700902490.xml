@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>Atlantic Strategies Group</organizationName>
+  <lobbyistPrefix>Mrs.</lobbyistPrefix>
+  <lobbyistFirstName>HELEN</lobbyistFirstName>
+  <lobbyistMiddleName>C</lobbyistMiddleName>
+  <lobbyistLastName>SIRACUSE</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>401057985</senateRegID>
+  <houseRegID>42307</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>True</amendment>
+  <comments>
+  </comments>
+  <signedDate>10/30/2019 1:30:32 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Perdue for Senate </payeeName>
+      <recipientName>Senator David Perdue</recipientName>
+      <amount>500.00</amount>
+      <date>9/18/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Mark Warner for Virginia
+</payeeName>
+      <recipientName>Senator Mark Warner </recipientName>
+      <amount>500.00</amount>
+      <date>08/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Capito for West Virginia
+</payeeName>
+      <recipientName>Shelly Moore Capito</recipientName>
+      <amount>500.00</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Defend America Pac
+</payeeName>
+      <recipientName>Sen. Richard Shelby </recipientName>
+      <amount>1000.00</amount>
+      <date>09/15/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

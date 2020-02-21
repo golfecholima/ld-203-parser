@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>National Football League</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>Jocelyn Moore</contactName>
+  <senateRegID>400386789</senateRegID>
+  <houseRegID>40487</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/30/2020 8:13:38 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>Gridiron-PAC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Gridiron-PAC</contributorName>
+      <payeeName>Nancy Pelosi for Congress</payeeName>
+      <recipientName>Nancy Pelosi</recipientName>
+      <amount>5000.00</amount>
+      <date>10/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Gridiron-PAC</contributorName>
+      <payeeName>Donald Payne Jr. for Congress</payeeName>
+      <recipientName>Donald Payne</recipientName>
+      <amount>2500.00</amount>
+      <date>10/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Gridiron-PAC</contributorName>
+      <payeeName>Friends of Jim Clyburn</payeeName>
+      <recipientName>James Clyburn</recipientName>
+      <amount>5000.00</amount>
+      <date>10/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Gridiron-PAC</contributorName>
+      <payeeName>Colin Allred for Congress</payeeName>
+      <recipientName>Colin Allred</recipientName>
+      <amount>2500.00</amount>
+      <date>10/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Gridiron-PAC</contributorName>
+      <payeeName>Cooper for Congress</payeeName>
+      <recipientName>Jim Cooper</recipientName>
+      <amount>2500.00</amount>
+      <date>10/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Gridiron-PAC</contributorName>
+      <payeeName>Crist for Congress</payeeName>
+      <recipientName>Charlie Crist</recipientName>
+      <amount>2500.00</amount>
+      <date>10/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Gridiron-PAC</contributorName>
+      <payeeName>Marc Veasey Congressional Campaign Cmte</payeeName>
+      <recipientName>Marc Veasey</recipientName>
+      <amount>2500.00</amount>
+      <date>10/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Gridiron-PAC</contributorName>
+      <payeeName>Barragan for Congress</payeeName>
+      <recipientName>Nanette Barragan</recipientName>
+      <amount>2500.00</amount>
+      <date>10/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Gridiron-PAC</contributorName>
+      <payeeName>Dwight Evans for Congress</payeeName>
+      <recipientName>Dwight Evans</recipientName>
+      <amount>2500.00</amount>
+      <date>10/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Gridiron-PAC</contributorName>
+      <payeeName>Robin Kelly for Congress</payeeName>
+      <recipientName>Robin Kelly</recipientName>
+      <amount>2500.00</amount>
+      <date>10/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Gridiron-PAC</contributorName>
+      <payeeName>Richmond for Congress</payeeName>
+      <recipientName>Cedric Richmond</recipientName>
+      <amount>2500.00</amount>
+      <date>10/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Gridiron-PAC</contributorName>
+      <payeeName>Brenda Lawrence for Congress</payeeName>
+      <recipientName>Brenda Lawrence</recipientName>
+      <amount>2500.00</amount>
+      <date>10/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Gridiron-PAC</contributorName>
+      <payeeName>Alma Adams for Congress</payeeName>
+      <recipientName>Alma Shealey Adams</recipientName>
+      <amount>2500.00</amount>
+      <date>10/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Gridiron-PAC</contributorName>
+      <payeeName>Kurt Schrader for Congress</payeeName>
+      <recipientName>Kurt Schrader</recipientName>
+      <amount>1000.00</amount>
+      <date>10/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Gridiron-PAC</contributorName>
+      <payeeName>Diana DeGette for Congress Inc.</payeeName>
+      <recipientName>Diana DeGette</recipientName>
+      <amount>5000.00</amount>
+      <date>10/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Gridiron-PAC</contributorName>
+      <payeeName>Pramila for Congress</payeeName>
+      <recipientName>Pramila Jayapal</recipientName>
+      <amount>2500.00</amount>
+      <date>10/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Gridiron-PAC</contributorName>
+      <payeeName>Dutch Ruppersberger for Congress</payeeName>
+      <recipientName>Dutch Ruppersberger</recipientName>
+      <amount>2500.00</amount>
+      <date>10/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Gridiron-PAC</contributorName>
+      <payeeName>Collins for Congress</payeeName>
+      <recipientName>Douglas  Collins</recipientName>
+      <amount>5000.00</amount>
+      <date>10/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Gridiron-PAC</contributorName>
+      <payeeName>Anthony Brown for Congress</payeeName>
+      <recipientName>Anthony Brown</recipientName>
+      <amount>2500.00</amount>
+      <date>10/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Gridiron-PAC</contributorName>
+      <payeeName>Congressional Black Caucus PAC</payeeName>
+      <recipientName>Congressional Black Caucus PAC</recipientName>
+      <amount>5000.00</amount>
+      <date>10/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Gridiron-PAC</contributorName>
+      <payeeName>DSCC</payeeName>
+      <recipientName>Dem Sen Camp Cmte(DSCC)-Federal Acct</recipientName>
+      <amount>15000.00</amount>
+      <date>10/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Gridiron-PAC</contributorName>
+      <payeeName>NRCC</payeeName>
+      <recipientName>Natl Rep Cong Cmte(NRCC)-Federal Acct</recipientName>
+      <amount>15000.00</amount>
+      <date>10/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Gridiron-PAC</contributorName>
+      <payeeName>NRSC</payeeName>
+      <recipientName>Natl Rep Sen Cmte(NRSC)-Federal Acct</recipientName>
+      <amount>15000.00</amount>
+      <date>10/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Gridiron-PAC</contributorName>
+      <payeeName>DCCC</payeeName>
+      <recipientName>Dem Cong Camp Cmte(DCCC)-Federal Acct</recipientName>
+      <amount>15000.00</amount>
+      <date>10/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Gridiron-PAC</contributorName>
+      <payeeName>Bill Cassidy for US Senate</payeeName>
+      <recipientName>William Cassidy</recipientName>
+      <amount>5000.00</amount>
+      <date>12/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Gridiron-PAC</contributorName>
+      <payeeName>Texans for Senator John Cornyn Inc</payeeName>
+      <recipientName>John Cornyn</recipientName>
+      <amount>5000.00</amount>
+      <date>12/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Gridiron-PAC</contributorName>
+      <payeeName>Friends of Dick Durbin</payeeName>
+      <recipientName>Richard Durbin</recipientName>
+      <amount>5000.00</amount>
+      <date>12/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Gridiron-PAC</contributorName>
+      <payeeName>Team Graham Inc.</payeeName>
+      <recipientName>Lindsey Graham</recipientName>
+      <amount>5000.00</amount>
+      <date>12/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Gridiron-PAC</contributorName>
+      <payeeName>The Markey Committee</payeeName>
+      <recipientName>Edward Markey</recipientName>
+      <amount>5000.00</amount>
+      <date>12/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Gridiron-PAC</contributorName>
+      <payeeName>Friends of John Thune</payeeName>
+      <recipientName>John Thune</recipientName>
+      <amount>5000.00</amount>
+      <date>12/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Gridiron-PAC</contributorName>
+      <payeeName>Capito for West Virginia</payeeName>
+      <recipientName>Shelley Moore Capito</recipientName>
+      <amount>2500.00</amount>
+      <date>12/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Gridiron-PAC</contributorName>
+      <payeeName>Chris Coons for Delaware</payeeName>
+      <recipientName>Christopher Coons</recipientName>
+      <amount>2500.00</amount>
+      <date>12/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Gridiron-PAC</contributorName>
+      <payeeName>Steve Daines for Montana</payeeName>
+      <recipientName>Steven Daines</recipientName>
+      <amount>2500.00</amount>
+      <date>12/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Gridiron-PAC</contributorName>
+      <payeeName>Cory Gardner for Senate</payeeName>
+      <recipientName>Cory Gardner</recipientName>
+      <amount>5000.00</amount>
+      <date>12/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Gridiron-PAC</contributorName>
+      <payeeName>Friends of Jim Inhofe Committee</payeeName>
+      <recipientName>James Inhofe</recipientName>
+      <amount>2500.00</amount>
+      <date>12/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Gridiron-PAC</contributorName>
+      <payeeName>Friends of Mark Warner</payeeName>
+      <recipientName>Mark Warner</recipientName>
+      <amount>5000.00</amount>
+      <date>12/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Gridiron-PAC</contributorName>
+      <payeeName>Thom Tillis Committee</payeeName>
+      <recipientName>Thom Tillis</recipientName>
+      <amount>5000.00</amount>
+      <date>12/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>Honorary Expenses</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Congressional Football Game for Charity</payeeName>
+      <recipientName>Mr. Bret Manley and Ms. Carol Kresse (Board Members)</recipientName>
+      <amount>25000.00</amount>
+      <date>07/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Gridiron-PAC</contributorName>
+      <payeeName>Women in Government Relations (WGR)</payeeName>
+      <recipientName>Deborah Dingell; Jacqueline Walorski</recipientName>
+      <amount>5000.00</amount>
+      <date>08/15/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

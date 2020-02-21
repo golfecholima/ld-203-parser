@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>Navigators Global LLC (Formerly DC Navigators, LLC)</organizationName>
+  <lobbyistPrefix>Ms.</lobbyistPrefix>
+  <lobbyistFirstName>Sarah</lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>(Beatty) Rogers</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>85071</senateRegID>
+  <houseRegID>36488</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/23/2020 3:39:24 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Anthony Gonzalez for Congress</payeeName>
+      <recipientName>Rep. Anthony Gonzalez</recipientName>
+      <amount>500.00</amount>
+      <date>7/25/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Carol for Congress</payeeName>
+      <recipientName>Rep. Carol Miller</recipientName>
+      <amount>250.00</amount>
+      <date>09/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Jenniffer for Congress</payeeName>
+      <recipientName>Rep. Jenniffer Gonzalez</recipientName>
+      <amount>250.00</amount>
+      <date>10/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>HERN PAC</payeeName>
+      <recipientName>HERN PAC</recipientName>
+      <amount>20.00</amount>
+      <date>11/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Adrian Smith for Congress</payeeName>
+      <recipientName>Rep. Adrian Smith</recipientName>
+      <amount>250.00</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Collins for Congress</payeeName>
+      <recipientName>Rep. Doug Collins</recipientName>
+      <amount>500.00</amount>
+      <date>12/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Katko for Congress</payeeName>
+      <recipientName>Rep. John Katko</recipientName>
+      <amount>250.00</amount>
+      <date>12/09/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

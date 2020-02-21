@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>Micron Technology, Inc.</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <zipext>
+  </zipext>
+  <contactName>Holly Pataki</contactName>
+  <senateRegID>25192</senateRegID>
+  <houseRegID>33233</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/30/2020 3:53:26 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>Micron Technology, Inc. PAC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Micron Technology, Inc. PAC</contributorName>
+      <payeeName>Common Ground PAC</payeeName>
+      <recipientName>Sen. Tim Kaine
+</recipientName>
+      <amount>5000.00</amount>
+      <date>8/1/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Micron Technology, Inc. PAC</contributorName>
+      <payeeName>Cory Gardner For Senate</payeeName>
+      <recipientName>Sen. Cory Gardner
+</recipientName>
+      <amount>4000.00</amount>
+      <date>8/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Micron Technology, Inc. PAC</contributorName>
+      <payeeName>Project West PAC</payeeName>
+      <recipientName>Sen. Cory Gardner</recipientName>
+      <amount>5000.00</amount>
+      <date>8/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Micron Technology, Inc. PAC</contributorName>
+      <payeeName>Curtis For Congress</payeeName>
+      <recipientName>Rep. John Curtis
+</recipientName>
+      <amount>1500.00</amount>
+      <date>9/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Micron Technology, Inc. PAC</contributorName>
+      <payeeName>Big Sky Opportunity PAC
+</payeeName>
+      <recipientName>Sen. Steve Daines</recipientName>
+      <amount>2500.00</amount>
+      <date>9/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Micron Technology, Inc. PAC</contributorName>
+      <payeeName>Friends of Ben McAdams
+</payeeName>
+      <recipientName>Rep. Ben McAdams
+</recipientName>
+      <amount>2500.00</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Micron Technology, Inc. PAC</contributorName>
+      <payeeName>Rob Wittman For Congress
+</payeeName>
+      <recipientName>Rep. Rob Wittman</recipientName>
+      <amount>2500.00</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Micron Technology, Inc. PAC</contributorName>
+      <payeeName>McCarthy Victory Fund
+</payeeName>
+      <recipientName>McCarthy Victory Fund
+</recipientName>
+      <amount>5000.00</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Micron Technology, Inc. PAC</contributorName>
+      <payeeName>Hoyer's Majority Fund</payeeName>
+      <recipientName>Hoyer's Majority Fund</recipientName>
+      <amount>2500.00</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Micron Technology, Inc. PAC</contributorName>
+      <payeeName>Blumenauer For Congress</payeeName>
+      <recipientName>Rep. Earl Blumenauer</recipientName>
+      <amount>1000.00</amount>
+      <date>12/12/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

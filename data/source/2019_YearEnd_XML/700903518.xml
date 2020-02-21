@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>Allergan USA, Inc.</organizationName>
+  <lobbyistPrefix>Mr.</lobbyistPrefix>
+  <lobbyistFirstName>Robert</lobbyistFirstName>
+  <lobbyistMiddleName>W.</lobbyistMiddleName>
+  <lobbyistLastName>Lively</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>63837</senateRegID>
+  <houseRegID>35518</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>I am the Treasurer of the Allergan, Inc. Political Action Committee. Contributions made by the Allergan, Inc. PAC are disclosed on Allergan USA, Inc.s LD-203.</comments>
+  <signedDate>1/5/2020 6:26:28 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>Allergan, Inc. Political Action Committee</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Lance Gooden for Congress Committee</payeeName>
+      <recipientName>Lance Gooden</recipientName>
+      <amount>240.00</amount>
+      <date>07/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Lance Gooden for Congress Committee</payeeName>
+      <recipientName>Lance Gooden</recipientName>
+      <amount>1000.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

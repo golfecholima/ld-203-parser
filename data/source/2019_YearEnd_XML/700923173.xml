@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>Olsson, Frank, Weeda, Terman &amp; Matz, PC</organizationName>
+  <lobbyistPrefix>Mr.</lobbyistPrefix>
+  <lobbyistFirstName>MARSHALL</lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>MATZ</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>30212</senateRegID>
+  <houseRegID>30804</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>True</amendment>
+  <comments>Check from Olsson Frank Weeda Terman Matz PC Fund for American Values PAC to Re-Election McGovern Committee (Jim McGovern) returned. </comments>
+  <signedDate>1/29/2020 12:54:57 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>Olsson Frank Weeda Terman Matz PC Fund for American Values </name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Friends of Dusty Johnson</payeeName>
+      <recipientName>Dusty Johnson</recipientName>
+      <amount>500.00</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>South Dakota Democratic Party</payeeName>
+      <recipientName>South Dakota Democratic Party</recipientName>
+      <amount>500.00</amount>
+      <date>9/18/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Re-Elect Jim McGovern Committee</payeeName>
+      <recipientName>Jim McGovern</recipientName>
+      <amount>250.00</amount>
+      <date>10/01/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Kristi Noem for Governor</payeeName>
+      <recipientName>Kristi Noem</recipientName>
+      <amount>250.00</amount>
+      <date>10/02/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Scholten4iowa Campaign Committee</payeeName>
+      <recipientName>J.D. Scholten 
+</recipientName>
+      <amount>200.00</amount>
+      <date>10/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Rita Hart for Congress</payeeName>
+      <recipientName>Rita Hart</recipientName>
+      <amount>250.00</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Olsson Frank Weeda Terman Matz PC Fund for American Values </contributorName>
+      <payeeName>Friends of Cheri Bustos</payeeName>
+      <recipientName>Cheri Bustos</recipientName>
+      <amount>1000.00</amount>
+      <date>7/11/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Olsson Frank Weeda Terman Matz PC Fund for American Values </contributorName>
+      <payeeName>Kansas for Marshall</payeeName>
+      <recipientName>Roger Marshall</recipientName>
+      <amount>500.00</amount>
+      <date>7/11/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Olsson Frank Weeda Terman Matz PC Fund for American Values </contributorName>
+      <payeeName>Friends of Rosa DeLauro</payeeName>
+      <recipientName>Rosa DeLauro</recipientName>
+      <amount>500.00</amount>
+      <date>7/12/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Olsson Frank Weeda Terman Matz PC Fund for American Values </contributorName>
+      <payeeName>Friends of Dusty Johnson</payeeName>
+      <recipientName>Dusty Johnson</recipientName>
+      <amount>500.00</amount>
+      <date>9/23/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Olsson Frank Weeda Terman Matz PC Fund for American Values </contributorName>
+      <payeeName>Re-Election McGovern Committee</payeeName>
+      <recipientName>Jim McGovern</recipientName>
+      <amount>500.00</amount>
+      <date>10/1/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Olsson Frank Weeda Terman Matz PC Fund for American Values </contributorName>
+      <payeeName>Mike Kelly for Congress</payeeName>
+      <recipientName>Mike Kelly</recipientName>
+      <amount>500.00</amount>
+      <date>12/2/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Olsson Frank Weeda Terman Matz PC Fund for American Values </contributorName>
+      <payeeName>Rouzer for Congress</payeeName>
+      <recipientName>David Rouzer</recipientName>
+      <amount>1000.00</amount>
+      <date>12/2/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Olsson Frank Weeda Terman Matz PC Fund for American Values </contributorName>
+      <payeeName>Virgin Islands for Plaskett</payeeName>
+      <recipientName>Stacey Plaskett</recipientName>
+      <amount>500.00</amount>
+      <date>12/10/19</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

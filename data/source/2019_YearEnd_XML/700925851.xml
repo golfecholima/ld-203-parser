@@ -1,0 +1,1168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>Southern Company</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <zipext>
+  </zipext>
+  <contactName>MR. H. ADAM LAWRENCE</contactName>
+  <contactPhone>
+  </contactPhone>
+  <senateRegID>295873</senateRegID>
+  <houseRegID>31332</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/30/2020 4:10:05 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>
+  </noContributions>
+  <pacs>
+    <pac>
+      <name>Alabama Power Company Employees Federal PAC</name>
+    </pac>
+    <pac>
+      <name>Georgia Power Company Federal PAC Inc.</name>
+    </pac>
+    <pac>
+      <name>Mississippi Power Company Federal PAC</name>
+    </pac>
+    <pac>
+      <name>Southern Company Employees PAC</name>
+    </pac>
+    <pac>
+      <name>Southern Company-Southern Nuclear Operating Company Inc. PAC</name>
+    </pac>
+    <pac>
+      <name>Southern Company-Southern Company Gas PAC Inc.</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southern Company-Southern Nuclear Operating Company Inc. PAC</contributorName>
+      <payeeName>Tom Rice For Congress</payeeName>
+      <recipientName>Rice, Tom</recipientName>
+      <amount>2500</amount>
+      <date>8/8/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southern Company-Southern Nuclear Operating Company Inc. PAC</contributorName>
+      <payeeName>Walden For Congress</payeeName>
+      <recipientName>Walden, Greg</recipientName>
+      <amount>2500</amount>
+      <date>10/1/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southern Company-Southern Nuclear Operating Company Inc. PAC</contributorName>
+      <payeeName>New Pioneers PAC</payeeName>
+      <recipientName>Walden, Greg</recipientName>
+      <amount>5000</amount>
+      <date>10/1/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southern Company-Southern Nuclear Operating Company Inc. PAC</contributorName>
+      <payeeName>CMR PAC</payeeName>
+      <recipientName>McMorris Rodgers, Cathy</recipientName>
+      <amount>2500</amount>
+      <date>10/1/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southern Company-Southern Nuclear Operating Company Inc. PAC</contributorName>
+      <payeeName>Johnson For Congress</payeeName>
+      <recipientName>Johnson, Bill</recipientName>
+      <amount>1000</amount>
+      <date>10/1/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southern Company-Southern Nuclear Operating Company Inc. PAC</contributorName>
+      <payeeName>Dan Crenshaw For Congress</payeeName>
+      <recipientName>Crenshaw, Daniel</recipientName>
+      <amount>1000</amount>
+      <date>10/1/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southern Company-Southern Nuclear Operating Company Inc. PAC</contributorName>
+      <payeeName>Denali Leadership PAC</payeeName>
+      <recipientName>Murkowski, Lisa</recipientName>
+      <amount>1500</amount>
+      <date>11/7/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southern Company-Southern Nuclear Operating Company Inc. PAC</contributorName>
+      <payeeName>Kurt Schrader For Congress</payeeName>
+      <recipientName>Schrader, Kurt</recipientName>
+      <amount>1500</amount>
+      <date>11/7/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southern Company-Southern Nuclear Operating Company Inc. PAC</contributorName>
+      <payeeName>Latta For Congress</payeeName>
+      <recipientName>Latta, Bob</recipientName>
+      <amount>1000</amount>
+      <date>12/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southern Company-Southern Nuclear Operating Company Inc. PAC</contributorName>
+      <payeeName>Brady For Congress</payeeName>
+      <recipientName>Brady, Kevin</recipientName>
+      <amount>2500</amount>
+      <date>12/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southern Company-Southern Nuclear Operating Company Inc. PAC</contributorName>
+      <payeeName>Tom Rice For Congress</payeeName>
+      <recipientName>Rice, Tom</recipientName>
+      <amount>2500</amount>
+      <date>12/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southern Company Employees PAC</contributorName>
+      <payeeName>Democratic National Committee</payeeName>
+      <recipientName>Democratic National Committee</recipientName>
+      <amount>10000</amount>
+      <date>7/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southern Company Employees PAC</contributorName>
+      <payeeName>Common Ground PAC</payeeName>
+      <recipientName>Kaine, Tim</recipientName>
+      <amount>1500</amount>
+      <date>7/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southern Company Employees PAC</contributorName>
+      <payeeName>Friends Of Cheri Bustos</payeeName>
+      <recipientName>Bustos, Cheri</recipientName>
+      <amount>2500</amount>
+      <date>7/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southern Company Employees PAC</contributorName>
+      <payeeName>Richard E Neal For Congress Committee</payeeName>
+      <recipientName>Neal, Richard</recipientName>
+      <amount>2000</amount>
+      <date>7/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southern Company Employees PAC</contributorName>
+      <payeeName>Deb Fischer For Us Senate Inc</payeeName>
+      <recipientName>Fischer, Deb</recipientName>
+      <amount>1000</amount>
+      <date>7/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southern Company Employees PAC</contributorName>
+      <payeeName>Crawford For Congress</payeeName>
+      <recipientName>Crawford, Rick</recipientName>
+      <amount>1000</amount>
+      <date>7/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southern Company Employees PAC</contributorName>
+      <payeeName>Responsibility and Freedom Work PAC</payeeName>
+      <recipientName>Wicker, Roger</recipientName>
+      <amount>2500</amount>
+      <date>7/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southern Company Employees PAC</contributorName>
+      <payeeName>Fund for a Conservative Future</payeeName>
+      <recipientName>Inhofe, Jim</recipientName>
+      <amount>2500</amount>
+      <date>7/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southern Company Employees PAC</contributorName>
+      <payeeName>Dakota PAC</payeeName>
+      <recipientName>Hoeven, John</recipientName>
+      <amount>2500</amount>
+      <date>7/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southern Company Employees PAC</contributorName>
+      <payeeName>Graves For Congress</payeeName>
+      <recipientName>Graves, Samuel</recipientName>
+      <amount>1000</amount>
+      <date>7/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southern Company Employees PAC</contributorName>
+      <payeeName>Team Graham Inc</payeeName>
+      <recipientName>Graham, Lindsey</recipientName>
+      <amount>1000</amount>
+      <date>7/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southern Company Employees PAC</contributorName>
+      <payeeName>Jimmy Panetta For Congress</payeeName>
+      <recipientName>Panetta, Jimmy</recipientName>
+      <amount>5000</amount>
+      <date>8/8/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southern Company Employees PAC</contributorName>
+      <payeeName>Jason Smith For Congress</payeeName>
+      <recipientName>Smith, Jason</recipientName>
+      <amount>1000</amount>
+      <date>8/8/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southern Company Employees PAC</contributorName>
+      <payeeName>Texans For Jodey Arrington</payeeName>
+      <recipientName>Arrington, Jodey</recipientName>
+      <amount>1000</amount>
+      <date>8/8/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southern Company Employees PAC</contributorName>
+      <payeeName>Bucshon For Congress</payeeName>
+      <recipientName>Bucshon, Larry</recipientName>
+      <amount>1000</amount>
+      <date>8/8/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southern Company Employees PAC</contributorName>
+      <payeeName>Dan Bishop for Congress</payeeName>
+      <recipientName>Bishop, James Daniel</recipientName>
+      <amount>2000</amount>
+      <date>8/8/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southern Company Employees PAC</contributorName>
+      <payeeName>Project West PAC</payeeName>
+      <recipientName>Gardner, Cory</recipientName>
+      <amount>2500</amount>
+      <date>8/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southern Company Employees PAC</contributorName>
+      <payeeName>Tim Scott For Senate</payeeName>
+      <recipientName>Scott, Tim</recipientName>
+      <amount>1000</amount>
+      <date>8/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southern Company Employees PAC</contributorName>
+      <payeeName>Reclaim America PAC</payeeName>
+      <recipientName>Rubio, Marco</recipientName>
+      <amount>2500</amount>
+      <date>9/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southern Company Employees PAC</contributorName>
+      <payeeName>Power PAC of the Edison Electric Institute</payeeName>
+      <recipientName>Power PAC of the Edison Electric Institute</recipientName>
+      <amount>5000</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southern Company Employees PAC</contributorName>
+      <payeeName>Blaine For Congress</payeeName>
+      <recipientName>Luetkemeyer, Blaine</recipientName>
+      <amount>1000</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southern Company Employees PAC</contributorName>
+      <payeeName>Vern Buchanan For Congress</payeeName>
+      <recipientName>Buchanan, Vern</recipientName>
+      <amount>1000</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southern Company Employees PAC</contributorName>
+      <payeeName>Save America PAC</payeeName>
+      <recipientName>Risch, James</recipientName>
+      <amount>5000</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southern Company Employees PAC</contributorName>
+      <payeeName>Elise For Congress</payeeName>
+      <recipientName>Stefanik, Elise</recipientName>
+      <amount>1000</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southern Company Employees PAC</contributorName>
+      <payeeName>Mike Gallagher For Wisconsin</payeeName>
+      <recipientName>Gallagher, Michael</recipientName>
+      <amount>2500</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southern Company Employees PAC</contributorName>
+      <payeeName>Mike Gallagher For Wisconsin</payeeName>
+      <recipientName>Gallagher, Michael</recipientName>
+      <amount>1000</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southern Company Employees PAC</contributorName>
+      <payeeName>Lisa Murkowski For Us Senate</payeeName>
+      <recipientName>Murkowski, Lisa</recipientName>
+      <amount>1000</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southern Company Employees PAC</contributorName>
+      <payeeName>Dirigo PAC</payeeName>
+      <recipientName>Collins, Susan</recipientName>
+      <amount>2500</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southern Company Employees PAC</contributorName>
+      <payeeName>Greg Pence for Congress</payeeName>
+      <recipientName>Pence, Greg</recipientName>
+      <amount>1000</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southern Company Employees PAC</contributorName>
+      <payeeName>William Timmons For Congress</payeeName>
+      <recipientName>Timmons, William</recipientName>
+      <amount>1000</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southern Company Employees PAC</contributorName>
+      <payeeName>Tina Smith For Minnesota</payeeName>
+      <recipientName>Smith, Tina</recipientName>
+      <amount>1000</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southern Company Employees PAC</contributorName>
+      <payeeName>Marsha Blackburn For Senate</payeeName>
+      <recipientName>Blackburn, Marsha</recipientName>
+      <amount>2000</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southern Company Employees PAC</contributorName>
+      <payeeName>Elizabeth Pannill Fletcher For Congress</payeeName>
+      <recipientName>Fletcher, Elizabeth</recipientName>
+      <amount>1000</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southern Company Employees PAC</contributorName>
+      <payeeName>CHC Bold PAC</payeeName>
+      <recipientName>CHC Bold PAC</recipientName>
+      <amount>5000</amount>
+      <date>10/7/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southern Company Employees PAC</contributorName>
+      <payeeName>Collins For Senator</payeeName>
+      <recipientName>Collins, Susan</recipientName>
+      <amount>5000</amount>
+      <date>10/7/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southern Company Employees PAC</contributorName>
+      <payeeName>Ann Wagner For Congress</payeeName>
+      <recipientName>Wagner, Ann</recipientName>
+      <amount>1000</amount>
+      <date>10/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southern Company Employees PAC</contributorName>
+      <payeeName>Kendra Horn For Congress</payeeName>
+      <recipientName>Horn, Kendra</recipientName>
+      <amount>1000</amount>
+      <date>10/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southern Company Employees PAC</contributorName>
+      <payeeName>Mikie Sherrill For Congress</payeeName>
+      <recipientName>Sherrill, Rebecca</recipientName>
+      <amount>1000</amount>
+      <date>10/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southern Company Employees PAC</contributorName>
+      <payeeName>Guy For Congress</payeeName>
+      <recipientName>Reschenthaler, Guy</recipientName>
+      <amount>1000</amount>
+      <date>11/7/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southern Company Employees PAC</contributorName>
+      <payeeName>Republican National Committee</payeeName>
+      <recipientName>Republican National Committee</recipientName>
+      <amount>10000</amount>
+      <date>11/7/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southern Company Employees PAC</contributorName>
+      <payeeName>John Ratcliffe For Congress</payeeName>
+      <recipientName>Ratcliffe, John</recipientName>
+      <amount>2500</amount>
+      <date>12/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southern Company Employees PAC</contributorName>
+      <payeeName>McSally for Senate</payeeName>
+      <recipientName>McSally, Martha</recipientName>
+      <amount>1500</amount>
+      <date>12/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southern Company Employees PAC</contributorName>
+      <payeeName>Russ Fulcher For Idaho</payeeName>
+      <recipientName>Fulcher, Russ</recipientName>
+      <amount>1000</amount>
+      <date>12/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southern Company Employees PAC</contributorName>
+      <payeeName>Tom O'Halleran For Congress</payeeName>
+      <recipientName>O'Halleran, Tom</recipientName>
+      <amount>1000</amount>
+      <date>12/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southern Company Employees PAC</contributorName>
+      <payeeName>Brady For Congress</payeeName>
+      <recipientName>Brady, Kevin</recipientName>
+      <amount>1000</amount>
+      <date>12/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southern Company Employees PAC</contributorName>
+      <payeeName>McKinley For Congress</payeeName>
+      <recipientName>McKinley, David</recipientName>
+      <amount>1000</amount>
+      <date>12/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southern Company Employees PAC</contributorName>
+      <payeeName>Clarke For Congress</payeeName>
+      <recipientName>Clarke, Yvette</recipientName>
+      <amount>1000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southern Company Employees PAC</contributorName>
+      <payeeName>Texans For Jodey Arrington</payeeName>
+      <recipientName>Arrington, Jodey</recipientName>
+      <amount>1000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southern Company Employees PAC</contributorName>
+      <payeeName>Jimmy Panetta For Congress</payeeName>
+      <recipientName>Panetta, Jimmy</recipientName>
+      <amount>5000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southern Company Employees PAC</contributorName>
+      <payeeName>Debbie Dingell For Congress</payeeName>
+      <recipientName>Dingell, Debbie</recipientName>
+      <amount>1500</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southern Company Employees PAC</contributorName>
+      <payeeName>Lahood For Congress</payeeName>
+      <recipientName>LaHood, Darin</recipientName>
+      <amount>1000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southern Company Employees PAC</contributorName>
+      <payeeName>Hudson For Congress</payeeName>
+      <recipientName>Hudson, Richard</recipientName>
+      <amount>2500</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southern Company Employees PAC</contributorName>
+      <payeeName>Georgians For Kelly Loeffler</payeeName>
+      <recipientName>Loeffler, Kelly</recipientName>
+      <amount>2500</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southern Company Employees PAC</contributorName>
+      <payeeName>Bluegrass Committee</payeeName>
+      <recipientName>McConnell, Mitch</recipientName>
+      <amount>5000</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southern Company Employees PAC</contributorName>
+      <payeeName>Jeff Duncan For Congress</payeeName>
+      <recipientName>Duncan, Jeff</recipientName>
+      <amount>1000</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southern Company Employees PAC</contributorName>
+      <payeeName>Joe Wilson For Congress</payeeName>
+      <recipientName>Wilson, Joe</recipientName>
+      <amount>1000</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southern Company Employees PAC</contributorName>
+      <payeeName>Montanans For Tester</payeeName>
+      <recipientName>Tester, Jon</recipientName>
+      <amount>2500</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southern Company Employees PAC</contributorName>
+      <payeeName>McSally for Senate</payeeName>
+      <recipientName>McSally, Martha</recipientName>
+      <amount>1500</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southern Company Employees PAC</contributorName>
+      <payeeName>More Conservatives PAC  - MCPAC</payeeName>
+      <recipientName>McHenry, Patrick</recipientName>
+      <amount>5000</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southern Company Employees PAC</contributorName>
+      <payeeName>Mike Gallagher For Wisconsin</payeeName>
+      <recipientName>Gallagher, Michael</recipientName>
+      <amount>1500</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southern Company Employees PAC</contributorName>
+      <payeeName>Next Century Fund</payeeName>
+      <recipientName>Burr, Richard</recipientName>
+      <amount>4500</amount>
+      <date>12/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southern Company Employees PAC</contributorName>
+      <payeeName>Republican Party of Kentucky - Federal Account</payeeName>
+      <recipientName>Republican Party of Kentucky - Federal Account</recipientName>
+      <amount>5000</amount>
+      <date>12/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southern Company Employees PAC</contributorName>
+      <payeeName>Lance Gooden For Congress</payeeName>
+      <recipientName>Gooden, Lance</recipientName>
+      <amount>1500</amount>
+      <date>12/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southern Company Employees PAC</contributorName>
+      <payeeName>John Ratcliffe For Congress</payeeName>
+      <recipientName>Ratcliffe, John</recipientName>
+      <amount>2500</amount>
+      <date>12/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southern Company Employees PAC</contributorName>
+      <payeeName>Team Hagerty</payeeName>
+      <recipientName>Hagerty, Bill</recipientName>
+      <amount>1500</amount>
+      <date>12/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southern Company Employees PAC</contributorName>
+      <payeeName>McEachin For Congress</payeeName>
+      <recipientName>McEachin, A. Donald</recipientName>
+      <amount>1000</amount>
+      <date>12/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southern Company Employees PAC</contributorName>
+      <payeeName>Promoting Our Republican Team PAC</payeeName>
+      <recipientName>Portman, Rob</recipientName>
+      <amount>5000</amount>
+      <date>12/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southern Company Employees PAC</contributorName>
+      <payeeName>Rounds For Senate</payeeName>
+      <recipientName>Rounds, Mike</recipientName>
+      <amount>1000</amount>
+      <date>12/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southern Company Employees PAC</contributorName>
+      <payeeName>Texans For Senator John Cornyn Inc</payeeName>
+      <recipientName>Cornyn, John</recipientName>
+      <amount>1500</amount>
+      <date>12/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Georgia Power Company Federal PAC Inc.</contributorName>
+      <payeeName>Perdue For Senate</payeeName>
+      <recipientName>Perdue, David</recipientName>
+      <amount>2500</amount>
+      <date>8/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Georgia Power Company Federal PAC Inc.</contributorName>
+      <payeeName>Jody Hice For Congress</payeeName>
+      <recipientName>Hice, Jody</recipientName>
+      <amount>1500</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Georgia Power Company Federal PAC Inc.</contributorName>
+      <payeeName>Rick W. Allen For Congress</payeeName>
+      <recipientName>Allen, Rick</recipientName>
+      <amount>1500</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Georgia Power Company Federal PAC Inc.</contributorName>
+      <payeeName>David Scott For Congress</payeeName>
+      <recipientName>Scott, David</recipientName>
+      <amount>2500</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Georgia Power Company Federal PAC Inc.</contributorName>
+      <payeeName>Georgia PAC</payeeName>
+      <recipientName>Graves, Tom</recipientName>
+      <amount>2500</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Georgia Power Company Federal PAC Inc.</contributorName>
+      <payeeName>Loudermilk For Congress</payeeName>
+      <recipientName>Loudermilk, Barry</recipientName>
+      <amount>1500</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Georgia Power Company Federal PAC Inc.</contributorName>
+      <payeeName>Point PAC, Inc.</payeeName>
+      <recipientName>Ferguson, A. Drew</recipientName>
+      <amount>2500</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Georgia Power Company Federal PAC Inc.</contributorName>
+      <payeeName>Buddy PAC</payeeName>
+      <recipientName>Carter, Buddy</recipientName>
+      <amount>5000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Georgia Power Company Federal PAC Inc.</contributorName>
+      <payeeName>Peach PAC</payeeName>
+      <recipientName>Collins, Doug</recipientName>
+      <amount>5000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Georgia Power Company Federal PAC Inc.</contributorName>
+      <payeeName>John Lewis For Congress</payeeName>
+      <recipientName>Lewis, John</recipientName>
+      <amount>2500</amount>
+      <date>10/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Georgia Power Company Federal PAC Inc.</contributorName>
+      <payeeName>Georgians For Kelly Loeffler</payeeName>
+      <recipientName>Loeffler, Kelly</recipientName>
+      <amount>2500</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Georgia Power Company Federal PAC Inc.</contributorName>
+      <payeeName>Point PAC, Inc.</payeeName>
+      <recipientName>Ferguson, A. Drew</recipientName>
+      <amount>2500</amount>
+      <date>12/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Georgia Power Company Federal PAC Inc.</contributorName>
+      <payeeName>Jody Hice For Congress</payeeName>
+      <recipientName>Hice, Jody</recipientName>
+      <amount>1000</amount>
+      <date>12/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Alabama Power Company Employees Federal PAC</contributorName>
+      <payeeName>State Government Leadership Foundation, The</payeeName>
+      <recipientName>State Government Leadership Foundation, The</recipientName>
+      <amount>10000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Alabama Power Company Employees Federal PAC</contributorName>
+      <payeeName>Robert Aderholt For Congress</payeeName>
+      <recipientName>Aderholt, Robert</recipientName>
+      <amount>5000</amount>
+      <date>8/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Alabama Power Company Employees Federal PAC</contributorName>
+      <payeeName>Together Everyone Realizes Real Impact PAC (TERRI PAC)</payeeName>
+      <recipientName>Sewell, Terri</recipientName>
+      <amount>5000</amount>
+      <date>9/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Alabama Power Company Employees Federal PAC</contributorName>
+      <payeeName>Robert Aderholt For Congress</payeeName>
+      <recipientName>Aderholt, Robert</recipientName>
+      <amount>5000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Alabama Power Company Employees Federal PAC</contributorName>
+      <payeeName>Reaching for a Brighter America PAC</payeeName>
+      <recipientName>Reaching for a Brighter America PAC</recipientName>
+      <amount>5000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Alabama Power Company Employees Federal PAC</contributorName>
+      <payeeName>American Security PAC</payeeName>
+      <recipientName>Rogers, Mike</recipientName>
+      <amount>5000</amount>
+      <date>10/8/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Alabama Power Company Employees Federal PAC</contributorName>
+      <payeeName>Seeking Justice Committee</payeeName>
+      <recipientName>Jones, Doug</recipientName>
+      <amount>5000</amount>
+      <date>11/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Alabama Power Company Employees Federal PAC</contributorName>
+      <payeeName>BYRNE PAC</payeeName>
+      <recipientName>Byrne, Bradley</recipientName>
+      <amount>5000</amount>
+      <date>11/8/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Alabama Power Company Employees Federal PAC</contributorName>
+      <payeeName>Mo Brooks For Congress</payeeName>
+      <recipientName>Brooks, Mo</recipientName>
+      <amount>5000</amount>
+      <date>12/2/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Alabama Power Company Employees Federal PAC</contributorName>
+      <payeeName>Conservative Promises PAC</payeeName>
+      <recipientName>Palmer, Gary</recipientName>
+      <amount>5000</amount>
+      <date>12/2/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Alabama Power Company Employees Federal PAC</contributorName>
+      <payeeName>Make Opportunity Political Action Committee</payeeName>
+      <recipientName>Brooks, Mo</recipientName>
+      <amount>5000</amount>
+      <date>12/2/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Alabama Power Company Employees Federal PAC</contributorName>
+      <payeeName>Friends Of Sessions Senate Committee Inc</payeeName>
+      <recipientName>Sessions, Jefferson</recipientName>
+      <amount>5000</amount>
+      <date>12/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Alabama Power Company Employees Federal PAC</contributorName>
+      <payeeName>Gary Palmer For Congress</payeeName>
+      <recipientName>Palmer, Gary</recipientName>
+      <amount>5000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Alabama Power Company Employees Federal PAC</contributorName>
+      <payeeName>Terri Sewell For Congress</payeeName>
+      <recipientName>Sewell, Terri</recipientName>
+      <amount>2500</amount>
+      <date>7/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Alabama Power Company Employees Federal PAC</contributorName>
+      <payeeName>Jerry Carl for Congress</payeeName>
+      <recipientName>Carl, Jerry</recipientName>
+      <amount>2500</amount>
+      <date>7/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Alabama Power Company Employees Federal PAC</contributorName>
+      <payeeName>Pringle for Congress, Inc.</payeeName>
+      <recipientName>Pringle, Christopher</recipientName>
+      <amount>2500</amount>
+      <date>7/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Alabama Power Company Employees Federal PAC</contributorName>
+      <payeeName>Hightower for Alabama</payeeName>
+      <recipientName>Hightower, Bill</recipientName>
+      <amount>2500</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Alabama Power Company Employees Federal PAC</contributorName>
+      <payeeName>Wes Lambert for Congress</payeeName>
+      <recipientName>Lambert, Douglas</recipientName>
+      <amount>2500</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Alabama Power Company Employees Federal PAC</contributorName>
+      <payeeName>Hightower for Alabama</payeeName>
+      <recipientName>Hightower, Bill</recipientName>
+      <amount>2500</amount>
+      <date>10/1/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Alabama Power Company Employees Federal PAC</contributorName>
+      <payeeName>Wes Lambert for Congress</payeeName>
+      <recipientName>Lambert, Douglas</recipientName>
+      <amount>2500</amount>
+      <date>10/1/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Alabama Power Company Employees Federal PAC</contributorName>
+      <payeeName>Jessica Taylor for Congress, Inc.</payeeName>
+      <recipientName>Taylor, Jessica</recipientName>
+      <amount>2500</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Alabama Power Company Employees Federal PAC</contributorName>
+      <payeeName>Jeff Coleman For Congress, Inc.</payeeName>
+      <recipientName>Coleman, Jeff</recipientName>
+      <amount>2500</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Alabama Power Company Employees Federal PAC</contributorName>
+      <payeeName>Troy King For Congress</payeeName>
+      <recipientName>King, Troy</recipientName>
+      <amount>2500</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Alabama Power Company Employees Federal PAC</contributorName>
+      <payeeName>Barry Moore For Congress</payeeName>
+      <recipientName>Moore, Felix</recipientName>
+      <amount>2500</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Mississippi Power Company Federal PAC</contributorName>
+      <payeeName>Cindy Hyde-Smith for US Senate</payeeName>
+      <recipientName>Hyde-Smith, Cindy</recipientName>
+      <amount>5000</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Mississippi Power Company Federal PAC</contributorName>
+      <payeeName>Secure PAC</payeeName>
+      <recipientName>Thompson, Bennie</recipientName>
+      <amount>5000</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Mississippi Power Company Federal PAC</contributorName>
+      <payeeName>Guest Pac</payeeName>
+      <recipientName>Guest, Michael</recipientName>
+      <amount>2500</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southern Company-Southern Company Gas PAC Inc.</contributorName>
+      <payeeName>ChicagoLand Operators Joint Labor-Management PAC</payeeName>
+      <recipientName>ChicagoLand Operators Joint Labor-Management PAC</recipientName>
+      <amount>15000</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southern Company-Southern Company Gas PAC Inc.</contributorName>
+      <payeeName>Rodney Davis For Congress</payeeName>
+      <recipientName>Davis, Rodney</recipientName>
+      <amount>5000</amount>
+      <date>8/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southern Company-Southern Company Gas PAC Inc.</contributorName>
+      <payeeName>Buddy Carter For Congress</payeeName>
+      <recipientName>Carter, Buddy</recipientName>
+      <amount>2500</amount>
+      <date>7/8/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southern Company-Southern Company Gas PAC Inc.</contributorName>
+      <payeeName>Chuck Fleischmann For Congress Committee, Inc.</payeeName>
+      <recipientName>Fleischmann, Chuck</recipientName>
+      <amount>2500</amount>
+      <date>7/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southern Company-Southern Company Gas PAC Inc.</contributorName>
+      <payeeName>Kinzinger For Congress</payeeName>
+      <recipientName>Kinzinger, Adam</recipientName>
+      <amount>2500</amount>
+      <date>8/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southern Company-Southern Company Gas PAC Inc.</contributorName>
+      <payeeName>Tammy For Illinois</payeeName>
+      <recipientName>Duckworth, Tammy</recipientName>
+      <amount>2500</amount>
+      <date>9/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southern Company-Southern Company Gas PAC Inc.</contributorName>
+      <payeeName>Perimeter PAC</payeeName>
+      <recipientName>Duckworth, Tammy</recipientName>
+      <amount>2500</amount>
+      <date>9/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southern Company-Southern Company Gas PAC Inc.</contributorName>
+      <payeeName>Loudermilk For Congress</payeeName>
+      <recipientName>Loudermilk, Barry</recipientName>
+      <amount>2500</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southern Company-Southern Company Gas PAC Inc.</contributorName>
+      <payeeName>Sanford Bishop For Congress</payeeName>
+      <recipientName>Bishop, Sanford</recipientName>
+      <amount>2500</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southern Company-Southern Company Gas PAC Inc.</contributorName>
+      <payeeName>Collins For Congress</payeeName>
+      <recipientName>Collins, Doug</recipientName>
+      <amount>2500</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southern Company-Southern Company Gas PAC Inc.</contributorName>
+      <payeeName>Austin Scott For Congress Inc</payeeName>
+      <recipientName>Scott, Austin</recipientName>
+      <amount>2500</amount>
+      <date>12/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southern Company-Southern Company Gas PAC Inc.</contributorName>
+      <payeeName>Rick W. Allen For Congress</payeeName>
+      <recipientName>Allen, Rick</recipientName>
+      <amount>2500</amount>
+      <date>12/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southern Company-Southern Company Gas PAC Inc.</contributorName>
+      <payeeName>Jody Hice For Congress</payeeName>
+      <recipientName>Hice, Jody</recipientName>
+      <amount>2500</amount>
+      <date>12/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southern Company-Southern Company Gas PAC Inc.</contributorName>
+      <payeeName>Chuck Fleischmann For Congress Committee, Inc.</payeeName>
+      <recipientName>Fleischmann, Chuck</recipientName>
+      <amount>2500</amount>
+      <date>12/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southern Company-Southern Company Gas PAC Inc.</contributorName>
+      <payeeName>Graves For Congress</payeeName>
+      <recipientName>Graves, Samuel</recipientName>
+      <amount>2500</amount>
+      <date>12/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southern Company-Southern Company Gas PAC Inc.</contributorName>
+      <payeeName>Bucshon For Congress</payeeName>
+      <recipientName>Bucshon, Larry</recipientName>
+      <amount>2500</amount>
+      <date>12/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southern Company-Southern Company Gas PAC Inc.</contributorName>
+      <payeeName>Graves For Congress</payeeName>
+      <recipientName>Graves, Tom</recipientName>
+      <amount>1500</amount>
+      <date>8/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southern Company-Southern Company Gas PAC Inc.</contributorName>
+      <payeeName>Crawford For Congress</payeeName>
+      <recipientName>Crawford, Rick</recipientName>
+      <amount>1000</amount>
+      <date>12/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southern Company-Southern Company Gas PAC Inc.</contributorName>
+      <payeeName>Upton For All Of Us</payeeName>
+      <recipientName>Upton, Frederick</recipientName>
+      <amount>1000</amount>
+      <date>12/11/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

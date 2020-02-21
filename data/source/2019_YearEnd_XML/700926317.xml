@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>Chenega Corporation</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <zipext>
+  </zipext>
+  <contactName>Douglas Fuller</contactName>
+  <senateRegID>400316482</senateRegID>
+  <houseRegID>40238</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/30/2020 6:08:30 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>Chenega PAC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Chenega PAC</contributorName>
+      <payeeName>Lisa Murkowski for Senate</payeeName>
+      <recipientName>Sen. Lisa Murkowski</recipientName>
+      <amount>1000.00</amount>
+      <date>10/16/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Sullivan for US Senate</payeeName>
+      <recipientName>Sen. Dan Sullivan</recipientName>
+      <amount>2500.00</amount>
+      <date>8/13/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Alaskans for Don Young Inc.</payeeName>
+      <recipientName>Hon. Don Young</recipientName>
+      <amount>1000.00</amount>
+      <date>9/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Alaskans for Don Young</payeeName>
+      <recipientName>Hon. Don Young</recipientName>
+      <amount>2500.00</amount>
+      <date>11/19/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Friends of Jim Inhofe</payeeName>
+      <recipientName>Sen. Jim Inhofe</recipientName>
+      <amount>1000.00</amount>
+      <date>9/17/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Tony Gonzales for Congress</payeeName>
+      <recipientName>Tony Gonzales</recipientName>
+      <amount>2000.00</amount>
+      <date>12/18/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>True North PAC</payeeName>
+      <recipientName>Sen. Dan Sullivan</recipientName>
+      <amount>1500.00</amount>
+      <date>11/5/19</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

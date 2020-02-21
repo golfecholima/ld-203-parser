@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>Nelnet, Inc.</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>SARA DAVIS</contactName>
+  <contactPhone>
+  </contactPhone>
+  <senateRegID>39017</senateRegID>
+  <houseRegID>32478</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/22/2020 12:07:49 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>NELNET PAC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Nebraska Sandhills PAC</payeeName>
+      <recipientName>Nebraska Sandhills PAC</recipientName>
+      <amount>5000.00</amount>
+      <date>7/9/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Perlmutter For Congress</payeeName>
+      <recipientName>Mr. Edwin Perlmutter</recipientName>
+      <amount>2500.00</amount>
+      <date>7/9/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Nebraska Republican Party</payeeName>
+      <recipientName>Nebraska Republican Party</recipientName>
+      <amount>2500.00</amount>
+      <date>9/17/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Tim Clare for Regent</payeeName>
+      <recipientName>Tim Clare</recipientName>
+      <amount>1000.00</amount>
+      <date>9/8/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Martin Heinrich For Senate</payeeName>
+      <recipientName>Sen. Martin Heinrich</recipientName>
+      <amount>1000.00</amount>
+      <date>10/15/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Martin Heinrich for Senate</payeeName>
+      <recipientName>Sen. Martin Heinrich</recipientName>
+      <amount>3000.00</amount>
+      <date>10/15/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Guthrie for Congress</payeeName>
+      <recipientName>Rep. Brett Guthrie</recipientName>
+      <amount>1000.00</amount>
+      <date>11/19/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Jeff Fortenberry for United States Congress</payeeName>
+      <recipientName>Rep. Jeff Fortenberry</recipientName>
+      <amount>2500.00</amount>
+      <date>12/04/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Great Schools for Great Children</payeeName>
+      <recipientName>Great Schools for Great Children</recipientName>
+      <amount>10000.00</amount>
+      <date>12/12/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Linehan for Legislature</payeeName>
+      <recipientName>Linehan for Legislature</recipientName>
+      <amount>250.00</amount>
+      <date>12/3/19</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

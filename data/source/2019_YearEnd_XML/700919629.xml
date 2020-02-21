@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>ARKEMA INC.</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>MRS. MARSHA J. SMITH</contactName>
+  <senateRegID>13370</senateRegID>
+  <houseRegID>30434</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/23/2020 12:53:41 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>Arkema Political Action Committee</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Arkema Political Action Committee</contributorName>
+      <payeeName>Dr. Brian Babin for Congress</payeeName>
+      <recipientName>Representative Brian Babin</recipientName>
+      <amount>1000.00</amount>
+      <date>7/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Arkema Political Action Committee</contributorName>
+      <payeeName>Ralph Norman for Congress</payeeName>
+      <recipientName>Representative Ralph Norman</recipientName>
+      <amount>1000.00</amount>
+      <date>7/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Arkema Political Action Committee</contributorName>
+      <payeeName>Volunteers for Shimkus</payeeName>
+      <recipientName>Representative John Shimkus</recipientName>
+      <amount>1000.00</amount>
+      <date>7/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Arkema Political Action Committee</contributorName>
+      <payeeName>Common Values PAC</payeeName>
+      <recipientName>Senator John Barrasso</recipientName>
+      <amount>1000.00</amount>
+      <date>7/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Arkema Political Action Committee</contributorName>
+      <payeeName>Brian Fitzpatrick for Congress</payeeName>
+      <recipientName>Representative Brian Fitzpatrick</recipientName>
+      <amount>1000.00</amount>
+      <date>9/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Arkema Political Action Committee</contributorName>
+      <payeeName>Chrissy Houlahan for Congress</payeeName>
+      <recipientName>Representative Chrissy Houlahan</recipientName>
+      <amount>1000.00</amount>
+      <date>9/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Arkema Political Action Committee</contributorName>
+      <payeeName>George Holding for Congress</payeeName>
+      <recipientName>Representative George Holding</recipientName>
+      <amount>1000.00</amount>
+      <date>9/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Arkema Political Action Committee</contributorName>
+      <payeeName>MAD 4 PA PAC</payeeName>
+      <recipientName>Representative Madeleine Dean</recipientName>
+      <amount>1000.00</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Arkema Political Action Committee</contributorName>
+      <payeeName>Ron Johnson for Senate</payeeName>
+      <recipientName>Senator Ron Johnson</recipientName>
+      <amount>1000.00</amount>
+      <date>10/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Arkema Political Action Committee</contributorName>
+      <payeeName>Chris Coons for Delaware</payeeName>
+      <recipientName>Senator Chris Coons</recipientName>
+      <amount>1000.00</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Arkema Political Action Committee</contributorName>
+      <payeeName>Donald Norcross for Congress</payeeName>
+      <recipientName>Representative Donald Norcross</recipientName>
+      <amount>1000.00</amount>
+      <date>10/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Arkema Political Action Committee</contributorName>
+      <payeeName>Tim Scott for Senate</payeeName>
+      <recipientName>Senator Tim Scott</recipientName>
+      <amount>1000.00</amount>
+      <date>11/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Arkema Political Action Committee</contributorName>
+      <payeeName>Garret Graves for Congress</payeeName>
+      <recipientName>Representative Garret Graves</recipientName>
+      <amount>1000.00</amount>
+      <date>11/19/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

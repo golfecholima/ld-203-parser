@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>American Gastroenterological Association</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>MS. KATHLEEN TEIXEIRA</contactName>
+  <senateRegID>59650</senateRegID>
+  <houseRegID>33784</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/29/2020 5:12:46 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>AGA PAC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AGA PAC</contributorName>
+      <payeeName>Committee to Re-Elect Nydia Velazquez to Congress</payeeName>
+      <recipientName>Rep. Nydia Velazquez</recipientName>
+      <amount>1000.00</amount>
+      <date>09/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AGA PAC</contributorName>
+      <payeeName>Continuing America's Strength and Security PAC</payeeName>
+      <recipientName>Sen. Bill Cassidy </recipientName>
+      <amount>1000.00</amount>
+      <date>09/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AGA PAC</contributorName>
+      <payeeName>Donald M. Payne Jr. for Congress</payeeName>
+      <recipientName>Rep. Donald Payne Jr.</recipientName>
+      <amount>1000.00</amount>
+      <date>09/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AGA PAC</contributorName>
+      <payeeName>Mike Thompson for Congress</payeeName>
+      <recipientName>Rep. Mike Thompson</recipientName>
+      <amount>2500.00</amount>
+      <date>09/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AGA PAC</contributorName>
+      <payeeName>Schakowsky for Congress</payeeName>
+      <recipientName>Rep. Jan Schakowsky</recipientName>
+      <amount>1000.00</amount>
+      <date>10/22/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

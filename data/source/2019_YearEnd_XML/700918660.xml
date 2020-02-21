@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>CMS ENERGY CORP</organizationName>
+  <lobbyistPrefix>Mrs.</lobbyistPrefix>
+  <lobbyistFirstName>Amy</lobbyistFirstName>
+  <lobbyistMiddleName>Sandgren</lobbyistMiddleName>
+  <lobbyistLastName>Plaster</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>9578</senateRegID>
+  <houseRegID>31130</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>I participate in the governance of CMS Energy Corp. Employees for Better Government, a connected PAC.</comments>
+  <signedDate>1/21/2020 10:09:41 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>CMS Energy Corp. Employees for Better Government PAC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Gary Peters for Senate</payeeName>
+      <recipientName>Sen. Gary Peters</recipientName>
+      <amount>500.00</amount>
+      <date>07/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Tim Walberg  for Congress</payeeName>
+      <recipientName>Rep. Tim Walberg</recipientName>
+      <amount>500.00</amount>
+      <date>08/22/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

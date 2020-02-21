@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>Ogilvy Government Relations</organizationName>
+  <lobbyistPrefix>Mr.</lobbyistPrefix>
+  <lobbyistFirstName>Dean</lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>Aguillen</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>48827</senateRegID>
+  <houseRegID>34528</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/23/2020 5:44:36 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Jaime Harrison for US Senate</payeeName>
+      <recipientName>Jaime Harrison</recipientName>
+      <amount>250.00</amount>
+      <date>07/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Castro for Congress</payeeName>
+      <recipientName>Joaquin Castro </recipientName>
+      <amount>500.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Mike Levin for Congress</payeeName>
+      <recipientName>Mike Levin</recipientName>
+      <amount>500.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Candace for 24</payeeName>
+      <recipientName>Candace Valenzuela</recipientName>
+      <amount>500.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Gallego for Arizona</payeeName>
+      <recipientName>Ruben Gallego</recipientName>
+      <amount>2500.00</amount>
+      <date>11/07/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Pineapple PAC</payeeName>
+      <recipientName>Mazie Hirono</recipientName>
+      <amount>500.00</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Georgette Gomez for Congress</payeeName>
+      <recipientName>Georgette Gomez</recipientName>
+      <amount>1000.00</amount>
+      <date>12/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Texans for Henry Cuellar</payeeName>
+      <recipientName>Henry Cuellar</recipientName>
+      <amount>1000.00</amount>
+      <date>12/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Debbie Wasserman Schultz for Congress</payeeName>
+      <recipientName>Debbie Wasserman Schultz</recipientName>
+      <amount>1000.00</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Elizabeth Pannill Fletcher for Congress</payeeName>
+      <recipientName>Elizabeth Pannill Fletcher</recipientName>
+      <amount>250.00</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Richmond for Congress</payeeName>
+      <recipientName>Cedric Richmond</recipientName>
+      <amount>500.00</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Debbie for Congress</payeeName>
+      <recipientName>Debbie Mucarsel-Powell</recipientName>
+      <amount>500.00</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Candace for 24</payeeName>
+      <recipientName>Candace Valenzuela</recipientName>
+      <amount>250.00</amount>
+      <date>12/31/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

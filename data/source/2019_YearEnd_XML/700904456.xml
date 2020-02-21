@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>RANDALL DAVIS ASSOCIATES LLC</organizationName>
+  <lobbyistPrefix>Mr.</lobbyistPrefix>
+  <lobbyistFirstName>RANDALL</lobbyistFirstName>
+  <lobbyistMiddleName>E</lobbyistMiddleName>
+  <lobbyistLastName>DAVIS</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>401105112</senateRegID>
+  <houseRegID>44278</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/8/2020 9:55:23 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Tim Walberg for Congress</payeeName>
+      <recipientName>Congressman Tim Walberg</recipientName>
+      <amount>1000.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Upton for All of Us</payeeName>
+      <recipientName>Congressman Fred Upton</recipientName>
+      <amount>2000.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Peter Meijer for Congress</payeeName>
+      <recipientName>Peter Meijer</recipientName>
+      <amount>500.00</amount>
+      <date>11/20/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

@@ -1,0 +1,1814 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>Pfizer, Inc.</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <zipext>
+  </zipext>
+  <contactName>Barbara Bonfiglio</contactName>
+  <senateRegID>31326</senateRegID>
+  <houseRegID>31354</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/30/2020 11:21:31 AM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>PFIZER INC. PAC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>Honorary Expenses</type>
+      <contributorName>Self</contributorName>
+      <payeeName>U.S. Embassy Israel</payeeName>
+      <recipientName>David Friedman</recipientName>
+      <amount>5000.00</amount>
+      <date>08/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>Honorary Expenses</type>
+      <contributorName>Self</contributorName>
+      <payeeName>U.S. Embassy Romania</payeeName>
+      <recipientName>Hans Klemm</recipientName>
+      <amount>6400.00</amount>
+      <date>07/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>Honorary Expenses</type>
+      <contributorName>Self</contributorName>
+      <payeeName>U.S. Embassy Croatia</payeeName>
+      <recipientName>W. Robert Kohorst</recipientName>
+      <amount>1000.00</amount>
+      <date>07/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>Honorary Expenses</type>
+      <contributorName>Self</contributorName>
+      <payeeName>U.S. Embassy Poland</payeeName>
+      <recipientName>Georgette Mosbacher</recipientName>
+      <amount>1300.00</amount>
+      <date>07/03/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Friends Of Jahana Hayes</payeeName>
+      <recipientName>Rep. Jahana Hayes</recipientName>
+      <amount>-1000</amount>
+      <date>7/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>DNC Services Corporation/Democratic National Committee</payeeName>
+      <recipientName>DNC Services Corporation/Democratic National Committee</recipientName>
+      <amount>-15000</amount>
+      <date>7/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>DNC Services Corporation/Democratic National Committee</payeeName>
+      <recipientName>DNC Services Corporation/Democratic National Committee</recipientName>
+      <amount>15000</amount>
+      <date>7/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Bonamici For Congress</payeeName>
+      <recipientName>Rep. Suzanne Marie Bonamici</recipientName>
+      <amount>2000</amount>
+      <date>7/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Bonnie Watson Coleman For Congress</payeeName>
+      <recipientName>Rep. Bonnie Watson Coleman</recipientName>
+      <amount>1000</amount>
+      <date>7/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Common Values PAC</payeeName>
+      <recipientName>Sen. John Anthony Barrasso</recipientName>
+      <amount>2500</amount>
+      <date>7/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Democrats Win Seats (DWS PAC)</payeeName>
+      <recipientName>Rep. Debbie Wasserman Schultz</recipientName>
+      <amount>2500</amount>
+      <date>7/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>DSCC (Building Fund)</payeeName>
+      <recipientName>DSCC (Building Fund)</recipientName>
+      <amount>5000</amount>
+      <date>7/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Friends Of Mark Warner</payeeName>
+      <recipientName>Sen. Mark Robert Warner</recipientName>
+      <amount>2500</amount>
+      <date>7/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>George Holding For Congress Inc.</payeeName>
+      <recipientName>Rep. George E. Holding</recipientName>
+      <amount>2500</amount>
+      <date>7/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Healthcare Freedom Fund</payeeName>
+      <recipientName>Rep. David Philip Roe</recipientName>
+      <amount>2500</amount>
+      <date>7/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>House Republican Campaign Committee</payeeName>
+      <recipientName>House Republican Campaign Committee</recipientName>
+      <amount>1000</amount>
+      <date>7/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Jim Jordan For Congress</payeeName>
+      <recipientName>Rep. James Daniel Jordan</recipientName>
+      <amount>5000</amount>
+      <date>7/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Lisa Blunt Rochester For Congress</payeeName>
+      <recipientName>Rep. Lisa Blunt Rochester</recipientName>
+      <amount>1000</amount>
+      <date>7/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Making Business Excel Political Action Committee</payeeName>
+      <recipientName>Sen. Michael Bradley Enzi</recipientName>
+      <amount>2000</amount>
+      <date>7/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Marcia Fudge For Congress</payeeName>
+      <recipientName>Rep. Marcia Louise Fudge</recipientName>
+      <amount>1000</amount>
+      <date>7/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Mike Thompson For Congress</payeeName>
+      <recipientName>Rep. Michael C. Thompson</recipientName>
+      <amount>1000</amount>
+      <date>7/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Minnesota Dfl Senate Caucus</payeeName>
+      <recipientName>Minnesota Dfl Senate Caucus</recipientName>
+      <amount>1000</amount>
+      <date>7/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Minnesota House Dfl Caucus</payeeName>
+      <recipientName>Minnesota House Dfl Caucus</recipientName>
+      <amount>1000</amount>
+      <date>7/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>NRSC (Building Fund)</payeeName>
+      <recipientName>NRSC (Building Fund)</recipientName>
+      <amount>5000</amount>
+      <date>7/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Perimeter PAC</payeeName>
+      <recipientName>Sen. L. Tammy Duckworth</recipientName>
+      <amount>2500</amount>
+      <date>7/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Preserving America's Traditions (PATPAC)</payeeName>
+      <recipientName>Sen. Pat Roberts</recipientName>
+      <amount>2500</amount>
+      <date>7/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Senate Victory PAC</payeeName>
+      <recipientName>Senate Victory PAC</recipientName>
+      <amount>5000</amount>
+      <date>7/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Steve Daines For Montana</payeeName>
+      <recipientName>Sen. Steve David Daines</recipientName>
+      <amount>1000</amount>
+      <date>7/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>The Hawkeye PAC</payeeName>
+      <recipientName>Sen. Charles E. Grassley</recipientName>
+      <amount>1000</amount>
+      <date>7/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Upton For All Of Us</payeeName>
+      <recipientName>Rep. Frederick Stephen Upton</recipientName>
+      <amount>5000</amount>
+      <date>7/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>21St Century Majority Fund</payeeName>
+      <recipientName>Johnny H. Isakson</recipientName>
+      <amount>2500</amount>
+      <date>8/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Barragan For Congress</payeeName>
+      <recipientName>Rep. Nanette Diaz Barragan</recipientName>
+      <amount>1000</amount>
+      <date>8/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Butterfield For Congress</payeeName>
+      <recipientName>Rep. George Kenneth Butterfield, Jr.</recipientName>
+      <amount>1000</amount>
+      <date>8/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Citizens For Waters</payeeName>
+      <recipientName>Rep. Maxine Waters</recipientName>
+      <amount>1000</amount>
+      <date>8/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Connecticut Republican Party</payeeName>
+      <recipientName>Connecticut Republican Party</recipientName>
+      <amount>5000</amount>
+      <date>8/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Curtis For Congress</payeeName>
+      <recipientName>Rep. John R. Curtis</recipientName>
+      <amount>1000</amount>
+      <date>8/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>DSCC (Building Fund)</payeeName>
+      <recipientName>DSCC (Building Fund)</recipientName>
+      <amount>10000</amount>
+      <date>8/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Engel For Congress</payeeName>
+      <recipientName>Rep. Eliot Lance Engel</recipientName>
+      <amount>1000</amount>
+      <date>8/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Hoyer For Congress</payeeName>
+      <recipientName>Rep. Steny Hamilton Hoyer</recipientName>
+      <amount>5000</amount>
+      <date>8/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Jason Smith For Congress</payeeName>
+      <recipientName>Rep. Jason Thomas Smith</recipientName>
+      <amount>2500</amount>
+      <date>8/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Keystone America PAC</payeeName>
+      <recipientName>Sen. Robert P. Casey, Jr.</recipientName>
+      <amount>2500</amount>
+      <date>8/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Liz Cheney For Wyoming</payeeName>
+      <recipientName>Rep. Elizabeth Cheney</recipientName>
+      <amount>1000</amount>
+      <date>8/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Massachusetts Democratic State Committee</payeeName>
+      <recipientName>Massachusetts Democratic State Committee</recipientName>
+      <amount>5000</amount>
+      <date>8/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Massachusetts Republican Party</payeeName>
+      <recipientName>Massachusetts Republican Party</recipientName>
+      <amount>5000</amount>
+      <date>8/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Mikie Sherrill For Congress</payeeName>
+      <recipientName>Rep. Mikie Sherrill</recipientName>
+      <amount>500</amount>
+      <date>8/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Mikie Sherrill For Congress</payeeName>
+      <recipientName>Rep. Mikie Sherrill</recipientName>
+      <amount>500</amount>
+      <date>8/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Moran For Kansas</payeeName>
+      <recipientName>Sen. Jerry W. Moran</recipientName>
+      <amount>5000</amount>
+      <date>8/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Neal Victory Fund</payeeName>
+      <recipientName>Neal Victory Fund</recipientName>
+      <amount>2500</amount>
+      <date>8/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Next Century Fund</payeeName>
+      <recipientName>Sen. Richard M. Burr</recipientName>
+      <amount>2500</amount>
+      <date>8/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>NRCC (Recount Fund)</payeeName>
+      <recipientName>NRCC (Recount Fund)</recipientName>
+      <amount>5500</amount>
+      <date>8/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>NRSC (Building Fund)</payeeName>
+      <recipientName>NRSC (Building Fund)</recipientName>
+      <amount>2000</amount>
+      <date>8/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Nutmeg PAC</payeeName>
+      <recipientName>Sen. Richard Blumenthal</recipientName>
+      <amount>2500</amount>
+      <date>8/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Robin Kelly For Congress</payeeName>
+      <recipientName>Rep. Robin Lynne Kelly</recipientName>
+      <amount>1500</amount>
+      <date>8/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Schneider For Congress</payeeName>
+      <recipientName>Rep. Bradley Scott Schneider</recipientName>
+      <amount>1000</amount>
+      <date>8/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Scott Peters For Congress</payeeName>
+      <recipientName>Rep. Scott H. Peters</recipientName>
+      <amount>2000</amount>
+      <date>8/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Shore PAC</payeeName>
+      <recipientName>Rep. Frank Pallone, Jr.</recipientName>
+      <amount>2500</amount>
+      <date>8/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>The Bill Keating Committee</payeeName>
+      <recipientName>Rep. William Richard Keating</recipientName>
+      <amount>1000</amount>
+      <date>8/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>The Madison PAC</payeeName>
+      <recipientName>Rep. Richard Edmund Neal</recipientName>
+      <amount>2500</amount>
+      <date>8/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Together Holding Our Majority PAC</payeeName>
+      <recipientName>Sen. Thomas Roland Tillis</recipientName>
+      <amount>2500</amount>
+      <date>8/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Tony Cardenas For Congress</payeeName>
+      <recipientName>Rep. Tony Cardenas</recipientName>
+      <amount>2000</amount>
+      <date>8/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Vicente Gonzalez For Congress</payeeName>
+      <recipientName>Rep. Vicente Gonzalez</recipientName>
+      <amount>1000</amount>
+      <date>8/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>All For Our Country Leadership PAC</payeeName>
+      <recipientName>Sen. Catherine Cortez Masto</recipientName>
+      <amount>2500</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Capito For West Virginia</payeeName>
+      <recipientName>Sen. Shelley Moore Capito</recipientName>
+      <amount>1000</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Capito For West Virginia</payeeName>
+      <recipientName>Sen. Shelley Moore Capito</recipientName>
+      <amount>1500</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>CHERPAC</payeeName>
+      <recipientName>Rep. Cheryl L. Bustos</recipientName>
+      <amount>5000</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Chrissy Houlahan For Congress</payeeName>
+      <recipientName>Rep. Christina J. Houlahan</recipientName>
+      <amount>2000</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Collins For Congress</payeeName>
+      <recipientName>Rep. Douglas Allen Collins</recipientName>
+      <amount>1000</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Common Values PAC</payeeName>
+      <recipientName>Sen. John Anthony Barrasso</recipientName>
+      <amount>2500</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Connolly For Congress</payeeName>
+      <recipientName>Rep. Gerald E. Connolly</recipientName>
+      <amount>1000</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Dan Crenshaw For Congress</payeeName>
+      <recipientName>Rep. Daniel Crenshaw</recipientName>
+      <amount>1000</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Darren Soto For Congress</payeeName>
+      <recipientName>Rep. Darren Michael Soto</recipientName>
+      <amount>2000</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Devin Nunes Campaign Committee</payeeName>
+      <recipientName>Rep. Devin G. Nunes</recipientName>
+      <amount>1000</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>DSCC (Building Fund)</payeeName>
+      <recipientName>DSCC (Building Fund)</recipientName>
+      <amount>3500</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Emmer For Congress</payeeName>
+      <recipientName>Rep. Thomas Earl Emmer, Jr.</recipientName>
+      <amount>1000</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Freedom Fund</payeeName>
+      <recipientName>Sen. Michael Dean Crapo</recipientName>
+      <amount>2500</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Friends Of Bennie Thompson</payeeName>
+      <recipientName>Rep. Bennie G. Thompson</recipientName>
+      <amount>2500</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Friends Of Cheri Bustos</payeeName>
+      <recipientName>Rep. Cheryl L. Bustos</recipientName>
+      <amount>5000</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Friends Of Dan Kildee</payeeName>
+      <recipientName>Rep. Daniel Timothy Kildee</recipientName>
+      <amount>1000</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Friends Of Mazie Hirono</payeeName>
+      <recipientName>Sen. Mazie Keiko Hirono</recipientName>
+      <amount>2500</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Friends Of Pat Toomey</payeeName>
+      <recipientName>Sen. Patrick Joseph Toomey</recipientName>
+      <amount>2500</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Josh Gottheimer For Congress</payeeName>
+      <recipientName>Rep. Joshua S. Gottheimer</recipientName>
+      <amount>2000</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Kind For Congress Committee</payeeName>
+      <recipientName>Rep. Ronald James Kind</recipientName>
+      <amount>2000</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Kirkpatrick For Congress</payeeName>
+      <recipientName>Rep. Ann L. Kirkpatrick</recipientName>
+      <amount>2000</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>LaHood for Congress</payeeName>
+      <recipientName>Rep. Darin M. LaHood</recipientName>
+      <amount>1000</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Lgbtq Victory Fund Federal PAC</payeeName>
+      <recipientName>Lgbtq Victory Fund Federal PAC</recipientName>
+      <amount>2500</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Making A Responsible Stand For Households In America PAC</payeeName>
+      <recipientName>Sen. Marsha Wedgeworth Blackburn</recipientName>
+      <amount>2500</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Mike Kelly For Congress</payeeName>
+      <recipientName>Rep. G. Mike J. Kelly</recipientName>
+      <amount>1000</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Mikie Sherrill For Congress</payeeName>
+      <recipientName>Rep. Mikie Sherrill</recipientName>
+      <amount>2000</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>NRSC (Building Fund)</payeeName>
+      <recipientName>NRSC (Building Fund)</recipientName>
+      <amount>2000</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Perimeter PAC</payeeName>
+      <recipientName>Sen. L. Tammy Duckworth</recipientName>
+      <amount>2500</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Richard E Neal For Congress Committee</payeeName>
+      <recipientName>Rep. Richard Edmund Neal</recipientName>
+      <amount>2500</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Ron Estes For Congress</payeeName>
+      <recipientName>Rep. Ron Estes</recipientName>
+      <amount>1000</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Ron Estes For Congress</payeeName>
+      <recipientName>Rep. Ron Estes</recipientName>
+      <amount>3000</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Scalise For Congress</payeeName>
+      <recipientName>Rep. Stephen Joseph Scalise</recipientName>
+      <amount>2500</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Stand With Sanchez</payeeName>
+      <recipientName>Rep. Linda T. Sanchez</recipientName>
+      <amount>2500</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Tammy For Illinois</payeeName>
+      <recipientName>Sen. L. Tammy Duckworth</recipientName>
+      <amount>2500</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Texans For Jodey Arrington</payeeName>
+      <recipientName>Rep. Jodey Cook Arrington</recipientName>
+      <amount>1000</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Texans For Jodey Arrington</payeeName>
+      <recipientName>Rep. Jodey Cook Arrington</recipientName>
+      <amount>1000</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Tom O'Halleran For Congress</payeeName>
+      <recipientName>Rep. Tom O'Halleran</recipientName>
+      <amount>2000</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Van Drew For Congress</payeeName>
+      <recipientName>Rep. Jeff Van Drew, D.D.S.</recipientName>
+      <amount>2000</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Walberg For Congress</payeeName>
+      <recipientName>Rep. Timothy L. Walberg</recipientName>
+      <amount>1000</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Massachusetts Republican Party</payeeName>
+      <recipientName>Massachusetts Republican Party</recipientName>
+      <amount>-5000</amount>
+      <date>10/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Believe In America PAC</payeeName>
+      <recipientName>Sen. Mitt Romney</recipientName>
+      <amount>2500</amount>
+      <date>10/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Billy Long For Congress</payeeName>
+      <recipientName>Rep. William H. Long, II</recipientName>
+      <amount>3000</amount>
+      <date>10/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Blumenthal For Connecticut</payeeName>
+      <recipientName>Sen. Richard Blumenthal</recipientName>
+      <amount>1000</amount>
+      <date>10/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Building Relationships In Diverse Geographic Environments PAC (BRIDGE PAC)</payeeName>
+      <recipientName>Rep. James E. Clyburn</recipientName>
+      <amount>3000</amount>
+      <date>10/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Cory Gardner For Senate</payeeName>
+      <recipientName>Sen. Cory Gardner</recipientName>
+      <amount>1000</amount>
+      <date>10/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Cramer For Senate</payeeName>
+      <recipientName>Sen. Kevin John Cramer</recipientName>
+      <amount>1000</amount>
+      <date>10/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Devin Nunes Campaign Committee</payeeName>
+      <recipientName>Rep. Devin G. Nunes</recipientName>
+      <amount>1000</amount>
+      <date>10/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Doug Jones For Senate Committee</payeeName>
+      <recipientName>Sen. Doug Jones</recipientName>
+      <amount>2500</amount>
+      <date>10/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>DSCC (Building Fund)</payeeName>
+      <recipientName>DSCC (Building Fund)</recipientName>
+      <amount>5000</amount>
+      <date>10/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Friends Of Jim Clyburn</payeeName>
+      <recipientName>Rep. James E. Clyburn</recipientName>
+      <amount>2500</amount>
+      <date>10/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Friends Of Jim Inhofe</payeeName>
+      <recipientName>Sen. James M. Inhofe</recipientName>
+      <amount>1000</amount>
+      <date>10/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Friends Of Mark Warner</payeeName>
+      <recipientName>Sen. Mark Robert Warner</recipientName>
+      <amount>2500</amount>
+      <date>10/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Friends Of Mazie Hirono</payeeName>
+      <recipientName>Sen. Mazie Keiko Hirono</recipientName>
+      <amount>2500</amount>
+      <date>10/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>George Holding For Congress Inc.</payeeName>
+      <recipientName>Rep. George E. Holding</recipientName>
+      <amount>1000</amount>
+      <date>10/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Greg Pence For Congress</payeeName>
+      <recipientName>Rep. Gregory J. Pence</recipientName>
+      <amount>2500</amount>
+      <date>10/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Guthrie For Congress</payeeName>
+      <recipientName>Rep. S. Brett Guthrie</recipientName>
+      <amount>1000</amount>
+      <date>10/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Hoosier PAC</payeeName>
+      <recipientName>Sen. Michael K. Braun</recipientName>
+      <amount>2500</amount>
+      <date>10/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Hudson For Congress</payeeName>
+      <recipientName>Rep. Richard Lane Hudson, Jr.</recipientName>
+      <amount>2500</amount>
+      <date>10/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>John Kennedy For Us</payeeName>
+      <recipientName>Sen. John Neely Kennedy</recipientName>
+      <amount>2500</amount>
+      <date>10/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Keystone America PAC</payeeName>
+      <recipientName>Sen. Robert P. Casey, Jr.</recipientName>
+      <amount>2500</amount>
+      <date>10/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Kinzinger For Congress</payeeName>
+      <recipientName>Rep. Adam Daniel Kinzinger</recipientName>
+      <amount>2500</amount>
+      <date>10/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Leadership Connecticut PAC</payeeName>
+      <recipientName>Leadership Connecticut PAC</recipientName>
+      <amount>5000</amount>
+      <date>10/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Maloney For Congress</payeeName>
+      <recipientName>Rep. Carolyn B. Maloney</recipientName>
+      <amount>1000</amount>
+      <date>10/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Mario Diaz-Balart For Congress</payeeName>
+      <recipientName>Rep. Mario Rafael Diaz-Balart</recipientName>
+      <amount>1000</amount>
+      <date>10/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Mike Kelly For Congress</payeeName>
+      <recipientName>Rep. G. Mike J. Kelly</recipientName>
+      <amount>1000</amount>
+      <date>10/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>NRSC (Building Fund)</payeeName>
+      <recipientName>NRSC (Building Fund)</recipientName>
+      <amount>4500</amount>
+      <date>10/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>PAC To the Future</payeeName>
+      <recipientName>Rep. Nancy Pelosi</recipientName>
+      <amount>1000</amount>
+      <date>10/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Promoting Our Republican Team PAC</payeeName>
+      <recipientName>Sen. Rob J. Portman</recipientName>
+      <amount>1500</amount>
+      <date>10/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Reaching For A Brighter America PAC</payeeName>
+      <recipientName>Rep. Robert Brown Aderholt</recipientName>
+      <amount>2500</amount>
+      <date>10/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Robin Kelly For Congress</payeeName>
+      <recipientName>Rep. Robin Lynne Kelly</recipientName>
+      <amount>1500</amount>
+      <date>10/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Rounds For Senate</payeeName>
+      <recipientName>Sen. M. Michael Rounds</recipientName>
+      <amount>1500</amount>
+      <date>10/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Steve Daines For Montana</payeeName>
+      <recipientName>Sen. Steve David Daines</recipientName>
+      <amount>1500</amount>
+      <date>10/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Tom Rice For Congress</payeeName>
+      <recipientName>Rep. Tom Rice</recipientName>
+      <amount>2500</amount>
+      <date>10/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Walker 4 NC</payeeName>
+      <recipientName>Rep. Bradley Mark Walker</recipientName>
+      <amount>1000</amount>
+      <date>10/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Adrian Smith For Congress</payeeName>
+      <recipientName>Rep. Adrian Michael Smith</recipientName>
+      <amount>2500</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Adriano Espaillat For Congress</payeeName>
+      <recipientName>Rep. Adriano Espaillat</recipientName>
+      <amount>1000</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>All For Our Country Leadership PAC</payeeName>
+      <recipientName>Sen. Catherine Cortez Masto</recipientName>
+      <amount>2500</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Ann Wagner For Congress</payeeName>
+      <recipientName>Rep. Ann Louise Wagner</recipientName>
+      <amount>2000</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Anthony Brown For Congress</payeeName>
+      <recipientName>Rep. Anthony Gregory Brown</recipientName>
+      <amount>2500</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Bera For Congress</payeeName>
+      <recipientName>Rep. Amerish B. Bera</recipientName>
+      <amount>2000</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Buddy Carter For Congress</payeeName>
+      <recipientName>Rep. Earl L. B. Carter</recipientName>
+      <amount>2000</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Citizens For Boyle</payeeName>
+      <recipientName>Rep. Brendan Francis Boyle</recipientName>
+      <amount>1000</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Clay JR. For Congress</payeeName>
+      <recipientName>Rep. William Lacy Clay, Jr.</recipientName>
+      <amount>1000</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Cole For Congress</payeeName>
+      <recipientName>Rep. Thomas Jeffery Cole</recipientName>
+      <amount>1000</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Conservative Roundtable</payeeName>
+      <recipientName>Rep. George E. Holding</recipientName>
+      <amount>2500</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Courtney For Congress</payeeName>
+      <recipientName>Rep. Joseph D. Courtney</recipientName>
+      <amount>1000</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Diana DeGette for Congress</payeeName>
+      <recipientName>Rep. Diana L. DeGette</recipientName>
+      <amount>1000</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Donald M Payne JR For Congress</payeeName>
+      <recipientName>Rep. Donald Milford Payne, Jr.</recipientName>
+      <amount>1000</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Doug Jones For Senate Committee</payeeName>
+      <recipientName>Sen. Doug Jones</recipientName>
+      <amount>2500</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>DSCC (Building Fund)</payeeName>
+      <recipientName>DSCC (Building Fund)</recipientName>
+      <amount>9000</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Dwight Evans For Congress</payeeName>
+      <recipientName>Rep. Dwight Evans</recipientName>
+      <amount>1000</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Filemon Vela For Congress</payeeName>
+      <recipientName>Rep. Filemon Bartolome Vela, Jr.</recipientName>
+      <amount>1000</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Grace For New York</payeeName>
+      <recipientName>Rep. Grace Meng</recipientName>
+      <amount>1000</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Himes For Congress</payeeName>
+      <recipientName>Rep. James Andrew Himes</recipientName>
+      <amount>1000</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Hoeven For Senate</payeeName>
+      <recipientName>Sen. John Henry Hoeven, III</recipientName>
+      <amount>2500</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Jim Risch For U.S. Senate Committee</payeeName>
+      <recipientName>Sen. James E. Risch</recipientName>
+      <amount>1000</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>John Rose For Tennessee</payeeName>
+      <recipientName>Rep. John W. Rose</recipientName>
+      <amount>1000</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Joni For Iowa</payeeName>
+      <recipientName>Sen. Joni Kay Ernst</recipientName>
+      <amount>1000</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Josh Gottheimer For Congress</payeeName>
+      <recipientName>Rep. Joshua S. Gottheimer</recipientName>
+      <amount>1000</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Kennedy For Massachusetts</payeeName>
+      <recipientName>Rep. Joseph Patrick Kennedy, III</recipientName>
+      <amount>2500</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Kurt Schrader For Congress</payeeName>
+      <recipientName>Rep. Kurt Schrader</recipientName>
+      <amount>2500</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Kuster For Congress, Inc</payeeName>
+      <recipientName>Rep. Ann McLane Kuster</recipientName>
+      <amount>1000</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Larson For Congress</payeeName>
+      <recipientName>Rep. John Barry Larson</recipientName>
+      <amount>1000</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Mark Green For Congress</payeeName>
+      <recipientName>Rep. Mark E. Green</recipientName>
+      <amount>2000</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Martin Heinrich For Senate</payeeName>
+      <recipientName>Sen. Martin Heinrich</recipientName>
+      <amount>2500</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Matsui For Congress</payeeName>
+      <recipientName>Rep. Doris O. Matsui</recipientName>
+      <amount>2000</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>McSally For Senate Inc</payeeName>
+      <recipientName>Sen. Martha Elizabeth McSally</recipientName>
+      <amount>2500</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Meadows For Congress</payeeName>
+      <recipientName>Rep. Mark Randall Meadows</recipientName>
+      <amount>1000</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Mike Kelly For Congress</payeeName>
+      <recipientName>Rep. G. Mike J. Kelly</recipientName>
+      <amount>1500</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Mullin For Congress</payeeName>
+      <recipientName>Rep. Markwayne Mullin</recipientName>
+      <amount>1000</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>NRSC (Building Fund)</payeeName>
+      <recipientName>NRSC (Building Fund)</recipientName>
+      <amount>4000</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>One Georgia PAC</payeeName>
+      <recipientName>Sen. David Alfred Perdue, Jr.</recipientName>
+      <amount>2500</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Paul Tonko For Congress</payeeName>
+      <recipientName>Rep. Paul David Tonko</recipientName>
+      <amount>1000</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Raul Ruiz For Congress</payeeName>
+      <recipientName>Rep. Raul Ruiz</recipientName>
+      <amount>1000</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Texans For Senator John Cornyn Inc.</payeeName>
+      <recipientName>Sen. John Cornyn, III</recipientName>
+      <amount>2500</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Three Rivers Political Action Committee</payeeName>
+      <recipientName>Rep. Kurt Schrader</recipientName>
+      <amount>2500</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Tim Scott For Senate</payeeName>
+      <recipientName>Sen. Timothy Eugene Scott</recipientName>
+      <amount>1500</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Together Holding Our Majority PAC</payeeName>
+      <recipientName>Sen. Thomas Roland Tillis</recipientName>
+      <amount>2000</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Tony Cardenas For Congress</payeeName>
+      <recipientName>Rep. Tony Cardenas</recipientName>
+      <amount>2000</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Val Demings For Congress</payeeName>
+      <recipientName>Rep. Valdez B. Demings</recipientName>
+      <amount>2500</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Vern Buchanan For Congress</payeeName>
+      <recipientName>Rep. Vernon Gale Buchanan</recipientName>
+      <amount>2000</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Veronica Escobar For Congress</payeeName>
+      <recipientName>Rep. Veronica Escobar</recipientName>
+      <amount>1000</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Virgin Islands For Plaskett</payeeName>
+      <recipientName>Rep. Stacey Elizabeth Plaskett</recipientName>
+      <amount>1000</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Swalwell For Congress</payeeName>
+      <recipientName>Rep. Eric Michael Swalwell, Jr.</recipientName>
+      <amount>-1000</amount>
+      <date>12/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Kennedy For Massachusetts</payeeName>
+      <recipientName>Rep. Joseph Patrick Kennedy, III</recipientName>
+      <amount>-2500</amount>
+      <date>12/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Alaskans For Dan Sullivan</payeeName>
+      <recipientName>Sen. Daniel Scott Sullivan</recipientName>
+      <amount>2500</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>AMERIPAC The Fund for a Greater America</payeeName>
+      <recipientName>Rep. Steny Hamilton Hoyer</recipientName>
+      <amount>1500</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Andy Barr For Congress, Inc.</payeeName>
+      <recipientName>Rep. Garland Hale Barr, IV</recipientName>
+      <amount>2500</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Anthony Brown For Congress</payeeName>
+      <recipientName>Rep. Anthony Gregory Brown</recipientName>
+      <amount>1000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Barbara Lee For Congress</payeeName>
+      <recipientName>Rep. Barbara Jean Lee</recipientName>
+      <amount>5000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Beatty For Congress</payeeName>
+      <recipientName>Rep. Joyce Beatty</recipientName>
+      <amount>2500</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>CHC BOLD PAC</payeeName>
+      <recipientName>CHC BOLD PAC</recipientName>
+      <amount>2500</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Chrissy Houlahan For Congress</payeeName>
+      <recipientName>Rep. Christina J. Houlahan</recipientName>
+      <amount>1000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Cory Gardner For Senate</payeeName>
+      <recipientName>Sen. Cory Gardner</recipientName>
+      <amount>2500</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Deb Fischer For US Senate</payeeName>
+      <recipientName>Sen. Debra S. Fischer</recipientName>
+      <amount>2500</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Democrats Reshaping America (DREAMPAC)</payeeName>
+      <recipientName>Rep. Linda T. Sanchez</recipientName>
+      <amount>1500</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Doug Jones For Senate Committee</payeeName>
+      <recipientName>Sen. Doug Jones</recipientName>
+      <amount>2500</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Drew Ferguson For Congress Inc.</payeeName>
+      <recipientName>Rep. A. Drew Ferguson, IV</recipientName>
+      <amount>1000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Drew Ferguson For Congress Inc.</payeeName>
+      <recipientName>Rep. A. Drew Ferguson, IV</recipientName>
+      <amount>1500</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>DSCC (Building Fund)</payeeName>
+      <recipientName>DSCC (Building Fund)</recipientName>
+      <amount>6400</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Families For James Lankford</payeeName>
+      <recipientName>Sen. James Paul Lankford</recipientName>
+      <amount>2500</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Forward Together PAC</payeeName>
+      <recipientName>Sen. Mark Robert Warner</recipientName>
+      <amount>5000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Green Mountain PAC</payeeName>
+      <recipientName>Sen. Patrick Joseph Leahy</recipientName>
+      <amount>1000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Husky PAC</payeeName>
+      <recipientName>Rep. Joseph D. Courtney</recipientName>
+      <amount>1000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Jason Smith For Congress</payeeName>
+      <recipientName>Rep. Jason Thomas Smith</recipientName>
+      <amount>2500</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Joni For Iowa</payeeName>
+      <recipientName>Sen. Joni Kay Ernst</recipientName>
+      <amount>1000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Ken Calvert For Congress Committee</payeeName>
+      <recipientName>Rep. Kenneth S. Calvert</recipientName>
+      <amount>1000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Marcia Fudge For Congress</payeeName>
+      <recipientName>Rep. Marcia Louise Fudge</recipientName>
+      <amount>1000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Mike Bost For Congress Committee</payeeName>
+      <recipientName>Rep. Michael J. Bost</recipientName>
+      <amount>1000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>NRSC (Building Fund)</payeeName>
+      <recipientName>NRSC (Building Fund)</recipientName>
+      <amount>6500</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>People For Patty Murray</payeeName>
+      <recipientName>Sen. Patricia Lynn Murray</recipientName>
+      <amount>1500</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Reclaim America PAC</payeeName>
+      <recipientName>Sen. Marco Antonio Rubio</recipientName>
+      <amount>1500</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Synergy PAC</payeeName>
+      <recipientName>Rep. John Barry Larson</recipientName>
+      <amount>1000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Ted Budd For Congress</payeeName>
+      <recipientName>Rep. Theodore Paul Budd</recipientName>
+      <amount>1000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Texans For Senator John Cornyn Inc.</payeeName>
+      <recipientName>Sen. John Cornyn, III</recipientName>
+      <amount>1500</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>The Madison PAC</payeeName>
+      <recipientName>Rep. Richard Edmund Neal</recipientName>
+      <amount>2500</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Three Rivers Political Action Committee</payeeName>
+      <recipientName>Rep. Kurt Schrader</recipientName>
+      <amount>2500</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Tom Reed For Congress</payeeName>
+      <recipientName>Rep. Thomas W. Reed, II.</recipientName>
+      <amount>2500</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Vern Buchanan For Congress</payeeName>
+      <recipientName>Rep. Vernon Gale Buchanan</recipientName>
+      <amount>1000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PFIZER INC. PAC</contributorName>
+      <payeeName>Walorski For Congress Inc</payeeName>
+      <recipientName>Rep. Jacqueline Walorski</recipientName>
+      <amount>1000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

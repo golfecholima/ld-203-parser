@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>Marine Engineers' Beneficial Association</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <zipext>
+  </zipext>
+  <contactName>Erick Siahaan</contactName>
+  <senateRegID>23760</senateRegID>
+  <houseRegID>30941</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/30/2020 1:48:04 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>Marine Engineers' Beneficial Association PAF (MEBA PAF)</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Marine Engineers' Beneficial Association PAF (MEBA PAF)</contributorName>
+      <payeeName>Committee to Elect Linda Sanchez</payeeName>
+      <recipientName>Linda Sanchez</recipientName>
+      <amount>1000.00</amount>
+      <date>07/11/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Marine Engineers' Beneficial Association PAF (MEBA PAF)</contributorName>
+      <payeeName>Courtney  for Congress</payeeName>
+      <recipientName>Joe Courtney</recipientName>
+      <amount>2500.00</amount>
+      <date>7/18/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Marine Engineers' Beneficial Association PAF (MEBA PAF)</contributorName>
+      <payeeName>Garamendi for Congress</payeeName>
+      <recipientName>John Garamendi</recipientName>
+      <amount>1500.00</amount>
+      <date>7/18/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Marine Engineers' Beneficial Association PAF (MEBA PAF)</contributorName>
+      <payeeName>Vicente Gonzalez for Congress</payeeName>
+      <recipientName>Vicente Gonzalez</recipientName>
+      <amount>1000.00</amount>
+      <date>7/29/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Marine Engineers' Beneficial Association PAF (MEBA PAF)</contributorName>
+      <payeeName>Brenda Lawrence for Congress</payeeName>
+      <recipientName>Brenda Lawrence</recipientName>
+      <amount>1127.00</amount>
+      <date>7/29/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Marine Engineers' Beneficial Association PAF (MEBA PAF)</contributorName>
+      <payeeName>Richmond for Congress</payeeName>
+      <recipientName>Cedric Richmond</recipientName>
+      <amount>1127.00</amount>
+      <date>7/29/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Marine Engineers' Beneficial Association PAF (MEBA PAF)</contributorName>
+      <payeeName>Hawaii Senate Victory Fund</payeeName>
+      <recipientName>Brian Schatz</recipientName>
+      <amount>2500.00</amount>
+      <date>7/29/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Marine Engineers' Beneficial Association PAF (MEBA PAF)</contributorName>
+      <payeeName>Conor Lamb for Congress</payeeName>
+      <recipientName>Conor Lamb</recipientName>
+      <amount>1000.00</amount>
+      <date>7/29/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Marine Engineers' Beneficial Association PAF (MEBA PAF)</contributorName>
+      <payeeName>Dutch Ruppersberger for Congress</payeeName>
+      <recipientName>Dutch Ruppersberger</recipientName>
+      <amount>1500.00</amount>
+      <date>9/5/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Marine Engineers' Beneficial Association PAF (MEBA PAF)</contributorName>
+      <payeeName>McNerney for Congress</payeeName>
+      <recipientName>Jerry McNerney</recipientName>
+      <amount>1000.00</amount>
+      <date>9/5/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Marine Engineers' Beneficial Association PAF (MEBA PAF)</contributorName>
+      <payeeName>Rodney Davis for Congress</payeeName>
+      <recipientName>Rodney Davis</recipientName>
+      <amount>1000.00</amount>
+      <date>9/5/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Marine Engineers' Beneficial Association PAF (MEBA PAF)</contributorName>
+      <payeeName>DeFazio for Congress</payeeName>
+      <recipientName>Peter DeFazio</recipientName>
+      <amount>2500.00</amount>
+      <date>9/5/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Marine Engineers' Beneficial Association PAF (MEBA PAF)</contributorName>
+      <payeeName>Price for Congress Committee
+</payeeName>
+      <recipientName>David Price</recipientName>
+      <amount>2500.00</amount>
+      <date>09/05/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Marine Engineers' Beneficial Association PAF (MEBA PAF)</contributorName>
+      <payeeName>Pingree for Congress
+</payeeName>
+      <recipientName>Chellie Pingree</recipientName>
+      <amount>1000.00</amount>
+      <date>09/5/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Marine Engineers' Beneficial Association PAF (MEBA PAF)</contributorName>
+      <payeeName>Fitzpatrick for Congress</payeeName>
+      <recipientName>Brian Fitzpatrick</recipientName>
+      <amount>1000.00</amount>
+      <date>9/5/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Marine Engineers' Beneficial Association PAF (MEBA PAF)</contributorName>
+      <payeeName>Donald Norcross for Congress
+</payeeName>
+      <recipientName>Donald Norcross</recipientName>
+      <amount>2500.00</amount>
+      <date>9/11/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Marine Engineers' Beneficial Association PAF (MEBA PAF)</contributorName>
+      <payeeName>Max Rose for Congress
+</payeeName>
+      <recipientName>Max Rose </recipientName>
+      <amount>1127.00</amount>
+      <date>9/24/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Marine Engineers' Beneficial Association PAF (MEBA PAF)</contributorName>
+      <payeeName>Anthony Brown for Congress
+</payeeName>
+      <recipientName>Anthony Brown</recipientName>
+      <amount>1127.00</amount>
+      <date>9/24/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Marine Engineers' Beneficial Association PAF (MEBA PAF)</contributorName>
+      <payeeName>Colin Allred for Congress
+</payeeName>
+      <recipientName>Colin Allred</recipientName>
+      <amount>1127.00</amount>
+      <date>9/24/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Marine Engineers' Beneficial Association PAF (MEBA PAF)</contributorName>
+      <payeeName>Garamendi for Congress 
+</payeeName>
+      <recipientName>John Garamendi</recipientName>
+      <amount>1127.00</amount>
+      <date>9/24/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Marine Engineers' Beneficial Association PAF (MEBA PAF)</contributorName>
+      <payeeName>Castor for Congress
+</payeeName>
+      <recipientName>Kathy Castor </recipientName>
+      <amount>1000.00</amount>
+      <date>9/24/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Marine Engineers' Beneficial Association PAF (MEBA PAF)</contributorName>
+      <payeeName>Hoyer for Congress
+</payeeName>
+      <recipientName>Steny Hoyer</recipientName>
+      <amount>2500.00</amount>
+      <date>9/24/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Marine Engineers' Beneficial Association PAF (MEBA PAF)</contributorName>
+      <payeeName>Sean Patrick Maloney for Congress
+</payeeName>
+      <recipientName>Sean Patrick Maloney</recipientName>
+      <amount>2500.00</amount>
+      <date>9/24/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Marine Engineers' Beneficial Association PAF (MEBA PAF)</contributorName>
+      <payeeName>Yarmuth for Congress
+</payeeName>
+      <recipientName>John Yarmuth</recipientName>
+      <amount>1000.00</amount>
+      <date>10/16/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Marine Engineers' Beneficial Association PAF (MEBA PAF)</contributorName>
+      <payeeName>Brian Fitpatrick for Congress</payeeName>
+      <recipientName>Brian Fitpatrick</recipientName>
+      <amount>2500.00</amount>
+      <date>10/16/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Marine Engineers' Beneficial Association PAF (MEBA PAF)</contributorName>
+      <payeeName>Mike Bost for Congress</payeeName>
+      <recipientName>Mike Bost</recipientName>
+      <amount>5000.00</amount>
+      <date>10/21/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Marine Engineers' Beneficial Association PAF (MEBA PAF)</contributorName>
+      <payeeName>Mike Bost for Congress</payeeName>
+      <recipientName>Mike Bost </recipientName>
+      <amount>2000.00</amount>
+      <date>10/21/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Marine Engineers' Beneficial Association PAF (MEBA PAF)</contributorName>
+      <payeeName>Don Bacon for Congress</payeeName>
+      <recipientName>Don Bacon</recipientName>
+      <amount>1000.00</amount>
+      <date>10/21/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Marine Engineers' Beneficial Association PAF (MEBA PAF)</contributorName>
+      <payeeName>Dave Joyce for Congress</payeeName>
+      <recipientName>Dave Joyce</recipientName>
+      <amount>5000.00</amount>
+      <date>10/21/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Marine Engineers' Beneficial Association PAF (MEBA PAF)</contributorName>
+      <payeeName>Elissa Slotkin for Congress
+</payeeName>
+      <recipientName>Elissa Slotkin
+</recipientName>
+      <amount>1500.00</amount>
+      <date>10/31/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Marine Engineers' Beneficial Association PAF (MEBA PAF)</contributorName>
+      <payeeName>Dave Joyce for Congress</payeeName>
+      <recipientName>Dave Joyce</recipientName>
+      <amount>1000.00</amount>
+      <date>10/31/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Marine Engineers' Beneficial Association PAF (MEBA PAF)</contributorName>
+      <payeeName>Chris Pappas for Congress </payeeName>
+      <recipientName>Chris Pappas</recipientName>
+      <amount>2500.00</amount>
+      <date>10/31/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Marine Engineers' Beneficial Association PAF (MEBA PAF)</contributorName>
+      <payeeName>Pascrell for Congress
+</payeeName>
+      <recipientName>Bill Pascrell</recipientName>
+      <amount>1000.00</amount>
+      <date>11/11/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Marine Engineers' Beneficial Association PAF (MEBA PAF)</contributorName>
+      <payeeName>The Markey Committee</payeeName>
+      <recipientName>Ed Markey</recipientName>
+      <amount>2500.00</amount>
+      <date>11/11/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Marine Engineers' Beneficial Association PAF (MEBA PAF)</contributorName>
+      <payeeName>Chris Smith for Congress</payeeName>
+      <recipientName>Chris Smith</recipientName>
+      <amount>2500.00</amount>
+      <date>11/11/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Marine Engineers' Beneficial Association PAF (MEBA PAF)</contributorName>
+      <payeeName>Alan Lowenthal for Congress
+</payeeName>
+      <recipientName>Alan Lowenthal</recipientName>
+      <amount>1000.00</amount>
+      <date>11/15/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Marine Engineers' Beneficial Association PAF (MEBA PAF)</contributorName>
+      <payeeName>Donald Norcross for Congress
+</payeeName>
+      <recipientName>Donald Norcross</recipientName>
+      <amount>1000.00</amount>
+      <date>12/5/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Marine Engineers' Beneficial Association PAF (MEBA PAF)</contributorName>
+      <payeeName>Garamendi for Congress</payeeName>
+      <recipientName>John Garamendi </recipientName>
+      <amount>1000.00</amount>
+      <date>12/5/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Marine Engineers' Beneficial Association PAF (MEBA PAF)</contributorName>
+      <payeeName>Tim Ryan for Congress</payeeName>
+      <recipientName>Tim Ryan</recipientName>
+      <amount>2500.00</amount>
+      <date>12/5/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Marine Engineers' Beneficial Association PAF (MEBA PAF)</contributorName>
+      <payeeName>Tim Ryan for Congress</payeeName>
+      <recipientName>Tim Ryan</recipientName>
+      <amount>2800.00</amount>
+      <date>12/5/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Marine Engineers' Beneficial Association PAF (MEBA PAF)</contributorName>
+      <payeeName>The Reed Committee</payeeName>
+      <recipientName>Jack Reed</recipientName>
+      <amount>2500.00</amount>
+      <date>12/5/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Marine Engineers' Beneficial Association PAF (MEBA PAF)</contributorName>
+      <payeeName>Capito for West Virginia</payeeName>
+      <recipientName>Shelley Moore Capito</recipientName>
+      <amount>1000.00</amount>
+      <date>12/10/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Marine Engineers' Beneficial Association PAF (MEBA PAF)</contributorName>
+      <payeeName>Scalise Leadership Fund</payeeName>
+      <recipientName>Steve Scalise</recipientName>
+      <amount>1000.00</amount>
+      <date>10/4/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Marine Engineers' Beneficial Association PAF (MEBA PAF)</contributorName>
+      <payeeName>Bringing America Together PAC</payeeName>
+      <recipientName>Brian Fitzpatrick</recipientName>
+      <amount>5000.00</amount>
+      <date>10/21/19</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

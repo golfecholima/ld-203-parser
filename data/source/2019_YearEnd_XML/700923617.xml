@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>Ridge Policy Group</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <zipext>
+  </zipext>
+  <contactName>Mark Holman</contactName>
+  <senateRegID>400581776</senateRegID>
+  <houseRegID>41273</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/29/2020 3:53:58 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>Ridge Policy Group Political Action Committee</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ridge Policy Group Political Action Committee</contributorName>
+      <payeeName>Patriots for Perry</payeeName>
+      <recipientName>Scott Perry</recipientName>
+      <amount>1000.00</amount>
+      <date>9/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ridge Policy Group Political Action Committee</contributorName>
+      <payeeName>Fred Keller for Congress</payeeName>
+      <recipientName>Fred Keller</recipientName>
+      <amount>1000.00</amount>
+      <date>9/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ridge Policy Group Political Action Committee</contributorName>
+      <payeeName>Susan Wild for Congress</payeeName>
+      <recipientName>Susan Wild</recipientName>
+      <amount>500.00</amount>
+      <date>9/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ridge Policy Group Political Action Committee</contributorName>
+      <payeeName>Mike Kelly for Congress</payeeName>
+      <recipientName>Mike Kelly</recipientName>
+      <amount>1000.00</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ridge Policy Group Political Action Committee</contributorName>
+      <payeeName>National Republican Senatorial Committee</payeeName>
+      <recipientName>NRSC</recipientName>
+      <amount>1000.00</amount>
+      <date>10/15/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

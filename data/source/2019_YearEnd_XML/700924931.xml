@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>Parsons Corporation</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>Rich McFarland</contactName>
+  <senateRegID>401103402</senateRegID>
+  <houseRegID>42692</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/30/2020 12:24:40 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>
+  </noContributions>
+  <pacs>
+    <pac>
+      <name>Parsons Corporation Political Action Committee</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Parsons Corporation Political Action Committee</contributorName>
+      <payeeName>Maintaining All Republicans in Office PAC</payeeName>
+      <recipientName>Mario Diaz Balart</recipientName>
+      <amount>5000.00</amount>
+      <date>07/02/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Parsons Corporation Political Action Committee</contributorName>
+      <payeeName>Forward Together PAC</payeeName>
+      <recipientName>Mark Warner</recipientName>
+      <amount>5000.00</amount>
+      <date>07/02/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Parsons Corporation Political Action Committee</contributorName>
+      <payeeName>Lisa Murkowski for US Senate</payeeName>
+      <recipientName>Lisa Murkowski</recipientName>
+      <amount>2500.00</amount>
+      <date>07/02/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Parsons Corporation Political Action Committee</contributorName>
+      <payeeName>Ted Lieu for Congress</payeeName>
+      <recipientName>Ted Lieu</recipientName>
+      <amount>1000.00</amount>
+      <date>07/02/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Parsons Corporation Political Action Committee</contributorName>
+      <payeeName>Collins for Senator</payeeName>
+      <recipientName>Susan Collins</recipientName>
+      <amount>3000.00</amount>
+      <date>07/02/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Parsons Corporation Political Action Committee</contributorName>
+      <payeeName>Country Roads PAC</payeeName>
+      <recipientName>Joseph Manchin</recipientName>
+      <amount>-5000.00</amount>
+      <date>07/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Parsons Corporation Political Action Committee</contributorName>
+      <payeeName>Country Roads PAC</payeeName>
+      <recipientName>Joseph Manchin</recipientName>
+      <amount>5000.00</amount>
+      <date>07/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Parsons Corporation Political Action Committee</contributorName>
+      <payeeName>Defend America PAC</payeeName>
+      <recipientName>Richard Shelby</recipientName>
+      <amount>5000.00</amount>
+      <date>08/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Parsons Corporation Political Action Committee</contributorName>
+      <payeeName>Stand Tall America PAC (STAPAC )</payeeName>
+      <recipientName>William Thornberry</recipientName>
+      <amount>5000.00</amount>
+      <date>08/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Parsons Corporation Political Action Committee</contributorName>
+      <payeeName>Common Values PAC</payeeName>
+      <recipientName>John Barrasso</recipientName>
+      <amount>5000.00</amount>
+      <date>08/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Parsons Corporation Political Action Committee</contributorName>
+      <payeeName>Schiff for Congress</payeeName>
+      <recipientName>Adam Schiff</recipientName>
+      <amount>2500.00</amount>
+      <date>08/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Parsons Corporation Political Action Committee</contributorName>
+      <payeeName>Fund for The Majority</payeeName>
+      <recipientName>Dianne Feinstein</recipientName>
+      <amount>1000.00</amount>
+      <date>08/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Parsons Corporation Political Action Committee</contributorName>
+      <payeeName>Adam Smith for Congress Committee</payeeName>
+      <recipientName>Adam Smith</recipientName>
+      <amount>5000.00</amount>
+      <date>08/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Parsons Corporation Political Action Committee</contributorName>
+      <payeeName>Making Business Excel PAC</payeeName>
+      <recipientName>Michael Enzi</recipientName>
+      <amount>1000.00</amount>
+      <date>08/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Parsons Corporation Political Action Committee</contributorName>
+      <payeeName>Barrasso Cassidy Victory Fund</payeeName>
+      <recipientName>William Cassidy</recipientName>
+      <amount>1500.00</amount>
+      <date>08/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Parsons Corporation Political Action Committee</contributorName>
+      <payeeName>Citizens To Elect Rick Larsen</payeeName>
+      <recipientName>Rick Larsen</recipientName>
+      <amount>5000.00</amount>
+      <date>08/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Parsons Corporation Political Action Committee</contributorName>
+      <payeeName>Ken Calvert for Congress</payeeName>
+      <recipientName>Ken Calvert</recipientName>
+      <amount>2500.00</amount>
+      <date>08/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Parsons Corporation Political Action Committee</contributorName>
+      <payeeName>DUTCH PAC</payeeName>
+      <recipientName>Dutch Ruppersberger</recipientName>
+      <amount>5000.00</amount>
+      <date>08/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Parsons Corporation Political Action Committee</contributorName>
+      <payeeName>Making Business Excel PAC</payeeName>
+      <recipientName>Michael Enzi</recipientName>
+      <amount>1500.00</amount>
+      <date>08/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Parsons Corporation Political Action Committee</contributorName>
+      <payeeName>Cathy McMorris Rodgers for Congress</payeeName>
+      <recipientName>Cathy McMorris Rodgers</recipientName>
+      <amount>2500.00</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Parsons Corporation Political Action Committee</contributorName>
+      <payeeName>Dan Crenshaw for Congress</payeeName>
+      <recipientName>Daniel Crenshaw</recipientName>
+      <amount>1000.00</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Parsons Corporation Political Action Committee</contributorName>
+      <payeeName>Committee for A Livable Future</payeeName>
+      <recipientName>Earl Blumenauer</recipientName>
+      <amount>5000.00</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Parsons Corporation Political Action Committee</contributorName>
+      <payeeName>Team Graham Inc.</payeeName>
+      <recipientName>Lindsey Graham</recipientName>
+      <amount>5000.00</amount>
+      <date>10/02/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Parsons Corporation Political Action Committee</contributorName>
+      <payeeName>Impact</payeeName>
+      <recipientName>Charles Schumer</recipientName>
+      <amount>5000.00</amount>
+      <date>10/07/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Parsons Corporation Political Action Committee</contributorName>
+      <payeeName>Dr Brian Babin for Congress</payeeName>
+      <recipientName>Brian Babin</recipientName>
+      <amount>2500.00</amount>
+      <date>10/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Parsons Corporation Political Action Committee</contributorName>
+      <payeeName>Pete Aguilar for Congress</payeeName>
+      <recipientName>Pete Aguilar</recipientName>
+      <amount>5000.00</amount>
+      <date>10/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Parsons Corporation Political Action Committee</contributorName>
+      <payeeName>Kay Granger Campaign Fund</payeeName>
+      <recipientName>Kay Granger</recipientName>
+      <amount>5000.00</amount>
+      <date>10/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Parsons Corporation Political Action Committee</contributorName>
+      <payeeName>Collins for Senator</payeeName>
+      <recipientName>Susan Collins</recipientName>
+      <amount>5000.00</amount>
+      <date>10/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Parsons Corporation Political Action Committee</contributorName>
+      <payeeName>Dutch Ruppersberger for Congress</payeeName>
+      <recipientName>Dutch Ruppersberger</recipientName>
+      <amount>5000.00</amount>
+      <date>10/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Parsons Corporation Political Action Committee</contributorName>
+      <payeeName>Pete Aguilar for Congress</payeeName>
+      <recipientName>Pete Aguilar</recipientName>
+      <amount>2500.00</amount>
+      <date>10/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Parsons Corporation Political Action Committee</contributorName>
+      <payeeName>Lucille Roybal-Allard for Congress</payeeName>
+      <recipientName>Lucille Roybal-Allard</recipientName>
+      <amount>5000.00</amount>
+      <date>10/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Parsons Corporation Political Action Committee</contributorName>
+      <payeeName>Mario Diaz-Balart For Congress</payeeName>
+      <recipientName>Mario Diaz-Balart</recipientName>
+      <amount>5000.00</amount>
+      <date>10/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Parsons Corporation Political Action Committee</contributorName>
+      <payeeName>Lisa Murkowski for US Senate</payeeName>
+      <recipientName>Lisa Murkowski</recipientName>
+      <amount>2500.00</amount>
+      <date>10/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Parsons Corporation Political Action Committee</contributorName>
+      <payeeName>Airport PAC</payeeName>
+      <recipientName>Airport PAC</recipientName>
+      <amount>1000.00</amount>
+      <date>11/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Parsons Corporation Political Action Committee</contributorName>
+      <payeeName>Joe Wilson for Congress Committee</payeeName>
+      <recipientName>Joe Wilson</recipientName>
+      <amount>5000.00</amount>
+      <date>11/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Parsons Corporation Political Action Committee</contributorName>
+      <payeeName>Simpson for Congress</payeeName>
+      <recipientName>Michael Simpson</recipientName>
+      <amount>5000.00</amount>
+      <date>11/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Parsons Corporation Political Action Committee</contributorName>
+      <payeeName>CA LUV PAC</payeeName>
+      <recipientName>Pete Aguilar</recipientName>
+      <amount>5000.00</amount>
+      <date>11/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Parsons Corporation Political Action Committee</contributorName>
+      <payeeName>Majority Committee PAC--MC PAC</payeeName>
+      <recipientName>Kevin McCarthy</recipientName>
+      <amount>5000.00</amount>
+      <date>12/27/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

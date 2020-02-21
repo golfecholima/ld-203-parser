@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>Cigar Association of America, Inc.</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <zipext>
+  </zipext>
+  <contactName>Dan Cotter</contactName>
+  <senateRegID>9226</senateRegID>
+  <houseRegID>32835</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/30/2020 1:20:33 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>Cigar PAC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigar PAC</contributorName>
+      <payeeName>Walden for Congress
+PO Box 1091
+Hood River, OR 97031</payeeName>
+      <recipientName>Gregory Walden </recipientName>
+      <amount>500.00</amount>
+      <date>07/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigar PAC</contributorName>
+      <payeeName>Clay Jr. for Congress
+PO Box 4544
+St. Louis, MO 63108</payeeName>
+      <recipientName>William Lacy Clay, Jr.</recipientName>
+      <amount>500.00</amount>
+      <date>09/16/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigar PAC</contributorName>
+      <payeeName>McKinley for Congress
+PO Box 642
+Morgantown, WV 26507</payeeName>
+      <recipientName>David McKinley </recipientName>
+      <amount>500.00</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigar PAC</contributorName>
+      <payeeName>Conservative Roundtable
+PO Box 97275
+Raleigh, NC 27624
+</payeeName>
+      <recipientName>George Holding </recipientName>
+      <amount>2500.00</amount>
+      <date>11/08/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigar PAC</contributorName>
+      <payeeName>Cole PAC
+12176 Chancery Station Circle 
+Reston, VA 20190</payeeName>
+      <recipientName>Tom Cole </recipientName>
+      <amount>2500.00</amount>
+      <date>11/08/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigar PAC</contributorName>
+      <payeeName>Gallego for Arizona
+PO Box 1710
+Phoenix, AZ 85001</payeeName>
+      <recipientName>Ruben Gallego</recipientName>
+      <amount>2500.00</amount>
+      <date>11/08/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigar PAC</contributorName>
+      <payeeName>Gallego for Arizona
+PO Box 1710 
+Phoenix, AZ 85001</payeeName>
+      <recipientName>Ruben Gallego; in-kind contribution meals and accommodations for trade association annual members meeting.</recipientName>
+      <amount>1111.63</amount>
+      <date>11/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigar PAC</contributorName>
+      <payeeName>Conservative Roundtable
+ PO Box 97275 
+Raleigh, NC 27624
+</payeeName>
+      <recipientName>George Holding; in-kind contribution meals and accommodations for trade association annual members meeting.</recipientName>
+      <amount>2500.00</amount>
+      <date>11/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigar PAC</contributorName>
+      <payeeName>Cole PAC 
+12176 Chancery Station Circle 
+Reston, VA 20190</payeeName>
+      <recipientName>Tom Cole; in-kind contribution meals and accommodations for trade association annual members meeting.</recipientName>
+      <amount>2431.68</amount>
+      <date>11/09/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

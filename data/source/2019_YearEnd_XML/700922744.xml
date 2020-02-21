@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>EMBRAER AIRCRAFT HOLDING, INC.</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>Mark Schramek</contactName>
+  <senateRegID>58476</senateRegID>
+  <houseRegID>35281</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/29/2020 9:47:28 AM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>EMBRAER AIRCRAFT HOLDING INC POLITICAL ACTION COMMITTEE</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>EMBRAER AIRCRAFT HOLDING INC POLITICAL ACTION COMMITTEE</contributorName>
+      <payeeName>Debbie Wasserman Schultz for Congress</payeeName>
+      <recipientName>Rep. Debbie Wasserman Schultz (FL-23)</recipientName>
+      <amount>2500.00</amount>
+      <date>08/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>EMBRAER AIRCRAFT HOLDING INC POLITICAL ACTION COMMITTEE</contributorName>
+      <payeeName>Michael Waltz for Congress </payeeName>
+      <recipientName>Rep. Michael Waltz (FL-06)</recipientName>
+      <amount>2000.00</amount>
+      <date>09/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>EMBRAER AIRCRAFT HOLDING INC POLITICAL ACTION COMMITTEE</contributorName>
+      <payeeName>Castor for Congress</payeeName>
+      <recipientName>Rep. Kathy Castor (FL-14) </recipientName>
+      <amount>1000.00</amount>
+      <date>09/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>EMBRAER AIRCRAFT HOLDING INC POLITICAL ACTION COMMITTEE</contributorName>
+      <payeeName>RECLAIM AMERICA PAC </payeeName>
+      <recipientName>RECLAIM AMERICA PAC (Leadership PAC)</recipientName>
+      <amount>1500.00</amount>
+      <date>10/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>EMBRAER AIRCRAFT HOLDING INC POLITICAL ACTION COMMITTEE</contributorName>
+      <payeeName>Larson for Congress</payeeName>
+      <recipientName>Rep. John B. Larson (CT-01)</recipientName>
+      <amount>1500.00</amount>
+      <date>10/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>EMBRAER AIRCRAFT HOLDING INC POLITICAL ACTION COMMITTEE</contributorName>
+      <payeeName>Vern Buchanan for Congress </payeeName>
+      <recipientName>Rep. Vern Buchanan (FL-16)</recipientName>
+      <amount>1000.00</amount>
+      <date>10/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>EMBRAER AIRCRAFT HOLDING INC POLITICAL ACTION COMMITTEE</contributorName>
+      <payeeName>Rick Scott for Florida </payeeName>
+      <recipientName>Sen. Rick Scott (FL)</recipientName>
+      <amount>1000.00</amount>
+      <date>10/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>EMBRAER AIRCRAFT HOLDING INC POLITICAL ACTION COMMITTEE</contributorName>
+      <payeeName>Citizens to Elect Rick Larsen
+</payeeName>
+      <recipientName>Rep. Rick Larsen (WA-02)</recipientName>
+      <amount>1000.00</amount>
+      <date>10/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>EMBRAER AIRCRAFT HOLDING INC POLITICAL ACTION COMMITTEE</contributorName>
+      <payeeName>CHARLIE CRIST FOR CONGRESS </payeeName>
+      <recipientName>Rep. Charlie Crist (FL-13)</recipientName>
+      <amount>1000.00</amount>
+      <date>11/05/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>Spangler Strategies LLC</organizationName>
+  <lobbyistPrefix>Ms.</lobbyistPrefix>
+  <lobbyistFirstName>Kathryn</lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>Spangler</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>401104722</senateRegID>
+  <houseRegID>43886</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/28/2020 8:36:08 AM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Michael Burgess for Congress</payeeName>
+      <recipientName>Rep. Michael Burgess</recipientName>
+      <amount>500.00</amount>
+      <date>07/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>NRSC</payeeName>
+      <recipientName>NRSC</recipientName>
+      <amount>125.00</amount>
+      <date>07/01/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>NRSC</payeeName>
+      <recipientName>NRSC</recipientName>
+      <amount>125.00</amount>
+      <date>08/01/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>NRSC</payeeName>
+      <recipientName>NRSC</recipientName>
+      <amount>125.00</amount>
+      <date>09/01/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>NRSC</payeeName>
+      <recipientName>NRSC</recipientName>
+      <amount>125.00</amount>
+      <date>10/01/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>NRSC</payeeName>
+      <recipientName>NRSC</recipientName>
+      <amount>125.00</amount>
+      <date>11/01/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>NRSC</payeeName>
+      <recipientName>NRSC</recipientName>
+      <amount>125.00</amount>
+      <date>12/01/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

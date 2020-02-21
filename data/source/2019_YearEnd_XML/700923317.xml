@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>K&amp;L GATES LLP</organizationName>
+  <lobbyistPrefix>Mr.</lobbyistPrefix>
+  <lobbyistFirstName>EMANUEL</lobbyistFirstName>
+  <lobbyistMiddleName>L</lobbyistMiddleName>
+  <lobbyistLastName>ROUVELAS</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>32098</senateRegID>
+  <houseRegID>31355</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/29/2020 2:00:18 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Delaney for President 2020</payeeName>
+      <recipientName>John Delaney</recipientName>
+      <amount>10.00</amount>
+      <date>07/01/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Huffstetler for Congress</payeeName>
+      <recipientName>Roger Dean Huffstetler</recipientName>
+      <amount>250.00</amount>
+      <date>08/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Van Hollen for Senate</payeeName>
+      <recipientName>Senator Chris Van Hollen</recipientName>
+      <amount>2800.00</amount>
+      <date>09/04/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Democratic Congressional Campaign Committee</payeeName>
+      <recipientName>Democratic Congressional Campaign Committee</recipientName>
+      <amount>10000.00</amount>
+      <date>09/04/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>David Price for Congress</payeeName>
+      <recipientName>Congressman David Price</recipientName>
+      <amount>1000.00</amount>
+      <date>10/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Elaine for Congress</payeeName>
+      <recipientName>Congresswoman Elaine Luria</recipientName>
+      <amount>2800.00</amount>
+      <date>11/07/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>ActBlue</payeeName>
+      <recipientName>ActBlue</recipientName>
+      <amount>10.00</amount>
+      <date>12/01/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

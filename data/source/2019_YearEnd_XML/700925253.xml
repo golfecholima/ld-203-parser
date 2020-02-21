@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>Accenture, LLP</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <zipext>
+  </zipext>
+  <contactName>Robert Hoffman</contactName>
+  <senateRegID>3960</senateRegID>
+  <houseRegID>31136</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/30/2020 1:51:13 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>
+  </noContributions>
+  <pacs>
+    <pac>
+      <name>Accenture PAC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Accenture PAC</contributorName>
+      <payeeName>Brady For Congress</payeeName>
+      <recipientName>Brady, Kevin</recipientName>
+      <amount>1000</amount>
+      <date>12/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Accenture PAC</contributorName>
+      <payeeName>Collins For Congress</payeeName>
+      <recipientName>Collins, Doug</recipientName>
+      <amount>2500</amount>
+      <date>12/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Accenture PAC</contributorName>
+      <payeeName>Texans For Senator John Cornyn</payeeName>
+      <recipientName>Cornyn, John</recipientName>
+      <amount>2500</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Accenture PAC</contributorName>
+      <payeeName>Equality PAC</payeeName>
+      <recipientName>Equality PAC</recipientName>
+      <amount>5000</amount>
+      <date>8/1/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Accenture PAC</contributorName>
+      <payeeName>Chrissy Houlahan For Congress</payeeName>
+      <recipientName>Houlahan, Chrissy</recipientName>
+      <amount>1000</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Accenture PAC</contributorName>
+      <payeeName>Friends Of Raja For Congress</payeeName>
+      <recipientName>Krishnamoorthi, Raja</recipientName>
+      <amount>1500</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Accenture PAC</contributorName>
+      <payeeName>LaHood for Congress</payeeName>
+      <recipientName>LaHood, Darin</recipientName>
+      <amount>1000</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Accenture PAC</contributorName>
+      <payeeName>Richard E Neal For Congress Committee</payeeName>
+      <recipientName>Neal, Richard</recipientName>
+      <amount>1000</amount>
+      <date>12/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Accenture PAC</contributorName>
+      <payeeName>PAC to the Future</payeeName>
+      <recipientName>Pelosi, Nancy</recipientName>
+      <amount>1000</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Accenture PAC</contributorName>
+      <payeeName>Reed Committee, The</payeeName>
+      <recipientName>Reed, John</recipientName>
+      <amount>1000</amount>
+      <date>12/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Accenture PAC</contributorName>
+      <payeeName>Friends Of Schumer</payeeName>
+      <recipientName>Schumer, Charles</recipientName>
+      <amount>1000</amount>
+      <date>12/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Accenture PAC</contributorName>
+      <payeeName>Walden For Congress</payeeName>
+      <recipientName>Walden, Gregory</recipientName>
+      <amount>1000</amount>
+      <date>9/26/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>Koch Companies Public Sector, LLC</organizationName>
+  <lobbyistPrefix>Mr.</lobbyistPrefix>
+  <lobbyistFirstName>BRIAN</lobbyistFirstName>
+  <lobbyistMiddleName>MATTHEW</lobbyistMiddleName>
+  <lobbyistLastName>HENNEBERRY</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>400390816</senateRegID>
+  <houseRegID>40509</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>I serve on the Candidate Selection Committee for Koch Industries Political Action Committee. I serve on the Board of the American Fuels and Petrochemical Manufacturers Political Action Committee</comments>
+  <signedDate>1/23/2020 2:02:22 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Scalise For Congress</payeeName>
+      <recipientName>U.S. Congressman Steve Scalise</recipientName>
+      <amount>2500.00</amount>
+      <date>09/03/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Cory Gardner For Senate</payeeName>
+      <recipientName>Cory Gardner, US Senate</recipientName>
+      <amount>2800.00</amount>
+      <date>09/03/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Cory Gardner For Senate</payeeName>
+      <recipientName>Cory Gardner, US Senate</recipientName>
+      <amount>2500.00</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Texans For Senator John Cornyn</payeeName>
+      <recipientName>John Cornyn, US Senate</recipientName>
+      <amount>1000.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>National Republican Senatorial Committee</payeeName>
+      <recipientName>National Republican Senatorial Committee</recipientName>
+      <amount>15000.00</amount>
+      <date>11/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Perdue for Senate</payeeName>
+      <recipientName>David Perdue, US Senate</recipientName>
+      <amount>1000.00</amount>
+      <date>12/19/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

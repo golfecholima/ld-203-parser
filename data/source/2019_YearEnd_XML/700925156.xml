@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>Alignment Government Strategies</organizationName>
+  <lobbyistPrefix>Mr.</lobbyistPrefix>
+  <lobbyistFirstName>Bert</lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>Carp</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>401103295</senateRegID>
+  <houseRegID>42588</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/30/2020 1:26:06 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>The Bill Keating Committee</payeeName>
+      <recipientName>Bill Keating</recipientName>
+      <amount>1000.00</amount>
+      <date>07/16/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Chris Van Hollen for Senate</payeeName>
+      <recipientName>Chris Van Hollen</recipientName>
+      <amount>2500.00</amount>
+      <date>08/28/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Gina Ortiz Jones for Congress</payeeName>
+      <recipientName>Gina Ortiz Jones</recipientName>
+      <amount>200.00</amount>
+      <date>09/09/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Leahy for U.S. Senator Committee</payeeName>
+      <recipientName>Patrick Leahy</recipientName>
+      <amount>1000.00</amount>
+      <date>09/19/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Gina Ortiz Jones for Congress</payeeName>
+      <recipientName>Gina Ortiz Jones</recipientName>
+      <amount>250.00</amount>
+      <date>10/01/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Chris Coons for Delaware</payeeName>
+      <recipientName>Chris Coons</recipientName>
+      <amount>500.00</amount>
+      <date>11/07/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Richard Neal for Congress Committee</payeeName>
+      <recipientName>Richard Neal</recipientName>
+      <amount>1000.00</amount>
+      <date>11/07/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>The Bill Keating Committee</payeeName>
+      <recipientName>Bill Keating</recipientName>
+      <amount>500.00</amount>
+      <date>11/18/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Jimmy Panetta for Congress</payeeName>
+      <recipientName>Jimmy Panetta</recipientName>
+      <amount>500.00</amount>
+      <date>12/03/19</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>BROWNSTEIN HYATT FARBER SCHRECK, LLP</organizationName>
+  <lobbyistPrefix>Mr.</lobbyistPrefix>
+  <lobbyistFirstName>MARC</lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>LAMPKIN</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>7257</senateRegID>
+  <houseRegID>31842</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/9/2020 3:11:44 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Monday Meeting PAC</payeeName>
+      <recipientName>Monday Meeting PAC</recipientName>
+      <amount>2500.00</amount>
+      <date>07/08/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Becchi for Congress</payeeName>
+      <recipientName>Rosemary Becchi</recipientName>
+      <amount>2400.00</amount>
+      <date>07/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Stivers for Congress</payeeName>
+      <recipientName>Rep. Steve Stivers </recipientName>
+      <amount>5000.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Becchi for Congress</payeeName>
+      <recipientName>Rosemary Becchi </recipientName>
+      <amount>500.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Tillis for Senate </payeeName>
+      <recipientName>Senator Thom Tillis </recipientName>
+      <amount>2500.00</amount>
+      <date>10/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Tiffany for Wisconsin</payeeName>
+      <recipientName>Tom Tiffany </recipientName>
+      <amount>2500.00</amount>
+      <date>11/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Jeff Sessions for Senate</payeeName>
+      <recipientName>Jeff Sessions </recipientName>
+      <amount>2500.00</amount>
+      <date>12/03/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

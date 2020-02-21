@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>Entergy Services, LLC</organizationName>
+  <lobbyistPrefix>Ms.</lobbyistPrefix>
+  <lobbyistFirstName>ALLISON</lobbyistFirstName>
+  <lobbyistMiddleName>L</lobbyistMiddleName>
+  <lobbyistLastName>GRAVES</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>13632</senateRegID>
+  <houseRegID>30437</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>My disclosure and certification are to the best of my knowledge, and based on reasonable due diligence.</comments>
+  <signedDate>1/29/2020 2:25:36 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Bill Cassidy For Senate</payeeName>
+      <recipientName>Senator Bill Cassidy</recipientName>
+      <amount>500.00</amount>
+      <date>10/02/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Wicker For Senate</payeeName>
+      <recipientName>Senator Roger Wicker</recipientName>
+      <amount>500.00</amount>
+      <date>10/29/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

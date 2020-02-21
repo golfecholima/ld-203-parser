@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>The University of Texas at Austin</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <zipext>
+  </zipext>
+  <contactName>R. Ellyn Perrone</contactName>
+  <senateRegID>40013107</senateRegID>
+  <houseRegID>44259</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/30/2020 4:54:44 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>Honorary Expenses</type>
+      <contributorName>Self</contributorName>
+      <payeeName>various vendors</payeeName>
+      <recipientName>Kay Bailey Hutchison (1 of 8 people honored at event)</recipientName>
+      <amount>132562.68</amount>
+      <date>11/07/2019</date>
+    </contribution>
+    <contribution>
+      <type>Presidential Library Expenses</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Lyndon Baines Johnson Foundation (LBJ Presidential Library)</payeeName>
+      <recipientName>n/a (event sponsorship cost for "The Summit on Race in America")</recipientName>
+      <amount>25000.00</amount>
+      <date>08/23/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

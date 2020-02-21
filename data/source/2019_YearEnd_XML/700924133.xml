@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>Otsuka America Pharmaceutical, Inc.</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>Molly Ryan</contactName>
+  <senateRegID>401093052</senateRegID>
+  <houseRegID>42452</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/30/2020 8:35:47 AM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>Otsuka US PAC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Otsuka US PAC</contributorName>
+      <payeeName>DOUG JONES FOR SENATE COMMITTEE</payeeName>
+      <recipientName>Senator Doug Jones</recipientName>
+      <amount>2500.00</amount>
+      <date>11/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Otsuka US PAC</contributorName>
+      <payeeName>HUDSON FOR CONGRESS</payeeName>
+      <recipientName>Rep. Richard L. Hudson,  Jr.</recipientName>
+      <amount>1000.00</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Otsuka US PAC</contributorName>
+      <payeeName>Upton For All Of Us</payeeName>
+      <recipientName>Rep. Fred S. Upton</recipientName>
+      <amount>1000.00</amount>
+      <date>08/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Otsuka US PAC</contributorName>
+      <payeeName>ROSEN FOR NEVADA</payeeName>
+      <recipientName>Sen. Jacklyn S. Rosen</recipientName>
+      <amount>1500.00</amount>
+      <date>11/01/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Otsuka US PAC</contributorName>
+      <payeeName>ROSEN FOR NEVADA</payeeName>
+      <recipientName>Sen. Jacklyn S. Rosen</recipientName>
+      <amount>1000.00</amount>
+      <date>10/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Otsuka US PAC</contributorName>
+      <payeeName>People For Patty Murray</payeeName>
+      <recipientName>Sen. Patty Murray</recipientName>
+      <amount>1000.00</amount>
+      <date>11/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Otsuka US PAC</contributorName>
+      <payeeName>MENENDEZ FOR SENATE</payeeName>
+      <recipientName>Sen. Bob Menendez</recipientName>
+      <amount>1000.00</amount>
+      <date>09/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Otsuka US PAC</contributorName>
+      <payeeName>BUCSHON FOR CONGRESS</payeeName>
+      <recipientName>Rep. Larry D. Buschon</recipientName>
+      <amount>2000.00</amount>
+      <date>09/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Otsuka US PAC</contributorName>
+      <payeeName>People For Patty Murray</payeeName>
+      <recipientName>Sen. Patty Murray</recipientName>
+      <amount>2000.00</amount>
+      <date>11/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Otsuka US PAC</contributorName>
+      <payeeName>Napolitano For Congress</payeeName>
+      <recipientName>Rep. Grace F. Napolitano</recipientName>
+      <amount>2000.00</amount>
+      <date>11/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Otsuka US PAC</contributorName>
+      <payeeName>Upton For All Of Us</payeeName>
+      <recipientName>Rep. Fred S. Upton</recipientName>
+      <amount>1000.00</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Otsuka US PAC</contributorName>
+      <payeeName>Matsui For Congress</payeeName>
+      <recipientName>Rep Doris Matsui</recipientName>
+      <amount>2000.00</amount>
+      <date>11/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Otsuka US PAC</contributorName>
+      <payeeName>HUDSON FOR CONGRESS</payeeName>
+      <recipientName>Rep. Richard L. Hudson, Jr.</recipientName>
+      <amount>1000.00</amount>
+      <date>11/04/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Otsuka US PAC</contributorName>
+      <payeeName>BILLY LONG FOR CONGRESS</payeeName>
+      <recipientName>Rep Billy Long</recipientName>
+      <amount>1000.00</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Otsuka US PAC</contributorName>
+      <payeeName>BILLY LONG FOR CONGRESS</payeeName>
+      <recipientName>Rep Billy Long</recipientName>
+      <amount>1000.00</amount>
+      <date>08/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Otsuka US PAC</contributorName>
+      <payeeName>TEAM MITT</payeeName>
+      <recipientName>Mitt Romney</recipientName>
+      <amount>1000.00</amount>
+      <date>10/03/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Otsuka US PAC</contributorName>
+      <payeeName>NEW SOUTH LEADERSHIP PAC</payeeName>
+      <recipientName>Rep. G.K. Butterfield</recipientName>
+      <amount>2000.00</amount>
+      <date>08/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Otsuka US PAC</contributorName>
+      <payeeName>RELY ON YOUR BELIEFS FUND</payeeName>
+      <recipientName>Rep Roy Blunt</recipientName>
+      <amount>4000.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Otsuka US PAC</contributorName>
+      <payeeName>KEYSTONE AMERICA PAC</payeeName>
+      <recipientName>Sen. Bob Casey, Democrats in PA running for Federal Office</recipientName>
+      <amount>3000.00</amount>
+      <date>10/03/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Otsuka US PAC</contributorName>
+      <payeeName>BELIEVE IN AMERICA PAC</payeeName>
+      <recipientName>Mitt Romney</recipientName>
+      <amount>1000.00</amount>
+      <date>10/03/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

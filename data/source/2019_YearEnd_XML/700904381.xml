@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>EXPERIAN NORTH AMERICA</organizationName>
+  <lobbyistPrefix>Mr.</lobbyistPrefix>
+  <lobbyistFirstName>ANTHONY</lobbyistFirstName>
+  <lobbyistMiddleName>L</lobbyistMiddleName>
+  <lobbyistLastName>HADLEY</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>293038</senateRegID>
+  <houseRegID>37336</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/8/2020 3:27:43 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>Donald Trump for President</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Donald Trump for President</contributorName>
+      <payeeName>Donald Trump for President</payeeName>
+      <recipientName>Donald Trump</recipientName>
+      <amount>100.00</amount>
+      <date>08/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Donald Trump for President</contributorName>
+      <payeeName>Donald Trump for President</payeeName>
+      <recipientName>Donald Trump</recipientName>
+      <amount>100.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Donald Trump for President</contributorName>
+      <payeeName>Donald Trump for President </payeeName>
+      <recipientName>Donald Trump</recipientName>
+      <amount>100.00</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Donald Trump for President</contributorName>
+      <payeeName>Donald Trump for President </payeeName>
+      <recipientName>Donald Trump</recipientName>
+      <amount>100.00</amount>
+      <date>11/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Donald Trump for President</contributorName>
+      <payeeName>Donald Trump for President </payeeName>
+      <recipientName>Donald Trump</recipientName>
+      <amount>250.00</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Donald Trump for President</contributorName>
+      <payeeName>Donald Trump for President</payeeName>
+      <recipientName>Donald Trump</recipientName>
+      <amount>100.00</amount>
+      <date>12/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Donald Trump for President</contributorName>
+      <payeeName>Donald Trump for President </payeeName>
+      <recipientName>Donald Trump </recipientName>
+      <amount>100.00</amount>
+      <date>07/30/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

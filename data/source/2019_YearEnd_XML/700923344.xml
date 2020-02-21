@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>S&amp;P Global Inc. (f/k/a McGraw Hill Financial Inc.)</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>Darlene Rosenkoetter</contactName>
+  <senateRegID>24442</senateRegID>
+  <houseRegID>31316</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/29/2020 2:12:38 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>S&amp;P Global Inc. Political Action Committee</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>S&amp;P Global Inc. Political Action Committee</contributorName>
+      <payeeName>Blaine for Congress</payeeName>
+      <recipientName>W. Blaine Luetkemeyer</recipientName>
+      <amount>5000.00</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>S&amp;P Global Inc. Political Action Committee</contributorName>
+      <payeeName>Chris Coons for Delaware</payeeName>
+      <recipientName>Christopher Andrew Coons</recipientName>
+      <amount>1000.00</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>S&amp;P Global Inc. Political Action Committee</contributorName>
+      <payeeName>Emmer for Congress</payeeName>
+      <recipientName>Thomas Earl Emmer, Jr.</recipientName>
+      <amount>3500.00</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>S&amp;P Global Inc. Political Action Committee</contributorName>
+      <payeeName>Friends of Denver Riggleman, Inc.</payeeName>
+      <recipientName>Denver L. Riggleman, III</recipientName>
+      <amount>1000.00</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>S&amp;P Global Inc. Political Action Committee</contributorName>
+      <payeeName>Friends of Jim Inhofe</payeeName>
+      <recipientName>James M. Inhofe</recipientName>
+      <amount>1000.00</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>S&amp;P Global Inc. Political Action Committee</contributorName>
+      <payeeName>Graves for Congress</payeeName>
+      <recipientName>Tom Graves</recipientName>
+      <amount>2500.00</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>S&amp;P Global Inc. Political Action Committee</contributorName>
+      <payeeName>IMPACT</payeeName>
+      <recipientName>Charles E. Schumer</recipientName>
+      <amount>5000.00</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>S&amp;P Global Inc. Political Action Committee</contributorName>
+      <payeeName>Sean Patrick Maloney for Congress</payeeName>
+      <recipientName>Sean Patrick Maloney</recipientName>
+      <amount>1000.00</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>S&amp;P Global Inc. Political Action Committee</contributorName>
+      <payeeName>Steve Daines for Montana</payeeName>
+      <recipientName>Steve David Daines</recipientName>
+      <amount>1000.00</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>S&amp;P Global Inc. Political Action Committee</contributorName>
+      <payeeName>Citizens For Prosperity In America Today PAC</payeeName>
+      <recipientName>Patrick Joseph Toomey</recipientName>
+      <amount>3000.00</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>S&amp;P Global Inc. Political Action Committee</contributorName>
+      <payeeName>Donna Shalala For Congress</payeeName>
+      <recipientName>Donna E. Shalala</recipientName>
+      <amount>1000.00</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>S&amp;P Global Inc. Political Action Committee</contributorName>
+      <payeeName>Freedom Fund</payeeName>
+      <recipientName>Michael Dean Crapo</recipientName>
+      <amount>5000.00</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>S&amp;P Global Inc. Political Action Committee</contributorName>
+      <payeeName>Friends of Chuck Schumer</payeeName>
+      <recipientName>Charles E. Schumer</recipientName>
+      <amount>2500.00</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>S&amp;P Global Inc. Political Action Committee</contributorName>
+      <payeeName>Manchin For West Virginia</payeeName>
+      <recipientName>Joseph Manchin, III</recipientName>
+      <amount>2500.00</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>S&amp;P Global Inc. Political Action Committee</contributorName>
+      <payeeName>McSally For Senate, Inc</payeeName>
+      <recipientName>Martha Elizabeth McSally</recipientName>
+      <amount>2500.00</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>S&amp;P Global Inc. Political Action Committee</contributorName>
+      <payeeName>Nevadans For Steven Horsford</payeeName>
+      <recipientName>Steven Alexzander Horsford</recipientName>
+      <amount>1000.00</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>S&amp;P Global Inc. Political Action Committee</contributorName>
+      <payeeName>Pallone for Congress</payeeName>
+      <recipientName>Frank Pallone, Jr. </recipientName>
+      <amount>1000.00</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>S&amp;P Global Inc. Political Action Committee</contributorName>
+      <payeeName>Richard E Neal For Congress Committee</payeeName>
+      <recipientName>Richard Edmund Neal</recipientName>
+      <amount>2500.00</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>S&amp;P Global Inc. Political Action Committee</contributorName>
+      <payeeName>Stabenow For US Senate</payeeName>
+      <recipientName>Deborah Stabenow</recipientName>
+      <amount>5000.00</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>S&amp;P Global Inc. Political Action Committee</contributorName>
+      <payeeName>Steil for Wisconsin, Inc.</payeeName>
+      <recipientName>Bryan G. Steil</recipientName>
+      <amount>1000.00</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>S&amp;P Global Inc. Political Action Committee</contributorName>
+      <payeeName>Stephanie Murphy for Congress</payeeName>
+      <recipientName>Stephanie N. Murphy</recipientName>
+      <amount>2500.00</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>S&amp;P Global Inc. Political Action Committee</contributorName>
+      <payeeName>Stivers for Congress</payeeName>
+      <recipientName>Steve Stivers</recipientName>
+      <amount>2500.00</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>S&amp;P Global Inc. Political Action Committee</contributorName>
+      <payeeName>Tina Smith for Minnesota</payeeName>
+      <recipientName>Tina Smith</recipientName>
+      <amount>1000.00</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>S&amp;P Global Inc. Political Action Committee</contributorName>
+      <payeeName>Treasure State PAC</payeeName>
+      <recipientName>Jon Tester</recipientName>
+      <amount>2500.00</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>S&amp;P Global Inc. Political Action Committee</contributorName>
+      <payeeName>National Republican Senatorial Committee</payeeName>
+      <recipientName>Republican United States Senators</recipientName>
+      <amount>15000.00</amount>
+      <date>12/17/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

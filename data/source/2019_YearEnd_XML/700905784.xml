@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>Genesis Healthcare Inc (Formerly listed as Genesis HealthCare Corporation)</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>James W. Tabak</contactName>
+  <senateRegID>40049384</senateRegID>
+  <houseRegID>39972</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/14/2020 2:46:41 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Steil for Wisconsin</payeeName>
+      <recipientName>Congressman Bryan Steil</recipientName>
+      <amount>2800.00</amount>
+      <date>08/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>McCarthy Victory Fund</payeeName>
+      <recipientName>Congressman Kevin McCarthy</recipientName>
+      <amount>6000.00</amount>
+      <date>08/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Dwight Evans for Congress</payeeName>
+      <recipientName>Congressman Dwight Evans</recipientName>
+      <amount>2500.00</amount>
+      <date>08/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Friends of Glenn Thompson</payeeName>
+      <recipientName>Congressman Glenn Thompson</recipientName>
+      <amount>2800.00</amount>
+      <date>08/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Heartland Values PAC</payeeName>
+      <recipientName>None Designated</recipientName>
+      <amount>2500.00</amount>
+      <date>09/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Pallone for Congress</payeeName>
+      <recipientName>Congressman Frank Pallone</recipientName>
+      <amount>1000.00</amount>
+      <date>10/08/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Friends of Mark Warner</payeeName>
+      <recipientName>Senator Mark Warner</recipientName>
+      <amount>1000.00</amount>
+      <date>11/04/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>DSCC</payeeName>
+      <recipientName>None Designated</recipientName>
+      <amount>10000.00</amount>
+      <date>11/04/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Friends of Schumer</payeeName>
+      <recipientName>Senator Chuck Schumer</recipientName>
+      <amount>5000.00</amount>
+      <date>11/04/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Anna Eshoo for Congress</payeeName>
+      <recipientName>Congresswoman Anna Eshoo</recipientName>
+      <amount>1000.00</amount>
+      <date>11/04/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>McConnell for Majority Leader</payeeName>
+      <recipientName>Senator Mitch McConnell</recipientName>
+      <amount>10000.00</amount>
+      <date>11/06/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>GUIDE CONSULTING SERVICES, INC.</organizationName>
+  <lobbyistPrefix>Mr.</lobbyistPrefix>
+  <lobbyistFirstName>ALFONSO</lobbyistFirstName>
+  <lobbyistMiddleName>V.</lobbyistMiddleName>
+  <lobbyistLastName>GUIDA</lobbyistLastName>
+  <lobbyistSuffix>JR</lobbyistSuffix>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>88256</senateRegID>
+  <houseRegID>38216</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/14/2020 11:22:34 AM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Mullin for Congress</payeeName>
+      <recipientName>Markwayne Mullin</recipientName>
+      <amount>500.00</amount>
+      <date>07/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Watkins for Congress</payeeName>
+      <recipientName>Steve Watkins</recipientName>
+      <amount>500.00</amount>
+      <date>07/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Watkins for Congress</payeeName>
+      <recipientName>Steve Watkins</recipientName>
+      <amount>500.00</amount>
+      <date>09/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Napolitano for Congress</payeeName>
+      <recipientName>Grace Napolitano</recipientName>
+      <amount>500.00</amount>
+      <date>09/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Walden for Congress</payeeName>
+      <recipientName>Greg Walden</recipientName>
+      <amount>1000.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Tom Reed for Congress</payeeName>
+      <recipientName>Tom Reed</recipientName>
+      <amount>500.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Matsui for Congress</payeeName>
+      <recipientName>Doris Matsui</recipientName>
+      <amount>500.00</amount>
+      <date>10/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Matsui for Congress</payeeName>
+      <recipientName>Doris Matsui</recipientName>
+      <amount>500.00</amount>
+      <date>12/03/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>The Brightup Group LLC</organizationName>
+  <lobbyistPrefix>Mr.</lobbyistPrefix>
+  <lobbyistFirstName>CRAIG</lobbyistFirstName>
+  <lobbyistMiddleName>S</lobbyistMiddleName>
+  <lobbyistLastName>BRIGHTUP</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>400419998</senateRegID>
+  <houseRegID>40633</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/13/2020 5:09:57 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Rob Portman for U.S. Senate</payeeName>
+      <recipientName>Sen. Rob Portman</recipientName>
+      <amount>250.00</amount>
+      <date>07/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Common Values PAC</payeeName>
+      <recipientName>Sen. John Barrasso</recipientName>
+      <amount>250.00</amount>
+      <date>10/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Amodei for Nevada</payeeName>
+      <recipientName>Rep. Mark Amodei</recipientName>
+      <amount>500.00</amount>
+      <date>12/04/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Vern Buchanan for Congress</payeeName>
+      <recipientName>Rep. Vern Buchanan</recipientName>
+      <amount>500.00</amount>
+      <date>12/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Armstrong for Congress</payeeName>
+      <recipientName>Rep. Kelly Armstrong</recipientName>
+      <amount>500.00</amount>
+      <date>12/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Smucker for Congress</payeeName>
+      <recipientName>Rep. Lloyd Smucker</recipientName>
+      <amount>500.00</amount>
+      <date>12/17/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

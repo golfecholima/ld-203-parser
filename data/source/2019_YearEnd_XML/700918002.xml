@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>Akin, Gump, Strauss, Hauer &amp; Feld</organizationName>
+  <lobbyistPrefix>Mr.</lobbyistPrefix>
+  <lobbyistFirstName>BRIAN</lobbyistFirstName>
+  <lobbyistMiddleName>ARTHUR</lobbyistMiddleName>
+  <lobbyistLastName>POMPER</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>682</senateRegID>
+  <houseRegID>31784</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/21/2020 11:23:37 AM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Abigail Spanberger for Congress</payeeName>
+      <recipientName>Rep. Abigail Spanberger</recipientName>
+      <amount>500.00</amount>
+      <date>07/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>All For Our Country PAC</payeeName>
+      <recipientName>Senator Catherine Cortez Masto</recipientName>
+      <amount>2500.00</amount>
+      <date>07/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Susie Lee for Congress</payeeName>
+      <recipientName>Rep. Susie Lee</recipientName>
+      <amount>1000.00</amount>
+      <date>07/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Sylvia Garcia for Congress</payeeName>
+      <recipientName>Rep. Sylvia Garcia</recipientName>
+      <amount>250.00</amount>
+      <date>07/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Friends of Don Beyer</payeeName>
+      <recipientName>Rep. Don Beyer</recipientName>
+      <amount>1000.00</amount>
+      <date>09/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>MJ for Texas</payeeName>
+      <recipientName>MJ Hegar</recipientName>
+      <amount>2000.00</amount>
+      <date>09/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Theresa Greenfield for Iowa</payeeName>
+      <recipientName>Theresa Greenfield</recipientName>
+      <amount>1000.00</amount>
+      <date>09/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Hickenlooper for Colorado</payeeName>
+      <recipientName>Governor John Hickenlooper</recipientName>
+      <amount>1000.00</amount>
+      <date>09/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Abigail Spanberger for Congress</payeeName>
+      <recipientName>Rep. Abigail Spanberger</recipientName>
+      <amount>500.00</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Colin Allred for Congress</payeeName>
+      <recipientName>Rep. Colin Allred</recipientName>
+      <amount>500.00</amount>
+      <date>10/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Tony Cardenas for Congress</payeeName>
+      <recipientName>Rep. Tony Cardenas</recipientName>
+      <amount>1000.00</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Hawaii Senate Victory Fund</payeeName>
+      <recipientName>Senator Brian Schatz</recipientName>
+      <amount>1000.00</amount>
+      <date>10/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>First State PAC</payeeName>
+      <recipientName>Senator Tom Carper</recipientName>
+      <amount>1000.00</amount>
+      <date>10/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Friends of Schumer</payeeName>
+      <recipientName>Senator Chuck Schumer</recipientName>
+      <amount>1000.00</amount>
+      <date>10/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Brindisi for Congress</payeeName>
+      <recipientName>Rep. Anthony Brindisi</recipientName>
+      <amount>500.00</amount>
+      <date>11/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Casten for Congress</payeeName>
+      <recipientName>Rep. Sean Casten</recipientName>
+      <amount>500.00</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Peters for Michigan</payeeName>
+      <recipientName>Senator Gary Peters</recipientName>
+      <amount>500.00</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Kathleen Williams for Montana</payeeName>
+      <recipientName>Kathleen Williams</recipientName>
+      <amount>500.00</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Antone Melton-Meaux for Congress</payeeName>
+      <recipientName>Antone Melton-Meaux</recipientName>
+      <amount>500.00</amount>
+      <date>12/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Warner Victory Fund</payeeName>
+      <recipientName>Senator Mark Warner</recipientName>
+      <amount>5000.00</amount>
+      <date>07/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Chris Coons for Delaware</payeeName>
+      <recipientName>Senator Chris Coons</recipientName>
+      <amount>500.00</amount>
+      <date>10/26/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

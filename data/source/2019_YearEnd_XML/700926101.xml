@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>Steptoe &amp; Johnson LLP</organizationName>
+  <lobbyistPrefix>Mr.</lobbyistPrefix>
+  <lobbyistFirstName>Micah</lobbyistFirstName>
+  <lobbyistMiddleName>Samuel</lobbyistMiddleName>
+  <lobbyistLastName>Green</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>36710</senateRegID>
+  <houseRegID>31033</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/30/2020 5:02:22 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Gwen Moore for Congress</payeeName>
+      <recipientName>Congresswoman Gwen Moore</recipientName>
+      <amount>500.00</amount>
+      <date>08/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Rosemary Becchi for Congress</payeeName>
+      <recipientName>Rosemary Becchi</recipientName>
+      <amount>250.00</amount>
+      <date>09/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Peters for Michigan</payeeName>
+      <recipientName>Senator Gary Peters</recipientName>
+      <amount>1000.00</amount>
+      <date>09/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Oz Vazquez for Congress</payeeName>
+      <recipientName>Osvaldo Vazquez</recipientName>
+      <amount>250.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Friends of Dan Kildee</payeeName>
+      <recipientName>Congressman Dan Kildee</recipientName>
+      <amount>500.00</amount>
+      <date>12/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Gwen Moore for Congress</payeeName>
+      <recipientName>Congresswoman Gwen Moore</recipientName>
+      <amount>500.00</amount>
+      <date>12/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Jaime Harrison for Senate</payeeName>
+      <recipientName>Jaime Harrison</recipientName>
+      <amount>500.00</amount>
+      <date>12/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>New Democrat Coalition Action Fund</payeeName>
+      <recipientName>New Democrat Coalition Action Fund</recipientName>
+      <amount>500.00</amount>
+      <date>12/31/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

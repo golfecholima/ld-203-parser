@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>SoundExchange</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <zipext>
+  </zipext>
+  <contactName>Rebecca O'Donnell</contactName>
+  <senateRegID>319734</senateRegID>
+  <houseRegID>39476</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/24/2020 5:22:14 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>Music Speaks: The SoundExchange, Inc. Legislative Fund</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Music Speaks: The SoundExchange, Inc. Legislative Fund</contributorName>
+      <payeeName>Biggs for Congress</payeeName>
+      <recipientName>Andy Biggs</recipientName>
+      <amount>500.00</amount>
+      <date>9/26/19</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

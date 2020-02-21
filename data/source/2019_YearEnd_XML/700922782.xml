@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>UNITED STATES TELECOM ASSN</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <zipext>
+  </zipext>
+  <contactName>Hawley Stanton</contactName>
+  <senateRegID>38847</senateRegID>
+  <houseRegID>30703</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/29/2020 10:02:29 AM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>
+  </noContributions>
+  <pacs>
+    <pac>
+      <name>United States Telecom Association Political Action Committee (TELECOMPAC)</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>United States Telecom Association Political Action Committee (TELECOMPAC)</contributorName>
+      <payeeName>Engel For Congress</payeeName>
+      <recipientName>Rep. Eliot Lance Engel</recipientName>
+      <amount>1000</amount>
+      <date>7/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>United States Telecom Association Political Action Committee (TELECOMPAC)</contributorName>
+      <payeeName>Texans For Henry Cuellar Congressional Campaign</payeeName>
+      <recipientName>Rep. Henry Roberto Cuellar</recipientName>
+      <amount>500</amount>
+      <date>7/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>United States Telecom Association Political Action Committee (TELECOMPAC)</contributorName>
+      <payeeName>Responsibility And Freedom Work PAC (RFWPAC)</payeeName>
+      <recipientName>Sen. Roger Frederick Wicker</recipientName>
+      <amount>1000</amount>
+      <date>7/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>United States Telecom Association Political Action Committee (TELECOMPAC)</contributorName>
+      <payeeName>Friends Of Jim Clyburn</payeeName>
+      <recipientName>Rep. James E. Clyburn</recipientName>
+      <amount>1500</amount>
+      <date>7/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>United States Telecom Association Political Action Committee (TELECOMPAC)</contributorName>
+      <payeeName>Mikie Sherrill For Congress</payeeName>
+      <recipientName>Rep. Mikie Sherrill</recipientName>
+      <amount>500</amount>
+      <date>7/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>United States Telecom Association Political Action Committee (TELECOMPAC)</contributorName>
+      <payeeName>A Whole Lot Of People For Grijalva Congressional Committee</payeeName>
+      <recipientName>Rep. Raul Manuel Grijalva</recipientName>
+      <amount>1000</amount>
+      <date>7/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>United States Telecom Association Political Action Committee (TELECOMPAC)</contributorName>
+      <payeeName>Tony Cardenas For Congress</payeeName>
+      <recipientName>Rep. Tony Cardenas</recipientName>
+      <amount>500</amount>
+      <date>8/8/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>United States Telecom Association Political Action Committee (TELECOMPAC)</contributorName>
+      <payeeName>Sinema For Arizona</payeeName>
+      <recipientName>Sen. Kyrsten Sinema</recipientName>
+      <amount>2000</amount>
+      <date>8/8/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>United States Telecom Association Political Action Committee (TELECOMPAC)</contributorName>
+      <payeeName>CHERPAC</payeeName>
+      <recipientName>Rep. Cheryl L. Bustos</recipientName>
+      <amount>2500</amount>
+      <date>8/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>United States Telecom Association Political Action Committee (TELECOMPAC)</contributorName>
+      <payeeName>Johnson For Congress</payeeName>
+      <recipientName>Rep. William L. Johnson</recipientName>
+      <amount>500</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>United States Telecom Association Political Action Committee (TELECOMPAC)</contributorName>
+      <payeeName>Liz Cheney For Wyoming</payeeName>
+      <recipientName>Rep. Elizabeth Cheney</recipientName>
+      <amount>500</amount>
+      <date>9/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>United States Telecom Association Political Action Committee (TELECOMPAC)</contributorName>
+      <payeeName>Jim Costa For Congress</payeeName>
+      <recipientName>Rep. James M. Costa</recipientName>
+      <amount>1000</amount>
+      <date>10/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>United States Telecom Association Political Action Committee (TELECOMPAC)</contributorName>
+      <payeeName>Pallone For Congress</payeeName>
+      <recipientName>Rep. Frank Pallone, Jr.</recipientName>
+      <amount>2500</amount>
+      <date>10/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>United States Telecom Association Political Action Committee (TELECOMPAC)</contributorName>
+      <payeeName>Chris Coons For Delaware</payeeName>
+      <recipientName>Sen. Christopher Andrew Coons</recipientName>
+      <amount>1000</amount>
+      <date>10/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>United States Telecom Association Political Action Committee (TELECOMPAC)</contributorName>
+      <payeeName>Kuster For Congress, Inc</payeeName>
+      <recipientName>Rep. Ann McLane Kuster</recipientName>
+      <amount>1000</amount>
+      <date>10/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>United States Telecom Association Political Action Committee (TELECOMPAC)</contributorName>
+      <payeeName>Marc Veasey Congressional Campaign Committee</payeeName>
+      <recipientName>Rep. Marc A. Veasey</recipientName>
+      <amount>2000</amount>
+      <date>10/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>United States Telecom Association Political Action Committee (TELECOMPAC)</contributorName>
+      <payeeName>Filemon Vela For Congress</payeeName>
+      <recipientName>Rep. Filemon Bartolome Vela, Jr.</recipientName>
+      <amount>1000</amount>
+      <date>10/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>United States Telecom Association Political Action Committee (TELECOMPAC)</contributorName>
+      <payeeName>Dan Crenshaw For Congress</payeeName>
+      <recipientName>Rep. Daniel Crenshaw</recipientName>
+      <amount>500</amount>
+      <date>10/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>United States Telecom Association Political Action Committee (TELECOMPAC)</contributorName>
+      <payeeName>Katherine Clark For Congress</payeeName>
+      <recipientName>Rep. Katherine M. Clark</recipientName>
+      <amount>1000</amount>
+      <date>11/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>United States Telecom Association Political Action Committee (TELECOMPAC)</contributorName>
+      <payeeName>Alaskans For Dan Sullivan</payeeName>
+      <recipientName>Sen. Daniel Scott Sullivan</recipientName>
+      <amount>1500</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>United States Telecom Association Political Action Committee (TELECOMPAC)</contributorName>
+      <payeeName>Doug Jones For Senate Committee</payeeName>
+      <recipientName>Sen. Doug Jones</recipientName>
+      <amount>1000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>United States Telecom Association Political Action Committee (TELECOMPAC)</contributorName>
+      <payeeName>Hudson For Congress</payeeName>
+      <recipientName>Rep. Richard Lane Hudson, Jr.</recipientName>
+      <amount>1000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>United States Telecom Association Political Action Committee (TELECOMPAC)</contributorName>
+      <payeeName>The Markey Committee</payeeName>
+      <recipientName>Sen. Edward John Markey</recipientName>
+      <amount>1000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>United States Telecom Association Political Action Committee (TELECOMPAC)</contributorName>
+      <payeeName>Cathy McMorris Rodgers For Congress</payeeName>
+      <recipientName>Rep. Cathy McMorris Rodgers</recipientName>
+      <amount>2500</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>United States Telecom Association Political Action Committee (TELECOMPAC)</contributorName>
+      <payeeName>Rob Wittman For Congress</payeeName>
+      <recipientName>Rep. Robert Joseph Wittman</recipientName>
+      <amount>500</amount>
+      <date>12/19/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

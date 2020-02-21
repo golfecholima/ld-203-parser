@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>DAYTON DEVELOPMENT COALITION</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <country>
+  </country>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>MICHAEL GESSEL</contactName>
+  <contactPhone>
+  </contactPhone>
+  <senateRegID>82658</senateRegID>
+  <houseRegID>36370</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/14/2020 12:57:23 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>Honorary Expenses</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Kohler Catering</payeeName>
+      <recipientName>Gen. Arnold Bunch, Jr.</recipientName>
+      <amount>647.97</amount>
+      <date>09/05/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

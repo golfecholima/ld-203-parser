@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>Sidley Austin LLP</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>Michael Nemeroff</contactName>
+  <senateRegID>35230</senateRegID>
+  <houseRegID>31204</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/17/2020 10:29:12 AM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>Sidley Austin Good Government Fund</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Sidley Austin Good Government Fund</contributorName>
+      <payeeName>Cotton Victory Committee</payeeName>
+      <recipientName>Tom Cotton</recipientName>
+      <amount>5000.00</amount>
+      <date>8/8/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Sidley Austin Good Government Fund</contributorName>
+      <payeeName>Cotton Victory Committee</payeeName>
+      <recipientName>Tom Cotton</recipientName>
+      <amount>2000.00</amount>
+      <date>8/8/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Sidley Austin Good Government Fund</contributorName>
+      <payeeName>Texans for Senator John Cornyn Inc.</payeeName>
+      <recipientName>John Cornyn</recipientName>
+      <amount>5000.00</amount>
+      <date>8/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Sidley Austin Good Government Fund</contributorName>
+      <payeeName>Texans for Senator John Cornyn Inc.</payeeName>
+      <recipientName>John Cornyn</recipientName>
+      <amount>5000.00</amount>
+      <date>8/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Sidley Austin Good Government Fund</contributorName>
+      <payeeName>Ernst Victory</payeeName>
+      <recipientName>Joni Ernst </recipientName>
+      <amount>5000.00</amount>
+      <date>9/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Sidley Austin Good Government Fund</contributorName>
+      <payeeName>McHenry for Congress</payeeName>
+      <recipientName>Patrick McHenry</recipientName>
+      <amount>5000.00</amount>
+      <date>10/1/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Sidley Austin Good Government Fund</contributorName>
+      <payeeName>Brady for Congress</payeeName>
+      <recipientName>Kevin Brady </recipientName>
+      <amount>3000.00</amount>
+      <date>10/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Sidley Austin Good Government Fund</contributorName>
+      <payeeName>Citizens for Waters</payeeName>
+      <recipientName>Maxine Waters</recipientName>
+      <amount>5000.00</amount>
+      <date>10/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Sidley Austin Good Government Fund</contributorName>
+      <payeeName>Friends of Mark Warner</payeeName>
+      <recipientName>Mark Warner</recipientName>
+      <amount>5000.00</amount>
+      <date>11/13/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

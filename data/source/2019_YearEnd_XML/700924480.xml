@@ -1,0 +1,1759 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>NAREIT</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <zipext>
+  </zipext>
+  <contactName>ROBERT L. DIBBLEE</contactName>
+  <senateRegID>27068</senateRegID>
+  <houseRegID>30251</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/30/2020 10:32:03 AM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>
+  </noContributions>
+  <pacs>
+    <pac>
+      <name>REITPAC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>LaHood for Congress</payeeName>
+      <recipientName>Rep. Darin M. LaHood (R)</recipientName>
+      <amount>3000</amount>
+      <date>7/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Free State PAC</payeeName>
+      <recipientName>Sen. Jerry W. Moran (R)</recipientName>
+      <amount>-1000</amount>
+      <date>7/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Schneider For Congress</payeeName>
+      <recipientName>Rep. Bradley Scott Schneider (D)</recipientName>
+      <amount>1000</amount>
+      <date>7/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Gary Palmer For Congress</payeeName>
+      <recipientName>Rep. Gary James Palmer (R)</recipientName>
+      <amount>2500</amount>
+      <date>7/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Doug Jones For Senate Committee</payeeName>
+      <recipientName>Sen. Doug Jones (D)</recipientName>
+      <amount>2500</amount>
+      <date>7/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Liz Cheney For Wyoming</payeeName>
+      <recipientName>Rep. Elizabeth Cheney (R)</recipientName>
+      <amount>5000</amount>
+      <date>7/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>4 Ma PAC</payeeName>
+      <recipientName>Rep. Joseph Patrick Kennedy, III (D)</recipientName>
+      <amount>2500</amount>
+      <date>7/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>DelBene for Congress</payeeName>
+      <recipientName>Rep. Suzan Kay DelBene (D)</recipientName>
+      <amount>5000</amount>
+      <date>7/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Granite Values PAC</payeeName>
+      <recipientName>Sen. Margaret Wood Hassan (D)</recipientName>
+      <amount>2500</amount>
+      <date>7/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Hawaii PAC</payeeName>
+      <recipientName>Sen. Brian Emanuel Schatz (D)</recipientName>
+      <amount>2500</amount>
+      <date>7/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>DelBene for Congress</payeeName>
+      <recipientName>Rep. Suzan Kay DelBene (D)</recipientName>
+      <amount>2500</amount>
+      <date>7/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>IMPACT</payeeName>
+      <recipientName>Sen. Charles E. Schumer (D)</recipientName>
+      <amount>5000</amount>
+      <date>7/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Peters For Michigan</payeeName>
+      <recipientName>Sen. Gary Charles Peters (D)</recipientName>
+      <amount>2500</amount>
+      <date>7/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Dwight Evans For Congress</payeeName>
+      <recipientName>Rep. Dwight Evans (D)</recipientName>
+      <amount>3000</amount>
+      <date>7/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Josh Gottheimer For Congress</payeeName>
+      <recipientName>Rep. Joshua S. Gottheimer (D)</recipientName>
+      <amount>2500</amount>
+      <date>7/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Adrian Smith For Congress</payeeName>
+      <recipientName>Rep. Adrian Michael Smith (R)</recipientName>
+      <amount>1000</amount>
+      <date>7/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Collins For Senator</payeeName>
+      <recipientName>Sen. Susan Margaret Collins (R)</recipientName>
+      <amount>1000</amount>
+      <date>7/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Drew Ferguson For Congress Inc.</payeeName>
+      <recipientName>Rep. A. Drew Ferguson, IV (R)</recipientName>
+      <amount>2000</amount>
+      <date>7/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Keystone America PAC</payeeName>
+      <recipientName>Sen. Robert P. Casey, Jr. (D)</recipientName>
+      <amount>2500</amount>
+      <date>7/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Abraham Lincoln PAC</payeeName>
+      <recipientName>Rep. Darin M. LaHood (R)</recipientName>
+      <amount>5000</amount>
+      <date>7/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Evergreen PAC</payeeName>
+      <recipientName>Rep. Suzan Kay DelBene (D)</recipientName>
+      <amount>5000</amount>
+      <date>7/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Mario Diaz-Balart For Congress</payeeName>
+      <recipientName>Rep. Mario Rafael Diaz-Balart (R)</recipientName>
+      <amount>2500</amount>
+      <date>7/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Joni For Iowa</payeeName>
+      <recipientName>Sen. Joni Kay Ernst (R)</recipientName>
+      <amount>1500</amount>
+      <date>7/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Scott Peters For Congress</payeeName>
+      <recipientName>Rep. Scott H. Peters (D)</recipientName>
+      <amount>1000</amount>
+      <date>8/2/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Judy Chu For Congress</payeeName>
+      <recipientName>Rep. Judy May Chu (D)</recipientName>
+      <amount>2500</amount>
+      <date>8/2/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Helping Every Campaign Kickoff (HECK PAC)</payeeName>
+      <recipientName>Rep. Dennis Heck (D)</recipientName>
+      <amount>2500</amount>
+      <date>8/2/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Stephanie Murphy For Congress</payeeName>
+      <recipientName>Rep. Stephanie N. Murphy (D)</recipientName>
+      <amount>2500</amount>
+      <date>8/2/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Pallone For Congress</payeeName>
+      <recipientName>Rep. Frank Pallone, Jr. (D)</recipientName>
+      <amount>2500</amount>
+      <date>8/2/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>People For Derek Kilmer</payeeName>
+      <recipientName>Rep. Derek Kilmer (D)</recipientName>
+      <amount>2500</amount>
+      <date>9/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Common Values PAC</payeeName>
+      <recipientName>Sen. John Anthony Barrasso (R)</recipientName>
+      <amount>4000</amount>
+      <date>9/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Friends Of David Schweikert</payeeName>
+      <recipientName>Rep. David Schweikert (R)</recipientName>
+      <amount>2500</amount>
+      <date>9/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Capito For West Virginia</payeeName>
+      <recipientName>Sen. Shelley Moore Capito (R)</recipientName>
+      <amount>1000</amount>
+      <date>9/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Victory In November Election PAC (VINEPAC)</payeeName>
+      <recipientName>Rep. Michael C. Thompson (D)</recipientName>
+      <amount>5000</amount>
+      <date>9/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Seeking Justice PAC</payeeName>
+      <recipientName>Sen. Doug Jones (D)</recipientName>
+      <amount>2500</amount>
+      <date>9/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Oorah! Political Action Committee</payeeName>
+      <recipientName>Sen. Todd Christopher Young (R)</recipientName>
+      <amount>2500</amount>
+      <date>9/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Steve Daines For Montana</payeeName>
+      <recipientName>Sen. Steve David Daines (R)</recipientName>
+      <amount>2500</amount>
+      <date>9/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>CHERPAC</payeeName>
+      <recipientName>Rep. Cheryl L. Bustos (D)</recipientName>
+      <amount>5000</amount>
+      <date>9/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>EDPAC</payeeName>
+      <recipientName>Rep. Edwin George Perlmutter (D)</recipientName>
+      <amount>2500</amount>
+      <date>9/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Wenstrup For Congress</payeeName>
+      <recipientName>Rep. Brad R. Wenstrup (R)</recipientName>
+      <amount>2500</amount>
+      <date>9/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Freedom Fund</payeeName>
+      <recipientName>Sen. Michael Dean Crapo (R)</recipientName>
+      <amount>5000</amount>
+      <date>9/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Synergy PAC</payeeName>
+      <recipientName>Rep. John Barry Larson (D)</recipientName>
+      <amount>5000</amount>
+      <date>9/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Steil For Wisconsin, Inc.</payeeName>
+      <recipientName>Rep. Bryan G. Steil (R)</recipientName>
+      <amount>2000</amount>
+      <date>9/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Free State PAC</payeeName>
+      <recipientName>Sen. Jerry W. Moran (R)</recipientName>
+      <amount>3500</amount>
+      <date>9/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Pascrell For Congress</payeeName>
+      <recipientName>Rep. William James Pascrell, Jr. (D)</recipientName>
+      <amount>2500</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Lead Encourage Elect PAC</payeeName>
+      <recipientName>Sen. Michael Shumway Lee (R)</recipientName>
+      <amount>2000</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Doggett For Congress</payeeName>
+      <recipientName>Rep. Lloyd Alton Doggett, II (D)</recipientName>
+      <amount>2500</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Dwight Evans For Congress</payeeName>
+      <recipientName>Rep. Dwight Evans (D)</recipientName>
+      <amount>1000</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Hoyer For Congress</payeeName>
+      <recipientName>Rep. Steny Hamilton Hoyer (D)</recipientName>
+      <amount>2500</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Keep America Rolling PAC</payeeName>
+      <recipientName>Rep. G. Mike J. Kelly (R)</recipientName>
+      <amount>5000</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Hoops PAC</payeeName>
+      <recipientName>Sen. Ron L. Wyden (D)</recipientName>
+      <amount>5000</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Suozzi For Congress</payeeName>
+      <recipientName>Rep. Thomas R. Suozzi (D)</recipientName>
+      <amount>2500</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Friends Of Mark Warner</payeeName>
+      <recipientName>Sen. Mark Robert Warner (D)</recipientName>
+      <amount>3500</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>The Reed Committee</payeeName>
+      <recipientName>Sen. Jack Francis Reed (D)</recipientName>
+      <amount>2500</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>The Hawkeye PAC</payeeName>
+      <recipientName>Sen. Charles E. Grassley (R)</recipientName>
+      <amount>5000</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Katko For Congress</payeeName>
+      <recipientName>Rep. John Michael Katko (R)</recipientName>
+      <amount>2000</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Friends Of Mark Warner</payeeName>
+      <recipientName>Sen. Mark Robert Warner (D)</recipientName>
+      <amount>5000</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Bridge The Gap PAC</payeeName>
+      <recipientName>Rep. Bradley Scott Schneider (D)</recipientName>
+      <amount>2500</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>LEGPAC</payeeName>
+      <recipientName>Sen. Benjamin L. Cardin (D)</recipientName>
+      <amount>5000</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Getting Stuff Done PAC (GSD-PAC)</payeeName>
+      <recipientName>Sen. Kyrsten Sinema (D)</recipientName>
+      <amount>1000</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Mike Kelly For Congress</payeeName>
+      <recipientName>Rep. G. Mike J. Kelly (R)</recipientName>
+      <amount>3000</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Jump Into Action For Conservatives To Keep Our Ideas Elevated PAC</payeeName>
+      <recipientName>Rep. Jacqueline Walorski (R)</recipientName>
+      <amount>2000</amount>
+      <date>9/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Perlmutter For Congress</payeeName>
+      <recipientName>Rep. Edwin George Perlmutter (D)</recipientName>
+      <amount>1000</amount>
+      <date>9/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Leadership And Accountability Are National Keys PAC</payeeName>
+      <recipientName>Sen. James Paul Lankford (R)</recipientName>
+      <amount>1500</amount>
+      <date>9/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Innovation Political Action Committee</payeeName>
+      <recipientName>Rep. Patrick Timothy McHenry (R)</recipientName>
+      <amount>1500</amount>
+      <date>9/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Jobs, Education, &amp; Families First - Jeff PAC</payeeName>
+      <recipientName>Rep. Hakeem S. Jeffries (D)</recipientName>
+      <amount>5000</amount>
+      <date>9/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Van Drew For Congress</payeeName>
+      <recipientName>Rep. Jeff Van Drew, D.D.S. (R)</recipientName>
+      <amount>1000</amount>
+      <date>9/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Giving Willingly Empowering Nationally (GWEN) PAC</payeeName>
+      <recipientName>Rep. Gwendolynne Sophia Moore (D)</recipientName>
+      <amount>2500</amount>
+      <date>9/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Joni For Iowa</payeeName>
+      <recipientName>Sen. Joni Kay Ernst (R)</recipientName>
+      <amount>1500</amount>
+      <date>9/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Ron Estes For Congress</payeeName>
+      <recipientName>Rep. Ron Estes (R)</recipientName>
+      <amount>2000</amount>
+      <date>9/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Walorski For Congress Inc</payeeName>
+      <recipientName>Rep. Jacqueline Walorski (R)</recipientName>
+      <amount>500</amount>
+      <date>9/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Lance Gooden For Congress Committee</payeeName>
+      <recipientName>Rep. Lance Gooden (R)</recipientName>
+      <amount>2500</amount>
+      <date>9/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Ted Budd For Congress</payeeName>
+      <recipientName>Rep. Theodore Paul Budd (R)</recipientName>
+      <amount>2000</amount>
+      <date>9/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Collins For Senator</payeeName>
+      <recipientName>Sen. Susan Margaret Collins (R)</recipientName>
+      <amount>1000</amount>
+      <date>9/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>PAC To the Future</payeeName>
+      <recipientName>Rep. Nancy Pelosi (D)</recipientName>
+      <amount>5000</amount>
+      <date>9/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Keep Al Green In Congress</payeeName>
+      <recipientName>Rep. Alexander N. Green (D)</recipientName>
+      <amount>1500</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Friends Of Dick Durbin Committee</payeeName>
+      <recipientName>Sen. Richard Joseph Durbin (D)</recipientName>
+      <amount>4000</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Casten For Congress</payeeName>
+      <recipientName>Rep. Sean Casten (D)</recipientName>
+      <amount>2000</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>George Holding For Congress Inc.</payeeName>
+      <recipientName>Rep. George E. Holding (R)</recipientName>
+      <amount>2000</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Committee For A Livable Future</payeeName>
+      <recipientName>Rep. Earl Francis Blumenauer (D)</recipientName>
+      <amount>2500</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Cory Gardner For Senate</payeeName>
+      <recipientName>Sen. Cory Gardner (R)</recipientName>
+      <amount>1000</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Blue Nevada PAC</payeeName>
+      <recipientName>Rep. Steven Alexzander Horsford (D)</recipientName>
+      <amount>2500</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Haley Stevens For Congress</payeeName>
+      <recipientName>Rep. Haley M. Stevens (D)</recipientName>
+      <amount>2000</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Moderate Democrats PAC</payeeName>
+      <recipientName>Moderate Democrats PAC</recipientName>
+      <amount>5000</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Nebraska Sandhills PAC</payeeName>
+      <recipientName>Sen. Debra S. Fischer (R)</recipientName>
+      <amount>1000</amount>
+      <date>10/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Restoring Our Nation (RON) PAC</payeeName>
+      <recipientName>Rep. Ron Estes (R)</recipientName>
+      <amount>1000</amount>
+      <date>10/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Devin Nunes Campaign Committee</payeeName>
+      <recipientName>Rep. Devin G. Nunes (R)</recipientName>
+      <amount>2500</amount>
+      <date>10/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Bulldog PAC</payeeName>
+      <recipientName>Rep. Jodey Cook Arrington (R)</recipientName>
+      <amount>2500</amount>
+      <date>10/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Badlands PAC</payeeName>
+      <recipientName>Sen. Kevin John Cramer (R)</recipientName>
+      <amount>1000</amount>
+      <date>10/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Texans For Jodey Arrington</payeeName>
+      <recipientName>Rep. Jodey Cook Arrington (R)</recipientName>
+      <amount>2500</amount>
+      <date>10/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Perdue For Senate</payeeName>
+      <recipientName>Sen. David Alfred Perdue, Jr. (R)</recipientName>
+      <amount>2500</amount>
+      <date>10/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Alamo PAC</payeeName>
+      <recipientName>Sen. John Cornyn, III (R)</recipientName>
+      <amount>2000</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Vote To Elect Republicans Now PAC (VERN PAC)</payeeName>
+      <recipientName>Rep. Vernon Gale Buchanan (R)</recipientName>
+      <amount>2500</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Battleground PAC</payeeName>
+      <recipientName>Rep. Bradley Mark Walker (R)</recipientName>
+      <amount>3000</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Jason Smith For Congress</payeeName>
+      <recipientName>Rep. Jason Thomas Smith (R)</recipientName>
+      <amount>2500</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Texans For Senator John Cornyn Inc.</payeeName>
+      <recipientName>Sen. John Cornyn, III (R)</recipientName>
+      <amount>2000</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Texans For Senator John Cornyn Inc.</payeeName>
+      <recipientName>Sen. John Cornyn, III (R)</recipientName>
+      <amount>5000</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Tina Smith For Minnesota</payeeName>
+      <recipientName>Sen. Tina Smith (D)</recipientName>
+      <amount>2500</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Bulldog PAC</payeeName>
+      <recipientName>Rep. Jodey Cook Arrington (R)</recipientName>
+      <amount>2500</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Maloney For Congress</payeeName>
+      <recipientName>Rep. Carolyn B. Maloney (D)</recipientName>
+      <amount>1000</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Curtis For Congress</payeeName>
+      <recipientName>Rep. John R. Curtis (R)</recipientName>
+      <amount>1000</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Joining Ideas To Motivate Movement For You (JIMMY PAC)</payeeName>
+      <recipientName>Rep. James V. Panetta (D)</recipientName>
+      <amount>2500</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Rely On Your Beliefs Fund</payeeName>
+      <recipientName>Sen. Roy Dean Blunt (R)</recipientName>
+      <amount>5000</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>BACKPAC</payeeName>
+      <recipientName>Rep. Donald S. Beyer, Jr. (D)</recipientName>
+      <amount>5000</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>George Holding For Congress Inc.</payeeName>
+      <recipientName>Rep. George E. Holding (R)</recipientName>
+      <amount>2500</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Blaine For Congress</payeeName>
+      <recipientName>Rep. W. Blaine Luetkemeyer (R)</recipientName>
+      <amount>2500</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Anthony Gonzalez For Congress</payeeName>
+      <recipientName>Rep. Anthony E Gonzalez (R)</recipientName>
+      <amount>2500</amount>
+      <date>11/8/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Schneider For Congress</payeeName>
+      <recipientName>Rep. Bradley Scott Schneider (D)</recipientName>
+      <amount>2500</amount>
+      <date>11/8/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Josh Gottheimer For Congress</payeeName>
+      <recipientName>Rep. Joshua S. Gottheimer (D)</recipientName>
+      <amount>1500</amount>
+      <date>11/8/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Val Demings For Congress</payeeName>
+      <recipientName>Rep. Valdez B. Demings (D)</recipientName>
+      <amount>2500</amount>
+      <date>11/8/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Great Lakes PAC</payeeName>
+      <recipientName>Sen. Deborah Stabenow (D)</recipientName>
+      <amount>5000</amount>
+      <date>11/8/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Josh Gottheimer For Congress</payeeName>
+      <recipientName>Rep. Joshua S. Gottheimer (D)</recipientName>
+      <amount>1000</amount>
+      <date>11/8/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Building America's Republican Representation PAC</payeeName>
+      <recipientName>Rep. Garland Hale Barr, IV (R)</recipientName>
+      <amount>3500</amount>
+      <date>11/8/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Next Century Fund</payeeName>
+      <recipientName>Sen. Richard M. Burr (R)</recipientName>
+      <amount>2500</amount>
+      <date>11/8/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Restoring Our Nation (RON) PAC</payeeName>
+      <recipientName>Rep. Ron Estes (R)</recipientName>
+      <amount>4000</amount>
+      <date>11/8/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Friends Of Cheri Bustos</payeeName>
+      <recipientName>Rep. Cheryl L. Bustos (D)</recipientName>
+      <amount>2500</amount>
+      <date>11/8/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Emmer For Congress</payeeName>
+      <recipientName>Rep. Thomas Earl Emmer, Jr. (R)</recipientName>
+      <amount>2500</amount>
+      <date>11/8/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Block By Block PAC</payeeName>
+      <recipientName>Rep. Dwight Evans (D)</recipientName>
+      <amount>2500</amount>
+      <date>11/8/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Huizenga For Congress</payeeName>
+      <recipientName>Rep. William Patrick Huizenga (R)</recipientName>
+      <amount>2000</amount>
+      <date>11/8/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Roger Williams For U S Congress Committee</payeeName>
+      <recipientName>Rep. Roger Williams (R)</recipientName>
+      <amount>2500</amount>
+      <date>11/8/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Citizens For Prosperity In America Today PAC</payeeName>
+      <recipientName>Sen. Patrick Joseph Toomey (R)</recipientName>
+      <amount>2000</amount>
+      <date>11/8/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>House Conservatives Fund</payeeName>
+      <recipientName>Rep. William H. Flores (R)</recipientName>
+      <amount>2500</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Point Pac, Inc.</payeeName>
+      <recipientName>Rep. A. Drew Ferguson, IV (R)</recipientName>
+      <amount>2500</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Simpson For Congress</payeeName>
+      <recipientName>Rep. Michael Keith Simpson (R)</recipientName>
+      <amount>1000</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Thom Tillis Committee</payeeName>
+      <recipientName>Sen. Thomas Roland Tillis (R)</recipientName>
+      <amount>1000</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Leadership And Accountability Are National Keys PAC</payeeName>
+      <recipientName>Sen. James Paul Lankford (R)</recipientName>
+      <amount>2500</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Terri Sewell For Congress</payeeName>
+      <recipientName>Rep. Terri Andrea Sewell (D)</recipientName>
+      <amount>4000</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Narragansett Bay PAC</payeeName>
+      <recipientName>Sen. Jack Francis Reed (D)</recipientName>
+      <amount>2500</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Irish American Democrats</payeeName>
+      <recipientName>Irish American Democrats</recipientName>
+      <amount>1000</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Drew Ferguson For Congress Inc.</payeeName>
+      <recipientName>Rep. A. Drew Ferguson, IV (R)</recipientName>
+      <amount>500</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Wexton For Congress</payeeName>
+      <recipientName>Rep. Jennifer T. Wexton (D)</recipientName>
+      <amount>1000</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Defending America's Values Everywhere (TEAM DAVE)</payeeName>
+      <recipientName>Rep. David Schweikert (R)</recipientName>
+      <amount>1000</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>John Rose For Tennessee</payeeName>
+      <recipientName>Rep. John W. Rose (R)</recipientName>
+      <amount>2000</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>America Works Federal PAC</payeeName>
+      <recipientName>Sen. Sherrod Campbell Brown (D)</recipientName>
+      <amount>5000</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Granite Values PAC</payeeName>
+      <recipientName>Sen. Margaret Wood Hassan (D)</recipientName>
+      <amount>2500</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Stephanie Murphy For Congress</payeeName>
+      <recipientName>Rep. Stephanie N. Murphy (D)</recipientName>
+      <amount>2500</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Excelsior PAC</payeeName>
+      <recipientName>Rep. Thomas W. Reed, II. (R)</recipientName>
+      <amount>5000</amount>
+      <date>12/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Brady For Congress</payeeName>
+      <recipientName>Rep. Kevin Patrick Brady (R)</recipientName>
+      <amount>1000</amount>
+      <date>12/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Generation Go</payeeName>
+      <recipientName>Rep. Jimmy Gomez (D)</recipientName>
+      <amount>5000</amount>
+      <date>12/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Building And Restoring The American Dream Fund</payeeName>
+      <recipientName>Rep. Brad R. Wenstrup (R)</recipientName>
+      <amount>5000</amount>
+      <date>12/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Republicans In Congress Empowering America</payeeName>
+      <recipientName>Rep. Tom Rice (R)</recipientName>
+      <amount>5000</amount>
+      <date>12/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Making A Responsible Stand For Households In America PAC</payeeName>
+      <recipientName>Sen. Marsha Wedgeworth Blackburn (R)</recipientName>
+      <amount>1000</amount>
+      <date>12/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>John Rose For Tennessee</payeeName>
+      <recipientName>Rep. John W. Rose (R)</recipientName>
+      <amount>2500</amount>
+      <date>12/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Hudson For Congress</payeeName>
+      <recipientName>Rep. Richard Lane Hudson, Jr. (R)</recipientName>
+      <amount>1000</amount>
+      <date>12/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Devin Nunes Campaign Committee</payeeName>
+      <recipientName>Rep. Devin G. Nunes (R)</recipientName>
+      <amount>1500</amount>
+      <date>12/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>McHenry For Congress</payeeName>
+      <recipientName>Rep. Patrick Timothy McHenry (R)</recipientName>
+      <amount>5000</amount>
+      <date>12/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Walker 4 NC</payeeName>
+      <recipientName>Rep. Bradley Mark Walker (R)</recipientName>
+      <amount>1500</amount>
+      <date>12/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Alex Mooney For Congress</payeeName>
+      <recipientName>Rep. Alexander X. Mooney (R)</recipientName>
+      <amount>1000</amount>
+      <date>12/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Adrian Smith For Congress</payeeName>
+      <recipientName>Rep. Adrian Michael Smith (R)</recipientName>
+      <amount>4000</amount>
+      <date>12/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>George Holding For Congress Inc.</payeeName>
+      <recipientName>Rep. George E. Holding (R)</recipientName>
+      <amount>500</amount>
+      <date>12/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Making America Prosperous PAC</payeeName>
+      <recipientName>Rep. Kevin Patrick Brady (R)</recipientName>
+      <amount>5000</amount>
+      <date>12/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Thom Tillis Committee</payeeName>
+      <recipientName>Sen. Thomas Roland Tillis (R)</recipientName>
+      <amount>500</amount>
+      <date>12/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Huizenga For Congress</payeeName>
+      <recipientName>Rep. William Patrick Huizenga (R)</recipientName>
+      <amount>1000</amount>
+      <date>12/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>New PAC</payeeName>
+      <recipientName>Rep. Devin G. Nunes (R)</recipientName>
+      <amount>5000</amount>
+      <date>12/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Conservative Roundtable</payeeName>
+      <recipientName>Rep. George E. Holding (R)</recipientName>
+      <amount>2000</amount>
+      <date>12/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Continuing America's Strength And Security PAC</payeeName>
+      <recipientName>Sen. William Cassidy (R)</recipientName>
+      <amount>5000</amount>
+      <date>12/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Electing Majority Making Effective Republicans</payeeName>
+      <recipientName>Rep. Thomas Earl Emmer, Jr. (R)</recipientName>
+      <amount>2500</amount>
+      <date>12/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Mike Johnson For Louisiana</payeeName>
+      <recipientName>Rep. Mike Johnson (R)</recipientName>
+      <amount>2500</amount>
+      <date>12/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Dakota PAC</payeeName>
+      <recipientName>Sen. John Henry Hoeven, III (R)</recipientName>
+      <amount>2500</amount>
+      <date>12/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Arkansas For Leadership Political Action Committee (ARKPAC)</payeeName>
+      <recipientName>Sen. John Nichols Boozman (R)</recipientName>
+      <amount>2500</amount>
+      <date>12/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Buck For Colorado</payeeName>
+      <recipientName>Rep. Kenneth R. Buck (R)</recipientName>
+      <amount>1000</amount>
+      <date>12/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Big Sky Opportunity PAC</payeeName>
+      <recipientName>Sen. Steve David Daines (R)</recipientName>
+      <amount>5000</amount>
+      <date>12/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Michigan's Future PAC</payeeName>
+      <recipientName>Rep. Daniel Timothy Kildee (D)</recipientName>
+      <amount>5000</amount>
+      <date>12/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Emmer For Congress</payeeName>
+      <recipientName>Rep. Thomas Earl Emmer, Jr. (R)</recipientName>
+      <amount>2500</amount>
+      <date>12/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Hoosier PAC</payeeName>
+      <recipientName>Sen. Michael K. Braun (R)</recipientName>
+      <amount>1000</amount>
+      <date>12/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Steve Daines For Montana</payeeName>
+      <recipientName>Sen. Steve David Daines (R)</recipientName>
+      <amount>1000</amount>
+      <date>12/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Wenstrup For Congress</payeeName>
+      <recipientName>Rep. Brad R. Wenstrup (R)</recipientName>
+      <amount>2500</amount>
+      <date>12/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>David Rouzer For Congress</payeeName>
+      <recipientName>Rep. David Cheston Rouzer (R)</recipientName>
+      <amount>1000</amount>
+      <date>12/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Together Holding Our Majority PAC</payeeName>
+      <recipientName>Sen. Thomas Roland Tillis (R)</recipientName>
+      <amount>2500</amount>
+      <date>12/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Hoyer For Congress</payeeName>
+      <recipientName>Rep. Steny Hamilton Hoyer (D)</recipientName>
+      <amount>2500</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>The Eye Of The Tiger Political Action Committee</payeeName>
+      <recipientName>Rep. Stephen Joseph Scalise (R)</recipientName>
+      <amount>2500</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>McConnell Senate Committee</payeeName>
+      <recipientName>Sen. Mitch McConnell (R)</recipientName>
+      <amount>5000</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Pascrell For Congress</payeeName>
+      <recipientName>Rep. William James Pascrell, Jr. (D)</recipientName>
+      <amount>1500</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Concerned Americans For Freedom &amp; Opportunity PAC (CAFO PAC)</payeeName>
+      <recipientName>Rep. Adrian Michael Smith (R)</recipientName>
+      <amount>5000</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Jamie Raskin For Congress</payeeName>
+      <recipientName>Rep. Jamie B. Raskin (D)</recipientName>
+      <amount>1000</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Believe In America PAC</payeeName>
+      <recipientName>Sen. Mitt Romney (R)</recipientName>
+      <amount>4000</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Billy Long For Congress</payeeName>
+      <recipientName>Rep. William H. Long, II (R)</recipientName>
+      <amount>1000</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Pete Aguilar For Congress</payeeName>
+      <recipientName>Rep. Peter Ray Aguilar (D)</recipientName>
+      <amount>2500</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Getting Stuff Done PAC (GSD-PAC)</payeeName>
+      <recipientName>Sen. Kyrsten Sinema (D)</recipientName>
+      <amount>4000</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Joining Ideas To Motivate Movement For You (JIMMY PAC)</payeeName>
+      <recipientName>Rep. James V. Panetta (D)</recipientName>
+      <amount>2500</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Capito For West Virginia</payeeName>
+      <recipientName>Sen. Shelley Moore Capito (R)</recipientName>
+      <amount>500</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>New Economy PAC</payeeName>
+      <recipientName>Rep. Brian M. Higgins (D)</recipientName>
+      <amount>5000</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Bfb PAC</payeeName>
+      <recipientName>Rep. Brendan Francis Boyle (D)</recipientName>
+      <amount>5000</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>New Voice PAC</payeeName>
+      <recipientName>Rep. Joyce Beatty (D)</recipientName>
+      <amount>2500</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Together Everyone Realizes Real ImPACt Aka Terri PAC</payeeName>
+      <recipientName>Rep. Terri Andrea Sewell (D)</recipientName>
+      <amount>5000</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>BADGERPAC</payeeName>
+      <recipientName>Rep. Ronald James Kind (D)</recipientName>
+      <amount>5000</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Democrats Win Seats (DWS PAC)</payeeName>
+      <recipientName>Rep. Debbie Wasserman Schultz (D)</recipientName>
+      <amount>1000</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Common Good PAC</payeeName>
+      <recipientName>Rep. Thomas R. Suozzi (D)</recipientName>
+      <amount>5000</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Collins For Senator</payeeName>
+      <recipientName>Sen. Susan Margaret Collins (R)</recipientName>
+      <amount>1000</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Bridge The Gap PAC</payeeName>
+      <recipientName>Rep. Bradley Scott Schneider (D)</recipientName>
+      <amount>2500</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Keystone America PAC</payeeName>
+      <recipientName>Sen. Robert P. Casey, Jr. (D)</recipientName>
+      <amount>2500</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Victory Now PAC</payeeName>
+      <recipientName>Sen. Christopher Van Hollen (D)</recipientName>
+      <amount>2500</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>John Lewis For Congress</payeeName>
+      <recipientName>Rep. John Robert Lewis (D)</recipientName>
+      <amount>2500</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Cotton For Senate, Inc.</payeeName>
+      <recipientName>Sen. Thomas Bryant Cotton (R)</recipientName>
+      <amount>1000</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Richard E Neal For Congress Committee</payeeName>
+      <recipientName>Rep. Richard Edmund Neal (D)</recipientName>
+      <amount>2500</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Treasure State PAC</payeeName>
+      <recipientName>Sen. Jon Tester (D)</recipientName>
+      <amount>5000</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>CHC BOLD PAC</payeeName>
+      <recipientName>CHC BOLD PAC</recipientName>
+      <amount>5000</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Donald Norcross For Congress</payeeName>
+      <recipientName>Rep. Donald W. Norcross (D)</recipientName>
+      <amount>1000</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Friends Of Dan Kildee</payeeName>
+      <recipientName>Rep. Daniel Timothy Kildee (D)</recipientName>
+      <amount>2500</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Katherine Clark For Congress</payeeName>
+      <recipientName>Rep. Katherine M. Clark (D)</recipientName>
+      <amount>2500</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Silk PAC</payeeName>
+      <recipientName>Rep. William James Pascrell, Jr. (D)</recipientName>
+      <amount>5000</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Beatty For Congress</payeeName>
+      <recipientName>Rep. Joyce Beatty (D)</recipientName>
+      <amount>2500</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Carolyn's PAC</payeeName>
+      <recipientName>Rep. Carolyn B. Maloney (D)</recipientName>
+      <amount>5000</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Brian Higgins For Congress</payeeName>
+      <recipientName>Rep. Brian M. Higgins (D)</recipientName>
+      <amount>1500</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Vote To Elect Republicans Now PAC (VERN PAC)</payeeName>
+      <recipientName>Rep. Vernon Gale Buchanan (R)</recipientName>
+      <amount>2500</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>New Voice PAC</payeeName>
+      <recipientName>Rep. Joyce Beatty (D)</recipientName>
+      <amount>2500</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Rick W. Allen For Congress</payeeName>
+      <recipientName>Rep. Richard W. Allen (R)</recipientName>
+      <amount>1000</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Conservative Promises PAC</payeeName>
+      <recipientName>Rep. Gary James Palmer (R)</recipientName>
+      <amount>2500</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Committee For A Livable Future</payeeName>
+      <recipientName>Rep. Earl Francis Blumenauer (D)</recipientName>
+      <amount>2500</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Brian Higgins For Congress</payeeName>
+      <recipientName>Rep. Brian M. Higgins (D)</recipientName>
+      <amount>1000</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>First State PAC</payeeName>
+      <recipientName>Sen. Thomas Richard Carper (D)</recipientName>
+      <amount>2500</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>M-PAC</payeeName>
+      <recipientName>Sen. Patricia Lynn Murray (D)</recipientName>
+      <amount>5000</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Together We Rise</payeeName>
+      <recipientName>Rep. Judy May Chu (D)</recipientName>
+      <amount>5000</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Jump Into Action For Conservatives To Keep Our Ideas Elevated PAC</payeeName>
+      <recipientName>Rep. Jacqueline Walorski (R)</recipientName>
+      <amount>3000</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Forward Together PAC</payeeName>
+      <recipientName>Sen. Mark Robert Warner (D)</recipientName>
+      <amount>5000</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>REITPAC</contributorName>
+      <payeeName>Defending America's Values Everywhere (TEAM DAVE)</payeeName>
+      <recipientName>Rep. David Schweikert (R)</recipientName>
+      <amount>4000</amount>
+      <date>12/20/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

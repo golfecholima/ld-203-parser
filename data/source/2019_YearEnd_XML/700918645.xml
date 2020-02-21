@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>FOCUS DC LLC</organizationName>
+  <lobbyistPrefix>Mr.</lobbyistPrefix>
+  <lobbyistFirstName>Matthew</lobbyistFirstName>
+  <lobbyistMiddleName>T</lobbyistMiddleName>
+  <lobbyistLastName>Gerson</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>401104454</senateRegID>
+  <houseRegID>43642</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/21/2020 8:54:13 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Nadler for Congress</payeeName>
+      <recipientName>U.S. Representative Jerry Nadler</recipientName>
+      <amount>500.00</amount>
+      <date>9/30/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Oceans PAC</payeeName>
+      <recipientName>U.S. Senator Sheldon Whitehouse</recipientName>
+      <amount>500.00</amount>
+      <date>10/15/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Darrell Issa for Congress</payeeName>
+      <recipientName>Former U.S. Representative Darrell Issa, Candidate for U.S. House of Representatives</recipientName>
+      <amount>500.00</amount>
+      <date>11/1/19</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

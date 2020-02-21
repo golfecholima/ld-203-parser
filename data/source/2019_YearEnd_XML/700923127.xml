@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>Hobart Hallaway &amp; Quayle Ventures, LLC</organizationName>
+  <lobbyistPrefix>Mr.</lobbyistPrefix>
+  <lobbyistFirstName>Benjamin </lobbyistFirstName>
+  <lobbyistMiddleName>E.</lobbyistMiddleName>
+  <lobbyistLastName>Quayle</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>401103475</senateRegID>
+  <houseRegID>42787</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/29/2020 12:28:46 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>ELISE FOR CONGRESS</payeeName>
+      <recipientName>ELISE STEFANIK</recipientName>
+      <amount>500.00</amount>
+      <date>07/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>KINZINGER FOR CONGRESS</payeeName>
+      <recipientName>ADAM KINZINGER</recipientName>
+      <amount>500.00</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>JOHN KENNEDY FOR US</payeeName>
+      <recipientName>JOHN KENNEDY</recipientName>
+      <amount>1000.00</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>CORY GARDNER FOR SENATE</payeeName>
+      <recipientName>CORY GARDNER</recipientName>
+      <amount>1000.00</amount>
+      <date>09/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>MCHENRY FOR CONGRESS</payeeName>
+      <recipientName>PATRICK MCHENRY</recipientName>
+      <amount>2000.00</amount>
+      <date>12/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>BUCSHON FOR CONGRESS</payeeName>
+      <recipientName>LARRY BUCSHON</recipientName>
+      <amount>1000.00</amount>
+      <date>12/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>HUDSON FOR CONGRESS</payeeName>
+      <recipientName>RICHARD HUDSON</recipientName>
+      <amount>500.00</amount>
+      <date>12/18/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

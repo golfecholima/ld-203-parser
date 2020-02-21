@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>Akin, Gump, Strauss, Hauer &amp; Feld</organizationName>
+  <lobbyistPrefix>Mr.</lobbyistPrefix>
+  <lobbyistFirstName>Ryan </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>Thompson</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>682</senateRegID>
+  <houseRegID>31784</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/27/2020 11:26:31 AM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Cory Gardner for Senate</payeeName>
+      <recipientName>Sen. Cory Gardner</recipientName>
+      <amount>250.00</amount>
+      <date>7/10/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Inhofe Victory Committee 2020</payeeName>
+      <recipientName>Sen. Jim Inhofe</recipientName>
+      <amount>700.00</amount>
+      <date>9/6/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Texas for Senator John Cornyn</payeeName>
+      <recipientName>Sen. John Cornyn</recipientName>
+      <amount>313.00</amount>
+      <date>10/2/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Friends of Jim Inhofe</payeeName>
+      <recipientName>Sen. Jim Inhofe</recipientName>
+      <amount>1000.00</amount>
+      <date>12/12/19</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

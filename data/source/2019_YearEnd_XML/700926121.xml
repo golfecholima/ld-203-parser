@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>American Trucking Associations</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <zipext>
+  </zipext>
+  <contactName>William Sullivan </contactName>
+  <senateRegID>3628</senateRegID>
+  <houseRegID>30454</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>This report includes disbursements that were voided, including
+
+Oorah! PAC, LIZ CHENEY FOR WYOMING, Treasure State PAC, STANTON FOR CONGRESS, Doug LaMalfa Committee, IMPACT, BRIAN MAST FOR CONGRESS, Brian Higgins For Congress
+</comments>
+  <signedDate>1/30/2020 5:06:21 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>
+  </noContributions>
+  <pacs>
+    <pac>
+      <name>TRUCKING POLITICAL ACTION COMMITTEE OF THE AMERICAN TRUCKING ASSOCIATIONS INC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>TRUCKING POLITICAL ACTION COMMITTEE OF THE AMERICAN TRUCKING ASSOCIATIONS INC</contributorName>
+      <payeeName>Amodei for Nevada</payeeName>
+      <recipientName>Rep Mark E Amodei</recipientName>
+      <amount>1500.00</amount>
+      <date>08/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>TRUCKING POLITICAL ACTION COMMITTEE OF THE AMERICAN TRUCKING ASSOCIATIONS INC</contributorName>
+      <payeeName>IMPACT</payeeName>
+      <recipientName>Sen Charles E Schumer</recipientName>
+      <amount>5000.00</amount>
+      <date>09/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>TRUCKING POLITICAL ACTION COMMITTEE OF THE AMERICAN TRUCKING ASSOCIATIONS INC</contributorName>
+      <payeeName>Brian Higgins For Congress</payeeName>
+      <recipientName>Rep Brian M Higgins</recipientName>
+      <amount>1500.00</amount>
+      <date>12/01/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>TRUCKING POLITICAL ACTION COMMITTEE OF THE AMERICAN TRUCKING ASSOCIATIONS INC</contributorName>
+      <payeeName>STANTON FOR CONGRESS</payeeName>
+      <recipientName>Rep Greg Stanton</recipientName>
+      <amount>2500.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>TRUCKING POLITICAL ACTION COMMITTEE OF THE AMERICAN TRUCKING ASSOCIATIONS INC</contributorName>
+      <payeeName>Free State PAC</payeeName>
+      <recipientName>Sen Jerry Moran</recipientName>
+      <amount>1000.00</amount>
+      <date>07/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>TRUCKING POLITICAL ACTION COMMITTEE OF THE AMERICAN TRUCKING ASSOCIATIONS INC</contributorName>
+      <payeeName>Elise for Congress</payeeName>
+      <recipientName>Rep Elise M Stefanik</recipientName>
+      <amount>1000.00</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>TRUCKING POLITICAL ACTION COMMITTEE OF THE AMERICAN TRUCKING ASSOCIATIONS INC</contributorName>
+      <payeeName>Richard E Neal for Congress Committee</payeeName>
+      <recipientName>Rep Richard E Neal</recipientName>
+      <amount>2500.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>TRUCKING POLITICAL ACTION COMMITTEE OF THE AMERICAN TRUCKING ASSOCIATIONS INC</contributorName>
+      <payeeName>BRIAN MAST FOR CONGRESS</payeeName>
+      <recipientName>Rep Brian Mast</recipientName>
+      <amount>2500.00</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>TRUCKING POLITICAL ACTION COMMITTEE OF THE AMERICAN TRUCKING ASSOCIATIONS INC</contributorName>
+      <payeeName>RESPONSIBILITY AND FREEDOM WORK PAC RFWPAC</payeeName>
+      <recipientName>Sen Roger F Wicker</recipientName>
+      <amount>2500.00</amount>
+      <date>07/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>TRUCKING POLITICAL ACTION COMMITTEE OF THE AMERICAN TRUCKING ASSOCIATIONS INC</contributorName>
+      <payeeName>Joni For Iowa</payeeName>
+      <recipientName>Sen Joni K Ernst</recipientName>
+      <amount>2500.00</amount>
+      <date>09/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>TRUCKING POLITICAL ACTION COMMITTEE OF THE AMERICAN TRUCKING ASSOCIATIONS INC</contributorName>
+      <payeeName>Brian Higgins For Congress</payeeName>
+      <recipientName>Rep Brian M Higgins</recipientName>
+      <amount>1500.00</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>TRUCKING POLITICAL ACTION COMMITTEE OF THE AMERICAN TRUCKING ASSOCIATIONS INC</contributorName>
+      <payeeName>LIZ CHENEY FOR WYOMING</payeeName>
+      <recipientName>Rep Liz L Cheney</recipientName>
+      <amount>2500.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>TRUCKING POLITICAL ACTION COMMITTEE OF THE AMERICAN TRUCKING ASSOCIATIONS INC</contributorName>
+      <payeeName>ALASKANS FOR DAN SULLIVAN</payeeName>
+      <recipientName>Sen Dan S Sullivan</recipientName>
+      <amount>1000.00</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>TRUCKING POLITICAL ACTION COMMITTEE OF THE AMERICAN TRUCKING ASSOCIATIONS INC</contributorName>
+      <payeeName>PROJECT WEST POLITICAL ACTION COMMITTEE</payeeName>
+      <recipientName>Sen Cory S Gardner</recipientName>
+      <amount>5000.00</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>TRUCKING POLITICAL ACTION COMMITTEE OF THE AMERICAN TRUCKING ASSOCIATIONS INC</contributorName>
+      <payeeName>Latta for Congress</payeeName>
+      <recipientName>Rep Robert E Latta</recipientName>
+      <amount>500.00</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>TRUCKING POLITICAL ACTION COMMITTEE OF THE AMERICAN TRUCKING ASSOCIATIONS INC</contributorName>
+      <payeeName>Emmer for Congress</payeeName>
+      <recipientName>Rep Thomas E Emmer Jr</recipientName>
+      <amount>1500.00</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>TRUCKING POLITICAL ACTION COMMITTEE OF THE AMERICAN TRUCKING ASSOCIATIONS INC</contributorName>
+      <payeeName>LaHood for Congress</payeeName>
+      <recipientName>Rep Darin M LaHood</recipientName>
+      <amount>1000.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>TRUCKING POLITICAL ACTION COMMITTEE OF THE AMERICAN TRUCKING ASSOCIATIONS INC</contributorName>
+      <payeeName>Brian Higgins For Congress</payeeName>
+      <recipientName>Rep Brian M Higgins</recipientName>
+      <amount>1500.00</amount>
+      <date>07/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>TRUCKING POLITICAL ACTION COMMITTEE OF THE AMERICAN TRUCKING ASSOCIATIONS INC</contributorName>
+      <payeeName>Nebraska Sandhills PAC</payeeName>
+      <recipientName>Sen Deb Fischer</recipientName>
+      <amount>4000.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>TRUCKING POLITICAL ACTION COMMITTEE OF THE AMERICAN TRUCKING ASSOCIATIONS INC</contributorName>
+      <payeeName>RON ESTES FOR CONGRESS</payeeName>
+      <recipientName>Rep Ron Estes</recipientName>
+      <amount>2500.00</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>TRUCKING POLITICAL ACTION COMMITTEE OF THE AMERICAN TRUCKING ASSOCIATIONS INC</contributorName>
+      <payeeName>Oorah PAC</payeeName>
+      <recipientName>Sen Todd C Young</recipientName>
+      <amount>2500.00</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>TRUCKING POLITICAL ACTION COMMITTEE OF THE AMERICAN TRUCKING ASSOCIATIONS INC</contributorName>
+      <payeeName>Alaskans for Don Young Inc</payeeName>
+      <recipientName>Rep Don Young</recipientName>
+      <amount>2500.00</amount>
+      <date>07/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>TRUCKING POLITICAL ACTION COMMITTEE OF THE AMERICAN TRUCKING ASSOCIATIONS INC</contributorName>
+      <payeeName>ALASKANS FOR DAN SULLIVAN</payeeName>
+      <recipientName>Sen Dan S Sullivan</recipientName>
+      <amount>1500.00</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>TRUCKING POLITICAL ACTION COMMITTEE OF THE AMERICAN TRUCKING ASSOCIATIONS INC</contributorName>
+      <payeeName>Steve Daines for Montana</payeeName>
+      <recipientName>Sen Steve Daines</recipientName>
+      <amount>1000.00</amount>
+      <date>07/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>TRUCKING POLITICAL ACTION COMMITTEE OF THE AMERICAN TRUCKING ASSOCIATIONS INC</contributorName>
+      <payeeName>People for Derek Kilmer</payeeName>
+      <recipientName>Rep Derek Kilmer</recipientName>
+      <amount>1500.00</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>TRUCKING POLITICAL ACTION COMMITTEE OF THE AMERICAN TRUCKING ASSOCIATIONS INC</contributorName>
+      <payeeName>Reclaim America PAC</payeeName>
+      <recipientName>Sen Marco Rubio</recipientName>
+      <amount>2000.00</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>TRUCKING POLITICAL ACTION COMMITTEE OF THE AMERICAN TRUCKING ASSOCIATIONS INC</contributorName>
+      <payeeName>Team Graham Inc</payeeName>
+      <recipientName>Sen Lindsey Graham</recipientName>
+      <amount>1000.00</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>TRUCKING POLITICAL ACTION COMMITTEE OF THE AMERICAN TRUCKING ASSOCIATIONS INC</contributorName>
+      <payeeName>Kurt Schrader for Congress</payeeName>
+      <recipientName>Rep Kurt Schrader</recipientName>
+      <amount>2500.00</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>TRUCKING POLITICAL ACTION COMMITTEE OF THE AMERICAN TRUCKING ASSOCIATIONS INC</contributorName>
+      <payeeName>BRIAN MAST FOR CONGRESS</payeeName>
+      <recipientName>Rep Brian Mast</recipientName>
+      <amount>2500.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>TRUCKING POLITICAL ACTION COMMITTEE OF THE AMERICAN TRUCKING ASSOCIATIONS INC</contributorName>
+      <payeeName>FRIENDS OF BEN MCADAMS</payeeName>
+      <recipientName>Rep Ben McAdams</recipientName>
+      <amount>1000.00</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>TRUCKING POLITICAL ACTION COMMITTEE OF THE AMERICAN TRUCKING ASSOCIATIONS INC</contributorName>
+      <payeeName>LIZ CHENEY FOR WYOMING</payeeName>
+      <recipientName>Rep Liz L Cheney</recipientName>
+      <amount>2500.00</amount>
+      <date>12/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>TRUCKING POLITICAL ACTION COMMITTEE OF THE AMERICAN TRUCKING ASSOCIATIONS INC</contributorName>
+      <payeeName>David Rouzer for Congress</payeeName>
+      <recipientName>Rep David C Rouzer</recipientName>
+      <amount>2500.00</amount>
+      <date>07/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>TRUCKING POLITICAL ACTION COMMITTEE OF THE AMERICAN TRUCKING ASSOCIATIONS INC</contributorName>
+      <payeeName>Lou Correa for Congress</payeeName>
+      <recipientName>Rep Lou Correa</recipientName>
+      <amount>1000.00</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>TRUCKING POLITICAL ACTION COMMITTEE OF THE AMERICAN TRUCKING ASSOCIATIONS INC</contributorName>
+      <payeeName>FIRST STATE PAC</payeeName>
+      <recipientName>Sen Tom R Carper</recipientName>
+      <amount>5000.00</amount>
+      <date>07/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>TRUCKING POLITICAL ACTION COMMITTEE OF THE AMERICAN TRUCKING ASSOCIATIONS INC</contributorName>
+      <payeeName>Treasure State PAC</payeeName>
+      <recipientName>Sen Jon Tester</recipientName>
+      <amount>5000.00</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>TRUCKING POLITICAL ACTION COMMITTEE OF THE AMERICAN TRUCKING ASSOCIATIONS INC</contributorName>
+      <payeeName>Treasure State PAC</payeeName>
+      <recipientName>Sen Jon Tester</recipientName>
+      <amount>5000.00</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>TRUCKING POLITICAL ACTION COMMITTEE OF THE AMERICAN TRUCKING ASSOCIATIONS INC</contributorName>
+      <payeeName>Crawford for Congress</payeeName>
+      <recipientName>Rep Rick Crawford</recipientName>
+      <amount>1000.00</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>TRUCKING POLITICAL ACTION COMMITTEE OF THE AMERICAN TRUCKING ASSOCIATIONS INC</contributorName>
+      <payeeName>TREY FOR CONGRESS</payeeName>
+      <recipientName>Rep Trey Hollingsworth III</recipientName>
+      <amount>2500.00</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>TRUCKING POLITICAL ACTION COMMITTEE OF THE AMERICAN TRUCKING ASSOCIATIONS INC</contributorName>
+      <payeeName>Jim Costa for Congress</payeeName>
+      <recipientName>Rep Jim Costa</recipientName>
+      <amount>1000.00</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>TRUCKING POLITICAL ACTION COMMITTEE OF THE AMERICAN TRUCKING ASSOCIATIONS INC</contributorName>
+      <payeeName>Ben Sasse for US Senate Inc</payeeName>
+      <recipientName>Sen Ben Sasse</recipientName>
+      <amount>1000.00</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>TRUCKING POLITICAL ACTION COMMITTEE OF THE AMERICAN TRUCKING ASSOCIATIONS INC</contributorName>
+      <payeeName>BRAUN SOLUTIONS COMMITTEE</payeeName>
+      <recipientName>Sen Mike Braun</recipientName>
+      <amount>2500.00</amount>
+      <date>08/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>TRUCKING POLITICAL ACTION COMMITTEE OF THE AMERICAN TRUCKING ASSOCIATIONS INC</contributorName>
+      <payeeName>WESTERMAN FOR CONGRESS</payeeName>
+      <recipientName>Rep Bruce Westerman</recipientName>
+      <amount>1500.00</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>TRUCKING POLITICAL ACTION COMMITTEE OF THE AMERICAN TRUCKING ASSOCIATIONS INC</contributorName>
+      <payeeName>Sanford Bishop for Congress</payeeName>
+      <recipientName>Rep Sanford D Bishop Jr</recipientName>
+      <amount>2500.00</amount>
+      <date>07/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>TRUCKING POLITICAL ACTION COMMITTEE OF THE AMERICAN TRUCKING ASSOCIATIONS INC</contributorName>
+      <payeeName>Tom OHalleran For Congress</payeeName>
+      <recipientName>Rep Tom OHalleran</recipientName>
+      <amount>2500.00</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>TRUCKING POLITICAL ACTION COMMITTEE OF THE AMERICAN TRUCKING ASSOCIATIONS INC</contributorName>
+      <payeeName>FREDERICA S WILSON FOR CONGRESS</payeeName>
+      <recipientName>Rep Frederica S Wilson</recipientName>
+      <amount>1000.00</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>TRUCKING POLITICAL ACTION COMMITTEE OF THE AMERICAN TRUCKING ASSOCIATIONS INC</contributorName>
+      <payeeName>Elise for Congress</payeeName>
+      <recipientName>Rep Elise M Stefanik</recipientName>
+      <amount>1500.00</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>TRUCKING POLITICAL ACTION COMMITTEE OF THE AMERICAN TRUCKING ASSOCIATIONS INC</contributorName>
+      <payeeName>SEAN PATRICK MALONEY FOR CONGRESS</payeeName>
+      <recipientName>Rep Sean P Maloney</recipientName>
+      <amount>1000.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>TRUCKING POLITICAL ACTION COMMITTEE OF THE AMERICAN TRUCKING ASSOCIATIONS INC</contributorName>
+      <payeeName>Doug LaMalfa Committee</payeeName>
+      <recipientName>Rep Doug LaMalfa</recipientName>
+      <amount>2500.00</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>TRUCKING POLITICAL ACTION COMMITTEE OF THE AMERICAN TRUCKING ASSOCIATIONS INC</contributorName>
+      <payeeName>JOSH GOTTHEIMER FOR CONGRESS</payeeName>
+      <recipientName>Rep Josh S Gottheimer</recipientName>
+      <amount>1000.00</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>TRUCKING POLITICAL ACTION COMMITTEE OF THE AMERICAN TRUCKING ASSOCIATIONS INC</contributorName>
+      <payeeName>Doug LaMalfa Committee</payeeName>
+      <recipientName>Rep Doug LaMalfa</recipientName>
+      <amount>2500.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>TRUCKING POLITICAL ACTION COMMITTEE OF THE AMERICAN TRUCKING ASSOCIATIONS INC</contributorName>
+      <payeeName>Adrian Smith For Congress</payeeName>
+      <recipientName>Rep Adrian M Smith</recipientName>
+      <amount>2500.00</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>TRUCKING POLITICAL ACTION COMMITTEE OF THE AMERICAN TRUCKING ASSOCIATIONS INC</contributorName>
+      <payeeName>ELECT JIM BAIRD FOR CONGRESS</payeeName>
+      <recipientName>Rep Jim Baird</recipientName>
+      <amount>1000.00</amount>
+      <date>10/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>TRUCKING POLITICAL ACTION COMMITTEE OF THE AMERICAN TRUCKING ASSOCIATIONS INC</contributorName>
+      <payeeName>VAN TAYLOR CAMPAIGN</payeeName>
+      <recipientName>Rep Van Taylor</recipientName>
+      <amount>1000.00</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>TRUCKING POLITICAL ACTION COMMITTEE OF THE AMERICAN TRUCKING ASSOCIATIONS INC</contributorName>
+      <payeeName>Volunteers for Shimkus</payeeName>
+      <recipientName>Rep John M Shimkus</recipientName>
+      <amount>1000.00</amount>
+      <date>07/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>TRUCKING POLITICAL ACTION COMMITTEE OF THE AMERICAN TRUCKING ASSOCIATIONS INC</contributorName>
+      <payeeName>SCHNEIDER FOR CONGRESS</payeeName>
+      <recipientName>Rep Bradley S Schneider</recipientName>
+      <amount>1000.00</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>TRUCKING POLITICAL ACTION COMMITTEE OF THE AMERICAN TRUCKING ASSOCIATIONS INC</contributorName>
+      <payeeName>Friends of Cheri Bustos</payeeName>
+      <recipientName>Rep Cheri L Bustos</recipientName>
+      <amount>1000.00</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>TRUCKING POLITICAL ACTION COMMITTEE OF THE AMERICAN TRUCKING ASSOCIATIONS INC</contributorName>
+      <payeeName>Friends of Dave Joyce</payeeName>
+      <recipientName>Rep Dave P Joyce</recipientName>
+      <amount>2500.00</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>TRUCKING POLITICAL ACTION COMMITTEE OF THE AMERICAN TRUCKING ASSOCIATIONS INC</contributorName>
+      <payeeName>Bob Gibbs for Congress</payeeName>
+      <recipientName>Rep Bob B Gibbs</recipientName>
+      <amount>2500.00</amount>
+      <date>08/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>TRUCKING POLITICAL ACTION COMMITTEE OF THE AMERICAN TRUCKING ASSOCIATIONS INC</contributorName>
+      <payeeName>WEBER FOR CONGRESS</payeeName>
+      <recipientName>Rep Randy Weber</recipientName>
+      <amount>2500.00</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>TRUCKING POLITICAL ACTION COMMITTEE OF THE AMERICAN TRUCKING ASSOCIATIONS INC</contributorName>
+      <payeeName>Emmer for Congress</payeeName>
+      <recipientName>Rep Thomas E Emmer Jr</recipientName>
+      <amount>1000.00</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>TRUCKING POLITICAL ACTION COMMITTEE OF THE AMERICAN TRUCKING ASSOCIATIONS INC</contributorName>
+      <payeeName>SMART SOLUTIONS PAC</payeeName>
+      <recipientName>Sen Jacky Rosen</recipientName>
+      <amount>2500.00</amount>
+      <date>11/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>TRUCKING POLITICAL ACTION COMMITTEE OF THE AMERICAN TRUCKING ASSOCIATIONS INC</contributorName>
+      <payeeName>Jim Costa for Congress</payeeName>
+      <recipientName>Rep Jim Costa</recipientName>
+      <amount>1000.00</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>TRUCKING POLITICAL ACTION COMMITTEE OF THE AMERICAN TRUCKING ASSOCIATIONS INC</contributorName>
+      <payeeName>STANTON FOR CONGRESS</payeeName>
+      <recipientName>Rep Greg Stanton</recipientName>
+      <amount>2500.00</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>TRUCKING POLITICAL ACTION COMMITTEE OF THE AMERICAN TRUCKING ASSOCIATIONS INC</contributorName>
+      <payeeName>Thom Tillis Committee</payeeName>
+      <recipientName>Sen Thom R Tillis</recipientName>
+      <amount>1000.00</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>TRUCKING POLITICAL ACTION COMMITTEE OF THE AMERICAN TRUCKING ASSOCIATIONS INC</contributorName>
+      <payeeName>Daniel Webster for Congress</payeeName>
+      <recipientName>Rep Daniel Webster</recipientName>
+      <amount>2500.00</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>TRUCKING POLITICAL ACTION COMMITTEE OF THE AMERICAN TRUCKING ASSOCIATIONS INC</contributorName>
+      <payeeName>Fund for A Conservative Future</payeeName>
+      <recipientName>Sen James M Inhofe</recipientName>
+      <amount>5000.00</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>TRUCKING POLITICAL ACTION COMMITTEE OF THE AMERICAN TRUCKING ASSOCIATIONS INC</contributorName>
+      <payeeName>Thom Tillis Committee</payeeName>
+      <recipientName>Sen Thom R Tillis</recipientName>
+      <amount>1000.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>TRUCKING POLITICAL ACTION COMMITTEE OF THE AMERICAN TRUCKING ASSOCIATIONS INC</contributorName>
+      <payeeName>SMUCKER FOR CONGRESS</payeeName>
+      <recipientName>Rep Lloyd K Smucker</recipientName>
+      <amount>2500.00</amount>
+      <date>10/30/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

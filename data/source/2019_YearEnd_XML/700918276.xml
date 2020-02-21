@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>Public Strategies Washington, Inc.</organizationName>
+  <lobbyistPrefix>Mr.</lobbyistPrefix>
+  <lobbyistFirstName>Thomas</lobbyistFirstName>
+  <lobbyistMiddleName>W</lobbyistMiddleName>
+  <lobbyistLastName>Nagle</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>32486</senateRegID>
+  <houseRegID>32100</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/21/2020 2:42:22 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Martin Heinrich for Senate</payeeName>
+      <recipientName>Sen. Martin Heinrich</recipientName>
+      <amount>500.00</amount>
+      <date>9/30/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Xochitl for New Mexico</payeeName>
+      <recipientName>Rep. Xochitl Torres Small</recipientName>
+      <amount>500.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>People for Ben</payeeName>
+      <recipientName>Rep. Ben Ray Lujan</recipientName>
+      <amount>1000.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Kaine for Virginia</payeeName>
+      <recipientName>Sen. Tim Kaine</recipientName>
+      <amount>250.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Shaheen for Senate</payeeName>
+      <recipientName>Sen. Jeanne Shaheen</recipientName>
+      <amount>500.00</amount>
+      <date>11/12/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Democratic Senatorial Campaign Committee</payeeName>
+      <recipientName>Democratic Senatorial Campaign Committee</recipientName>
+      <amount>500.00</amount>
+      <date>11/12/19</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

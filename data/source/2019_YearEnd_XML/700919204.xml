@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>MILLENNIAL GR &amp; PUBLIC AFFAIRS PARTNERS</organizationName>
+  <lobbyistPrefix>Mr.</lobbyistPrefix>
+  <lobbyistFirstName>John</lobbyistFirstName>
+  <lobbyistMiddleName>Erick</lobbyistMiddleName>
+  <lobbyistLastName>Mitchell</lobbyistLastName>
+  <lobbyistSuffix>II</lobbyistSuffix>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>401105271</senateRegID>
+  <houseRegID>44412</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/22/2020 4:17:39 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Mondaire Jones for Congress NY-17 </payeeName>
+      <recipientName>Mondaire Jones</recipientName>
+      <amount>300.00</amount>
+      <date>12/31/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>MISSOURI HOSPITAL ASSOCIATION</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <zipext>
+  </zipext>
+  <contactName>DANIEL LANDON</contactName>
+  <senateRegID>25523</senateRegID>
+  <houseRegID>31985</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>After reasonable due diligence to educate staff on the Standings Rule of the Senate and the Rules of the House of Representatives relating to gifts and travel, I make the following certification on my employer's behalf.</comments>
+  <signedDate>1/14/2020 3:18:50 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>true</noContributions>
+  <pacs>
+    <pac>
+      <name>Political Action Committee of the Missouri Hospital Associat</name>
+    </pac>
+    <pac>
+      <name>Political Action Committee For Health - HEALTHPAC</name>
+    </pac>
+  </pacs>
+  <contributions>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

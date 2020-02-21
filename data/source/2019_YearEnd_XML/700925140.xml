@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>Alignment Government Strategies</organizationName>
+  <lobbyistPrefix>Mr.</lobbyistPrefix>
+  <lobbyistFirstName>LEO</lobbyistFirstName>
+  <lobbyistMiddleName>C</lobbyistMiddleName>
+  <lobbyistLastName>JARDOT</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>401103295</senateRegID>
+  <houseRegID>42588</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/30/2020 1:23:20 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Friends of Mark Warner</payeeName>
+      <recipientName>Mark Warner</recipientName>
+      <amount>1000.00</amount>
+      <date>07/09/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Xochitl Torres Small for Congress</payeeName>
+      <recipientName>Xochitl Torres</recipientName>
+      <amount>500.00</amount>
+      <date>07/24/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Chrissy Houlahan for Congress</payeeName>
+      <recipientName>Chrissy Houlahan</recipientName>
+      <amount>500.00</amount>
+      <date>09/17/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Abigail Spanberger for Congress</payeeName>
+      <recipientName>Abigail Spanberger</recipientName>
+      <amount>500.00</amount>
+      <date>09/18/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Families for James Lankford</payeeName>
+      <recipientName>James Lankford</recipientName>
+      <amount>500.00</amount>
+      <date>09/25/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Families for James Lankford</payeeName>
+      <recipientName>James Lankford</recipientName>
+      <amount>218.00</amount>
+      <date>09/25/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Joyce Beatty for Congress</payeeName>
+      <recipientName>Joyce Beatty</recipientName>
+      <amount>500.00</amount>
+      <date>09/25/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Colin Allred for Congress</payeeName>
+      <recipientName>Colin Allred</recipientName>
+      <amount>500.00</amount>
+      <date>10/16/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Kyrsten Sinema for Senate</payeeName>
+      <recipientName>Kyrsten Sinema</recipientName>
+      <amount>500.00</amount>
+      <date>10/22/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Elaine Luria for Congress</payeeName>
+      <recipientName>Elaine Luria</recipientName>
+      <amount>500.00</amount>
+      <date>11/25/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Debbie Mucarsel-Powell for Congress</payeeName>
+      <recipientName>Debbie Mucarsel-Powell</recipientName>
+      <amount>500.00</amount>
+      <date>12/24/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Bridge the Gap PAC</payeeName>
+      <recipientName>Bridge the Gap PAC</recipientName>
+      <amount>500.00</amount>
+      <date>09/12/19</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

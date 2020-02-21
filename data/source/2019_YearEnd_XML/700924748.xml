@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>Southwest Airlines</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <country>
+  </country>
+  <contactName>David M. Richardson</contactName>
+  <senateRegID>36231</senateRegID>
+  <houseRegID>33026</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>For contribution #19, Congressional Sportsmen's Foundation received $7,600 cash and $2,400 in e-passes.
+For contribution #20, New American Leaders received $5000 cash and $11,000 in e-passes.</comments>
+  <signedDate>1/30/2020 11:38:05 AM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>Southwest Airlines Co. Freedom Fund</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southwest Airlines Co. Freedom Fund</contributorName>
+      <payeeName>Texans for Senator John Cornyn Inc.</payeeName>
+      <recipientName>Senator John Cornyn</recipientName>
+      <amount>3000.00</amount>
+      <date>07/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southwest Airlines Co. Freedom Fund</contributorName>
+      <payeeName>ALAMO PAC</payeeName>
+      <recipientName>Senator John Cornyn</recipientName>
+      <amount>3500.00</amount>
+      <date>7/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southwest Airlines Co. Freedom Fund</contributorName>
+      <payeeName>McConnell Senate Committee</payeeName>
+      <recipientName>Senator Mitch McConnell</recipientName>
+      <amount>5000.00</amount>
+      <date>7/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southwest Airlines Co. Freedom Fund</contributorName>
+      <payeeName>Dutch Ruppersberger for Congress</payeeName>
+      <recipientName>Rep. Dutch Ruppersberger</recipientName>
+      <amount>2500.00</amount>
+      <date>7/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southwest Airlines Co. Freedom Fund</contributorName>
+      <payeeName>Citizens to Elect Rick Larsen</payeeName>
+      <recipientName>Rep. Rick Larsen</recipientName>
+      <amount>2500.00</amount>
+      <date>07/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southwest Airlines Co. Freedom Fund</contributorName>
+      <payeeName>Price for Congress</payeeName>
+      <recipientName>Rep. David Price</recipientName>
+      <amount>2500.00</amount>
+      <date>10/07/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southwest Airlines Co. Freedom Fund</contributorName>
+      <payeeName>Shaheen for Senate</payeeName>
+      <recipientName>Senator Jeanne Shaheen</recipientName>
+      <amount>2500.00</amount>
+      <date>10/07/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southwest Airlines Co. Freedom Fund</contributorName>
+      <payeeName>Brenda Lawrence for Congress</payeeName>
+      <recipientName>Rep. Brenda Lawrence</recipientName>
+      <amount>1000.00</amount>
+      <date>10/07/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southwest Airlines Co. Freedom Fund</contributorName>
+      <payeeName>Collins for Senator</payeeName>
+      <recipientName>Senator Susan Collins</recipientName>
+      <amount>2800.00</amount>
+      <date>10/07/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southwest Airlines Co. Freedom Fund</contributorName>
+      <payeeName>Andy Harris for Congress</payeeName>
+      <recipientName>Rep. Andy Harris</recipientName>
+      <amount>2500.00</amount>
+      <date>10/07/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southwest Airlines Co. Freedom Fund</contributorName>
+      <payeeName>Collins for Senator</payeeName>
+      <recipientName>Senator Susan Collins</recipientName>
+      <amount>1200.00</amount>
+      <date>10/07/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southwest Airlines Co. Freedom Fund</contributorName>
+      <payeeName>Collins for Senator</payeeName>
+      <recipientName>Senator Susan Collins</recipientName>
+      <amount>1600.00</amount>
+      <date>10/07/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southwest Airlines Co. Freedom Fund</contributorName>
+      <payeeName>Val Demings for Congress</payeeName>
+      <recipientName>Rep. Val Demings</recipientName>
+      <amount>1000.00</amount>
+      <date>10/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southwest Airlines Co. Freedom Fund</contributorName>
+      <payeeName>Families for James Lankford</payeeName>
+      <recipientName>Senator James Lankford</recipientName>
+      <amount>1000.00</amount>
+      <date>10/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southwest Airlines Co. Freedom Fund</contributorName>
+      <payeeName>Kevin McCarthy for Congress</payeeName>
+      <recipientName>Rep Kevin McCarthy</recipientName>
+      <amount>2500.00</amount>
+      <date>11/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southwest Airlines Co. Freedom Fund</contributorName>
+      <payeeName>Friends of Raja for Congress</payeeName>
+      <recipientName>Rep. Raja Krishnamoorthi</recipientName>
+      <amount>1000.00</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southwest Airlines Co. Freedom Fund</contributorName>
+      <payeeName>Friends of Roy Blunt</payeeName>
+      <recipientName>Senator Roy Blunt</recipientName>
+      <amount>2500.00</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Southwest Airlines Co. Freedom Fund</contributorName>
+      <payeeName>Friends of Roy Blunt</payeeName>
+      <recipientName>Senator Roy Blunt</recipientName>
+      <amount>2500.00</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>Honorary Expenses</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Congressional Sportsmen's Foundation</payeeName>
+      <recipientName>Congressional Sportsmen's Caucus (sponsor of annual Bucks, Bass &amp; Boots Gala)</recipientName>
+      <amount>10000.00</amount>
+      <date>10/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>Honorary Expenses</type>
+      <contributorName>Self</contributorName>
+      <payeeName>New American Leaders</payeeName>
+      <recipientName>Rep. Veronica Escobar (sponsor of New American Hero Awards reception)</recipientName>
+      <amount>16000.00</amount>
+      <date>08/01/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

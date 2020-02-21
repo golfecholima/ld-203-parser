@@ -1,0 +1,2183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>Independent Community Bankers of America</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <zipext>
+  </zipext>
+  <contactName>Martina Dashner</contactName>
+  <senateRegID>19194</senateRegID>
+  <houseRegID>31122</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/10/2020 3:03:09 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>
+  </noContributions>
+  <pacs>
+    <pac>
+      <name>ICBPAC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Ann Wagner For Congress</payeeName>
+      <recipientName>Wagner, Ann</recipientName>
+      <amount>2000</amount>
+      <date>7/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Brian Higgins For Congress</payeeName>
+      <recipientName>Higgins, Brian</recipientName>
+      <amount>2500</amount>
+      <date>7/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Doug Jones For Senate Committee</payeeName>
+      <recipientName>Jones, Doug</recipientName>
+      <amount>1000</amount>
+      <date>7/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>First State PAC</payeeName>
+      <recipientName>Carper, Thomas</recipientName>
+      <amount>1000</amount>
+      <date>7/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Friends Of Cheri Bustos</payeeName>
+      <recipientName>Bustos, Cheri</recipientName>
+      <amount>1000</amount>
+      <date>7/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Friends Of Jim Clyburn</payeeName>
+      <recipientName>Clyburn, James</recipientName>
+      <amount>2500</amount>
+      <date>7/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Granite Values PAC</payeeName>
+      <recipientName>Hassan, Margaret</recipientName>
+      <amount>1500</amount>
+      <date>7/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>John Rose For Tennessee</payeeName>
+      <recipientName>Rose, John</recipientName>
+      <amount>2000</amount>
+      <date>7/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Kurt Schrader For Congress</payeeName>
+      <recipientName>Schrader, Kurt</recipientName>
+      <amount>1500</amount>
+      <date>7/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Perdue For Senate</payeeName>
+      <recipientName>Perdue, David</recipientName>
+      <amount>1000</amount>
+      <date>7/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Quigley For Congress</payeeName>
+      <recipientName>Quigley, Michael</recipientName>
+      <amount>1000</amount>
+      <date>7/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Ron Estes For Congress</payeeName>
+      <recipientName>Estes, Ron</recipientName>
+      <amount>1500</amount>
+      <date>7/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Sanford Bishop For Congress</payeeName>
+      <recipientName>Bishop, Sanford</recipientName>
+      <amount>2500</amount>
+      <date>7/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Schneider For Congress</payeeName>
+      <recipientName>Schneider, Bradley</recipientName>
+      <amount>1000</amount>
+      <date>7/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Steil For Wisconsin, Inc.</payeeName>
+      <recipientName>Steil, Bryan</recipientName>
+      <amount>1000</amount>
+      <date>7/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Vern Buchanan For Congress</payeeName>
+      <recipientName>Buchanan, Vern</recipientName>
+      <amount>1500</amount>
+      <date>7/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Andre Carson For Congress</payeeName>
+      <recipientName>Carson, Andre</recipientName>
+      <amount>2500</amount>
+      <date>7/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Austin Scott For Congress Inc</payeeName>
+      <recipientName>Scott, Austin</recipientName>
+      <amount>1000</amount>
+      <date>7/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Carol For Congress</payeeName>
+      <recipientName>Miller, Carol</recipientName>
+      <amount>1000</amount>
+      <date>7/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Cleaver For Congress</payeeName>
+      <recipientName>Cleaver, Emanuel</recipientName>
+      <amount>1500</amount>
+      <date>7/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>David Scott For Congress</payeeName>
+      <recipientName>Scott, David</recipientName>
+      <amount>2500</amount>
+      <date>7/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Denny Heck For Congress</payeeName>
+      <recipientName>Heck, Denny</recipientName>
+      <amount>1000</amount>
+      <date>7/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Doug LaMalfa Committee</payeeName>
+      <recipientName>LaMalfa, Doug</recipientName>
+      <amount>1000</amount>
+      <date>7/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Friends Of Glenn Thompson</payeeName>
+      <recipientName>Thompson, Glenn</recipientName>
+      <amount>1000</amount>
+      <date>7/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Hoyer For Congress</payeeName>
+      <recipientName>Hoyer, Steny</recipientName>
+      <amount>2500</amount>
+      <date>7/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Mike Thompson For Congress</payeeName>
+      <recipientName>Thompson, Mike</recipientName>
+      <amount>1500</amount>
+      <date>7/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Moolenaar For Congress</payeeName>
+      <recipientName>Moolenaar, John</recipientName>
+      <amount>1000</amount>
+      <date>7/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Perlmutter For Congress</payeeName>
+      <recipientName>Perlmutter, Edwin</recipientName>
+      <amount>1000</amount>
+      <date>7/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Promoting Our Republican Team PAC</payeeName>
+      <recipientName>Portman, Rob</recipientName>
+      <amount>1000</amount>
+      <date>7/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Rounds For Senate</payeeName>
+      <recipientName>Rounds, Mike</recipientName>
+      <amount>1000</amount>
+      <date>7/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Scalise For Congress</payeeName>
+      <recipientName>Scalise, Steve</recipientName>
+      <amount>1000</amount>
+      <date>7/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Al Lawson For Congress</payeeName>
+      <recipientName>Lawson, Al</recipientName>
+      <amount>1500</amount>
+      <date>7/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Alex Mooney For Congress</payeeName>
+      <recipientName>Mooney, Alex</recipientName>
+      <amount>1000</amount>
+      <date>7/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>BARR PAC</payeeName>
+      <recipientName>Barr, Andy</recipientName>
+      <amount>1000</amount>
+      <date>7/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Bill Cassidy For Us Senate</payeeName>
+      <recipientName>Cassidy, Bill</recipientName>
+      <amount>1000</amount>
+      <date>7/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Cory Gardner For Senate</payeeName>
+      <recipientName>Gardner, Cory</recipientName>
+      <amount>1000</amount>
+      <date>7/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Dakota PAC</payeeName>
+      <recipientName>Hoeven, John</recipientName>
+      <amount>1000</amount>
+      <date>7/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Davis For Congress/Friends Of Davis</payeeName>
+      <recipientName>Davis, Danny</recipientName>
+      <amount>1500</amount>
+      <date>7/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Free State PAC</payeeName>
+      <recipientName>Moran, Jerry</recipientName>
+      <amount>1000</amount>
+      <date>7/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Friends For Gregory Meeks</payeeName>
+      <recipientName>Meeks, Gregory</recipientName>
+      <amount>1000</amount>
+      <date>7/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Friends Of Ben McAdams</payeeName>
+      <recipientName>McAdams, Ben</recipientName>
+      <amount>1000</amount>
+      <date>7/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Getting Stuff Done PAC</payeeName>
+      <recipientName>Sinema, Krysten</recipientName>
+      <amount>1000</amount>
+      <date>7/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Peterson For Congress</payeeName>
+      <recipientName>Peterson, Collin</recipientName>
+      <amount>2500</amount>
+      <date>7/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Robert Aderholt For Congress</payeeName>
+      <recipientName>Aderholt, Robert</recipientName>
+      <amount>1000</amount>
+      <date>7/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Strategy PAC</payeeName>
+      <recipientName>Johnson, Ron</recipientName>
+      <amount>1500</amount>
+      <date>7/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Tony Cardenas For Congress</payeeName>
+      <recipientName>Cardenas, Tony</recipientName>
+      <amount>1000</amount>
+      <date>7/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Veronica Escobar For Congress</payeeName>
+      <recipientName>Escobar, Veronica</recipientName>
+      <amount>1000</amount>
+      <date>7/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Wenstrup For Congress</payeeName>
+      <recipientName>Wenstrup, Brad</recipientName>
+      <amount>1000</amount>
+      <date>7/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Cotton For Senate</payeeName>
+      <recipientName>Cotton, Tom</recipientName>
+      <amount>1000</amount>
+      <date>7/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Duffy For Wisconsin</payeeName>
+      <recipientName>Duffy, Sean</recipientName>
+      <amount>2500</amount>
+      <date>7/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Huizenga For Congress</payeeName>
+      <recipientName>Huizenga, Bill</recipientName>
+      <amount>1000</amount>
+      <date>7/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Nebraska Sandhills PAC</payeeName>
+      <recipientName>Fischer, Deb</recipientName>
+      <amount>1000</amount>
+      <date>7/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Armstrong For Congress</payeeName>
+      <recipientName>Armstrong, Kelly</recipientName>
+      <amount>1000</amount>
+      <date>8/2/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Davidson For Congress</payeeName>
+      <recipientName>Davidson, Warren</recipientName>
+      <amount>1500</amount>
+      <date>8/2/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Don Bacon For Congress</payeeName>
+      <recipientName>Bacon, Donald</recipientName>
+      <amount>1000</amount>
+      <date>8/2/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Friends Of Dusty Johnson</payeeName>
+      <recipientName>Johnson, Dusty</recipientName>
+      <amount>1000</amount>
+      <date>8/2/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Joni For Iowa</payeeName>
+      <recipientName>Ernst, Joni</recipientName>
+      <amount>1000</amount>
+      <date>8/2/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Hern For Congress</payeeName>
+      <recipientName>Hern, Kevin</recipientName>
+      <amount>1000</amount>
+      <date>8/8/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Perdue For Senate</payeeName>
+      <recipientName>Perdue, David</recipientName>
+      <amount>1000</amount>
+      <date>8/8/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Rodney For Congress</payeeName>
+      <recipientName>Davis, Rodney</recipientName>
+      <amount>1000</amount>
+      <date>8/8/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Van Taylor Campaign</payeeName>
+      <recipientName>Taylor, Nicholas</recipientName>
+      <amount>2500</amount>
+      <date>8/8/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Beatty For Congress</payeeName>
+      <recipientName>Beatty, Joyce</recipientName>
+      <amount>1000</amount>
+      <date>8/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Citizens To Elect Rick Larsen</payeeName>
+      <recipientName>Larsen, Rick</recipientName>
+      <amount>1000</amount>
+      <date>8/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Crawford For Congress</payeeName>
+      <recipientName>Crawford, Rick</recipientName>
+      <amount>1000</amount>
+      <date>8/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Joe Wilson For Congress</payeeName>
+      <recipientName>Wilson, Joe</recipientName>
+      <amount>1000</amount>
+      <date>8/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Mike Bost For Congress Committee</payeeName>
+      <recipientName>Bost, Mike</recipientName>
+      <amount>1000</amount>
+      <date>8/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Mike Johnson For Louisiana</payeeName>
+      <recipientName>Johnson, Mike</recipientName>
+      <amount>3000</amount>
+      <date>8/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Tom Rice For Congress</payeeName>
+      <recipientName>Rice, Tom</recipientName>
+      <amount>1000</amount>
+      <date>8/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Angie Craig For Congress</payeeName>
+      <recipientName>Craig, Angela</recipientName>
+      <amount>1000</amount>
+      <date>8/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Capito For West Virginia</payeeName>
+      <recipientName>Capito, Shelley Moore</recipientName>
+      <amount>1000</amount>
+      <date>8/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>House Conservatives Fund</payeeName>
+      <recipientName>House Conservatives Fund</recipientName>
+      <amount>5000</amount>
+      <date>8/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Jim Banks For Congress, Inc.</payeeName>
+      <recipientName>Banks, James</recipientName>
+      <amount>1000</amount>
+      <date>8/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Rick W. Allen For Congress</payeeName>
+      <recipientName>Allen, Rick</recipientName>
+      <amount>1000</amount>
+      <date>8/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Buddy Carter For Congress</payeeName>
+      <recipientName>Carter, Buddy</recipientName>
+      <amount>1000</amount>
+      <date>8/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Bill Cassidy For Us Senate</payeeName>
+      <recipientName>Cassidy, Bill</recipientName>
+      <amount>1000</amount>
+      <date>9/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Continuing America's Strength And Security PAC</payeeName>
+      <recipientName>Cassidy, Bill</recipientName>
+      <amount>1000</amount>
+      <date>9/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Kuster For Congress, Inc</payeeName>
+      <recipientName>Kuster, Ann</recipientName>
+      <amount>1000</amount>
+      <date>9/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Al Lawson For Congress</payeeName>
+      <recipientName>Lawson, Al</recipientName>
+      <amount>2000</amount>
+      <date>9/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Chris Pappas For Congress</payeeName>
+      <recipientName>Pappas, Chris</recipientName>
+      <amount>2000</amount>
+      <date>9/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Chrissy Houlahan For Congress</payeeName>
+      <recipientName>Houlahan, Chrissy</recipientName>
+      <amount>1000</amount>
+      <date>9/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Chuy Garcia For Congress</payeeName>
+      <recipientName>Garcia, Jesus</recipientName>
+      <amount>2000</amount>
+      <date>9/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Citizens For Waters</payeeName>
+      <recipientName>Waters, Maxine</recipientName>
+      <amount>2500</amount>
+      <date>9/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Free State PAC</payeeName>
+      <recipientName>Moran, Jerry</recipientName>
+      <amount>1000</amount>
+      <date>9/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Friends Of Glenn Thompson</payeeName>
+      <recipientName>Thompson, Glenn</recipientName>
+      <amount>2500</amount>
+      <date>9/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Hastings For Congress</payeeName>
+      <recipientName>Hastings, Alcee</recipientName>
+      <amount>2500</amount>
+      <date>9/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Heartland Values PAC</payeeName>
+      <recipientName>Thune, John</recipientName>
+      <amount>1500</amount>
+      <date>9/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Jim Costa For Congress</payeeName>
+      <recipientName>Costa, Jim</recipientName>
+      <amount>1000</amount>
+      <date>9/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Josh Gottheimer For Congress</payeeName>
+      <recipientName>Gottheimer, Joshua</recipientName>
+      <amount>1000</amount>
+      <date>9/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Mad4pa Pac</payeeName>
+      <recipientName>Dean, Madeleine</recipientName>
+      <amount>2000</amount>
+      <date>9/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Moore For Congress</payeeName>
+      <recipientName>Moore, Gwendolynne</recipientName>
+      <amount>1000</amount>
+      <date>9/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Rick W. Allen For Congress</payeeName>
+      <recipientName>Allen, Rick</recipientName>
+      <amount>1000</amount>
+      <date>9/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Terri Sewell For Congress</payeeName>
+      <recipientName>Sewell, Terri</recipientName>
+      <amount>1000</amount>
+      <date>9/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Treasure State PAC</payeeName>
+      <recipientName>Tester, Jon</recipientName>
+      <amount>2500</amount>
+      <date>9/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Vern Buchanan For Congress</payeeName>
+      <recipientName>Buchanan, Vern</recipientName>
+      <amount>1500</amount>
+      <date>9/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>AMERIPAC</payeeName>
+      <recipientName>Hoyer, Steny</recipientName>
+      <amount>2500</amount>
+      <date>9/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Anthony Gonzalez For Congress</payeeName>
+      <recipientName>Gonzalez, Anthony</recipientName>
+      <amount>1000</amount>
+      <date>9/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Bill Foster For Congress</payeeName>
+      <recipientName>Foster, Bill</recipientName>
+      <amount>2500</amount>
+      <date>9/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Blaine For Congress</payeeName>
+      <recipientName>Luetkemeyer, Blaine</recipientName>
+      <amount>1000</amount>
+      <date>9/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Cindy Axne For Congress</payeeName>
+      <recipientName>Axne, Cindy</recipientName>
+      <amount>2000</amount>
+      <date>9/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Cotton For Senate</payeeName>
+      <recipientName>Cotton, Tom</recipientName>
+      <amount>1000</amount>
+      <date>9/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Denny Heck For Congress</payeeName>
+      <recipientName>Heck, Denny</recipientName>
+      <amount>1000</amount>
+      <date>9/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Friends For Gregory Meeks</payeeName>
+      <recipientName>Meeks, Gregory</recipientName>
+      <amount>1000</amount>
+      <date>9/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Jaime For Congress</payeeName>
+      <recipientName>Herrera-Beutler, Jaime</recipientName>
+      <amount>1000</amount>
+      <date>9/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>John Carter For Congress</payeeName>
+      <recipientName>Carter, John</recipientName>
+      <amount>1000</amount>
+      <date>9/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Joni For Iowa</payeeName>
+      <recipientName>Ernst, Joni</recipientName>
+      <amount>1000</amount>
+      <date>9/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Lisa Blunt Rochester For Congress</payeeName>
+      <recipientName>Blunt Rochester, Lisa</recipientName>
+      <amount>1000</amount>
+      <date>9/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Lobo PAC</payeeName>
+      <recipientName>Heinrich, Martin</recipientName>
+      <amount>1000</amount>
+      <date>9/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>McSally For Senate Inc</payeeName>
+      <recipientName>McSally, Martha</recipientName>
+      <amount>1000</amount>
+      <date>9/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Perlmutter For Congress</payeeName>
+      <recipientName>Perlmutter, Edwin</recipientName>
+      <amount>1000</amount>
+      <date>9/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Richard E Neal For Congress Committee</payeeName>
+      <recipientName>Neal, Richard</recipientName>
+      <amount>2500</amount>
+      <date>9/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Roger Williams For U S Congress Committee</payeeName>
+      <recipientName>Williams, Roger</recipientName>
+      <amount>1000</amount>
+      <date>9/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Scott Peters For Congress</payeeName>
+      <recipientName>Peters, Scott</recipientName>
+      <amount>1000</amount>
+      <date>9/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Sherman For Congress</payeeName>
+      <recipientName>Sherman, Brad</recipientName>
+      <amount>1000</amount>
+      <date>9/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Steil For Wisconsin, Inc.</payeeName>
+      <recipientName>Steil, Bryan</recipientName>
+      <amount>2000</amount>
+      <date>9/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Team Graham Inc</payeeName>
+      <recipientName>Graham, Lindsey</recipientName>
+      <amount>1000</amount>
+      <date>9/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Thom Tillis Committee</payeeName>
+      <recipientName>Tillis, Thom</recipientName>
+      <amount>1000</amount>
+      <date>9/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Trey For Congress</payeeName>
+      <recipientName>Hollingsworth, Trey</recipientName>
+      <amount>1000</amount>
+      <date>9/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Upton For All Of Us</payeeName>
+      <recipientName>Upton, Frederick</recipientName>
+      <amount>1000</amount>
+      <date>9/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Zeldin For Congress</payeeName>
+      <recipientName>Zeldin, Lee</recipientName>
+      <amount>1000</amount>
+      <date>9/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Beatty For Congress</payeeName>
+      <recipientName>Beatty, Joyce</recipientName>
+      <amount>1000</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Cindy Hyde-Smith for US Senate</payeeName>
+      <recipientName>Hyde-Smith, Cindy</recipientName>
+      <amount>1000</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Debbie Wasserman Schultz For Congress</payeeName>
+      <recipientName>Wasserman-Schultz, Debbie</recipientName>
+      <amount>1000</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Mike Bost For Congress Committee</payeeName>
+      <recipientName>Bost, Mike</recipientName>
+      <amount>1000</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Steve Chabot For Congress</payeeName>
+      <recipientName>Chabot, Steve</recipientName>
+      <amount>1000</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Xochitl For New Mexico</payeeName>
+      <recipientName>Torres Small, Xochitl</recipientName>
+      <amount>1000</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Clay Jr. For Congress</payeeName>
+      <recipientName>Clay, William</recipientName>
+      <amount>2500</amount>
+      <date>10/1/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>ARKPAC</payeeName>
+      <recipientName>Boozman, John</recipientName>
+      <amount>1000</amount>
+      <date>10/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>BARR PAC</payeeName>
+      <recipientName>Barr, Andy</recipientName>
+      <amount>1000</amount>
+      <date>10/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Bera For Congress</payeeName>
+      <recipientName>Bera, Ami</recipientName>
+      <amount>1000</amount>
+      <date>10/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Blaine For Congress</payeeName>
+      <recipientName>Luetkemeyer, Blaine</recipientName>
+      <amount>1000</amount>
+      <date>10/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Casten For Congress</payeeName>
+      <recipientName>Casten, Sean</recipientName>
+      <amount>1000</amount>
+      <date>10/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Cindy Axne For Congress</payeeName>
+      <recipientName>Axne, Cindy</recipientName>
+      <amount>1000</amount>
+      <date>10/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Cindy Axne For Congress</payeeName>
+      <recipientName>Axne, Cindy</recipientName>
+      <amount>1000</amount>
+      <date>10/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Citizens for Prosperity in America Today PAC (CPAT PAC)</payeeName>
+      <recipientName>Toomey, Pat</recipientName>
+      <amount>2000</amount>
+      <date>10/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Emmer For Congress</payeeName>
+      <recipientName>Emmer, Tom</recipientName>
+      <amount>1500</amount>
+      <date>10/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Friends Of Ben McAdams</payeeName>
+      <recipientName>McAdams, Ben</recipientName>
+      <amount>1000</amount>
+      <date>10/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>IMPACT</payeeName>
+      <recipientName>Schumer, Charles</recipientName>
+      <amount>2500</amount>
+      <date>10/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Joni For Iowa</payeeName>
+      <recipientName>Ernst, Joni</recipientName>
+      <amount>1000</amount>
+      <date>10/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Katie Porter For Congress</payeeName>
+      <recipientName>Porter, Katherine</recipientName>
+      <amount>1000</amount>
+      <date>10/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Lance Gooden For Congress Committee</payeeName>
+      <recipientName>Gooden, Lance</recipientName>
+      <amount>2000</amount>
+      <date>10/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Lucas For Congress</payeeName>
+      <recipientName>Lucas, Frank</recipientName>
+      <amount>1000</amount>
+      <date>10/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Make it Work PAC</payeeName>
+      <recipientName>King, Angus</recipientName>
+      <amount>1000</amount>
+      <date>10/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Pelican PAC</payeeName>
+      <recipientName>Kennedy, John</recipientName>
+      <amount>1000</amount>
+      <date>10/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Reed Committee; The</payeeName>
+      <recipientName>Reed, Jack</recipientName>
+      <amount>1000</amount>
+      <date>10/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Rounds For Senate</payeeName>
+      <recipientName>Rounds, Mike</recipientName>
+      <amount>1500</amount>
+      <date>10/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Tomorrow is Meaningful PAC-TIM PAC</payeeName>
+      <recipientName>Scott, Tim</recipientName>
+      <amount>1500</amount>
+      <date>10/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Trey For Congress</payeeName>
+      <recipientName>Hollingsworth, Trey</recipientName>
+      <amount>1000</amount>
+      <date>10/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Votetipton.Com</payeeName>
+      <recipientName>Tipton, Scott</recipientName>
+      <amount>1000</amount>
+      <date>10/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Collins For Senator</payeeName>
+      <recipientName>Collins, Susan</recipientName>
+      <amount>1000</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Courtney For Congress</payeeName>
+      <recipientName>Courtney, Joseph</recipientName>
+      <amount>1000</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Kuster For Congress, Inc</payeeName>
+      <recipientName>Kuster, Ann</recipientName>
+      <amount>1000</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>MURPH PAC</payeeName>
+      <recipientName>Murphy, Chris</recipientName>
+      <amount>1000</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Nutmeg PAC</payeeName>
+      <recipientName>Blumenthal, Richard</recipientName>
+      <amount>1000</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Perlmutter For Congress</payeeName>
+      <recipientName>Perlmutter, Edwin</recipientName>
+      <amount>1000</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Project West PAC</payeeName>
+      <recipientName>Gardner, Cory</recipientName>
+      <amount>1000</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Texans For Henry Cuellar Congressional Campaign</payeeName>
+      <recipientName>Cuellar, Henry</recipientName>
+      <amount>1000</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>AMERIPAC</payeeName>
+      <recipientName>Hoyer, Steny</recipientName>
+      <amount>2500</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Andy Barr For Congress, Inc.</payeeName>
+      <recipientName>Barr, Andy</recipientName>
+      <amount>2000</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Brady For Congress</payeeName>
+      <recipientName>Brady, Kevin</recipientName>
+      <amount>1500</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Capito For West Virginia</payeeName>
+      <recipientName>Capito, Shelley Moore</recipientName>
+      <amount>1000</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Chris Coons For Delaware</payeeName>
+      <recipientName>Coons, Chris</recipientName>
+      <amount>1000</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Common Values PAC</payeeName>
+      <recipientName>Barrasso, John</recipientName>
+      <amount>1000</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Country Roads PAC</payeeName>
+      <recipientName>Manchin, Joe</recipientName>
+      <amount>2500</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Free State PAC</payeeName>
+      <recipientName>Moran, Jerry</recipientName>
+      <amount>1500</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Friends For Gregory Meeks</payeeName>
+      <recipientName>Meeks, Gregory</recipientName>
+      <amount>1000</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Kind For Congress Committee</payeeName>
+      <recipientName>Kind, Ron</recipientName>
+      <amount>1000</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>McSally For Senate Inc</payeeName>
+      <recipientName>McSally, Martha</recipientName>
+      <amount>1500</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Pete Stauber For Congress</payeeName>
+      <recipientName>Stauber, Pete</recipientName>
+      <amount>1000</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Peterson For Congress</payeeName>
+      <recipientName>Peterson, Collin</recipientName>
+      <amount>1500</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Republican Majority Fund</payeeName>
+      <recipientName>Cotton, Tom</recipientName>
+      <amount>1000</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Stephen Lynch For Congress</payeeName>
+      <recipientName>Lynch, Stephen</recipientName>
+      <amount>1500</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Team Graham Inc</payeeName>
+      <recipientName>Graham, Lindsey</recipientName>
+      <amount>1000</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Vicente Gonzalez For Congress</payeeName>
+      <recipientName>Gonzalez, Vicente</recipientName>
+      <amount>1000</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Cindy Hyde-Smith for US Senate</payeeName>
+      <recipientName>Hyde-Smith, Cindy</recipientName>
+      <amount>1000</amount>
+      <date>11/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>First State PAC</payeeName>
+      <recipientName>Carper, Thomas</recipientName>
+      <amount>1500</amount>
+      <date>11/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Forward Together PAC</payeeName>
+      <recipientName>Warner, Mark</recipientName>
+      <amount>5000</amount>
+      <date>11/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Heartland Values PAC</payeeName>
+      <recipientName>Thune, John</recipientName>
+      <amount>1500</amount>
+      <date>11/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Mark Pocan For Congress</payeeName>
+      <recipientName>Pocan, Mark</recipientName>
+      <amount>1500</amount>
+      <date>11/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Oorah! PAC</payeeName>
+      <recipientName>Young, Todd</recipientName>
+      <amount>1500</amount>
+      <date>11/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Pelican PAC</payeeName>
+      <recipientName>Kennedy, John</recipientName>
+      <amount>500</amount>
+      <date>11/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Peter Norbeck Leadership PAC, The</payeeName>
+      <recipientName>Rounds, Mike</recipientName>
+      <amount>1000</amount>
+      <date>11/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Project West PAC</payeeName>
+      <recipientName>Gardner, Cory</recipientName>
+      <amount>1000</amount>
+      <date>11/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Reclaim America PAC</payeeName>
+      <recipientName>Rubio, Marco</recipientName>
+      <amount>1500</amount>
+      <date>11/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Shaheen For Senate</payeeName>
+      <recipientName>Shaheen, Jeanne</recipientName>
+      <amount>2500</amount>
+      <date>11/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Steve Daines For Montana</payeeName>
+      <recipientName>Daines, Steve</recipientName>
+      <amount>1000</amount>
+      <date>11/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Thom Tillis Committee</payeeName>
+      <recipientName>Tillis, Thom</recipientName>
+      <amount>1000</amount>
+      <date>11/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Badlands PAC</payeeName>
+      <recipientName>Cramer, Kevin</recipientName>
+      <amount>1500</amount>
+      <date>11/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Brady For Congress</payeeName>
+      <recipientName>Brady, Kevin</recipientName>
+      <amount>1000</amount>
+      <date>11/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>EDPAC</payeeName>
+      <recipientName>Perlmutter, Edwin</recipientName>
+      <amount>2500</amount>
+      <date>11/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Getting Stuff Done PAC</payeeName>
+      <recipientName>Sinema, Krysten</recipientName>
+      <amount>1000</amount>
+      <date>11/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Lets Get to Work PAC</payeeName>
+      <recipientName>Scott, Rick</recipientName>
+      <amount>1000</amount>
+      <date>11/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Lisa Blunt Rochester For Congress</payeeName>
+      <recipientName>Blunt Rochester, Lisa</recipientName>
+      <amount>1000</amount>
+      <date>11/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Maloney For Congress</payeeName>
+      <recipientName>Maloney, Carolyn</recipientName>
+      <amount>1000</amount>
+      <date>11/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>PAC to the Future</payeeName>
+      <recipientName>Pelosi, Nancy</recipientName>
+      <amount>5000</amount>
+      <date>11/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Peters For Michigan</payeeName>
+      <recipientName>Peters, Gary</recipientName>
+      <amount>1000</amount>
+      <date>11/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Terri Sewell For Congress</payeeName>
+      <recipientName>Sewell, Terri</recipientName>
+      <amount>1000</amount>
+      <date>11/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Trey For Congress</payeeName>
+      <recipientName>Hollingsworth, Trey</recipientName>
+      <amount>1000</amount>
+      <date>11/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Andy Kim For Congress</payeeName>
+      <recipientName>Kim, Andrew</recipientName>
+      <amount>1000</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Ann Wagner For Congress</payeeName>
+      <recipientName>Wagner, Ann</recipientName>
+      <amount>500</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Ann Wagner For Congress</payeeName>
+      <recipientName>Wagner, Ann</recipientName>
+      <amount>2000</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>CBC PAC</payeeName>
+      <recipientName>CBC PAC</recipientName>
+      <amount>2500</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Clay Jr. For Congress</payeeName>
+      <recipientName>Clay, William</recipientName>
+      <amount>1000</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>David Rouzer For Congress</payeeName>
+      <recipientName>Rouzer, David</recipientName>
+      <amount>1000</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Friends Of Raja For Congress</payeeName>
+      <recipientName>Krishnamoorthi, Raja</recipientName>
+      <amount>1000</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Granite Values PAC</payeeName>
+      <recipientName>Hassan, Margaret</recipientName>
+      <amount>1000</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Kelly For Congress</payeeName>
+      <recipientName>Kelly, Trent</recipientName>
+      <amount>1000</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Loudermilk For Congress</payeeName>
+      <recipientName>Loudermilk, Barry</recipientName>
+      <amount>1000</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>McHenry For Congress</payeeName>
+      <recipientName>McHenry, Patrick</recipientName>
+      <amount>1000</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>People Helping People</payeeName>
+      <recipientName>Waters, Maxine</recipientName>
+      <amount>5000</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Peters For Michigan</payeeName>
+      <recipientName>Peters, Gary</recipientName>
+      <amount>1000</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Responsibility and Freedom Works PAC</payeeName>
+      <recipientName>Wicker, Roger</recipientName>
+      <amount>1000</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Roger Williams For U S Congress Committee</payeeName>
+      <recipientName>Williams, Roger</recipientName>
+      <amount>1000</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Steve Chabot For Congress</payeeName>
+      <recipientName>Chabot, Steve</recipientName>
+      <amount>1000</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Michael Burgess For Congress</payeeName>
+      <recipientName>Burgess, Michael</recipientName>
+      <amount>1000</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>America Works PAC</payeeName>
+      <recipientName>Brown, Sherrod</recipientName>
+      <amount>1000</amount>
+      <date>12/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>ARKPAC</payeeName>
+      <recipientName>Boozman, John</recipientName>
+      <amount>1000</amount>
+      <date>12/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Collins For Senator</payeeName>
+      <recipientName>Collins, Susan</recipientName>
+      <amount>1000</amount>
+      <date>12/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Cotton For Senate</payeeName>
+      <recipientName>Cotton, Tom</recipientName>
+      <amount>1000</amount>
+      <date>12/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Country Roads PAC</payeeName>
+      <recipientName>Manchin, Joe</recipientName>
+      <amount>2500</amount>
+      <date>12/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>David Scott For Congress</payeeName>
+      <recipientName>Scott, David</recipientName>
+      <amount>5000</amount>
+      <date>12/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Davis For Congress/Friends Of Davis</payeeName>
+      <recipientName>Davis, Danny</recipientName>
+      <amount>1500</amount>
+      <date>12/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Eye of the Tiger PAC</payeeName>
+      <recipientName>Scalise, Steve</recipientName>
+      <amount>5000</amount>
+      <date>12/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Friends Of Ben McAdams</payeeName>
+      <recipientName>McAdams, Ben</recipientName>
+      <amount>1000</amount>
+      <date>12/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Great Lakes PAC</payeeName>
+      <recipientName>Stabenow, Debbie</recipientName>
+      <amount>5000</amount>
+      <date>12/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>IMPACT</payeeName>
+      <recipientName>Schumer, Charles</recipientName>
+      <amount>2500</amount>
+      <date>12/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Innovation PAC</payeeName>
+      <recipientName>McHenry, Patrick</recipientName>
+      <amount>2500</amount>
+      <date>12/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Joni For Iowa</payeeName>
+      <recipientName>Ernst, Joni</recipientName>
+      <amount>1000</amount>
+      <date>12/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Josh Gottheimer For Congress</payeeName>
+      <recipientName>Gottheimer, Joshua</recipientName>
+      <amount>1000</amount>
+      <date>12/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Mad4pa Pac</payeeName>
+      <recipientName>Dean, Madeleine</recipientName>
+      <amount>1000</amount>
+      <date>12/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Majority Committee PAC</payeeName>
+      <recipientName>McCarthy, Kevin</recipientName>
+      <amount>5000</amount>
+      <date>12/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Make it Work PAC</payeeName>
+      <recipientName>King, Angus</recipientName>
+      <amount>1000</amount>
+      <date>12/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Marc Veasey Congressional Campaign Committee</payeeName>
+      <recipientName>Veasey, Marc</recipientName>
+      <amount>1000</amount>
+      <date>12/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>McHenry For Congress</payeeName>
+      <recipientName>McHenry, Patrick</recipientName>
+      <amount>1000</amount>
+      <date>12/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Mike Kelly For Congress</payeeName>
+      <recipientName>Kelly, Mike</recipientName>
+      <amount>1000</amount>
+      <date>12/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Nebraska Sandhills PAC</payeeName>
+      <recipientName>Fischer, Deb</recipientName>
+      <amount>1000</amount>
+      <date>12/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Steve PAC</payeeName>
+      <recipientName>Stivers, Steve</recipientName>
+      <amount>2500</amount>
+      <date>12/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Ted Budd For Congress</payeeName>
+      <recipientName>Budd, Theodore</recipientName>
+      <amount>1000</amount>
+      <date>12/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Texans For Jodey Arrington</payeeName>
+      <recipientName>Arrington, Jodey</recipientName>
+      <amount>1000</amount>
+      <date>12/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Austin Scott For Congress Inc</payeeName>
+      <recipientName>Scott, Austin</recipientName>
+      <amount>1500</amount>
+      <date>12/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Bluegrass Committee</payeeName>
+      <recipientName>McConnell, Mitch</recipientName>
+      <amount>2500</amount>
+      <date>12/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Brindisi For Congress</payeeName>
+      <recipientName>Brindisi, Anthony</recipientName>
+      <amount>1000</amount>
+      <date>12/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Buckeye PAC</payeeName>
+      <recipientName>Gonzalez, Anthony</recipientName>
+      <amount>500</amount>
+      <date>12/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Capito For West Virginia</payeeName>
+      <recipientName>Capito, Shelley Moore</recipientName>
+      <amount>1000</amount>
+      <date>12/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Clay Jr. For Congress</payeeName>
+      <recipientName>Clay, William</recipientName>
+      <amount>500</amount>
+      <date>12/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Clay Jr. For Congress</payeeName>
+      <recipientName>Clay, William</recipientName>
+      <amount>500</amount>
+      <date>12/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Comer For Congress</payeeName>
+      <recipientName>Comer, James</recipientName>
+      <amount>1000</amount>
+      <date>12/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Don Bacon For Congress</payeeName>
+      <recipientName>Bacon, Donald</recipientName>
+      <amount>1000</amount>
+      <date>12/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Friends Of Glenn Thompson</payeeName>
+      <recipientName>Thompson, Glenn</recipientName>
+      <amount>1000</amount>
+      <date>12/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Jim Risch For U S Senate Committee</payeeName>
+      <recipientName>Risch, James</recipientName>
+      <amount>1000</amount>
+      <date>12/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Leadership And Accountability Are National Keys PAC</payeeName>
+      <recipientName>Lankford, James</recipientName>
+      <amount>2500</amount>
+      <date>12/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Loudermilk For Congress</payeeName>
+      <recipientName>Loudermilk, Barry</recipientName>
+      <amount>1000</amount>
+      <date>12/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Mike Bost For Congress Committee</payeeName>
+      <recipientName>Bost, Mike</recipientName>
+      <amount>1000</amount>
+      <date>12/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Mikie Sherrill For Congress</payeeName>
+      <recipientName>Sherrill, Rebecca</recipientName>
+      <amount>1000</amount>
+      <date>12/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Rodney For Congress</payeeName>
+      <recipientName>Davis, Rodney</recipientName>
+      <amount>1000</amount>
+      <date>12/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Russ Fulcher For Idaho</payeeName>
+      <recipientName>Fulcher, Russ</recipientName>
+      <amount>1000</amount>
+      <date>12/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Schneider For Congress</payeeName>
+      <recipientName>Schneider, Bradley</recipientName>
+      <amount>1000</amount>
+      <date>12/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Texans For Henry Cuellar Congressional Campaign</payeeName>
+      <recipientName>Cuellar, Henry</recipientName>
+      <amount>1000</amount>
+      <date>12/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Thom Tillis Committee</payeeName>
+      <recipientName>Tillis, Thom</recipientName>
+      <amount>1000</amount>
+      <date>12/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Vern Buchanan For Congress</payeeName>
+      <recipientName>Buchanan, Vern</recipientName>
+      <amount>500</amount>
+      <date>12/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Vern Buchanan For Congress</payeeName>
+      <recipientName>Buchanan, Vern</recipientName>
+      <amount>500</amount>
+      <date>12/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Chris Coons For Delaware</payeeName>
+      <recipientName>Coons, Chris</recipientName>
+      <amount>1000</amount>
+      <date>12/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Cleaver For Congress</payeeName>
+      <recipientName>Cleaver, Emanuel</recipientName>
+      <amount>1500</amount>
+      <date>12/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Friends Of Bill Posey</payeeName>
+      <recipientName>Posey, Bill</recipientName>
+      <amount>1000</amount>
+      <date>12/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Peter Norbeck Leadership PAC, The</payeeName>
+      <recipientName>Rounds, Mike</recipientName>
+      <amount>1000</amount>
+      <date>12/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Ron Estes For Congress</payeeName>
+      <recipientName>Estes, Ron</recipientName>
+      <amount>1000</amount>
+      <date>12/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Sean Patrick Maloney For Congress</payeeName>
+      <recipientName>Maloney, Sean</recipientName>
+      <amount>1000</amount>
+      <date>12/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Zeldin For Congress</payeeName>
+      <recipientName>Zeldin, Lee</recipientName>
+      <amount>1000</amount>
+      <date>12/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ICBPAC</contributorName>
+      <payeeName>Friends Of Don Beyer</payeeName>
+      <recipientName>Beyer, Don</recipientName>
+      <amount>1000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

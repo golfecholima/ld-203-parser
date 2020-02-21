@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>Capitol Counsel, LLC</organizationName>
+  <lobbyistPrefix>Ms.</lobbyistPrefix>
+  <lobbyistFirstName>SHANNON</lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>FINLEY</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>313715</senateRegID>
+  <houseRegID>39384</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/29/2020 11:10:12 AM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Michael Bennet for Senate</payeeName>
+      <recipientName>Sen. Michael Bennet (D-CO)</recipientName>
+      <amount>25.00</amount>
+      <date>8/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Cory 2020</payeeName>
+      <recipientName>Senator Cory Booker (D-NJ)</recipientName>
+      <amount>25.00</amount>
+      <date>8/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Steve Bullock for President</payeeName>
+      <recipientName>Steve Bullock, Governor of Montana</recipientName>
+      <amount>1000.00</amount>
+      <date>8/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Doug Jones for Senate</payeeName>
+      <recipientName>Sen. Doug Jones (D-AL)</recipientName>
+      <amount>2000.00</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Colin Allred for Congress</payeeName>
+      <recipientName>Rep. Colin Allred (D-32nd TX)</recipientName>
+      <amount>500.00</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Tina Smith for Senate</payeeName>
+      <recipientName>Sen. Tina Smith (D-MN)</recipientName>
+      <amount>2000.00</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Markey for Senate</payeeName>
+      <recipientName>Sen. Ed Markey (D-MA)
+(Received refund of $2,000 dated 12/31/2019)</recipientName>
+      <amount>2000.00</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Gary Peters for Senate</payeeName>
+      <recipientName>Sen. Gary Peters (D-MI)</recipientName>
+      <amount>2500.00</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>MJ Hegar for Texas Senate</payeeName>
+      <recipientName>Mary Jennings Hegar</recipientName>
+      <amount>2000.00</amount>
+      <date>12/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Warner Victory Fund</payeeName>
+      <recipientName>Sen. Mark Warner (D-VA)</recipientName>
+      <amount>1000.00</amount>
+      <date>12/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Bob Casey for Senate</payeeName>
+      <recipientName>Sen. Bob Casey (D-PA)</recipientName>
+      <amount>1120.00</amount>
+      <date>12/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Tester for Senate</payeeName>
+      <recipientName>Sen. Jon Tester (D-MT)</recipientName>
+      <amount>2500.00</amount>
+      <date>12/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Chris Coons for Senate</payeeName>
+      <recipientName>Sen. Chris Coons (D-DE)</recipientName>
+      <amount>2500.00</amount>
+      <date>12/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>New Millennium PAC</payeeName>
+      <recipientName>Sen. Robert Menendez (D-NJ)</recipientName>
+      <amount>5000.00</amount>
+      <date>12/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Mazie Hirono for Senate</payeeName>
+      <recipientName>Sen. Mazie Hirono (D-HI)</recipientName>
+      <amount>500.00</amount>
+      <date>12/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Schumer for Senate</payeeName>
+      <recipientName>Sen. Charles Schumer (D-NY)</recipientName>
+      <amount>5600.00</amount>
+      <date>12/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Cal for North Carolina</payeeName>
+      <recipientName>James Calvin Cunningham III</recipientName>
+      <amount>2500.00</amount>
+      <date>12/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Sharice Davids for Congress</payeeName>
+      <recipientName>Rep. Sharice Davides (D-3rd KS)</recipientName>
+      <amount>1000.00</amount>
+      <date>12/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Jaime Harrison for US Senate</payeeName>
+      <recipientName>Jaime R. Harrison</recipientName>
+      <amount>1000.00</amount>
+      <date>12/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Clyburn for Congress</payeeName>
+      <recipientName>Rep. Jim Clyburn (D-6th SC)</recipientName>
+      <amount>1000.00</amount>
+      <date>12/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>A New Direction PAC</payeeName>
+      <recipientName>Sen. Jeanne Shaheen (D-NH)</recipientName>
+      <amount>1000.00</amount>
+      <date>12/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Doug Jones for Senate</payeeName>
+      <recipientName>Sen. Doug Jones (D-AL)</recipientName>
+      <amount>1000.00</amount>
+      <date>12/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Bullock for President 2020</payeeName>
+      <recipientName>Steve Bullock, Governor of Montana</recipientName>
+      <amount>637.26</amount>
+      <date>08/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>DSCC</payeeName>
+      <recipientName>Democratic Senatorial Campaign Committee</recipientName>
+      <amount>34500.00</amount>
+      <date>12/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Emily's List</payeeName>
+      <recipientName>Emily's List</recipientName>
+      <amount>5000.00</amount>
+      <date>12/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Susan Collins for Senate</payeeName>
+      <recipientName>Senator Susan Collins (R-ME)</recipientName>
+      <amount>1000.00</amount>
+      <date>12/31/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

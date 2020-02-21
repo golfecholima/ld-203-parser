@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>CUBIC CORPORATION</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>JAMES R. EDWARDS</contactName>
+  <senateRegID>11446</senateRegID>
+  <houseRegID>33565</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/13/2020 7:04:54 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>
+  </noContributions>
+  <pacs>
+    <pac>
+      <name>Cubic Corporation Employees Political Action Committee</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cubic Corporation Employees Political Action Committee</contributorName>
+      <payeeName>ROBERT ADERHOLT FOR CONGRESS</payeeName>
+      <recipientName>Rep Robert B Aderholt</recipientName>
+      <amount>2500.00</amount>
+      <date>07/01/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cubic Corporation Employees Political Action Committee</contributorName>
+      <payeeName>Kay Granger Campaign Fund</payeeName>
+      <recipientName>Rep Kay N Granger</recipientName>
+      <amount>4000.00</amount>
+      <date>07/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cubic Corporation Employees Political Action Committee</contributorName>
+      <payeeName>National Republican Senatorial Committee</payeeName>
+      <recipientName>National Republican Senatorial Committee</recipientName>
+      <amount>15000.00</amount>
+      <date>07/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cubic Corporation Employees Political Action Committee</contributorName>
+      <payeeName>HOYER FOR CONGRESS</payeeName>
+      <recipientName>Rep Steny H Hoyer</recipientName>
+      <amount>2500.00</amount>
+      <date>07/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cubic Corporation Employees Political Action Committee</contributorName>
+      <payeeName>FRIENDS OF DICK DURBIN</payeeName>
+      <recipientName>Sen Dick Durbin</recipientName>
+      <amount>2000.00</amount>
+      <date>07/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cubic Corporation Employees Political Action Committee</contributorName>
+      <payeeName>GRAVES FOR CONGRESS</payeeName>
+      <recipientName>Rep Sam B Graves Jr</recipientName>
+      <amount>2500.00</amount>
+      <date>07/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cubic Corporation Employees Political Action Committee</contributorName>
+      <payeeName>MIKE ROGERS FOR CONGRESS</payeeName>
+      <recipientName>Rep Mike Rogers</recipientName>
+      <amount>1000.00</amount>
+      <date>08/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cubic Corporation Employees Political Action Committee</contributorName>
+      <payeeName>RECLAIM AMERICA PAC</payeeName>
+      <recipientName>Sen Marco Rubio</recipientName>
+      <amount>3500.00</amount>
+      <date>08/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cubic Corporation Employees Political Action Committee</contributorName>
+      <payeeName>RODNEY FOR CONGRESS</payeeName>
+      <recipientName>Rep Rodney L Davis</recipientName>
+      <amount>3500.00</amount>
+      <date>08/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cubic Corporation Employees Political Action Committee</contributorName>
+      <payeeName>Gerry Connolly For Congress</payeeName>
+      <recipientName>Rep Gerry E Connolly</recipientName>
+      <amount>2500.00</amount>
+      <date>09/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cubic Corporation Employees Political Action Committee</contributorName>
+      <payeeName>DEFAZIO FOR CONGRESS</payeeName>
+      <recipientName>Rep Peter A DeFazio</recipientName>
+      <amount>2500.00</amount>
+      <date>09/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cubic Corporation Employees Political Action Committee</contributorName>
+      <payeeName>GRAVES FOR CONGRESS</payeeName>
+      <recipientName>Rep Sam B Graves Jr</recipientName>
+      <amount>2500.00</amount>
+      <date>09/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cubic Corporation Employees Political Action Committee</contributorName>
+      <payeeName>JOE WILSON FOR CONGRESS COMMITTEE</payeeName>
+      <recipientName>Rep Joe Wilson</recipientName>
+      <amount>2500.00</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cubic Corporation Employees Political Action Committee</contributorName>
+      <payeeName>RODNEY FOR CONGRESS</payeeName>
+      <recipientName>Rep Rodney L Davis</recipientName>
+      <amount>1500.00</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cubic Corporation Employees Political Action Committee</contributorName>
+      <payeeName>SCOTT PETERS FOR CONGRESS</payeeName>
+      <recipientName>Rep Scott Peters</recipientName>
+      <amount>1000.00</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cubic Corporation Employees Political Action Committee</contributorName>
+      <payeeName>PETE AGUILAR FOR CONGRESS</payeeName>
+      <recipientName>Rep Pete Aguilar</recipientName>
+      <amount>1000.00</amount>
+      <date>10/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cubic Corporation Employees Political Action Committee</contributorName>
+      <payeeName>The Reed Committee</payeeName>
+      <recipientName>Sen Jack F Reed</recipientName>
+      <amount>1000.00</amount>
+      <date>10/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cubic Corporation Employees Political Action Committee</contributorName>
+      <payeeName>The Reed Committee</payeeName>
+      <recipientName>Sen Jack F Reed</recipientName>
+      <amount>1500.00</amount>
+      <date>10/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cubic Corporation Employees Political Action Committee</contributorName>
+      <payeeName>CITIZENS FOR JOHN RUTHERFORD</payeeName>
+      <recipientName>Rep John Rutherford</recipientName>
+      <amount>1000.00</amount>
+      <date>11/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cubic Corporation Employees Political Action Committee</contributorName>
+      <payeeName>SCOTT PETERS FOR CONGRESS</payeeName>
+      <recipientName>Rep Scott Peters</recipientName>
+      <amount>3000.00</amount>
+      <date>11/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cubic Corporation Employees Political Action Committee</contributorName>
+      <payeeName>STEPHANIE MURPHY FOR CONGRESS</payeeName>
+      <recipientName>Rep Stephanie Murphy</recipientName>
+      <amount>2500.00</amount>
+      <date>11/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cubic Corporation Employees Political Action Committee</contributorName>
+      <payeeName>Hal Rogers For Congress</payeeName>
+      <recipientName>Rep Hal D Rogers</recipientName>
+      <amount>2500.00</amount>
+      <date>11/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cubic Corporation Employees Political Action Committee</contributorName>
+      <payeeName>CITIZENS FOR ELEANOR HOLMES NORTON</payeeName>
+      <recipientName>Del Eleanor Holmes Norton</recipientName>
+      <amount>1000.00</amount>
+      <date>11/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cubic Corporation Employees Political Action Committee</contributorName>
+      <payeeName>TIM RYAN FOR CONGRESS</payeeName>
+      <recipientName>Rep Tim J Ryan</recipientName>
+      <amount>5000.00</amount>
+      <date>11/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cubic Corporation Employees Political Action Committee</contributorName>
+      <payeeName>TIM RYAN FOR CONGRESS</payeeName>
+      <recipientName>Rep Tim J Ryan</recipientName>
+      <amount>5000.00</amount>
+      <date>11/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cubic Corporation Employees Political Action Committee</contributorName>
+      <payeeName>DAN LIPINSKI FOR CONGRESS</payeeName>
+      <recipientName>Rep Daniel W Lipinski</recipientName>
+      <amount>1000.00</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cubic Corporation Employees Political Action Committee</contributorName>
+      <payeeName>ROB WITTMAN FOR CONGRESS</payeeName>
+      <recipientName>Rep Rob J Wittman</recipientName>
+      <amount>2500.00</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cubic Corporation Employees Political Action Committee</contributorName>
+      <payeeName>STEPHANIE MURPHY FOR CONGRESS</payeeName>
+      <recipientName>Rep Stephanie Murphy</recipientName>
+      <amount>2500.00</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cubic Corporation Employees Political Action Committee</contributorName>
+      <payeeName>RODNEY FOR CONGRESS</payeeName>
+      <recipientName>Rep Rodney L Davis</recipientName>
+      <amount>3000.00</amount>
+      <date>12/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cubic Corporation Employees Political Action Committee</contributorName>
+      <payeeName>Kay Granger Campaign Fund</payeeName>
+      <recipientName>Rep Kay N Granger</recipientName>
+      <amount>5000.00</amount>
+      <date>12/19/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

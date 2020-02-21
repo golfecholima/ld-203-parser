@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>Akin, Gump, Strauss, Hauer &amp; Feld</organizationName>
+  <lobbyistPrefix>Ms.</lobbyistPrefix>
+  <lobbyistFirstName>Christina</lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>Haley</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>682</senateRegID>
+  <houseRegID>31784</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/24/2020 9:20:11 AM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Torres for Congress </payeeName>
+      <recipientName>Norma Torres </recipientName>
+      <amount>500.00</amount>
+      <date>12/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Debbie for Congress </payeeName>
+      <recipientName>Debbi Mucarsel Powell </recipientName>
+      <amount>500.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Richmond for Congress </payeeName>
+      <recipientName>Cedric Richmond </recipientName>
+      <amount>250.00</amount>
+      <date>12/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Jobs Education &amp; Families First - JEFF PAC</payeeName>
+      <recipientName>Hakeem Jefferies </recipientName>
+      <amount>2000.00</amount>
+      <date>12/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Ruiz for Congress </payeeName>
+      <recipientName>Raul Ruiz </recipientName>
+      <amount>250.00</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>New Millennium PAC </payeeName>
+      <recipientName>Senator Menendez </recipientName>
+      <amount>3000.00</amount>
+      <date>12/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Boyle for Congress </payeeName>
+      <recipientName>Brendan Boyle </recipientName>
+      <amount>500.00</amount>
+      <date>07/24/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

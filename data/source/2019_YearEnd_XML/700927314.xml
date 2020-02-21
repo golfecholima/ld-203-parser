@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>Subject Matter (fka Elmendorf Ryan)</organizationName>
+  <lobbyistPrefix>Mr.</lobbyistPrefix>
+  <lobbyistFirstName>Barry</lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>Lasala</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <address2>
+  </address2>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>313271</senateRegID>
+  <houseRegID>39128</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>2/4/2020 10:11:21 AM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Nutmeg PAC</payeeName>
+      <recipientName>Senator Richard Blumenthal</recipientName>
+      <amount>500.00</amount>
+      <date>08/01/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Smart Solutions PAC</payeeName>
+      <recipientName>Senator Jacky Rosen</recipientName>
+      <amount>1000.00</amount>
+      <date>08/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Friends of Schumer</payeeName>
+      <recipientName>Senator Chuck Schumer</recipientName>
+      <amount>1000.00</amount>
+      <date>09/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Joe Kennedy III</payeeName>
+      <recipientName>Joe Kennedy III</recipientName>
+      <amount>2800.00</amount>
+      <date>09/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Doug Jones for Senate</payeeName>
+      <recipientName>Senator Doug Jones</recipientName>
+      <amount>1000.00</amount>
+      <date>09/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Chris Coons for Senate</payeeName>
+      <recipientName>Senator Chris Coons</recipientName>
+      <amount>1000.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Cal Cunningham for Senate</payeeName>
+      <recipientName>Cal Cunningham for Senate</recipientName>
+      <amount>1000.00</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Theresa Greenfield for Iowa</payeeName>
+      <recipientName>Theresa Greenfield for Iowa</recipientName>
+      <amount>1000.00</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>John Hickenlooper For Senate</payeeName>
+      <recipientName>John Hickenlooper For Senate</recipientName>
+      <amount>1000.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Democratic Senatorial Campaign Committee</payeeName>
+      <recipientName>Democratic Senatorial Campaign Committee</recipientName>
+      <amount>1000.00</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Smart Solutions PAC</payeeName>
+      <recipientName>Senator Jacky Rosen</recipientName>
+      <amount>1000.00</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Jon Tester for Senate</payeeName>
+      <recipientName>Senator Jon Tester</recipientName>
+      <amount>1000.00</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Joe Kenney III</payeeName>
+      <recipientName>Joe Kennedy III</recipientName>
+      <amount>2800.00</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Montana Conservation Voters</payeeName>
+      <recipientName>Montana Conservation Voters</recipientName>
+      <amount>500.00</amount>
+      <date>10/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Heinrich Victory </payeeName>
+      <recipientName>Senator Martin Heinrich</recipientName>
+      <amount>1000.00</amount>
+      <date>10/01/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

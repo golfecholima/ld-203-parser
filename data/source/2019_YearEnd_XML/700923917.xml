@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>CoreCivic, Inc.</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <zipext>
+  </zipext>
+  <contactName>Bart VerHulst</contactName>
+  <senateRegID>84491</senateRegID>
+  <houseRegID>36467</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>After performing reasonable due diligence, and to the best of my knowledge, CoreCivic, Inc. is in compliance with the Standing Rules of the U.S. House and Senate.</comments>
+  <signedDate>1/29/2020 6:09:18 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>CoreCivic, Inc. PAC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CoreCivic, Inc. PAC</contributorName>
+      <payeeName>Sanford Bishop for Congress</payeeName>
+      <recipientName>Rep. Sanford Bishop</recipientName>
+      <amount>3500</amount>
+      <date>08/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CoreCivic, Inc. PAC</contributorName>
+      <payeeName>Dakota PAC</payeeName>
+      <recipientName>Sen. John Hoeven</recipientName>
+      <amount>3000</amount>
+      <date>08/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CoreCivic, Inc. PAC</contributorName>
+      <payeeName>Burchett for Congress</payeeName>
+      <recipientName>Rep. Tim Burchett</recipientName>
+      <amount>1000</amount>
+      <date>08/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CoreCivic, Inc. PAC</contributorName>
+      <payeeName>Jim Banks for Congress</payeeName>
+      <recipientName>Rep. Jim Banks</recipientName>
+      <amount>1000</amount>
+      <date>08/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CoreCivic, Inc. PAC</contributorName>
+      <payeeName>Oorah! PAC</payeeName>
+      <recipientName>Sen. Todd Young</recipientName>
+      <amount>1000</amount>
+      <date>08/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CoreCivic, Inc. PAC</contributorName>
+      <payeeName>Ron Estes for Congress</payeeName>
+      <recipientName>Rep. Ron Estes</recipientName>
+      <amount>1500</amount>
+      <date>09/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CoreCivic, Inc. PAC</contributorName>
+      <payeeName>Perdue for Senate</payeeName>
+      <recipientName>Sen. David Perdue</recipientName>
+      <amount>2500</amount>
+      <date>09/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CoreCivic, Inc. PAC</contributorName>
+      <payeeName>Texans for Senator John Cornyn</payeeName>
+      <recipientName>Sen. John Cornyn</recipientName>
+      <amount>5000</amount>
+      <date>09/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CoreCivic, Inc. PAC</contributorName>
+      <payeeName>Kustoff for Congress</payeeName>
+      <recipientName>Rep. David Kustoff</recipientName>
+      <amount>2500</amount>
+      <date>10/07/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CoreCivic, Inc. PAC</contributorName>
+      <payeeName>MARSHA PAC</payeeName>
+      <recipientName>Sen. Marsha Blackburn</recipientName>
+      <amount>2500</amount>
+      <date>10/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CoreCivic, Inc. PAC</contributorName>
+      <payeeName>Robert Aderholt for Congress</payeeName>
+      <recipientName>Rep. Robert Aderholt</recipientName>
+      <amount>2500</amount>
+      <date>10/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CoreCivic, Inc. PAC</contributorName>
+      <payeeName>Georgia PAC</payeeName>
+      <recipientName>Rep. Tom Graves</recipientName>
+      <amount>3000</amount>
+      <date>10/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CoreCivic, Inc. PAC</contributorName>
+      <payeeName>John Rose for Tennessee</payeeName>
+      <recipientName>Rep. John Rose</recipientName>
+      <amount>5000</amount>
+      <date>10/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CoreCivic, Inc. PAC</contributorName>
+      <payeeName>Fund for America's Future</payeeName>
+      <recipientName>Sen. Lindsey Graham</recipientName>
+      <amount>2500</amount>
+      <date>10/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CoreCivic, Inc. PAC</contributorName>
+      <payeeName>Thom Tillis Committee</payeeName>
+      <recipientName>Sen. Thom Tillis</recipientName>
+      <amount>5000</amount>
+      <date>10/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CoreCivic, Inc. PAC</contributorName>
+      <payeeName>Joni for Iowa</payeeName>
+      <recipientName>Sen. Joni Ernst</recipientName>
+      <amount>2500</amount>
+      <date>11/01/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CoreCivic, Inc. PAC</contributorName>
+      <payeeName>Moran for Kansas</payeeName>
+      <recipientName>Sen. Jerry Moran</recipientName>
+      <amount>2500</amount>
+      <date>11/04/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CoreCivic, Inc. PAC</contributorName>
+      <payeeName>Team Hagerty</payeeName>
+      <recipientName>Bill Hagerty</recipientName>
+      <amount>5000</amount>
+      <date>11/08/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CoreCivic, Inc. PAC</contributorName>
+      <payeeName>Kentucky State Democratic Central Exec Comm.</payeeName>
+      <recipientName>KY Democratic Party (Federal Account)</recipientName>
+      <amount>2500</amount>
+      <date>12/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CoreCivic, Inc. PAC</contributorName>
+      <payeeName>Texans for Henry Cuellar</payeeName>
+      <recipientName>Rep. Henry Cuellar</recipientName>
+      <amount>2500</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CoreCivic, Inc. PAC</contributorName>
+      <payeeName>Tony Gonzales for Congress</payeeName>
+      <recipientName>Rep. Tony Gonzales</recipientName>
+      <amount>1000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CoreCivic, Inc. PAC</contributorName>
+      <payeeName>Tomorrow is Meaningful PAC (TIM PAC)</payeeName>
+      <recipientName>Sen. Tim Scott</recipientName>
+      <amount>5000</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>Honorary Expenses</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Voices for a Second Chance</payeeName>
+      <recipientName>Rep. David Trone</recipientName>
+      <amount>10000.00</amount>
+      <date>11/01/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

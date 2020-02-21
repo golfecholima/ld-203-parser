@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>Sazerac Company, Inc.</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>Elizabeth Wise</contactName>
+  <senateRegID>401104172</senateRegID>
+  <houseRegID>43379</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>The certification below is based on reasonable due diligence. </comments>
+  <signedDate>1/29/2020 4:54:22 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>Sazerac Company, Inc. PAC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Sazerac Company, Inc. PAC</contributorName>
+      <payeeName>Bice for Congress</payeeName>
+      <recipientName>Stephanie Bice</recipientName>
+      <amount>1000.00</amount>
+      <date>07/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Sazerac Company, Inc. PAC</contributorName>
+      <payeeName>Comer for Congress</payeeName>
+      <recipientName>James Comer</recipientName>
+      <amount>1000.00</amount>
+      <date>07/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Sazerac Company, Inc. PAC</contributorName>
+      <payeeName>Chris Coons for Delaware</payeeName>
+      <recipientName>Chris Coons</recipientName>
+      <amount>1000.00</amount>
+      <date>07/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Sazerac Company, Inc. PAC</contributorName>
+      <payeeName>Continuing America's Strength and Security PAC</payeeName>
+      <recipientName>Bill Cassidy</recipientName>
+      <amount>2500.00</amount>
+      <date>07/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Sazerac Company, Inc. PAC</contributorName>
+      <payeeName>McConnell Senate Committee</payeeName>
+      <recipientName>Mitch McConnell</recipientName>
+      <amount>2500.00</amount>
+      <date>09/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Sazerac Company, Inc. PAC</contributorName>
+      <payeeName>Graves for Congress</payeeName>
+      <recipientName>Tom Graves</recipientName>
+      <amount>1000.00</amount>
+      <date>10/03/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Sazerac Company, Inc. PAC</contributorName>
+      <payeeName>Kustoff for Congress</payeeName>
+      <recipientName>David Kustoff</recipientName>
+      <amount>2000.00</amount>
+      <date>10/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Sazerac Company, Inc. PAC</contributorName>
+      <payeeName>Building America's Republican Representation PAC</payeeName>
+      <recipientName>Andy Barr</recipientName>
+      <amount>3601.88</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Sazerac Company, Inc. PAC</contributorName>
+      <payeeName>Todos con Jenniffer, Inc. (Jenniffer for Congress)</payeeName>
+      <recipientName>Jenniffer Gonzalez</recipientName>
+      <amount>2500.00</amount>
+      <date>12/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Sazerac Company, Inc. PAC</contributorName>
+      <payeeName>Pelican PAC</payeeName>
+      <recipientName>John Kennedy</recipientName>
+      <amount>1500.00</amount>
+      <date>12/20/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>NextEra Energy, Inc.</organizationName>
+  <lobbyistPrefix>Mr.</lobbyistPrefix>
+  <lobbyistFirstName>Philip</lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>Musser</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>40030260</senateRegID>
+  <houseRegID>39924</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>As VP Government Affairs for NextEra Energy, Inc., to the best of my knowledge, I help the NextEra Energy Inc. PAC Board determine the ideal candidates to support. NextEra Energy Inc. is a registered entity and reports its PAC activity on its LD-203.</comments>
+  <signedDate>1/30/2020 1:06:43 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Congressman Vern Buchanan</payeeName>
+      <recipientName>Congressman Vern Buchanan</recipientName>
+      <amount>1000.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>PowerPAC of the Edison Institute</payeeName>
+      <recipientName>PowerPac of the Edison Institute</recipientName>
+      <amount>1000.00</amount>
+      <date>12/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Nextera Energy PAC</payeeName>
+      <recipientName>Nextera Energy PAC</recipientName>
+      <amount>5000.00</amount>
+      <date>07/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Amanda Makki</payeeName>
+      <recipientName>Amanda Makki</recipientName>
+      <amount>500.00</amount>
+      <date>08/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Senator Joni Ernst</payeeName>
+      <recipientName>Senator Joni Ernst</recipientName>
+      <amount>1000.00</amount>
+      <date>10/29/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

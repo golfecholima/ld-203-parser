@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>Parsons Corporation</organizationName>
+  <lobbyistPrefix>Mr.</lobbyistPrefix>
+  <lobbyistFirstName>RICHARD</lobbyistFirstName>
+  <lobbyistMiddleName>P</lobbyistMiddleName>
+  <lobbyistLastName>MCFARLAND</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <address2>
+  </address2>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>401103402</senateRegID>
+  <houseRegID>42692</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/10/2020 6:25:40 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Rich McFarland</payeeName>
+      <recipientName>Amanda Makki</recipientName>
+      <amount>500.00</amount>
+      <date>7/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Committee to Re-Elect Rick Larsen</payeeName>
+      <recipientName>Rep Rick Larsen</recipientName>
+      <amount>300.00</amount>
+      <date>09/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Committee to Re-Elect Doug Lamborn</payeeName>
+      <recipientName>Rep Doug Lamborn</recipientName>
+      <amount>300.00</amount>
+      <date>09/10/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>Weyerhaeuser Company</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>Kristen Sawin</contactName>
+  <senateRegID>41124</senateRegID>
+  <houseRegID>31739</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/16/2020 2:25:27 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>
+  </noContributions>
+  <pacs>
+    <pac>
+      <name>Weyerhaeuser Company Political Action Committee</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Weyerhaeuser Company Political Action Committee</contributorName>
+      <payeeName>Buddy Carter For Congress</payeeName>
+      <recipientName>Rep Buddy Carter</recipientName>
+      <amount>2500.00</amount>
+      <date>07/08/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Weyerhaeuser Company Political Action Committee</contributorName>
+      <payeeName>DREW FERGUSON FOR CONGRESS INC</payeeName>
+      <recipientName>Rep Drew Ferguson IV</recipientName>
+      <amount>2000.00</amount>
+      <date>07/08/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Weyerhaeuser Company Political Action Committee</contributorName>
+      <payeeName>Friends of Glenn Thompson</payeeName>
+      <recipientName>Rep Glenn W Thompson Jr</recipientName>
+      <amount>1000.00</amount>
+      <date>07/08/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Weyerhaeuser Company Political Action Committee</contributorName>
+      <payeeName>MIKE GALLAGHER FOR WISCONSIN</payeeName>
+      <recipientName>Rep Michael J Gallagher</recipientName>
+      <amount>1000.00</amount>
+      <date>07/08/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Weyerhaeuser Company Political Action Committee</contributorName>
+      <payeeName>Perdue For Senate</payeeName>
+      <recipientName>Sen David A Perdue Jr</recipientName>
+      <amount>2500.00</amount>
+      <date>07/08/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Weyerhaeuser Company Political Action Committee</contributorName>
+      <payeeName>MIKE JOHNSON FOR LOUISIANA</payeeName>
+      <recipientName>Rep Mike Johnson</recipientName>
+      <amount>2500.00</amount>
+      <date>07/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Weyerhaeuser Company Political Action Committee</contributorName>
+      <payeeName>Lisa Murkowski for US Senate</payeeName>
+      <recipientName>Sen Lisa A Murkowski</recipientName>
+      <amount>500.00</amount>
+      <date>07/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Weyerhaeuser Company Political Action Committee</contributorName>
+      <payeeName>Jaime for Congress</payeeName>
+      <recipientName>Rep Jaime L Herrera Beutler</recipientName>
+      <amount>5000.00</amount>
+      <date>08/07/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Weyerhaeuser Company Political Action Committee</contributorName>
+      <payeeName>People For Derek Kilmer</payeeName>
+      <recipientName>Rep Derek Kilmer</recipientName>
+      <amount>3000.00</amount>
+      <date>08/07/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Weyerhaeuser Company Political Action Committee</contributorName>
+      <payeeName>Robert Aderholt for Congress</payeeName>
+      <recipientName>Rep Robert B Aderholt</recipientName>
+      <amount>2500.00</amount>
+      <date>08/08/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Weyerhaeuser Company Political Action Committee</contributorName>
+      <payeeName>Robert Aderholt for Congress</payeeName>
+      <recipientName>Rep Robert B Aderholt</recipientName>
+      <amount>2500.00</amount>
+      <date>08/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Weyerhaeuser Company Political Action Committee</contributorName>
+      <payeeName>MCCARTHY VICTORY FUND</payeeName>
+      <recipientName>Rep Kevin Mccarthy</recipientName>
+      <amount>1500.00</amount>
+      <date>08/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Weyerhaeuser Company Political Action Committee</contributorName>
+      <payeeName>BRIAN BABIN FOR CONGRESS</payeeName>
+      <recipientName>Rep Brian Babin</recipientName>
+      <amount>1000.00</amount>
+      <date>09/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Weyerhaeuser Company Political Action Committee</contributorName>
+      <payeeName>Steve Daines for Montana</payeeName>
+      <recipientName>Sen Steve Daines</recipientName>
+      <amount>1000.00</amount>
+      <date>09/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Weyerhaeuser Company Political Action Committee</contributorName>
+      <payeeName>Steve Daines for Montana</payeeName>
+      <recipientName>Sen Steve Daines</recipientName>
+      <amount>4000.00</amount>
+      <date>09/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Weyerhaeuser Company Political Action Committee</contributorName>
+      <payeeName>Citizens to Elect Rick Larsen</payeeName>
+      <recipientName>Rep Rick R Larsen</recipientName>
+      <amount>1000.00</amount>
+      <date>09/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Weyerhaeuser Company Political Action Committee</contributorName>
+      <payeeName>FRIENDS OF MICHAEL GUEST</payeeName>
+      <recipientName>Rep Michael P Guest</recipientName>
+      <amount>1000.00</amount>
+      <date>09/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Weyerhaeuser Company Political Action Committee</contributorName>
+      <payeeName>Richmond for Congress</payeeName>
+      <recipientName>Rep Cedric L Richmond</recipientName>
+      <amount>2000.00</amount>
+      <date>09/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Weyerhaeuser Company Political Action Committee</contributorName>
+      <payeeName>Shaheen For Senate</payeeName>
+      <recipientName>Sen Jeanne Shaheen</recipientName>
+      <amount>1000.00</amount>
+      <date>09/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Weyerhaeuser Company Political Action Committee</contributorName>
+      <payeeName>STEPHANIE MURPHY FOR CONGRESS</payeeName>
+      <recipientName>Rep Stephanie Murphy</recipientName>
+      <amount>2500.00</amount>
+      <date>09/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Weyerhaeuser Company Political Action Committee</contributorName>
+      <payeeName>Sewell for Congress</payeeName>
+      <recipientName>Rep Terri Sewell</recipientName>
+      <amount>2500.00</amount>
+      <date>09/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Weyerhaeuser Company Political Action Committee</contributorName>
+      <payeeName>Thom Tillis Committee</payeeName>
+      <recipientName>Sen Thom R Tillis</recipientName>
+      <amount>2500.00</amount>
+      <date>09/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Weyerhaeuser Company Political Action Committee</contributorName>
+      <payeeName>Thom Tillis Committee</payeeName>
+      <recipientName>Sen Thom R Tillis</recipientName>
+      <amount>1500.00</amount>
+      <date>09/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Weyerhaeuser Company Political Action Committee</contributorName>
+      <payeeName>CINDY HYDESMITH FOR US SENATE</payeeName>
+      <recipientName>Sen Cindy HydeSmith</recipientName>
+      <amount>1500.00</amount>
+      <date>09/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Weyerhaeuser Company Political Action Committee</contributorName>
+      <payeeName>Capito For West Virginia</payeeName>
+      <recipientName>Sen Shelley Moore Capito</recipientName>
+      <amount>1000.00</amount>
+      <date>10/01/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Weyerhaeuser Company Political Action Committee</contributorName>
+      <payeeName>DeFazio for Congress</payeeName>
+      <recipientName>Rep Peter A DeFazio</recipientName>
+      <amount>1000.00</amount>
+      <date>10/01/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Weyerhaeuser Company Political Action Committee</contributorName>
+      <payeeName>FRIENDS OF CHERI BUSTOS</payeeName>
+      <recipientName>Rep Cheri L Bustos</recipientName>
+      <amount>2500.00</amount>
+      <date>10/01/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Weyerhaeuser Company Political Action Committee</contributorName>
+      <payeeName>Jim Risch for U S Senate</payeeName>
+      <recipientName>Sen James E Risch</recipientName>
+      <amount>2000.00</amount>
+      <date>10/01/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Weyerhaeuser Company Political Action Committee</contributorName>
+      <payeeName>Kurt Schrader for Congress</payeeName>
+      <recipientName>Rep Kurt Schrader</recipientName>
+      <amount>2500.00</amount>
+      <date>10/01/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Weyerhaeuser Company Political Action Committee</contributorName>
+      <payeeName>Trent Kelly For Congress</payeeName>
+      <recipientName>Rep Trent Kelly</recipientName>
+      <amount>2000.00</amount>
+      <date>10/01/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Weyerhaeuser Company Political Action Committee</contributorName>
+      <payeeName>BERGMAN FOR CONGRESS</payeeName>
+      <recipientName>Rep Jack W Bergman</recipientName>
+      <amount>2500.00</amount>
+      <date>10/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Weyerhaeuser Company Political Action Committee</contributorName>
+      <payeeName>Tim Scott For Senate</payeeName>
+      <recipientName>Sen Tim E Scott</recipientName>
+      <amount>1000.00</amount>
+      <date>10/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Weyerhaeuser Company Political Action Committee</contributorName>
+      <payeeName>Crawford for Congress</payeeName>
+      <recipientName>Rep Rick Crawford</recipientName>
+      <amount>1500.00</amount>
+      <date>10/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Weyerhaeuser Company Political Action Committee</contributorName>
+      <payeeName>DelBene For Congress</payeeName>
+      <recipientName>Rep Suzan K DelBene</recipientName>
+      <amount>2500.00</amount>
+      <date>10/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Weyerhaeuser Company Political Action Committee</contributorName>
+      <payeeName>Palazzo for Congress</payeeName>
+      <recipientName>Rep Steven M Palazzo</recipientName>
+      <amount>1500.00</amount>
+      <date>10/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Weyerhaeuser Company Political Action Committee</contributorName>
+      <payeeName>People For Derek Kilmer</payeeName>
+      <recipientName>Rep Derek Kilmer</recipientName>
+      <amount>1000.00</amount>
+      <date>10/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Weyerhaeuser Company Political Action Committee</contributorName>
+      <payeeName>CITIZENS FOR JOHN RUTHERFORD</payeeName>
+      <recipientName>Rep John Rutherford</recipientName>
+      <amount>1000.00</amount>
+      <date>11/07/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Weyerhaeuser Company Political Action Committee</contributorName>
+      <payeeName>FRIENDS OF NEAL DUNN</payeeName>
+      <recipientName>Rep Neal Dunn</recipientName>
+      <amount>1000.00</amount>
+      <date>11/07/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Weyerhaeuser Company Political Action Committee</contributorName>
+      <payeeName>FRIENDS TO ELECT DR GREG MURPHY TO CONGRESS</payeeName>
+      <recipientName>Rep Gregory F Murphy</recipientName>
+      <amount>1000.00</amount>
+      <date>11/07/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Weyerhaeuser Company Political Action Committee</contributorName>
+      <payeeName>John Kennedy For US</payeeName>
+      <recipientName>Sen John N Kennedy</recipientName>
+      <amount>1000.00</amount>
+      <date>11/07/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Weyerhaeuser Company Political Action Committee</contributorName>
+      <payeeName>Kurt Schrader for Congress</payeeName>
+      <recipientName>Rep Kurt Schrader</recipientName>
+      <amount>500.00</amount>
+      <date>11/07/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Weyerhaeuser Company Political Action Committee</contributorName>
+      <payeeName>Kurt Schrader for Congress</payeeName>
+      <recipientName>Rep Kurt Schrader</recipientName>
+      <amount>500.00</amount>
+      <date>11/07/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Weyerhaeuser Company Political Action Committee</contributorName>
+      <payeeName>RICK SCOTT FOR FLORIDA</payeeName>
+      <recipientName>Sen Rick Scott</recipientName>
+      <amount>2500.00</amount>
+      <date>11/07/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Weyerhaeuser Company Political Action Committee</contributorName>
+      <payeeName>Trent Kelly For Congress</payeeName>
+      <recipientName>Rep Trent Kelly</recipientName>
+      <amount>2500.00</amount>
+      <date>11/07/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Weyerhaeuser Company Political Action Committee</contributorName>
+      <payeeName>Simpson for Congress</payeeName>
+      <recipientName>Rep Mike K Simpson</recipientName>
+      <amount>1000.00</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Weyerhaeuser Company Political Action Committee</contributorName>
+      <payeeName>Brady for Congress</payeeName>
+      <recipientName>Rep Kevin P Brady</recipientName>
+      <amount>2500.00</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Weyerhaeuser Company Political Action Committee</contributorName>
+      <payeeName>AL LAWSON FOR CONGRESS</payeeName>
+      <recipientName>Rep Al Lawson</recipientName>
+      <amount>1500.00</amount>
+      <date>11/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Weyerhaeuser Company Political Action Committee</contributorName>
+      <payeeName>Bill Cassidy for US Senate</payeeName>
+      <recipientName>Sen Bill Cassidy</recipientName>
+      <amount>1000.00</amount>
+      <date>11/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Weyerhaeuser Company Political Action Committee</contributorName>
+      <payeeName>Collins For Senator</payeeName>
+      <recipientName>Sen Susan M Collins</recipientName>
+      <amount>1000.00</amount>
+      <date>11/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Weyerhaeuser Company Political Action Committee</contributorName>
+      <payeeName>Collins For Senator</payeeName>
+      <recipientName>Sen Susan M Collins</recipientName>
+      <amount>1000.00</amount>
+      <date>11/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Weyerhaeuser Company Political Action Committee</contributorName>
+      <payeeName>FRIENDS TO ELECT DR GREG MURPHY TO CONGRESS</payeeName>
+      <recipientName>Rep Gregory F Murphy</recipientName>
+      <amount>1000.00</amount>
+      <date>11/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Weyerhaeuser Company Political Action Committee</contributorName>
+      <payeeName>Garret Graves For Congress</payeeName>
+      <recipientName>Rep Garret N Graves</recipientName>
+      <amount>1000.00</amount>
+      <date>11/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Weyerhaeuser Company Political Action Committee</contributorName>
+      <payeeName>McMorris Rodgers American Dream Project</payeeName>
+      <recipientName>Rep Cathy A McMorris Rodgers</recipientName>
+      <amount>5000.00</amount>
+      <date>11/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Weyerhaeuser Company Political Action Committee</contributorName>
+      <payeeName>Newhouse For Congress</payeeName>
+      <recipientName>Rep Dan M Newhouse</recipientName>
+      <amount>1000.00</amount>
+      <date>11/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Weyerhaeuser Company Political Action Committee</contributorName>
+      <payeeName>Vern Buchanan For Congress</payeeName>
+      <recipientName>Rep Vern Buchanan</recipientName>
+      <amount>2000.00</amount>
+      <date>11/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Weyerhaeuser Company Political Action Committee</contributorName>
+      <payeeName>DelBene For Congress</payeeName>
+      <recipientName>Rep Suzan K DelBene</recipientName>
+      <amount>2500.00</amount>
+      <date>12/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Weyerhaeuser Company Political Action Committee</contributorName>
+      <payeeName>FRIENDS OF CAROL MILLER</payeeName>
+      <recipientName>Rep Carol D Miller</recipientName>
+      <amount>2500.00</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Weyerhaeuser Company Political Action Committee</contributorName>
+      <payeeName>Westerman For Congress</payeeName>
+      <recipientName>Rep Bruce Westerman</recipientName>
+      <amount>2500.00</amount>
+      <date>12/17/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

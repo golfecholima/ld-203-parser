@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>Elbit Systems of America, LLC</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>Chris Puffer</contactName>
+  <senateRegID>400411942</senateRegID>
+  <houseRegID>40595</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/29/2020 2:45:26 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>Elbit Systems of America LLC Political Action Committee</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Elbit Systems of America LLC Political Action Committee</contributorName>
+      <payeeName>Bergman for Congress</payeeName>
+      <recipientName>Rep. Jack Bergman</recipientName>
+      <amount>500.00</amount>
+      <date>07/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Elbit Systems of America LLC Political Action Committee</contributorName>
+      <payeeName>Hurd for Congress</payeeName>
+      <recipientName>Rep. Will Hurd</recipientName>
+      <amount>1000.00</amount>
+      <date>07/08/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Elbit Systems of America LLC Political Action Committee</contributorName>
+      <payeeName>Team Graham</payeeName>
+      <recipientName>Sen. Lindsey Graham</recipientName>
+      <amount>500.00</amount>
+      <date>09/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Elbit Systems of America LLC Political Action Committee</contributorName>
+      <payeeName>Friends of Jim Inhofe</payeeName>
+      <recipientName>Sen. Jim Inhofe</recipientName>
+      <amount>500.00</amount>
+      <date>09/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Elbit Systems of America LLC Political Action Committee</contributorName>
+      <payeeName>Texans for Henry Cuellar</payeeName>
+      <recipientName>Rep. Henry Cuellar</recipientName>
+      <amount>500.00</amount>
+      <date>09/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Elbit Systems of America LLC Political Action Committee</contributorName>
+      <payeeName>John Carter for Congress</payeeName>
+      <recipientName>Rep. John Carter</recipientName>
+      <amount>500.00</amount>
+      <date>09/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Elbit Systems of America LLC Political Action Committee</contributorName>
+      <payeeName>The Reed Committee</payeeName>
+      <recipientName>Sen. Jack Reed</recipientName>
+      <amount>1100.00</amount>
+      <date>09/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Elbit Systems of America LLC Political Action Committee</contributorName>
+      <payeeName>Mikie Sherrill for Congress</payeeName>
+      <recipientName>Rep. Mikie Sherrill</recipientName>
+      <amount>500.00</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Elbit Systems of America LLC Political Action Committee</contributorName>
+      <payeeName>Texans for Senator John Cornyn</payeeName>
+      <recipientName>Sen. John Cornyn</recipientName>
+      <amount>1000.00</amount>
+      <date>10/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Elbit Systems of America LLC Political Action Committee</contributorName>
+      <payeeName>Fund for a Conservative Future</payeeName>
+      <recipientName>Sen. Jim Inhofe</recipientName>
+      <amount>500.00</amount>
+      <date>11/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Elbit Systems of America LLC Political Action Committee</contributorName>
+      <payeeName>Marc Veasey Congressional Campaign Committee</payeeName>
+      <recipientName>Rep. Marc Veasey</recipientName>
+      <amount>500.00</amount>
+      <date>11/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Elbit Systems of America LLC Political Action Committee</contributorName>
+      <payeeName>A New Direction PAC</payeeName>
+      <recipientName>Sen. Jeanne Shaheen</recipientName>
+      <amount>2000.00</amount>
+      <date>12/18/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

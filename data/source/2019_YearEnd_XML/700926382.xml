@@ -1,0 +1,600 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>BP AMERICA, INC</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>Joe Ellis</contactName>
+  <senateRegID>48678</senateRegID>
+  <houseRegID>34594</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/30/2020 6:47:47 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>BP Corporation North America Inc. Political Action Committee</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>BP Corporation North America Inc. Political Action Committee</contributorName>
+      <payeeName>True North PAC</payeeName>
+      <recipientName>Sen. Daniel Scott Sullivan</recipientName>
+      <amount>1500</amount>
+      <date>11/8/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>BP Corporation North America Inc. Political Action Committee</contributorName>
+      <payeeName>Mike Braun For Indiana</payeeName>
+      <recipientName>Sen. Michael K. Braun</recipientName>
+      <amount>2500</amount>
+      <date>11/8/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>BP Corporation North America Inc. Political Action Committee</contributorName>
+      <payeeName>McCaul For Congress, Inc</payeeName>
+      <recipientName>Rep. Michael Thomas McCaul, Sr.</recipientName>
+      <amount>2000</amount>
+      <date>8/8/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>BP Corporation North America Inc. Political Action Committee</contributorName>
+      <payeeName>Portman For Senate Committee</payeeName>
+      <recipientName>Sen. Rob J. Portman</recipientName>
+      <amount>1000</amount>
+      <date>10/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>BP Corporation North America Inc. Political Action Committee</contributorName>
+      <payeeName>Friends Of Schumer</payeeName>
+      <recipientName>Sen. Charles E. Schumer</recipientName>
+      <amount>2500</amount>
+      <date>8/7/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>BP Corporation North America Inc. Political Action Committee</contributorName>
+      <payeeName>Brady For Congress</payeeName>
+      <recipientName>Rep. Kevin Patrick Brady</recipientName>
+      <amount>2500</amount>
+      <date>11/7/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>BP Corporation North America Inc. Political Action Committee</contributorName>
+      <payeeName>AMERIPAC The Fund for a Greater America</payeeName>
+      <recipientName>Rep. Steny Hamilton Hoyer</recipientName>
+      <amount>5000</amount>
+      <date>11/8/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>BP Corporation North America Inc. Political Action Committee</contributorName>
+      <payeeName>George Holding For Congress Inc.</payeeName>
+      <recipientName>Rep. George E. Holding</recipientName>
+      <amount>1000</amount>
+      <date>11/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>BP Corporation North America Inc. Political Action Committee</contributorName>
+      <payeeName>Butterfield For Congress</payeeName>
+      <recipientName>Rep. George Kenneth Butterfield, Jr.</recipientName>
+      <amount>1000</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>BP Corporation North America Inc. Political Action Committee</contributorName>
+      <payeeName>Lisa Murkowski For US Senate</payeeName>
+      <recipientName>Sen. Lisa Ann Murkowski</recipientName>
+      <amount>1500</amount>
+      <date>10/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>BP Corporation North America Inc. Political Action Committee</contributorName>
+      <payeeName>Walorski For Congress Inc</payeeName>
+      <recipientName>Rep. Jacqueline Walorski</recipientName>
+      <amount>1000</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>BP Corporation North America Inc. Political Action Committee</contributorName>
+      <payeeName>Jim Risch For U.S. Senate Committee</payeeName>
+      <recipientName>Sen. James E. Risch</recipientName>
+      <amount>5000</amount>
+      <date>12/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>BP Corporation North America Inc. Political Action Committee</contributorName>
+      <payeeName>Texans For Jodey Arrington</payeeName>
+      <recipientName>Rep. Jodey Cook Arrington</recipientName>
+      <amount>1000</amount>
+      <date>10/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>BP Corporation North America Inc. Political Action Committee</contributorName>
+      <payeeName>Weber For Congress</payeeName>
+      <recipientName>Rep. Randy Keith Weber, Sr.</recipientName>
+      <amount>1000</amount>
+      <date>11/8/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>BP Corporation North America Inc. Political Action Committee</contributorName>
+      <payeeName>Carper For Senate</payeeName>
+      <recipientName>Sen. Thomas Richard Carper</recipientName>
+      <amount>2500</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>BP Corporation North America Inc. Political Action Committee</contributorName>
+      <payeeName>Tim Scott For Senate</payeeName>
+      <recipientName>Sen. Timothy Eugene Scott</recipientName>
+      <amount>1000</amount>
+      <date>12/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>BP Corporation North America Inc. Political Action Committee</contributorName>
+      <payeeName>Scalise For Congress</payeeName>
+      <recipientName>Rep. Stephen Joseph Scalise</recipientName>
+      <amount>5000</amount>
+      <date>9/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>BP Corporation North America Inc. Political Action Committee</contributorName>
+      <payeeName>Texans For Senator John Cornyn Inc.</payeeName>
+      <recipientName>Sen. John Cornyn, III</recipientName>
+      <amount>2500</amount>
+      <date>9/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>BP Corporation North America Inc. Political Action Committee</contributorName>
+      <payeeName>Big Sky Opportunity PAC</payeeName>
+      <recipientName>Sen. Steve David Daines</recipientName>
+      <amount>1000</amount>
+      <date>10/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>BP Corporation North America Inc. Political Action Committee</contributorName>
+      <payeeName>Tim Scott For Senate</payeeName>
+      <recipientName>Sen. Timothy Eugene Scott</recipientName>
+      <amount>1000</amount>
+      <date>8/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>BP Corporation North America Inc. Political Action Committee</contributorName>
+      <payeeName>Mullin For Congress</payeeName>
+      <recipientName>Rep. Markwayne Mullin</recipientName>
+      <amount>2500</amount>
+      <date>10/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>BP Corporation North America Inc. Political Action Committee</contributorName>
+      <payeeName>Steve Daines For Montana</payeeName>
+      <recipientName>Sen. Steve David Daines</recipientName>
+      <amount>1500</amount>
+      <date>10/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>BP Corporation North America Inc. Political Action Committee</contributorName>
+      <payeeName>Liz Cheney For Wyoming</payeeName>
+      <recipientName>Rep. Elizabeth Cheney</recipientName>
+      <amount>1500</amount>
+      <date>10/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>BP Corporation North America Inc. Political Action Committee</contributorName>
+      <payeeName>Tammy For Illinois</payeeName>
+      <recipientName>Sen. L. Tammy Duckworth</recipientName>
+      <amount>2000</amount>
+      <date>11/8/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>BP Corporation North America Inc. Political Action Committee</contributorName>
+      <payeeName>Alaskans For Don Young</payeeName>
+      <recipientName>Rep. Donald Edwin Young</recipientName>
+      <amount>1000</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>BP Corporation North America Inc. Political Action Committee</contributorName>
+      <payeeName>LaHood for Congress</payeeName>
+      <recipientName>Rep. Darin M. LaHood</recipientName>
+      <amount>1000</amount>
+      <date>12/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>BP Corporation North America Inc. Political Action Committee</contributorName>
+      <payeeName>Sheila Jackson Lee For Congress</payeeName>
+      <recipientName>Rep. Sheila Jackson Lee</recipientName>
+      <amount>1000</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>BP Corporation North America Inc. Political Action Committee</contributorName>
+      <payeeName>Debbie Dingell For Congress</payeeName>
+      <recipientName>Rep. Deborah Ann Dingell</recipientName>
+      <amount>2000</amount>
+      <date>11/8/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>BP Corporation North America Inc. Political Action Committee</contributorName>
+      <payeeName>Hoeven For Senate</payeeName>
+      <recipientName>Sen. John Henry Hoeven, III</recipientName>
+      <amount>1000</amount>
+      <date>10/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>BP Corporation North America Inc. Political Action Committee</contributorName>
+      <payeeName>Nevadans For Steven Horsford</payeeName>
+      <recipientName>Rep. Steven Alexzander Horsford</recipientName>
+      <amount>1500</amount>
+      <date>10/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>BP Corporation North America Inc. Political Action Committee</contributorName>
+      <payeeName>Bluegrass Committee</payeeName>
+      <recipientName>Sen. Mitch McConnell</recipientName>
+      <amount>2500</amount>
+      <date>10/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>BP Corporation North America Inc. Political Action Committee</contributorName>
+      <payeeName>Friends Of Roy Blunt</payeeName>
+      <recipientName>Sen. Roy Dean Blunt</recipientName>
+      <amount>2500</amount>
+      <date>8/7/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>BP Corporation North America Inc. Political Action Committee</contributorName>
+      <payeeName>Buddy Carter For Congress</payeeName>
+      <recipientName>Rep. Earl L. B. Carter</recipientName>
+      <amount>1000</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>BP Corporation North America Inc. Political Action Committee</contributorName>
+      <payeeName>Steve Daines For Montana</payeeName>
+      <recipientName>Sen. Steve David Daines</recipientName>
+      <amount>2500</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>BP Corporation North America Inc. Political Action Committee</contributorName>
+      <payeeName>Davis For Congress/Friends Of Davis</payeeName>
+      <recipientName>Rep. Danny K. Davis</recipientName>
+      <amount>1000</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>BP Corporation North America Inc. Political Action Committee</contributorName>
+      <payeeName>Vicente Gonzalez For Congress</payeeName>
+      <recipientName>Rep. Vicente Gonzalez</recipientName>
+      <amount>1000</amount>
+      <date>10/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>BP Corporation North America Inc. Political Action Committee</contributorName>
+      <payeeName>Tim Scott For Senate</payeeName>
+      <recipientName>Sen. Timothy Eugene Scott</recipientName>
+      <amount>500</amount>
+      <date>12/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>BP Corporation North America Inc. Political Action Committee</contributorName>
+      <payeeName>Latta For Congress</payeeName>
+      <recipientName>Rep. Robert E. Latta</recipientName>
+      <amount>2500</amount>
+      <date>11/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>BP Corporation North America Inc. Political Action Committee</contributorName>
+      <payeeName>Capito For West Virginia</payeeName>
+      <recipientName>Sen. Shelley Moore Capito</recipientName>
+      <amount>2000</amount>
+      <date>9/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>BP Corporation North America Inc. Political Action Committee</contributorName>
+      <payeeName>Peterson For Congress</payeeName>
+      <recipientName>Rep. Collin Clark Peterson</recipientName>
+      <amount>1000</amount>
+      <date>10/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>BP Corporation North America Inc. Political Action Committee</contributorName>
+      <payeeName>Kaptur For Congress</payeeName>
+      <recipientName>Rep. Marcy Carolyn Kaptur</recipientName>
+      <amount>2000</amount>
+      <date>11/8/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>BP Corporation North America Inc. Political Action Committee</contributorName>
+      <payeeName>Captain Higgins For Congress</payeeName>
+      <recipientName>Rep. Clay Higgins</recipientName>
+      <amount>1000</amount>
+      <date>8/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>BP Corporation North America Inc. Political Action Committee</contributorName>
+      <payeeName>Elizabeth Pannill Fletcher For Congress</payeeName>
+      <recipientName>Rep. Elizabeth Pannill Fletcher</recipientName>
+      <amount>2500</amount>
+      <date>11/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>BP Corporation North America Inc. Political Action Committee</contributorName>
+      <payeeName>Dan Lipinski For Congress</payeeName>
+      <recipientName>Rep. Daniel William Lipinski</recipientName>
+      <amount>2000</amount>
+      <date>10/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>BP Corporation North America Inc. Political Action Committee</contributorName>
+      <payeeName>Thom Tillis Committee</payeeName>
+      <recipientName>Sen. Thomas Roland Tillis</recipientName>
+      <amount>1500</amount>
+      <date>10/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>BP Corporation North America Inc. Political Action Committee</contributorName>
+      <payeeName>Jim Costa For Congress</payeeName>
+      <recipientName>Rep. James M. Costa</recipientName>
+      <amount>1000</amount>
+      <date>10/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>BP Corporation North America Inc. Political Action Committee</contributorName>
+      <payeeName>Friends Of John Barrasso</payeeName>
+      <recipientName>Sen. John Anthony Barrasso</recipientName>
+      <amount>2500</amount>
+      <date>9/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>BP Corporation North America Inc. Political Action Committee</contributorName>
+      <payeeName>Latta For Congress</payeeName>
+      <recipientName>Rep. Robert E. Latta</recipientName>
+      <amount>2500</amount>
+      <date>8/8/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>BP Corporation North America Inc. Political Action Committee</contributorName>
+      <payeeName>Mikie Sherrill For Congress</payeeName>
+      <recipientName>Rep. Mikie Sherrill</recipientName>
+      <amount>1000</amount>
+      <date>11/8/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>BP Corporation North America Inc. Political Action Committee</contributorName>
+      <payeeName>Lisa Murkowski For US Senate</payeeName>
+      <recipientName>Sen. Lisa Ann Murkowski</recipientName>
+      <amount>1000</amount>
+      <date>10/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>BP Corporation North America Inc. Political Action Committee</contributorName>
+      <payeeName>Portman For Senate Committee</payeeName>
+      <recipientName>Sen. Rob J. Portman</recipientName>
+      <amount>500</amount>
+      <date>10/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>BP Corporation North America Inc. Political Action Committee</contributorName>
+      <payeeName>Texans For Senator John Cornyn Inc.</payeeName>
+      <recipientName>Sen. John Cornyn, III</recipientName>
+      <amount>2500</amount>
+      <date>9/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>BP Corporation North America Inc. Political Action Committee</contributorName>
+      <payeeName>Walden For Congress</payeeName>
+      <recipientName>Rep. Gregory Paul Walden</recipientName>
+      <amount>2500</amount>
+      <date>9/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>BP Corporation North America Inc. Political Action Committee</contributorName>
+      <payeeName>Friends Of John Thune</payeeName>
+      <recipientName>Sen. John Randolph Thune</recipientName>
+      <amount>500</amount>
+      <date>9/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>BP Corporation North America Inc. Political Action Committee</contributorName>
+      <payeeName>Friends Of Jim Clyburn</payeeName>
+      <recipientName>Rep. James E. Clyburn</recipientName>
+      <amount>4000</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>BP Corporation North America Inc. Political Action Committee</contributorName>
+      <payeeName>Grassley Committee Inc</payeeName>
+      <recipientName>Sen. Charles E. Grassley</recipientName>
+      <amount>2500</amount>
+      <date>11/7/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>BP Corporation North America Inc. Political Action Committee</contributorName>
+      <payeeName>McEachin For Congress</payeeName>
+      <recipientName>Rep. A. Donald McEachin</recipientName>
+      <amount>1000</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>BP Corporation North America Inc. Political Action Committee</contributorName>
+      <payeeName>Marc Veasey Congressional Campaign Committee</payeeName>
+      <recipientName>Rep. Marc A. Veasey</recipientName>
+      <amount>1500</amount>
+      <date>10/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>BP Corporation North America Inc. Political Action Committee</contributorName>
+      <payeeName>Wicker For Senate</payeeName>
+      <recipientName>Sen. Roger Frederick Wicker</recipientName>
+      <amount>2500</amount>
+      <date>11/8/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>BP Corporation North America Inc. Political Action Committee</contributorName>
+      <payeeName>Citizens To Elect Rick Larsen</payeeName>
+      <recipientName>Rep. Rick Larsen</recipientName>
+      <amount>2500</amount>
+      <date>11/8/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>BP Corporation North America Inc. Political Action Committee</contributorName>
+      <payeeName>Texans For Henry Cuellar Congressional Campaign</payeeName>
+      <recipientName>Rep. Henry Roberto Cuellar</recipientName>
+      <amount>500</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>BP Corporation North America Inc. Political Action Committee</contributorName>
+      <payeeName>Mike Crapo For US Senate</payeeName>
+      <recipientName>Sen. Michael Dean Crapo</recipientName>
+      <amount>2500</amount>
+      <date>12/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>BP Corporation North America Inc. Political Action Committee</contributorName>
+      <payeeName>Manchin For West Virginia</payeeName>
+      <recipientName>Sen. Joseph Manchin, III</recipientName>
+      <amount>2500</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>BP Corporation North America Inc. Political Action Committee</contributorName>
+      <payeeName>Friends Of John Thune</payeeName>
+      <recipientName>Sen. John Randolph Thune</recipientName>
+      <amount>4500</amount>
+      <date>9/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>BP Corporation North America Inc. Political Action Committee</contributorName>
+      <payeeName>Friends Of Bennie Thompson</payeeName>
+      <recipientName>Rep. Bennie G. Thompson</recipientName>
+      <amount>2000</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>BP Corporation North America Inc. Political Action Committee</contributorName>
+      <payeeName>Cramer For Senate</payeeName>
+      <recipientName>Sen. Kevin John Cramer</recipientName>
+      <amount>1500</amount>
+      <date>10/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>BP Corporation North America Inc. Political Action Committee</contributorName>
+      <payeeName>Kevin McCarthy For Congress</payeeName>
+      <recipientName>Rep. Kevin Owen McCarthy</recipientName>
+      <amount>2500</amount>
+      <date>9/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>BP Corporation North America Inc. Political Action Committee</contributorName>
+      <payeeName>Amodei For Nevada</payeeName>
+      <recipientName>Rep. Mark Eugene Amodei</recipientName>
+      <amount>2500</amount>
+      <date>10/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>BP Corporation North America Inc. Political Action Committee</contributorName>
+      <payeeName>Volunteers For Shimkus</payeeName>
+      <recipientName>Rep. John M. Shimkus</recipientName>
+      <amount>1000</amount>
+      <date>7/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>Honorary Expenses</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Susan Gage Catering</payeeName>
+      <recipientName>Viviana Bovo, Senior Advisor (Sen. Rubio) and Robert Kelly, Deputy Chief of Staff (Sen. Menedez)</recipientName>
+      <amount>6395.42</amount>
+      <date>07/19/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

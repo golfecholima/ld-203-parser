@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>THE CACTUS GROUP, LLC</organizationName>
+  <lobbyistPrefix>Mrs.</lobbyistPrefix>
+  <lobbyistFirstName>SUSAN</lobbyistFirstName>
+  <lobbyistMiddleName>AUTHER</lobbyistMiddleName>
+  <lobbyistLastName>ANDRES</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>401105143</senateRegID>
+  <houseRegID>44334</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/14/2020 1:50:42 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Cynthia Lummis for Senate</payeeName>
+      <recipientName>Cynthia Lummis</recipientName>
+      <amount>1000.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Kay Granger Campaign Fund</payeeName>
+      <recipientName>Kay Granger</recipientName>
+      <amount>1000.00</amount>
+      <date>10/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Support Deb Fischer for US Senate</payeeName>
+      <recipientName>Deb Fischer</recipientName>
+      <amount>1000.00</amount>
+      <date>10/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>PORT PAC </payeeName>
+      <recipientName>Rob Portman</recipientName>
+      <amount>1000.00</amount>
+      <date>11/04/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

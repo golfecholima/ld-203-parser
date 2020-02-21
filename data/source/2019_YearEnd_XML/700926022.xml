@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>Akerman LLP</organizationName>
+  <lobbyistPrefix>Mr.</lobbyistPrefix>
+  <lobbyistFirstName>RICHARD</lobbyistFirstName>
+  <lobbyistMiddleName>LEWIS</lobbyistMiddleName>
+  <lobbyistLastName>SPEES</lobbyistLastName>
+  <lobbyistSuffix>JR</lobbyistSuffix>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>287270</senateRegID>
+  <houseRegID>37008</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/30/2020 4:44:12 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>Akerman LLP PAC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Akerman LLP PAC</contributorName>
+      <payeeName>Barbara Lee for Congress</payeeName>
+      <recipientName>Barbara J. Lee</recipientName>
+      <amount>1000.00</amount>
+      <date>07/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Akerman LLP PAC</contributorName>
+      <payeeName>Amodei for Nevada</payeeName>
+      <recipientName>Mark E. Amodei</recipientName>
+      <amount>2500.00</amount>
+      <date>08/08/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Akerman LLP PAC</contributorName>
+      <payeeName>Darren Soto for Congress</payeeName>
+      <recipientName>Darren Soto</recipientName>
+      <amount>1500.00</amount>
+      <date>08/08/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Akerman LLP PAC</contributorName>
+      <payeeName>Rodney for Congress</payeeName>
+      <recipientName>Rodney Davis</recipientName>
+      <amount>1000.00</amount>
+      <date>09/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Akerman LLP PAC</contributorName>
+      <payeeName>Titus for Congress</payeeName>
+      <recipientName>Alice C. Dina Titus</recipientName>
+      <amount>1000.00</amount>
+      <date>09/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Akerman LLP PAC</contributorName>
+      <payeeName>Friends for Gregory Meeks</payeeName>
+      <recipientName>Gregory Meeks</recipientName>
+      <amount>500.00</amount>
+      <date>10/04/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Akerman LLP PAC</contributorName>
+      <payeeName>Garret Graves for Congress</payeeName>
+      <recipientName>Garret Graves</recipientName>
+      <amount>1000.00</amount>
+      <date>10/04/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Stephanie Murphy for Congress</payeeName>
+      <recipientName>Stephanie Murphy</recipientName>
+      <amount>2500.00</amount>
+      <date>10/07/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Akerman LLP PAC</contributorName>
+      <payeeName>Andy Kim For Congress</payeeName>
+      <recipientName>Andy Kim</recipientName>
+      <amount>1500.00</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Akerman LLP PAC</contributorName>
+      <payeeName>Al Lawson for Congress</payeeName>
+      <recipientName>Alfred Lawson</recipientName>
+      <amount>2000.00</amount>
+      <date>12/04/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Akerman LLP PAC</contributorName>
+      <payeeName>Barbara Lee for Congress</payeeName>
+      <recipientName>Barbara J. Lee</recipientName>
+      <amount>1500.00</amount>
+      <date>12/10/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>Holcim (US), Inc. and Aggregate Industries Management, Inc. (AKA LafargeHolcim U</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <zipext>
+  </zipext>
+  <contactName>Jill Benoit</contactName>
+  <senateRegID>22052</senateRegID>
+  <houseRegID>32527</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/23/2020 11:05:12 AM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>LafargeHolcim USA Employees PAC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>LafargeHolcim USA Employees PAC</contributorName>
+      <payeeName>Paul Tonko for Congress</payeeName>
+      <recipientName>Paul Tonko</recipientName>
+      <amount>2500.00</amount>
+      <date>08/03/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>LafargeHolcim USA Employees PAC</contributorName>
+      <payeeName>Moolenaar for Congress
+</payeeName>
+      <recipientName>John Moolenaar </recipientName>
+      <amount>2500.00</amount>
+      <date>08/03/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>LafargeHolcim USA Employees PAC</contributorName>
+      <payeeName>Bergman for Congress
+</payeeName>
+      <recipientName>Jack Bergman</recipientName>
+      <amount>1000.00</amount>
+      <date>8/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>LafargeHolcim USA Employees PAC</contributorName>
+      <payeeName>DeFazio for Congress
+</payeeName>
+      <recipientName>Peter DeFazio</recipientName>
+      <amount>1000.00</amount>
+      <date>8/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>LafargeHolcim USA Employees PAC</contributorName>
+      <payeeName>Paul Tonko for Congress
+</payeeName>
+      <recipientName>Paul Tonko</recipientName>
+      <amount>1000.00</amount>
+      <date>10/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>LafargeHolcim USA Employees PAC</contributorName>
+      <payeeName>Dan Lipinski for Congress
+</payeeName>
+      <recipientName>Dan Lipinski</recipientName>
+      <amount>2000.00</amount>
+      <date>11/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>LafargeHolcim USA Employees PAC</contributorName>
+      <payeeName>Rodney for Congress
+</payeeName>
+      <recipientName>Rodney Davis </recipientName>
+      <amount>2500.00</amount>
+      <date>12/7/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

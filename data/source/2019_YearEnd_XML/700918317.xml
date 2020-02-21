@@ -1,0 +1,583 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>American College of Surgeons Professional Association</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <zipext>
+  </zipext>
+  <contactName>Christian Shalgian</contactName>
+  <senateRegID>91251</senateRegID>
+  <houseRegID>36362</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/21/2020 2:57:36 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>
+  </noContributions>
+  <pacs>
+    <pac>
+      <name>American College of Surgeons Professional Association PAC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American College of Surgeons Professional Association PAC</contributorName>
+      <payeeName>Kansans For Marshall</payeeName>
+      <recipientName>Rep. Roger W. Marshall</recipientName>
+      <amount>1000</amount>
+      <date>11/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American College of Surgeons Professional Association PAC</contributorName>
+      <payeeName>Schakowsky For Congress</payeeName>
+      <recipientName>Rep. Janice D. Schakowsky</recipientName>
+      <amount>1000</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American College of Surgeons Professional Association PAC</contributorName>
+      <payeeName>The Hawkeye PAC</payeeName>
+      <recipientName>Sen. Charles E. Grassley</recipientName>
+      <amount>2500</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American College of Surgeons Professional Association PAC</contributorName>
+      <payeeName>Schatz For Senate</payeeName>
+      <recipientName>Sen. Brian Emanuel Schatz</recipientName>
+      <amount>2500</amount>
+      <date>11/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American College of Surgeons Professional Association PAC</contributorName>
+      <payeeName>Clarke For Congress</payeeName>
+      <recipientName>Rep. Yvette Diana Clarke</recipientName>
+      <amount>1000</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American College of Surgeons Professional Association PAC</contributorName>
+      <payeeName>Dr Kim Schrier For Congress</payeeName>
+      <recipientName>Rep. Kim Schrier</recipientName>
+      <amount>1000</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American College of Surgeons Professional Association PAC</contributorName>
+      <payeeName>McKinley For Congress</payeeName>
+      <recipientName>Rep. David B. McKinley</recipientName>
+      <amount>1000</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American College of Surgeons Professional Association PAC</contributorName>
+      <payeeName>Friends Of Maria</payeeName>
+      <recipientName>Sen. Maria Elaine Cantwell</recipientName>
+      <amount>-1500</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American College of Surgeons Professional Association PAC</contributorName>
+      <payeeName>Mark Takano For Congress</payeeName>
+      <recipientName>Rep. Mark Allan Takano</recipientName>
+      <amount>1000</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American College of Surgeons Professional Association PAC</contributorName>
+      <payeeName>Dr Kim Schrier For Congress</payeeName>
+      <recipientName>Rep. Kim Schrier</recipientName>
+      <amount>1000</amount>
+      <date>11/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American College of Surgeons Professional Association PAC</contributorName>
+      <payeeName>Nevadans For Steven Horsford</payeeName>
+      <recipientName>Rep. Steven Alexzander Horsford</recipientName>
+      <amount>1000</amount>
+      <date>11/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American College of Surgeons Professional Association PAC</contributorName>
+      <payeeName>Ron Estes For Congress</payeeName>
+      <recipientName>Rep. Ron Estes</recipientName>
+      <amount>1000</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American College of Surgeons Professional Association PAC</contributorName>
+      <payeeName>Larson For Congress</payeeName>
+      <recipientName>Rep. John Barry Larson</recipientName>
+      <amount>1500</amount>
+      <date>11/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American College of Surgeons Professional Association PAC</contributorName>
+      <payeeName>Pascrell For Congress</payeeName>
+      <recipientName>Rep. William James Pascrell, Jr.</recipientName>
+      <amount>1500</amount>
+      <date>7/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American College of Surgeons Professional Association PAC</contributorName>
+      <payeeName>Liz Cheney For Wyoming</payeeName>
+      <recipientName>Rep. Elizabeth Cheney</recipientName>
+      <amount>1500</amount>
+      <date>11/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American College of Surgeons Professional Association PAC</contributorName>
+      <payeeName>Donna Shalala For Congress</payeeName>
+      <recipientName>Rep. Donna E. Shalala</recipientName>
+      <amount>1500</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American College of Surgeons Professional Association PAC</contributorName>
+      <payeeName>Doggett For Congress</payeeName>
+      <recipientName>Rep. Lloyd Alton Doggett, II</recipientName>
+      <amount>1000</amount>
+      <date>11/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American College of Surgeons Professional Association PAC</contributorName>
+      <payeeName>Ron Estes For Congress</payeeName>
+      <recipientName>Rep. Ron Estes</recipientName>
+      <amount>1000</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American College of Surgeons Professional Association PAC</contributorName>
+      <payeeName>Sinema For Arizona</payeeName>
+      <recipientName>Sen. Kyrsten Sinema</recipientName>
+      <amount>1500</amount>
+      <date>11/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American College of Surgeons Professional Association PAC</contributorName>
+      <payeeName>Friends Of Dick Durbin Committee</payeeName>
+      <recipientName>Sen. Richard Joseph Durbin</recipientName>
+      <amount>1500</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American College of Surgeons Professional Association PAC</contributorName>
+      <payeeName>Citizens For Rush</payeeName>
+      <recipientName>Rep. Bobby Lee Rush</recipientName>
+      <amount>1500</amount>
+      <date>8/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American College of Surgeons Professional Association PAC</contributorName>
+      <payeeName>Guthrie For Congress</payeeName>
+      <recipientName>Rep. S. Brett Guthrie</recipientName>
+      <amount>1000</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American College of Surgeons Professional Association PAC</contributorName>
+      <payeeName>Believe In America PAC</payeeName>
+      <recipientName>Sen. Mitt Romney</recipientName>
+      <amount>1500</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American College of Surgeons Professional Association PAC</contributorName>
+      <payeeName>George Holding For Congress Inc.</payeeName>
+      <recipientName>Rep. George E. Holding</recipientName>
+      <amount>1000</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American College of Surgeons Professional Association PAC</contributorName>
+      <payeeName>Hoosier PAC</payeeName>
+      <recipientName>Sen. Michael K. Braun</recipientName>
+      <amount>1500</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American College of Surgeons Professional Association PAC</contributorName>
+      <payeeName>Cole For Congress</payeeName>
+      <recipientName>Rep. Thomas Jeffery Cole</recipientName>
+      <amount>1000</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American College of Surgeons Professional Association PAC</contributorName>
+      <payeeName>Joe Morelle For Congress</payeeName>
+      <recipientName>Rep. Joseph D. Morelle</recipientName>
+      <amount>1500</amount>
+      <date>11/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American College of Surgeons Professional Association PAC</contributorName>
+      <payeeName>Stivers For Congress</payeeName>
+      <recipientName>Rep. Steve Stivers</recipientName>
+      <amount>2500</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American College of Surgeons Professional Association PAC</contributorName>
+      <payeeName>Shore PAC</payeeName>
+      <recipientName>Rep. Frank Pallone, Jr.</recipientName>
+      <amount>2500</amount>
+      <date>12/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American College of Surgeons Professional Association PAC</contributorName>
+      <payeeName>Upton For All Of Us</payeeName>
+      <recipientName>Rep. Frederick Stephen Upton</recipientName>
+      <amount>1000</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American College of Surgeons Professional Association PAC</contributorName>
+      <payeeName>Dan Crenshaw For Congress</payeeName>
+      <recipientName>Rep. Daniel Crenshaw</recipientName>
+      <amount>1500</amount>
+      <date>8/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American College of Surgeons Professional Association PAC</contributorName>
+      <payeeName>Kurt Schrader For Congress</payeeName>
+      <recipientName>Rep. Kurt Schrader</recipientName>
+      <amount>1000</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American College of Surgeons Professional Association PAC</contributorName>
+      <payeeName>Lone Star Leadership PAC</payeeName>
+      <recipientName>Rep. Michael Clifton Burgess</recipientName>
+      <amount>5000</amount>
+      <date>11/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American College of Surgeons Professional Association PAC</contributorName>
+      <payeeName>Scott For Congress</payeeName>
+      <recipientName>Rep. Robert Cortez Scott</recipientName>
+      <amount>1500</amount>
+      <date>7/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American College of Surgeons Professional Association PAC</contributorName>
+      <payeeName>Drew Ferguson For Congress Inc.</payeeName>
+      <recipientName>Rep. A. Drew Ferguson, IV</recipientName>
+      <amount>1000</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American College of Surgeons Professional Association PAC</contributorName>
+      <payeeName>Drew Ferguson For Congress Inc.</payeeName>
+      <recipientName>Rep. A. Drew Ferguson, IV</recipientName>
+      <amount>1500</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American College of Surgeons Professional Association PAC</contributorName>
+      <payeeName>Dr. Raul Ruiz For Congress</payeeName>
+      <recipientName>Rep. Raul Ruiz</recipientName>
+      <amount>2500</amount>
+      <date>11/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American College of Surgeons Professional Association PAC</contributorName>
+      <payeeName>Wenstrup For Congress</payeeName>
+      <recipientName>Rep. Brad R. Wenstrup</recipientName>
+      <amount>2500</amount>
+      <date>11/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American College of Surgeons Professional Association PAC</contributorName>
+      <payeeName>AMERIPAC The Fund for a Greater America</payeeName>
+      <recipientName>Rep. Steny Hamilton Hoyer</recipientName>
+      <amount>2500</amount>
+      <date>12/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American College of Surgeons Professional Association PAC</contributorName>
+      <payeeName>Tony Cardenas For Congress</payeeName>
+      <recipientName>Rep. Tony Cardenas</recipientName>
+      <amount>1000</amount>
+      <date>12/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American College of Surgeons Professional Association PAC</contributorName>
+      <payeeName>Jimmy Gomez For Congress</payeeName>
+      <recipientName>Rep. Jimmy Gomez</recipientName>
+      <amount>1000</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American College of Surgeons Professional Association PAC</contributorName>
+      <payeeName>Friends Of Dan Kildee</payeeName>
+      <recipientName>Rep. Daniel Timothy Kildee</recipientName>
+      <amount>1000</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American College of Surgeons Professional Association PAC</contributorName>
+      <payeeName>Friends Of Jim Clyburn</payeeName>
+      <recipientName>Rep. James E. Clyburn</recipientName>
+      <amount>1500</amount>
+      <date>11/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American College of Surgeons Professional Association PAC</contributorName>
+      <payeeName>Katherine Clark For Congress</payeeName>
+      <recipientName>Rep. Katherine M. Clark</recipientName>
+      <amount>1500</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American College of Surgeons Professional Association PAC</contributorName>
+      <payeeName>Bucshon For Congress</payeeName>
+      <recipientName>Rep. Larry Dean Bucshon</recipientName>
+      <amount>2500</amount>
+      <date>11/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American College of Surgeons Professional Association PAC</contributorName>
+      <payeeName>Terri Sewell For Congress</payeeName>
+      <recipientName>Rep. Terri Andrea Sewell</recipientName>
+      <amount>1000</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American College of Surgeons Professional Association PAC</contributorName>
+      <payeeName>Friends Of Roy Blunt</payeeName>
+      <recipientName>Sen. Roy Dean Blunt</recipientName>
+      <amount>1000</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American College of Surgeons Professional Association PAC</contributorName>
+      <payeeName>Pascrell For Congress</payeeName>
+      <recipientName>Rep. William James Pascrell, Jr.</recipientName>
+      <amount>-1500</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American College of Surgeons Professional Association PAC</contributorName>
+      <payeeName>Catherine Cortez Masto For Senate</payeeName>
+      <recipientName>Sen. Catherine Cortez Masto</recipientName>
+      <amount>1000</amount>
+      <date>11/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American College of Surgeons Professional Association PAC</contributorName>
+      <payeeName>Bilirakis For Congress</payeeName>
+      <recipientName>Rep. Gus Michael Bilirakis</recipientName>
+      <amount>2500</amount>
+      <date>7/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American College of Surgeons Professional Association PAC</contributorName>
+      <payeeName>American Innovation Political Action Committee (AMI PAC)</payeeName>
+      <recipientName>Rep. Amerish B. Bera</recipientName>
+      <amount>2500</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American College of Surgeons Professional Association PAC</contributorName>
+      <payeeName>Devin Nunes Campaign Committee</payeeName>
+      <recipientName>Rep. Devin G. Nunes</recipientName>
+      <amount>2500</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American College of Surgeons Professional Association PAC</contributorName>
+      <payeeName>Andy Harris For Congress</payeeName>
+      <recipientName>Rep. Andrew P. Harris</recipientName>
+      <amount>1500</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American College of Surgeons Professional Association PAC</contributorName>
+      <payeeName>Robin Kelly For Congress</payeeName>
+      <recipientName>Rep. Robin Lynne Kelly</recipientName>
+      <amount>2500</amount>
+      <date>7/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American College of Surgeons Professional Association PAC</contributorName>
+      <payeeName>Ben Cardin For Senate, Inc.</payeeName>
+      <recipientName>Sen. Benjamin L. Cardin</recipientName>
+      <amount>1500</amount>
+      <date>11/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American College of Surgeons Professional Association PAC</contributorName>
+      <payeeName>Joe Morelle For Congress</payeeName>
+      <recipientName>Rep. Joseph D. Morelle</recipientName>
+      <amount>2500</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American College of Surgeons Professional Association PAC</contributorName>
+      <payeeName>Richard E Neal For Congress Committee</payeeName>
+      <recipientName>Rep. Richard Edmund Neal</recipientName>
+      <amount>2500</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American College of Surgeons Professional Association PAC</contributorName>
+      <payeeName>Mike Thompson For Congress</payeeName>
+      <recipientName>Rep. Michael C. Thompson</recipientName>
+      <amount>2500</amount>
+      <date>11/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American College of Surgeons Professional Association PAC</contributorName>
+      <payeeName>Friends To Elect Dr. Greg Murphy To Congress</payeeName>
+      <recipientName>Rep. Gregory Francis Murphy, M.D.</recipientName>
+      <amount>2500</amount>
+      <date>7/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American College of Surgeons Professional Association PAC</contributorName>
+      <payeeName>Dutch Ruppersberger For Congress Committee</payeeName>
+      <recipientName>Rep. Charles A. Ruppersberger</recipientName>
+      <amount>2500</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American College of Surgeons Professional Association PAC</contributorName>
+      <payeeName>Perimeter PAC</payeeName>
+      <recipientName>Sen. L. Tammy Duckworth</recipientName>
+      <amount>500</amount>
+      <date>11/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American College of Surgeons Professional Association PAC</contributorName>
+      <payeeName>Brian Fitzpatrick For Congress</payeeName>
+      <recipientName>Rep. Brian K. Fitzpatrick</recipientName>
+      <amount>1000</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American College of Surgeons Professional Association PAC</contributorName>
+      <payeeName>Friends Of Neal Dunn</payeeName>
+      <recipientName>Rep. Neal Patrick Dunn</recipientName>
+      <amount>2500</amount>
+      <date>11/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American College of Surgeons Professional Association PAC</contributorName>
+      <payeeName>Yarmuth For Congress</payeeName>
+      <recipientName>Rep. John A. Yarmuth</recipientName>
+      <amount>1500</amount>
+      <date>11/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American College of Surgeons Professional Association PAC</contributorName>
+      <payeeName>Friends Of John Barrasso</payeeName>
+      <recipientName>Sen. John Anthony Barrasso</recipientName>
+      <amount>2500</amount>
+      <date>11/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American College of Surgeons Professional Association PAC</contributorName>
+      <payeeName>Billy Long For Congress</payeeName>
+      <recipientName>Rep. William H. Long, II</recipientName>
+      <amount>2500</amount>
+      <date>11/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American College of Surgeons Professional Association PAC</contributorName>
+      <payeeName>Nutmeg PAC</payeeName>
+      <recipientName>Sen. Richard Blumenthal</recipientName>
+      <amount>1500</amount>
+      <date>7/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American College of Surgeons Professional Association PAC</contributorName>
+      <payeeName>The Hawkeye PAC</payeeName>
+      <recipientName>Sen. Charles E. Grassley</recipientName>
+      <amount>-2500</amount>
+      <date>12/13/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>Ogilvy Government Relations</organizationName>
+  <lobbyistPrefix>Mr.</lobbyistPrefix>
+  <lobbyistFirstName>GORDON</lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>TAYLOR</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>48827</senateRegID>
+  <houseRegID>34528</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>12/20/2019 3:07:58 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Friends of Dick Durbin</payeeName>
+      <recipientName>Dick Durbin</recipientName>
+      <amount>1000.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Committee to Re-elect Hank Johnson</payeeName>
+      <recipientName>Hank Johnson</recipientName>
+      <amount>500.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Tony Cardenas for Congress</payeeName>
+      <recipientName>Tony Cardenas</recipientName>
+      <amount>500.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Mikie Sherrill for Congress</payeeName>
+      <recipientName>Mikie Sherrill</recipientName>
+      <amount>500.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Tom O'Halleran for Congress</payeeName>
+      <recipientName>Tom O'Halleran</recipientName>
+      <amount>500.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Filemon Vela for Congress</payeeName>
+      <recipientName>Filemon Vela</recipientName>
+      <amount>1000.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Colin Allred for Congress</payeeName>
+      <recipientName>Colin Allred</recipientName>
+      <amount>500.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Anthony Brindisi for Congress</payeeName>
+      <recipientName>Anthony Brindisi</recipientName>
+      <amount>500.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Ben Ray Lujan for Senate</payeeName>
+      <recipientName>Ben Ray Lujan</recipientName>
+      <amount>1000.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Sean Patrick Maloney for Congress</payeeName>
+      <recipientName>Sean Patrick Maloney</recipientName>
+      <amount>500.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Scott Peters for Congress</payeeName>
+      <recipientName>Scott Peters</recipientName>
+      <amount>2500.00</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Pete Aguilar for Congress</payeeName>
+      <recipientName>Pete Aguilar</recipientName>
+      <amount>2500.00</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Cedric Richmond for Congress</payeeName>
+      <recipientName>Cedric Richmond</recipientName>
+      <amount>1000.00</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Debbie Wasserman Schultz for Congress</payeeName>
+      <recipientName>Debbie Wasserman Schultz</recipientName>
+      <amount>1000.00</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Conor Lamb for Congress</payeeName>
+      <recipientName>Conor Lamb</recipientName>
+      <amount>1000.00</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Katherine Clark for Congress</payeeName>
+      <recipientName>Katherine Clark</recipientName>
+      <amount>1000.00</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Perlmutter for Colorado</payeeName>
+      <recipientName>Ed Perlmutter</recipientName>
+      <amount>1500.00</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Hayley Stevens for Congress</payeeName>
+      <recipientName>Hayley Stevens</recipientName>
+      <amount>1000.00</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Lizzie Fletcher for Congress</payeeName>
+      <recipientName>Lizzie Fletcher</recipientName>
+      <amount>1000.00</amount>
+      <date>12/20/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

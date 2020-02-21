@@ -1,0 +1,929 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>National Association of Convenience Stores</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>LYLE BECKWITH</contactName>
+  <senateRegID>26728</senateRegID>
+  <houseRegID>32538</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/30/2020 5:12:13 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>
+  </noContributions>
+  <pacs>
+    <pac>
+      <name>National Association of Convenience Stores PAC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>McHenry For Congress</payeeName>
+      <recipientName>Rep. Patrick Timothy McHenry</recipientName>
+      <amount>5000</amount>
+      <date>7/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>Finkenauer For Congress</payeeName>
+      <recipientName>Rep. Abby Finkenauer</recipientName>
+      <amount>1000</amount>
+      <date>7/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>Lucas For Congress</payeeName>
+      <recipientName>Rep. Frank Dean Lucas</recipientName>
+      <amount>2500</amount>
+      <date>7/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>Together Holding Our Majority PAC</payeeName>
+      <recipientName>Sen. Thomas Roland Tillis</recipientName>
+      <amount>500</amount>
+      <date>7/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>New Democrat Coalition Action Fund</payeeName>
+      <recipientName>New Democrat Coalition Action Fund</recipientName>
+      <amount>2500</amount>
+      <date>7/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>William Timmons For Congress</payeeName>
+      <recipientName>Rep. William R. Timmons, IV</recipientName>
+      <amount>2500</amount>
+      <date>7/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>Tomorrow Is Meaningful PAC</payeeName>
+      <recipientName>Sen. Timothy Eugene Scott</recipientName>
+      <amount>2500</amount>
+      <date>7/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>21St Century Majority Fund</payeeName>
+      <recipientName>Sen. Johnny H. Isakson</recipientName>
+      <amount>2500</amount>
+      <date>7/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>Capito For West Virginia</payeeName>
+      <recipientName>Sen. Shelley Moore Capito</recipientName>
+      <amount>2500</amount>
+      <date>7/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>Scalise For Congress</payeeName>
+      <recipientName>Rep. Stephen Joseph Scalise</recipientName>
+      <amount>5000</amount>
+      <date>7/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>Thom Tillis Committee</payeeName>
+      <recipientName>Sen. Thomas Roland Tillis</recipientName>
+      <amount>2000</amount>
+      <date>7/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>Rodney For Congress</payeeName>
+      <recipientName>Rep. Rodney Lee Davis</recipientName>
+      <amount>2500</amount>
+      <date>7/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>Brindisi For Congress</payeeName>
+      <recipientName>Rep. Anthony J. Brindisi</recipientName>
+      <amount>1000</amount>
+      <date>8/2/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>Debbie Lesko For Congress</payeeName>
+      <recipientName>Rep. Debbie Lesko</recipientName>
+      <amount>1000</amount>
+      <date>8/2/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>Hern For Congress</payeeName>
+      <recipientName>Rep. Kevin R. Hern</recipientName>
+      <amount>2500</amount>
+      <date>8/2/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>Cathy McMorris Rodgers For Congress</payeeName>
+      <recipientName>Rep. Cathy McMorris Rodgers</recipientName>
+      <amount>5000</amount>
+      <date>8/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>Tomorrow Is Meaningful PAC</payeeName>
+      <recipientName>Sen. Timothy Eugene Scott</recipientName>
+      <amount>2500</amount>
+      <date>8/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>Mike Gallagher For Wisconsin</payeeName>
+      <recipientName>Rep. Michael John Gallagher</recipientName>
+      <amount>2500</amount>
+      <date>8/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>Joni For Iowa</payeeName>
+      <recipientName>Sen. Joni Kay Ernst</recipientName>
+      <amount>2500</amount>
+      <date>8/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>Gary Palmer For Congress</payeeName>
+      <recipientName>Rep. Gary James Palmer</recipientName>
+      <amount>1500</amount>
+      <date>9/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>Wenstrup For Congress</payeeName>
+      <recipientName>Rep. Brad R. Wenstrup</recipientName>
+      <amount>1000</amount>
+      <date>9/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>Walorski For Congress Inc</payeeName>
+      <recipientName>Rep. Jacqueline Walorski</recipientName>
+      <amount>2500</amount>
+      <date>9/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>Electing Majority Making Effective Republicans</payeeName>
+      <recipientName>Rep. Thomas Earl Emmer, Jr.</recipientName>
+      <amount>5000</amount>
+      <date>9/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>George Holding For Congress Inc.</payeeName>
+      <recipientName>Rep. George E. Holding</recipientName>
+      <amount>2500</amount>
+      <date>9/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>Emmer For Congress</payeeName>
+      <recipientName>Rep. Thomas Earl Emmer, Jr.</recipientName>
+      <amount>2500</amount>
+      <date>9/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>Walden For Congress</payeeName>
+      <recipientName>Rep. Gregory Paul Walden</recipientName>
+      <amount>5000</amount>
+      <date>9/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>Greg Pence For Congress</payeeName>
+      <recipientName>Rep. Gregory J. Pence</recipientName>
+      <amount>5000</amount>
+      <date>9/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>Upton For All Of Us</payeeName>
+      <recipientName>Rep. Frederick Stephen Upton</recipientName>
+      <amount>2500</amount>
+      <date>9/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>Rodney For Congress</payeeName>
+      <recipientName>Rep. Rodney Lee Davis</recipientName>
+      <amount>2500</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>Valley Political Action Committee</payeeName>
+      <recipientName>Rep. Collin Clark Peterson</recipientName>
+      <amount>5000</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>David Rouzer For Congress</payeeName>
+      <recipientName>Rep. David Cheston Rouzer</recipientName>
+      <amount>1000</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>Butterfield For Congress</payeeName>
+      <recipientName>Rep. George Kenneth Butterfield, Jr.</recipientName>
+      <amount>5000</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>Dr John Joyce For Congress</payeeName>
+      <recipientName>Rep. John Joyce</recipientName>
+      <amount>1000</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>Peterson For Congress</payeeName>
+      <recipientName>Rep. Collin Clark Peterson</recipientName>
+      <amount>5000</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>Friends Of Michael Guest</payeeName>
+      <recipientName>Rep. Michael P. Guest</recipientName>
+      <amount>1000</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>Mike Thompson For Congress</payeeName>
+      <recipientName>Rep. Michael C. Thompson</recipientName>
+      <amount>2500</amount>
+      <date>10/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>Pallone For Congress</payeeName>
+      <recipientName>Rep. Frank Pallone, Jr.</recipientName>
+      <amount>5000</amount>
+      <date>10/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>Tom Reed For Congress</payeeName>
+      <recipientName>Rep. Thomas W. Reed, II.</recipientName>
+      <amount>2500</amount>
+      <date>10/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>Making America Prosperous PAC</payeeName>
+      <recipientName>Rep. Kevin Patrick Brady</recipientName>
+      <amount>5000</amount>
+      <date>10/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>Reaching For A Brighter America PAC</payeeName>
+      <recipientName>Rep. Robert Brown Aderholt</recipientName>
+      <amount>5000</amount>
+      <date>10/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>Mike Thompson For Congress</payeeName>
+      <recipientName>Rep. Michael C. Thompson</recipientName>
+      <amount>2500</amount>
+      <date>10/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>Ralph Norman For Congress</payeeName>
+      <recipientName>Rep. Ralph W. Norman, Jr.</recipientName>
+      <amount>2500</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>Loudermilk For Congress</payeeName>
+      <recipientName>Rep. Barry Dean Loudermilk</recipientName>
+      <amount>1000</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>Palazzo For Congress</payeeName>
+      <recipientName>Rep. Steven M. Palazzo</recipientName>
+      <amount>2500</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>Next Century Fund</payeeName>
+      <recipientName>Sen. Richard M. Burr</recipientName>
+      <amount>5000</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>Elise For Congress</payeeName>
+      <recipientName>Rep. Elise M. Stefanik</recipientName>
+      <amount>1000</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>Joni For Iowa</payeeName>
+      <recipientName>Sen. Joni Kay Ernst</recipientName>
+      <amount>2500</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>Tina Smith For Minnesota</payeeName>
+      <recipientName>Sen. Tina Smith</recipientName>
+      <amount>1500</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>Kurt Schrader For Congress</payeeName>
+      <recipientName>Rep. Kurt Schrader</recipientName>
+      <amount>1000</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>Armstrong For Congress</payeeName>
+      <recipientName>Rep. Kelly M. Armstrong</recipientName>
+      <amount>5000</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>Walberg For Congress</payeeName>
+      <recipientName>Rep. Timothy L. Walberg</recipientName>
+      <amount>2500</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>Friends Of Glenn Thompson</payeeName>
+      <recipientName>Rep. Glenn W. Thompson</recipientName>
+      <amount>2500</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>Swalwell For Congress</payeeName>
+      <recipientName>Rep. Eric Michael Swalwell, Jr.</recipientName>
+      <amount>1000</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>Greater Tomorrow Political Action Committee</payeeName>
+      <recipientName>Rep. Glenn W. Thompson</recipientName>
+      <amount>2500</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>Crawford For Congress</payeeName>
+      <recipientName>Rep. Eric Alan Crawford</recipientName>
+      <amount>1000</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>Guthrie For Congress</payeeName>
+      <recipientName>Rep. S. Brett Guthrie</recipientName>
+      <amount>2500</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>Badlands PAC</payeeName>
+      <recipientName>Sen. Kevin John Cramer</recipientName>
+      <amount>3500</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>Joe Morelle For Congress</payeeName>
+      <recipientName>Rep. Joseph D. Morelle</recipientName>
+      <amount>1000</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>Brindisi For Congress</payeeName>
+      <recipientName>Rep. Anthony J. Brindisi</recipientName>
+      <amount>1000</amount>
+      <date>11/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>Tom Reed For Congress</payeeName>
+      <recipientName>Rep. Thomas W. Reed, II.</recipientName>
+      <amount>2500</amount>
+      <date>11/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>Graves For Congress</payeeName>
+      <recipientName>Rep. Samuel Bruce Graves, Jr.</recipientName>
+      <amount>5000</amount>
+      <date>11/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>Project West Political Action Committee</payeeName>
+      <recipientName>Sen. Cory Gardner</recipientName>
+      <amount>5000</amount>
+      <date>11/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>Friends Of Ben McAdams</payeeName>
+      <recipientName>Rep. Ben McAdams</recipientName>
+      <amount>1000</amount>
+      <date>11/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>Team Graham, Inc.</payeeName>
+      <recipientName>Sen. Lindsey Olin Graham</recipientName>
+      <amount>5000</amount>
+      <date>11/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>Denali Leadership PAC</payeeName>
+      <recipientName>Sen. Lisa Ann Murkowski</recipientName>
+      <amount>5000</amount>
+      <date>11/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>Reclaim America PAC</payeeName>
+      <recipientName>Sen. Marco Antonio Rubio</recipientName>
+      <amount>2500</amount>
+      <date>11/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>Texans For Senator John Cornyn Inc.</payeeName>
+      <recipientName>Sen. John Cornyn, III</recipientName>
+      <amount>5000</amount>
+      <date>11/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>Graves For Congress</payeeName>
+      <recipientName>Rep. Tom Graves</recipientName>
+      <amount>2500</amount>
+      <date>11/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>Alamo PAC</payeeName>
+      <recipientName>Sen. John Cornyn, III</recipientName>
+      <amount>5000</amount>
+      <date>11/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>Richard E Neal For Congress Committee</payeeName>
+      <recipientName>Rep. Richard Edmund Neal</recipientName>
+      <amount>2500</amount>
+      <date>11/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>Beatty For Congress</payeeName>
+      <recipientName>Rep. Joyce Beatty</recipientName>
+      <amount>1500</amount>
+      <date>12/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>Mike Gallagher For Wisconsin</payeeName>
+      <recipientName>Rep. Michael John Gallagher</recipientName>
+      <amount>2500</amount>
+      <date>12/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>Brindisi For Congress</payeeName>
+      <recipientName>Rep. Anthony J. Brindisi</recipientName>
+      <amount>1000</amount>
+      <date>12/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>Casten For Congress</payeeName>
+      <recipientName>Rep. Sean Casten</recipientName>
+      <amount>1000</amount>
+      <date>12/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>Mikie Sherrill For Congress</payeeName>
+      <recipientName>Rep. Mikie Sherrill</recipientName>
+      <amount>1000</amount>
+      <date>12/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>Tom O'Halleran For Congress</payeeName>
+      <recipientName>Rep. Tom O'Halleran</recipientName>
+      <amount>1000</amount>
+      <date>12/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>Delgado For Congress</payeeName>
+      <recipientName>Rep. Antonio Delgado</recipientName>
+      <amount>1000</amount>
+      <date>12/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>Debbie Dingell For Congress</payeeName>
+      <recipientName>Rep. Deborah Ann Dingell</recipientName>
+      <amount>2500</amount>
+      <date>12/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>Friends Of Lucy McBath</payeeName>
+      <recipientName>Rep. Lucy K. McBath</recipientName>
+      <amount>1000</amount>
+      <date>12/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>Kind For Congress Committee</payeeName>
+      <recipientName>Rep. Ronald James Kind</recipientName>
+      <amount>1000</amount>
+      <date>12/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>Dr. Raul Ruiz For Congress</payeeName>
+      <recipientName>Rep. Raul Ruiz</recipientName>
+      <amount>2500</amount>
+      <date>12/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>David Rouzer For Congress</payeeName>
+      <recipientName>Rep. David Cheston Rouzer</recipientName>
+      <amount>1500</amount>
+      <date>12/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>Clarke For Congress</payeeName>
+      <recipientName>Rep. Yvette Diana Clarke</recipientName>
+      <amount>1000</amount>
+      <date>12/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>Ann Wagner For Congress</payeeName>
+      <recipientName>Rep. Ann Louise Wagner</recipientName>
+      <amount>1000</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>Steil For Wisconsin, Inc.</payeeName>
+      <recipientName>Rep. Bryan G. Steil</recipientName>
+      <amount>1000</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>Upton For All Of Us</payeeName>
+      <recipientName>Rep. Frederick Stephen Upton</recipientName>
+      <amount>2500</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>Cotton For Senate, Inc.</payeeName>
+      <recipientName>Sen. Thomas Bryant Cotton</recipientName>
+      <amount>2500</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>Citizens For Waters</payeeName>
+      <recipientName>Rep. Maxine Waters</recipientName>
+      <amount>5000</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>Latta For Congress</payeeName>
+      <recipientName>Rep. Robert E. Latta</recipientName>
+      <amount>2500</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>The Reed Committee</payeeName>
+      <recipientName>Sen. Jack Francis Reed</recipientName>
+      <amount>5000</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>Comer For Congress</payeeName>
+      <recipientName>Rep. James R. Comer, Jr.</recipientName>
+      <amount>1000</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>Hudson For Congress</payeeName>
+      <recipientName>Rep. Richard Lane Hudson, Jr.</recipientName>
+      <amount>5000</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>Debbie Lesko For Congress</payeeName>
+      <recipientName>Rep. Debbie Lesko</recipientName>
+      <amount>1000</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>Brian Fitzpatrick For Congress</payeeName>
+      <recipientName>Rep. Brian K. Fitzpatrick</recipientName>
+      <amount>2500</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>Jason Smith For Congress</payeeName>
+      <recipientName>Rep. Jason Thomas Smith</recipientName>
+      <amount>1500</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>Buddy Carter For Congress</payeeName>
+      <recipientName>Rep. Earl L. B. Carter</recipientName>
+      <amount>2500</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>Russ Fulcher For Idaho</payeeName>
+      <recipientName>Rep. Russell M. Fulcher</recipientName>
+      <amount>1000</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>Dan Crenshaw For Congress</payeeName>
+      <recipientName>Rep. Daniel Crenshaw</recipientName>
+      <amount>2500</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>Johnson For Congress</payeeName>
+      <recipientName>Rep. William L. Johnson</recipientName>
+      <amount>1000</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>Elise For Congress</payeeName>
+      <recipientName>Rep. Elise M. Stefanik</recipientName>
+      <amount>1500</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>Mullin For Congress</payeeName>
+      <recipientName>Rep. Markwayne Mullin</recipientName>
+      <amount>2500</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>Upton For All Of Us</payeeName>
+      <recipientName>Rep. Frederick Stephen Upton</recipientName>
+      <amount>2500</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>McKinley For Congress</payeeName>
+      <recipientName>Rep. David B. McKinley</recipientName>
+      <amount>1000</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>Jaime For Congress</payeeName>
+      <recipientName>Rep. Jaime Lynn Herrera Beutler</recipientName>
+      <amount>2500</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>Friends Of Dave Joyce</payeeName>
+      <recipientName>Rep. David Patrick Joyce</recipientName>
+      <amount>2500</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>Morgan Griffith For Congress</payeeName>
+      <recipientName>Rep. H. Morgan Griffith</recipientName>
+      <amount>2500</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>Bilirakis For Congress</payeeName>
+      <recipientName>Rep. Gus Michael Bilirakis</recipientName>
+      <amount>2500</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>Ann Wagner For Congress</payeeName>
+      <recipientName>Rep. Ann Louise Wagner</recipientName>
+      <amount>4000</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>Pete Stauber For Congress</payeeName>
+      <recipientName>Rep. Pete Stauber</recipientName>
+      <amount>2500</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>Fred Keller For Congress</payeeName>
+      <recipientName>Rep. Frederick B. Keller</recipientName>
+      <amount>1000</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Association of Convenience Stores PAC</contributorName>
+      <payeeName>Darrell Issa For Congress</payeeName>
+      <recipientName>Rep. Darrell Edward Issa</recipientName>
+      <amount>5000</amount>
+      <date>12/18/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

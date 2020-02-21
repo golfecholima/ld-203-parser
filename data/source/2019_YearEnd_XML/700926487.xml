@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>Edison International</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>CARY DAVIDSON</contactName>
+  <senateRegID>36140</senateRegID>
+  <houseRegID>31200</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/30/2020 8:33:54 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>
+  </noContributions>
+  <pacs>
+    <pac>
+      <name>EDISON INTERNATIONAL PAC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>EDISON INTERNATIONAL PAC</contributorName>
+      <payeeName>PAUL COOK FOR CONGRESS</payeeName>
+      <recipientName>PAUL COOK</recipientName>
+      <amount>1000</amount>
+      <date>07/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>EDISON INTERNATIONAL PAC</contributorName>
+      <payeeName>SCHIFF FOR CONGRESS</payeeName>
+      <recipientName>ADAM SCHIFF</recipientName>
+      <amount>2500</amount>
+      <date>07/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>EDISON INTERNATIONAL PAC</contributorName>
+      <payeeName>UPTON FOR ALL OF US</payeeName>
+      <recipientName>FRED UPTON</recipientName>
+      <amount>1000</amount>
+      <date>07/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>EDISON INTERNATIONAL PAC</contributorName>
+      <payeeName>WALDEN FOR CONGRESS</payeeName>
+      <recipientName>GREGORY WALDEN</recipientName>
+      <amount>1500</amount>
+      <date>07/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>EDISON INTERNATIONAL PAC</contributorName>
+      <payeeName>BARRAGAN FOR CONGRESS</payeeName>
+      <recipientName>NANETTE BARRAGAN</recipientName>
+      <amount>2500</amount>
+      <date>07/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>EDISON INTERNATIONAL PAC</contributorName>
+      <payeeName>PAUL COOK FOR CONGRESS</payeeName>
+      <recipientName>PAUL COOK</recipientName>
+      <amount>1000</amount>
+      <date>07/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>EDISON INTERNATIONAL PAC</contributorName>
+      <payeeName>MATSUI FOR CONGRESS</payeeName>
+      <recipientName>DORIS MATSUI</recipientName>
+      <amount>1500</amount>
+      <date>07/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>EDISON INTERNATIONAL PAC</contributorName>
+      <payeeName>MIKE THOMPSON FOR CONGRESS</payeeName>
+      <recipientName>MIKE THOMPSON</recipientName>
+      <amount>3000</amount>
+      <date>07/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>EDISON INTERNATIONAL PAC</contributorName>
+      <payeeName>MIKE THOMPSON FOR CONGRESS</payeeName>
+      <recipientName>MIKE THOMPSON</recipientName>
+      <amount>2000</amount>
+      <date>07/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>EDISON INTERNATIONAL PAC</contributorName>
+      <payeeName>SALUD CARBAJAL FOR CONGRESS</payeeName>
+      <recipientName>SALUD CARBAJAL</recipientName>
+      <amount>2500</amount>
+      <date>08/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>EDISON INTERNATIONAL PAC</contributorName>
+      <payeeName>LOU CORREA FOR CONGRESS</payeeName>
+      <recipientName>LOU CORREA</recipientName>
+      <amount>1000</amount>
+      <date>08/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>EDISON INTERNATIONAL PAC</contributorName>
+      <payeeName>MCCLINTOCK FOR CONGRESS</payeeName>
+      <recipientName>THOMAS MCCLINTOCK</recipientName>
+      <amount>1000</amount>
+      <date>08/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>EDISON INTERNATIONAL PAC</contributorName>
+      <payeeName>KAREN BASS FOR CONGRESS</payeeName>
+      <recipientName>KAREN BASS</recipientName>
+      <amount>1000</amount>
+      <date>09/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>EDISON INTERNATIONAL PAC</contributorName>
+      <payeeName>MCNERNEY FOR CONGRESS</payeeName>
+      <recipientName>JERRY MCNERNEY</recipientName>
+      <amount>1000</amount>
+      <date>09/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>EDISON INTERNATIONAL PAC</contributorName>
+      <payeeName>ANNA ESHOO FOR CONGRESS</payeeName>
+      <recipientName>ANNA ESHOO</recipientName>
+      <amount>1000</amount>
+      <date>09/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>EDISON INTERNATIONAL PAC</contributorName>
+      <payeeName>JULIA BROWNLEY FOR CONGRESS</payeeName>
+      <recipientName>JULIA BROWNLEY</recipientName>
+      <amount>1000</amount>
+      <date>09/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>EDISON INTERNATIONAL PAC</contributorName>
+      <payeeName>DR. RAUL RUIZ FOR CONGRESS</payeeName>
+      <recipientName>RAUL RUIZ</recipientName>
+      <amount>1000</amount>
+      <date>09/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>EDISON INTERNATIONAL PAC</contributorName>
+      <payeeName>MATSUI FOR CONGRESS</payeeName>
+      <recipientName>DORIS MATSUI</recipientName>
+      <amount>1000</amount>
+      <date>09/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>EDISON INTERNATIONAL PAC</contributorName>
+      <payeeName>KEN CALVERT FOR CONGRESS COMMITTEE</payeeName>
+      <recipientName>KEN CALVERT</recipientName>
+      <amount>1000</amount>
+      <date>09/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>EDISON INTERNATIONAL PAC</contributorName>
+      <payeeName>JIM COSTA FOR CONGRESS</payeeName>
+      <recipientName>JIM COSTA</recipientName>
+      <amount>1000</amount>
+      <date>09/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>EDISON INTERNATIONAL PAC</contributorName>
+      <payeeName>ALAN LOWENTHAL FOR CONGRESS</payeeName>
+      <recipientName>ALAN LOWENTHAL</recipientName>
+      <amount>1000</amount>
+      <date>09/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>EDISON INTERNATIONAL PAC</contributorName>
+      <payeeName>BARRAGAN FOR CONGRESS</payeeName>
+      <recipientName>NANETTE BARRAGAN</recipientName>
+      <amount>1000</amount>
+      <date>09/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>EDISON INTERNATIONAL PAC</contributorName>
+      <payeeName>LANGEVIN FOR CONGRESS</payeeName>
+      <recipientName>JAMES LANGEVIN</recipientName>
+      <amount>1000</amount>
+      <date>09/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>EDISON INTERNATIONAL PAC</contributorName>
+      <payeeName>DEVIN NUNES CAMPAIGN COMMITTEE</payeeName>
+      <recipientName>DEVIN NUNES</recipientName>
+      <amount>2500</amount>
+      <date>09/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>EDISON INTERNATIONAL PAC</contributorName>
+      <payeeName>VICTORY BY INVESTING BUILDING AND EMPOWERING (VIBE) PAC</payeeName>
+      <recipientName>TONY CARDENAS</recipientName>
+      <amount>2500</amount>
+      <date>10/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>EDISON INTERNATIONAL PAC</contributorName>
+      <payeeName>KEN CALVERT FOR CONGRESS COMMITTEE</payeeName>
+      <recipientName>KEN CALVERT</recipientName>
+      <amount>1000</amount>
+      <date>10/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>EDISON INTERNATIONAL PAC</contributorName>
+      <payeeName>LOU CORREA FOR CONGRESS</payeeName>
+      <recipientName>LOU CORREA</recipientName>
+      <amount>1000</amount>
+      <date>10/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>EDISON INTERNATIONAL PAC</contributorName>
+      <payeeName>FRIENDS OF DAN KILDEE</payeeName>
+      <recipientName>DANIEL KILDEE</recipientName>
+      <amount>1000</amount>
+      <date>10/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>EDISON INTERNATIONAL PAC</contributorName>
+      <payeeName>MCNERNEY FOR CONGRESS</payeeName>
+      <recipientName>JERRY MCNERNEY</recipientName>
+      <amount>1000</amount>
+      <date>10/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>EDISON INTERNATIONAL PAC</contributorName>
+      <payeeName>JULIA BROWNLEY FOR CONGRESS</payeeName>
+      <recipientName>JULIA BROWNLEY</recipientName>
+      <amount>1000</amount>
+      <date>11/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>EDISON INTERNATIONAL PAC</contributorName>
+      <payeeName>TONY CARDENAS FOR CONGRESS</payeeName>
+      <recipientName>TONY CARDENAS</recipientName>
+      <amount>500</amount>
+      <date>11/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>EDISON INTERNATIONAL PAC</contributorName>
+      <payeeName>TONY CARDENAS FOR CONGRESS</payeeName>
+      <recipientName>TONY CARDENAS</recipientName>
+      <amount>500</amount>
+      <date>11/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>EDISON INTERNATIONAL PAC</contributorName>
+      <payeeName>DEBBIE DINGELL FOR CONGRESS</payeeName>
+      <recipientName>DEBBIE DINGELL</recipientName>
+      <amount>1000</amount>
+      <date>11/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>EDISON INTERNATIONAL PAC</contributorName>
+      <payeeName>LUCILLE ROYBAL-ALLARD FOR CONGRESS</payeeName>
+      <recipientName>LUCILLE ROYBAL-ALLARD</recipientName>
+      <amount>1000</amount>
+      <date>11/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>EDISON INTERNATIONAL PAC</contributorName>
+      <payeeName>SHERMAN FOR CONGRESS</payeeName>
+      <recipientName>BRAD SHERMAN</recipientName>
+      <amount>1000</amount>
+      <date>11/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>EDISON INTERNATIONAL PAC</contributorName>
+      <payeeName>SERVING OUR COUNTRY (SOC) PAC</payeeName>
+      <recipientName>SALUD CARBAJAL</recipientName>
+      <amount>1000</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>EDISON INTERNATIONAL PAC</contributorName>
+      <payeeName>JIMMY GOMEZ FOR CONGRESS</payeeName>
+      <recipientName>JIMMY GOMEZ</recipientName>
+      <amount>1000</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>EDISON INTERNATIONAL PAC</contributorName>
+      <payeeName>HUDSON FOR CONGRESS</payeeName>
+      <recipientName>RICHARD L. HUDSON, JR.</recipientName>
+      <amount>1000</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>EDISON INTERNATIONAL PAC</contributorName>
+      <payeeName>DR. RAUL RUIZ FOR CONGRESS</payeeName>
+      <recipientName>RAUL RUIZ</recipientName>
+      <amount>1000</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>EDISON INTERNATIONAL PAC</contributorName>
+      <payeeName>TIM SCOTT FOR SENATE</payeeName>
+      <recipientName>TIM SCOTT</recipientName>
+      <amount>1500</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>EDISON INTERNATIONAL PAC</contributorName>
+      <payeeName>SALUD CARBAJAL FOR CONGRESS</payeeName>
+      <recipientName>SALUD CARBAJAL</recipientName>
+      <amount>1000</amount>
+      <date>12/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>EDISON INTERNATIONAL PAC</contributorName>
+      <payeeName>KEN CALVERT FOR CONGRESS COMMITTEE</payeeName>
+      <recipientName>KEN CALVERT</recipientName>
+      <amount>1000</amount>
+      <date>12/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>EDISON INTERNATIONAL PAC</contributorName>
+      <payeeName>TED LIEU FOR CONGRESS</payeeName>
+      <recipientName>TED LIEU</recipientName>
+      <amount>1500</amount>
+      <date>12/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>EDISON INTERNATIONAL PAC</contributorName>
+      <payeeName>MANCHIN FOR WEST VIRGINIA</payeeName>
+      <recipientName>JOE MANCHIN</recipientName>
+      <amount>1000</amount>
+      <date>12/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>EDISON INTERNATIONAL PAC</contributorName>
+      <payeeName>MCCLINTOCK FOR CONGRESS</payeeName>
+      <recipientName>THOMAS MCCLINTOCK</recipientName>
+      <amount>1000</amount>
+      <date>12/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>EDISON INTERNATIONAL PAC</contributorName>
+      <payeeName>WALBERG FOR CONGRESS</payeeName>
+      <recipientName>TIMOTHY WALBERG</recipientName>
+      <amount>500</amount>
+      <date>12/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>EDISON INTERNATIONAL PAC</contributorName>
+      <payeeName>FUND FOR THE MAJORITY PAC</payeeName>
+      <recipientName>DIANE FEINSTEIN</recipientName>
+      <amount>1000</amount>
+      <date>12/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>EDISON INTERNATIONAL PAC</contributorName>
+      <payeeName>HUDSON FOR CONGRESS</payeeName>
+      <recipientName>RICHARD L. HUDSON, JR.</recipientName>
+      <amount>2500</amount>
+      <date>12/18/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

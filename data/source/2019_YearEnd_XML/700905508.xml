@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>Sentry Insurance a Mutual Company</organizationName>
+  <lobbyistPrefix>Mr.</lobbyistPrefix>
+  <lobbyistFirstName>Anthony</lobbyistFirstName>
+  <lobbyistMiddleName>J.</lobbyistMiddleName>
+  <lobbyistLastName>Trenzeluk</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>401104022</senateRegID>
+  <houseRegID>43259</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>Contributions made by my employer's PAC, Sentry Insurance a Mutual Company Federal Political Action Committee, are listed on its LD-203 report. </comments>
+  <signedDate>1/13/2020 6:29:17 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Insuring America PAC</payeeName>
+      <recipientName>American Property Casualty Insurance Association of America Political Action Committee (Insuring America PAC)</recipientName>
+      <amount>720.00</amount>
+      <date>11/08/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

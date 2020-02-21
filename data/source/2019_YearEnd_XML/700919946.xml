@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>340B Health</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <zipext>
+  </zipext>
+  <contactName>Kathryn DiBitetto</contactName>
+  <senateRegID>316434</senateRegID>
+  <houseRegID>39137</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>True</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/24/2020 8:08:54 AM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>340B HEALTH POLITICAL ACTION COMMITTEE (340B HEALTH PAC)</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>340B HEALTH POLITICAL ACTION COMMITTEE (340B HEALTH PAC)</contributorName>
+      <payeeName>PORT PAC
+</payeeName>
+      <recipientName>Rep. Alan Lowenthal
+</recipientName>
+      <amount>1000.00</amount>
+      <date>9/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>340B HEALTH POLITICAL ACTION COMMITTEE (340B HEALTH PAC)</contributorName>
+      <payeeName>WALDEN FOR CONGRESS
+</payeeName>
+      <recipientName>Rep. Greg Walden
+</recipientName>
+      <amount>1000.00</amount>
+      <date>9/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>340B HEALTH POLITICAL ACTION COMMITTEE (340B HEALTH PAC)</contributorName>
+      <payeeName>HEARTLAND VALUES PAC
+</payeeName>
+      <recipientName>Sen. John Thune
+</recipientName>
+      <amount>1000.00</amount>
+      <date>9/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>340B HEALTH POLITICAL ACTION COMMITTEE (340B HEALTH PAC)</contributorName>
+      <payeeName>TINA SMITH FOR MINNESOTA
+</payeeName>
+      <recipientName>Sen. Tina Smith
+</recipientName>
+      <amount>500.00</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>340B HEALTH POLITICAL ACTION COMMITTEE (340B HEALTH PAC)</contributorName>
+      <payeeName>PALLONE FOR CONGRESS
+</payeeName>
+      <recipientName>Rep. Frank Pallone
+</recipientName>
+      <amount>1000.00</amount>
+      <date>10/2/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>340B HEALTH POLITICAL ACTION COMMITTEE (340B HEALTH PAC)</contributorName>
+      <payeeName>COLLINS VICTORY COMMITTEE
+</payeeName>
+      <recipientName>Sen. Susan Collins
+</recipientName>
+      <amount>1000.00</amount>
+      <date>11/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>340B HEALTH POLITICAL ACTION COMMITTEE (340B HEALTH PAC)</contributorName>
+      <payeeName>MCKINLEY FOR CONGRESS
+</payeeName>
+      <recipientName>Rep. David McKinley
+</recipientName>
+      <amount>1000.00</amount>
+      <date>11/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>340B HEALTH POLITICAL ACTION COMMITTEE (340B HEALTH PAC)</contributorName>
+      <payeeName>Wyden for Oregon
+</payeeName>
+      <recipientName>Sen. Ron Wyden
+</recipientName>
+      <amount>1000.00</amount>
+      <date>12/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>340B HEALTH POLITICAL ACTION COMMITTEE (340B HEALTH PAC)</contributorName>
+      <payeeName>THE HAWKEYE PAC</payeeName>
+      <recipientName>Sen. Chuck Grassley
+</recipientName>
+      <amount>1000.00</amount>
+      <date>11/12/19</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

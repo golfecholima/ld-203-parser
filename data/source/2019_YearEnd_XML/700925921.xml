@@ -1,0 +1,945 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>American Health Care Association</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>Sabrina Washington</contactName>
+  <senateRegID>2491</senateRegID>
+  <houseRegID>31608</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/30/2020 4:23:08 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>
+  </noContributions>
+  <pacs>
+    <pac>
+      <name>American Health Care Association PAC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>Anna Eshoo For Congress</payeeName>
+      <recipientName>Rep. Anna G. Eshoo</recipientName>
+      <amount>3000</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>Anthony Brown For Congress</payeeName>
+      <recipientName>Rep. Anthony Brown</recipientName>
+      <amount>1500</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>ASPIRE PAC</payeeName>
+      <recipientName>ASPIRE PAC</recipientName>
+      <amount>1000</amount>
+      <date>07/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>Barbara Lee For Congress</payeeName>
+      <recipientName>Rep. Barbara Lee</recipientName>
+      <amount>5000</amount>
+      <date>08/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>Barragan For Congress</payeeName>
+      <recipientName>Rep. Nanette Barragan</recipientName>
+      <amount>1000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>Ben Cardin For Senate, Inc.</payeeName>
+      <recipientName>Sen. Benjamin L. Cardin</recipientName>
+      <amount>1000</amount>
+      <date>09/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>Brenda Lawrence For Congress</payeeName>
+      <recipientName>Rep. Brenda Lawrence</recipientName>
+      <amount>1000</amount>
+      <date>10/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>CA LUV PAC (California Leadership United For Victory) PAC</payeeName>
+      <recipientName>Rep. Pete Aguilar</recipientName>
+      <amount>1000</amount>
+      <date>12/03/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>Cathy McMorris Rodgers For Congress</payeeName>
+      <recipientName>Rep. Cathy McMorris Rodgers</recipientName>
+      <amount>1500</amount>
+      <date>11/08/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>CHERPAC</payeeName>
+      <recipientName>Rep. Cheri Bustos</recipientName>
+      <amount>5000</amount>
+      <date>08/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>Chrissy Houlahan For Congress</payeeName>
+      <recipientName>Rep. Chrissy Houlahan</recipientName>
+      <amount>1500</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>Cisneros For Congress</payeeName>
+      <recipientName>Rep. Gil Cisneros</recipientName>
+      <amount>1000</amount>
+      <date>10/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>Citizens For Boyle</payeeName>
+      <recipientName>Rep. Brendan Boyle</recipientName>
+      <amount>1000</amount>
+      <date>07/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>Citizens For Grassley</payeeName>
+      <recipientName>Rep. Pat Grassley</recipientName>
+      <amount>1000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>Clarke For Congress</payeeName>
+      <recipientName>Rep. Yvette D. Clarke</recipientName>
+      <amount>1000</amount>
+      <date>07/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>Clay Jr. For Congress</payeeName>
+      <recipientName>Rep. William Lacy Clay</recipientName>
+      <amount>1500</amount>
+      <date>07/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>Common Values Pac</payeeName>
+      <recipientName>Sen. John Barrasso</recipientName>
+      <amount>1000</amount>
+      <date>10/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>Connolly For Congress</payeeName>
+      <recipientName>Rep. Gerald E. Connolly</recipientName>
+      <amount>2000</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>Crapo Victory Committee</payeeName>
+      <recipientName>Sen. Mike Crapo</recipientName>
+      <amount>5000</amount>
+      <date>07/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>Daines Big Sky Committee</payeeName>
+      <recipientName>Sen. Steve Daines</recipientName>
+      <amount>3000</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>Debbie Dingell For Congress</payeeName>
+      <recipientName>Rep. Debbie Dingell</recipientName>
+      <amount>1500</amount>
+      <date>07/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>Debbie Dingell For Congress</payeeName>
+      <recipientName>Rep. Debbie Dingell</recipientName>
+      <amount>1000</amount>
+      <date>10/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>Debbie For Congress</payeeName>
+      <recipientName>Rep. Debbie Mucarsel-Powell</recipientName>
+      <amount>1000</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>DelBene For Congress</payeeName>
+      <recipientName>Rep. Suzan DelBene</recipientName>
+      <amount>1000</amount>
+      <date>12/03/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>Diana DeGette For Congress</payeeName>
+      <recipientName>Rep. Diana DeGette</recipientName>
+      <amount>1000</amount>
+      <date>09/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>Doggett For Us Congress</payeeName>
+      <recipientName>Rep. Lloyd Doggett</recipientName>
+      <amount>2000</amount>
+      <date>09/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>Doug Jones For Senate Committee</payeeName>
+      <recipientName>Sen. Doug Jones</recipientName>
+      <amount>1000</amount>
+      <date>07/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>Drew Ferguson For Congress Inc.</payeeName>
+      <recipientName>Rep. Drew Ferguson</recipientName>
+      <amount>1500</amount>
+      <date>12/03/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>Dwight Evans For Congress</payeeName>
+      <recipientName>Rep. Dwight Evans</recipientName>
+      <amount>3500</amount>
+      <date>09/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>Dwight Evans For Congress</payeeName>
+      <recipientName>Rep. Dwight Evans</recipientName>
+      <amount>1000</amount>
+      <date>11/08/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>Families For James Lankford</payeeName>
+      <recipientName>Sen. James Lankford</recipientName>
+      <amount>5000</amount>
+      <date>12/03/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>First State PAC</payeeName>
+      <recipientName>Sen. Tom Carper</recipientName>
+      <amount>5000</amount>
+      <date>07/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>Forward Together PAC</payeeName>
+      <recipientName>Sen. Mark Warner</recipientName>
+      <amount>5000</amount>
+      <date>10/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>Friends Of Dan Kildee</payeeName>
+      <recipientName>Rep. Dan Kildee</recipientName>
+      <amount>2500</amount>
+      <date>07/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>Friends Of Schumer</payeeName>
+      <recipientName>Sen. Charles E. Schumer</recipientName>
+      <amount>2500</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>Friends Of Schumer</payeeName>
+      <recipientName>Sen. Charles E. Schumer</recipientName>
+      <amount>2500</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>Grace For New York</payeeName>
+      <recipientName>Rep. Grace Meng</recipientName>
+      <amount>1000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>Great Lakes Political Action Committee</payeeName>
+      <recipientName>Sen. Debbie Stabenow</recipientName>
+      <amount>5000</amount>
+      <date>10/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>Heartland Values PAC</payeeName>
+      <recipientName>Sen. John Thune</recipientName>
+      <amount>5000</amount>
+      <date>09/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>Higgins For Congress</payeeName>
+      <recipientName>Rep. Brian Higgins</recipientName>
+      <amount>1000</amount>
+      <date>09/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>Holding Onto Oregon'S Priorities PAC</payeeName>
+      <recipientName>Sen. Ron Wyden</recipientName>
+      <amount>5000</amount>
+      <date>10/02/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>Hoyer'S Majority Fund</payeeName>
+      <recipientName>Rep. Steny Hoyer</recipientName>
+      <amount>5000</amount>
+      <date>10/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>Jeffries For Congress</payeeName>
+      <recipientName>Rep. Hakeen Jeffries</recipientName>
+      <amount>2500</amount>
+      <date>08/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>Jimmy Gomez For Congress</payeeName>
+      <recipientName>Rep. Jimmy Gomez</recipientName>
+      <amount>5000</amount>
+      <date>09/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>Jimmy Gomez For Congress</payeeName>
+      <recipientName>Rep. Jimmy Gomez</recipientName>
+      <amount>1000</amount>
+      <date>09/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>Jimmy Gomez For Congress</payeeName>
+      <recipientName>Rep. Jimmy Gomez</recipientName>
+      <amount>1000</amount>
+      <date>12/03/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>Jimmy Panetta For Congress</payeeName>
+      <recipientName>Rep. Jimmy Panetta</recipientName>
+      <amount>500</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>Jimmy Panetta For Congress</payeeName>
+      <recipientName>Rep. Jimmy Panetta</recipientName>
+      <amount>500</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>Jobs Education &amp; Families First - JEFF PAC</payeeName>
+      <recipientName>Rep. Hakeen Jeffries</recipientName>
+      <amount>5000</amount>
+      <date>09/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>Joining Ideas To Motivate Movement For You Pac (JIMMY PAC)</payeeName>
+      <recipientName>Rep. Jimmy Panetta</recipientName>
+      <amount>3500</amount>
+      <date>10/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>Joni For Iowa</payeeName>
+      <recipientName>Sen. Joni Ernst</recipientName>
+      <amount>5000</amount>
+      <date>08/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>Joyce Beatty For Congress</payeeName>
+      <recipientName>Rep. Joyce Beatty</recipientName>
+      <amount>2500</amount>
+      <date>08/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>Julia Brownley For Congress</payeeName>
+      <recipientName>Rep. Julia Brownley</recipientName>
+      <amount>1000</amount>
+      <date>09/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>Kansans For LaTurner</payeeName>
+      <recipientName>Jake LaTurner</recipientName>
+      <amount>1000</amount>
+      <date>12/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>Kendra Horn For Congress</payeeName>
+      <recipientName>Rep. Kendra Horn</recipientName>
+      <amount>1500</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>Kind For Congress Committee</payeeName>
+      <recipientName>Rep. Ron Kind</recipientName>
+      <amount>1000</amount>
+      <date>07/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>Kind For Congress Committee</payeeName>
+      <recipientName>Rep. Ron Kind</recipientName>
+      <amount>1000</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>Kurt Schrader For Congress</payeeName>
+      <recipientName>Rep. Kurt Schrader</recipientName>
+      <amount>1000</amount>
+      <date>10/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>Kuster For Congress, Inc.</payeeName>
+      <recipientName>Rep. Ann McLane Kuster</recipientName>
+      <amount>1000</amount>
+      <date>10/08/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>Kuster For Congress, Inc.</payeeName>
+      <recipientName>Rep. Ann McLane Kuster</recipientName>
+      <amount>1000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>LaHood For Congress</payeeName>
+      <recipientName>Rep. Darin LaHood</recipientName>
+      <amount>1000</amount>
+      <date>09/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>Lisa Blunt Rochester For Congress</payeeName>
+      <recipientName>Rep. Lisa Blunt Rochester</recipientName>
+      <amount>2500</amount>
+      <date>10/08/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>Lone Star Leadership PAC</payeeName>
+      <recipientName>Rep. Michael Burgess</recipientName>
+      <amount>5000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>Lou Correa For Congress</payeeName>
+      <recipientName>Rep. Lou Correa</recipientName>
+      <amount>1000</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>Lou Correa For Congress</payeeName>
+      <recipientName>Rep. Lou Correa</recipientName>
+      <amount>1000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>Marc Veasey Congressional Campaign Committee</payeeName>
+      <recipientName>Rep. Marc Veasey</recipientName>
+      <amount>1500</amount>
+      <date>12/03/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>Mark Pocan For Congress</payeeName>
+      <recipientName>Rep. Mark Pocan</recipientName>
+      <amount>1000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>Matsui For Congress</payeeName>
+      <recipientName>Rep. Doris Matsui</recipientName>
+      <amount>1000</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>McCarthy Victory Fund</payeeName>
+      <recipientName>Rep. Kevin McCarthy</recipientName>
+      <amount>5000</amount>
+      <date>08/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>Mcconnell Victory Committee</payeeName>
+      <recipientName>Sen. Mitch McConnell</recipientName>
+      <amount>10000</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>McNerney For Congress</payeeName>
+      <recipientName>Rep. Jerry McNerney</recipientName>
+      <amount>1000</amount>
+      <date>10/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>Mike Thompson For Congress</payeeName>
+      <recipientName>Rep. Mike Thompson</recipientName>
+      <amount>1500</amount>
+      <date>12/03/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>Mikie Sherrill for Congress</payeeName>
+      <recipientName>Rep. Mikie Sherril</recipientName>
+      <amount>1000</amount>
+      <date>08/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>Mikie Sherrill for Congress</payeeName>
+      <recipientName>Rep. Mikie Sherril</recipientName>
+      <amount>1500</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>Moore For Congress</payeeName>
+      <recipientName>Rep. Gwen Moore</recipientName>
+      <amount>1000</amount>
+      <date>09/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>Nevadans For Steven Horsford</payeeName>
+      <recipientName>Rep. Steven Horsford</recipientName>
+      <amount>2000</amount>
+      <date>08/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>New Democrat Coalition Political Action Committee Aka NDC PAC</payeeName>
+      <recipientName>New Democrat Coalition PAC</recipientName>
+      <amount>5000</amount>
+      <date>11/08/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>Oceans Pac</payeeName>
+      <recipientName>Sen. Sheldon Whitehouse</recipientName>
+      <amount>4000</amount>
+      <date>07/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>Pascrell For Congress</payeeName>
+      <recipientName>Rep. Bill Pascrell Jr.</recipientName>
+      <amount>1000</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>Paul Tonko For Congress</payeeName>
+      <recipientName>Rep. Paul Tonko</recipientName>
+      <amount>2500</amount>
+      <date>08/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>People For Derek Kilmer</payeeName>
+      <recipientName>Rep. Derek Kilmer</recipientName>
+      <amount>1000</amount>
+      <date>07/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>Peters For Michigan</payeeName>
+      <recipientName>Sen. Gary Peters</recipientName>
+      <amount>1000</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>Promoting Our Republican Team PAC</payeeName>
+      <recipientName>Sen. Rob Portman</recipientName>
+      <amount>2500</amount>
+      <date>07/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>Reed Committee</payeeName>
+      <recipientName>Sen. Jack Reed</recipientName>
+      <amount>1000</amount>
+      <date>08/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>Reed Committee</payeeName>
+      <recipientName>Sen. Jack Reed</recipientName>
+      <amount>1000</amount>
+      <date>12/03/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>Re-Elect McGovern Committee</payeeName>
+      <recipientName>Rep. Jim McGovern</recipientName>
+      <amount>1000</amount>
+      <date>10/02/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>Responsibility And Freedom Work Pac (RFWPAC)</payeeName>
+      <recipientName>Sen. Rodger Wicker</recipientName>
+      <amount>5000</amount>
+      <date>10/08/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>Robin Kelly For Congress</payeeName>
+      <recipientName>Rep. Robin Kelly</recipientName>
+      <amount>2800</amount>
+      <date>10/02/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>Rosen For Nevada</payeeName>
+      <recipientName>Sen. Jacky Rosen</recipientName>
+      <amount>1500</amount>
+      <date>09/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>Scalise Leadership Fund</payeeName>
+      <recipientName>Rep. Steve Scalise</recipientName>
+      <amount>5000</amount>
+      <date>12/03/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>Scott Fitzgerald For Congress</payeeName>
+      <recipientName>Scott Fitzgerald</recipientName>
+      <amount>500</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>Sharice For Congress</payeeName>
+      <recipientName>Rep. Sharice Davids</recipientName>
+      <amount>1000</amount>
+      <date>09/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>Steil For Wisconsin, Inc.</payeeName>
+      <recipientName>Rep. Bryan Steil</recipientName>
+      <amount>2500</amount>
+      <date>08/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>Stephanie Murphy For Congress</payeeName>
+      <recipientName>Rep. Stephanie Murphy</recipientName>
+      <amount>2500</amount>
+      <date>12/03/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>Steve Daines For Montana</payeeName>
+      <recipientName>Sen. Steve Daines</recipientName>
+      <amount>2500</amount>
+      <date>12/03/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>Stivers For Congress</payeeName>
+      <recipientName>Rep. Steve Stivers</recipientName>
+      <amount>1500</amount>
+      <date>07/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>Suozzi For Congress</payeeName>
+      <recipientName>Rep. Tom Suozzi</recipientName>
+      <amount>1000</amount>
+      <date>09/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>Sylvia Garcia For Congress</payeeName>
+      <recipientName>Rep. Sylvia Garcia</recipientName>
+      <amount>1000</amount>
+      <date>10/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>Texans For Jodey Arrington</payeeName>
+      <recipientName>Rep. Jodey Arrington</recipientName>
+      <amount>1000</amount>
+      <date>11/08/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>Tina Smith For Minnesota</payeeName>
+      <recipientName>Sen. Tina Smith</recipientName>
+      <amount>1000</amount>
+      <date>09/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>Tom Rice For Congress</payeeName>
+      <recipientName>Rep. Tom Rice</recipientName>
+      <amount>3000</amount>
+      <date>07/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>Tom Rice For Congress</payeeName>
+      <recipientName>Rep. Tom Rice</recipientName>
+      <amount>2000</amount>
+      <date>09/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>Tomorrow Is Meaningful Pac (Tim Pac)</payeeName>
+      <recipientName>Sen. Tim Scott</recipientName>
+      <amount>1000</amount>
+      <date>09/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>Tony Cardenas For Congress</payeeName>
+      <recipientName>Rep. Tony Cardenas</recipientName>
+      <amount>1000</amount>
+      <date>07/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>Tony Cardenas For Congress</payeeName>
+      <recipientName>Rep. Tony Cardenas</recipientName>
+      <amount>1000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>Unterman For Congress, Inc.</payeeName>
+      <recipientName>Renee Unterman</recipientName>
+      <amount>1000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>Vaquero Pac</payeeName>
+      <recipientName>Rep. Filemon Vela</recipientName>
+      <amount>2500</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>Vern Buchanan For Congress</payeeName>
+      <recipientName>Rep. Vern Buchanan</recipientName>
+      <amount>2500</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>Veronica Escobar For Congress</payeeName>
+      <recipientName>Rep. Veronica Escobar</recipientName>
+      <amount>1000</amount>
+      <date>07/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>Walden For Congress</payeeName>
+      <recipientName>Rep. Greg Walden</recipientName>
+      <amount>3000</amount>
+      <date>08/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>Welch For Congress</payeeName>
+      <recipientName>Rep. Peter Welch</recipientName>
+      <amount>1000</amount>
+      <date>09/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>Welch For Congress</payeeName>
+      <recipientName>Rep. Peter Welch</recipientName>
+      <amount>1000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Health Care Association PAC</contributorName>
+      <payeeName>Xochitl For New Mexico</payeeName>
+      <recipientName>Rep. Xochitl Torres Small</recipientName>
+      <amount>1000</amount>
+      <date>11/08/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

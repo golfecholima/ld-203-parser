@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>Select Medical Holdings Corporation</organizationName>
+  <lobbyistPrefix>Mr.</lobbyistPrefix>
+  <lobbyistFirstName>William</lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>Walters</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>401056979</senateRegID>
+  <houseRegID>42319</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/29/2020 10:39:56 AM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>Select Medical Corporation PAC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Citizens for Prosperity in America Today</payeeName>
+      <recipientName>Sen. Patrick Toomey</recipientName>
+      <amount>2500.00</amount>
+      <date>11/02/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Vern Buchanan for Congress</payeeName>
+      <recipientName>Rep. Vern Buchanan</recipientName>
+      <amount>2500.00</amount>
+      <date>10/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Bill Cassidy for US Senate</payeeName>
+      <recipientName>Sen. Bill Cassidy</recipientName>
+      <amount>2500.00</amount>
+      <date>10/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Pallone for Congress</payeeName>
+      <recipientName>Rep. Frank Pallone</recipientName>
+      <amount>1000.00</amount>
+      <date>11/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Pallone for Congress</payeeName>
+      <recipientName>Rep. Frank Pallone</recipientName>
+      <amount>2500.00</amount>
+      <date>12/04/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Rosemary Becchi for Congress</payeeName>
+      <recipientName>Rosemary Becchi</recipientName>
+      <amount>2800.00</amount>
+      <date>12/04/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>SILK PAC</payeeName>
+      <recipientName>Rep. Bill Pascrell</recipientName>
+      <amount>2500.00</amount>
+      <date>12/10/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

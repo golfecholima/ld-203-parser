@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>Recording Academy ( FKA National Academy of Recording Arts and Sciences)</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName> DARYL FRIEDMAN</contactName>
+  <senateRegID>85594</senateRegID>
+  <houseRegID>36504</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/29/2020 2:43:37 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>National Academy of Recording Arts and Sciences, Inc. PAC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Academy of Recording Arts and Sciences, Inc. PAC</contributorName>
+      <payeeName>Scalise for Congress</payeeName>
+      <recipientName>Representative Steve Scalise</recipientName>
+      <amount>1000.00</amount>
+      <date>07/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Academy of Recording Arts and Sciences, Inc. PAC</contributorName>
+      <payeeName>Perdue for Senate</payeeName>
+      <recipientName>Senator David Perdue</recipientName>
+      <amount>1000.00</amount>
+      <date>09/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Academy of Recording Arts and Sciences, Inc. PAC</contributorName>
+      <payeeName>Biggs for Congress</payeeName>
+      <recipientName>Representative Andy Biggs</recipientName>
+      <amount>1000.00</amount>
+      <date>09/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Academy of Recording Arts and Sciences, Inc. PAC</contributorName>
+      <payeeName>Correa for Congress</payeeName>
+      <recipientName>Representative Luis Correa</recipientName>
+      <amount>1000.00</amount>
+      <date>09/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Academy of Recording Arts and Sciences, Inc. PAC</contributorName>
+      <payeeName>Ted Deutch for Congress</payeeName>
+      <recipientName>Representative Ted Deutch</recipientName>
+      <amount>2500.00</amount>
+      <date>09/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Academy of Recording Arts and Sciences, Inc. PAC</contributorName>
+      <payeeName>Marsha for Senate</payeeName>
+      <recipientName>Senator Marsha Blackburn</recipientName>
+      <amount>2500.00</amount>
+      <date>09/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Academy of Recording Arts and Sciences, Inc. PAC</contributorName>
+      <payeeName>Collins for Congress</payeeName>
+      <recipientName>Representative Doug Collins</recipientName>
+      <amount>2500.00</amount>
+      <date>09/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Academy of Recording Arts and Sciences, Inc. PAC</contributorName>
+      <payeeName>Jeffries for Congress</payeeName>
+      <recipientName>Representative Hakeem Jeffries</recipientName>
+      <amount>2500.00</amount>
+      <date>09/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Academy of Recording Arts and Sciences, Inc. PAC</contributorName>
+      <payeeName>Scanlon for Congress</payeeName>
+      <recipientName>Representative Mary Gay Scanlon</recipientName>
+      <amount>1000.00</amount>
+      <date>09/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Academy of Recording Arts and Sciences, Inc. PAC</contributorName>
+      <payeeName>McClintock for Congress</payeeName>
+      <recipientName>Representative Tom McClintock</recipientName>
+      <amount>1000.00</amount>
+      <date>11/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Academy of Recording Arts and Sciences, Inc. PAC</contributorName>
+      <payeeName>Team Graham, Inc.</payeeName>
+      <recipientName>Senator Lindsey Graham</recipientName>
+      <amount>1000.00</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Academy of Recording Arts and Sciences, Inc. PAC</contributorName>
+      <payeeName>The Cicilline Committee</payeeName>
+      <recipientName>Representative David Cicilline</recipientName>
+      <amount>1000.00</amount>
+      <date>12/11/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

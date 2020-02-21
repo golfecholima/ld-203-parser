@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>VIKING NAVIGATION LLC</organizationName>
+  <lobbyistPrefix>Mr.</lobbyistPrefix>
+  <lobbyistFirstName>ADAM</lobbyistFirstName>
+  <lobbyistMiddleName>EDWARD</lobbyistMiddleName>
+  <lobbyistLastName>NORDSTROM</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>401104539</senateRegID>
+  <houseRegID>43717</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/31/2020 7:02:42 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Diana DeGette for Congress</payeeName>
+      <recipientName>Rep. Diana DeGette</recipientName>
+      <amount>1000.00</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Friends of Neal Dunn</payeeName>
+      <recipientName>Rep. Neal Dunn</recipientName>
+      <amount>1000.00</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Kansas State Historical Foundation</payeeName>
+      <recipientName>Sen. Pat Roberts</recipientName>
+      <amount>2000.00</amount>
+      <date>12/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Jerry Moran for U.S. Senate</payeeName>
+      <recipientName>Sen. Jerry Moran</recipientName>
+      <amount>500.00</amount>
+      <date>12/17/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

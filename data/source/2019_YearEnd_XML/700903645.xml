@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>CAVAROCCHI RUSCIO DENNIS ASSOCIATES, L.L.C.</organizationName>
+  <lobbyistPrefix>Mrs.</lobbyistPrefix>
+  <lobbyistFirstName>Stefanie</lobbyistFirstName>
+  <lobbyistMiddleName>Claudette Winston</lobbyistMiddleName>
+  <lobbyistLastName>Rinehart</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>8511</senateRegID>
+  <houseRegID>31321</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/6/2020 11:38:00 AM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Tiffany Kaszuba</payeeName>
+      <recipientName>N/A</recipientName>
+      <amount>100.00</amount>
+      <date>9/30/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>TD Bank, NA</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <zipext>
+  </zipext>
+  <contactName>Jim Johnson</contactName>
+  <senateRegID>400761286</senateRegID>
+  <houseRegID>41699</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/29/2020 4:24:28 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>TD Bank N.A. Political Action Committee</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>TD Bank N.A. Political Action Committee</contributorName>
+      <payeeName>Ted Bud for Congress</payeeName>
+      <recipientName>Theodore Budd</recipientName>
+      <amount>1000.00</amount>
+      <date>7/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>TD Bank N.A. Political Action Committee</contributorName>
+      <payeeName>Dan Crenshaw for Congress</payeeName>
+      <recipientName>Dan Crenshaw</recipientName>
+      <amount>1000.00</amount>
+      <date>7/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>TD Bank N.A. Political Action Committee</contributorName>
+      <payeeName>Chris Coons for Delaware</payeeName>
+      <recipientName>Chris Coons</recipientName>
+      <amount>1500.00</amount>
+      <date>7/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>TD Bank N.A. Political Action Committee</contributorName>
+      <payeeName>Freedom Fund Leadership PAC</payeeName>
+      <recipientName>Mike Crapo</recipientName>
+      <amount>3000.00</amount>
+      <date>7/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>TD Bank N.A. Political Action Committee</contributorName>
+      <payeeName>Suozzi for Congress</payeeName>
+      <recipientName>Tom Suozzi</recipientName>
+      <amount>2500.00</amount>
+      <date>9/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>TD Bank N.A. Political Action Committee</contributorName>
+      <payeeName>Chris Coons for Delaware</payeeName>
+      <recipientName>Chris Coons</recipientName>
+      <amount>2500.00</amount>
+      <date>9/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>TD Bank N.A. Political Action Committee</contributorName>
+      <payeeName>Chris Coons for Delaware</payeeName>
+      <recipientName>Chris Coons</recipientName>
+      <amount>1000.00</amount>
+      <date>9/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>TD Bank N.A. Political Action Committee</contributorName>
+      <payeeName>Reed Committee</payeeName>
+      <recipientName>Jack Reed</recipientName>
+      <amount>1000.00</amount>
+      <date>9/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>TD Bank N.A. Political Action Committee</contributorName>
+      <payeeName>Anthony Gonzalas for Congress</payeeName>
+      <recipientName>Anthony Gonzalas</recipientName>
+      <amount>1500.00</amount>
+      <date>9/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>TD Bank N.A. Political Action Committee</contributorName>
+      <payeeName>Blaine for Congress</payeeName>
+      <recipientName>Blaine Luetkemeyer</recipientName>
+      <amount>2000.00</amount>
+      <date>9/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>TD Bank N.A. Political Action Committee</contributorName>
+      <payeeName>Trey for Congress</payeeName>
+      <recipientName>Trey Hollingsworth</recipientName>
+      <amount>1500.00</amount>
+      <date>9/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>TD Bank N.A. Political Action Committee</contributorName>
+      <payeeName>Denver Riggleman for Congress</payeeName>
+      <recipientName>Denver Riggleman</recipientName>
+      <amount>1500.00</amount>
+      <date>9/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>TD Bank N.A. Political Action Committee</contributorName>
+      <payeeName>French Hill for Arkansas</payeeName>
+      <recipientName>French Hill</recipientName>
+      <amount>1000.00</amount>
+      <date>11/13/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>The Gibson Group, LLC</organizationName>
+  <lobbyistPrefix>Mr.</lobbyistPrefix>
+  <lobbyistFirstName>JOSEPH</lobbyistFirstName>
+  <lobbyistMiddleName>H</lobbyistMiddleName>
+  <lobbyistLastName>GIBSON</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>400703107</senateRegID>
+  <houseRegID>41536</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/8/2020 9:54:30 AM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Guy for Congress</payeeName>
+      <recipientName>Rep. Guy Reschenthaler</recipientName>
+      <amount>500.00</amount>
+      <date>07/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Debbie Lesko for Congress</payeeName>
+      <recipientName>Rep. Debbie Lesko</recipientName>
+      <amount>500.00</amount>
+      <date>07/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>McCarthy Victory Fund</payeeName>
+      <recipientName>Rep. Kevin McCarthy</recipientName>
+      <amount>1000.00</amount>
+      <date>08/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>McClintock for Congress</payeeName>
+      <recipientName>Rep. Tom McClintock</recipientName>
+      <amount>500.00</amount>
+      <date>09/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Scalise Leadership Fund</payeeName>
+      <recipientName>Rep. Steve Scalise</recipientName>
+      <amount>1000.00</amount>
+      <date>09/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Steve Chabot for Congress</payeeName>
+      <recipientName>Rep. Steve Chabot</recipientName>
+      <amount>500.00</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>McCarthy Victory Fund</payeeName>
+      <recipientName>Rep. Kevin McCarthy</recipientName>
+      <amount>2500.00</amount>
+      <date>10/09/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Darrell Issa for Congress</payeeName>
+      <recipientName>Congressional Candidate Darrell Issa</recipientName>
+      <amount>500.00</amount>
+      <date>10/19/19</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

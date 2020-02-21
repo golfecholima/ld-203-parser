@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>Crowell &amp; Moring LLP</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>James Flood</contactName>
+  <senateRegID>11377</senateRegID>
+  <houseRegID>31843</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/30/2020 7:45:33 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>
+  </noContributions>
+  <pacs>
+    <pac>
+      <name>Crowell &amp; Moring LLP Political Action Committee (C&amp;M PAC)</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Crowell &amp; Moring LLP Political Action Committee (C&amp;M PAC)</contributorName>
+      <payeeName>Guthrie for Congress</payeeName>
+      <recipientName>Rep. Brett Guthrie</recipientName>
+      <amount>2500</amount>
+      <date>7/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Crowell &amp; Moring LLP Political Action Committee (C&amp;M PAC)</contributorName>
+      <payeeName>Friends of John Barrasso</payeeName>
+      <recipientName>Sen. John Barrasso</recipientName>
+      <amount>2500</amount>
+      <date>7/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Crowell &amp; Moring LLP Political Action Committee (C&amp;M PAC)</contributorName>
+      <payeeName>Collins for Senator</payeeName>
+      <recipientName>Sen. Susan Collins</recipientName>
+      <amount>2500</amount>
+      <date>8/7/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Crowell &amp; Moring LLP Political Action Committee (C&amp;M PAC)</contributorName>
+      <payeeName>Cory Gardner for Senate</payeeName>
+      <recipientName>Sen. Cory Gardner</recipientName>
+      <amount>2500</amount>
+      <date>8/7/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Crowell &amp; Moring LLP Political Action Committee (C&amp;M PAC)</contributorName>
+      <payeeName>McSally for Senate, Inc.</payeeName>
+      <recipientName>Sen. Martha McSally</recipientName>
+      <amount>2500</amount>
+      <date>8/7/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Crowell &amp; Moring LLP Political Action Committee (C&amp;M PAC)</contributorName>
+      <payeeName>Morgan Griffith for Congrss</payeeName>
+      <recipientName>Rep. Morgan Griffith</recipientName>
+      <amount>1000</amount>
+      <date>9/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Crowell &amp; Moring LLP Political Action Committee (C&amp;M PAC)</contributorName>
+      <payeeName>Clarke for Congrss</payeeName>
+      <recipientName>Rep. Yvette Clarke</recipientName>
+      <amount>1000</amount>
+      <date>9/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Crowell &amp; Moring LLP Political Action Committee (C&amp;M PAC)</contributorName>
+      <payeeName>Nancy Pelosi for Congress</payeeName>
+      <recipientName>Rep. Nancy Pelosi</recipientName>
+      <amount>5000</amount>
+      <date>9/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Crowell &amp; Moring LLP Political Action Committee (C&amp;M PAC)</contributorName>
+      <payeeName>Texans for Senator John Cornyn, Inc.</payeeName>
+      <recipientName>Sen. John Cornyn</recipientName>
+      <amount>2500</amount>
+      <date>10/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Crowell &amp; Moring LLP Political Action Committee (C&amp;M PAC)</contributorName>
+      <payeeName>Amodei for Nevada</payeeName>
+      <recipientName>Rep. Mark Amodei</recipientName>
+      <amount>1000</amount>
+      <date>10/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Crowell &amp; Moring LLP Political Action Committee (C&amp;M PAC)</contributorName>
+      <payeeName>Grassley Committee, Inc.</payeeName>
+      <recipientName>Sen. Chuck Grassley</recipientName>
+      <amount>2500</amount>
+      <date>10/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Crowell &amp; Moring LLP Political Action Committee (C&amp;M PAC)</contributorName>
+      <payeeName>Engel for Congress</payeeName>
+      <recipientName>Rep. Eliot Engel</recipientName>
+      <amount>2000</amount>
+      <date>10/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Crowell &amp; Moring LLP Political Action Committee (C&amp;M PAC)</contributorName>
+      <payeeName>Michael Burgess fo Congress</payeeName>
+      <recipientName>Rep. Michael Burgess</recipientName>
+      <amount>2000</amount>
+      <date>11/8/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Crowell &amp; Moring LLP Political Action Committee (C&amp;M PAC)</contributorName>
+      <payeeName>Fund for a Conservative Future</payeeName>
+      <recipientName>Sen. James Inhofe</recipientName>
+      <amount>2500</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Crowell &amp; Moring LLP Political Action Committee (C&amp;M PAC)</contributorName>
+      <payeeName>Fund for America's Future</payeeName>
+      <recipientName>Sen. Lindsey Graham</recipientName>
+      <amount>2500</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Crowell &amp; Moring LLP Political Action Committee (C&amp;M PAC)</contributorName>
+      <payeeName>Thom Tillis Committee</payeeName>
+      <recipientName>Sen. Thom Tillis</recipientName>
+      <amount>5000</amount>
+      <date>12/2/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Crowell &amp; Moring LLP Political Action Committee (C&amp;M PAC)</contributorName>
+      <payeeName>Buddy Carter for Congress</payeeName>
+      <recipientName>Rep. Buddy Carter</recipientName>
+      <amount>5000</amount>
+      <date>12/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Crowell &amp; Moring LLP Political Action Committee (C&amp;M PAC)</contributorName>
+      <payeeName>Butterfield for Congress</payeeName>
+      <recipientName>Rep. G. K. Butterfield</recipientName>
+      <amount>1000</amount>
+      <date>12/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Crowell &amp; Moring LLP Political Action Committee (C&amp;M PAC)</contributorName>
+      <payeeName>Andy Barr for Congrss</payeeName>
+      <recipientName>Rep. Andy Barr</recipientName>
+      <amount>1000</amount>
+      <date>12/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Crowell &amp; Moring LLP Political Action Committee (C&amp;M PAC)</contributorName>
+      <payeeName>Comer for Congress</payeeName>
+      <recipientName>Rep. James Comer</recipientName>
+      <amount>1000</amount>
+      <date>12/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Crowell &amp; Moring LLP Political Action Committee (C&amp;M PAC)</contributorName>
+      <payeeName>Friends of Schumer</payeeName>
+      <recipientName>Sen. Charles Schumer</recipientName>
+      <amount>5000</amount>
+      <date>12/16/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

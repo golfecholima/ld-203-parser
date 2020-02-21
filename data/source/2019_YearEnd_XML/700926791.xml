@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>Siekman and Siekman LLC</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>Dwayne Siekman</contactName>
+  <senateRegID>401104352</senateRegID>
+  <houseRegID>43577</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>True</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/31/2020 12:23:56 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Balderson for Congress</payeeName>
+      <recipientName>Troy Balderson</recipientName>
+      <amount>500.00</amount>
+      <date>9/30/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Latta for Congress</payeeName>
+      <recipientName>Bob Latta</recipientName>
+      <amount>250.00</amount>
+      <date>10/20/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Wonder Women Victory Committee</payeeName>
+      <recipientName>Lisa Murkowski</recipientName>
+      <amount>1000.00</amount>
+      <date>12/13/19</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

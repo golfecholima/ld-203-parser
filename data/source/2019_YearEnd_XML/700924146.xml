@@ -1,0 +1,1385 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>UNITEDHEALTH GROUP, INC.</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>Stephen M. Heyman</contactName>
+  <senateRegID>39143</senateRegID>
+  <houseRegID>33552</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/30/2020 8:47:14 AM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>
+  </noContributions>
+  <pacs>
+    <pac>
+      <name>UNITEDHEALTH GROUP, INC.</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Friends Of Raja For Congress</payeeName>
+      <recipientName>Raja Krishnamoorthi</recipientName>
+      <amount>1000</amount>
+      <date>7/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Kind for Congress Committee</payeeName>
+      <recipientName>Ron Kind</recipientName>
+      <amount>2500</amount>
+      <date>7/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Rosen For Nevada</payeeName>
+      <recipientName>Jacklyn Rosen</recipientName>
+      <amount>1500</amount>
+      <date>7/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Charlie Crist For Congress</payeeName>
+      <recipientName>Charles Crist</recipientName>
+      <amount>2500</amount>
+      <date>7/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Val Demings For Congress</payeeName>
+      <recipientName>Valdez Demings</recipientName>
+      <amount>1000</amount>
+      <date>7/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Bridge the Gap PAC</payeeName>
+      <recipientName>Bradley Schneider</recipientName>
+      <amount>2500</amount>
+      <date>7/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Three Rivers Political Action Committee</payeeName>
+      <recipientName>Kurt Schrader</recipientName>
+      <amount>2500</amount>
+      <date>7/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>CHERPAC</payeeName>
+      <recipientName>Cheri Bustos</recipientName>
+      <amount>2500</amount>
+      <date>7/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Armstrong For Congress</payeeName>
+      <recipientName>Kelly Armstrong</recipientName>
+      <amount>2500</amount>
+      <date>7/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Michigan Republican Party</payeeName>
+      <recipientName>Michigan Republican Party</recipientName>
+      <amount>5000</amount>
+      <date>7/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Families For James Lankford</payeeName>
+      <recipientName>James Lankford</recipientName>
+      <amount>1000</amount>
+      <date>7/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Bill Cassidy For US Senate</payeeName>
+      <recipientName>Bill Cassidy</recipientName>
+      <amount>2500</amount>
+      <date>7/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>21st Century Majority Fund</payeeName>
+      <recipientName>Johnny Isakson</recipientName>
+      <amount>5000</amount>
+      <date>7/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Cowboy PAC</payeeName>
+      <recipientName>Liz Cheney</recipientName>
+      <amount>2500</amount>
+      <date>7/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Kuster For Congress, Inc</payeeName>
+      <recipientName>Ann Kuster</recipientName>
+      <amount>2500</amount>
+      <date>7/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>DelBene for Congress</payeeName>
+      <recipientName>Suzan DelBene</recipientName>
+      <amount>2500</amount>
+      <date>7/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Richard E Neal For Congress Committee</payeeName>
+      <recipientName>Richard Neal</recipientName>
+      <amount>2500</amount>
+      <date>7/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Tom O'Halleran For Congress</payeeName>
+      <recipientName>Tom O'Halleran</recipientName>
+      <amount>2500</amount>
+      <date>7/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Sean Patrick Maloney For Congress</payeeName>
+      <recipientName>Sean Maloney</recipientName>
+      <amount>2500</amount>
+      <date>7/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Terri Sewell For Congress</payeeName>
+      <recipientName>Terri Sewell</recipientName>
+      <amount>2500</amount>
+      <date>7/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Texans For Henry Cuellar Congressional Campaign</payeeName>
+      <recipientName>Henry Cuellar</recipientName>
+      <amount>2500</amount>
+      <date>7/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Bob Casey for Senate Inc</payeeName>
+      <recipientName>Bob Casey</recipientName>
+      <amount>2000</amount>
+      <date>7/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Shaheen for Senate</payeeName>
+      <recipientName>Jeanne Shaheen</recipientName>
+      <amount>2500</amount>
+      <date>7/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Haley Stevens For Congress</payeeName>
+      <recipientName>Haley Stevens</recipientName>
+      <amount>2500</amount>
+      <date>9/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Elise For Congress</payeeName>
+      <recipientName>Elise Stefanik</recipientName>
+      <amount>2500</amount>
+      <date>9/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>George Holding For Congress Inc.</payeeName>
+      <recipientName>George Holding</recipientName>
+      <amount>2500</amount>
+      <date>9/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>McSally For Senate Inc</payeeName>
+      <recipientName>Martha McSally</recipientName>
+      <amount>2500</amount>
+      <date>9/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Pete Aguilar For Congress</payeeName>
+      <recipientName>Pete Aguilar</recipientName>
+      <amount>2500</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Catherine Cortez Masto For Senate</payeeName>
+      <recipientName>Catherine Cortez-Masto</recipientName>
+      <amount>2500</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Dan Lipinski For Congress</payeeName>
+      <recipientName>Daniel Lipinski</recipientName>
+      <amount>5000</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Friends Of Ben McAdams</payeeName>
+      <recipientName>Ben McAdams</recipientName>
+      <amount>2500</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Sanford Bishop For Congress</payeeName>
+      <recipientName>Sanford Bishop</recipientName>
+      <amount>2000</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Al Lawson For Congress</payeeName>
+      <recipientName>Alfred Lawson</recipientName>
+      <amount>2500</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Charlie Crist For Congress</payeeName>
+      <recipientName>Charles Crist</recipientName>
+      <amount>2500</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>America Needs New Innovation and Energy PAC (AnniePAC)</payeeName>
+      <recipientName>Ann Kuster</recipientName>
+      <amount>2500</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Republican Mainstreet Partnership PAC</payeeName>
+      <recipientName>Republican Mainstreet Partnership PAC</recipientName>
+      <amount>5000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>DelBene for Congress</payeeName>
+      <recipientName>Suzan DelBene</recipientName>
+      <amount>2500</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Pallone For Congress</payeeName>
+      <recipientName>Frank Pallone</recipientName>
+      <amount>2500</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Richmond For Congress</payeeName>
+      <recipientName>Cedric Richmond</recipientName>
+      <amount>2500</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Friends Of Dan Kildee</payeeName>
+      <recipientName>Dan Kildee</recipientName>
+      <amount>2500</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>People For Derek Kilmer</payeeName>
+      <recipientName>Derek Kilmer</recipientName>
+      <amount>2500</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Courtney For Congress</payeeName>
+      <recipientName>Joseph Courtney</recipientName>
+      <amount>2500</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Chrissy Houlahan For Congress</payeeName>
+      <recipientName>Chrissy Houlahan</recipientName>
+      <amount>1000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Stanton For Congress</payeeName>
+      <recipientName>Greg Stanton</recipientName>
+      <amount>1000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Himes For Congress</payeeName>
+      <recipientName>Jim Himes</recipientName>
+      <amount>2500</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Suozzi For Congress</payeeName>
+      <recipientName>Thomas Suozzi</recipientName>
+      <amount>2500</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Kathleen Rice For Congress</payeeName>
+      <recipientName>Kathleen Rice</recipientName>
+      <amount>2500</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Castro For Congress</payeeName>
+      <recipientName>Joaquin Castro</recipientName>
+      <amount>2500</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Josh Gottheimer For Congress</payeeName>
+      <recipientName>Joshua Gottheimer</recipientName>
+      <amount>2500</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Forward Together PAC</payeeName>
+      <recipientName>Mark Warner</recipientName>
+      <amount>2500</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>A New Direction PAC</payeeName>
+      <recipientName>Jeanne Shaheen</recipientName>
+      <amount>2500</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Darren Soto For Congress</payeeName>
+      <recipientName>Darren Soto</recipientName>
+      <amount>2500</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Finkenauer For Congress</payeeName>
+      <recipientName>Abby Finkenauer</recipientName>
+      <amount>2500</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Friends Of Raja For Congress</payeeName>
+      <recipientName>Raja Krishnamoorthi</recipientName>
+      <amount>2500</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Casten For Congress</payeeName>
+      <recipientName>Sean Casten</recipientName>
+      <amount>2000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Kurt Schrader for Congress</payeeName>
+      <recipientName>Kurt Schrader</recipientName>
+      <amount>2500</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Debbie For Congress</payeeName>
+      <recipientName>Debbie Mucarsel-Powell</recipientName>
+      <amount>2500</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Reed Committee, The</payeeName>
+      <recipientName>Jack Reed</recipientName>
+      <amount>2500</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Scott Peters for Congress</payeeName>
+      <recipientName>Scott Peters</recipientName>
+      <amount>2500</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>David Scott For Congress</payeeName>
+      <recipientName>David Scott</recipientName>
+      <amount>5000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Ted Deutch For Congress Committee</payeeName>
+      <recipientName>Ted Deutch</recipientName>
+      <amount>2500</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Vargas for Congress</payeeName>
+      <recipientName>Juan Vargas</recipientName>
+      <amount>5000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Case For Congress</payeeName>
+      <recipientName>Edward Case</recipientName>
+      <amount>2500</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Val Demings For Congress</payeeName>
+      <recipientName>Valdez Demings</recipientName>
+      <amount>2500</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>American Innovation Political Action Committee (AMI PAC)</payeeName>
+      <recipientName>Ami Bera</recipientName>
+      <amount>5000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Bridge the Gap PAC</payeeName>
+      <recipientName>Bradley Schneider</recipientName>
+      <amount>2500</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Perimeter PAC</payeeName>
+      <recipientName>Tammy Duckworth</recipientName>
+      <amount>2500</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>CHERPAC</payeeName>
+      <recipientName>Cheri Bustos</recipientName>
+      <amount>2500</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Country Roads PAC</payeeName>
+      <recipientName>Joe Manchin</recipientName>
+      <amount>5000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Texans For Senator John Cornyn Inc</payeeName>
+      <recipientName>John Cornyn</recipientName>
+      <amount>2500</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Hoeven For Senate</payeeName>
+      <recipientName>John Hoeven</recipientName>
+      <amount>2500</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Friends Of Roy Blunt</payeeName>
+      <recipientName>Roy Blunt</recipientName>
+      <amount>2500</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Richard E Neal For Congress Committee</payeeName>
+      <recipientName>Richard Neal</recipientName>
+      <amount>2500</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Kinzinger For Congress</payeeName>
+      <recipientName>Adam Kinzinger</recipientName>
+      <amount>2500</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Lahood For Congress</payeeName>
+      <recipientName>Darin LaHood</recipientName>
+      <amount>2500</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Steil For Wisconsin, Inc.</payeeName>
+      <recipientName>Bryan Steil</recipientName>
+      <amount>2500</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Upton For All Of Us</payeeName>
+      <recipientName>Frederick Upton</recipientName>
+      <amount>2500</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Steve Daines For Montana</payeeName>
+      <recipientName>Steve Daines</recipientName>
+      <amount>2500</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Brady For Congress</payeeName>
+      <recipientName>Kevin Brady</recipientName>
+      <amount>5000</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Vicky Hartzler for Congress</payeeName>
+      <recipientName>Vicky Hartzler</recipientName>
+      <amount>2500</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Walorski For Congress Inc</payeeName>
+      <recipientName>Jackie Walorski</recipientName>
+      <amount>5000</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Jason Smith For Congress</payeeName>
+      <recipientName>Jason Smith</recipientName>
+      <amount>2500</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Greg Pence For Congress</payeeName>
+      <recipientName>Gregory Pence</recipientName>
+      <amount>2500</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Walberg for Congress</payeeName>
+      <recipientName>Tim Walberg</recipientName>
+      <amount>2500</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Emmer For Congress</payeeName>
+      <recipientName>Thomas Emmer</recipientName>
+      <amount>2500</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Friends for Chris Stewart, Inc.</payeeName>
+      <recipientName>Chris Stewart</recipientName>
+      <amount>2500</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Collins For Senator</payeeName>
+      <recipientName>Susan Collins</recipientName>
+      <amount>1500</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Blaine for Congress</payeeName>
+      <recipientName>Blaine Luetkemeyer</recipientName>
+      <amount>2500</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Jim Banks For Congress, Inc.</payeeName>
+      <recipientName>James Banks</recipientName>
+      <amount>1000</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Billy Long For Congress</payeeName>
+      <recipientName>Billy Long</recipientName>
+      <amount>2500</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Friends Of Dave Joyce</payeeName>
+      <recipientName>Dave Joyce</recipientName>
+      <amount>2500</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Friends Of Glenn Thompson</payeeName>
+      <recipientName>Glenn Thompson</recipientName>
+      <amount>1000</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Jim Risch For U.S. Senate Committee</payeeName>
+      <recipientName>James Risch</recipientName>
+      <amount>2500</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Davidson For Congress</payeeName>
+      <recipientName>Warren Davidson</recipientName>
+      <amount>1000</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Pete Stauber For Congress</payeeName>
+      <recipientName>Pete Stauber</recipientName>
+      <amount>2500</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Lisa Murkowski For US Senate</payeeName>
+      <recipientName>Lisa Murkowski</recipientName>
+      <amount>2500</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Gibbs For Congress</payeeName>
+      <recipientName>Robert Gibbs</recipientName>
+      <amount>2500</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Ann Wagner for Congress</payeeName>
+      <recipientName>Ann Wagner</recipientName>
+      <amount>2500</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Liz Cheney for Wyoming</payeeName>
+      <recipientName>Elizabeth Cheney</recipientName>
+      <amount>2500</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Balderson For Congress</payeeName>
+      <recipientName>Troy Balderson</recipientName>
+      <amount>2500</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Friends Of Mike Lee Inc</payeeName>
+      <recipientName>Mike Lee</recipientName>
+      <amount>2500</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Andy Barr for Congress, Inc.</payeeName>
+      <recipientName>Andy Barr</recipientName>
+      <amount>2500</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Brian Fitzpatrick For Congress</payeeName>
+      <recipientName>Brian Fitzpatrick</recipientName>
+      <amount>2500</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Latta For Congress</payeeName>
+      <recipientName>Bob Latta</recipientName>
+      <amount>2500</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Friends Of Hagedorn</payeeName>
+      <recipientName>James Hagedorn</recipientName>
+      <amount>2500</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Mike Kelly For Congress</payeeName>
+      <recipientName>Mike Kelly</recipientName>
+      <amount>5000</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Moolenaar For Congress</payeeName>
+      <recipientName>John Moolenaar</recipientName>
+      <amount>2500</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Mike Bost For Congress Committee</payeeName>
+      <recipientName>Mike Bost</recipientName>
+      <amount>2500</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Trey For Congress</payeeName>
+      <recipientName>Trey Hollingsworth</recipientName>
+      <amount>2500</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Dan Newhouse For Congress</payeeName>
+      <recipientName>Dan Newhouse</recipientName>
+      <amount>2500</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>BergmanForCongress</payeeName>
+      <recipientName>Jack Bergman</recipientName>
+      <amount>2500</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Graves for Congress</payeeName>
+      <recipientName>Samuel Graves</recipientName>
+      <amount>2500</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Kevin McCarthy for Congress</payeeName>
+      <recipientName>Kevin McCarthy</recipientName>
+      <amount>2500</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Cathy McMorris Rodgers for Congress</payeeName>
+      <recipientName>Cathy McMorris Rodgers</recipientName>
+      <amount>2500.00</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Lamborn for Congress</payeeName>
+      <recipientName>Doug Lamborn</recipientName>
+      <amount>1000</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Rodney for Congress</payeeName>
+      <recipientName>Rodney Davis</recipientName>
+      <amount>2500</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Mike Gallagher For Wisconsin</payeeName>
+      <recipientName>Michael Gallagher</recipientName>
+      <amount>2500</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Friends Of Todd Young, Inc.</payeeName>
+      <recipientName>Todd Young</recipientName>
+      <amount>2500</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Smucker For Congress</payeeName>
+      <recipientName>Lloyd Smucker</recipientName>
+      <amount>2500</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Dr John Joyce For Congress</payeeName>
+      <recipientName>John Joyce</recipientName>
+      <amount>2500</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Jaime for Congress</payeeName>
+      <recipientName>Jaime Herrera-Beutler</recipientName>
+      <amount>2500</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Idaho Conservative Growth Fund</payeeName>
+      <recipientName>Mike Crapo</recipientName>
+      <amount>5000</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Citizens for Prosperity in America Today PAC</payeeName>
+      <recipientName>Pat Toomey</recipientName>
+      <amount>3000</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Tuesday Group PAC</payeeName>
+      <recipientName>Tuesday Group PAC</recipientName>
+      <amount>5000</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Strategy PAC</payeeName>
+      <recipientName>Ron Johnson</recipientName>
+      <amount>2500</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Value in Electing Women PAC (VIEW PAC)</payeeName>
+      <recipientName>Value in Electing Women PAC (VIEW PAC)</recipientName>
+      <amount>5000</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Heartland Values PAC</payeeName>
+      <recipientName>John Thune</recipientName>
+      <amount>2500</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Badlands PAC</payeeName>
+      <recipientName>Kevin Cramer</recipientName>
+      <amount>2500</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Johnson for Congress</payeeName>
+      <recipientName>Bill Johnson</recipientName>
+      <amount>2500</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Republican Party of Kentucky - Federal Account</payeeName>
+      <recipientName>Republican Party of Kentucky</recipientName>
+      <amount>5000</amount>
+      <date>10/2/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>TERRI PAC</payeeName>
+      <recipientName>Terri Sewell</recipientName>
+      <amount>2500</amount>
+      <date>10/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Smart Solutions PAC</payeeName>
+      <recipientName>Jacklyn Rosen</recipientName>
+      <amount>2500</amount>
+      <date>11/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Meadows For Congress</payeeName>
+      <recipientName>Mark Meadows</recipientName>
+      <amount>2500</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Comer For Congress</payeeName>
+      <recipientName>James Comer</recipientName>
+      <amount>2500</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Debbie Lesko For Congress</payeeName>
+      <recipientName>Debbie Lesko</recipientName>
+      <amount>2500</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Innovation PAC</payeeName>
+      <recipientName>Patrick McHenry</recipientName>
+      <amount>2500</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Friends Of Ben McAdams</payeeName>
+      <recipientName>Ben McAdams</recipientName>
+      <amount>2500</amount>
+      <date>12/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Angie Craig For Congress</payeeName>
+      <recipientName>Angela Craig</recipientName>
+      <amount>2000</amount>
+      <date>12/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Mikie Sherrill For Congress</payeeName>
+      <recipientName>Rebecca Sherrill</recipientName>
+      <amount>1000</amount>
+      <date>12/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Donald Norcross For Congress</payeeName>
+      <recipientName>Donald Norcross</recipientName>
+      <amount>2500</amount>
+      <date>12/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Jobs and Innovation Matter PAC (JIM PAC)</payeeName>
+      <recipientName>Jim Himes</recipientName>
+      <amount>2000</amount>
+      <date>12/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>First State PAC</payeeName>
+      <recipientName>Thomas Carper</recipientName>
+      <amount>2000</amount>
+      <date>12/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Limitless Horizons</payeeName>
+      <recipientName>Tom O'Halleran</recipientName>
+      <amount>2500</amount>
+      <date>12/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>HoulaPAC</payeeName>
+      <recipientName>Chrissy Houlahan</recipientName>
+      <amount>2500</amount>
+      <date>12/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Debbie For Congress</payeeName>
+      <recipientName>Debbie Mucarsel-Powell</recipientName>
+      <amount>1500</amount>
+      <date>12/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Stephanie Murphy For Congress</payeeName>
+      <recipientName>Stephanie Murphy</recipientName>
+      <amount>2500</amount>
+      <date>12/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Jersey Values PAC</payeeName>
+      <recipientName>Joshua Gottheimer</recipientName>
+      <amount>2500</amount>
+      <date>12/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Connecticut Democratic State Central Committee</payeeName>
+      <recipientName>Connecticut Democratic State Central Committee</recipientName>
+      <amount>3000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Connecticut Republican Party</payeeName>
+      <recipientName>Connecticut Republican Party</recipientName>
+      <amount>5000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Mike Johnson For Louisiana</payeeName>
+      <recipientName>Mike Johnson</recipientName>
+      <amount>2500</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Cole For Congress</payeeName>
+      <recipientName>Thomas Cole</recipientName>
+      <amount>1500</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>William Timmons For Congress</payeeName>
+      <recipientName>William Timmons</recipientName>
+      <amount>1000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Friends to Elect Dr. Greg Murphy to Congress</payeeName>
+      <recipientName>Gregory Murphy</recipientName>
+      <amount>1000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Kustoff For Congress</payeeName>
+      <recipientName>David Kustoff</recipientName>
+      <amount>1000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Katko For Congress</payeeName>
+      <recipientName>John Katko</recipientName>
+      <amount>2500</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Tom Reed for Congress</payeeName>
+      <recipientName>Tom Reed</recipientName>
+      <amount>2500</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Drew Ferguson For Congress Inc.</payeeName>
+      <recipientName>A. Drew Ferguson</recipientName>
+      <amount>2500</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Friends Of Michael Guest</payeeName>
+      <recipientName>Michael Guest</recipientName>
+      <amount>1000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Zeldin For Congress</payeeName>
+      <recipientName>Lee Zeldin</recipientName>
+      <amount>2500</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Belief in Life and Liberty PAC (Bill's PAC)</payeeName>
+      <recipientName>Bill Johnson</recipientName>
+      <amount>2500</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>BRETT PAC</payeeName>
+      <recipientName>Brett Guthrie</recipientName>
+      <amount>2500</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Cathy McMorris Rodgers for Congress</payeeName>
+      <recipientName>Cathy McMorris Rodgers</recipientName>
+      <amount>2500</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Friends Of Dave Joyce</payeeName>
+      <recipientName>Dave Joyce</recipientName>
+      <amount>2000</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Rodney for Congress</payeeName>
+      <recipientName>Rodney Davis</recipientName>
+      <amount>2500</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Next Century Fund</payeeName>
+      <recipientName>Richard Burr</recipientName>
+      <amount>2500</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Tina Smith for Minnesota</payeeName>
+      <recipientName>Tina Smith</recipientName>
+      <amount>2500</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>Honorary Expenses</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>American Friends of Lubavitch</payeeName>
+      <recipientName>Steny Hoyer</recipientName>
+      <amount>25000</amount>
+      <date>8/8/2019</date>
+    </contribution>
+    <contribution>
+      <type>Honorary Expenses</type>
+      <contributorName>UNITEDHEALTH GROUP, INC.</contributorName>
+      <payeeName>Angerholzer Broz Consulting</payeeName>
+      <recipientName>Jim Clyburn</recipientName>
+      <amount>20000</amount>
+      <date>9/23/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

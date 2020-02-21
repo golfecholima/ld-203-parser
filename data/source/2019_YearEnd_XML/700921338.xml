@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>Capitol Counsel, LLC</organizationName>
+  <lobbyistPrefix>Mr.</lobbyistPrefix>
+  <lobbyistFirstName>AARON</lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>COHEN</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>313715</senateRegID>
+  <houseRegID>39384</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/27/2020 3:36:12 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>NRSC</payeeName>
+      <recipientName>National Republican Senatorial Committee</recipientName>
+      <amount>1875.00</amount>
+      <date>10/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>NRSC</payeeName>
+      <recipientName>National Republican Senatorial Committee</recipientName>
+      <amount>1875.00</amount>
+      <date>7/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Thom Tillis Committee</payeeName>
+      <recipientName>Senator Thom Tillis (R-NC)</recipientName>
+      <amount>1000.00</amount>
+      <date>8/1/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Common Values PAC</payeeName>
+      <recipientName>Senator John Barrasso (R-WY)</recipientName>
+      <amount>1500.00</amount>
+      <date>10/1/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Steve Daines for Senate</payeeName>
+      <recipientName>Senator Steve Daines (R-MT)</recipientName>
+      <amount>1000.00</amount>
+      <date>10/1/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Mike Crapo for US Senate</payeeName>
+      <recipientName>Senator Mike Crapo (R-ID)</recipientName>
+      <amount>1500.00</amount>
+      <date>11/1/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Bill Cassidy for US Senate</payeeName>
+      <recipientName>Senator Bill Cassidy (R-LA)</recipientName>
+      <amount>1000.00</amount>
+      <date>11/1/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Gardner for Senate</payeeName>
+      <recipientName>Senator Cory Gardner (R-CO)</recipientName>
+      <amount>1000.00</amount>
+      <date>12/1/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>McSally for Senate, Inc.</payeeName>
+      <recipientName>Senator Martha McSally (R-AZ)</recipientName>
+      <amount>1000.00</amount>
+      <date>12/1/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Reclaim America PAC</payeeName>
+      <recipientName>Senator Marco Rubio (R-FL)</recipientName>
+      <amount>2500.00</amount>
+      <date>12/1/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

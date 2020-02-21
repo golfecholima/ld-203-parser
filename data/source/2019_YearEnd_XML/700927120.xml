@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>KARL ROVE &amp; COMPANY</organizationName>
+  <lobbyistPrefix>Mr.</lobbyistPrefix>
+  <lobbyistFirstName>Karl</lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>Rove</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>401105238</senateRegID>
+  <houseRegID>44377</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>2/1/2020 6:27:20 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Feenstra for Congress</payeeName>
+      <recipientName>Randy Feenstra</recipientName>
+      <amount>1000.00</amount>
+      <date>08/14/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Elise for Congress</payeeName>
+      <recipientName>Elise Stefanik</recipientName>
+      <amount>2800.00</amount>
+      <date>9/25/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Sam Graves for Congress</payeeName>
+      <recipientName>Sam Graves</recipientName>
+      <amount>1000.00</amount>
+      <date>9/30/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Texans for Arrington</payeeName>
+      <recipientName>Jodey Arrington</recipientName>
+      <amount>500.00</amount>
+      <date>10/22/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>McCaul for Congress</payeeName>
+      <recipientName>Michael McCaul</recipientName>
+      <amount>1000.00</amount>
+      <date>12/3/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Roger Williams for Congress</payeeName>
+      <recipientName>Roger Williams</recipientName>
+      <amount>1000.00</amount>
+      <date>12/5/19</date>
+    </contribution>
+    <contribution>
+      <type>Presidential Library Expenses</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Eisenhower Presidential Library</payeeName>
+      <recipientName>Dwight D. Eisenhower</recipientName>
+      <amount>250.00</amount>
+      <date>9/3/19</date>
+    </contribution>
+    <contribution>
+      <type>Presidential Library Expenses</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Friends of LBJ Library</payeeName>
+      <recipientName>Lyndon Baines Johnson</recipientName>
+      <amount>250.00</amount>
+      <date>11/18/19</date>
+    </contribution>
+    <contribution>
+      <type>Presidential Library Expenses</type>
+      <contributorName>Self</contributorName>
+      <payeeName>George W. Bush Presidential Center</payeeName>
+      <recipientName>George W. Bush</recipientName>
+      <amount>25000.00</amount>
+      <date>12/13/19</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

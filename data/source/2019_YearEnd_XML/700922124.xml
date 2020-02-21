@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>FEROX STRATEGIES</organizationName>
+  <lobbyistPrefix>Ms.</lobbyistPrefix>
+  <lobbyistFirstName>CRISTINA</lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>ANTELO</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>401104769</senateRegID>
+  <houseRegID>43935</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/28/2020 1:35:12 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Democratic Senatorial Campaign Committee</payeeName>
+      <recipientName>Democratic Senatorial Campaign Committee</recipientName>
+      <amount>1392.00</amount>
+      <date>07/01/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Democratic Senatorial Campaign Committee</payeeName>
+      <recipientName>Democratic Senatorial Campaign Committee</recipientName>
+      <amount>1392.00</amount>
+      <date>08/01/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Democratic Congressional Campaign Committee</payeeName>
+      <recipientName>Democratic Congressional Campaign Committee</recipientName>
+      <amount>417.00</amount>
+      <date>07/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Democratic Congressional Campaign Committee</payeeName>
+      <recipientName>Democratic Congressional Campaign Committee</recipientName>
+      <amount>417.00</amount>
+      <date>08/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Democratic Congressional Campaign Committee</payeeName>
+      <recipientName>Democratic Congressional Campaign Committee</recipientName>
+      <amount>417.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Democratic Congressional Campaign Committee</payeeName>
+      <recipientName>Democratic Congressional Campaign Committee</recipientName>
+      <amount>417.00</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Democratic Congressional Campaign Committee</payeeName>
+      <recipientName>Democratic Congressional Campaign Committee</recipientName>
+      <amount>417.00</amount>
+      <date>11/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Democratic Congressional Campaign Committee</payeeName>
+      <recipientName>Democratic Congressional Campaign Committee</recipientName>
+      <amount>417.00</amount>
+      <date>12/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>BOLD PAC</payeeName>
+      <recipientName>BOLD PAC</recipientName>
+      <amount>209.00</amount>
+      <date>07/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>BOLD PAC</payeeName>
+      <recipientName>BOLD PAC</recipientName>
+      <amount>209.00</amount>
+      <date>08/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>BOLD PAC</payeeName>
+      <recipientName>BOLD PAC</recipientName>
+      <amount>209.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>BOLD PAC</payeeName>
+      <recipientName>BOLD PAC</recipientName>
+      <amount>209.00</amount>
+      <date>10/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>BOLD PAC</payeeName>
+      <recipientName>BOLD PAC</recipientName>
+      <amount>209.00</amount>
+      <date>11/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>BOLD PAC</payeeName>
+      <recipientName>BOLD PAC</recipientName>
+      <amount>209.00</amount>
+      <date>12/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>CBC PAC</payeeName>
+      <recipientName>CBC PAC</recipientName>
+      <amount>209.00</amount>
+      <date>07/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>CBC PAC</payeeName>
+      <recipientName>CBC PAC</recipientName>
+      <amount>209.00</amount>
+      <date>08/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>CBC PAC</payeeName>
+      <recipientName>CBC PAC</recipientName>
+      <amount>209.00</amount>
+      <date>09/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Sires for Congress</payeeName>
+      <recipientName>Albio Sires</recipientName>
+      <amount>500.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Vicente Gonzalez for Congress</payeeName>
+      <recipientName>Vicente Gonzalez</recipientName>
+      <amount>500.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Tony Cardenas for Congress</payeeName>
+      <recipientName>Tony Cardenas</recipientName>
+      <amount>250.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Dr. Raul Ruiz for Congress</payeeName>
+      <recipientName>Raul Ruiz</recipientName>
+      <amount>500.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Bridge the Gap PAC</payeeName>
+      <recipientName>Brad Schneider</recipientName>
+      <amount>250.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Spanberger for Congress</payeeName>
+      <recipientName>Abigail Spanberger</recipientName>
+      <amount>500.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Hickenlooper for Colorado</payeeName>
+      <recipientName>John Hickenlooper</recipientName>
+      <amount>500.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Val Demings for Congress</payeeName>
+      <recipientName>Val Demings</recipientName>
+      <amount>250.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>People for Ben</payeeName>
+      <recipientName>Ben Ray Lujan</recipientName>
+      <amount>500.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Sharice for Congress</payeeName>
+      <recipientName>Sharice Davids</recipientName>
+      <amount>500.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Debbie for Congress</payeeName>
+      <recipientName>Debbie Mucarsel Powell</recipientName>
+      <amount>500.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Cisneros for Congress</payeeName>
+      <recipientName>Gil Cisneros</recipientName>
+      <amount>250.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Casten for Congress</payeeName>
+      <recipientName>Sean Casten</recipientName>
+      <amount>500.00</amount>
+      <date>12/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Mike Levin for Congress</payeeName>
+      <recipientName>Mike Levin</recipientName>
+      <amount>250.00</amount>
+      <date>12/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Menendez for Senate</payeeName>
+      <recipientName>Bob Menendez</recipientName>
+      <amount>500.00</amount>
+      <date>12/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Antonio Delgado for Congress</payeeName>
+      <recipientName>Antonio Delgado</recipientName>
+      <amount>250.00</amount>
+      <date>12/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Colin Allred for Congress</payeeName>
+      <recipientName>Colin Allred</recipientName>
+      <amount>500.00</amount>
+      <date>12/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Brindisi for Congress</payeeName>
+      <recipientName>Anthony Brindisi</recipientName>
+      <amount>500.00</amount>
+      <date>12/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Elizabeth Pannill Fletcher for Congress</payeeName>
+      <recipientName>Lizzie Fletcher</recipientName>
+      <amount>500.00</amount>
+      <date>12/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Haley Stevens for Congress</payeeName>
+      <recipientName>Haley Stevens</recipientName>
+      <amount>500.00</amount>
+      <date>12/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Foxx for North Carolina</payeeName>
+      <recipientName>Rhonda Foxx</recipientName>
+      <amount>250.00</amount>
+      <date>12/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Veronica Escobar for Congress</payeeName>
+      <recipientName>Veronica Escobar</recipientName>
+      <amount>250.00</amount>
+      <date>12/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Gina Ortiz Jones for Congress</payeeName>
+      <recipientName>Gina Ortiz Jones</recipientName>
+      <amount>250.00</amount>
+      <date>12/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Friends of Bennie Thompson</payeeName>
+      <recipientName>Bennie Thompson</recipientName>
+      <amount>500.00</amount>
+      <date>07/30/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

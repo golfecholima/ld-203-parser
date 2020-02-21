@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>FUTURES INDUSTRY ASSOCIATION</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>Toby Celia Taylor</contactName>
+  <senateRegID>15678</senateRegID>
+  <houseRegID>30882</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/17/2020 4:04:11 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>FUTURES INDUSTRY POLITICAL ACTION COMMITTEE (FIPAC)</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>FUTURES INDUSTRY POLITICAL ACTION COMMITTEE (FIPAC)</contributorName>
+      <payeeName>David Scott for Congress</payeeName>
+      <recipientName>Representative David Scott</recipientName>
+      <amount>2500.00</amount>
+      <date>12/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Georgians for Kelly Loeffler</payeeName>
+      <recipientName>Sen. Kelly Loeffler</recipientName>
+      <amount>2500.00</amount>
+      <date>12/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Stabenow for Senate</payeeName>
+      <recipientName>Sen. Debbie Stabenow</recipientName>
+      <amount>5000.00</amount>
+      <date>12/10/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

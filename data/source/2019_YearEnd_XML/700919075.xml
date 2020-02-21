@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>Waste Management</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <zipext>
+  </zipext>
+  <contactName>John Skoutelas</contactName>
+  <senateRegID>40692</senateRegID>
+  <houseRegID>31634</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/22/2020 2:34:43 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>
+  </noContributions>
+  <pacs>
+    <pac>
+      <name>Waste Management Employees Better Government Fund</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Waste Management Employees Better Government Fund</contributorName>
+      <payeeName>Greg Raths for Congress</payeeName>
+      <recipientName>Greg Raths</recipientName>
+      <amount>1000</amount>
+      <date>7/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Waste Management Employees Better Government Fund</contributorName>
+      <payeeName>Scott For Congress</payeeName>
+      <recipientName>Rep. Robert Scott</recipientName>
+      <amount>2500</amount>
+      <date>7/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Waste Management Employees Better Government Fund</contributorName>
+      <payeeName>Stanton For Congress</payeeName>
+      <recipientName>Rep. Greg Stanton</recipientName>
+      <amount>1500</amount>
+      <date>7/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Waste Management Employees Better Government Fund</contributorName>
+      <payeeName>Doug Jones For Senate Committee</payeeName>
+      <recipientName>Sen. Doug Jones</recipientName>
+      <amount>1000</amount>
+      <date>8/1/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Waste Management Employees Better Government Fund</contributorName>
+      <payeeName>Rounds For Senate</payeeName>
+      <recipientName>Sen. Mike Rounds</recipientName>
+      <amount>2500</amount>
+      <date>8/1/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Waste Management Employees Better Government Fund</contributorName>
+      <payeeName>National Republican Senatorial Committee</payeeName>
+      <recipientName>National Republican Senatorial Committee</recipientName>
+      <amount>5000</amount>
+      <date>9/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Waste Management Employees Better Government Fund</contributorName>
+      <payeeName>Rodney For Congress</payeeName>
+      <recipientName>Rep. Rodney Davis</recipientName>
+      <amount>1000</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Waste Management Employees Better Government Fund</contributorName>
+      <payeeName>Rounds For Senate</payeeName>
+      <recipientName>Sen. Mike Rounds</recipientName>
+      <amount>2500</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Waste Management Employees Better Government Fund</contributorName>
+      <payeeName>Democratic Senatorial Campaign Committee</payeeName>
+      <recipientName>Democratic Senatorial Campaign Committee</recipientName>
+      <amount>5000</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Waste Management Employees Better Government Fund</contributorName>
+      <payeeName>Texans for Senator John Cornyn Inc</payeeName>
+      <recipientName>Sen. John Cornyn</recipientName>
+      <amount>2000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Waste Management Employees Better Government Fund</contributorName>
+      <payeeName>People for Patty Murray</payeeName>
+      <recipientName>Sen. Patty Murray</recipientName>
+      <amount>2000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Waste Management Employees Better Government Fund</contributorName>
+      <payeeName>Graves For Congress</payeeName>
+      <recipientName>Rep. Samuel Graves</recipientName>
+      <amount>1500</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Waste Management Employees Better Government Fund</contributorName>
+      <payeeName>Friends Of Jim Inhofe</payeeName>
+      <recipientName>Sen. Jim Inhofe</recipientName>
+      <amount>2000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Waste Management Employees Better Government Fund</contributorName>
+      <payeeName>Debbie Wasserman Schultz For Congress</payeeName>
+      <recipientName>Rep. Debbie Wasserman Schultz</recipientName>
+      <amount>1500</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Waste Management Employees Better Government Fund</contributorName>
+      <payeeName>Friends Of Maria</payeeName>
+      <recipientName>Sen. Maria Cantwell</recipientName>
+      <amount>2000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Waste Management Employees Better Government Fund</contributorName>
+      <payeeName>Hudson For Congress</payeeName>
+      <recipientName>Rep. Richard Hudson Jr.</recipientName>
+      <amount>1500</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Waste Management Employees Better Government Fund</contributorName>
+      <payeeName>Cathy McMorris Rodgers For Congress</payeeName>
+      <recipientName>Rep. Cathy McMorris Rodgers</recipientName>
+      <amount>2500</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Waste Management Employees Better Government Fund</contributorName>
+      <payeeName>Beatty For Congress</payeeName>
+      <recipientName>Rep. Joyce Beatty</recipientName>
+      <amount>1500</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Waste Management Employees Better Government Fund</contributorName>
+      <payeeName>Michael Burgess For Congress</payeeName>
+      <recipientName>Rep. Michael Burgess</recipientName>
+      <amount>1500</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Waste Management Employees Better Government Fund</contributorName>
+      <payeeName>Kay Granger Campaign Fund</payeeName>
+      <recipientName>Rep. Kay Granger</recipientName>
+      <amount>1500</amount>
+      <date>12/13/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

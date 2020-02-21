@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>SSAB Enterprises, LLC</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>Katie Larson</contactName>
+  <senateRegID>59216</senateRegID>
+  <houseRegID>35308</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>Address should be: 512 C Street, NE   Washington DC 20002</comments>
+  <signedDate>1/30/2020 5:40:59 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>SSAB Americas PAC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>SSAB Americas PAC</contributorName>
+      <payeeName>Cornyn Majority Committee</payeeName>
+      <recipientName>Senator John Cornyn</recipientName>
+      <amount>2500.00</amount>
+      <date>08/13/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>SSAB Americas PAC</contributorName>
+      <payeeName>SteelPAC</payeeName>
+      <recipientName>American Iron and Steel Association Political Action Committee</recipientName>
+      <amount>3000.00</amount>
+      <date>10/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>SSAB Americas PAC</contributorName>
+      <payeeName>Rob Portman for US Senate</payeeName>
+      <recipientName>Senator Rob Portman </recipientName>
+      <amount>1,000.00</amount>
+      <date>11/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>SSAB Americas PAC</contributorName>
+      <payeeName>Robert Aderholt for Congress</payeeName>
+      <recipientName>Congressman Robert Aderholt</recipientName>
+      <amount>1,000.00</amount>
+      <date>11/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>SSAB Americas PAC</contributorName>
+      <payeeName>Terri Sewell for Congress</payeeName>
+      <recipientName>Congresswoman Terri Sewell</recipientName>
+      <amount>500.00</amount>
+      <date>11/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>SSAB Americas PAC</contributorName>
+      <payeeName>Friends of Sherrod Brown</payeeName>
+      <recipientName>Senator Sherrod Brown</recipientName>
+      <amount>1000.00</amount>
+      <date>12/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>SSAB Americas PAC</contributorName>
+      <payeeName>SMA PAC</payeeName>
+      <recipientName>Steel Manufacturers Association Political Action Committee</recipientName>
+      <amount>3000.00</amount>
+      <date>12/16/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

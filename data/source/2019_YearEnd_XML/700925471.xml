@@ -1,0 +1,1086 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>Amgen, Inc.</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <zipext>
+  </zipext>
+  <contactName>Victoria Blatter</contactName>
+  <senateRegID>3867</senateRegID>
+  <houseRegID>31560</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/30/2020 2:42:40 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>AMGEN PAC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Common Values PAC</payeeName>
+      <recipientName>Barrasso, John</recipientName>
+      <amount>5000</amount>
+      <date>7/8/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Drew Ferguson For Congress Inc.</payeeName>
+      <recipientName>Ferguson, A. Drew</recipientName>
+      <amount>2000</amount>
+      <date>7/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Bill Foster For Congress</payeeName>
+      <recipientName>Foster, Bill</recipientName>
+      <amount>1000</amount>
+      <date>7/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>21st Century Majority Fund</payeeName>
+      <recipientName>Isakson, Johnny</recipientName>
+      <amount>2000</amount>
+      <date>7/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Mike Kelly For Congress</payeeName>
+      <recipientName>Kelly, Mike</recipientName>
+      <amount>1500</amount>
+      <date>7/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Stand With Sanchez</payeeName>
+      <recipientName>Sanchez, Linda</recipientName>
+      <amount>2500</amount>
+      <date>7/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Tomorrow is Meaningful PAC - TIM PAC</payeeName>
+      <recipientName>Scott, Tim</recipientName>
+      <amount>5000</amount>
+      <date>7/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Friends Of John Thune</payeeName>
+      <recipientName>Thune, John</recipientName>
+      <amount>1500</amount>
+      <date>7/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Friends Of Pat Toomey</payeeName>
+      <recipientName>Toomey, Pat</recipientName>
+      <amount>1000</amount>
+      <date>7/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Republican Party of Texas - Federal Account</payeeName>
+      <recipientName>Republican Party of Texas - Federal Account</recipientName>
+      <amount>1000</amount>
+      <date>7/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Barragan For Congress</payeeName>
+      <recipientName>Barragan, Nanette</recipientName>
+      <amount>2500</amount>
+      <date>7/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Making A Responsible Stand For Households In America (MARSHA PAC)</payeeName>
+      <recipientName>Blackburn, Marsha</recipientName>
+      <amount>2500</amount>
+      <date>7/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Friends Of Jim Clyburn</payeeName>
+      <recipientName>Clyburn, James</recipientName>
+      <amount>1500</amount>
+      <date>7/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Vicente Gonzalez For Congress</payeeName>
+      <recipientName>Gonzalez, Vicente</recipientName>
+      <amount>1000</amount>
+      <date>7/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Fund for America's Future</payeeName>
+      <recipientName>Graham, Lindsay</recipientName>
+      <amount>2500</amount>
+      <date>7/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Republican Party of Kentucky</payeeName>
+      <recipientName>Republican Party of Kentucky</recipientName>
+      <amount>2500</amount>
+      <date>7/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Republican Party of Kentucky</payeeName>
+      <recipientName>Republican Party of Kentucky</recipientName>
+      <amount>2500</amount>
+      <date>7/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Tom Rice For Congress</payeeName>
+      <recipientName>Rice, Tom</recipientName>
+      <amount>2500</amount>
+      <date>7/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Haley Stevens For Congress</payeeName>
+      <recipientName>Stevens, Haley</recipientName>
+      <amount>1000</amount>
+      <date>7/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Friends Of Dan Kildee</payeeName>
+      <recipientName>Kildee, Dan</recipientName>
+      <amount>2500</amount>
+      <date>8/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>McConnell Senate Committee</payeeName>
+      <recipientName>McConnell, Mitch</recipientName>
+      <amount>2500</amount>
+      <date>8/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Jason Smith For Congress</payeeName>
+      <recipientName>Smith, Jason</recipientName>
+      <amount>1000</amount>
+      <date>8/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Thom Tillis Committee</payeeName>
+      <recipientName>Tillis, Thom</recipientName>
+      <amount>1000</amount>
+      <date>8/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Rosen for Nevada</payeeName>
+      <recipientName>Rosen, Jacky</recipientName>
+      <amount>2500</amount>
+      <date>8/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Friends Of Mazie Hirono</payeeName>
+      <recipientName>Hirono, Mazie</recipientName>
+      <amount>2500</amount>
+      <date>9/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Friends Of John Barrasso</payeeName>
+      <recipientName>Barrasso, John</recipientName>
+      <amount>1000</amount>
+      <date>9/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Collins For Congress</payeeName>
+      <recipientName>Collins, Doug</recipientName>
+      <amount>1000</amount>
+      <date>9/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Rodney For Congress</payeeName>
+      <recipientName>Davis, Rodney</recipientName>
+      <amount>2500</amount>
+      <date>9/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Guthrie For Congress</payeeName>
+      <recipientName>Guthrie, Brett</recipientName>
+      <amount>2500</amount>
+      <date>9/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Families For James Lankford</payeeName>
+      <recipientName>Lankford, James</recipientName>
+      <amount>2500</amount>
+      <date>9/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Mullin For Congress</payeeName>
+      <recipientName>Mullin, Markwayne</recipientName>
+      <amount>2500</amount>
+      <date>9/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Perdue For Senate</payeeName>
+      <recipientName>Perdue, David</recipientName>
+      <amount>2500</amount>
+      <date>9/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Healthcare Freedom Fund</payeeName>
+      <recipientName>Roe, Phil</recipientName>
+      <amount>2500</amount>
+      <date>9/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Volunteers For Shimkus</payeeName>
+      <recipientName>Shimkus, John</recipientName>
+      <amount>3500</amount>
+      <date>9/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Together Holding Our Majority PAC (THOMPAC)</payeeName>
+      <recipientName>Tillis, Thom</recipientName>
+      <amount>4000</amount>
+      <date>9/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Tony Cardenas For Congress</payeeName>
+      <recipientName>Cardenas, Tony</recipientName>
+      <amount>1000</amount>
+      <date>9/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>CHC BOLD PAC</payeeName>
+      <recipientName>Carendas, Tony</recipientName>
+      <amount>5000</amount>
+      <date>9/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Bilirakis For Congress</payeeName>
+      <recipientName>Bilirakis, Gus</recipientName>
+      <amount>1000</amount>
+      <date>9/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Collins For Senator</payeeName>
+      <recipientName>Collins, Susan</recipientName>
+      <amount>1000</amount>
+      <date>9/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Collins For Senator</payeeName>
+      <recipientName>Collins, Susan</recipientName>
+      <amount>1500</amount>
+      <date>9/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>BRETTPAC</payeeName>
+      <recipientName>Guthrie, Brett</recipientName>
+      <amount>5000</amount>
+      <date>9/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Friends Of Bennie Thompson</payeeName>
+      <recipientName>Thompson, Bennie</recipientName>
+      <amount>1000</amount>
+      <date>9/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Lisa Blunt Rochester For Congress</payeeName>
+      <recipientName>Blunt Rochester, Lisa</recipientName>
+      <amount>1000</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Kind For Congress Committee</payeeName>
+      <recipientName>Kind, Ron</recipientName>
+      <amount>2500</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>BadgerPAC</payeeName>
+      <recipientName>Kind, Ron</recipientName>
+      <amount>2500</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Leadership And Accountability Are National Keys PAC</payeeName>
+      <recipientName>Lankford, James</recipientName>
+      <amount>1500</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Friends Of Mike Lee Inc</payeeName>
+      <recipientName>Lee, Mike</recipientName>
+      <amount>1000</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Stephanie Murphy For Congress</payeeName>
+      <recipientName>Murphy, Stephanie</recipientName>
+      <amount>1000</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Sinema For Arizona</payeeName>
+      <recipientName>Sinema, Krysten</recipientName>
+      <amount>1500</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Friends Of John Thune</payeeName>
+      <recipientName>Thune, John</recipientName>
+      <amount>1500</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Citizens for Prosperity in America Today PAC</payeeName>
+      <recipientName>Toomey, Pat</recipientName>
+      <amount>1000</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Collins For Congress</payeeName>
+      <recipientName>Collins, Doug</recipientName>
+      <amount>1000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Grassley Committee Inc</payeeName>
+      <recipientName>Grassley, Charles</recipientName>
+      <amount>1000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Morgan Griffith For Congress</payeeName>
+      <recipientName>Griffith, Morgan</recipientName>
+      <amount>1000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Guthrie For Congress</payeeName>
+      <recipientName>Guthrie, Brett</recipientName>
+      <amount>2500</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Chrissy Houlahan For Congress</payeeName>
+      <recipientName>Houlahan, Chrissy</recipientName>
+      <amount>1000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>AMERIPAC: The Fund For A Greater America</payeeName>
+      <recipientName>Hoyer, Steny</recipientName>
+      <amount>1500</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Billy Long For Congress</payeeName>
+      <recipientName>Long, Billy</recipientName>
+      <amount>2500</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>ASPIRE PAC</payeeName>
+      <recipientName>Meng, Grace</recipientName>
+      <amount>1000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Eye of the Tiger Political Action Committee, The</payeeName>
+      <recipientName>Scalise, Steve</recipientName>
+      <amount>5000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Walberg For Congress</payeeName>
+      <recipientName>Walberg, Tim</recipientName>
+      <amount>2500</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Ron Estes For Congress</payeeName>
+      <recipientName>Estes, Ron</recipientName>
+      <amount>2000</amount>
+      <date>9/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>George Holding For Congress Inc.</payeeName>
+      <recipientName>Holding, George</recipientName>
+      <amount>2500</amount>
+      <date>9/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Doug Lamalfa Committee</payeeName>
+      <recipientName>Lamalfa, Doug</recipientName>
+      <amount>1000</amount>
+      <date>9/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Cathy McMorris Rodgers For Congress</payeeName>
+      <recipientName>McMorris Rodgers, Cathy</recipientName>
+      <amount>2500</amount>
+      <date>9/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>McSally For Senate Inc</payeeName>
+      <recipientName>McSally, Martha</recipientName>
+      <amount>1000</amount>
+      <date>9/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Ralph Norman For Congress</payeeName>
+      <recipientName>Norman, Ralph</recipientName>
+      <amount>1000</amount>
+      <date>9/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Greg Pence For Congress</payeeName>
+      <recipientName>Pence, Gregory</recipientName>
+      <amount>1000</amount>
+      <date>9/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Wenstrup For Congress</payeeName>
+      <recipientName>Wenstrup, Brad</recipientName>
+      <amount>1000</amount>
+      <date>9/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Next Century Fund</payeeName>
+      <recipientName>Burr, Richard</recipientName>
+      <amount>1000</amount>
+      <date>10/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Gallego For Arizona</payeeName>
+      <recipientName>Gallego, Ruben</recipientName>
+      <amount>1000</amount>
+      <date>10/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Friends Of Jim Inhofe</payeeName>
+      <recipientName>Inhofe, James</recipientName>
+      <amount>2500</amount>
+      <date>10/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Romney For Utah Inc</payeeName>
+      <recipientName>Romney, Mitt</recipientName>
+      <amount>2500</amount>
+      <date>10/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Marco Rubio For Senate</payeeName>
+      <recipientName>Rubio, Marco</recipientName>
+      <amount>2000</amount>
+      <date>10/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Adrian Smith For Congress</payeeName>
+      <recipientName>Smith, Adrian</recipientName>
+      <amount>2500</amount>
+      <date>10/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Walker 4 NC</payeeName>
+      <recipientName>Walker, Mark</recipientName>
+      <amount>1000</amount>
+      <date>10/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Blue Dog PAC</payeeName>
+      <recipientName>Blue Dog PAC</recipientName>
+      <amount>5000</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Anthony Brown For Congress</payeeName>
+      <recipientName>Brown, Anthony</recipientName>
+      <amount>1000</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Val Demings For Congress</payeeName>
+      <recipientName>Demings, Val</recipientName>
+      <amount>1000</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Hoeven For Senate</payeeName>
+      <recipientName>Hoeven, John</recipientName>
+      <amount>500</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Hoeven For Senate</payeeName>
+      <recipientName>Hoeven, John</recipientName>
+      <amount>500</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Rounds For Senate</payeeName>
+      <recipientName>Rounds, Mike</recipientName>
+      <amount>2000</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Citizens for Prosperity in America Today PAC</payeeName>
+      <recipientName>Toomey, Pat</recipientName>
+      <amount>1500</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Marc Veasey Congressional Campaign Committee</payeeName>
+      <recipientName>Veasey, Marc</recipientName>
+      <amount>2000</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>New Democrat Coalition Action Fund</payeeName>
+      <recipientName>New Democrat Coalition Action Fund</recipientName>
+      <amount>5000</amount>
+      <date>11/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Kurt Schrader For Congress</payeeName>
+      <recipientName>Schrader, Kurt</recipientName>
+      <amount>2500</amount>
+      <date>11/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Todos Con Jenniffer Inc. Dba Jenniffer For Congress</payeeName>
+      <recipientName>Gonzalez Colon, Jenniffer</recipientName>
+      <amount>3500</amount>
+      <date>11/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Bucshon For Congress</payeeName>
+      <recipientName>Bucshon, Larry</recipientName>
+      <amount>2500</amount>
+      <date>11/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Bucshon For Congress</payeeName>
+      <recipientName>Bucshon, Larry</recipientName>
+      <amount>1000</amount>
+      <date>11/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Cole For Congress</payeeName>
+      <recipientName>Cole, Thomas</recipientName>
+      <amount>2500</amount>
+      <date>11/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Project West Political Action Committee</payeeName>
+      <recipientName>Gardner, Cory</recipientName>
+      <amount>5000</amount>
+      <date>11/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Martin Heinrich For Senate</payeeName>
+      <recipientName>Heinrich, Martin</recipientName>
+      <amount>2500</amount>
+      <date>11/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>First in Freedom PAC</payeeName>
+      <recipientName>Hudson, Richard</recipientName>
+      <amount>2500</amount>
+      <date>11/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Mike Kelly For Congress</payeeName>
+      <recipientName>Kelly, Mike</recipientName>
+      <amount>1500</amount>
+      <date>11/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Mike Kelly For Congress</payeeName>
+      <recipientName>Kelly, Mike</recipientName>
+      <amount>1000</amount>
+      <date>11/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Sean Patrick Maloney For Congress</payeeName>
+      <recipientName>Maloney, Sean</recipientName>
+      <amount>2000</amount>
+      <date>11/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Moderate Democrats PAC</payeeName>
+      <recipientName>Moderate Democrats PAC</recipientName>
+      <amount>5000</amount>
+      <date>11/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Mullin For Congress</payeeName>
+      <recipientName>Mullin, Markwayne</recipientName>
+      <amount>1000</amount>
+      <date>11/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Lisa Murkowski For US Senate</payeeName>
+      <recipientName>Murkowski, Lisa</recipientName>
+      <amount>1000</amount>
+      <date>11/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>People For Patty Murray</payeeName>
+      <recipientName>Murray, Patty</recipientName>
+      <amount>2500</amount>
+      <date>11/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>People For Patty Murray</payeeName>
+      <recipientName>Murray, Patty</recipientName>
+      <amount>2500</amount>
+      <date>11/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Scott Peters For Congress</payeeName>
+      <recipientName>Peters, Scott</recipientName>
+      <amount>1000</amount>
+      <date>11/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Republican Party of Texas - Federal Account</payeeName>
+      <recipientName>Republican Party of Texas - Federal Account</recipientName>
+      <amount>4000</amount>
+      <date>11/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Kurt Schrader For Congress</payeeName>
+      <recipientName>Schrader, Kurt</recipientName>
+      <amount>1500</amount>
+      <date>11/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Kurt Schrader For Congress</payeeName>
+      <recipientName>Schrader, Kurt</recipientName>
+      <amount>1000</amount>
+      <date>11/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Greg Steube For Congress</payeeName>
+      <recipientName>Steube, Greg</recipientName>
+      <amount>1000</amount>
+      <date>11/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Walker 4 NC</payeeName>
+      <recipientName>Walker, Mark</recipientName>
+      <amount>4000</amount>
+      <date>11/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Walker 4 NC</payeeName>
+      <recipientName>Walker, Mark</recipientName>
+      <amount>1000</amount>
+      <date>11/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Texans For Jodey Arrington</payeeName>
+      <recipientName>Arrington, Jodey</recipientName>
+      <amount>2000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Making A Responsible Stand For Households In America (MARSHA PAC)</payeeName>
+      <recipientName>Blackburn, Marsha</recipientName>
+      <amount>1500</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Lone Star Leadership PAC</payeeName>
+      <recipientName>Burgess, Michael</recipientName>
+      <amount>2500</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Carper For Senate</payeeName>
+      <recipientName>Carper, Thomas</recipientName>
+      <amount>1000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Buddy Carter For Congress</payeeName>
+      <recipientName>Carter, Buddy</recipientName>
+      <amount>2500</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Steve Daines For Montana</payeeName>
+      <recipientName>Daines, Steven</recipientName>
+      <amount>1000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Conservative Roundtable</payeeName>
+      <recipientName>Holding, George</recipientName>
+      <amount>2500</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Hudson For Congress</payeeName>
+      <recipientName>Hudson, Richard</recipientName>
+      <amount>2500</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Kentucky Democratic Party</payeeName>
+      <recipientName>Kentucky Democratic Party</recipientName>
+      <amount>2500</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Billy Long For Congress</payeeName>
+      <recipientName>Long, Billy</recipientName>
+      <amount>2500</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Cathy McMorris Rodgers For Congress</payeeName>
+      <recipientName>McMorris Rodgers, Cathy</recipientName>
+      <amount>2500</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>McSally For Senate Inc</payeeName>
+      <recipientName>McSally, Martha</recipientName>
+      <amount>2000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>McSally For Senate Inc</payeeName>
+      <recipientName>McSally, Martha</recipientName>
+      <amount>1000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Alex Mooney For Congress</payeeName>
+      <recipientName>Mooney, Alex</recipientName>
+      <amount>1500</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Lisa Murkowski For US Senate</payeeName>
+      <recipientName>Murkowski, Lisa</recipientName>
+      <amount>2000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Narragansett Bay PAC</payeeName>
+      <recipientName>Reed, Jack</recipientName>
+      <amount>5000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Tim Scott For Senate</payeeName>
+      <recipientName>Scott, Timothy</recipientName>
+      <amount>2500</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Greg Steube For Congress</payeeName>
+      <recipientName>Steube, Greg</recipientName>
+      <amount>1000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AMGEN PAC</contributorName>
+      <payeeName>Upton For All Of Us</payeeName>
+      <recipientName>Upton, Frederick</recipientName>
+      <amount>2500</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>Honorary Expenses</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Horton's Kids</payeeName>
+      <recipientName>Sen. Chris Murphy, and Reps. Jim Clyburn, Kevin McCarthy, Kevin Brady, and Cheri Bustos</recipientName>
+      <amount>5000.00</amount>
+      <date>11/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>Honorary Expenses</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Congressional Hispanic Caucus Institute</payeeName>
+      <recipientName>Reps. Ruben Gallego (Board Chair), Pete Aguilar, Jimmy Gomez, Grace Flores Napolitano, Raul Ruiz, and Juan Vargas</recipientName>
+      <amount>85000.00</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>Honorary Expenses</type>
+      <contributorName>Self</contributorName>
+      <payeeName>APAICS Leadership Network Inc.</payeeName>
+      <recipientName>Rep. Judy Chu</recipientName>
+      <amount>30000.00</amount>
+      <date>11/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>Honorary Expenses</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Congressional Black Caucus Foundation</payeeName>
+      <recipientName>Reps. Cedric Richmond, Joyce Beatty, Emanuel Cleaver, Dwight Evans, Marcia Fudge, Alcee Hastings, Sheila Jackson Lee, and Barbara Lee</recipientName>
+      <amount>35000.00</amount>
+      <date>09/24/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

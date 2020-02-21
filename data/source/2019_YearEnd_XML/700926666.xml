@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>American Society of Health-System Pharmacists</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <zipext>
+  </zipext>
+  <contactName>Thomas Kraus</contactName>
+  <senateRegID>3457</senateRegID>
+  <houseRegID>31550</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/31/2020 9:55:45 AM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>LISA BLUNT ROCHESTER FOR CONGRESS</payeeName>
+      <recipientName>Rep. Lisa Blunt Rochester (DE-AL)</recipientName>
+      <amount>5000.00</amount>
+      <date>09/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>LISA BLUNT ROCHESTER FOR CONGRESS</payeeName>
+      <recipientName>Rep. Lisa Blunt Rochester (DE-AL)</recipientName>
+      <amount>5000.00</amount>
+      <date>09/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Rosen for Nevada</payeeName>
+      <recipientName>Sen. Jacky Rosen (NV)</recipientName>
+      <amount>5000.00</amount>
+      <date>11/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>STEVE DAINES FOR MONTANA</payeeName>
+      <recipientName>Sen. Steve Daines (MT)</recipientName>
+      <amount>5000.00</amount>
+      <date>11/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Buddy Carter for Congress</payeeName>
+      <recipientName>Rep. Earl "Buddy" Carter (GA-1)</recipientName>
+      <amount>1500.00</amount>
+      <date>11/27/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

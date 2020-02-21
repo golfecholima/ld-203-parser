@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>K&amp;L GATES LLP</organizationName>
+  <lobbyistPrefix>Mr.</lobbyistPrefix>
+  <lobbyistFirstName>Jeffrey</lobbyistFirstName>
+  <lobbyistMiddleName>J.</lobbyistMiddleName>
+  <lobbyistLastName>Denham</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>32098</senateRegID>
+  <houseRegID>31355</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/10/2020 4:53:55 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>Jeff PAC</name>
+    </pac>
+    <pac>
+      <name>Jeff Denham for Congress</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Jeff PAC</contributorName>
+      <payeeName>Trump Victory</payeeName>
+      <recipientName>Trump Victory</recipientName>
+      <amount>5600.00</amount>
+      <date>07/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Jeff PAC</contributorName>
+      <payeeName>Rodney for Congress</payeeName>
+      <recipientName>Rep. Rodney Davis</recipientName>
+      <amount>2500.00</amount>
+      <date>07/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Jeff PAC</contributorName>
+      <payeeName>Friends of Dave Joyce</payeeName>
+      <recipientName>Rep. Dave Joyce</recipientName>
+      <amount>2000.00</amount>
+      <date>07/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Jeff PAC</contributorName>
+      <payeeName>McClintock for Congress</payeeName>
+      <recipientName>Rep. Tom McClintock</recipientName>
+      <amount>1000.00</amount>
+      <date>07/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Jeff Denham for Congress</contributorName>
+      <payeeName>Gardner for Senate</payeeName>
+      <recipientName>Senator Cory Gardner</recipientName>
+      <amount>1000.00</amount>
+      <date>11/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Jeff Denham for Congress</contributorName>
+      <payeeName>Ripon Society</payeeName>
+      <recipientName>Ripon Society</recipientName>
+      <amount>5000.00</amount>
+      <date>10/15/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

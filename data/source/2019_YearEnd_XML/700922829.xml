@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>FLIR Systems, Inc. and Subsidiaries</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>Lisa W Garavanta</contactName>
+  <senateRegID>401104326</senateRegID>
+  <houseRegID>43527</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/29/2020 10:25:58 AM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>
+  </noContributions>
+  <pacs>
+    <pac>
+      <name>FLIR Systems Inc. Employees Political Action Committee (FLIRPAC)</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>FLIR Systems Inc. Employees Political Action Committee (FLIRPAC)</contributorName>
+      <payeeName>Dutch Ruppersberger for Congress Committee</payeeName>
+      <recipientName>Dutch Ruppersberger</recipientName>
+      <amount>1000</amount>
+      <date>11/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>FLIR Systems Inc. Employees Political Action Committee (FLIRPAC)</contributorName>
+      <payeeName>Citizens for Prosperity in America Today PAC</payeeName>
+      <recipientName>Patrick Toomey</recipientName>
+      <amount>3000</amount>
+      <date>11/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>FLIR Systems Inc. Employees Political Action Committee (FLIRPAC)</contributorName>
+      <payeeName>Hal Rogers for Congress</payeeName>
+      <recipientName>Hal Rogers</recipientName>
+      <amount>2500</amount>
+      <date>11/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>FLIR Systems Inc. Employees Political Action Committee (FLIRPAC)</contributorName>
+      <payeeName>Georgia PAC</payeeName>
+      <recipientName>John Thomas Graves</recipientName>
+      <amount>5000</amount>
+      <date>11/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>FLIR Systems Inc. Employees Political Action Committee (FLIRPAC)</contributorName>
+      <payeeName>Jim Costa for Congress</payeeName>
+      <recipientName>Jim Costa</recipientName>
+      <amount>1000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>FLIR Systems Inc. Employees Political Action Committee (FLIRPAC)</contributorName>
+      <payeeName>Steve Daines for Montana</payeeName>
+      <recipientName>Steve Daines</recipientName>
+      <amount>1000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>FLIR Systems Inc. Employees Political Action Committee (FLIRPAC)</contributorName>
+      <payeeName>Hoops PAC</payeeName>
+      <recipientName>Ron Wyden</recipientName>
+      <amount>3000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>FLIR Systems Inc. Employees Political Action Committee (FLIRPAC)</contributorName>
+      <payeeName>Believe in Life Liberty Yourself (BILLY PAC)</payeeName>
+      <recipientName>Billy Long</recipientName>
+      <amount>5000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>FLIR Systems Inc. Employees Political Action Committee (FLIRPAC)</contributorName>
+      <payeeName>Val Demings for Congress</payeeName>
+      <recipientName>Val Demmings</recipientName>
+      <amount>2000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

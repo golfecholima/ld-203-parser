@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>Windstream Services LLC</organizationName>
+  <lobbyistPrefix>Mr.</lobbyistPrefix>
+  <lobbyistFirstName>Steven</lobbyistFirstName>
+  <lobbyistMiddleName>D</lobbyistMiddleName>
+  <lobbyistLastName>Long</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>316376</senateRegID>
+  <houseRegID>39294</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/29/2020 7:08:50 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Victory Fund Fed PAC</payeeName>
+      <recipientName>Various -- These 6 U.S. House Members were identified as honorees/guests: Rep. David Cicilline, Rep. Angie Craig, Rep. Sharice Davids, Rep. Katie Hill, Rep. Sean Patrick Maloney, &amp; Rep. Chris Pappas</recipientName>
+      <amount>250.00</amount>
+      <date>09/13/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

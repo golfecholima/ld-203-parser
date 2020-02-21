@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>Van Ness Feldman, LLP</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <zipext>
+  </zipext>
+  <contactName>Danielle Mercurio</contactName>
+  <senateRegID>39815</senateRegID>
+  <houseRegID>30171</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/29/2020 5:16:46 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>Van Ness Feldman LLP Political Action Committee</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Van Ness Feldman LLP Political Action Committee</contributorName>
+      <payeeName>Alaskans for Don Young</payeeName>
+      <recipientName>Rep. Don Young</recipientName>
+      <amount>1000.00</amount>
+      <date>10/22/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Van Ness Feldman LLP Political Action Committee</contributorName>
+      <payeeName>Cramer for Senate</payeeName>
+      <recipientName>Sen. Kevin Cramer</recipientName>
+      <amount>1000.00</amount>
+      <date>10/22/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Van Ness Feldman LLP Political Action Committee</contributorName>
+      <payeeName>DelBene for Congress</payeeName>
+      <recipientName>Rep. Suzan DelBene</recipientName>
+      <amount>1000.00</amount>
+      <date>10/22/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Van Ness Feldman LLP Political Action Committee</contributorName>
+      <payeeName>Garret Graves for Congress</payeeName>
+      <recipientName>Rep. Garret Graves</recipientName>
+      <amount>500.00</amount>
+      <date>10/15/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Van Ness Feldman LLP Political Action Committee</contributorName>
+      <payeeName>Hoeven for Senate</payeeName>
+      <recipientName>Sen. John Hoeven</recipientName>
+      <amount>1000.00</amount>
+      <date>10/22/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Van Ness Feldman LLP Political Action Committee</contributorName>
+      <payeeName>Paul Tonko for Congress</payeeName>
+      <recipientName>Rep. Paul Tonko</recipientName>
+      <amount>500.00</amount>
+      <date>9/16/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Van Ness Feldman LLP Political Action Committee</contributorName>
+      <payeeName>Shaheen for Senate</payeeName>
+      <recipientName>Sen. Jeanne Shaheen</recipientName>
+      <amount>1000.00</amount>
+      <date>9/16/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Van Ness Feldman LLP Political Action Committee</contributorName>
+      <payeeName>Walden for Congress</payeeName>
+      <recipientName>Rep. Greg Walden</recipientName>
+      <amount>2500.00</amount>
+      <date>9/16/19</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

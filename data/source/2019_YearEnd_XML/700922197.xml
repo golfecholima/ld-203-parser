@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>Dunkin' Brands, Inc.</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>Ashley Coneff</contactName>
+  <senateRegID>400286365</senateRegID>
+  <houseRegID>40178</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/28/2020 2:14:26 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>Dunkin' Brands, Inc. Political Action Committee</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dunkin' Brands, Inc. Political Action Committee</contributorName>
+      <payeeName>Cory Gardner for Senate</payeeName>
+      <recipientName>Cory Gardner</recipientName>
+      <amount>1000.00</amount>
+      <date>8/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dunkin' Brands, Inc. Political Action Committee</contributorName>
+      <payeeName>Stephanie Murphy for Congress</payeeName>
+      <recipientName>Stephanie Murphy</recipientName>
+      <amount>5000.00</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dunkin' Brands, Inc. Political Action Committee</contributorName>
+      <payeeName>Richard E Neal for Congress Committee</payeeName>
+      <recipientName>Richard Neal</recipientName>
+      <amount>2500.00</amount>
+      <date>10/1/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dunkin' Brands, Inc. Political Action Committee</contributorName>
+      <payeeName>Scalise Leadership Fund</payeeName>
+      <recipientName>Joint Fundraising Committee of Eye of the Tiger Political Action Committee (Rep. Scalise Leadership PAC), National Republican Congressional Committee and Scalise for Congress </recipientName>
+      <amount>2500.00</amount>
+      <date>10/2/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dunkin' Brands, Inc. Political Action Committee</contributorName>
+      <payeeName>McConnell Senate Committee</payeeName>
+      <recipientName>Mitch McConnell</recipientName>
+      <amount>2500.00</amount>
+      <date>12/12/19</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

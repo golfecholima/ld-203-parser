@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>American College of Physician Services, Inc.</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>JONNI MCCRANN</contactName>
+  <contactPhone>
+  </contactPhone>
+  <senateRegID>311451</senateRegID>
+  <houseRegID>40002</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/28/2020 10:27:16 AM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>
+  </noContributions>
+  <pacs>
+    <pac>
+      <name>ACP SERVICES PAC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ACP SERVICES PAC</contributorName>
+      <payeeName>Buddy Carter for Congress</payeeName>
+      <recipientName>Earl L. Carter</recipientName>
+      <amount>2500</amount>
+      <date>07/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ACP SERVICES PAC</contributorName>
+      <payeeName>Kurt Schrader for Congress</payeeName>
+      <recipientName>Kurt Schrader</recipientName>
+      <amount>2000</amount>
+      <date>07/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ACP SERVICES PAC</contributorName>
+      <payeeName>Mullin for Congress</payeeName>
+      <recipientName>Markwayne Mullin</recipientName>
+      <amount>2000</amount>
+      <date>07/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ACP SERVICES PAC</contributorName>
+      <payeeName>Friends of Dan Kildee</payeeName>
+      <recipientName>Dan Kildee</recipientName>
+      <amount>1000</amount>
+      <date>07/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ACP SERVICES PAC</contributorName>
+      <payeeName>Pascrell for Congress</payeeName>
+      <recipientName>Bill Pascrell</recipientName>
+      <amount>1000</amount>
+      <date>07/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ACP SERVICES PAC</contributorName>
+      <payeeName>Bilirakis for Congress</payeeName>
+      <recipientName>Gus Bilirakis</recipientName>
+      <amount>1000</amount>
+      <date>07/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ACP SERVICES PAC</contributorName>
+      <payeeName>People for Ben</payeeName>
+      <recipientName>Ben Ray Lujan</recipientName>
+      <amount>1000</amount>
+      <date>08/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ACP SERVICES PAC</contributorName>
+      <payeeName>Andy Barr for Congress</payeeName>
+      <recipientName>Andy Barr</recipientName>
+      <amount>1000</amount>
+      <date>08/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ACP SERVICES PAC</contributorName>
+      <payeeName>Friends to Elect Dr. Greg Murphy to Congress</payeeName>
+      <recipientName>Gregory Murphy</recipientName>
+      <amount>1000</amount>
+      <date>08/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ACP SERVICES PAC</contributorName>
+      <payeeName>Schakowsky for Congress</payeeName>
+      <recipientName>Jan Schakowsky</recipientName>
+      <amount>3000</amount>
+      <date>09/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ACP SERVICES PAC</contributorName>
+      <payeeName>Terri Sewell for Congress</payeeName>
+      <recipientName>Terri A. Sewell</recipientName>
+      <amount>2000</amount>
+      <date>09/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ACP SERVICES PAC</contributorName>
+      <payeeName>Dr Raul Ruiz for Congress</payeeName>
+      <recipientName>Raul Ruiz</recipientName>
+      <amount>1000</amount>
+      <date>09/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ACP SERVICES PAC</contributorName>
+      <payeeName>Pascrell for Congress</payeeName>
+      <recipientName>Bill Pascrell</recipientName>
+      <amount>1000</amount>
+      <date>09/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ACP SERVICES PAC</contributorName>
+      <payeeName>Stivers for Congress</payeeName>
+      <recipientName>Steve Stivers</recipientName>
+      <amount>2500</amount>
+      <date>09/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ACP SERVICES PAC</contributorName>
+      <payeeName>Dr. Kim Schrier for Congress</payeeName>
+      <recipientName>Kim Schrier</recipientName>
+      <amount>2500</amount>
+      <date>09/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ACP SERVICES PAC</contributorName>
+      <payeeName>Dr. Kim Schrier for Congress</payeeName>
+      <recipientName>Kim Schrier</recipientName>
+      <amount>1000</amount>
+      <date>09/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ACP SERVICES PAC</contributorName>
+      <payeeName>Cole for Congress</payeeName>
+      <recipientName>Tom Cole</recipientName>
+      <amount>2500</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ACP SERVICES PAC</contributorName>
+      <payeeName>Upton For All Of Us</payeeName>
+      <recipientName>Fred Upton</recipientName>
+      <amount>2000</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ACP SERVICES PAC</contributorName>
+      <payeeName>Dr. Kim Schrier for Congress</payeeName>
+      <recipientName>Kim Schrier</recipientName>
+      <amount>1000</amount>
+      <date>10/02/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ACP SERVICES PAC</contributorName>
+      <payeeName>Michael Burgess for Congress</payeeName>
+      <recipientName>Michael C. Burgess</recipientName>
+      <amount>1000</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ACP SERVICES PAC</contributorName>
+      <payeeName>Kay Granger Campaign Fund</payeeName>
+      <recipientName>Kay Granger</recipientName>
+      <amount>1000</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ACP SERVICES PAC</contributorName>
+      <payeeName>Jeff Merkley for Oregon</payeeName>
+      <recipientName>Jeff Merkley</recipientName>
+      <amount>1000</amount>
+      <date>11/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ACP SERVICES PAC</contributorName>
+      <payeeName>Friends of Jim Clyburn</payeeName>
+      <recipientName>James E. Clyburn</recipientName>
+      <amount>1000</amount>
+      <date>11/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ACP SERVICES PAC</contributorName>
+      <payeeName>Lois Frankel for Congress</payeeName>
+      <recipientName>Lois Frankel</recipientName>
+      <amount>2000</amount>
+      <date>12/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ACP SERVICES PAC</contributorName>
+      <payeeName>Bera for Congress</payeeName>
+      <recipientName>Ami Bera</recipientName>
+      <amount>2500</amount>
+      <date>12/05/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

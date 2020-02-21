@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>Todd Strategy, LLC</organizationName>
+  <lobbyistPrefix>Mr.</lobbyistPrefix>
+  <lobbyistFirstName>Daniel</lobbyistFirstName>
+  <lobbyistMiddleName>M</lobbyistMiddleName>
+  <lobbyistLastName>Todd</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>401103321</senateRegID>
+  <houseRegID>42659</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/22/2020 9:39:19 AM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>National Republican Senatorial Committee</payeeName>
+      <recipientName>Various Republican Senatorial Candidates</recipientName>
+      <amount>35500.00</amount>
+      <date>7/2/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>LaHood for Congress</payeeName>
+      <recipientName>U.S. Representative Darin LaHood</recipientName>
+      <amount>1000.00</amount>
+      <date>9/30/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Texans for Jodey Arrington</payeeName>
+      <recipientName>U.S. Representative Jodey Arrington</recipientName>
+      <amount>1000.00</amount>
+      <date>11/20/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Makki for Congress</payeeName>
+      <recipientName>Amanda Makki, Candidate for U.S. House of Representatives</recipientName>
+      <amount>1500.00</amount>
+      <date>12/31/19</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

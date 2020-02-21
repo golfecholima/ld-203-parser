@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>WayPoint Consulting, LLC</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <zipext>
+  </zipext>
+  <contactName>CHASE MOSELEY</contactName>
+  <senateRegID>85936</senateRegID>
+  <houseRegID>36320</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/8/2020 8:43:16 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Rep. Michael Guest</payeeName>
+      <recipientName>Rep. Michael Guest</recipientName>
+      <amount>500.00</amount>
+      <date>9/24/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Rep. Michael Guest</payeeName>
+      <recipientName>Rep. Michael Guest</recipientName>
+      <amount>500.00</amount>
+      <date>12/04/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Rep. Michael Guest</payeeName>
+      <recipientName>Rep. Michael Guest</recipientName>
+      <amount>600.00</amount>
+      <date>12/17/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Sen. Cindy Hyde-Smith</payeeName>
+      <recipientName>Sen. Cindy Hyde-Smith</recipientName>
+      <amount>800.00</amount>
+      <date>9/25/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Conservatives Harvesting Success</payeeName>
+      <recipientName>Conservatives Harvesting Success</recipientName>
+      <amount>1000.00</amount>
+      <date>12/10/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Sen. Deb Fisher</payeeName>
+      <recipientName>Sen. Deb Fisher</recipientName>
+      <amount>500.00</amount>
+      <date>9/19/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Patriot Pac</payeeName>
+      <recipientName>Patriot Pac</recipientName>
+      <amount>1000.00</amount>
+      <date>9/24/19</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>Professional Compounding Centers of America</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>Kate Belinski</contactName>
+  <senateRegID>401103386</senateRegID>
+  <houseRegID>42681</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/30/2020 12:12:32 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>PROFESSIONAL COMPOUNDING CENTERS OF AMERICAN PAC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PROFESSIONAL COMPOUNDING CENTERS OF AMERICAN PAC</contributorName>
+      <payeeName>Capito for West Virginia</payeeName>
+      <recipientName>Shelley Moore Capito</recipientName>
+      <amount>1000.00</amount>
+      <date>07/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PROFESSIONAL COMPOUNDING CENTERS OF AMERICAN PAC</contributorName>
+      <payeeName>Sylvia Garcia for Congress</payeeName>
+      <recipientName>Sylvia Garcia</recipientName>
+      <amount>1000.00</amount>
+      <date>07/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PROFESSIONAL COMPOUNDING CENTERS OF AMERICAN PAC</contributorName>
+      <payeeName>Friends for Chris Stewart</payeeName>
+      <recipientName>Chris Stewart</recipientName>
+      <amount>2000.00</amount>
+      <date>07/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PROFESSIONAL COMPOUNDING CENTERS OF AMERICAN PAC</contributorName>
+      <payeeName>Buddy PAC</payeeName>
+      <recipientName>Buddy PAC</recipientName>
+      <amount>2500.00</amount>
+      <date>08/07/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PROFESSIONAL COMPOUNDING CENTERS OF AMERICAN PAC</contributorName>
+      <payeeName>Moolenaar for Congress</payeeName>
+      <recipientName>John Moolenaar</recipientName>
+      <amount>1500.00</amount>
+      <date>08/07/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PROFESSIONAL COMPOUNDING CENTERS OF AMERICAN PAC</contributorName>
+      <payeeName>Jaime for Congress</payeeName>
+      <recipientName>Jaime Herrera Beutler</recipientName>
+      <amount>1500.00</amount>
+      <date>08/07/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PROFESSIONAL COMPOUNDING CENTERS OF AMERICAN PAC</contributorName>
+      <payeeName>Van Drew for Congress</payeeName>
+      <recipientName>Jeff Van Drew</recipientName>
+      <amount>1000.00</amount>
+      <date>09/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PROFESSIONAL COMPOUNDING CENTERS OF AMERICAN PAC</contributorName>
+      <payeeName>Dr. John Joyce for Congress</payeeName>
+      <recipientName>John Joyce</recipientName>
+      <amount>1000.00</amount>
+      <date>09/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PROFESSIONAL COMPOUNDING CENTERS OF AMERICAN PAC</contributorName>
+      <payeeName>Lisa Blunt Rochester for Congress</payeeName>
+      <recipientName>Lisa Blunt Rochester</recipientName>
+      <amount>1000.00</amount>
+      <date>09/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PROFESSIONAL COMPOUNDING CENTERS OF AMERICAN PAC</contributorName>
+      <payeeName>Tammy Baldwin for Senate</payeeName>
+      <recipientName>Tammy Baldwin</recipientName>
+      <amount>1000.00</amount>
+      <date>09/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PROFESSIONAL COMPOUNDING CENTERS OF AMERICAN PAC</contributorName>
+      <payeeName>Diana Degette for Congress</payeeName>
+      <recipientName>Diana Degette</recipientName>
+      <amount>2000.00</amount>
+      <date>09/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PROFESSIONAL COMPOUNDING CENTERS OF AMERICAN PAC</contributorName>
+      <payeeName>Michael Burgess for Congress</payeeName>
+      <recipientName>Michael Burgess</recipientName>
+      <amount>1000.00</amount>
+      <date>09/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PROFESSIONAL COMPOUNDING CENTERS OF AMERICAN PAC</contributorName>
+      <payeeName>Texans for Senator John Cornyn Inc</payeeName>
+      <recipientName>John Cornyn</recipientName>
+      <amount>1000.00</amount>
+      <date>10/2/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PROFESSIONAL COMPOUNDING CENTERS OF AMERICAN PAC</contributorName>
+      <payeeName>Buddy PAC</payeeName>
+      <recipientName>Buddy PAC</recipientName>
+      <amount>1000.00</amount>
+      <date>10/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PROFESSIONAL COMPOUNDING CENTERS OF AMERICAN PAC</contributorName>
+      <payeeName>Citizens for Prosperity in American Today PAC</payeeName>
+      <recipientName>Citizens for Prosperity in American Today PAC</recipientName>
+      <amount>3000.00</amount>
+      <date>10/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PROFESSIONAL COMPOUNDING CENTERS OF AMERICAN PAC</contributorName>
+      <payeeName>Texans for Senator John Cornyn Inc.</payeeName>
+      <recipientName>John Cornyn (2020 General)</recipientName>
+      <amount>1000.00</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PROFESSIONAL COMPOUNDING CENTERS OF AMERICAN PAC</contributorName>
+      <payeeName>John Kennedy for Us</payeeName>
+      <recipientName>John Kennedy </recipientName>
+      <amount>1000.00</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PROFESSIONAL COMPOUNDING CENTERS OF AMERICAN PAC</contributorName>
+      <payeeName>Bill Cassidy for Us Senate</payeeName>
+      <recipientName>Bill Cassidy</recipientName>
+      <amount>1000.00</amount>
+      <date>11/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PROFESSIONAL COMPOUNDING CENTERS OF AMERICAN PAC</contributorName>
+      <payeeName>Welch for Congress</payeeName>
+      <recipientName>Peter Welch</recipientName>
+      <amount>1000.00</amount>
+      <date>11/14/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

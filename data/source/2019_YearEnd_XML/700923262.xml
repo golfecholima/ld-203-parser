@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>American International Group, Inc.</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <zipext>
+  </zipext>
+  <contactName>Darren Trigonoplos</contactName>
+  <senateRegID>2695</senateRegID>
+  <houseRegID>31096</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/29/2020 1:33:52 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>AIG Employee Political Action Committee</name>
+    </pac>
+    <pac>
+      <name>AIG State Political Action Committee</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AIG Employee Political Action Committee</contributorName>
+      <payeeName>Friends of Mark Warner</payeeName>
+      <recipientName>Sen. Mark Warner</recipientName>
+      <amount>4000.00</amount>
+      <date>07/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AIG Employee Political Action Committee</contributorName>
+      <payeeName>Forward Together PAC</payeeName>
+      <recipientName>Sen. Mark Warner</recipientName>
+      <amount>1000.00</amount>
+      <date>07/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AIG Employee Political Action Committee</contributorName>
+      <payeeName>Pascrell for Congress</payeeName>
+      <recipientName>Rep. Bill Pascrell</recipientName>
+      <amount>1000.00</amount>
+      <date>08/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AIG Employee Political Action Committee</contributorName>
+      <payeeName>Synergy PAC</payeeName>
+      <recipientName>Rep. John Larson</recipientName>
+      <amount>5000.00</amount>
+      <date>08/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AIG Employee Political Action Committee</contributorName>
+      <payeeName>Beatty for Congress</payeeName>
+      <recipientName>Rep. Joyce Beatty</recipientName>
+      <amount>2000.00</amount>
+      <date>08/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AIG Employee Political Action Committee</contributorName>
+      <payeeName>Jobs and Innovation Matter PAC (JIM PAC)</payeeName>
+      <recipientName>Rep. Jim Himes</recipientName>
+      <amount>2500.00</amount>
+      <date>08/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AIG Employee Political Action Committee</contributorName>
+      <payeeName>Richard E Neal for Congress Committee</payeeName>
+      <recipientName>Rep. Richard Neal</recipientName>
+      <amount>2500.00</amount>
+      <date>08/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AIG Employee Political Action Committee</contributorName>
+      <payeeName>Nancy Pelosi for Congress</payeeName>
+      <recipientName>Rep. Nancy Pelosi</recipientName>
+      <amount>2500.00</amount>
+      <date>08/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AIG Employee Political Action Committee</contributorName>
+      <payeeName>Mikie Sherrill for Congress</payeeName>
+      <recipientName>Rep. Mikie Sherrill</recipientName>
+      <amount>1000.00</amount>
+      <date>08/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AIG Employee Political Action Committee</contributorName>
+      <payeeName>Citizens for Boyle</payeeName>
+      <recipientName>Rep. Brendan Boyle</recipientName>
+      <amount>2500.00</amount>
+      <date>08/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AIG Employee Political Action Committee</contributorName>
+      <payeeName>Suozzi for Congress</payeeName>
+      <recipientName>Rep. Tom Suozzi</recipientName>
+      <amount>1000.00</amount>
+      <date>08/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AIG Employee Political Action Committee</contributorName>
+      <payeeName>Brian Higgins for Congress</payeeName>
+      <recipientName>Rep. Brian Higgins</recipientName>
+      <amount>5000.00</amount>
+      <date>08/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AIG Employee Political Action Committee</contributorName>
+      <payeeName>Marsha for Senate</payeeName>
+      <recipientName>Sen. Marsha Blackburn</recipientName>
+      <amount>5000.00</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AIG Employee Political Action Committee</contributorName>
+      <payeeName>Texans for Senator John Cornyn Inc</payeeName>
+      <recipientName>Sen. John Cornyn</recipientName>
+      <amount>5000.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AIG Employee Political Action Committee</contributorName>
+      <payeeName>Brady for Congress</payeeName>
+      <recipientName>Rep. Kevin Brady</recipientName>
+      <amount>5000.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AIG Employee Political Action Committee</contributorName>
+      <payeeName>Dwight Evans for Congress</payeeName>
+      <recipientName>Rep. Dwight Evans</recipientName>
+      <amount>1000.00</amount>
+      <date>11/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AIG Employee Political Action Committee</contributorName>
+      <payeeName>Tim Scott for Senate</payeeName>
+      <recipientName>Sen. Tim Scott</recipientName>
+      <amount>2500.00</amount>
+      <date>11/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AIG Employee Political Action Committee</contributorName>
+      <payeeName>Tammy Baldwin for Senate</payeeName>
+      <recipientName>Sen. Tammy Baldwin</recipientName>
+      <amount>1000.00</amount>
+      <date>11/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AIG Employee Political Action Committee</contributorName>
+      <payeeName>Jobs and Innovation Matter PAC (JIM PAC)</payeeName>
+      <recipientName>Rep. Jim Himes</recipientName>
+      <amount>2500.00</amount>
+      <date>12/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AIG Employee Political Action Committee</contributorName>
+      <payeeName>Mark Takano for Congress</payeeName>
+      <recipientName>Rep. Mark Takano</recipientName>
+      <amount>1000.00</amount>
+      <date>12/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AIG Employee Political Action Committee</contributorName>
+      <payeeName>Friends of Dan Kildee</payeeName>
+      <recipientName>Rep. Dan Kildee</recipientName>
+      <amount>2000.00</amount>
+      <date>12/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AIG Employee Political Action Committee</contributorName>
+      <payeeName>Kind for Congress Committee</payeeName>
+      <recipientName>Rep. Ron Kind</recipientName>
+      <amount>2500.00</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AIG Employee Political Action Committee</contributorName>
+      <payeeName>Innovation PAC</payeeName>
+      <recipientName>Rep. Patrick McHenry</recipientName>
+      <amount>5000.00</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AIG Employee Political Action Committee</contributorName>
+      <payeeName>Stivers for Congress</payeeName>
+      <recipientName>Rep. Steve Stivers</recipientName>
+      <amount>5000.00</amount>
+      <date>12/19/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

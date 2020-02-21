@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>Green Plains</organizationName>
+  <lobbyistPrefix>Mr.</lobbyistPrefix>
+  <lobbyistFirstName>Devin</lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>Mogler</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>401104765</senateRegID>
+  <houseRegID>43946</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>I helped to form the Green Plains Inc. PAC (which is a SSF) in Q3 of 2019. I serve as an officer on the board of said PAC, so have input on the giving, so please refer to Green Plains Inc. LD-203 for details. Call me at 202.389.2670 with any Qs.</comments>
+  <signedDate>1/10/2020 11:47:17 AM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>Green Plains Inc. PAC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Iowa Renewable Fuels Association PAC</payeeName>
+      <recipientName>IRFA PAC</recipientName>
+      <amount>200.00</amount>
+      <date>09/04/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Green Plains Inc. PAC</payeeName>
+      <recipientName>Green Plains Inc. PAC</recipientName>
+      <amount>1000.00</amount>
+      <date>07/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Green Plains Inc. PAC</payeeName>
+      <recipientName>Green Plains Inc. PAC</recipientName>
+      <amount>1000.00</amount>
+      <date>11/07/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Joni for Iowa</payeeName>
+      <recipientName>Senator Joni Ernst (R-IA)</recipientName>
+      <amount>500.00</amount>
+      <date>11/19/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

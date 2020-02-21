@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>LeMunyon Group, LLC</organizationName>
+  <lobbyistPrefix>Mr.</lobbyistPrefix>
+  <lobbyistFirstName>GLENN</lobbyistFirstName>
+  <lobbyistMiddleName>Brian</lobbyistMiddleName>
+  <lobbyistLastName>LEMUNYON</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>53312</senateRegID>
+  <houseRegID>34964</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/29/2020 10:06:40 AM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Kinzinger for Congress</payeeName>
+      <recipientName>Congressman Adam Kinzinger</recipientName>
+      <amount>500.00</amount>
+      <date>12/26/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Majority Committee PAC</payeeName>
+      <recipientName>Republican Leader Kevin McCarthy</recipientName>
+      <amount>2500.00</amount>
+      <date>10/15/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Majority Committee PAC</payeeName>
+      <recipientName>Republican Leader Kevin McCarthy</recipientName>
+      <amount>1900.00</amount>
+      <date>7/15/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Kevin McCarthy for Congress</payeeName>
+      <recipientName>Rep. Kevin McCarthy</recipientName>
+      <amount>600.00</amount>
+      <date>07/15/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>First in Freedom PAC</payeeName>
+      <recipientName>Rep. Richard Hudson</recipientName>
+      <amount>250.00</amount>
+      <date>09/30/19</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

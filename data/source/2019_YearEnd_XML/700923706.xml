@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>BROWNSTEIN HYATT FARBER SCHRECK, LLP</organizationName>
+  <lobbyistPrefix>Mr.</lobbyistPrefix>
+  <lobbyistFirstName>Russell</lobbyistFirstName>
+  <lobbyistMiddleName>W.</lobbyistMiddleName>
+  <lobbyistLastName>Sullivan</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>7257</senateRegID>
+  <houseRegID>31842</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/29/2020 4:30:08 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Judy Chu for Congress</payeeName>
+      <recipientName>Rep. Judy Chu</recipientName>
+      <amount>200.00</amount>
+      <date>10/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Betsy Dirksen Londrigan for Congress</payeeName>
+      <recipientName>Betsy Dirksen Londrigan</recipientName>
+      <amount>1000.00</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Rosemary Becchi for Congress</payeeName>
+      <recipientName>Rosemary Becchi</recipientName>
+      <amount>2800.00</amount>
+      <date>07/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Rosemary Becchi for Congress</payeeName>
+      <recipientName>Rosemary Becchi</recipientName>
+      <amount>2700.00</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Mary Miller for Congress</payeeName>
+      <recipientName>Mary Miller</recipientName>
+      <amount>2700.00</amount>
+      <date>12/19/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

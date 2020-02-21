@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>Populus Financial Group, Inc.</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>Eric Norrington</contactName>
+  <senateRegID>401103929</senateRegID>
+  <houseRegID>43166</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>My certification and disclosure are to the best of my knowledge and based on reasonable due diligence. </comments>
+  <signedDate>1/30/2020 1:24:26 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>
+  </noContributions>
+  <pacs>
+    <pac>
+      <name>POPULUS FINANCIAL GROUP, INC. PAC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>POPULUS FINANCIAL GROUP, INC. PAC</contributorName>
+      <payeeName>Van Taylor Campaign</payeeName>
+      <recipientName>Van Taylor</recipientName>
+      <amount>2000</amount>
+      <date>7/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>POPULUS FINANCIAL GROUP, INC. PAC</contributorName>
+      <payeeName>Cornyn Majority Committee</payeeName>
+      <recipientName>John Cornyn</recipientName>
+      <amount>5000</amount>
+      <date>9/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>POPULUS FINANCIAL GROUP, INC. PAC</contributorName>
+      <payeeName>Lou Correa for Congress</payeeName>
+      <recipientName>Lou Correa</recipientName>
+      <amount>1000</amount>
+      <date>9/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>POPULUS FINANCIAL GROUP, INC. PAC</contributorName>
+      <payeeName>Lucas for Congress</payeeName>
+      <recipientName>Frank Lucas</recipientName>
+      <amount>1000</amount>
+      <date>9/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>POPULUS FINANCIAL GROUP, INC. PAC</contributorName>
+      <payeeName>Ratcliff for Congress</payeeName>
+      <recipientName>John Ratcliffe</recipientName>
+      <amount>1000</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>POPULUS FINANCIAL GROUP, INC. PAC</contributorName>
+      <payeeName>Beth Van Duyne for Congress</payeeName>
+      <recipientName>Beth Van Duyne</recipientName>
+      <amount>2000</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>POPULUS FINANCIAL GROUP, INC. PAC</contributorName>
+      <payeeName>Marsha for Senate</payeeName>
+      <recipientName>Marsha Blackburn</recipientName>
+      <amount>5000</amount>
+      <date>10/11/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

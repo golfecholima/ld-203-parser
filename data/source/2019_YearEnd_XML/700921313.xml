@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>THE PNC FINANCIAL SERVICES GROUP</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>Shawn Smith</contactName>
+  <senateRegID>31667</senateRegID>
+  <houseRegID>31158</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/27/2020 3:22:21 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>
+  </noContributions>
+  <pacs>
+    <pac>
+      <name>FEDERAL Bipartisan Voluntary Public Affairs Committee of The PNC Financial Services Group Inc. (PNC PAC - Fed)</name>
+    </pac>
+    <pac>
+      <name>Bipartisan Voluntary Public Affairs Committee of The PNC Financial Services Group, Inc. ( PNC PAC)</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>FEDERAL Bipartisan Voluntary Public Affairs Committee of The PNC Financial Services Group Inc. (PNC PAC - Fed)</contributorName>
+      <payeeName>Mike Crapo For Us Senate</payeeName>
+      <recipientName>Senator Mike Crapo</recipientName>
+      <amount>1000</amount>
+      <date>8/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>FEDERAL Bipartisan Voluntary Public Affairs Committee of The PNC Financial Services Group Inc. (PNC PAC - Fed)</contributorName>
+      <payeeName>Doug Jones For Senate Committee</payeeName>
+      <recipientName>Senator Doug Jones</recipientName>
+      <amount>1500</amount>
+      <date>8/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>FEDERAL Bipartisan Voluntary Public Affairs Committee of The PNC Financial Services Group Inc. (PNC PAC - Fed)</contributorName>
+      <payeeName>Graves For Congress</payeeName>
+      <recipientName>Congressman Tom Graves</recipientName>
+      <amount>2500</amount>
+      <date>8/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>FEDERAL Bipartisan Voluntary Public Affairs Committee of The PNC Financial Services Group Inc. (PNC PAC - Fed)</contributorName>
+      <payeeName>Cummings For Congress Campaign Committee</payeeName>
+      <recipientName>Congressman Elijah Cummings</recipientName>
+      <amount>1000</amount>
+      <date>9/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>FEDERAL Bipartisan Voluntary Public Affairs Committee of The PNC Financial Services Group Inc. (PNC PAC - Fed)</contributorName>
+      <payeeName>Lisa Blunt Rochester For Congress</payeeName>
+      <recipientName>Congresswoman Lisa Blunt Rochester</recipientName>
+      <amount>5000</amount>
+      <date>9/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>FEDERAL Bipartisan Voluntary Public Affairs Committee of The PNC Financial Services Group Inc. (PNC PAC - Fed)</contributorName>
+      <payeeName>Marsha For Senate</payeeName>
+      <recipientName>Senator Marsha Blackburn</recipientName>
+      <amount>2500</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>FEDERAL Bipartisan Voluntary Public Affairs Committee of The PNC Financial Services Group Inc. (PNC PAC - Fed)</contributorName>
+      <payeeName>Friends Of Todd Young, Inc.</payeeName>
+      <recipientName>Senator Todd Young</recipientName>
+      <amount>1000</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>FEDERAL Bipartisan Voluntary Public Affairs Committee of The PNC Financial Services Group Inc. (PNC PAC - Fed)</contributorName>
+      <payeeName>Joni For Iowa</payeeName>
+      <recipientName>Senator Joni Ernst</recipientName>
+      <amount>1000</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>FEDERAL Bipartisan Voluntary Public Affairs Committee of The PNC Financial Services Group Inc. (PNC PAC - Fed)</contributorName>
+      <payeeName>Kansans For Marshall</payeeName>
+      <recipientName>Mr. Roger Marshall</recipientName>
+      <amount>2500</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>FEDERAL Bipartisan Voluntary Public Affairs Committee of The PNC Financial Services Group Inc. (PNC PAC - Fed)</contributorName>
+      <payeeName>Beatty For Congress</payeeName>
+      <recipientName>Congresswoman Joyce Beatty</recipientName>
+      <amount>5000</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>FEDERAL Bipartisan Voluntary Public Affairs Committee of The PNC Financial Services Group Inc. (PNC PAC - Fed)</contributorName>
+      <payeeName>Doyle For Congress Committee</payeeName>
+      <recipientName>Congressman Michael Doyle</recipientName>
+      <amount>1000</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>FEDERAL Bipartisan Voluntary Public Affairs Committee of The PNC Financial Services Group Inc. (PNC PAC - Fed)</contributorName>
+      <payeeName>David Scott For Congress</payeeName>
+      <recipientName>Congressman David Scott</recipientName>
+      <amount>5000</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>FEDERAL Bipartisan Voluntary Public Affairs Committee of The PNC Financial Services Group Inc. (PNC PAC - Fed)</contributorName>
+      <payeeName>Citizens For Waters</payeeName>
+      <recipientName>Congresswoman Maxine Waters</recipientName>
+      <amount>2500</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>FEDERAL Bipartisan Voluntary Public Affairs Committee of The PNC Financial Services Group Inc. (PNC PAC - Fed)</contributorName>
+      <payeeName>Mike Kelly For Congress</payeeName>
+      <recipientName>Congressman Mike Kelly</recipientName>
+      <amount>5000</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>FEDERAL Bipartisan Voluntary Public Affairs Committee of The PNC Financial Services Group Inc. (PNC PAC - Fed)</contributorName>
+      <payeeName>Friends Of Denver Riggleman, Inc.</payeeName>
+      <recipientName>Congressman Denver Riggleman</recipientName>
+      <amount>5000</amount>
+      <date>9/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>FEDERAL Bipartisan Voluntary Public Affairs Committee of The PNC Financial Services Group Inc. (PNC PAC - Fed)</contributorName>
+      <payeeName>Kustoff For Congress</payeeName>
+      <recipientName>Congressman David Kustoff</recipientName>
+      <amount>1000</amount>
+      <date>9/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>FEDERAL Bipartisan Voluntary Public Affairs Committee of The PNC Financial Services Group Inc. (PNC PAC - Fed)</contributorName>
+      <payeeName>Ann Wagner For Congress</payeeName>
+      <recipientName>Congresswoman Ann Wagner</recipientName>
+      <amount>2000</amount>
+      <date>10/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>FEDERAL Bipartisan Voluntary Public Affairs Committee of The PNC Financial Services Group Inc. (PNC PAC - Fed)</contributorName>
+      <payeeName>Ann Wagner For Congress</payeeName>
+      <recipientName>Congresswoman Ann Wagner</recipientName>
+      <amount>500</amount>
+      <date>10/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>FEDERAL Bipartisan Voluntary Public Affairs Committee of The PNC Financial Services Group Inc. (PNC PAC - Fed)</contributorName>
+      <payeeName>Steil For Wisconsin, Inc.</payeeName>
+      <recipientName>Congressman Bryan Steil</recipientName>
+      <amount>2500</amount>
+      <date>10/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>FEDERAL Bipartisan Voluntary Public Affairs Committee of The PNC Financial Services Group Inc. (PNC PAC - Fed)</contributorName>
+      <payeeName>Steil For Wisconsin, Inc.</payeeName>
+      <recipientName>Congressman Bryan Steil</recipientName>
+      <amount>500</amount>
+      <date>10/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>FEDERAL Bipartisan Voluntary Public Affairs Committee of The PNC Financial Services Group Inc. (PNC PAC - Fed)</contributorName>
+      <payeeName>Van Taylor Campaign</payeeName>
+      <recipientName>Congressman Van Taylor</recipientName>
+      <amount>1000</amount>
+      <date>10/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>FEDERAL Bipartisan Voluntary Public Affairs Committee of The PNC Financial Services Group Inc. (PNC PAC - Fed)</contributorName>
+      <payeeName>Sylvia Garcia For Congress</payeeName>
+      <recipientName>Congresswoman Sylvia Garcia</recipientName>
+      <amount>1000</amount>
+      <date>10/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>FEDERAL Bipartisan Voluntary Public Affairs Committee of The PNC Financial Services Group Inc. (PNC PAC - Fed)</contributorName>
+      <payeeName>William Timmons For Congress</payeeName>
+      <recipientName>Congressman William Timmons</recipientName>
+      <amount>2500</amount>
+      <date>10/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>FEDERAL Bipartisan Voluntary Public Affairs Committee of The PNC Financial Services Group Inc. (PNC PAC - Fed)</contributorName>
+      <payeeName>Rounds For Senate</payeeName>
+      <recipientName>Senator Mike Rounds</recipientName>
+      <amount>2500</amount>
+      <date>10/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>FEDERAL Bipartisan Voluntary Public Affairs Committee of The PNC Financial Services Group Inc. (PNC PAC - Fed)</contributorName>
+      <payeeName>Friends Of Roy Blunt</payeeName>
+      <recipientName>Senator Roy Blunt</recipientName>
+      <amount>1000</amount>
+      <date>10/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>FEDERAL Bipartisan Voluntary Public Affairs Committee of The PNC Financial Services Group Inc. (PNC PAC - Fed)</contributorName>
+      <payeeName>Ben Sasse For U.S. Senate, Inc.</payeeName>
+      <recipientName>Senator Ben Sasse</recipientName>
+      <amount>1000</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>FEDERAL Bipartisan Voluntary Public Affairs Committee of The PNC Financial Services Group Inc. (PNC PAC - Fed)</contributorName>
+      <payeeName>Wenstrup For Congress</payeeName>
+      <recipientName>Congressman Brad Wenstrup</recipientName>
+      <amount>1500</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>FEDERAL Bipartisan Voluntary Public Affairs Committee of The PNC Financial Services Group Inc. (PNC PAC - Fed)</contributorName>
+      <payeeName>Tom Reed For Congress</payeeName>
+      <recipientName>Congressman Tom Reed</recipientName>
+      <amount>1000</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>FEDERAL Bipartisan Voluntary Public Affairs Committee of The PNC Financial Services Group Inc. (PNC PAC - Fed)</contributorName>
+      <payeeName>Katko For Congress</payeeName>
+      <recipientName>Congressman John Katko</recipientName>
+      <amount>2000</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>FEDERAL Bipartisan Voluntary Public Affairs Committee of The PNC Financial Services Group Inc. (PNC PAC - Fed)</contributorName>
+      <payeeName>Tina Smith For Minnesota</payeeName>
+      <recipientName>Senator Tina Smith</recipientName>
+      <amount>2500</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>FEDERAL Bipartisan Voluntary Public Affairs Committee of The PNC Financial Services Group Inc. (PNC PAC - Fed)</contributorName>
+      <payeeName>Graves For Congress</payeeName>
+      <recipientName>Congressman Tom Graves</recipientName>
+      <amount>5000</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>FEDERAL Bipartisan Voluntary Public Affairs Committee of The PNC Financial Services Group Inc. (PNC PAC - Fed)</contributorName>
+      <payeeName>Thom Tillis Committee</payeeName>
+      <recipientName>Senator Thom Tillis</recipientName>
+      <amount>5000</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>FEDERAL Bipartisan Voluntary Public Affairs Committee of The PNC Financial Services Group Inc. (PNC PAC - Fed)</contributorName>
+      <payeeName>Dan Crenshaw For Congress</payeeName>
+      <recipientName>Congressman Daniel Crenshaw</recipientName>
+      <amount>1000</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>FEDERAL Bipartisan Voluntary Public Affairs Committee of The PNC Financial Services Group Inc. (PNC PAC - Fed)</contributorName>
+      <payeeName>Anthony Gonzalez For Congress</payeeName>
+      <recipientName>Congressman Anthony Gonzalez</recipientName>
+      <amount>1000</amount>
+      <date>12/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>FEDERAL Bipartisan Voluntary Public Affairs Committee of The PNC Financial Services Group Inc. (PNC PAC - Fed)</contributorName>
+      <payeeName>Roger Williams For U S Congress Committee</payeeName>
+      <recipientName>Congressman Roger Williams</recipientName>
+      <amount>1000</amount>
+      <date>12/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>FEDERAL Bipartisan Voluntary Public Affairs Committee of The PNC Financial Services Group Inc. (PNC PAC - Fed)</contributorName>
+      <payeeName>Blaine for Congress</payeeName>
+      <recipientName>Congressman Blaine Luetkemeyer</recipientName>
+      <amount>2500</amount>
+      <date>12/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>FEDERAL Bipartisan Voluntary Public Affairs Committee of The PNC Financial Services Group Inc. (PNC PAC - Fed)</contributorName>
+      <payeeName>Emmer For Congress</payeeName>
+      <recipientName>Congressman Tom Emmer</recipientName>
+      <amount>1000</amount>
+      <date>12/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bipartisan Voluntary Public Affairs Committee of The PNC Financial Services Group, Inc. ( PNC PAC)</contributorName>
+      <payeeName>McCarthy Victory Fund</payeeName>
+      <recipientName>Congressman Kevin McCarthy</recipientName>
+      <amount>5000</amount>
+      <date>8/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bipartisan Voluntary Public Affairs Committee of The PNC Financial Services Group, Inc. ( PNC PAC)</contributorName>
+      <payeeName>McCarthy Victory Fund</payeeName>
+      <recipientName>Congressman Kevin McCarthy</recipientName>
+      <amount>5000</amount>
+      <date>8/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bipartisan Voluntary Public Affairs Committee of The PNC Financial Services Group, Inc. ( PNC PAC)</contributorName>
+      <payeeName>Freedom Fund</payeeName>
+      <recipientName>Senator Michael Crapo</recipientName>
+      <amount>5000</amount>
+      <date>8/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bipartisan Voluntary Public Affairs Committee of The PNC Financial Services Group, Inc. ( PNC PAC)</contributorName>
+      <payeeName>Keep America Rolling PAC</payeeName>
+      <recipientName>Congressman Mike Kelly</recipientName>
+      <amount>2500</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bipartisan Voluntary Public Affairs Committee of The PNC Financial Services Group, Inc. ( PNC PAC)</contributorName>
+      <payeeName>Eye of the Tiger Political Action Committee, The</payeeName>
+      <recipientName>Congressman Steve Scalise</recipientName>
+      <amount>5000</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bipartisan Voluntary Public Affairs Committee of The PNC Financial Services Group, Inc. ( PNC PAC)</contributorName>
+      <payeeName>Reclaim America PAC</payeeName>
+      <recipientName>Senator Marco Rubio</recipientName>
+      <amount>5000</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bipartisan Voluntary Public Affairs Committee of The PNC Financial Services Group, Inc. ( PNC PAC)</contributorName>
+      <payeeName>The Consumer Bankers Association Political Action Committee</payeeName>
+      <recipientName>The Consumer Bankers Association Political Action Committee</recipientName>
+      <amount>5000</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bipartisan Voluntary Public Affairs Committee of The PNC Financial Services Group, Inc. ( PNC PAC)</contributorName>
+      <payeeName>Team Hagerty</payeeName>
+      <recipientName>Mr. Bill Hagerty</recipientName>
+      <amount>2500</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bipartisan Voluntary Public Affairs Committee of The PNC Financial Services Group, Inc. ( PNC PAC)</contributorName>
+      <payeeName>Georgia PAC</payeeName>
+      <recipientName>Congressman Tom Graves</recipientName>
+      <amount>5000</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bipartisan Voluntary Public Affairs Committee of The PNC Financial Services Group, Inc. ( PNC PAC)</contributorName>
+      <payeeName>Team Hagerty</payeeName>
+      <recipientName>Mr. Bill Hagerty</recipientName>
+      <amount>1000</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bipartisan Voluntary Public Affairs Committee of The PNC Financial Services Group, Inc. ( PNC PAC)</contributorName>
+      <payeeName>Mortgage Bankers Association Political Action Committee (MORPAC)</payeeName>
+      <recipientName>Mortgage Bankers Association Political Action Committee (MORPAC)</recipientName>
+      <amount>2500</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bipartisan Voluntary Public Affairs Committee of The PNC Financial Services Group, Inc. ( PNC PAC)</contributorName>
+      <payeeName>Together Holding Our Majority PAC</payeeName>
+      <recipientName>Senator Thom Tillis</recipientName>
+      <amount>5000</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bipartisan Voluntary Public Affairs Committee of The PNC Financial Services Group, Inc. ( PNC PAC)</contributorName>
+      <payeeName>Friends Of Bill Posey</payeeName>
+      <recipientName>Congressman Bill Posey</recipientName>
+      <amount>1000</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bipartisan Voluntary Public Affairs Committee of The PNC Financial Services Group, Inc. ( PNC PAC)</contributorName>
+      <payeeName>Peter Norbeck Leadership PAC, The</payeeName>
+      <recipientName>Senator Mike Rounds</recipientName>
+      <amount>5000</amount>
+      <date>12/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bipartisan Voluntary Public Affairs Committee of The PNC Financial Services Group, Inc. ( PNC PAC)</contributorName>
+      <payeeName>Tomorrow is Meaningful PAC</payeeName>
+      <recipientName>Senator Timothy Scott</recipientName>
+      <amount>5000</amount>
+      <date>12/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bipartisan Voluntary Public Affairs Committee of The PNC Financial Services Group, Inc. ( PNC PAC)</contributorName>
+      <payeeName>First State PAC</payeeName>
+      <recipientName>Senator Thomas Carper</recipientName>
+      <amount>5000</amount>
+      <date>12/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bipartisan Voluntary Public Affairs Committee of The PNC Financial Services Group, Inc. ( PNC PAC)</contributorName>
+      <payeeName>Jersey Values PAC</payeeName>
+      <recipientName>Congressman Joshua Gottheimer</recipientName>
+      <amount>5000</amount>
+      <date>12/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bipartisan Voluntary Public Affairs Committee of The PNC Financial Services Group, Inc. ( PNC PAC)</contributorName>
+      <payeeName>Building America's Republican Representation PAC</payeeName>
+      <recipientName>Congressman Andy Barr</recipientName>
+      <amount>5000</amount>
+      <date>12/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bipartisan Voluntary Public Affairs Committee of The PNC Financial Services Group, Inc. ( PNC PAC)</contributorName>
+      <payeeName>AMERIPAC: The Fund for a Greater America</payeeName>
+      <recipientName>Congressman Steny Hoyer</recipientName>
+      <amount>5000</amount>
+      <date>12/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bipartisan Voluntary Public Affairs Committee of The PNC Financial Services Group, Inc. ( PNC PAC)</contributorName>
+      <payeeName>I Got Your Back PAC</payeeName>
+      <recipientName>Congresswoman Lisa Blunt Rochester</recipientName>
+      <amount>5000</amount>
+      <date>12/23/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

@@ -1,0 +1,558 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>Nuclear Energy Institute, Inc.</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <zipext>
+  </zipext>
+  <contactName>Marcelo Co</contactName>
+  <senateRegID>29686</senateRegID>
+  <houseRegID>31735</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>The contribution check noted at #52 (Latta For Congress) and #58 (Thom Tillis Committee) were not deposited by the payee and were voided on the same day, 12/5/2019.</comments>
+  <signedDate>1/31/2020 2:36:56 AM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>
+  </noContributions>
+  <pacs>
+    <pac>
+      <name>NEI Federal PAC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NEI Federal PAC</contributorName>
+      <payeeName>Blaine For Congress 2008</payeeName>
+      <recipientName>Rep. W. Blaine Luetkemeyer</recipientName>
+      <amount>1000</amount>
+      <date>09/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NEI Federal PAC</contributorName>
+      <payeeName>Buddy Carter For Congress</payeeName>
+      <recipientName>Rep. Earl L. B. Carter</recipientName>
+      <amount>1000</amount>
+      <date>09/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NEI Federal PAC</contributorName>
+      <payeeName>Chuck Fleischmann For Congress Committee  Inc.</payeeName>
+      <recipientName>Rep. Charles J. Fleischmann</recipientName>
+      <amount>1000</amount>
+      <date>09/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NEI Federal PAC</contributorName>
+      <payeeName>Dr. Raul Ruiz For Congress</payeeName>
+      <recipientName>Rep. Raul Ruiz</recipientName>
+      <amount>1000</amount>
+      <date>09/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NEI Federal PAC</contributorName>
+      <payeeName>Elizabeth Pannill Fletcher For Congress</payeeName>
+      <recipientName>Rep. Elizabeth Pannill Fletcher</recipientName>
+      <amount>1000</amount>
+      <date>09/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NEI Federal PAC</contributorName>
+      <payeeName>Friends Of Bennie Thompson</payeeName>
+      <recipientName>Rep. Bennie G. Thompson</recipientName>
+      <amount>2000</amount>
+      <date>09/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NEI Federal PAC</contributorName>
+      <payeeName>Friends Of Cheri Bustos</payeeName>
+      <recipientName>Rep. Cheryl L. Bustos</recipientName>
+      <amount>2500</amount>
+      <date>09/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NEI Federal PAC</contributorName>
+      <payeeName>Friends Of Jim Inhofe</payeeName>
+      <recipientName>Sen. James M. Inhofe</recipientName>
+      <amount>2500</amount>
+      <date>09/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NEI Federal PAC</contributorName>
+      <payeeName>Jim Risch For U.S. Senate Committee</payeeName>
+      <recipientName>Sen. James E. Risch</recipientName>
+      <amount>2000</amount>
+      <date>09/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NEI Federal PAC</contributorName>
+      <payeeName>Joe Wilson For Congress</payeeName>
+      <recipientName>Rep. Joe Wilson</recipientName>
+      <amount>2000</amount>
+      <date>09/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NEI Federal PAC</contributorName>
+      <payeeName>Kaptur For Congress</payeeName>
+      <recipientName>Rep. Marcy Carolyn Kaptur</recipientName>
+      <amount>1500</amount>
+      <date>09/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NEI Federal PAC</contributorName>
+      <payeeName>Kind For Congress Committee</payeeName>
+      <recipientName>Rep. Ronald James Kind</recipientName>
+      <amount>1000</amount>
+      <date>09/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NEI Federal PAC</contributorName>
+      <payeeName>LaHood for Congress</payeeName>
+      <recipientName>Rep. Darin M. LaHood</recipientName>
+      <amount>1000</amount>
+      <date>09/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NEI Federal PAC</contributorName>
+      <payeeName>Richard E Neal For Congress Committee</payeeName>
+      <recipientName>Rep. Richard Edmund Neal</recipientName>
+      <amount>2500</amount>
+      <date>09/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NEI Federal PAC</contributorName>
+      <payeeName>Rounds For Senate</payeeName>
+      <recipientName>Sen. M. Michael Rounds</recipientName>
+      <amount>1000</amount>
+      <date>09/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NEI Federal PAC</contributorName>
+      <payeeName>Salud Carbajal For Congress</payeeName>
+      <recipientName>Rep. Salud O. Carbajal</recipientName>
+      <amount>1000</amount>
+      <date>09/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NEI Federal PAC</contributorName>
+      <payeeName>Suozzi For Congress</payeeName>
+      <recipientName>Rep. Thomas R. Suozzi</recipientName>
+      <amount>1000</amount>
+      <date>09/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NEI Federal PAC</contributorName>
+      <payeeName>Team Graham  Inc.</payeeName>
+      <recipientName>Sen. Lindsey Olin Graham</recipientName>
+      <amount>1000</amount>
+      <date>09/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NEI Federal PAC</contributorName>
+      <payeeName>William Timmons For Congress</payeeName>
+      <recipientName>Rep. William R. Timmons  IV</recipientName>
+      <amount>1000</amount>
+      <date>09/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NEI Federal PAC</contributorName>
+      <payeeName>Latta For Congress</payeeName>
+      <recipientName>Rep. Robert E. Latta</recipientName>
+      <amount>1000</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NEI Federal PAC</contributorName>
+      <payeeName>Thom Tillis Committee</payeeName>
+      <recipientName>Sen. Thomas Roland Tillis</recipientName>
+      <amount>2800</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NEI Federal PAC</contributorName>
+      <payeeName>Ann Wagner For Congress</payeeName>
+      <recipientName>Rep. Ann Louise Wagner</recipientName>
+      <amount>1000</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NEI Federal PAC</contributorName>
+      <payeeName>Brian Fitzpatrick For Congress</payeeName>
+      <recipientName>Rep. Brian K. Fitzpatrick</recipientName>
+      <amount>1000</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NEI Federal PAC</contributorName>
+      <payeeName>Carper For Senate</payeeName>
+      <recipientName>Sen. Thomas Richard Carper</recipientName>
+      <amount>1000</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NEI Federal PAC</contributorName>
+      <payeeName>Clarke For Congress</payeeName>
+      <recipientName>Rep. Yvette Diana Clarke</recipientName>
+      <amount>1000</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NEI Federal PAC</contributorName>
+      <payeeName>Cole For Congress</payeeName>
+      <recipientName>Rep. Thomas Jeffery Cole</recipientName>
+      <amount>1000</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NEI Federal PAC</contributorName>
+      <payeeName>Friends Of Dusty Johnson</payeeName>
+      <recipientName>Rep. Dusty Johnson</recipientName>
+      <amount>1000</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NEI Federal PAC</contributorName>
+      <payeeName>People For Derek Kilmer</payeeName>
+      <recipientName>Rep. Derek Kilmer</recipientName>
+      <amount>1000</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NEI Federal PAC</contributorName>
+      <payeeName>Peters For Michigan</payeeName>
+      <recipientName>Sen. Gary Charles Peters</recipientName>
+      <amount>1000</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NEI Federal PAC</contributorName>
+      <payeeName>Tim Scott For Senate</payeeName>
+      <recipientName>Sen. Timothy Eugene Scott</recipientName>
+      <amount>1000</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NEI Federal PAC</contributorName>
+      <payeeName>Tom Rice For Congress</payeeName>
+      <recipientName>Rep. Tom Rice</recipientName>
+      <amount>1000</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NEI Federal PAC</contributorName>
+      <payeeName>Wicker For Senate</payeeName>
+      <recipientName>Sen. Roger Frederick Wicker</recipientName>
+      <amount>1000</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>Honorary Expenses</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Waterfall Foundation</payeeName>
+      <recipientName>Sen. Lisa Ann Murkowski</recipientName>
+      <amount>6500</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>Honorary Expenses</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Louisa Swain Foundation</payeeName>
+      <recipientName>Sen. Michael Enzi</recipientName>
+      <amount>1000</amount>
+      <date>11/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NEI Federal PAC</contributorName>
+      <payeeName>Billy Long For Congress</payeeName>
+      <recipientName>Rep. William H. Long  II</recipientName>
+      <amount>1000</amount>
+      <date>12/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NEI Federal PAC</contributorName>
+      <payeeName>Brady For Congress</payeeName>
+      <recipientName>Rep. Kevin Patrick Brady</recipientName>
+      <amount>2500</amount>
+      <date>12/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NEI Federal PAC</contributorName>
+      <payeeName>Dan Crenshaw For Congress</payeeName>
+      <recipientName>Rep. Daniel Crenshaw</recipientName>
+      <amount>1000</amount>
+      <date>12/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NEI Federal PAC</contributorName>
+      <payeeName>Dan Newhouse For Congress</payeeName>
+      <recipientName>Rep. Daniel Milton Newhouse</recipientName>
+      <amount>1500</amount>
+      <date>12/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NEI Federal PAC</contributorName>
+      <payeeName>Debbie Dingell For Congress</payeeName>
+      <recipientName>Rep. Deborah Ann Dingell</recipientName>
+      <amount>1000</amount>
+      <date>12/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NEI Federal PAC</contributorName>
+      <payeeName>Defend America PAC</payeeName>
+      <recipientName>Sen. Richard Craig Shelby</recipientName>
+      <amount>2500</amount>
+      <date>12/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NEI Federal PAC</contributorName>
+      <payeeName>Dutch Ruppersberger For Congress Committee</payeeName>
+      <recipientName>Rep. Charles A. Ruppersberger</recipientName>
+      <amount>1000</amount>
+      <date>12/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NEI Federal PAC</contributorName>
+      <payeeName>Elaine For Congress</payeeName>
+      <recipientName>Rep. Elaine Luria</recipientName>
+      <amount>2500</amount>
+      <date>12/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NEI Federal PAC</contributorName>
+      <payeeName>Friends For Gregory Meeks</payeeName>
+      <recipientName>Rep. Gregory Weldon Meeks</recipientName>
+      <amount>1000</amount>
+      <date>12/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NEI Federal PAC</contributorName>
+      <payeeName>Friends Of Denver Riggleman  Inc.</payeeName>
+      <recipientName>Rep. Denver L. Riggleman  III</recipientName>
+      <amount>3500</amount>
+      <date>12/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NEI Federal PAC</contributorName>
+      <payeeName>Garret Graves For Congress</payeeName>
+      <recipientName>Rep. Garret Neal Graves</recipientName>
+      <amount>1000</amount>
+      <date>12/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NEI Federal PAC</contributorName>
+      <payeeName>Hudson For Congress</payeeName>
+      <recipientName>Rep. Richard Lane Hudson  Jr.</recipientName>
+      <amount>1000</amount>
+      <date>12/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NEI Federal PAC</contributorName>
+      <payeeName>Jeff Duncan For Congress</payeeName>
+      <recipientName>Rep. Jeffrey D. Duncan</recipientName>
+      <amount>1000</amount>
+      <date>12/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NEI Federal PAC</contributorName>
+      <payeeName>Kansans For Marshall</payeeName>
+      <recipientName>Rep. Roger W. Marshall</recipientName>
+      <amount>1000</amount>
+      <date>12/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NEI Federal PAC</contributorName>
+      <payeeName>Katko For Congress</payeeName>
+      <recipientName>Rep. John Michael Katko</recipientName>
+      <amount>1000</amount>
+      <date>12/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NEI Federal PAC</contributorName>
+      <payeeName>Lance Gooden For Congress Committee</payeeName>
+      <recipientName>Rep. Lance Gooden</recipientName>
+      <amount>1000</amount>
+      <date>12/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NEI Federal PAC</contributorName>
+      <payeeName>Langevin For Congress</payeeName>
+      <recipientName>Rep. James R. Langevin</recipientName>
+      <amount>1000</amount>
+      <date>12/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NEI Federal PAC</contributorName>
+      <payeeName>Latta For Congress</payeeName>
+      <recipientName>Rep. Robert E. Latta</recipientName>
+      <amount>1000</amount>
+      <date>12/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NEI Federal PAC</contributorName>
+      <payeeName>Manchin For West Virginia</payeeName>
+      <recipientName>Sen. Joseph Manchin  III</recipientName>
+      <amount>1500</amount>
+      <date>12/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NEI Federal PAC</contributorName>
+      <payeeName>McKinley For Congress</payeeName>
+      <recipientName>Rep. David B. McKinley</recipientName>
+      <amount>1000</amount>
+      <date>12/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NEI Federal PAC</contributorName>
+      <payeeName>New Pioneers PAC</payeeName>
+      <recipientName>Rep. Gregory Paul Walden</recipientName>
+      <amount>5000</amount>
+      <date>12/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NEI Federal PAC</contributorName>
+      <payeeName>Roger Williams For U S Congress Committee</payeeName>
+      <recipientName>Rep. Roger Williams</recipientName>
+      <amount>1000</amount>
+      <date>12/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NEI Federal PAC</contributorName>
+      <payeeName>Texans For Jodey Arrington</payeeName>
+      <recipientName>Rep. Jodey Cook Arrington</recipientName>
+      <amount>1000</amount>
+      <date>12/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NEI Federal PAC</contributorName>
+      <payeeName>Thom Tillis Committee</payeeName>
+      <recipientName>Sen. Thomas Roland Tillis</recipientName>
+      <amount>2800</amount>
+      <date>12/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NEI Federal PAC</contributorName>
+      <payeeName>Tom O'Halleran For Congress</payeeName>
+      <recipientName>Rep. Tom O'Halleran</recipientName>
+      <amount>2500</amount>
+      <date>12/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NEI Federal PAC</contributorName>
+      <payeeName>Upton For All Of Us</payeeName>
+      <recipientName>Rep. Frederick Stephen Upton</recipientName>
+      <amount>1000</amount>
+      <date>12/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NEI Federal PAC</contributorName>
+      <payeeName>Upton For All Of Us</payeeName>
+      <recipientName>Rep. Frederick Stephen Upton</recipientName>
+      <amount>2500</amount>
+      <date>12/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NEI Federal PAC</contributorName>
+      <payeeName>Weber For Congress</payeeName>
+      <recipientName>Rep. Randy Keith Weber  Sr.</recipientName>
+      <amount>1000</amount>
+      <date>12/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NEI Federal PAC</contributorName>
+      <payeeName>CMR Political Action Committee</payeeName>
+      <recipientName>Rep. Cathy McMorris Rodgers</recipientName>
+      <amount>1000</amount>
+      <date>12/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NEI Federal PAC</contributorName>
+      <payeeName>Lone Star Leadership PAC</payeeName>
+      <recipientName>Rep. Michael Clifton Burgess</recipientName>
+      <amount>1000</amount>
+      <date>12/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NEI Federal PAC</contributorName>
+      <payeeName>Rezin For Congress</payeeName>
+      <recipientName>Sen. Sue Rezin</recipientName>
+      <amount>2500</amount>
+      <date>12/16/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

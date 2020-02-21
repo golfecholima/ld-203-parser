@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>Laborers' International Union of North America</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName> Bevin Albertani</contactName>
+  <senateRegID>22030</senateRegID>
+  <houseRegID>32261</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/30/2020 10:27:23 AM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>Laborers International Union of North America (LIUNA PAC)</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Laborers International Union of North America (LIUNA PAC)</contributorName>
+      <payeeName>Courtney For Congress</payeeName>
+      <recipientName>Courtney, Joseph</recipientName>
+      <amount>2500</amount>
+      <date>7/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Laborers International Union of North America (LIUNA PAC)</contributorName>
+      <payeeName>Dan Newhouse for Congress</payeeName>
+      <recipientName>Newhouse, Dan</recipientName>
+      <amount>5000</amount>
+      <date>7/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Laborers International Union of North America (LIUNA PAC)</contributorName>
+      <payeeName>Husky PAC</payeeName>
+      <recipientName>Courtney, Joseph</recipientName>
+      <amount>2500</amount>
+      <date>7/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Laborers International Union of North America (LIUNA PAC)</contributorName>
+      <payeeName>Sean Patrick Maloney For Congress</payeeName>
+      <recipientName>Maloney, Sean</recipientName>
+      <amount>2500</amount>
+      <date>7/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Laborers International Union of North America (LIUNA PAC)</contributorName>
+      <payeeName>Denny Heck For Congress</payeeName>
+      <recipientName>Heck, Dennis</recipientName>
+      <amount>5000</amount>
+      <date>8/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Laborers International Union of North America (LIUNA PAC)</contributorName>
+      <payeeName>Judy Chu For Congress</payeeName>
+      <recipientName>Chu, Judy</recipientName>
+      <amount>2500</amount>
+      <date>8/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Laborers International Union of North America (LIUNA PAC)</contributorName>
+      <payeeName>Ocean State Political Action Committee (OSPAC)</payeeName>
+      <recipientName>Langevin, Jim</recipientName>
+      <amount>5000</amount>
+      <date>8/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Laborers International Union of North America (LIUNA PAC)</contributorName>
+      <payeeName>Van Hollen for Senate</payeeName>
+      <recipientName>Van Hollen, Chris</recipientName>
+      <amount>2500</amount>
+      <date>9/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Laborers International Union of North America (LIUNA PAC)</contributorName>
+      <payeeName>Cicilline Committee</payeeName>
+      <recipientName>Cicilline, David</recipientName>
+      <amount>2500</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Laborers International Union of North America (LIUNA PAC)</contributorName>
+      <payeeName>DNC PAC</payeeName>
+      <recipientName>Cicilline, David</recipientName>
+      <amount>2500</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Laborers International Union of North America (LIUNA PAC)</contributorName>
+      <payeeName>Burchett for Congress</payeeName>
+      <recipientName>Burchett, Tim</recipientName>
+      <amount>2500</amount>
+      <date>9/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Laborers International Union of North America (LIUNA PAC)</contributorName>
+      <payeeName>Donna Shalala for Congress</payeeName>
+      <recipientName>Shalala, Donna</recipientName>
+      <amount>2500</amount>
+      <date>9/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Laborers International Union of North America (LIUNA PAC)</contributorName>
+      <payeeName>Frederica S. Wilson For Congress</payeeName>
+      <recipientName>Wilson, Frederica</recipientName>
+      <amount>2500</amount>
+      <date>9/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Laborers International Union of North America (LIUNA PAC)</contributorName>
+      <payeeName>Friends Of Dick Durbin Committee</payeeName>
+      <recipientName>Durbin, Richard</recipientName>
+      <amount>1000</amount>
+      <date>9/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Laborers International Union of North America (LIUNA PAC)</contributorName>
+      <payeeName>Balderson for Congress</payeeName>
+      <recipientName>Balderson, William</recipientName>
+      <amount>2500</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Laborers International Union of North America (LIUNA PAC)</contributorName>
+      <payeeName>DePasquale for PA 10</payeeName>
+      <recipientName>DePasquale, Eugene</recipientName>
+      <amount>5000</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Laborers International Union of North America (LIUNA PAC)</contributorName>
+      <payeeName>Friends Of Rosa Delauro</payeeName>
+      <recipientName>DeLauro, Rosa</recipientName>
+      <amount>2500</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Laborers International Union of North America (LIUNA PAC)</contributorName>
+      <payeeName>Torres for Congress</payeeName>
+      <recipientName>Torres, Ritchie</recipientName>
+      <amount>5000</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Laborers International Union of North America (LIUNA PAC)</contributorName>
+      <payeeName>McNerney For Congress</payeeName>
+      <recipientName>McNerney, Jerry</recipientName>
+      <amount>2500</amount>
+      <date>10/8/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Laborers International Union of North America (LIUNA PAC)</contributorName>
+      <payeeName>People's Voice PAC</payeeName>
+      <recipientName>Baldwin, Tammy</recipientName>
+      <amount>5000</amount>
+      <date>10/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Laborers International Union of North America (LIUNA PAC)</contributorName>
+      <payeeName>Arballo for Congress</payeeName>
+      <recipientName>Arballo, Phil</recipientName>
+      <amount>5000</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Laborers International Union of North America (LIUNA PAC)</contributorName>
+      <payeeName>Kuster For Congress, Inc.</payeeName>
+      <recipientName>Kuster, Ann</recipientName>
+      <amount>2500</amount>
+      <date>11/1/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Laborers International Union of North America (LIUNA PAC)</contributorName>
+      <payeeName>Shaheen For Senate</payeeName>
+      <recipientName>Shaheen, Jeanne</recipientName>
+      <amount>3000</amount>
+      <date>11/1/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Laborers International Union of North America (LIUNA PAC)</contributorName>
+      <payeeName>Grace For New York</payeeName>
+      <recipientName>Meng, Grace</recipientName>
+      <amount>2500</amount>
+      <date>11/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Laborers International Union of North America (LIUNA PAC)</contributorName>
+      <payeeName>Katherine Clark For Congress</payeeName>
+      <recipientName>Clark, Katherine</recipientName>
+      <amount>2500</amount>
+      <date>11/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Laborers International Union of North America (LIUNA PAC)</contributorName>
+      <payeeName>SPARK PAC</payeeName>
+      <recipientName>Finkenhauer, Abby</recipientName>
+      <amount>5000</amount>
+      <date>11/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Laborers International Union of North America (LIUNA PAC)</contributorName>
+      <payeeName>The Bill Keating Committee</payeeName>
+      <recipientName>Keating, William</recipientName>
+      <amount>2500</amount>
+      <date>11/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Laborers International Union of North America (LIUNA PAC)</contributorName>
+      <payeeName>Kuster For Congress, Inc.</payeeName>
+      <recipientName>Kuster, Ann</recipientName>
+      <amount>2500</amount>
+      <date>11/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Laborers International Union of North America (LIUNA PAC)</contributorName>
+      <payeeName>Brynne Kennedy for Congress</payeeName>
+      <recipientName>Kennedy, Brynne</recipientName>
+      <amount>5000</amount>
+      <date>11/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Laborers International Union of North America (LIUNA PAC)</contributorName>
+      <payeeName>Friends of Raja for Congress</payeeName>
+      <recipientName>Krishnamoorthi, S. Raja</recipientName>
+      <amount>2500</amount>
+      <date>11/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Laborers International Union of North America (LIUNA PAC)</contributorName>
+      <payeeName>Building Relationships in Diverse Geographic Environments PAC (BRIDGE PAC)</payeeName>
+      <recipientName>Clyburn, Jim</recipientName>
+      <amount>5000</amount>
+      <date>11/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Laborers International Union of North America (LIUNA PAC)</contributorName>
+      <payeeName>Cal for NC (US Senate)</payeeName>
+      <recipientName>Cunningham, Cal</recipientName>
+      <amount>5000</amount>
+      <date>11/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Laborers International Union of North America (LIUNA PAC)</contributorName>
+      <payeeName>Cartwright For Congress</payeeName>
+      <recipientName>Cartwright, Matt</recipientName>
+      <amount>2500</amount>
+      <date>11/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Laborers International Union of North America (LIUNA PAC)</contributorName>
+      <payeeName>Big Sky Opportunity PAC</payeeName>
+      <recipientName>Daines, Steve</recipientName>
+      <amount>5000</amount>
+      <date>12/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Laborers International Union of North America (LIUNA PAC)</contributorName>
+      <payeeName>Dan Lipinski For Congress</payeeName>
+      <recipientName>Lipinski, Daniel William</recipientName>
+      <amount>5000</amount>
+      <date>12/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Laborers International Union of North America (LIUNA PAC)</contributorName>
+      <payeeName>DNC PAC</payeeName>
+      <recipientName>Cicilline, David</recipientName>
+      <amount>2500</amount>
+      <date>12/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Laborers International Union of North America (LIUNA PAC)</contributorName>
+      <payeeName>Pete Stauber for Congress</payeeName>
+      <recipientName>Stauber, Peter</recipientName>
+      <amount>2500</amount>
+      <date>12/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Laborers International Union of North America (LIUNA PAC)</contributorName>
+      <payeeName>Building Opportunities for a Stronger Tomorrow  B.O.S.T. PAC</payeeName>
+      <recipientName>Bost, Mike</recipientName>
+      <amount>5000</amount>
+      <date>12/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Laborers International Union of North America (LIUNA PAC)</contributorName>
+      <payeeName>McKinley For Congress</payeeName>
+      <recipientName>McKinley, David</recipientName>
+      <amount>2500</amount>
+      <date>12/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Laborers International Union of North America (LIUNA PAC)</contributorName>
+      <payeeName>DSCC</payeeName>
+      <recipientName>DSCC</recipientName>
+      <amount>90000</amount>
+      <date>12/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Laborers International Union of North America (LIUNA PAC)</contributorName>
+      <payeeName>Friends For Gregory Meeks</payeeName>
+      <recipientName>Meeks, Gregory</recipientName>
+      <amount>2500</amount>
+      <date>12/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Laborers International Union of North America (LIUNA PAC)</contributorName>
+      <payeeName>Suozzi for Congress</payeeName>
+      <recipientName>Suozzi, Thomas</recipientName>
+      <amount>2500</amount>
+      <date>12/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Laborers International Union of North America (LIUNA PAC)</contributorName>
+      <payeeName>Ammar Campa for Congress</payeeName>
+      <recipientName>Campa-Najjar, Ammar</recipientName>
+      <amount>5000</amount>
+      <date>12/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Laborers International Union of North America (LIUNA PAC)</contributorName>
+      <payeeName>Belief in Life and Liberty Political Action Committee (BILL'S PAC)</payeeName>
+      <recipientName>Johnson, Bill</recipientName>
+      <amount>5000</amount>
+      <date>12/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Laborers International Union of North America (LIUNA PAC)</contributorName>
+      <payeeName>Georgette Gomez for Congress</payeeName>
+      <recipientName>Gomez, Georgette</recipientName>
+      <amount>5000</amount>
+      <date>12/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>Honorary Expenses</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Congressional Hispanic Caucus Institute Award Gala</payeeName>
+      <recipientName>Ruben Gallego, Pete Aguilar, Grace Napolitano, Juan Vargas, Raul Ruiz</recipientName>
+      <amount>20000.00</amount>
+      <date>9/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>Honorary Expenses</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Congressional Black Caucus Foundation Phoenix Awards Dinner</payeeName>
+      <recipientName>Cedric Richmond, Sheila Jackson Lee, Marcia Fudge, Dwight Evans, Joyce Beatty, Alcee Hastings, Barbara Lee</recipientName>
+      <amount>20000.00</amount>
+      <date>9/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>Honorary Expenses</type>
+      <contributorName>Self</contributorName>
+      <payeeName>LBJ Foundation's LBJ Liberty and Justice For All Award</payeeName>
+      <recipientName>Pelosi, Nancy</recipientName>
+      <amount>25000.00</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>Honorary Expenses</type>
+      <contributorName>Self</contributorName>
+      <payeeName>The Flax Trust/America 29th Annual Wash DC Event</payeeName>
+      <recipientName>Leahy, Patrick</recipientName>
+      <amount>1000.00</amount>
+      <date>11/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>Honorary Expenses</type>
+      <contributorName>Self</contributorName>
+      <payeeName>National Democratic Club's 41st Annual Golf Tournament</payeeName>
+      <recipientName>William "Lacy" Clay, Jr., Betty McCollum, Peter Hunter (Richmond's Legislative Director)</recipientName>
+      <amount>10000.00</amount>
+      <date>7/22/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

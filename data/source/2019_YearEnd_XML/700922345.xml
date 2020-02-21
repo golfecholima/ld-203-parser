@@ -1,0 +1,1560 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>National Active and Retired Federal Employees Association</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>John Hatton</contactName>
+  <senateRegID>27081</senateRegID>
+  <houseRegID>30269</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/28/2020 3:46:09 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>NARFE-PAC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Stanton for Congress</payeeName>
+      <recipientName>Rep. Greg Stanton</recipientName>
+      <amount>500.00</amount>
+      <date>7/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Higgins for Congress</payeeName>
+      <recipientName>Rep. Brian Higgins</recipientName>
+      <amount>1000.00</amount>
+      <date>7/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Katie Hill for Congress</payeeName>
+      <recipientName>Rep. Katie Hill</recipientName>
+      <amount>1000.00</amount>
+      <date>7/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Jeffries for Congress</payeeName>
+      <recipientName>Rep. Hakeem Jeffries</recipientName>
+      <amount>1000.00</amount>
+      <date>7/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Bringing America Together PAC</payeeName>
+      <recipientName>Leadership PAC on behalf of Rep. Brian Fitzpatrick</recipientName>
+      <amount>2500.00</amount>
+      <date>7/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Stand with Sanchez</payeeName>
+      <recipientName>Rep. Linda Sanchez</recipientName>
+      <amount>1000.00</amount>
+      <date>7/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Chris Coons for Delaware</payeeName>
+      <recipientName>Sen. Chris Coons</recipientName>
+      <amount>1000.00</amount>
+      <date>7/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Denali PAC</payeeName>
+      <recipientName>Leadership PAC on behalf of Sen. Lisa Murkowski</recipientName>
+      <amount>2500.00</amount>
+      <date>7/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Friends of Cheri Bustos</payeeName>
+      <recipientName>Rep. Cheri Bustos</recipientName>
+      <amount>1000.00</amount>
+      <date>7/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Kind for Congress</payeeName>
+      <recipientName>Rep. Ron Kind</recipientName>
+      <amount>1000.00</amount>
+      <date>7/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Mike Bost for Congress Committee</payeeName>
+      <recipientName>Rep. Mike Bost</recipientName>
+      <amount>1000.00</amount>
+      <date>7/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Barbara Lee for Congress</payeeName>
+      <recipientName>Rep. Barbara Lee</recipientName>
+      <amount>1000.00</amount>
+      <date>7/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Rob Wittman for Congress</payeeName>
+      <recipientName>Rep. Rob Wittman</recipientName>
+      <amount>1000.00</amount>
+      <date>7/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Anthony Brown for Congress</payeeName>
+      <recipientName>Rep. Anthony Brown</recipientName>
+      <amount>1000.00</amount>
+      <date>7/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Debbie Dingell for Congress</payeeName>
+      <recipientName>Rep. Debbie Dingell</recipientName>
+      <amount>1000.00</amount>
+      <date>7/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>John Lewis for Congress</payeeName>
+      <recipientName>Rep. John Lewis </recipientName>
+      <amount>1000.00</amount>
+      <date>7/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Friends of Rosa DeLauro</payeeName>
+      <recipientName>Rep. Rosa DeLauro</recipientName>
+      <amount>1000.00</amount>
+      <date>7/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Jeff Merkley for Oregon</payeeName>
+      <recipientName>Sen. Jeff Merkley</recipientName>
+      <amount>1000.00</amount>
+      <date>7/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Alma Adams for Congress</payeeName>
+      <recipientName>Rep. Alma Adams</recipientName>
+      <amount>1000.00</amount>
+      <date>7/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Nita Lowey for Congress</payeeName>
+      <recipientName>Rep. Nita Lowey</recipientName>
+      <amount>1000.00</amount>
+      <date>7/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Richmond for Congress</payeeName>
+      <recipientName>Rep. Cedric Richmond</recipientName>
+      <amount>1000.00</amount>
+      <date>7/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Alan Lowenthal for Congress</payeeName>
+      <recipientName>Rep. Alan Lowenthal </recipientName>
+      <amount>1000.00</amount>
+      <date>7/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Sherman for Congress</payeeName>
+      <recipientName>Rep. Brad Sherman</recipientName>
+      <amount>1000.00</amount>
+      <date>7/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Nevadans for Steven Horsford</payeeName>
+      <recipientName>Rep. Steven Horsford </recipientName>
+      <amount>1000.00</amount>
+      <date>7/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Terri Sewell for Congress</payeeName>
+      <recipientName>Rep. Terri Sewell</recipientName>
+      <amount>1000.00</amount>
+      <date>7/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Back PAC</payeeName>
+      <recipientName>Leadership PAC on behalf of Rep. Don Beyer</recipientName>
+      <amount>5000.00</amount>
+      <date>7/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Barragan for Congress</payeeName>
+      <recipientName>Rep. Nanette Barragan </recipientName>
+      <amount>1000.00</amount>
+      <date>7/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Friends of Chris Smith </payeeName>
+      <recipientName>Rep. Chris Smith </recipientName>
+      <amount>1000.00</amount>
+      <date>7/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Friends of Jim Clyburn</payeeName>
+      <recipientName>Rep. Jim Clyburn </recipientName>
+      <amount>2500.00</amount>
+      <date>7/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Article 1 PAC</payeeName>
+      <recipientName>Leadership PAC on behalf of Rep. John Yarmuth </recipientName>
+      <amount>5000.00</amount>
+      <date>7/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Yarmuth for Congress</payeeName>
+      <recipientName>Rep. John Yarmuth </recipientName>
+      <amount>1000.00</amount>
+      <date>7/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Cartwright for Congress</payeeName>
+      <recipientName>Rep. Matt Cartwright</recipientName>
+      <amount>1000.00</amount>
+      <date>7/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Deb Haaland for Congress</payeeName>
+      <recipientName>Rep. Deb Haaland </recipientName>
+      <amount>1000.00</amount>
+      <date>7/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>DeGette for Congress</payeeName>
+      <recipientName>Rep. Diana DeGette</recipientName>
+      <amount>1000.00</amount>
+      <date>7/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Denny Heck for Congress</payeeName>
+      <recipientName>Rep. Denny Heck </recipientName>
+      <amount>2500.00</amount>
+      <date>7/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Pallone for Congress</payeeName>
+      <recipientName>Rep. Frank Pallone</recipientName>
+      <amount>1000.00</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Hoyer for Congress</payeeName>
+      <recipientName>Rep. Steny Hoyer</recipientName>
+      <amount>2000.00</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Pascrell for Congress</payeeName>
+      <recipientName>Rep. Bill Pascrell</recipientName>
+      <amount>1000.00</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>McEachin for Congress</payeeName>
+      <recipientName>Rep. Don McEachin</recipientName>
+      <amount>1000.00</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Davis for Congress</payeeName>
+      <recipientName>Rep. Danny Davis </recipientName>
+      <amount>1500.00</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Wexton for Congress</payeeName>
+      <recipientName>Rep/ Jennifer Wexton</recipientName>
+      <amount>500.00</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Wexton for Congress</payeeName>
+      <recipientName>Rep. Jennifer Wexton</recipientName>
+      <amount>500.00</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Malinowski for Congress</payeeName>
+      <recipientName>Rep. Tom Malinowski</recipientName>
+      <amount>1000.00</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Citizens to Elect Norton</payeeName>
+      <recipientName>Del. Eleanor Holmes Norton</recipientName>
+      <amount>2000.00</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Schakowsky for Congress</payeeName>
+      <recipientName>Rep. Jan Schakowsky </recipientName>
+      <amount>1000.00</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Spanberger for Congress</payeeName>
+      <recipientName>Rep. Abigail Spanberger </recipientName>
+      <amount>1000.00</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Donald M. Payne, Jr for Congress</payeeName>
+      <recipientName>Rep. Donald Payne</recipientName>
+      <amount>1000.00</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Joe Neguse for Congress</payeeName>
+      <recipientName>Rep. Joe Neguse </recipientName>
+      <amount>1000.00</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Finkenauer for Congress</payeeName>
+      <recipientName>Rep. Abby Finkenauer </recipientName>
+      <amount>1000.00</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Xochitl for New Mexico</payeeName>
+      <recipientName>Rep. Xochitl Torres Small</recipientName>
+      <amount>1000.00</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Citizens for Turner</payeeName>
+      <recipientName>Rep. Michael Turner </recipientName>
+      <amount>1000.00</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Kurt Schrader for Congress</payeeName>
+      <recipientName>Rep. Kurt Schrader</recipientName>
+      <amount>1000.00</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Mark Pocan for Congress</payeeName>
+      <recipientName>Rep. Mark Pocan</recipientName>
+      <amount>3000.00</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Sharice for Congress</payeeName>
+      <recipientName>Rep. Sharice Davids </recipientName>
+      <amount>1000.00</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Barragan for Congress</payeeName>
+      <recipientName>Rep. Nanette Barragan</recipientName>
+      <amount>500.00</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Brian Fitzpatrick for Congress</payeeName>
+      <recipientName>Rep. Brian Fitzpatrick </recipientName>
+      <amount>1000.00</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Tom O'Halleran for Congress</payeeName>
+      <recipientName>Rep. Tom O'Halleran </recipientName>
+      <amount>3000.00</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Clay Jr. For Congress</payeeName>
+      <recipientName>Rep. William Lacy Clay </recipientName>
+      <amount>2000.00</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Collins for Senator</payeeName>
+      <recipientName>Sen. Susan Collins </recipientName>
+      <amount>2500.00</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Friends of Dave Joyce</payeeName>
+      <recipientName>Rep. Dave Joyce </recipientName>
+      <amount>1000.00</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Elaine for Congress</payeeName>
+      <recipientName>Rep. Elaine Luria </recipientName>
+      <amount>1000.00</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>McNerney for Congress</payeeName>
+      <recipientName>Rep. Jerry McNerney</recipientName>
+      <amount>1000.00</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Friends of Mark Warner</payeeName>
+      <recipientName>Sen. Mark Warner</recipientName>
+      <amount>1500.00</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Friends of Mark Warner</payeeName>
+      <recipientName>Sen. Mark Warner</recipientName>
+      <amount>1000.00</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Bera For Congress</payeeName>
+      <recipientName>Rep. Ami Bera</recipientName>
+      <amount>1000.00</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Andy Kim for Congress</payeeName>
+      <recipientName>Rep. Andy Kim</recipientName>
+      <amount>1000.00</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Harley Rouda for Congress</payeeName>
+      <recipientName>Rep. Harley Rouda</recipientName>
+      <amount>1500.00</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Kirkpatrick for Congress</payeeName>
+      <recipientName>Rep. Ann Kirkpatrick</recipientName>
+      <amount>1000.00</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Debbie Dingell for Congress</payeeName>
+      <recipientName>Rep. Debbie Dingell</recipientName>
+      <amount>1000.00</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Friends of Jim Clyburn</payeeName>
+      <recipientName>Rep. Jim Clyburn</recipientName>
+      <amount>1500.00</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Bonnie Watson Coleman for Congress</payeeName>
+      <recipientName>Rep. Bonnie Watson Coleman</recipientName>
+      <amount>1000.00</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Peters for Michigan</payeeName>
+      <recipientName>Sen. Gary Peters </recipientName>
+      <amount>2500.00</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Cindy Axne for Congress</payeeName>
+      <recipientName>Rep. Cindy Axne</recipientName>
+      <amount>1000.00</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Cole for Congress</payeeName>
+      <recipientName>Rep. Tom Cole </recipientName>
+      <amount>1000.00</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Rodney for Congress</payeeName>
+      <recipientName>Rep. Rodney Davis </recipientName>
+      <amount>1000.00</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Cartwright for Congress</payeeName>
+      <recipientName>Rep. Matt Cartwright</recipientName>
+      <amount>1000.00</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Connolly for Congress</payeeName>
+      <recipientName>Rep. Gerry Connolly</recipientName>
+      <amount>1000.00</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Haley Stevens for Congress</payeeName>
+      <recipientName>Rep. Haley Stevens</recipientName>
+      <amount>1000.00</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Stand with Sanchez</payeeName>
+      <recipientName>Rep. Linda Sanchez</recipientName>
+      <amount>1000.00</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Chrissy Houlahan for Congress</payeeName>
+      <recipientName>Rep. Chrissy Houlahan</recipientName>
+      <amount>1000.00</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>America's First PAC</payeeName>
+      <recipientName>Leadership PAC on behalf of Rep. Rob Wittman</recipientName>
+      <amount>5000.00</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Citizens Strengthening Our Message in the House PAC</payeeName>
+      <recipientName>Leadership PAC on behalf of Rep. Chris Smith </recipientName>
+      <amount>5000.00</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Victory NOW PAC</payeeName>
+      <recipientName>Leadership PAC on behalf of Sen. Chris Van Hollen</recipientName>
+      <amount>5000.00</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Making America Prosperous PAC</payeeName>
+      <recipientName>Leadership PAC on behalf of Rep. Kevin Brady </recipientName>
+      <amount>5000.00</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>LEGPAC</payeeName>
+      <recipientName>Leadership PAC on behalf on Sen. Ben Cardin</recipientName>
+      <amount>5000.00</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Heartland Values PAC</payeeName>
+      <recipientName>Leadership PAC on behalf of Sen. John Thune </recipientName>
+      <amount>5000.00</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Helping Every Campaign Kickoff PAC</payeeName>
+      <recipientName>Leadership PAC on behalf of Rep. Denny Heck </recipientName>
+      <amount>5000.00</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>PORT PAC</payeeName>
+      <recipientName>Leadership PAC on behalf of Sen. Rob Portman </recipientName>
+      <amount>5000.00</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>ImPACt Committee</payeeName>
+      <recipientName>Leadership PAC on behalf of Rep. Michael Turner</recipientName>
+      <amount>5000.00</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>FreeState PAC</payeeName>
+      <recipientName>Leadership PAC on behalf of Sen. Jerry Moran</recipientName>
+      <amount>5000.00</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>PAC to the Future</payeeName>
+      <recipientName>Leadership PAC on behalf of Rep. Nancy Pelosi </recipientName>
+      <amount>5000.00</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Prairie PAC</payeeName>
+      <recipientName>Leadership PAC on behalf of Sen. Dick Durbin</recipientName>
+      <amount>5000.00</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Defend America PAC</payeeName>
+      <recipientName>Leadership PAC on behalf of Sen. Richard Shelby </recipientName>
+      <amount>5000.00</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Democracy Summer Leadership PAC</payeeName>
+      <recipientName>Leadership PAC on behalf of Rep. Jamie Raskin </recipientName>
+      <amount>5000.00</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Turquoise PAC</payeeName>
+      <recipientName>Leadership PAC on behalf of Rep. Ben Ray Lujan </recipientName>
+      <amount>5000.00</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Richard E Neal for Congress</payeeName>
+      <recipientName>Rep. Richard Neal </recipientName>
+      <amount>3000.00</amount>
+      <date>11/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Friends of Don Beyer</payeeName>
+      <recipientName>Rep. Don Beyer</recipientName>
+      <amount>2000.00</amount>
+      <date>11/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Friends of Don Beyer</payeeName>
+      <recipientName>Rep. Don Beyer</recipientName>
+      <amount>1000.00</amount>
+      <date>11/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Judy Chu for Congress</payeeName>
+      <recipientName>Rep. Judy Chu </recipientName>
+      <amount>1000.00</amount>
+      <date>11/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Rob Wittman for Congress</payeeName>
+      <recipientName>Rep. Rob Wittman</recipientName>
+      <amount>2000.00</amount>
+      <date>11/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Paul Tonko for Congress</payeeName>
+      <recipientName>Rep. Paul Tonko</recipientName>
+      <amount>1000.00</amount>
+      <date>11/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Bera for Congress</payeeName>
+      <recipientName>Rep. Ami Bera</recipientName>
+      <amount>1000.00</amount>
+      <date>11/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Nevadans for Steven Horsford</payeeName>
+      <recipientName>Rep. Steven Horsford</recipientName>
+      <amount>2000.00</amount>
+      <date>11/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Denny Heck for Congress</payeeName>
+      <recipientName>Rep. Denny Heck</recipientName>
+      <amount>1500.00</amount>
+      <date>11/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Larson for Congress</payeeName>
+      <recipientName>Rep. John Larson</recipientName>
+      <amount>1000.00</amount>
+      <date>11/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>People for Derek Kilmer</payeeName>
+      <recipientName>Rep. Derek Kilmer </recipientName>
+      <amount>1000.00</amount>
+      <date>11/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Lisa Blunt Rochester for Congress</payeeName>
+      <recipientName>Rep. Lisa Blunt Rochester </recipientName>
+      <amount>500.00</amount>
+      <date>11/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Pascrell for Congress</payeeName>
+      <recipientName>Rep. Bill Pascrell</recipientName>
+      <amount>500.00</amount>
+      <date>11/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Salud Carbajal for Congress</payeeName>
+      <recipientName>Rep. Salud Carbajal </recipientName>
+      <amount>1000.00</amount>
+      <date>11/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Cindy Axne for Congress</payeeName>
+      <recipientName>Rep. Cindy Axne </recipientName>
+      <amount>1000.00</amount>
+      <date>11/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Cartwright for Congress</payeeName>
+      <recipientName>Rep. Matt Cartwright</recipientName>
+      <amount>1000.00</amount>
+      <date>11/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Angie Craig for Congress</payeeName>
+      <recipientName>Rep. Angie Craig</recipientName>
+      <amount>1000.00</amount>
+      <date>11/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Sharice for Congress</payeeName>
+      <recipientName>Rep. Sharice Davids </recipientName>
+      <amount>1000.00</amount>
+      <date>11/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Finkenauer for Congress</payeeName>
+      <recipientName>Rep. Abby Finkenauer </recipientName>
+      <amount>1000.00</amount>
+      <date>11/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Andy Kim for Congress</payeeName>
+      <recipientName>Rep. Andy Kim </recipientName>
+      <amount>1000.00</amount>
+      <date>11/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Xochitl for New Mexico</payeeName>
+      <recipientName>Rep. Xochitl Torres Small </recipientName>
+      <amount>1000.00</amount>
+      <date>11/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Lizzie Pannill Fletcher for Congress</payeeName>
+      <recipientName>Rep. Lizzie Fletcher </recipientName>
+      <amount>1000.00</amount>
+      <date>11/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Susie Lee for Congress</payeeName>
+      <recipientName>Rep. Susie Lee</recipientName>
+      <amount>1000.00</amount>
+      <date>11/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Dr. Kim Schrier for Congress</payeeName>
+      <recipientName>Rep. Kim Schrier </recipientName>
+      <amount>1000.00</amount>
+      <date>11/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Johnson for Congress</payeeName>
+      <recipientName>Rep. Bill Johnson</recipientName>
+      <amount>2500.00</amount>
+      <date>11/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Friends of Dave Joyce</payeeName>
+      <recipientName>Rep. Dave Joyce</recipientName>
+      <amount>2500.00</amount>
+      <date>11/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Mike Bost for Congress Committee</payeeName>
+      <recipientName>Rep. Mike Bost</recipientName>
+      <amount>3500.00</amount>
+      <date>11/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Pete King for Congress</payeeName>
+      <recipientName>Rep. Pete King </recipientName>
+      <amount>1000.00</amount>
+      <date>11/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Elaine for Congress</payeeName>
+      <recipientName>Rep. Elaine Luria</recipientName>
+      <amount>1000.00</amount>
+      <date>11/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Chris Coons for Delaware</payeeName>
+      <recipientName>Sen. Chris Coons </recipientName>
+      <amount>1000.00</amount>
+      <date>11/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Collins for Senator</payeeName>
+      <recipientName>Sen. Susan Collins</recipientName>
+      <amount>2500.00</amount>
+      <date>11/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Capito for West Virginia</payeeName>
+      <recipientName>Sen. Shelly Moore Capito </recipientName>
+      <amount>1000.00</amount>
+      <date>11/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Anthony Gonzalez for Congress</payeeName>
+      <recipientName>Rep. Anthony Gonzalez </recipientName>
+      <amount>2000.00</amount>
+      <date>11/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Forward Together PAC</payeeName>
+      <recipientName>Leadership PAC on behalf of Sen. Mark Warner </recipientName>
+      <amount>5000.00</amount>
+      <date>11/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>IMPACT</payeeName>
+      <recipientName>Leadership PAC on behalf of Sen. Charles Schumer </recipientName>
+      <amount>5000.00</amount>
+      <date>11/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>AMERIPAC: The Fund for a Greater America</payeeName>
+      <recipientName>Leadership PAC on behalf of Rep. Steny Hoyer</recipientName>
+      <amount>2500.00</amount>
+      <date>11/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>COLE PAC</payeeName>
+      <recipientName>Leadership PAC on behalf of Rep. Tom Cole</recipientName>
+      <amount>5000.00</amount>
+      <date>11/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Common Ground PAC</payeeName>
+      <recipientName>Leadership PAC on behalf of Sen. Tim Kaine </recipientName>
+      <amount>5000.00</amount>
+      <date>11/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>BRIDGE PAC</payeeName>
+      <recipientName>Leadership PAC on behalf of Rep. James Clyburn</recipientName>
+      <amount>5000.00</amount>
+      <date>11/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Joe Neguse for Congress</payeeName>
+      <recipientName>Rep. Joe Neguse </recipientName>
+      <amount>1000.00</amount>
+      <date>12/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Anthony Brown for Congress</payeeName>
+      <recipientName>Rep. Anthony Brown </recipientName>
+      <amount>1000.00</amount>
+      <date>12/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>DeGette for Congres</payeeName>
+      <recipientName>Rep. Diana DeGette</recipientName>
+      <amount>500.00</amount>
+      <date>12/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Conor Lamb for Congress</payeeName>
+      <recipientName>Rep. Conor Lamb </recipientName>
+      <amount>1000.00</amount>
+      <date>12/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Jamie Raskin for Congress</payeeName>
+      <recipientName>Rep. Jamie Raskin </recipientName>
+      <amount>2000.00</amount>
+      <date>12/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Karen Bass for Congress</payeeName>
+      <recipientName>Rep. Karen Bass </recipientName>
+      <amount>1000.00</amount>
+      <date>12/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Stand with Sanchez</payeeName>
+      <recipientName>Rep. Linda Sanchez</recipientName>
+      <amount>1000.00</amount>
+      <date>12/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Maloney for Congress</payeeName>
+      <recipientName>Rep. Carolyn Maloney </recipientName>
+      <amount>1000.00</amount>
+      <date>12/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Spanberger for Congress</payeeName>
+      <recipientName>Rep. Abigail Spanberger </recipientName>
+      <amount>1000.00</amount>
+      <date>12/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Marc Veasey Congressional Campaign Committee</payeeName>
+      <recipientName>Rep. Marc Veasey</recipientName>
+      <amount>1000.00</amount>
+      <date>12/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Mike Thompson for Congress</payeeName>
+      <recipientName>Rep. Mike Thompson </recipientName>
+      <amount>1000.00</amount>
+      <date>12/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Cartwright for Congress</payeeName>
+      <recipientName>Rep. Matt Cartwright </recipientName>
+      <amount>1000.00</amount>
+      <date>12/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Dan Newhouse for Congress</payeeName>
+      <recipientName>Rep. Dan Newhouse </recipientName>
+      <amount>1000.00</amount>
+      <date>12/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Friends of Glenn Thompson</payeeName>
+      <recipientName>Rep. Glenn Thompson </recipientName>
+      <amount>1000.00</amount>
+      <date>12/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Friends of Rosa DeLauro</payeeName>
+      <recipientName>Rep. Rosa DeLauro </recipientName>
+      <amount>1000.00</amount>
+      <date>12/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Garamendi for Congress</payeeName>
+      <recipientName>Rep. John Garamendi </recipientName>
+      <amount>1000.00</amount>
+      <date>12/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Dr. Kim Schrier for Congress</payeeName>
+      <recipientName>Rep. Kim Schrier </recipientName>
+      <amount>1000.00</amount>
+      <date>12/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Yarmuth for Congress</payeeName>
+      <recipientName>Rep. John Yarmuth </recipientName>
+      <amount>1000.00</amount>
+      <date>12/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Capito for West Virginia</payeeName>
+      <recipientName>Sen. Shelly Moore Capito </recipientName>
+      <amount>1000.00</amount>
+      <date>12/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Rodney for Congress</payeeName>
+      <recipientName>Rep. Rodney Davis </recipientName>
+      <amount>1000.00</amount>
+      <date>12/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Wexton for Congress</payeeName>
+      <recipientName>Rep. Jennifer Wexton </recipientName>
+      <amount>1000.00</amount>
+      <date>12/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Salud Carbajal for Congress</payeeName>
+      <recipientName>Rep. Salud Carbajal </recipientName>
+      <amount>1000.00</amount>
+      <date>12/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>People for Derek Kilmer</payeeName>
+      <recipientName>Rep. Derek Kilmer </recipientName>
+      <amount>500.00</amount>
+      <date>12/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>All For Our Country Leadership PAC</payeeName>
+      <recipientName>Leadership PAC on behalf of Sen. Catherine Cortez Masto </recipientName>
+      <amount>5000.00</amount>
+      <date>12/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>AMERIPAC: The Fund for a Greater America</payeeName>
+      <recipientName>Leadership PAC on behalf of Rep. Steny Hoyer </recipientName>
+      <amount>2500.00</amount>
+      <date>12/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Brian Higgins for Congress</payeeName>
+      <recipientName>Rep. Brian Higgins </recipientName>
+      <amount>1000.00</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Shaheen for Senate</payeeName>
+      <recipientName>Sen. Jeanne Shaheen </recipientName>
+      <amount>2500.00</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Citizens for Boyle</payeeName>
+      <recipientName>Rep. Brendan Boyle </recipientName>
+      <amount>1000.00</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Larson for Congress</payeeName>
+      <recipientName>Rep. John Larson</recipientName>
+      <amount>1000.00</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Peters for Michigan</payeeName>
+      <recipientName>Sen. Gary Peters</recipientName>
+      <amount>1000.00</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Susan Wild for Congress</payeeName>
+      <recipientName>Rep. Susan Wild </recipientName>
+      <amount>1000.00</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Stanton for Congress</payeeName>
+      <recipientName>Rep. Greg Stanton </recipientName>
+      <amount>1000.00</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>People for Derek Kilmer</payeeName>
+      <recipientName>Rep. Derek Kilmer </recipientName>
+      <amount>1000.00</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Grace for New York</payeeName>
+      <recipientName>Rep. Grace Meng </recipientName>
+      <amount>1000.00</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Friends of Raja for Congress</payeeName>
+      <recipientName>Rep. Raja Krishnamoorthi</recipientName>
+      <amount>1000.00</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Clay Jr. for Congress</payeeName>
+      <recipientName>Rep. William Lacy Clay </recipientName>
+      <amount>1000.00</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Haley Stevens for Congress</payeeName>
+      <recipientName>Rep. Haley Stevens </recipientName>
+      <amount>1000.00</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Kirkpatrick for Congress</payeeName>
+      <recipientName>Rep. Ann Kirkpatrick </recipientName>
+      <amount>1000.00</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Quigley for Congress</payeeName>
+      <recipientName>Rep. Mike Quigley </recipientName>
+      <amount>2500.00</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Cole for Congress</payeeName>
+      <recipientName>Rep. Tom Cole </recipientName>
+      <amount>1000.00</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Castro for Congress</payeeName>
+      <recipientName>Rep. Joaquin Castro </recipientName>
+      <amount>1500.00</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Anthony Brown for Congress</payeeName>
+      <recipientName>Rep. Anthony Brown </recipientName>
+      <amount>1000.00</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>McKinley for Congress</payeeName>
+      <recipientName>Rep. David McKinley </recipientName>
+      <amount>1000.00</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Friends of Dan Kildee</payeeName>
+      <recipientName>Rep. Dan Kildee</recipientName>
+      <amount>1000.00</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>John Lewis for Congress</payeeName>
+      <recipientName>Rep. John Lewis </recipientName>
+      <amount>1000.00</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>The Reed Committee</payeeName>
+      <recipientName>Sen. Jack Reed</recipientName>
+      <amount>2500.00</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Connolly for Congress</payeeName>
+      <recipientName>Rep. Gerry Connolly </recipientName>
+      <amount>500.00</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Rodney for Congress</payeeName>
+      <recipientName>Rep. Rodney Davis </recipientName>
+      <amount>1000.00</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Friends of Dick Durbin</payeeName>
+      <recipientName>Sen. Dick Durbin</recipientName>
+      <amount>2500.00</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Friends of Cheri Bustos</payeeName>
+      <recipientName>Rep. Cheri Bustos </recipientName>
+      <amount>1000.00</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Pingree for Congress</payeeName>
+      <recipientName>Rep. Chellie Pingree</recipientName>
+      <amount>1000.00</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Pascrell for Congress</payeeName>
+      <recipientName>Rep. Bill Pascrell</recipientName>
+      <amount>1000.00</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Tom Reed for Congress</payeeName>
+      <recipientName>Rep. Tom Reed</recipientName>
+      <amount>1000.00</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Wild and Wonderful PAC</payeeName>
+      <recipientName>Leadership PAC on behalf of Sen. Shelly Moore Capito </recipientName>
+      <amount>5000.00</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Commonwealth PAC</payeeName>
+      <recipientName>Leadership PAC on behalf of Rep. Gerry Connolly </recipientName>
+      <amount>5000.00</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NARFE-PAC</contributorName>
+      <payeeName>Motor City PAC</payeeName>
+      <recipientName>Leadership PAC on behalf of Sen. Gary Peters </recipientName>
+      <amount>5000.00</amount>
+      <date>12/20/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

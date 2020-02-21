@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>Van Heuvelen Strategies, LLC</organizationName>
+  <lobbyistPrefix>Mr.</lobbyistPrefix>
+  <lobbyistFirstName>ROBERT</lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>VAN HEUVELEN</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>321874</senateRegID>
+  <houseRegID>39614</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/30/2020 2:55:56 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Green Mountain PAC</payeeName>
+      <recipientName>Sen. Patrick Leahy</recipientName>
+      <amount>500.00</amount>
+      <date>07/03/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Friends of Mark Warner</payeeName>
+      <recipientName>Sen. Mark Warner</recipientName>
+      <amount>1000.00</amount>
+      <date>07/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Bullock for President</payeeName>
+      <recipientName>Gov. Steve Bullock</recipientName>
+      <amount>250.00</amount>
+      <date>07/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Peters for Michigan</payeeName>
+      <recipientName>Sen. Gary Peters</recipientName>
+      <amount>1000.00</amount>
+      <date>09/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Napolitano for Congress</payeeName>
+      <recipientName>Rep. Grace Napolitano</recipientName>
+      <amount>500.00</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Kendra Horn for Congress</payeeName>
+      <recipientName>Rep. Kendra Horn</recipientName>
+      <amount>1000.00</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Bullock for President</payeeName>
+      <recipientName>Gov. Steve Bullock</recipientName>
+      <amount>500.00</amount>
+      <date>11/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Friends of Mark Warner</payeeName>
+      <recipientName>Sen. Mark Warner</recipientName>
+      <amount>1000.00</amount>
+      <date>12/10/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

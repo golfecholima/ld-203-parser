@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>Oracle Corporation</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>Kenneth Glueck</contactName>
+  <contactPhone>
+  </contactPhone>
+  <senateRegID>30267</senateRegID>
+  <houseRegID>32453</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/30/2020 9:58:59 AM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>Oracle America, Inc. Political Action Committee (Oracle PAC)</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Oracle America, Inc. Political Action Committee (Oracle PAC)</contributorName>
+      <payeeName>Buck For Colorado</payeeName>
+      <recipientName>Rep. Ken Buck</recipientName>
+      <amount>1500</amount>
+      <date>07/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Oracle America, Inc. Political Action Committee (Oracle PAC)</contributorName>
+      <payeeName>Cole For Congress</payeeName>
+      <recipientName>Rep. Tom Cole</recipientName>
+      <amount>1000</amount>
+      <date>07/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Oracle America, Inc. Political Action Committee (Oracle PAC)</contributorName>
+      <payeeName>Committee To Re-Elect Henry Hank Johnson</payeeName>
+      <recipientName>Rep. Hank Johnson</recipientName>
+      <amount>1000</amount>
+      <date>07/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Oracle America, Inc. Political Action Committee (Oracle PAC)</contributorName>
+      <payeeName>Friends Of Dick Durbin</payeeName>
+      <recipientName>Sen. Richard Durbin</recipientName>
+      <amount>1000</amount>
+      <date>07/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Oracle America, Inc. Political Action Committee (Oracle PAC)</contributorName>
+      <payeeName>Friends Of Jim Inhofe</payeeName>
+      <recipientName>Sen. Jim Inhofe</recipientName>
+      <amount>1000</amount>
+      <date>07/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Oracle America, Inc. Political Action Committee (Oracle PAC)</contributorName>
+      <payeeName>People For Derek Kilmer</payeeName>
+      <recipientName>Rep. Derek Kilmer</recipientName>
+      <amount>1000</amount>
+      <date>07/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Oracle America, Inc. Political Action Committee (Oracle PAC)</contributorName>
+      <payeeName>Reclaim America PAC</payeeName>
+      <recipientName>Sen. Marco Rubio</recipientName>
+      <amount>1500</amount>
+      <date>07/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Oracle America, Inc. Political Action Committee (Oracle PAC)</contributorName>
+      <payeeName>Schiff For Congress</payeeName>
+      <recipientName>Rep. Adam Schiff</recipientName>
+      <amount>1000</amount>
+      <date>07/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Oracle America, Inc. Political Action Committee (Oracle PAC)</contributorName>
+      <payeeName>Shaheen For Senate</payeeName>
+      <recipientName>Sen. Jeanne Shaheen</recipientName>
+      <amount>1000</amount>
+      <date>07/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Oracle America, Inc. Political Action Committee (Oracle PAC)</contributorName>
+      <payeeName>DCCC</payeeName>
+      <recipientName>DCCC</recipientName>
+      <amount>3750</amount>
+      <date>09/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Oracle America, Inc. Political Action Committee (Oracle PAC)</contributorName>
+      <payeeName>Doyle For Congress Committee</payeeName>
+      <recipientName>Rep. Michael Doyle</recipientName>
+      <amount>1000</amount>
+      <date>09/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Oracle America, Inc. Political Action Committee (Oracle PAC)</contributorName>
+      <payeeName>DSCC</payeeName>
+      <recipientName>DSCC</recipientName>
+      <amount>3750</amount>
+      <date>09/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Oracle America, Inc. Political Action Committee (Oracle PAC)</contributorName>
+      <payeeName>MARSHA PAC</payeeName>
+      <recipientName>Sen. Marsha Blackburn</recipientName>
+      <amount>1000</amount>
+      <date>09/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Oracle America, Inc. Political Action Committee (Oracle PAC)</contributorName>
+      <payeeName>Moran For Kansas</payeeName>
+      <recipientName>Sen. Jerry Moran</recipientName>
+      <amount>1000</amount>
+      <date>09/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Oracle America, Inc. Political Action Committee (Oracle PAC)</contributorName>
+      <payeeName>NRCC</payeeName>
+      <recipientName>NRCC</recipientName>
+      <amount>3750</amount>
+      <date>09/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Oracle America, Inc. Political Action Committee (Oracle PAC)</contributorName>
+      <payeeName>NRSC</payeeName>
+      <recipientName>NRSC</recipientName>
+      <amount>3750</amount>
+      <date>09/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Oracle America, Inc. Political Action Committee (Oracle PAC)</contributorName>
+      <payeeName>Peach PAC</payeeName>
+      <recipientName>Rep. Doug Collins</recipientName>
+      <amount>2500</amount>
+      <date>09/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Oracle America, Inc. Political Action Committee (Oracle PAC)</contributorName>
+      <payeeName>Rosen For Nevada</payeeName>
+      <recipientName>Sen. Jacklyn Rosen</recipientName>
+      <amount>1000</amount>
+      <date>09/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Oracle America, Inc. Political Action Committee (Oracle PAC)</contributorName>
+      <payeeName>Friends Of Jim Clyburn</payeeName>
+      <recipientName>Rep. James Clyburn</recipientName>
+      <amount>1500</amount>
+      <date>09/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Oracle America, Inc. Political Action Committee (Oracle PAC)</contributorName>
+      <payeeName>Friends Of John Thune</payeeName>
+      <recipientName>Sen. John Thune</recipientName>
+      <amount>3500</amount>
+      <date>09/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Oracle America, Inc. Political Action Committee (Oracle PAC)</contributorName>
+      <payeeName>IAO Property Holdings LLC</payeeName>
+      <recipientName>Rep. Kevin McCarthy</recipientName>
+      <amount>210</amount>
+      <date>09/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Oracle America, Inc. Political Action Committee (Oracle PAC)</contributorName>
+      <payeeName>IAO Property Holdings LLC</payeeName>
+      <recipientName>Rep. Jerry McNerney</recipientName>
+      <amount>210</amount>
+      <date>09/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Oracle America, Inc. Political Action Committee (Oracle PAC)</contributorName>
+      <payeeName>IAO Property Holdings LLC</payeeName>
+      <recipientName>Mike Rogers</recipientName>
+      <amount>90.00</amount>
+      <date>09/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Oracle America, Inc. Political Action Committee (Oracle PAC)</contributorName>
+      <payeeName>Bergman For Congress</payeeName>
+      <recipientName>Rep. Jack Bergman</recipientName>
+      <amount>1000</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Oracle America, Inc. Political Action Committee (Oracle PAC)</contributorName>
+      <payeeName>Friends For Chris Stewart, Inc.</payeeName>
+      <recipientName>Rep. Chris Stewart</recipientName>
+      <amount>1000</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Oracle America, Inc. Political Action Committee (Oracle PAC)</contributorName>
+      <payeeName>Friends Of Jim Clyburn</payeeName>
+      <recipientName>Rep. James Clyburn</recipientName>
+      <amount>2500</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Oracle America, Inc. Political Action Committee (Oracle PAC)</contributorName>
+      <payeeName>Mike Rogers For Congress</payeeName>
+      <recipientName>Rep. Mike Rogers</recipientName>
+      <amount>1000</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Oracle America, Inc. Political Action Committee (Oracle PAC)</contributorName>
+      <payeeName>PAC To The Future</payeeName>
+      <recipientName>Rep. Nancy Pelosi</recipientName>
+      <amount>1000</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Oracle America, Inc. Political Action Committee (Oracle PAC)</contributorName>
+      <payeeName>Thom Tillis Committee</payeeName>
+      <recipientName>Sen. Thom Tillis</recipientName>
+      <amount>1000</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Oracle America, Inc. Political Action Committee (Oracle PAC)</contributorName>
+      <payeeName>True North PAC</payeeName>
+      <recipientName>Sen. Dan Sullivan</recipientName>
+      <amount>1000.00</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Oracle America, Inc. Political Action Committee (Oracle PAC)</contributorName>
+      <payeeName>DCCC</payeeName>
+      <recipientName>DCCC</recipientName>
+      <amount>3750</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Oracle America, Inc. Political Action Committee (Oracle PAC)</contributorName>
+      <payeeName>DSCC</payeeName>
+      <recipientName>DSCC</recipientName>
+      <amount>3750</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Oracle America, Inc. Political Action Committee (Oracle PAC)</contributorName>
+      <payeeName>NRCC</payeeName>
+      <recipientName>NRCC</recipientName>
+      <amount>3750</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Oracle America, Inc. Political Action Committee (Oracle PAC)</contributorName>
+      <payeeName>NRSC</payeeName>
+      <recipientName>NRSC</recipientName>
+      <amount>3750</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Oracle America, Inc. Political Action Committee (Oracle PAC)</contributorName>
+      <payeeName>IAO Property Holdings LLC</payeeName>
+      <recipientName>Jerry McNerney</recipientName>
+      <amount>90.00</amount>
+      <date>11/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Oracle America, Inc. Political Action Committee (Oracle PAC)</contributorName>
+      <payeeName>Friends Of Schumer</payeeName>
+      <recipientName>Sen. Charles Schumer</recipientName>
+      <amount>2500</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Oracle America, Inc. Political Action Committee (Oracle PAC)</contributorName>
+      <payeeName>Ken Calvert For Congress Committee</payeeName>
+      <recipientName>Rep. Ken Calvert</recipientName>
+      <amount>1000</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Oracle America, Inc. Political Action Committee (Oracle PAC)</contributorName>
+      <payeeName>Kinzinger For Congress</payeeName>
+      <recipientName>Rep. Adam Kinzinger</recipientName>
+      <amount>1000</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Oracle America, Inc. Political Action Committee (Oracle PAC)</contributorName>
+      <payeeName>Lofgren For Congress</payeeName>
+      <recipientName>Rep. Zoe Lofgren</recipientName>
+      <amount>1000</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Oracle America, Inc. Political Action Committee (Oracle PAC)</contributorName>
+      <payeeName>Matsui For Congress</payeeName>
+      <recipientName>Rep. Doris Matsui</recipientName>
+      <amount>1000</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Oracle America, Inc. Political Action Committee (Oracle PAC)</contributorName>
+      <payeeName>McConnell Senate Committee</payeeName>
+      <recipientName>Sen. Mitch McConnell</recipientName>
+      <amount>2500</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Oracle America, Inc. Political Action Committee (Oracle PAC)</contributorName>
+      <payeeName>Perdue For Senate</payeeName>
+      <recipientName>Sen. David Perdue</recipientName>
+      <amount>1000</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Oracle America, Inc. Political Action Committee (Oracle PAC)</contributorName>
+      <payeeName>Stand with Sanchez</payeeName>
+      <recipientName>Rep. Linda Sanchez</recipientName>
+      <amount>1000</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Oracle America, Inc. Political Action Committee (Oracle PAC)</contributorName>
+      <payeeName>Thom Tillis Committee</payeeName>
+      <recipientName>Sen. Thom Tillis</recipientName>
+      <amount>1000</amount>
+      <date>12/19/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

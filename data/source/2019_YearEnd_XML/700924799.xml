@@ -1,0 +1,2192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>American Association for Justice</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>Anjali Jesseramsing</contactName>
+  <senateRegID>4733</senateRegID>
+  <houseRegID>31241</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/30/2020 11:54:54 AM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>American Association for Justice Political Action Committee</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Mike Thompson For Congress</payeeName>
+      <recipientName>Rep. Mike Thompson</recipientName>
+      <amount>2000</amount>
+      <date>7/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Eddie Bernice Johnson For Congress</payeeName>
+      <recipientName>Rep. Eddie Johnson</recipientName>
+      <amount>5000</amount>
+      <date>7/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Progressive Choices PAC</payeeName>
+      <recipientName>Rep.  Janice Schakowsky</recipientName>
+      <amount>5000</amount>
+      <date>7/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Lisa Murkowski For US Senate</payeeName>
+      <recipientName>Sen. Lisa Murkowski</recipientName>
+      <amount>1000</amount>
+      <date>7/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Friends Of Cheri Bustos</payeeName>
+      <recipientName>Rep. Cheri Bustos</recipientName>
+      <amount>4000</amount>
+      <date>7/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>AMERIPAC</payeeName>
+      <recipientName>Rep. Steny Hoyer</recipientName>
+      <amount>5000</amount>
+      <date>7/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Kind For Congress Committee</payeeName>
+      <recipientName>Rep. Ron Kind</recipientName>
+      <amount>1000</amount>
+      <date>7/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Doug Jones For Senate Committee</payeeName>
+      <recipientName>Sen. Doug Jones</recipientName>
+      <amount>4000</amount>
+      <date>7/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Espaillat For Congress</payeeName>
+      <recipientName>Rep. Adriano Espaillat</recipientName>
+      <amount>4000</amount>
+      <date>7/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Committee to Re-Elect Linda Sanchez</payeeName>
+      <recipientName>Rep. Linda Sanchez</recipientName>
+      <amount>1000</amount>
+      <date>7/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>McCollum For Congress</payeeName>
+      <recipientName>Rep. Betty McCollum</recipientName>
+      <amount>2500</amount>
+      <date>7/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Nevadans For Steven Horsford</payeeName>
+      <recipientName>Rep. Steven Horsford</recipientName>
+      <amount>2000</amount>
+      <date>7/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Veronica Escobar For Congress</payeeName>
+      <recipientName>Rep. Veronica Escobar</recipientName>
+      <amount>3000</amount>
+      <date>7/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>A Whole Lot Of People For Grijalva Congressional Committee</payeeName>
+      <recipientName>Rep. Raul Grijalva</recipientName>
+      <amount>2500</amount>
+      <date>7/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Alma Adams For Congress</payeeName>
+      <recipientName>Rep. Alma Adams</recipientName>
+      <amount>2000</amount>
+      <date>7/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Larson For Congress</payeeName>
+      <recipientName>Rep. John Larson</recipientName>
+      <amount>2500</amount>
+      <date>7/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Haley Stevens For Congress</payeeName>
+      <recipientName>Rep. Haley Stevens</recipientName>
+      <amount>1000</amount>
+      <date>7/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Jimmy Gomez For Congress</payeeName>
+      <recipientName>Rep. Jimmy Gomez</recipientName>
+      <amount>2500</amount>
+      <date>7/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Deb Haaland For Congress</payeeName>
+      <recipientName>Rep. Debra Haaland</recipientName>
+      <amount>4000</amount>
+      <date>7/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Schneider For Congress</payeeName>
+      <recipientName>Rep. Bradley Schneider</recipientName>
+      <amount>1000</amount>
+      <date>7/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Castor For Congress</payeeName>
+      <recipientName>Rep. Kathy Castor</recipientName>
+      <amount>2500</amount>
+      <date>7/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Yarmuth For Congress</payeeName>
+      <recipientName>Rep. John Yarmuth</recipientName>
+      <amount>3000</amount>
+      <date>7/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Elissa Slotkin For Congress</payeeName>
+      <recipientName>Rep. Elissa Slotkin</recipientName>
+      <amount>2500</amount>
+      <date>7/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Stephen Lynch For Congress</payeeName>
+      <recipientName>Rep. Stephen Lynch</recipientName>
+      <amount>3000</amount>
+      <date>7/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Conor Lamb For Congress</payeeName>
+      <recipientName>Rep. Conor Lamb</recipientName>
+      <amount>1000</amount>
+      <date>7/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Vicente Gonzalez For Congress</payeeName>
+      <recipientName>Rep. Vicente Gonzalez</recipientName>
+      <amount>1000</amount>
+      <date>7/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>People For Patty Murray</payeeName>
+      <recipientName>Sen. Patty Murray</recipientName>
+      <amount>1000</amount>
+      <date>7/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Friends Of Ben McAdams</payeeName>
+      <recipientName>Rep. Ben McAdams</recipientName>
+      <amount>1000</amount>
+      <date>7/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Frederica S. Wilson For Congress</payeeName>
+      <recipientName>Rep. Frederica Wilson</recipientName>
+      <amount>1000</amount>
+      <date>7/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Anthony Brown For Congress</payeeName>
+      <recipientName>Rep. Anthony Brown</recipientName>
+      <amount>3000</amount>
+      <date>7/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Cooper For Congress</payeeName>
+      <recipientName>Rep. Jim Cooper</recipientName>
+      <amount>1000</amount>
+      <date>7/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Richmond For Congress</payeeName>
+      <recipientName>Rep. Cedric Richmond</recipientName>
+      <amount>2500</amount>
+      <date>7/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Dr. Raul Ruiz For Congress</payeeName>
+      <recipientName>Rep. Raul Ruiz</recipientName>
+      <amount>1000</amount>
+      <date>7/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Scott Peters For Congress</payeeName>
+      <recipientName>Rep. Scott Peters</recipientName>
+      <amount>1000</amount>
+      <date>7/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Napolitano For Congress</payeeName>
+      <recipientName>Rep. Grace Napolitano</recipientName>
+      <amount>4000</amount>
+      <date>7/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Connolly For Congress</payeeName>
+      <recipientName>Rep. Gerald Connolly</recipientName>
+      <amount>2000</amount>
+      <date>7/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>People For Derek Kilmer</payeeName>
+      <recipientName>Rep. Derek Kilmer</recipientName>
+      <amount>1000</amount>
+      <date>7/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Mark Kelly For Senate</payeeName>
+      <recipientName>Mark Kelly</recipientName>
+      <amount>5000</amount>
+      <date>7/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Friends Of Dick Durbin Committee</payeeName>
+      <recipientName>Sen. Richard Durbin</recipientName>
+      <amount>5000</amount>
+      <date>7/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Prairie PAC</payeeName>
+      <recipientName>Sen. Richard Durbin</recipientName>
+      <amount>5000</amount>
+      <date>7/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Swalwell For Congress</payeeName>
+      <recipientName>Rep. Eric Swalwell</recipientName>
+      <amount>2500</amount>
+      <date>7/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>All For Our Country Leadership PAC</payeeName>
+      <recipientName>Sen. Catherine Cortez Masto</recipientName>
+      <amount>5000</amount>
+      <date>7/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Empowering Each Community PAC</payeeName>
+      <recipientName>Rep. Elijah Cummings</recipientName>
+      <amount>5000</amount>
+      <date>8/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Peters For Michigan</payeeName>
+      <recipientName>Sen. Gary Peters</recipientName>
+      <amount>5000</amount>
+      <date>8/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Sara Gideon For Maine</payeeName>
+      <recipientName>Sara Gideon</recipientName>
+      <amount>5000</amount>
+      <date>8/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Chuy Garcia For Congress</payeeName>
+      <recipientName>Rep. Jesus Garcia</recipientName>
+      <amount>2500</amount>
+      <date>9/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Lori Trahan For Congress Committee</payeeName>
+      <recipientName>Rep. Lori Trahan</recipientName>
+      <amount>2000</amount>
+      <date>9/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Hastings For Congress</payeeName>
+      <recipientName>Rep. Alcee Hastings</recipientName>
+      <amount>2500</amount>
+      <date>9/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Van Drew For Congress</payeeName>
+      <recipientName>Rep. Jeff Van Drew</recipientName>
+      <amount>1500</amount>
+      <date>9/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Josh Gottheimer For Congress</payeeName>
+      <recipientName>Rep. Joshua Gottheimer</recipientName>
+      <amount>2000</amount>
+      <date>9/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>GWEN PAC</payeeName>
+      <recipientName>Rep. Gwendolynne Moore</recipientName>
+      <amount>2500</amount>
+      <date>9/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Friends Of Bennie Thompson</payeeName>
+      <recipientName>Rep. Bennie Thompson</recipientName>
+      <amount>2500</amount>
+      <date>9/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Cooper For Congress</payeeName>
+      <recipientName>Rep. Jim Cooper</recipientName>
+      <amount>1000</amount>
+      <date>9/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Tom Malinowski For Congress</payeeName>
+      <recipientName>Rep. Tom Malinowski</recipientName>
+      <amount>2500</amount>
+      <date>9/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Donald M. Payne Jr. For Congress</payeeName>
+      <recipientName>Rep. Donald Payne</recipientName>
+      <amount>2500</amount>
+      <date>9/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Kind For Congress Committee</payeeName>
+      <recipientName>Rep. Ron Kind</recipientName>
+      <amount>1000</amount>
+      <date>9/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Jim Costa For Congress</payeeName>
+      <recipientName>Rep. Jim Costa</recipientName>
+      <amount>1000</amount>
+      <date>9/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Kathleen Rice For Congress</payeeName>
+      <recipientName>Rep. Kathleen Rice</recipientName>
+      <amount>2500</amount>
+      <date>9/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Finkenauer For Congress</payeeName>
+      <recipientName>Rep. Abby Finkenauer</recipientName>
+      <amount>2500</amount>
+      <date>9/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>People For Derek Kilmer</payeeName>
+      <recipientName>Rep. Derek Kilmer</recipientName>
+      <amount>1000</amount>
+      <date>9/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Norma Torres For Congress</payeeName>
+      <recipientName>Rep. Norma Torres</recipientName>
+      <amount>2000</amount>
+      <date>9/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Jeanne Shaheen For Senate</payeeName>
+      <recipientName>Sen. Jeanne Shaheen</recipientName>
+      <amount>5000</amount>
+      <date>9/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Spanberger For Congress</payeeName>
+      <recipientName>Rep. Abigail Spanberger</recipientName>
+      <amount>5000</amount>
+      <date>9/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Ross Spano For Congress</payeeName>
+      <recipientName>Rep. Ross Spano</recipientName>
+      <amount>1000</amount>
+      <date>9/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Elissa Slotkin For Congress</payeeName>
+      <recipientName>Rep. Elissa Slotkin</recipientName>
+      <amount>1000</amount>
+      <date>9/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Scott Peters For Congress</payeeName>
+      <recipientName>Rep. Scott Peters</recipientName>
+      <amount>1000</amount>
+      <date>9/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Virgin Islands For Plaskett</payeeName>
+      <recipientName>Del. Stacey Plaskett</recipientName>
+      <amount>1000</amount>
+      <date>9/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Mikie Sherrill For Congress</payeeName>
+      <recipientName>Rep. Mikie Sherrill</recipientName>
+      <amount>2500</amount>
+      <date>9/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Elaine For Congress</payeeName>
+      <recipientName>Rep. Elaine Luria</recipientName>
+      <amount>2500</amount>
+      <date>9/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Chrissy Houlahan For Congress</payeeName>
+      <recipientName>Rep. Chrissy Houlahan</recipientName>
+      <amount>1000</amount>
+      <date>9/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>John Kennedy For Us</payeeName>
+      <recipientName>Sen. John Kennedy</recipientName>
+      <amount>1000</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Susie Lee For Congress</payeeName>
+      <recipientName>Rep. Susie Lee</recipientName>
+      <amount>2500</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Mark Pocan For Congress</payeeName>
+      <recipientName>Rep. Mark Pocan</recipientName>
+      <amount>1500</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Al Lawson For Congress</payeeName>
+      <recipientName>Rep. Al Lawson</recipientName>
+      <amount>2500</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Veronica Escobar For Congress</payeeName>
+      <recipientName>Rep. Veronica Escobar</recipientName>
+      <amount>1000</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Mark Desaulnier For Congress</payeeName>
+      <recipientName>Rep. Mark DeSaulnier</recipientName>
+      <amount>2500</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Debbie For Congress</payeeName>
+      <recipientName>Rep. Debbie Mucarsel-Powell</recipientName>
+      <amount>1000</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Stanton For Congress</payeeName>
+      <recipientName>Rep. Greg Stanton</recipientName>
+      <amount>2500</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Jason Crow For Congress</payeeName>
+      <recipientName>Rep. Jason Crow</recipientName>
+      <amount>2500</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Engel For Congress</payeeName>
+      <recipientName>Rep. Eliot Engel</recipientName>
+      <amount>2500</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Dwight Evans For Congress</payeeName>
+      <recipientName>Rep. Dwight Evans</recipientName>
+      <amount>1000</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Kurt Schrader For Congress</payeeName>
+      <recipientName>Rep. Kurt Schrader</recipientName>
+      <amount>1000</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Eddie Bernice Johnson For Congress</payeeName>
+      <recipientName>Rep. Eddie Johnson</recipientName>
+      <amount>1000</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Re-Elect McGovern Committee</payeeName>
+      <recipientName>Rep. James McGovern</recipientName>
+      <amount>2500</amount>
+      <date>9/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Theresa Greenfield For Iowa</payeeName>
+      <recipientName>Theresa Greenfield</recipientName>
+      <amount>5000</amount>
+      <date>9/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Cindy Axne For Congress</payeeName>
+      <recipientName>Rep. Cindy Axne</recipientName>
+      <amount>2500</amount>
+      <date>9/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Mark Desaulnier For Congress</payeeName>
+      <recipientName>Rep. Mark DeSaulnier</recipientName>
+      <amount>2500</amount>
+      <date>9/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Teresa Tomlinson For Senate</payeeName>
+      <recipientName>Teresa Tomlinson</recipientName>
+      <amount>5000</amount>
+      <date>9/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>McNerney for Congress</payeeName>
+      <recipientName>Rep. Gerald McNerney</recipientName>
+      <amount>1000</amount>
+      <date>9/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Kendra Horn For Congress</payeeName>
+      <recipientName>Rep. Kendra Horn</recipientName>
+      <amount>1000</amount>
+      <date>9/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Committee To Re-Elect Nydia M. Velazquez To Congress</payeeName>
+      <recipientName>Rep. Nydia Velazquez</recipientName>
+      <amount>2000</amount>
+      <date>9/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Katie Porter For Congress</payeeName>
+      <recipientName>Rep. Katherine Porter</recipientName>
+      <amount>2500</amount>
+      <date>9/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Debbie Dingell For Congress</payeeName>
+      <recipientName>Rep. Debbie Dingell</recipientName>
+      <amount>3000</amount>
+      <date>9/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Martin Heinrich For Senate</payeeName>
+      <recipientName>Sen. Martin Heinrich</recipientName>
+      <amount>1000</amount>
+      <date>9/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Matsui For Congress</payeeName>
+      <recipientName>Rep. Doris Matsui</recipientName>
+      <amount>2500</amount>
+      <date>9/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Paul Tonko For Congress</payeeName>
+      <recipientName>Rep. Paul Tonko</recipientName>
+      <amount>2000</amount>
+      <date>9/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Pingree For Congress</payeeName>
+      <recipientName>Rep. Chellie Pingree</recipientName>
+      <amount>4000</amount>
+      <date>9/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Mark Takano For Congress</payeeName>
+      <recipientName>Rep. Mark Takano</recipientName>
+      <amount>4000</amount>
+      <date>9/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>T.J. Cox For Congress</payeeName>
+      <recipientName>Rep. T.J. Cox</recipientName>
+      <amount>5000</amount>
+      <date>9/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Gallego For Arizona</payeeName>
+      <recipientName>Rep. Ruben Gallego</recipientName>
+      <amount>2500</amount>
+      <date>9/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Brian Higgins For Congress</payeeName>
+      <recipientName>Rep. Brian Higgins</recipientName>
+      <amount>2500</amount>
+      <date>9/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Bonamici For Congress</payeeName>
+      <recipientName>Rep. Suzanne Bonamici</recipientName>
+      <amount>1000</amount>
+      <date>9/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Peterson For Congress</payeeName>
+      <recipientName>Rep. Collin Peterson</recipientName>
+      <amount>1000</amount>
+      <date>9/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Andre Carson For Congress</payeeName>
+      <recipientName>Rep. Andre Carson</recipientName>
+      <amount>5000</amount>
+      <date>9/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Grace For New York</payeeName>
+      <recipientName>Rep. Grace Meng</recipientName>
+      <amount>5000</amount>
+      <date>9/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Bonnie Watson Coleman For Congress</payeeName>
+      <recipientName>Rep. Bonnie Watson Coleman</recipientName>
+      <amount>2500</amount>
+      <date>9/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Kaptur For Congress</payeeName>
+      <recipientName>Rep. Marcy Kaptur</recipientName>
+      <amount>4000</amount>
+      <date>9/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Schneider For Congress</payeeName>
+      <recipientName>Rep. Bradley Schneider</recipientName>
+      <amount>2000</amount>
+      <date>9/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Pascrell For Congress</payeeName>
+      <recipientName>Rep. William Pascrell</recipientName>
+      <amount>3000</amount>
+      <date>9/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Cleaver For Congress</payeeName>
+      <recipientName>Rep. Emanuel Cleaver</recipientName>
+      <amount>2000</amount>
+      <date>9/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Friends Of Lucy McBath</payeeName>
+      <recipientName>Rep. Lucia McBath</recipientName>
+      <amount>4000</amount>
+      <date>9/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Citizens For Waters</payeeName>
+      <recipientName>Rep. Maxine Waters</recipientName>
+      <amount>5000</amount>
+      <date>9/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Doggett For Congress</payeeName>
+      <recipientName>Rep. Lloyd Doggett</recipientName>
+      <amount>4000</amount>
+      <date>9/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Defazio For Congress</payeeName>
+      <recipientName>Rep. Peter DeFazio</recipientName>
+      <amount>2500</amount>
+      <date>9/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Lauren Underwood For Congress</payeeName>
+      <recipientName>Rep. Lauren Underwood</recipientName>
+      <amount>2500</amount>
+      <date>9/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Conor Lamb For Congress</payeeName>
+      <recipientName>Rep. Conor Lamb</recipientName>
+      <amount>1000</amount>
+      <date>9/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Harley Rouda For Congress</payeeName>
+      <recipientName>Rep. Harley Rouda</recipientName>
+      <amount>1500</amount>
+      <date>9/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Tom O'Halleran For Congress</payeeName>
+      <recipientName>Rep. Tom O'Halleran</recipientName>
+      <amount>1500</amount>
+      <date>9/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Friends Of Ben McAdams</payeeName>
+      <recipientName>Rep. Ben McAdams</recipientName>
+      <amount>1500</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Terri Sewell For Congress</payeeName>
+      <recipientName>Rep. Terri Sewell</recipientName>
+      <amount>1000</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Friends Of Rosa DeLauro</payeeName>
+      <recipientName>Rep. Rosa DeLauro</recipientName>
+      <amount>5000</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Charlie Crist For Congress</payeeName>
+      <recipientName>Rep. Charles Crist</recipientName>
+      <amount>2500</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Cohen For Congress</payeeName>
+      <recipientName>Rep. Stephen Cohen</recipientName>
+      <amount>3000</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Citizens For Eleanor Holmes Norton</payeeName>
+      <recipientName>Del. Eleanor Norton</recipientName>
+      <amount>1000</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Brenda Lawrence For Congress</payeeName>
+      <recipientName>Rep. Brenda Lawrence</recipientName>
+      <amount>2500</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Cisneros For Congress</payeeName>
+      <recipientName>Rep. Gilbert Cisneros</recipientName>
+      <amount>1500</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>A Whole Lot Of People For Grijalva Congressional Committee</payeeName>
+      <recipientName>Rep. Raul Grijalva</recipientName>
+      <amount>2500</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Vicente Gonzalez For Congress</payeeName>
+      <recipientName>Rep. Vicente Gonzalez</recipientName>
+      <amount>1500</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Susan Wild For Congress</payeeName>
+      <recipientName>Rep. Susan Wild</recipientName>
+      <amount>1000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Cal For NC</payeeName>
+      <recipientName>Cal Cunningham</recipientName>
+      <amount>5000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Castro For Congress</payeeName>
+      <recipientName>Rep. Joaquin Castro</recipientName>
+      <amount>4000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Lou Correa For Congress</payeeName>
+      <recipientName>Rep. J. Luis Correa</recipientName>
+      <amount>1000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Visclosky For Congress</payeeName>
+      <recipientName>Rep. Peter Visclosky</recipientName>
+      <amount>4000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Clarke For Congress</payeeName>
+      <recipientName>Rep. Yvette Clarke</recipientName>
+      <amount>2500</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Sharice For Congress</payeeName>
+      <recipientName>Rep. Sharice Davids</recipientName>
+      <amount>2500</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Tim Ryan For Congress</payeeName>
+      <recipientName>Rep. Tim Ryan</recipientName>
+      <amount>4000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Committee To Elect Jared Golden</payeeName>
+      <recipientName>Rep. Jared Golden</recipientName>
+      <amount>1000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Jamie Raskin For Congress</payeeName>
+      <recipientName>Rep. Jamie Raskin</recipientName>
+      <amount>5000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Kirkpatrick For Congress</payeeName>
+      <recipientName>Rep. Ann Kirkpatrick</recipientName>
+      <amount>4000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Dr. Raul Ruiz For Congress</payeeName>
+      <recipientName>Rep. Raul Ruiz</recipientName>
+      <amount>1000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Beatty For Congress</payeeName>
+      <recipientName>Rep. Joyce Beatty</recipientName>
+      <amount>1000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Anna Eshoo For Congress</payeeName>
+      <recipientName>Rep. Anna Eshoo</recipientName>
+      <amount>2000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Debbie Wasserman Schultz For Congress</payeeName>
+      <recipientName>Rep. Debbie Wasserman-Schultz</recipientName>
+      <amount>3000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Sylvia Garcia For Congress</payeeName>
+      <recipientName>Rep. Sylvia Garcia</recipientName>
+      <amount>1000</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Maloney For Congress</payeeName>
+      <recipientName>Rep. Carolyn Maloney</recipientName>
+      <amount>2500</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Sanford Bishop For Congress</payeeName>
+      <recipientName>Rep. Sanford Bishop</recipientName>
+      <amount>2000</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Blumenauer For Congress</payeeName>
+      <recipientName>Rep. Earl Blumenauer</recipientName>
+      <amount>2500</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Tony Cardenas For Congress</payeeName>
+      <recipientName>Rep. Tony Cardenas</recipientName>
+      <amount>1000</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Josh Hicks For Congress</payeeName>
+      <recipientName>Josh Hicks</recipientName>
+      <amount>5000</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Huffman For Congress</payeeName>
+      <recipientName>Rep. Jared Huffman</recipientName>
+      <amount>4000</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Dina Titus For Congress</payeeName>
+      <recipientName>Rep. Dina Titus</recipientName>
+      <amount>2500</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Barbara Lee For Congress</payeeName>
+      <recipientName>Rep. Barbara Lee</recipientName>
+      <amount>2500</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Julia Brownley For Congress</payeeName>
+      <recipientName>Rep. Julia Brownley</recipientName>
+      <amount>2500</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Alan Lowenthal For Congress</payeeName>
+      <recipientName>Rep. Alan Lowenthal</recipientName>
+      <amount>2000</amount>
+      <date>9/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Pramila For Congress</payeeName>
+      <recipientName>Rep. Pramila Jayapal</recipientName>
+      <amount>1000</amount>
+      <date>9/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Friends Of Don Beyer</payeeName>
+      <recipientName>Rep. Don Beyer</recipientName>
+      <amount>3000</amount>
+      <date>9/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Castor For Congress</payeeName>
+      <recipientName>Rep. Kathy Castor</recipientName>
+      <amount>2500</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Donna Shalala For Congress</payeeName>
+      <recipientName>Rep. Donna Shalala</recipientName>
+      <amount>2500</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Bera For Congress</payeeName>
+      <recipientName>Rep. Ami Bera</recipientName>
+      <amount>1000</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Tom Malinowski For Congress</payeeName>
+      <recipientName>Rep. Tom Malinowski</recipientName>
+      <amount>1000</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Keystone America PAC</payeeName>
+      <recipientName>Sen. Robert Casey</recipientName>
+      <amount>5000</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Clay Jr. For Congress</payeeName>
+      <recipientName>Rep. William Lacy Clay Jr.</recipientName>
+      <amount>2500</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Josh Harder For Congress</payeeName>
+      <recipientName>Rep. Josh Harder</recipientName>
+      <amount>1500</amount>
+      <date>10/8/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Jimmy Panetta For Congress</payeeName>
+      <recipientName>Rep. Jimmy Panetta</recipientName>
+      <amount>1000</amount>
+      <date>10/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Judy Chu For Congress</payeeName>
+      <recipientName>Rep. Judy Chu</recipientName>
+      <amount>2500</amount>
+      <date>10/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Brindisi For Congress</payeeName>
+      <recipientName>Rep. Anthony Brindisi</recipientName>
+      <amount>1000</amount>
+      <date>10/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Dutch Ruppersberger For Congress Committee</payeeName>
+      <recipientName>Rep. C.A. Ruppersberger</recipientName>
+      <amount>3000</amount>
+      <date>10/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Bera For Congress</payeeName>
+      <recipientName>Rep. Ami Bera</recipientName>
+      <amount>1000</amount>
+      <date>10/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Sean Patrick Maloney For Congress</payeeName>
+      <recipientName>Rep. Sean Maloney</recipientName>
+      <amount>2500</amount>
+      <date>10/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Kind For Congress Committee</payeeName>
+      <recipientName>Rep. Ron Kind</recipientName>
+      <amount>1000</amount>
+      <date>10/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Denny Heck For Congress</payeeName>
+      <recipientName>Rep. Denny Heck</recipientName>
+      <amount>1000</amount>
+      <date>10/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Committee To Re-Elect Henry Hank Johnson</payeeName>
+      <recipientName>Rep. Hank Johnson</recipientName>
+      <amount>1000</amount>
+      <date>10/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Adam Smith For Congress Committee</payeeName>
+      <recipientName>Rep. Adam Smith</recipientName>
+      <amount>5000</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Citizens To Elect Rick Larsen</payeeName>
+      <recipientName>Rep. Rick Larsen</recipientName>
+      <amount>2500</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>John Lewis For Congress</payeeName>
+      <recipientName>Rep. John Lewis</recipientName>
+      <amount>4000</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Dr. Kim Schrier For Congress</payeeName>
+      <recipientName>Rep. Kim Schrier</recipientName>
+      <amount>3000</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Friends Of Juan Vargas</payeeName>
+      <recipientName>Rep. Juan Vargas</recipientName>
+      <amount>1000</amount>
+      <date>10/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Garamendi For Congress</payeeName>
+      <recipientName>Rep. John Garamendi</recipientName>
+      <amount>1000</amount>
+      <date>10/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Darren Soto For Congress</payeeName>
+      <recipientName>Rep. Darren Soto</recipientName>
+      <amount>1500</amount>
+      <date>10/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Kendra Horn For Congress</payeeName>
+      <recipientName>Rep. Kendra Horn</recipientName>
+      <amount>1000</amount>
+      <date>10/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Joe Neguse For Congress</payeeName>
+      <recipientName>Rep. Joseph Neguse</recipientName>
+      <amount>2500</amount>
+      <date>10/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Sheila Jackson Lee For Congress</payeeName>
+      <recipientName>Rep. Sheila Jackson Lee</recipientName>
+      <amount>2000</amount>
+      <date>10/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Pallone For Congress</payeeName>
+      <recipientName>Rep. Frank Pallone</recipientName>
+      <amount>5000</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Pallone For Congress</payeeName>
+      <recipientName>Rep. Frank Pallone</recipientName>
+      <amount>5000</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Robin Kelly For Congress</payeeName>
+      <recipientName>Rep. Robin Kelly</recipientName>
+      <amount>500</amount>
+      <date>10/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Robin Kelly For Congress</payeeName>
+      <recipientName>Rep. Robin Kelly</recipientName>
+      <amount>500</amount>
+      <date>10/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Perimeter PAC</payeeName>
+      <recipientName>Sen. Tammy Duckworth</recipientName>
+      <amount>2500</amount>
+      <date>10/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Bridge PAC</payeeName>
+      <recipientName>Rep. James Clyburn</recipientName>
+      <amount>4000</amount>
+      <date>10/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Mark Desaulnier For Congress</payeeName>
+      <recipientName>Rep. Mark DeSaulnier</recipientName>
+      <amount>1000</amount>
+      <date>10/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Josh Gottheimer For Congress</payeeName>
+      <recipientName>Rep. Joshua Gottheimer</recipientName>
+      <amount>2000</amount>
+      <date>10/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Val Demings For Congress</payeeName>
+      <recipientName>Rep. Val Demings</recipientName>
+      <amount>4000</amount>
+      <date>10/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Marcia Fudge For Congress</payeeName>
+      <recipientName>Rep. Marcia Fudge</recipientName>
+      <amount>3000</amount>
+      <date>10/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Nutmeg PAC</payeeName>
+      <recipientName>Sen. Richard Blumenthal</recipientName>
+      <amount>5000</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>McNerney for Congress</payeeName>
+      <recipientName>Rep. Gerald McNerney</recipientName>
+      <amount>1500</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Chris Pappas For Congress</payeeName>
+      <recipientName>Rep. Chris Pappas</recipientName>
+      <amount>2500</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Citizens For Boyle</payeeName>
+      <recipientName>Rep. Brendan Boyle</recipientName>
+      <amount>2500</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Meeks for Congress</payeeName>
+      <recipientName>Rep. Gregory Meeks</recipientName>
+      <amount>2500</amount>
+      <date>10/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Sylvia Garcia For Congress</payeeName>
+      <recipientName>Rep. Sylvia Garcia</recipientName>
+      <amount>1000</amount>
+      <date>10/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Treasure State PAC</payeeName>
+      <recipientName>Sen. Jon Tester</recipientName>
+      <amount>5000</amount>
+      <date>11/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Colin Allred For Congress</payeeName>
+      <recipientName>Rep. Colin Allred</recipientName>
+      <amount>4000</amount>
+      <date>11/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Lucille Roybal-Allard For Congress</payeeName>
+      <recipientName>Rep. Lucille Roybal-Allard</recipientName>
+      <amount>2500</amount>
+      <date>11/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>John Kennedy For Us</payeeName>
+      <recipientName>Sen. John Kennedy</recipientName>
+      <amount>1000</amount>
+      <date>11/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Frederica S. Wilson For Congress</payeeName>
+      <recipientName>Rep. Frederica Wilson</recipientName>
+      <amount>2000</amount>
+      <date>11/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Debbie Dingell For Congress</payeeName>
+      <recipientName>Rep. Debbie Dingell</recipientName>
+      <amount>2500</amount>
+      <date>11/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Friends Of Cheri Bustos</payeeName>
+      <recipientName>Rep. Cheri Bustos</recipientName>
+      <amount>1000</amount>
+      <date>11/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>McEachin For Congress</payeeName>
+      <recipientName>Rep. A. Donald McEachin</recipientName>
+      <amount>1000</amount>
+      <date>11/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Kurt Schrader For Congress</payeeName>
+      <recipientName>Rep. Kurt Schrader</recipientName>
+      <amount>1000</amount>
+      <date>11/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Maloney For Congress</payeeName>
+      <recipientName>Rep. Carolyn Maloney</recipientName>
+      <amount>1000</amount>
+      <date>11/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Friends Of Dick Durbin Committee</payeeName>
+      <recipientName>Sen. Richard Durbin</recipientName>
+      <amount>5000</amount>
+      <date>11/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Joe Morelle For Congress</payeeName>
+      <recipientName>Rep. Joseph Morelle</recipientName>
+      <amount>2500</amount>
+      <date>11/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Price For Congress</payeeName>
+      <recipientName>Rep. David Price</recipientName>
+      <amount>2500</amount>
+      <date>11/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Jimmy Panetta For Congress</payeeName>
+      <recipientName>Rep. Jimmy Panetta</recipientName>
+      <amount>1000</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Beatty For Congress</payeeName>
+      <recipientName>Rep. Joyce Beatty</recipientName>
+      <amount>2000</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>The Bill Keating Committee</payeeName>
+      <recipientName>Rep. William Keating</recipientName>
+      <amount>2500</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>DeFazio For Congress</payeeName>
+      <recipientName>Rep. Peter DeFazio</recipientName>
+      <amount>1000</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Al Lawson For Congress</payeeName>
+      <recipientName>Rep. Al Lawson</recipientName>
+      <amount>1500</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Wexton For Congress</payeeName>
+      <recipientName>Rep. Jennifer Wexton</recipientName>
+      <amount>4000</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Gina Ortiz Jones For Congress</payeeName>
+      <recipientName>Gina Jones</recipientName>
+      <amount>5000</amount>
+      <date>11/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Friends Of Jahana Hayes</payeeName>
+      <recipientName>Rep. Jahana Hayes</recipientName>
+      <amount>4000</amount>
+      <date>12/2/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Together Encouraging Democracy - T.E.D. PAC</payeeName>
+      <recipientName>Rep. Ted Deutch</recipientName>
+      <amount>5000</amount>
+      <date>12/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Friends Of Ben McAdams</payeeName>
+      <recipientName>Rep. Ben McAdams</recipientName>
+      <amount>1000</amount>
+      <date>12/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Great Lakes PAC</payeeName>
+      <recipientName>Sen. Debbie Stabenow</recipientName>
+      <amount>5000</amount>
+      <date>12/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Dan Lipinski For Congress</payeeName>
+      <recipientName>Rep. Daniel Lipinski</recipientName>
+      <amount>5000</amount>
+      <date>12/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Granite Values PAC</payeeName>
+      <recipientName>Sen. Margaret Hassan</recipientName>
+      <amount>5000</amount>
+      <date>12/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Mad 4 PA PAC</payeeName>
+      <recipientName>Rep. Madeleine Dean</recipientName>
+      <amount>1500</amount>
+      <date>12/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Scanlon For Congress</payeeName>
+      <recipientName>Rep. Mary Scanlon</recipientName>
+      <amount>2500</amount>
+      <date>12/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Robin Kelly For Congress</payeeName>
+      <recipientName>Rep. Robin Kelly</recipientName>
+      <amount>1000</amount>
+      <date>12/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Hastings For Congress</payeeName>
+      <recipientName>Rep. Alcee Hastings</recipientName>
+      <amount>2500</amount>
+      <date>12/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Conor Lamb For Congress</payeeName>
+      <recipientName>Rep. Conor Lamb</recipientName>
+      <amount>500</amount>
+      <date>12/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Conor Lamb For Congress</payeeName>
+      <recipientName>Rep. Conor Lamb</recipientName>
+      <amount>500</amount>
+      <date>12/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Kind For Congress Committee</payeeName>
+      <recipientName>Rep. Ron Kind</recipientName>
+      <amount>1000</amount>
+      <date>12/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Butterfield For Congress</payeeName>
+      <recipientName>Rep. G. K. Butterfield</recipientName>
+      <amount>3000</amount>
+      <date>12/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Hickenlooper For Colorado</payeeName>
+      <recipientName>John Hickenlooper</recipientName>
+      <amount>5000</amount>
+      <date>12/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Haley Stevens For Congress</payeeName>
+      <recipientName>Rep. Haley Stevens</recipientName>
+      <amount>1000</amount>
+      <date>12/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Quigley For Congress</payeeName>
+      <recipientName>Rep. Michael Quigley</recipientName>
+      <amount>2500</amount>
+      <date>12/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Donald Norcross For Congress</payeeName>
+      <recipientName>Rep. Donald Norcross</recipientName>
+      <amount>1000</amount>
+      <date>12/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Bera For Congress</payeeName>
+      <recipientName>Rep. Ami Bera</recipientName>
+      <amount>1000</amount>
+      <date>12/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Van Drew For Congress</payeeName>
+      <recipientName>Rep. Jeff Van Drew</recipientName>
+      <amount>1000</amount>
+      <date>12/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Brindisi For Congress</payeeName>
+      <recipientName>Rep. Anthony Brindisi</recipientName>
+      <amount>1000</amount>
+      <date>12/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Susie Lee For Congress</payeeName>
+      <recipientName>Rep. Susie Lee</recipientName>
+      <amount>1000</amount>
+      <date>12/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Max Rose For Congress</payeeName>
+      <recipientName>Rep. Max Rose</recipientName>
+      <amount>4000</amount>
+      <date>12/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Cisneros For Congress</payeeName>
+      <recipientName>Rep. Gilbert Cisneros</recipientName>
+      <amount>1000</amount>
+      <date>12/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Friends Of Juan Vargas</payeeName>
+      <recipientName>Rep. Juan Vargas</recipientName>
+      <amount>1000</amount>
+      <date>12/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>McNerney for Congress</payeeName>
+      <recipientName>Rep. Gerald McNerney</recipientName>
+      <amount>1000</amount>
+      <date>12/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Himes For Congress</payeeName>
+      <recipientName>Rep. Jim Himes</recipientName>
+      <amount>2500</amount>
+      <date>12/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>LEG PAC</payeeName>
+      <recipientName>Sen. Benjamin Cardin</recipientName>
+      <amount>2500</amount>
+      <date>12/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Delgado For Congress</payeeName>
+      <recipientName>Rep. Antonio Delgado</recipientName>
+      <amount>5000</amount>
+      <date>12/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Jason Crow For Congress</payeeName>
+      <recipientName>Rep. Jason Crow</recipientName>
+      <amount>1000</amount>
+      <date>12/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Vermont Democratic Party</payeeName>
+      <recipientName>Vermont Democratic Party</recipientName>
+      <amount>5000</amount>
+      <date>12/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Dwight Evans For Congress</payeeName>
+      <recipientName>Rep. Dwight Evans</recipientName>
+      <amount>1500</amount>
+      <date>12/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Xochitl For New Mexico</payeeName>
+      <recipientName>Rep. Xochitl Torres Small</recipientName>
+      <amount>1000</amount>
+      <date>12/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Tony Cardenas For Congress</payeeName>
+      <recipientName>Rep. Tony Cardenas</recipientName>
+      <amount>1000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Committee To Elect Jared Golden</payeeName>
+      <recipientName>Rep. Jared Golden</recipientName>
+      <amount>1000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Democrats Win Seats PAC</payeeName>
+      <recipientName>Rep. Debbie Wasserman-Schultz</recipientName>
+      <amount>2500</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Gallego For Arizona</payeeName>
+      <recipientName>Rep. Ruben Gallego</recipientName>
+      <amount>1000</amount>
+      <date>12/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Donna Shalala For Congress</payeeName>
+      <recipientName>Rep. Donna Shalala</recipientName>
+      <amount>2500</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Betsy Dirksen Londrigan For Congress</payeeName>
+      <recipientName>Betsy Londrigan</recipientName>
+      <amount>5000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Citizens For Rush</payeeName>
+      <recipientName>Rep. Bobby Rush</recipientName>
+      <amount>2500</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Rita Hart For Iowa</payeeName>
+      <recipientName>Rita Hart</recipientName>
+      <amount>5000</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Jobs, Education &amp; Families First - JEFF PAC</payeeName>
+      <recipientName>Rep. Hakeem Jeffries</recipientName>
+      <amount>2500</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Team Graham, Inc.</payeeName>
+      <recipientName>Sen. Lindsey Graham</recipientName>
+      <amount>1000</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>People's Voice PAC</payeeName>
+      <recipientName>Sen. Tammy Baldwin</recipientName>
+      <amount>5000</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Vision for America</payeeName>
+      <recipientName>Rep. Jackie Speier</recipientName>
+      <amount>2500</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Making Americans Count PAC</payeeName>
+      <recipientName>Rep. Matt Cartwright</recipientName>
+      <amount>5000</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Cal For NC</payeeName>
+      <recipientName>Cal Cunningham</recipientName>
+      <amount>5000</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>America Works</payeeName>
+      <recipientName>Sen. Sherrod Brown</recipientName>
+      <amount>5000</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Velvet Hammer PAC</payeeName>
+      <recipientName>Sen. Tina Smith</recipientName>
+      <amount>5000</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Association for Justice Political Action Committee</contributorName>
+      <payeeName>Mike Levin For Congress</payeeName>
+      <recipientName>Rep. Michael Levin</recipientName>
+      <amount>5000</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>Honorary Expenses</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Congressional Black Caucus Foundation</payeeName>
+      <recipientName>Congressional Black Caucus Foundation</recipientName>
+      <amount>20000.00</amount>
+      <date>08/29/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

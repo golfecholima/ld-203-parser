@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>North South Government Strategies f/k/a JDM Public Strategies, LLC</organizationName>
+  <lobbyistPrefix>Mr.</lobbyistPrefix>
+  <lobbyistFirstName>John</lobbyistFirstName>
+  <lobbyistMiddleName>Dale</lobbyistMiddleName>
+  <lobbyistLastName>McMickle</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>400689052</senateRegID>
+  <houseRegID>41501</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>Disclosure based on review of books and records</comments>
+  <signedDate>1/29/2020 11:51:18 AM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Cory Garnder for Senate</payeeName>
+      <recipientName>Sen Gardner</recipientName>
+      <amount>500.00</amount>
+      <date>07/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Joni for Iowa</payeeName>
+      <recipientName>Sen Ernst</recipientName>
+      <amount>1000.00</amount>
+      <date>09/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Hawkeye PAC</payeeName>
+      <recipientName>Sen Grassley</recipientName>
+      <amount>500.00</amount>
+      <date>09/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>The Thom Tillis Committee</payeeName>
+      <recipientName>Sen Tillis</recipientName>
+      <amount>3000.00</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>The Thom Tillis Committee</payeeName>
+      <recipientName>Sen Tillis</recipientName>
+      <amount>3000.00</amount>
+      <date>09/24/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

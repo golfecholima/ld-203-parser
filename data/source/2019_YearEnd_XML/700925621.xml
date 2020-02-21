@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>Wilmer Cutler Pickering Hale and Dorr LLP</organizationName>
+  <lobbyistPrefix>Mr.</lobbyistPrefix>
+  <lobbyistFirstName>ROBERT</lobbyistFirstName>
+  <lobbyistMiddleName>D.</lobbyistMiddleName>
+  <lobbyistLastName>LEHMAN</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>41534</senateRegID>
+  <houseRegID>31343</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/30/2020 3:15:54 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>NRSC</payeeName>
+      <recipientName>NRSC (National Republican Senatorial Committee)</recipientName>
+      <amount>1875.00</amount>
+      <date>7/15/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>NRSC</payeeName>
+      <recipientName>Rep. Kevin McCarthy Victory Fund</recipientName>
+      <amount>2500.00</amount>
+      <date>7/17/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Sen. Thom Tillis</payeeName>
+      <recipientName>Senator Tillis for Senate</recipientName>
+      <amount>1000.00</amount>
+      <date>7/25/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Troy Balderson </payeeName>
+      <recipientName>Troy for Congress</recipientName>
+      <amount>500.00</amount>
+      <date>7/25/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>David Young for Congress</payeeName>
+      <recipientName>David Young</recipientName>
+      <amount>500.00</amount>
+      <date>9/13/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Darin LaHood for Congress</payeeName>
+      <recipientName>Darin LaHood</recipientName>
+      <amount>500.00</amount>
+      <date>9/30/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Stauber for Congress</payeeName>
+      <recipientName>Pete Stauber</recipientName>
+      <amount>500.00</amount>
+      <date>9/30/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Chabot for Congress</payeeName>
+      <recipientName>Steve Chabot</recipientName>
+      <amount>500.00</amount>
+      <date>9/30/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>NRSC (National Republican Senatorial Committee)</payeeName>
+      <recipientName>NRSC</recipientName>
+      <amount>1875.00</amount>
+      <date>10/14/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Thom Tillis for Senate</payeeName>
+      <recipientName>Thom Tillis</recipientName>
+      <amount>500.00</amount>
+      <date>11/4/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Ernst for Senate</payeeName>
+      <recipientName>Joni Ernst</recipientName>
+      <amount>1000.00</amount>
+      <date>12/5/19</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

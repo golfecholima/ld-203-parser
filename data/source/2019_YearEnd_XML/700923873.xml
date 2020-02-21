@@ -1,0 +1,792 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>PACIFIC LIFE INSURANCE COMPANY</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>Patricia Thompson</contactName>
+  <senateRegID>309754</senateRegID>
+  <houseRegID>38625</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/29/2020 5:41:45 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>Pacific Life Political Action Committee</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Mortgage Bankers Association PAC</payeeName>
+      <recipientName>Mortgage Bankers Association PAC</recipientName>
+      <amount>1000.00</amount>
+      <date>08/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>New Pioneers PAC
+</payeeName>
+      <recipientName>New Pioneers PAC
+</recipientName>
+      <amount>1,000.00 </amount>
+      <date>8/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Lahood for Congress
+</payeeName>
+      <recipientName>Darin LaHood
+</recipientName>
+      <amount>2,500.00 </amount>
+      <date>8/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Jimmy Gomez for Congress
+</payeeName>
+      <recipientName>Jimmy Gomez
+</recipientName>
+      <amount>1,000.00 </amount>
+      <date>8/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Friends for Gregory Meeks
+</payeeName>
+      <recipientName>Gregory Meeks
+</recipientName>
+      <amount>1,000.00 </amount>
+      <date>8/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Andy Barr for Congress
+</payeeName>
+      <recipientName>Andy Barr
+</recipientName>
+      <amount>2,500.00 </amount>
+      <date>8/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Thom Tillis Committee
+</payeeName>
+      <recipientName>Thom Tillis
+</recipientName>
+      <amount>1,000.00 </amount>
+      <date>8/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Peters for Michigan
+</payeeName>
+      <recipientName>Gary Peters
+</recipientName>
+      <amount>1,000.00 </amount>
+      <date>8/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Wagner for Congress
+</payeeName>
+      <recipientName>Ann Wagner
+</recipientName>
+      <amount>1,000.00 </amount>
+      <date>8/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Schneider for Congress
+</payeeName>
+      <recipientName>Brad Schneider
+</recipientName>
+      <amount>1,000.00 </amount>
+      <date>8/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Stivers for Congress
+</payeeName>
+      <recipientName>Steve Stivers
+</recipientName>
+      <amount>2,500.00 </amount>
+      <date>8/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Adrian Smith for Congress
+</payeeName>
+      <recipientName>Adrian Smith</recipientName>
+      <amount>2,500.00</amount>
+      <date>8/21/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Friends of Schumer
+</payeeName>
+      <recipientName>Charles Schumer</recipientName>
+      <amount>1,000.00 </amount>
+      <date>8/21/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Freedom Fund
+</payeeName>
+      <recipientName>Freedom Fund
+</recipientName>
+      <amount>2,500.00 </amount>
+      <date>9/10/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Doug Jones for Senate Committee
+</payeeName>
+      <recipientName>Doug Jones</recipientName>
+      <amount>1,000.00 </amount>
+      <date>9/10/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>DelBene for Congress
+</payeeName>
+      <recipientName>Suzan DelBene</recipientName>
+      <amount>2,500.00 </amount>
+      <date>9/10/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Cleaver for Congress
+</payeeName>
+      <recipientName>Emanuel Cleaver
+</recipientName>
+      <amount>2,500.00 </amount>
+      <date>9/10/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Andy Barr for Congress
+</payeeName>
+      <recipientName>Andy Barr</recipientName>
+      <amount>2,500.00 </amount>
+      <date>9/10/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Correa for Congress
+</payeeName>
+      <recipientName>Lou Correa</recipientName>
+      <amount>1,000.00 </amount>
+      <date>9/10/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Deb Fischer for US Senate, Inc.
+</payeeName>
+      <recipientName>Deb Fischer</recipientName>
+      <amount>2,500.00 </amount>
+      <date>9/10/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Himes for Congress
+</payeeName>
+      <recipientName>Jim Himes</recipientName>
+      <amount>2,500.00 </amount>
+      <date>9/10/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Mike Thompson for Congress
+</payeeName>
+      <recipientName>Mike Thompson
+</recipientName>
+      <amount>2,000.00 </amount>
+      <date>9/10/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Mike Thompson for Congress
+</payeeName>
+      <recipientName>Mike Thompson</recipientName>
+      <amount>3,000.00 </amount>
+      <date>9/10/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Mike Crapo for US Senate
+</payeeName>
+      <recipientName>Mike Crapo</recipientName>
+      <amount>1,500.00 </amount>
+      <date>9/10/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Mike Crapo for US Senate
+</payeeName>
+      <recipientName>Mike Crapo</recipientName>
+      <amount>1,000.00 </amount>
+      <date>9/10/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Don Bacon for Congress
+</payeeName>
+      <recipientName>Donald Bacon
+</recipientName>
+      <amount>2000.00</amount>
+      <date>9/20/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Don Bacon for Congress
+</payeeName>
+      <recipientName>Donald Bacon
+</recipientName>
+      <amount>500.00</amount>
+      <date>9/20/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Beatty for Congress
+</payeeName>
+      <recipientName>Joyce Beatty
+</recipientName>
+      <amount>1000.00</amount>
+      <date>9/20/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Citizens for Boyle
+</payeeName>
+      <recipientName>Brendan Boyle
+</recipientName>
+      <amount>2500.00</amount>
+      <date>9/20/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Citizens for Boyle
+</payeeName>
+      <recipientName>Brendan Boyle
+</recipientName>
+      <amount>2500.00</amount>
+      <date>9/20/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Ben Sasse for U.S. Senate, Inc.
+</payeeName>
+      <recipientName>Benjamin Sasse
+</recipientName>
+      <amount>1000.00</amount>
+      <date>9/20/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Ben Sasse for U.S. Senate, Inc.
+</payeeName>
+      <recipientName>Benjamin Sasse
+</recipientName>
+      <amount>5000.00</amount>
+      <date>9/20/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Stabenow for US Senate
+</payeeName>
+      <recipientName>Debbie Stabenow
+</recipientName>
+      <amount>1000.00</amount>
+      <date>9/20/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Beatty for Congress
+</payeeName>
+      <recipientName>Joyce Beatty
+</recipientName>
+      <amount>1000.00</amount>
+      <date>9/20/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Alan Lowenthal for Congress
+</payeeName>
+      <recipientName>Alan Lowenthal
+</recipientName>
+      <amount>2500.00</amount>
+      <date>9/20/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Beatty for Congress
+</payeeName>
+      <recipientName>Joyce Beatty
+</recipientName>
+      <amount>1500.00</amount>
+      <date>10/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Ron Estes for Congress
+</payeeName>
+      <recipientName>Ron Estes
+</recipientName>
+      <amount>2500.00</amount>
+      <date>10/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Dwight Evans for Congress
+</payeeName>
+      <recipientName>Dwight Evans</recipientName>
+      <amount>2500.00</amount>
+      <date>10/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Jimmy Gomez for Congress
+</payeeName>
+      <recipientName>Jimmy Gomez</recipientName>
+      <amount>1500.00</amount>
+      <date>10/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Graves for Congress
+</payeeName>
+      <recipientName>Tom Graves
+</recipientName>
+      <amount>2500.00</amount>
+      <date>10/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Mike Kelly for Congress
+</payeeName>
+      <recipientName>Mike Kelly</recipientName>
+      <amount>5000.00</amount>
+      <date>10/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>McHenry for Congress
+</payeeName>
+      <recipientName>Patrick McHenry
+</recipientName>
+      <amount>2500.00</amount>
+      <date>10/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Moore for Congress
+</payeeName>
+      <recipientName>Gwendolynne Moore
+</recipientName>
+      <amount>2500.00</amount>
+      <date>10/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Richard E. Neal for Congress
+</payeeName>
+      <recipientName>Richard E. Neal </recipientName>
+      <amount>1000.00</amount>
+      <date>10/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Portman for Senate Committee
+</payeeName>
+      <recipientName>Rob Portman
+</recipientName>
+      <amount>1000.00</amount>
+      <date>10/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Portman for Senate Committee
+</payeeName>
+      <recipientName>Rob Portman
+</recipientName>
+      <amount>1500.00</amount>
+      <date>10/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Nebraska Sandhills PAC
+</payeeName>
+      <recipientName>Nebraska Sandhills PAC
+</recipientName>
+      <amount>3000.00</amount>
+      <date>10/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Democrats Reshaping America (DREAM PAC)
+</payeeName>
+      <recipientName>Democrats Reshaping America (DREAM PAC)
+</recipientName>
+      <amount>2500.00</amount>
+      <date>10/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Schneider for Congress
+</payeeName>
+      <recipientName>Brad Schneider
+</recipientName>
+      <amount>1500.00</amount>
+      <date>10/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Schneider for Congress
+</payeeName>
+      <recipientName>Brad Schneider
+</recipientName>
+      <amount>1000.00</amount>
+      <date>10/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Sinema for Arizona
+</payeeName>
+      <recipientName>Kyrsten Sinema
+</recipientName>
+      <amount>2500.00</amount>
+      <date>10/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Citizens for Waters
+</payeeName>
+      <recipientName>Maxine Waters
+</recipientName>
+      <amount>2500.00</amount>
+      <date>10/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Don Bacon for Congress</payeeName>
+      <recipientName>Don Bacon</recipientName>
+      <amount>2500.00</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Badger PAC</payeeName>
+      <recipientName>Badger PAC</recipientName>
+      <amount>1000.00</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Larson for Congress</payeeName>
+      <recipientName>John Larson</recipientName>
+      <amount>2500.00</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Sensible American Solutions Supporting Everyone PAC (SASSE PAC)</payeeName>
+      <recipientName>Sensible American Solutions Supporting Everyone PAC (SASSE PAC)</recipientName>
+      <amount>4000.00</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Victory in November Election PAC (VINEPAC)</payeeName>
+      <recipientName>Victory in November Election PAC (VINEPAC)</recipientName>
+      <amount>2500.00</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Stephanie Murphy for Congress</payeeName>
+      <recipientName>Stephanie Murphy</recipientName>
+      <amount>2500.00</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Citizens for Waters</payeeName>
+      <recipientName>Maxine Waters</recipientName>
+      <amount>1500.00</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Beatty for Congress
+</payeeName>
+      <recipientName>Joyce Beatty
+</recipientName>
+      <amount>1500.00</amount>
+      <date>11/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Beatty for Congress
+</payeeName>
+      <recipientName>Joyce Beatty
+</recipientName>
+      <amount>1000.00</amount>
+      <date>11/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Bill Cassidy for Senate
+</payeeName>
+      <recipientName>Bill Cassidy</recipientName>
+      <amount>2500.00</amount>
+      <date>11/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Across the Aisle PAC</payeeName>
+      <recipientName>Across the Aisle PAC</recipientName>
+      <amount>2500.00</amount>
+      <date>11/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Kind for Congress</payeeName>
+      <recipientName>Ron Kind
+</recipientName>
+      <amount>2500.00</amount>
+      <date>11/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Peters for Michigan</payeeName>
+      <recipientName>Gary Peters
+</recipientName>
+      <amount>1000.00</amount>
+      <date>11/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>PAC UNITATIS</payeeName>
+      <recipientName>PAC UNITATIS</recipientName>
+      <amount>2500.00</amount>
+      <date>11/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Victory in November Election PAC (VINEPAC)</payeeName>
+      <recipientName>Victory in November Election PAC (VINEPAC)</recipientName>
+      <amount>2500.00</amount>
+      <date>11/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Alaskans for Dan Sullivan
+</payeeName>
+      <recipientName>Dan Sullivan
+</recipientName>
+      <amount>1500.00</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>New Voice PAC</payeeName>
+      <recipientName>New Voice PAC</recipientName>
+      <amount>5000.00</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Jimmy Panetta for Congress</payeeName>
+      <recipientName>Jimmy Panetta</recipientName>
+      <amount>2500.00</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>LEGPAC</payeeName>
+      <recipientName>LEGPAC</recipientName>
+      <amount>2500.00</amount>
+      <date>12/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Scott Peters for Congress</payeeName>
+      <recipientName>Scott Peters</recipientName>
+      <amount>2500.00</amount>
+      <date>12/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>People for Patty Murray</payeeName>
+      <recipientName>Patty Murray</recipientName>
+      <amount>1000.00</amount>
+      <date>12/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Garamendi for Congress</payeeName>
+      <recipientName>John Garamendi</recipientName>
+      <amount>2000.00</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Veronica Escobar for Congress</payeeName>
+      <recipientName>Veronica Escobar</recipientName>
+      <amount>1000.00</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>New Millennium PAC</payeeName>
+      <recipientName>New Millennium PAC</recipientName>
+      <amount>2500.00</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Support to Ensure Victory Everywhere PAC-STEVE PAC</payeeName>
+      <recipientName>Support to Ensure Victory Everywhere PAC-STEVE PAC</recipientName>
+      <amount>5000.00</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Promoting Our Republican Team PAC</payeeName>
+      <recipientName>Promoting Our Republican Team PAC</recipientName>
+      <amount>3000.00</amount>
+      <date>12/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Building Leadership and Inspiring New Enterprise PAC</payeeName>
+      <recipientName>Building Leadership and Inspiring New Enterprise PAC</recipientName>
+      <amount>5000.00</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Hoops PAC</payeeName>
+      <recipientName>Hoops PAC</recipientName>
+      <amount>5000.00</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Treasure State PAC</payeeName>
+      <recipientName>Treasure State PAC</recipientName>
+      <amount>5000.00</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Madison PAC</payeeName>
+      <recipientName>Madison PAC</recipientName>
+      <amount>5000.00</amount>
+      <date>12/18/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

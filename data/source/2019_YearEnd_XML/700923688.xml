@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>Rite Aid Corporation</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>Deborah A. Hurley</contactName>
+  <senateRegID>320496</senateRegID>
+  <houseRegID>39430</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/29/2020 4:26:06 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>
+  </noContributions>
+  <pacs>
+    <pac>
+      <name>Rite Aid Corporation Political Action Committee</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Rite Aid Corporation Political Action Committee</contributorName>
+      <payeeName>Lisa Blunt Rochester For Congress</payeeName>
+      <recipientName>Lisa Blunt Rochester</recipientName>
+      <amount>1000</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Rite Aid Corporation Political Action Committee</contributorName>
+      <payeeName>Citizens For Boyle</payeeName>
+      <recipientName>Brendan Boyle</recipientName>
+      <amount>1000</amount>
+      <date>07/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Rite Aid Corporation Political Action Committee</contributorName>
+      <payeeName>Anthony Brown For Congress</payeeName>
+      <recipientName>Anthony Brown</recipientName>
+      <amount>1000</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Rite Aid Corporation Political Action Committee</contributorName>
+      <payeeName>Buddy Carter For Congress</payeeName>
+      <recipientName>Buddy Carter</recipientName>
+      <amount>500</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Rite Aid Corporation Political Action Committee</contributorName>
+      <payeeName>Bill Cassidy For Senate</payeeName>
+      <recipientName>Bill Cassidy</recipientName>
+      <amount>1000</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Rite Aid Corporation Political Action Committee</contributorName>
+      <payeeName>Bill Cassidy For Senate</payeeName>
+      <recipientName>Bill Cassidy</recipientName>
+      <amount>1500</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Rite Aid Corporation Political Action Committee</contributorName>
+      <payeeName>Texans For Senator John Cornyn Inc</payeeName>
+      <recipientName>John Cornyn</recipientName>
+      <amount>1000</amount>
+      <date>08/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Rite Aid Corporation Political Action Committee</contributorName>
+      <payeeName>Cummings For Congress Campaign Committee</payeeName>
+      <recipientName>Elijah Cummings</recipientName>
+      <amount>1000</amount>
+      <date>07/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Rite Aid Corporation Political Action Committee</contributorName>
+      <payeeName>Dwight Evans For Congress</payeeName>
+      <recipientName>Dwight Evans</recipientName>
+      <amount>1000</amount>
+      <date>07/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Rite Aid Corporation Political Action Committee</contributorName>
+      <payeeName>Brian Fitzpatrick For Congress</payeeName>
+      <recipientName>Brian Fitzpatrick</recipientName>
+      <amount>1000</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Rite Aid Corporation Political Action Committee</contributorName>
+      <payeeName>Morgan Griffith For Congress</payeeName>
+      <recipientName>Morgan Griffith</recipientName>
+      <amount>1000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Rite Aid Corporation Political Action Committee</contributorName>
+      <payeeName>Healthcare Freedom Fund</payeeName>
+      <recipientName>Rep. Phil Roe Leadership PAC</recipientName>
+      <amount>1000</amount>
+      <date>10/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Rite Aid Corporation Political Action Committee</contributorName>
+      <payeeName>Jaime For Congress</payeeName>
+      <recipientName>Jaime Herrera Beutler</recipientName>
+      <amount>1000</amount>
+      <date>10/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Rite Aid Corporation Political Action Committee</contributorName>
+      <payeeName>Buckeye Victory Fund</payeeName>
+      <recipientName>James Jordan</recipientName>
+      <amount>1500</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Rite Aid Corporation Political Action Committee</contributorName>
+      <payeeName>Latta For Congress</payeeName>
+      <recipientName>Robert Edward Latta</recipientName>
+      <amount>1000</amount>
+      <date>07/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Rite Aid Corporation Political Action Committee</contributorName>
+      <payeeName>Billy Long For Congress</payeeName>
+      <recipientName>Billy Long</recipientName>
+      <amount>1500</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Rite Aid Corporation Political Action Committee</contributorName>
+      <payeeName>Donald Norcross For Congress</payeeName>
+      <recipientName>Donald Norcross</recipientName>
+      <amount>1000</amount>
+      <date>10/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Rite Aid Corporation Political Action Committee</contributorName>
+      <payeeName>Pallone For Congress</payeeName>
+      <recipientName>Frank Pallone Jr</recipientName>
+      <amount>1000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Rite Aid Corporation Political Action Committee</contributorName>
+      <payeeName>Jimmy Panetta For Congress</payeeName>
+      <recipientName>Jimmy Panetta</recipientName>
+      <amount>1000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Rite Aid Corporation Political Action Committee</contributorName>
+      <payeeName>Peters For Michigan</payeeName>
+      <recipientName>Gary Peters</recipientName>
+      <amount>1000</amount>
+      <date>08/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Rite Aid Corporation Political Action Committee</contributorName>
+      <payeeName>Reclaim America Pac</payeeName>
+      <recipientName>Sen. Marco Rubio Leadership PAC</recipientName>
+      <amount>1000</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Rite Aid Corporation Political Action Committee</contributorName>
+      <payeeName>Friends Of Denver Riggleman</payeeName>
+      <recipientName>Denver Riggleman</recipientName>
+      <amount>1000</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Rite Aid Corporation Political Action Committee</contributorName>
+      <payeeName>Dutch Ruppersberger For Congress</payeeName>
+      <recipientName>Dutch Ruppersberger</recipientName>
+      <amount>1000</amount>
+      <date>08/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Rite Aid Corporation Political Action Committee</contributorName>
+      <payeeName>Scalise Leadership Fund</payeeName>
+      <recipientName>Steve Scalise</recipientName>
+      <amount>1000</amount>
+      <date>07/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Rite Aid Corporation Political Action Committee</contributorName>
+      <payeeName>Kurt Schrader For Congress</payeeName>
+      <recipientName>Kurt Schrader</recipientName>
+      <amount>1000</amount>
+      <date>08/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Rite Aid Corporation Political Action Committee</contributorName>
+      <payeeName>Shaheen For Senate</payeeName>
+      <recipientName>Jeanne Shaheen</recipientName>
+      <amount>1000</amount>
+      <date>08/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Rite Aid Corporation Political Action Committee</contributorName>
+      <payeeName>Smucker For Congress</payeeName>
+      <recipientName>Lloyd Smucker</recipientName>
+      <amount>1000</amount>
+      <date>10/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Rite Aid Corporation Political Action Committee</contributorName>
+      <payeeName>Elise For Congress</payeeName>
+      <recipientName>Elise Stefanik</recipientName>
+      <amount>1000</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Rite Aid Corporation Political Action Committee</contributorName>
+      <payeeName>Alaskans For Dan Sullivan</payeeName>
+      <recipientName>Dan Sullivan</recipientName>
+      <amount>1500</amount>
+      <date>08/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Rite Aid Corporation Political Action Committee</contributorName>
+      <payeeName>Suozzi For Congress</payeeName>
+      <recipientName>Tom Suozzi</recipientName>
+      <amount>1000</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Rite Aid Corporation Political Action Committee</contributorName>
+      <payeeName>William Timmons For Congress</payeeName>
+      <recipientName>William Timmons</recipientName>
+      <amount>1000</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Rite Aid Corporation Political Action Committee</contributorName>
+      <payeeName>Tomorrow Is Meaningful PAC (TIM PAC)</payeeName>
+      <recipientName>Sen. Tim Scott Leadership PAC</recipientName>
+      <amount>1500</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Rite Aid Corporation Political Action Committee</contributorName>
+      <payeeName>Paul Tonko For Congress</payeeName>
+      <recipientName>Paul Tonko</recipientName>
+      <amount>1000</amount>
+      <date>07/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Rite Aid Corporation Political Action Committee</contributorName>
+      <payeeName>Paul Tonko For Congress</payeeName>
+      <recipientName>Paul Tonko</recipientName>
+      <amount>1000</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Rite Aid Corporation Political Action Committee</contributorName>
+      <payeeName>Walberg For Congress</payeeName>
+      <recipientName>Tim Walberg</recipientName>
+      <amount>1000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Rite Aid Corporation Political Action Committee</contributorName>
+      <payeeName>Walden For Congress</payeeName>
+      <recipientName>Greg Walden</recipientName>
+      <amount>1000</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Rite Aid Corporation Political Action Committee</contributorName>
+      <payeeName>Welch For Congress</payeeName>
+      <recipientName>Peter Welch</recipientName>
+      <amount>1500</amount>
+      <date>10/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Rite Aid Corporation Political Action Committee</contributorName>
+      <payeeName>Womack For Congress Committee</payeeName>
+      <recipientName>Steve Womack</recipientName>
+      <amount>1000</amount>
+      <date>07/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Rite Aid Corporation Political Action Committee</contributorName>
+      <payeeName>Wyden For Senate</payeeName>
+      <recipientName>Ron Wyden</recipientName>
+      <amount>1000</amount>
+      <date>07/23/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

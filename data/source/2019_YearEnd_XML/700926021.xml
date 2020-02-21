@@ -1,0 +1,1560 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>Altria Client Services LLC</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <zipext>
+  </zipext>
+  <contactName>Todd Walker</contactName>
+  <senateRegID>31406</senateRegID>
+  <houseRegID>31705</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>The entries on Lines 39, 62, 63, 169, 171, 173, 175, and 181 are voided contributions.</comments>
+  <signedDate>1/30/2020 4:43:57 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>Altria Group, Inc. Political Action Committee (AltriaPAC)</name>
+    </pac>
+    <pac>
+      <name>Ste. Michelle Wine Estates Ltd. Political Action Committee</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Adrian Smith For Congress</payeeName>
+      <recipientName>Rep. Adrian Michael Smith</recipientName>
+      <amount>1000</amount>
+      <date>7/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Andy Harris For Congress</payeeName>
+      <recipientName>Rep. Andrew P. Harris</recipientName>
+      <amount>1000</amount>
+      <date>7/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Chip Roy For Congress</payeeName>
+      <recipientName>Rep. Chip Roy</recipientName>
+      <amount>1000</amount>
+      <date>7/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>David Rouzer For Congress</payeeName>
+      <recipientName>Rep. David Cheston Rouzer</recipientName>
+      <amount>2500</amount>
+      <date>7/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Heartland Values PAC</payeeName>
+      <recipientName>Sen. John Randolph Thune</recipientName>
+      <amount>5000</amount>
+      <date>7/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Hudson For Congress</payeeName>
+      <recipientName>Rep. Richard Lane Hudson, Jr.</recipientName>
+      <amount>2500</amount>
+      <date>7/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Jeff Fortenberry For United States Congress</payeeName>
+      <recipientName>Rep. Jeffrey Lane Fortenberry</recipientName>
+      <amount>1500</amount>
+      <date>7/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Jim Costa For Congress</payeeName>
+      <recipientName>Rep. James M. Costa</recipientName>
+      <amount>1000</amount>
+      <date>7/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>McHenry For Congress</payeeName>
+      <recipientName>Rep. Patrick Timothy McHenry</recipientName>
+      <amount>5000</amount>
+      <date>7/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Oorah! Political Action Committee</payeeName>
+      <recipientName>Sen. Todd Christopher Young</recipientName>
+      <amount>4000</amount>
+      <date>7/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Reaching For A Brighter America PAC</payeeName>
+      <recipientName>Rep. Robert Brown Aderholt</recipientName>
+      <amount>5000</amount>
+      <date>7/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Richard E Neal For Congress Committee</payeeName>
+      <recipientName>Rep. Richard Edmund Neal</recipientName>
+      <amount>2000</amount>
+      <date>7/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Sanford Bishop For Congress</payeeName>
+      <recipientName>Rep. Sanford D. Bishop, Jr.</recipientName>
+      <amount>2500</amount>
+      <date>7/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Schneider For Congress</payeeName>
+      <recipientName>Rep. Bradley Scott Schneider</recipientName>
+      <amount>2000</amount>
+      <date>7/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Ted Budd For Congress</payeeName>
+      <recipientName>Rep. Theodore Paul Budd</recipientName>
+      <amount>1000</amount>
+      <date>7/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Your Voice Counts</payeeName>
+      <recipientName>Rep. Mark Randall Meadows</recipientName>
+      <amount>5000</amount>
+      <date>7/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Beatty For Congress</payeeName>
+      <recipientName>Rep. Joyce Beatty</recipientName>
+      <amount>1000</amount>
+      <date>8/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Cowboy PAC</payeeName>
+      <recipientName>Rep. Elizabeth Cheney</recipientName>
+      <amount>4000</amount>
+      <date>8/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>David Scott For Congress</payeeName>
+      <recipientName>Rep. David Albert Scott</recipientName>
+      <amount>1000</amount>
+      <date>8/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Developing A New Generation PAC (DANG PAC)</payeeName>
+      <recipientName>Rep. Stephanie N. Murphy</recipientName>
+      <amount>2500</amount>
+      <date>8/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Fightin' Ninth Political Action Committee</payeeName>
+      <recipientName>Rep. H. Morgan Griffith</recipientName>
+      <amount>5000</amount>
+      <date>8/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Friends For Gregory Meeks</payeeName>
+      <recipientName>Rep. Gregory Weldon Meeks</recipientName>
+      <amount>1000</amount>
+      <date>8/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Greater Opportunities For Leadership Development (GOLD PAC)</payeeName>
+      <recipientName>Rep. Sanford D. Bishop, Jr.</recipientName>
+      <amount>5000</amount>
+      <date>8/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>John Lewis For Congress</payeeName>
+      <recipientName>Rep. John Robert Lewis</recipientName>
+      <amount>1000</amount>
+      <date>8/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Larson For Congress</payeeName>
+      <recipientName>Rep. John Barry Larson</recipientName>
+      <amount>1000</amount>
+      <date>8/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Making America Prosperous PAC</payeeName>
+      <recipientName>Rep. Kevin Patrick Brady</recipientName>
+      <amount>2500</amount>
+      <date>8/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Marcia Fudge For Congress</payeeName>
+      <recipientName>Rep. Marcia Louise Fudge</recipientName>
+      <amount>1000</amount>
+      <date>8/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Mike Johnson For Louisiana</payeeName>
+      <recipientName>Rep. Mike Johnson</recipientName>
+      <amount>1000</amount>
+      <date>8/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Moolenaar For Congress</payeeName>
+      <recipientName>Rep. John Moolenaar</recipientName>
+      <amount>2500</amount>
+      <date>8/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Nevadans For Steven Horsford</payeeName>
+      <recipientName>Rep. Steven Alexzander Horsford</recipientName>
+      <amount>2500</amount>
+      <date>8/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Quigley For Congress</payeeName>
+      <recipientName>Rep. Michael Quigley</recipientName>
+      <amount>1500</amount>
+      <date>8/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Republican Party Of Texas</payeeName>
+      <recipientName>Republican Party Of Texas (Federal Account)</recipientName>
+      <amount>5000.00</amount>
+      <date>8/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Robert Aderholt For Congress</payeeName>
+      <recipientName>Rep. Robert Brown Aderholt</recipientName>
+      <amount>2500</amount>
+      <date>8/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Scott For Congress</payeeName>
+      <recipientName>Rep. Robert Cortez Scott</recipientName>
+      <amount>1500</amount>
+      <date>8/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Stephanie Murphy For Congress</payeeName>
+      <recipientName>Rep. Stephanie N. Murphy</recipientName>
+      <amount>2500</amount>
+      <date>8/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Terri Sewell For Congress</payeeName>
+      <recipientName>Rep. Terri Andrea Sewell</recipientName>
+      <amount>1500</amount>
+      <date>8/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Val Demings For Congress</payeeName>
+      <recipientName>Rep. Valdez B. Demings</recipientName>
+      <amount>1000</amount>
+      <date>8/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Volunteers For Shimkus</payeeName>
+      <recipientName>Rep. John M. Shimkus</recipientName>
+      <amount>2500</amount>
+      <date>8/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Volunteers For Shimkus</payeeName>
+      <recipientName>Rep. John M. Shimkus</recipientName>
+      <amount>-2500</amount>
+      <date>9/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>All For Our Country Leadership PAC</payeeName>
+      <recipientName>Sen. Catherine Cortez Masto</recipientName>
+      <amount>5000</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Battleground PAC</payeeName>
+      <recipientName>Rep. Bradley Mark Walker</recipientName>
+      <amount>1000</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Butterfield For Congress</payeeName>
+      <recipientName>Rep. George Kenneth Butterfield, Jr.</recipientName>
+      <amount>2000</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Collins For Congress</payeeName>
+      <recipientName>Rep. Douglas Allen Collins</recipientName>
+      <amount>4000</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Defend America PAC</payeeName>
+      <recipientName>Sen. Richard Craig Shelby</recipientName>
+      <amount>5000</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Devin Nunes Campaign Committee</payeeName>
+      <recipientName>Rep. Devin G. Nunes</recipientName>
+      <amount>2500</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Emmer For Congress</payeeName>
+      <recipientName>Rep. Thomas Earl Emmer, Jr.</recipientName>
+      <amount>2500</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Friends Of Bennie Thompson</payeeName>
+      <recipientName>Rep. Bennie G. Thompson</recipientName>
+      <amount>1000</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Friends Of Denver Riggleman, Inc.</payeeName>
+      <recipientName>Rep. Denver L. Riggleman, III</recipientName>
+      <amount>500</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Friends To Elect Dr. Greg Murphy To Congress</payeeName>
+      <recipientName>Rep. Gregory Francis Murphy, M.D.</recipientName>
+      <amount>1000</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Greg Pence For Congress</payeeName>
+      <recipientName>Rep. Gregory J. Pence</recipientName>
+      <amount>2500</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Jobs, Freedom, And Security PAC</payeeName>
+      <recipientName>Sen. Ted E. Cruz</recipientName>
+      <amount>1500</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Joni For Iowa</payeeName>
+      <recipientName>Sen. Joni Kay Ernst</recipientName>
+      <amount>5000</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Leadership And Accountability Are National Keys PAC</payeeName>
+      <recipientName>Sen. James Paul Lankford</recipientName>
+      <amount>2000</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>LGBTQ Victory Fund Federal PAC</payeeName>
+      <recipientName>LGBTQ Victory Fund Federal PAC</recipientName>
+      <amount>2500.00</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Lou Correa For Congress</payeeName>
+      <recipientName>Rep. J. Luis Correa</recipientName>
+      <amount>1000</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>McEachin For Congress</payeeName>
+      <recipientName>Rep. A. Donald McEachin</recipientName>
+      <amount>1000</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>New South Leadership PAC</payeeName>
+      <recipientName>Rep. George Kenneth Butterfield, Jr.</recipientName>
+      <amount>1000</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Quigley For Congress</payeeName>
+      <recipientName>Rep. Michael Quigley</recipientName>
+      <amount>1000</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Schneider For Congress</payeeName>
+      <recipientName>Rep. Bradley Scott Schneider</recipientName>
+      <amount>1500</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>The Hawkeye PAC</payeeName>
+      <recipientName>Sen. Charles E. Grassley</recipientName>
+      <amount>1000</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Treasure State PAC</payeeName>
+      <recipientName>Sen. Jon Tester</recipientName>
+      <amount>3500</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Angie Craig For Congress</payeeName>
+      <recipientName>Rep. Angela Dawn Craig</recipientName>
+      <amount>-1000</amount>
+      <date>10/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Lets Get To Work PAC</payeeName>
+      <recipientName>Sen. Rick Scott</recipientName>
+      <amount>-5000</amount>
+      <date>10/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Andy Harris For Congress</payeeName>
+      <recipientName>Rep. Andrew P. Harris</recipientName>
+      <amount>1500</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Ben Cline For Congress, Inc.</payeeName>
+      <recipientName>Rep. Benjamin L. Cline</recipientName>
+      <amount>1500</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Brady For Congress</payeeName>
+      <recipientName>Rep. Kevin Patrick Brady</recipientName>
+      <amount>2500</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Building America's Republican Representation PAC</payeeName>
+      <recipientName>Rep. Garland Hale Barr, IV</recipientName>
+      <amount>1500</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Citizens For Prosperity In America Today PAC</payeeName>
+      <recipientName>Sen. Patrick Joseph Toomey</recipientName>
+      <amount>2500</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Cole For Congress</payeeName>
+      <recipientName>Rep. Thomas Jeffery Cole</recipientName>
+      <amount>2500</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Common Sense Common Solutions Political Action Committee</payeeName>
+      <recipientName>Rep. Kay Granger</recipientName>
+      <amount>2500</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Conservative Oppurtunity Leadership And Enterprise PAC (COLE PAC)</payeeName>
+      <recipientName>Rep. Thomas Jeffery Cole</recipientName>
+      <amount>2500</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>David Rouzer For Congress</payeeName>
+      <recipientName>Rep. David Cheston Rouzer</recipientName>
+      <amount>2500</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>For Our Republic's Traditions Fund (Fort Fund)</payeeName>
+      <recipientName>Rep. Jeffrey Lane Fortenberry</recipientName>
+      <amount>2000.00</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Freedom Fund</payeeName>
+      <recipientName>Sen. Michael Dean Crapo</recipientName>
+      <amount>2500</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Fund For America's Future</payeeName>
+      <recipientName>Sen. Lindsey Olin Graham</recipientName>
+      <amount>2500</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Georgia PAC</payeeName>
+      <recipientName>Rep. Tom Graves</recipientName>
+      <amount>2500</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Guthrie For Congress</payeeName>
+      <recipientName>Rep. S. Brett Guthrie</recipientName>
+      <amount>1000</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Jeff Duncan For Congress</payeeName>
+      <recipientName>Rep. Jeffrey D. Duncan</recipientName>
+      <amount>1000</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Josh Gottheimer For Congress</payeeName>
+      <recipientName>Rep. Joshua S. Gottheimer</recipientName>
+      <amount>1000</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>LaHood for Congress</payeeName>
+      <recipientName>Rep. Darin M. LaHood</recipientName>
+      <amount>1000</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Leadership And Accountability Are National Keys PAC</payeeName>
+      <recipientName>Sen. James Paul Lankford</recipientName>
+      <amount>500</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>LOBO PAC</payeeName>
+      <recipientName>Sen. Martin Heinrich</recipientName>
+      <amount>1000</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Marc Veasey Congressional Campaign Committee</payeeName>
+      <recipientName>Rep. Marc A. Veasey</recipientName>
+      <amount>2500</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Mario Diaz-Balart For Congress</payeeName>
+      <recipientName>Rep. Mario Rafael Diaz-Balart</recipientName>
+      <amount>2500</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Mark Green For Congress</payeeName>
+      <recipientName>Rep. Mark E. Green</recipientName>
+      <amount>1000</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Peterson For Congress</payeeName>
+      <recipientName>Rep. Collin Clark Peterson</recipientName>
+      <amount>1000</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Republican Party Of Kentucky</payeeName>
+      <recipientName>Republican Party Of Kentucky (Federal Account)</recipientName>
+      <amount>2500.00</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Strategy PAC</payeeName>
+      <recipientName>Sen. Ronald H. Johnson</recipientName>
+      <amount>1000</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Tom O'Halleran For Congress</payeeName>
+      <recipientName>Rep. Tom O'Halleran</recipientName>
+      <amount>2500</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Anthony Brown For Congress</payeeName>
+      <recipientName>Rep. Anthony Gregory Brown</recipientName>
+      <amount>1000</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Armstrong For Congress</payeeName>
+      <recipientName>Rep. Kelly M. Armstrong</recipientName>
+      <amount>1000</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Bridge The Gap PAC</payeeName>
+      <recipientName>Rep. Bradley Scott Schneider</recipientName>
+      <amount>1000</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Chuck Fleischmann For Congress Committee, Inc.</payeeName>
+      <recipientName>Rep. Charles J. Fleischmann</recipientName>
+      <amount>1000</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Cooper For Congress</payeeName>
+      <recipientName>Rep. James Hayes Cooper</recipientName>
+      <amount>1000</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Drew Ferguson For Congress Inc.</payeeName>
+      <recipientName>Rep. A. Drew Ferguson, IV</recipientName>
+      <amount>1500</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Fighting For Missouri PAC</payeeName>
+      <recipientName>Sen. Josh D. Hawley</recipientName>
+      <amount>2500</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>For Our Republic's Traditions Fund (Fort Fund)</payeeName>
+      <recipientName>Rep. Jeffrey Lane Fortenberry</recipientName>
+      <amount>3000.00</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Forward Together PAC</payeeName>
+      <recipientName>Sen. Mark Robert Warner</recipientName>
+      <amount>5000</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Friends Of Jim Clyburn</payeeName>
+      <recipientName>Rep. James E. Clyburn</recipientName>
+      <amount>2000</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Jim Costa For Congress</payeeName>
+      <recipientName>Rep. James M. Costa</recipientName>
+      <amount>1500</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Josh Gottheimer For Congress</payeeName>
+      <recipientName>Rep. Joshua S. Gottheimer</recipientName>
+      <amount>1000</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>LaHood for Congress</payeeName>
+      <recipientName>Rep. Darin M. LaHood</recipientName>
+      <amount>1000</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Mike Kelly For Congress</payeeName>
+      <recipientName>Rep. G. Mike J. Kelly</recipientName>
+      <amount>2500</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Moore For Congress</payeeName>
+      <recipientName>Rep. Gwendolynne Sophia Moore</recipientName>
+      <amount>1000</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Pelican PAC</payeeName>
+      <recipientName>Sen. John Neely Kennedy</recipientName>
+      <amount>1000</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Ron Estes For Congress</payeeName>
+      <recipientName>Rep. Ron Estes</recipientName>
+      <amount>1000</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Team Hagerty</payeeName>
+      <recipientName>Bill Hagerty</recipientName>
+      <amount>5000</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Terri Sewell For Congress</payeeName>
+      <recipientName>Rep. Terri Andrea Sewell</recipientName>
+      <amount>1000</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>The Hawkeye PAC</payeeName>
+      <recipientName>Sen. Charles E. Grassley</recipientName>
+      <amount>4000</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Thom Tillis Committee</payeeName>
+      <recipientName>Sen. Thomas Roland Tillis</recipientName>
+      <amount>3000</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Abraham Lincoln PAC</payeeName>
+      <recipientName>Rep. Darin M. LaHood</recipientName>
+      <amount>500</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Billy Long For Congress</payeeName>
+      <recipientName>Rep. William H. Long, II</recipientName>
+      <amount>1000</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Bucshon For Congress</payeeName>
+      <recipientName>Rep. Larry Dean Bucshon</recipientName>
+      <amount>1000</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Buddy Carter For Congress</payeeName>
+      <recipientName>Rep. Earl L. B. Carter</recipientName>
+      <amount>2500</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Butterfield For Congress</payeeName>
+      <recipientName>Rep. George Kenneth Butterfield, Jr.</recipientName>
+      <amount>1000</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Carol For Congress</payeeName>
+      <recipientName>Rep. Carol Devine Miller</recipientName>
+      <amount>1000</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>CHERPAC</payeeName>
+      <recipientName>Rep. Cheryl L. Bustos</recipientName>
+      <amount>2500</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Cloud For Congress</payeeName>
+      <recipientName>Rep. Michael J. Cloud</recipientName>
+      <amount>1000</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Cole For Congress</payeeName>
+      <recipientName>Rep. Thomas Jeffery Cole</recipientName>
+      <amount>1500</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Conservative Oppurtunity Leadership And Enterprise PAC (COLE PAC)</payeeName>
+      <recipientName>Rep. Thomas Jeffery Cole</recipientName>
+      <amount>2500</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Debbie Dingell For Congress</payeeName>
+      <recipientName>Rep. Deborah Ann Dingell</recipientName>
+      <amount>1000</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Debbie Lesko For Congress</payeeName>
+      <recipientName>Rep. Debbie Lesko</recipientName>
+      <amount>1000</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Defending American Values Everywhere PAC (DAVE PAC)</payeeName>
+      <recipientName>Rep. David Patrick Joyce</recipientName>
+      <amount>2500</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Dogwood PAC</payeeName>
+      <recipientName>Rep. A. Donald McEachin</recipientName>
+      <amount>5000</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Doug Jones For Senate Committee</payeeName>
+      <recipientName>Sen. Doug Jones</recipientName>
+      <amount>5000</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Friends Of Denver Riggleman, Inc.</payeeName>
+      <recipientName>Rep. Denver L. Riggleman, III</recipientName>
+      <amount>1000</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Friends Of Matt Gaetz</payeeName>
+      <recipientName>Rep. Matt Jerry Gaetz</recipientName>
+      <amount>1000</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Fund For America's Future</payeeName>
+      <recipientName>Sen. Lindsey Olin Graham</recipientName>
+      <amount>2500</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Georgians For Kelly Loeffler</payeeName>
+      <recipientName>Sen. Kelly Loeffler</recipientName>
+      <amount>5000</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Glenn Grothman For Congress</payeeName>
+      <recipientName>Rep. Glenn S. Grothman</recipientName>
+      <amount>1000</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Grace For New York</payeeName>
+      <recipientName>Rep. Grace Meng</recipientName>
+      <amount>1000</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Greg Steube For Congress</payeeName>
+      <recipientName>Rep. W. Gregory Steube</recipientName>
+      <amount>1000</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Hoosier PAC</payeeName>
+      <recipientName>Sen. Michael K. Braun</recipientName>
+      <amount>2500</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Innovation Political Action Committee</payeeName>
+      <recipientName>Rep. Patrick Timothy McHenry</recipientName>
+      <amount>5000</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>John Carter For Congress</payeeName>
+      <recipientName>Rep. John R. Carter</recipientName>
+      <amount>1000</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>John Rose For Tennessee</payeeName>
+      <recipientName>Rep. John W. Rose</recipientName>
+      <amount>1500</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Joni For Iowa</payeeName>
+      <recipientName>Sen. Joni Kay Ernst</recipientName>
+      <amount>5000</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Ken Calvert For Congress Committee</payeeName>
+      <recipientName>Rep. Kenneth S. Calvert</recipientName>
+      <amount>1000</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Latta For Congress</payeeName>
+      <recipientName>Rep. Robert E. Latta</recipientName>
+      <amount>1000</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Liz Cheney For Wyoming</payeeName>
+      <recipientName>Rep. Elizabeth Cheney</recipientName>
+      <amount>5000</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>LOBO PAC</payeeName>
+      <recipientName>Sen. Martin Heinrich</recipientName>
+      <amount>1500</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Marc Veasey Congressional Campaign Committee</payeeName>
+      <recipientName>Rep. Marc A. Veasey</recipientName>
+      <amount>1500</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Marcia Fudge For Congress</payeeName>
+      <recipientName>Rep. Marcia Louise Fudge</recipientName>
+      <amount>1500</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>McCaul For Congress, Inc</payeeName>
+      <recipientName>Rep. Michael Thomas McCaul, Sr.</recipientName>
+      <amount>1500</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>McEachin For Congress</payeeName>
+      <recipientName>Rep. A. Donald McEachin</recipientName>
+      <amount>1500</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>McKinley For Congress</payeeName>
+      <recipientName>Rep. David B. McKinley</recipientName>
+      <amount>1000</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>McSally For Senate Inc</payeeName>
+      <recipientName>Sen. Martha Elizabeth McSally</recipientName>
+      <amount>5000</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Mike Johnson For Louisiana</payeeName>
+      <recipientName>Rep. Mike Johnson</recipientName>
+      <amount>1000</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Mullin For Congress</payeeName>
+      <recipientName>Rep. Markwayne Mullin</recipientName>
+      <amount>1000</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>New South Leadership PAC</payeeName>
+      <recipientName>Rep. George Kenneth Butterfield, Jr.</recipientName>
+      <amount>4000</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Pelican PAC</payeeName>
+      <recipientName>Sen. John Neely Kennedy</recipientName>
+      <amount>1500</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Perdue For Senate</payeeName>
+      <recipientName>Sen. David Alfred Perdue, Jr.</recipientName>
+      <amount>5000</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Promoting Our Republican Team PAC</payeeName>
+      <recipientName>Sen. Rob J. Portman</recipientName>
+      <amount>1500</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Ratcliffe For Congress</payeeName>
+      <recipientName>Rep. John Lee Ratcliffe</recipientName>
+      <amount>1000</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Reinventing A New Direction Political Action Committee</payeeName>
+      <recipientName>Sen. Rand Howard Paul</recipientName>
+      <amount>5000</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Rob Wittman For Congress</payeeName>
+      <recipientName>Rep. Robert Joseph Wittman</recipientName>
+      <amount>1500</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Scott Fitzgerald For Congress</payeeName>
+      <recipientName>Sen. Scott L. Fitzgerald</recipientName>
+      <amount>2500</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Scott For Congress</payeeName>
+      <recipientName>Rep. Robert Cortez Scott</recipientName>
+      <amount>1000</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Scott Peters For Congress</payeeName>
+      <recipientName>Rep. Scott H. Peters</recipientName>
+      <amount>3500</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Stephanie Murphy For Congress</payeeName>
+      <recipientName>Rep. Stephanie N. Murphy</recipientName>
+      <amount>1000</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Strategy PAC</payeeName>
+      <recipientName>Sen. Ronald H. Johnson</recipientName>
+      <amount>1500</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Team Graham, Inc.</payeeName>
+      <recipientName>Sen. Lindsey Olin Graham</recipientName>
+      <amount>2500</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Tom Reed For Congress</payeeName>
+      <recipientName>Rep. Thomas W. Reed, II.</recipientName>
+      <amount>2000</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Tomorrow Is Meaningful PAC</payeeName>
+      <recipientName>Sen. Timothy Eugene Scott</recipientName>
+      <amount>2500</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Upton For All Of Us</payeeName>
+      <recipientName>Rep. Frederick Stephen Upton</recipientName>
+      <amount>1000</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Virginia Foxx For Congress</payeeName>
+      <recipientName>Rep. Virginia Ann Foxx</recipientName>
+      <amount>1000</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Walberg For Congress</payeeName>
+      <recipientName>Rep. Timothy L. Walberg</recipientName>
+      <amount>1000</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Walorski For Congress Inc</payeeName>
+      <recipientName>Rep. Jacqueline Walorski</recipientName>
+      <amount>1000</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Developing A New Generation PAC (DANG PAC)</payeeName>
+      <recipientName>Rep. Stephanie N. Murphy</recipientName>
+      <amount>-2500</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Developing A New Generation PAC (DANG PAC)</payeeName>
+      <recipientName>Rep. Stephanie N. Murphy</recipientName>
+      <amount>2500</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Greater Opportunities For Leadership Development (GOLD PAC)</payeeName>
+      <recipientName>Rep. Sanford D. Bishop, Jr.</recipientName>
+      <amount>-5000</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Greater Opportunities For Leadership Development (GOLD PAC)</payeeName>
+      <recipientName>Rep. Sanford D. Bishop, Jr.</recipientName>
+      <amount>5000</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Making America Prosperous PAC</payeeName>
+      <recipientName>Rep. Kevin Patrick Brady</recipientName>
+      <amount>-2500</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Making America Prosperous PAC</payeeName>
+      <recipientName>Rep. Kevin Patrick Brady</recipientName>
+      <amount>2500</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Val Demings For Congress</payeeName>
+      <recipientName>Rep. Valdez B. Demings</recipientName>
+      <amount>-1000</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Altria Group, Inc. Political Action Committee (AltriaPAC)</contributorName>
+      <payeeName>Val Demings For Congress</payeeName>
+      <recipientName>Rep. Valdez B. Demings</recipientName>
+      <amount>1000</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ste. Michelle Wine Estates Ltd. Political Action Committee</contributorName>
+      <payeeName>New Pioneers PAC</payeeName>
+      <recipientName>Rep. Gregory Paul Walden</recipientName>
+      <amount>3500</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ste. Michelle Wine Estates Ltd. Political Action Committee</contributorName>
+      <payeeName>DelBene for Congress</payeeName>
+      <recipientName>Rep. Suzan Kay DelBene</recipientName>
+      <amount>2000</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ste. Michelle Wine Estates Ltd. Political Action Committee</contributorName>
+      <payeeName>Jaime For Congress</payeeName>
+      <recipientName>Rep. Jaime Lynn Herrera Beutler</recipientName>
+      <amount>1500</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ste. Michelle Wine Estates Ltd. Political Action Committee</contributorName>
+      <payeeName>Walden For Congress</payeeName>
+      <recipientName>Rep. Gregory Paul Walden</recipientName>
+      <amount>2500</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ste. Michelle Wine Estates Ltd. Political Action Committee</contributorName>
+      <payeeName>Walden For Congress</payeeName>
+      <recipientName>Rep. Gregory Paul Walden</recipientName>
+      <amount>-2500</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ste. Michelle Wine Estates Ltd. Political Action Committee</contributorName>
+      <payeeName>CMR Political Action Committee</payeeName>
+      <recipientName>Rep. Cathy McMorris Rodgers</recipientName>
+      <amount>5000</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ste. Michelle Wine Estates Ltd. Political Action Committee</contributorName>
+      <payeeName>Evergreen PAC</payeeName>
+      <recipientName>Rep. Suzan Kay DelBene</recipientName>
+      <amount>2000</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>Honorary Expenses</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Congressional Hispanic Caucus Institute, Inc.</payeeName>
+      <recipientName>Congressional Hispanic Caucus Institute, Inc.</recipientName>
+      <amount>20000.00</amount>
+      <date>09/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>Honorary Expenses</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Congressional Black Caucus Foundation, Inc.</payeeName>
+      <recipientName>Congressional Black Caucus Foundation, Inc.</recipientName>
+      <amount>20000.00</amount>
+      <date>09/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>Honorary Expenses</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Congressional Black Caucus Institute</payeeName>
+      <recipientName>Congressional Black Caucus Institute</recipientName>
+      <amount>100000.00</amount>
+      <date>12/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>Meeting Expenses</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Congressional Black Caucus Foundation, Inc.</payeeName>
+      <recipientName>Congressional Black Caucus Foundation, Inc. (Non-Monetary Contribution)</recipientName>
+      <amount>18654.34</amount>
+      <date>09/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>Meeting Expenses</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Congressional Hispanic Caucus Institute, Inc.</payeeName>
+      <recipientName>Congressional Hispanic Caucus Institute, Inc. (Non-Monetary Contribution)</recipientName>
+      <amount>14314.90</amount>
+      <date>09/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>Honorary Expenses</type>
+      <contributorName>Self</contributorName>
+      <payeeName>The Louisa Swain Foundation</payeeName>
+      <recipientName>Sen. Michael B. Enzi (Non-Monetary Contribution)</recipientName>
+      <amount>3289.15</amount>
+      <date>12/03/2019</date>
+    </contribution>
+    <contribution>
+      <type>Honorary Expenses</type>
+      <contributorName>Self</contributorName>
+      <payeeName>The Lyndon Baines Johnson Foundation</payeeName>
+      <recipientName>The Lyndon Baines Johnson Foundation</recipientName>
+      <amount>2500.00</amount>
+      <date>10/28/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

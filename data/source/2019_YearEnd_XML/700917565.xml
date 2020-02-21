@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>Ward and Smith, P.A.</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <zipext>
+  </zipext>
+  <contactName>JAMES W. NORMENT</contactName>
+  <senateRegID>44674</senateRegID>
+  <houseRegID>34207</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/20/2020 12:33:07 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>Ward and Smith, P.A. Political Action Committee</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ward and Smith, P.A. Political Action Committee</contributorName>
+      <payeeName>Thom Tillis Committee</payeeName>
+      <recipientName>Thom Tillis </recipientName>
+      <amount>250.00</amount>
+      <date>10/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ward and Smith, P.A. Political Action Committee</contributorName>
+      <payeeName>Friends to Elect Dr. Greg Murphy to Congress</payeeName>
+      <recipientName>Dr. Greg Murphy</recipientName>
+      <amount>2000.00</amount>
+      <date>12/02/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ward and Smith, P.A. Political Action Committee</contributorName>
+      <payeeName>Bishop for Congress</payeeName>
+      <recipientName>Dan Bishop</recipientName>
+      <amount>1000.00</amount>
+      <date>12/02/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

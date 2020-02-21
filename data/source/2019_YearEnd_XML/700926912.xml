@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>AK Steel Holding Corporation</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>Beth Ludwig</contactName>
+  <senateRegID>400326536</senateRegID>
+  <houseRegID>40986</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/31/2020 3:05:27 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>AK Steel Corporation PAC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AK Steel Corporation PAC</contributorName>
+      <payeeName>Bergman for Congress</payeeName>
+      <recipientName>Jack Bergman</recipientName>
+      <amount>1000.00</amount>
+      <date>07/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AK Steel Corporation PAC</contributorName>
+      <payeeName>Pete Stauber for Congress</payeeName>
+      <recipientName>Pete Stauber</recipientName>
+      <amount>1000.00</amount>
+      <date>07/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AK Steel Corporation PAC</contributorName>
+      <payeeName>Tom Reed for Congress</payeeName>
+      <recipientName>Tom Reed</recipientName>
+      <amount>1000.00</amount>
+      <date>07/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AK Steel Corporation PAC</contributorName>
+      <payeeName>Portman for Senate Committee</payeeName>
+      <recipientName>Rob Portman</recipientName>
+      <amount>1000.00</amount>
+      <date>07/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AK Steel Corporation PAC</contributorName>
+      <payeeName>Kaptur for Congress</payeeName>
+      <recipientName>Marcy Kaptur</recipientName>
+      <amount>1000.00</amount>
+      <date>09/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AK Steel Corporation PAC</contributorName>
+      <payeeName>Mike Kelly for Congress</payeeName>
+      <recipientName>Mike Kelly</recipientName>
+      <amount>2500.00</amount>
+      <date>11/08/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AK Steel Corporation PAC</contributorName>
+      <payeeName>Balderson for Congress</payeeName>
+      <recipientName>William "Troy" Balderson</recipientName>
+      <amount>2000.00</amount>
+      <date>11/08/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AK Steel Corporation PAC</contributorName>
+      <payeeName>Terri Sewell for Congress</payeeName>
+      <recipientName>Terri Sewell</recipientName>
+      <amount>1000.00</amount>
+      <date>11/08/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AK Steel Corporation PAC</contributorName>
+      <payeeName>Robert Aderholt for Congress</payeeName>
+      <recipientName>Robert Aderholt</recipientName>
+      <amount>1000.00</amount>
+      <date>11/08/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AK Steel Corporation PAC</contributorName>
+      <payeeName>Portman for Senate Committee</payeeName>
+      <recipientName>Rob Portman</recipientName>
+      <amount>1500.00</amount>
+      <date>11/08/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AK Steel Corporation PAC</contributorName>
+      <payeeName>Portman for Senate Committee</payeeName>
+      <recipientName>Rob Portman</recipientName>
+      <amount>500.00</amount>
+      <date>11/08/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AK Steel Corporation PAC</contributorName>
+      <payeeName>Debbie Dingell for Congress</payeeName>
+      <recipientName>Debbie Dingell</recipientName>
+      <amount>2500.00</amount>
+      <date>11/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AK Steel Corporation PAC</contributorName>
+      <payeeName>Friends of Sherrod Brown</payeeName>
+      <recipientName>Sherrod Brown</recipientName>
+      <amount>2000.00</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AK Steel Corporation PAC</contributorName>
+      <payeeName>Peters for Michigan</payeeName>
+      <recipientName>Gary Peters</recipientName>
+      <amount>2000.00</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AK Steel Corporation PAC</contributorName>
+      <payeeName>Walberg for Congress</payeeName>
+      <recipientName>Tim Walberg</recipientName>
+      <amount>1000.00</amount>
+      <date>12/12/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

@@ -1,0 +1,1205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>The American Council of Engineering Companies</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>STEVE HALL</contactName>
+  <contactPhone>
+  </contactPhone>
+  <senateRegID>2046</senateRegID>
+  <houseRegID>33075</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/30/2020 12:53:08 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>
+  </noContributions>
+  <pacs>
+    <pac>
+      <name>American Council of Engineering Companies ACECPAC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>Roger Williams For U S Congress Committee</payeeName>
+      <recipientName>Rep Roger Williams</recipientName>
+      <amount>2000.00</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>LISA BLUNT ROCHESTER FOR CONGRESS</payeeName>
+      <recipientName>Rep Lisa Blunt Rochester</recipientName>
+      <amount>1000.00</amount>
+      <date>11/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>Alaskans For Don Young Inc</payeeName>
+      <recipientName>Rep Don Young</recipientName>
+      <amount>2500.00</amount>
+      <date>08/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>JULIA BROWNLEY FOR CONGRESS</payeeName>
+      <recipientName>Rep Julia Brownley</recipientName>
+      <amount>1000.00</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>Blumenauer For Congress</payeeName>
+      <recipientName>Rep Earl Blumenauer</recipientName>
+      <amount>4000.00</amount>
+      <date>11/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>Friends Of Dave Joyce</payeeName>
+      <recipientName>Rep Dave P Joyce</recipientName>
+      <amount>2000.00</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>MIKE GALLAGHER FOR WISCONSIN</payeeName>
+      <recipientName>Rep Michael J Gallagher</recipientName>
+      <amount>1000.00</amount>
+      <date>12/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>BRENDA LAWRENCE FOR CONGRESS</payeeName>
+      <recipientName>Rep Brenda L Lawrence</recipientName>
+      <amount>2000.00</amount>
+      <date>11/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>Blue Dog PAC</payeeName>
+      <recipientName>Blue Dog PAC</recipientName>
+      <amount>5000.00</amount>
+      <date>11/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>Dan Lipinski For Congress</payeeName>
+      <recipientName>Rep Daniel W Lipinski</recipientName>
+      <amount>2000.00</amount>
+      <date>12/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>LORI TRAHAN FOR CONGRESS COMMITTEE</payeeName>
+      <recipientName>Rep Lori Trahan</recipientName>
+      <amount>2000.00</amount>
+      <date>12/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>CHUY GARCIA FOR CONGRESS</payeeName>
+      <recipientName>Rep Jesus G Garcia</recipientName>
+      <amount>1000.00</amount>
+      <date>09/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>AMERIPAC THE FUND FOR A GREATER AMERICA</payeeName>
+      <recipientName>Rep Steny H Hoyer</recipientName>
+      <amount>5000.00</amount>
+      <date>12/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>MARCO RUBIO FOR SENATE</payeeName>
+      <recipientName>Sen Marco Rubio</recipientName>
+      <amount>1000.00</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>Friends Of Cheri Bustos</payeeName>
+      <recipientName>Rep Cheri L Bustos</recipientName>
+      <amount>4000.00</amount>
+      <date>10/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>Walorski For Congress Inc</payeeName>
+      <recipientName>Rep Jackie Swihart Walorski</recipientName>
+      <amount>2500.00</amount>
+      <date>08/01/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>FRIENDS OF BEN MCADAMS</payeeName>
+      <recipientName>Rep Ben McAdams</recipientName>
+      <amount>1000.00</amount>
+      <date>09/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>CHIP ROY FOR CONGRESS</payeeName>
+      <recipientName>Rep Chip Roy</recipientName>
+      <amount>2500.00</amount>
+      <date>09/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>JIMMY PANETTA FOR CONGRESS</payeeName>
+      <recipientName>Rep Jimmy Panetta</recipientName>
+      <amount>1000.00</amount>
+      <date>10/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>SMUCKER FOR CONGRESS</payeeName>
+      <recipientName>Rep Lloyd K Smucker</recipientName>
+      <amount>1000.00</amount>
+      <date>11/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>ANTHONY GONZALEZ FOR CONGRESS</payeeName>
+      <recipientName>Rep Anthony E Gonzalez</recipientName>
+      <amount>1000.00</amount>
+      <date>09/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>CHERPAC</payeeName>
+      <recipientName>Rep Cheri L Bustos</recipientName>
+      <amount>5000.00</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>Larson For Congress</payeeName>
+      <recipientName>Rep John Larson</recipientName>
+      <amount>3000.00</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>Tom Reed For Congress</payeeName>
+      <recipientName>Rep Tom W Reed II</recipientName>
+      <amount>2500.00</amount>
+      <date>09/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>People For Derek Kilmer</payeeName>
+      <recipientName>Rep Derek Kilmer</recipientName>
+      <amount>1000.00</amount>
+      <date>12/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>TOM GRAVES FOR CONGRESS</payeeName>
+      <recipientName>Rep Tom Graves Jr</recipientName>
+      <amount>3500.00</amount>
+      <date>07/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>Collins For Congress</payeeName>
+      <recipientName>Rep Chris C Collins</recipientName>
+      <amount>1000.00</amount>
+      <date>07/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>DONALD NORCROSS FOR CONGRESS</payeeName>
+      <recipientName>Rep Donald W Norcross</recipientName>
+      <amount>600.00</amount>
+      <date>09/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>VARGAS FOR CONGRESS</payeeName>
+      <recipientName>Rep Juan Vargas</recipientName>
+      <amount>2000.00</amount>
+      <date>07/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>GREG PENCE FOR CONGRESS</payeeName>
+      <recipientName>Rep Gregory Pence</recipientName>
+      <amount>1000.00</amount>
+      <date>08/01/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>DR JOHN JOYCE FOR CONGRESS</payeeName>
+      <recipientName>Rep John Joyce</recipientName>
+      <amount>1000.00</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>Mark Pocan For Congress</payeeName>
+      <recipientName>Rep Mark Pocan</recipientName>
+      <amount>1000.00</amount>
+      <date>12/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>DAVID ROUZER FOR CONGRESS</payeeName>
+      <recipientName>Rep David C Rouzer</recipientName>
+      <amount>2500.00</amount>
+      <date>09/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>Citizens To Elect Rick Larsen</payeeName>
+      <recipientName>Rep Rick R Larsen</recipientName>
+      <amount>1500.00</amount>
+      <date>07/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>Citizens For Turner</payeeName>
+      <recipientName>Rep Michael R Turner</recipientName>
+      <amount>1000.00</amount>
+      <date>09/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>MIKE BRAUN FOR INDIANA</payeeName>
+      <recipientName>Sen Mike Braun</recipientName>
+      <amount>3000.00</amount>
+      <date>08/01/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>THE EYE OF THE TIGER POLITICAL ACTION COMMITTEE</payeeName>
+      <recipientName>Rep Steve J Scalise</recipientName>
+      <amount>5000.00</amount>
+      <date>09/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>ROSS SPANO FOR CONGRESS</payeeName>
+      <recipientName>Rep Ross Spano</recipientName>
+      <amount>1000.00</amount>
+      <date>11/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>Andre Carson For Congress</payeeName>
+      <recipientName>Rep Andre D Carson</recipientName>
+      <amount>2000.00</amount>
+      <date>08/01/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>HERN FOR CONGRESS</payeeName>
+      <recipientName>Rep Kevin R Hern</recipientName>
+      <amount>1000.00</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>Walden For Congress</payeeName>
+      <recipientName>Rep Greg P Walden</recipientName>
+      <amount>3000.00</amount>
+      <date>08/01/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>Dutch Ruppersberger For Congress</payeeName>
+      <recipientName>Rep Dutch Ruppersberger III</recipientName>
+      <amount>1000.00</amount>
+      <date>12/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>Prairie Political Action Committee</payeeName>
+      <recipientName>Prairie Political Action Committee</recipientName>
+      <amount>5000.00</amount>
+      <date>11/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>WENSTRUP FOR CONGRESS</payeeName>
+      <recipientName>Rep Brad R Wenstrup</recipientName>
+      <amount>1000.00</amount>
+      <date>09/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>Rodney For Congress</payeeName>
+      <recipientName>Rep Rodney L Davis</recipientName>
+      <amount>1000.00</amount>
+      <date>09/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>Friends Of Dick Durbin Committee</payeeName>
+      <recipientName>Sen Dick Durbin</recipientName>
+      <amount>1000.00</amount>
+      <date>11/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>ELECT JIM BAIRD FOR CONGRESS</payeeName>
+      <recipientName>Rep Jim Baird</recipientName>
+      <amount>1000.00</amount>
+      <date>08/01/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>GEORGIANS FOR ISAKSON</payeeName>
+      <recipientName>Sen Johnny Isakson</recipientName>
+      <amount>3000.00</amount>
+      <date>07/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>Latta For Congress</payeeName>
+      <recipientName>Rep Robert E Latta</recipientName>
+      <amount>1000.00</amount>
+      <date>09/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>LAND OF OPPORTUNITY PAC</payeeName>
+      <recipientName>LAND OF OPPORTUNITY PAC</recipientName>
+      <amount>5000.00</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>BARRAGAN FOR CONGRESS</payeeName>
+      <recipientName>Rep Nanette Diaz Barragan</recipientName>
+      <amount>1000.00</amount>
+      <date>09/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>ZELDIN FOR CONGRESS</payeeName>
+      <recipientName>Rep Lee M Zeldin</recipientName>
+      <amount>1000.00</amount>
+      <date>09/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>Kurt Schrader For Congress</payeeName>
+      <recipientName>Rep Kurt Schrader</recipientName>
+      <amount>2000.00</amount>
+      <date>07/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>VAN HOLLEN FOR SENATE</payeeName>
+      <recipientName>Sen Chris J Van Hollen Jr</recipientName>
+      <amount>1000.00</amount>
+      <date>10/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>Friends Of Cheri Bustos</payeeName>
+      <recipientName>Rep Cheri L Bustos</recipientName>
+      <amount>1000.00</amount>
+      <date>10/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>MARK DESAULNIER FOR CONGRESS</payeeName>
+      <recipientName>Rep Mark DeSaulnier</recipientName>
+      <amount>1000.00</amount>
+      <date>08/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>First State PAC</payeeName>
+      <recipientName>Sen Tom R Carper</recipientName>
+      <amount>3000.00</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>Friends Of Jim Clyburn</payeeName>
+      <recipientName>Rep James E Clyburn</recipientName>
+      <amount>2500.00</amount>
+      <date>09/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>Carper For Senate</payeeName>
+      <recipientName>Sen Tom R Carper</recipientName>
+      <amount>3000.00</amount>
+      <date>10/08/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>LAHOOD FOR CONGRESS</payeeName>
+      <recipientName>Rep Darin M LaHood</recipientName>
+      <amount>1000.00</amount>
+      <date>07/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>Arkansas for Leadership Political Action Committee ARKPAC</payeeName>
+      <recipientName>Sen John N Boozman</recipientName>
+      <amount>5000.00</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>LAHOOD FOR CONGRESS</payeeName>
+      <recipientName>Rep Darin M LaHood</recipientName>
+      <amount>1000.00</amount>
+      <date>09/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>McCaul For Congress Inc</payeeName>
+      <recipientName>Rep Michael T McCaul</recipientName>
+      <amount>1000.00</amount>
+      <date>09/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>Sean Patrick Maloney For Congress</payeeName>
+      <recipientName>Rep Sean P Maloney</recipientName>
+      <amount>1000.00</amount>
+      <date>08/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>LUMMIS FOR WYOMING INC</payeeName>
+      <recipientName>LUMMIS FOR WYOMING INC</recipientName>
+      <amount>500.00</amount>
+      <date>12/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>FRIENDS OF TODD YOUNG INC</payeeName>
+      <recipientName>Sen Todd C Young</recipientName>
+      <amount>2000.00</amount>
+      <date>08/01/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>DONALD NORCROSS FOR CONGRESS</payeeName>
+      <recipientName>Rep Donald W Norcross</recipientName>
+      <amount>2200.00</amount>
+      <date>09/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>DAVID ROUZER FOR CONGRESS</payeeName>
+      <recipientName>Rep David C Rouzer</recipientName>
+      <amount>1000.00</amount>
+      <date>11/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>Brian Higgins For Congress</payeeName>
+      <recipientName>Rep Brian M Higgins</recipientName>
+      <amount>1500.00</amount>
+      <date>07/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>Jim Costa For Congress</payeeName>
+      <recipientName>Rep Jim Costa</recipientName>
+      <amount>3000.00</amount>
+      <date>11/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>McKinley for Congress</payeeName>
+      <recipientName>Rep David B McKinley</recipientName>
+      <amount>1000.00</amount>
+      <date>08/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>SHARICE FOR CONGRESS</payeeName>
+      <recipientName>Rep Sharice Davids</recipientName>
+      <amount>1000.00</amount>
+      <date>09/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>Loudermilk For Congress</payeeName>
+      <recipientName>Rep Barry D Loudermilk</recipientName>
+      <amount>2000.00</amount>
+      <date>07/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>GLENN GROTHMAN FOR CONGRESS</payeeName>
+      <recipientName>Rep Glenn S Grothman</recipientName>
+      <amount>1000.00</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>Larson For Congress</payeeName>
+      <recipientName>Rep John Larson</recipientName>
+      <amount>1500.00</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>Upton For All Of Us</payeeName>
+      <recipientName>Rep Fred S Upton</recipientName>
+      <amount>3500.00</amount>
+      <date>10/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>Mario DiazBalart For Congress</payeeName>
+      <recipientName>Rep Mario DiazBalart</recipientName>
+      <amount>1000.00</amount>
+      <date>10/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>Friends Of Dick Durbin Committee</payeeName>
+      <recipientName>Sen Dick Durbin</recipientName>
+      <amount>4000.00</amount>
+      <date>11/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>HEARTLAND VALUES PAC</payeeName>
+      <recipientName>Sen John Thune</recipientName>
+      <amount>2500.00</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>TIM SCOTT FOR SENATE</payeeName>
+      <recipientName>Sen Tim E Scott</recipientName>
+      <amount>2500.00</amount>
+      <date>09/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>Mark Pocan For Congress</payeeName>
+      <recipientName>Rep Mark Pocan</recipientName>
+      <amount>1000.00</amount>
+      <date>08/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>Reed Committee</payeeName>
+      <recipientName>Sen Jack F Reed</recipientName>
+      <amount>1000.00</amount>
+      <date>12/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>Rodney For Congress</payeeName>
+      <recipientName>Rep Rodney L Davis</recipientName>
+      <amount>500.00</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>WESTERMAN FOR CONGRESS</payeeName>
+      <recipientName>Rep Bruce Westerman</recipientName>
+      <amount>5000.00</amount>
+      <date>11/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>Marc Veasey Congressional Campaign Committee</payeeName>
+      <recipientName>Rep Marc A Veasey</recipientName>
+      <amount>1000.00</amount>
+      <date>11/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>Visclosky For Congress</payeeName>
+      <recipientName>Rep Pete J Visclosky</recipientName>
+      <amount>5000.00</amount>
+      <date>08/01/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>WELCH FOR CONGRESS</payeeName>
+      <recipientName>Rep Peter F Welch</recipientName>
+      <amount>3000.00</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>COLE FOR CONGRESS</payeeName>
+      <recipientName>Rep Tom J Cole</recipientName>
+      <amount>1000.00</amount>
+      <date>09/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>Steve Chabot For Congress</payeeName>
+      <recipientName>Rep Steve Chabot</recipientName>
+      <amount>2000.00</amount>
+      <date>09/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>MAKING AMERICA PROSPEROUS PAC</payeeName>
+      <recipientName>Rep Kevin P Brady</recipientName>
+      <amount>2500.00</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>Roger Williams For U S Congress Committee</payeeName>
+      <recipientName>Rep Roger Williams</recipientName>
+      <amount>2000.00</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>Steve Daines For Montana</payeeName>
+      <recipientName>Sen Steve Daines</recipientName>
+      <amount>1000.00</amount>
+      <date>10/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>MIDDLE CLASS AMERICA PAC</payeeName>
+      <recipientName>MIDDLE CLASS AMERICA PAC</recipientName>
+      <amount>5000.00</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>KAINE FOR VIRGINIA</payeeName>
+      <recipientName>Sen Tim M Kaine</recipientName>
+      <amount>2500.00</amount>
+      <date>08/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>Brady For Congress</payeeName>
+      <recipientName>Rep Kevin P Brady</recipientName>
+      <amount>1500.00</amount>
+      <date>12/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>JUDY CHU FOR CONGRESS</payeeName>
+      <recipientName>Rep Judy Chu</recipientName>
+      <amount>1000.00</amount>
+      <date>08/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>MULLIN FOR CONGRESS</payeeName>
+      <recipientName>Rep Markwayne Mullin</recipientName>
+      <amount>1000.00</amount>
+      <date>07/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>Quigley For Congress</payeeName>
+      <recipientName>Rep Mike Quigley</recipientName>
+      <amount>1500.00</amount>
+      <date>08/01/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>DAN NEWHOUSE FOR CONGRESS</payeeName>
+      <recipientName>Rep Dan M Newhouse</recipientName>
+      <amount>1000.00</amount>
+      <date>08/01/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>Sean Patrick Maloney For Congress</payeeName>
+      <recipientName>Rep Sean P Maloney</recipientName>
+      <amount>4000.00</amount>
+      <date>09/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>Jason Smith For Congress</payeeName>
+      <recipientName>Rep Jason T Smith</recipientName>
+      <amount>1000.00</amount>
+      <date>07/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>Carper For Senate</payeeName>
+      <recipientName>Sen Tom R Carper</recipientName>
+      <amount>1000.00</amount>
+      <date>07/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>DREW FERGUSON FOR CONGRESS INC</payeeName>
+      <recipientName>Rep Drew Ferguson IV</recipientName>
+      <amount>1000.00</amount>
+      <date>09/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>DON BACON FOR CONGRESS</payeeName>
+      <recipientName>Rep Don J Bacon</recipientName>
+      <amount>1500.00</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>Friends Of Dave Joyce</payeeName>
+      <recipientName>Rep Dave P Joyce</recipientName>
+      <amount>5000.00</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>Bucshon For Congress</payeeName>
+      <recipientName>Rep Larry D Bucshon</recipientName>
+      <amount>3000.00</amount>
+      <date>08/01/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>Kind For Congress Committee</payeeName>
+      <recipientName>Rep Ron J Kind</recipientName>
+      <amount>2500.00</amount>
+      <date>07/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>PROGRESSIVE AMERICANS FOR DEMOCRACY</payeeName>
+      <recipientName>Rep Peter A DeFazio</recipientName>
+      <amount>5000.00</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>Buddy Carter For Congress</payeeName>
+      <recipientName>Rep Buddy Carter</recipientName>
+      <amount>2000.00</amount>
+      <date>07/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>Brian Higgins For Congress</payeeName>
+      <recipientName>Rep Brian M Higgins</recipientName>
+      <amount>1000.00</amount>
+      <date>08/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>DREW FERGUSON FOR CONGRESS INC</payeeName>
+      <recipientName>Rep Drew Ferguson IV</recipientName>
+      <amount>2000.00</amount>
+      <date>07/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>ALAN LOWENTHAL FOR CONGRESS</payeeName>
+      <recipientName>Rep Alan Lowenthal</recipientName>
+      <amount>1000.00</amount>
+      <date>12/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>Rodney For Congress</payeeName>
+      <recipientName>Rep Rodney L Davis</recipientName>
+      <amount>1000.00</amount>
+      <date>09/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>Devin Nunes Campaign Committee</payeeName>
+      <recipientName>Rep Devin Nunes</recipientName>
+      <amount>1500.00</amount>
+      <date>10/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>Mike Thompson For Congress</payeeName>
+      <recipientName>Rep Mike Thompson</recipientName>
+      <amount>1500.00</amount>
+      <date>09/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>STANTON FOR CONGRESS</payeeName>
+      <recipientName>Rep Greg Stanton</recipientName>
+      <amount>1000.00</amount>
+      <date>09/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>LIZ CHENEY FOR WYOMING</payeeName>
+      <recipientName>Rep Liz L Cheney</recipientName>
+      <amount>1000.00</amount>
+      <date>09/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>ALAMO PAC</payeeName>
+      <recipientName>Sen John Cornyn III</recipientName>
+      <amount>2500.00</amount>
+      <date>09/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>DEFEND AMERICA PAC</payeeName>
+      <recipientName>DEFEND AMERICA PAC</recipientName>
+      <amount>1000.00</amount>
+      <date>09/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>CISNEROS FOR CONGRESS</payeeName>
+      <recipientName>Rep Gil Cisneros</recipientName>
+      <amount>1000.00</amount>
+      <date>12/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>Blumenauer For Congress</payeeName>
+      <recipientName>Rep Earl Blumenauer</recipientName>
+      <amount>1000.00</amount>
+      <date>11/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>Hoyer For Congress</payeeName>
+      <recipientName>Rep Steny H Hoyer</recipientName>
+      <amount>5000.00</amount>
+      <date>08/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>Latta For Congress</payeeName>
+      <recipientName>Rep Robert E Latta</recipientName>
+      <amount>1000.00</amount>
+      <date>08/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>WALKER 4 NC</payeeName>
+      <recipientName>Rep Mark Walker</recipientName>
+      <amount>1000.00</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>Republican Main Street Partnership PAC</payeeName>
+      <recipientName>Republican Main Street Partnership PAC</recipientName>
+      <amount>5000.00</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>DR JOHN JOYCE FOR CONGRESS</payeeName>
+      <recipientName>Rep John Joyce</recipientName>
+      <amount>2000.00</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>MOOLENAAR FOR CONGRESS</payeeName>
+      <recipientName>Rep John Moolenaar</recipientName>
+      <amount>1000.00</amount>
+      <date>07/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>ANGIE CRAIG FOR CONGRESS</payeeName>
+      <recipientName>Rep Angie Craig</recipientName>
+      <amount>1000.00</amount>
+      <date>09/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>Cooper For Congress</payeeName>
+      <recipientName>Rep Jim HS Cooper</recipientName>
+      <amount>1000.00</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>Sean Patrick Maloney For Congress</payeeName>
+      <recipientName>Rep Sean P Maloney</recipientName>
+      <amount>3000.00</amount>
+      <date>08/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>Kurt Schrader For Congress</payeeName>
+      <recipientName>Rep Kurt Schrader</recipientName>
+      <amount>1000.00</amount>
+      <date>09/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>Tom Rice For Congress</payeeName>
+      <recipientName>Rep Tom Rice Jr</recipientName>
+      <amount>1000.00</amount>
+      <date>12/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>RUSS FULCHER FOR IDAHO</payeeName>
+      <recipientName>Rep Russell M Fulcher</recipientName>
+      <amount>1000.00</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>SUSAN WILD FOR CONGRESS</payeeName>
+      <recipientName>Rep Susan Ellis Wild</recipientName>
+      <amount>1000.00</amount>
+      <date>10/08/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>SCHNEIDER FOR CONGRESS</payeeName>
+      <recipientName>Rep Bradley S Schneider</recipientName>
+      <amount>1000.00</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>Joe Kennedy For Congress</payeeName>
+      <recipientName>Rep Joe P Kennedy III</recipientName>
+      <amount>1000.00</amount>
+      <date>08/01/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>Leahy For US Senator Committee</payeeName>
+      <recipientName>Sen Patrick J Leahy</recipientName>
+      <amount>2000.00</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>COMMITTEE FOR LEADERSHIP AND PROGRESS</payeeName>
+      <recipientName>COMMITTEE FOR LEADERSHIP AND PROGRESS</recipientName>
+      <amount>1000.00</amount>
+      <date>09/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>BALDERSON FOR CONGRESS</payeeName>
+      <recipientName>Rep Troy Balderson</recipientName>
+      <amount>1000.00</amount>
+      <date>11/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>Sean Patrick Maloney For Congress</payeeName>
+      <recipientName>Rep Sean P Maloney</recipientName>
+      <amount>1000.00</amount>
+      <date>07/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>SCOTT FITZGERALD FOR CONGRESS</payeeName>
+      <recipientName>Scott L Fitzgerald</recipientName>
+      <amount>5000.00</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>ROSS SPANO FOR CONGRESS</payeeName>
+      <recipientName>Rep Ross Spano</recipientName>
+      <amount>1000.00</amount>
+      <date>12/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>BISHOP FOR CONGRESS</payeeName>
+      <recipientName>Rep Dan Bishop</recipientName>
+      <amount>3000.00</amount>
+      <date>08/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>Tuesday Group PAC</payeeName>
+      <recipientName>Tuesday Group PAC</recipientName>
+      <amount>5000.00</amount>
+      <date>11/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Council of Engineering Companies ACECPAC</contributorName>
+      <payeeName>TREY FOR CONGRESS</payeeName>
+      <recipientName>Rep Trey Hollingsworth III</recipientName>
+      <amount>1000.00</amount>
+      <date>08/01/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

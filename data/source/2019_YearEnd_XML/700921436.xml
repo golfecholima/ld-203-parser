@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>MCHUGH LEMAY ASSOC., LLC</organizationName>
+  <lobbyistPrefix>Mr.</lobbyistPrefix>
+  <lobbyistFirstName>John</lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>McHugh</lobbyistLastName>
+  <lobbyistSuffix>Mr</lobbyistSuffix>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>401105253</senateRegID>
+  <houseRegID>44393</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/27/2020 4:21:55 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>American Victory Committee</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Victory Committee</contributorName>
+      <payeeName>CONSERVATIVE OPPURTUNITY LEADERSHIP AND ENTERPRISE PAC (COLE PAC)</payeeName>
+      <recipientName>CONSERVATIVE OPPURTUNITY LEADERSHIP AND ENTERPRISE PAC (COLE PAC)</recipientName>
+      <amount>1000.00</amount>
+      <date>10/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Victory Committee</contributorName>
+      <payeeName>Elise for Congress</payeeName>
+      <recipientName>Congresswoman Elise Stefanik</recipientName>
+      <amount>2000.00</amount>
+      <date>12/03/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

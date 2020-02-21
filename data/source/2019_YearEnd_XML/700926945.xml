@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>J Street</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <zipext>
+  </zipext>
+  <contactName>Dylan Williams</contactName>
+  <senateRegID>400296395</senateRegID>
+  <houseRegID>40282</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/31/2020 3:30:46 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>J Street PAC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>J Street PAC</contributorName>
+      <payeeName>Clay Jr. for Congress</payeeName>
+      <recipientName>Clay Jr. for Congress</recipientName>
+      <amount>1000.00</amount>
+      <date>09/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>J Street PAC</contributorName>
+      <payeeName>Cleaver for Congress</payeeName>
+      <recipientName>Cleaver for Congress</recipientName>
+      <amount>1000.00</amount>
+      <date>09/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>J Street PAC</contributorName>
+      <payeeName>Friends of Rose DeLauro</payeeName>
+      <recipientName>Friends of Rose DeLauro</recipientName>
+      <amount>1000.00</amount>
+      <date>09/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>J Street PAC</contributorName>
+      <payeeName>DelBene for Congress</payeeName>
+      <recipientName>DelBene for Congress</recipientName>
+      <amount>1000.00</amount>
+      <date>09/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>J Street PAC</contributorName>
+      <payeeName>Denny Heck for Congress</payeeName>
+      <recipientName>Denny Heck for Congress</recipientName>
+      <amount>1000.00</amount>
+      <date>09/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>J Street PAC</contributorName>
+      <payeeName>Kaptur for Congress</payeeName>
+      <recipientName>Kaptur for Congress</recipientName>
+      <amount>1000.00</amount>
+      <date>09/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>J Street PAC</contributorName>
+      <payeeName>Joe Kennedy for Congress</payeeName>
+      <recipientName>Joe Kennedy for Congress</recipientName>
+      <amount>1000.00</amount>
+      <date>09/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>J Street PAC</contributorName>
+      <payeeName>McEachin for Congress</payeeName>
+      <recipientName>McEachin for Congress</recipientName>
+      <amount>1000.00</amount>
+      <date>09/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>J Street PAC</contributorName>
+      <payeeName>McNerney for Congress</payeeName>
+      <recipientName>McNerney for Congress</recipientName>
+      <amount>1000.00</amount>
+      <date>09/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>J Street PAC</contributorName>
+      <payeeName>Friends for Gregory Meeks</payeeName>
+      <recipientName>Friends for Gregory Meeks</recipientName>
+      <amount>1000.00</amount>
+      <date>09/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>J Street PAC</contributorName>
+      <payeeName>Joe Neguse for Congress</payeeName>
+      <recipientName>Joe Neguse for Congress</recipientName>
+      <amount>1000.00</amount>
+      <date>09/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>J Street PAC</contributorName>
+      <payeeName>Scott Peters for Congress</payeeName>
+      <recipientName>Scott Peters for Congress</recipientName>
+      <amount>1000.00</amount>
+      <date>09/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>J Street PAC</contributorName>
+      <payeeName>Committee to Elect Linda Sanchez</payeeName>
+      <recipientName>Committee to Elect Linda Sanchez</recipientName>
+      <amount>1000.00</amount>
+      <date>09/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>J Street PAC</contributorName>
+      <payeeName>Swalwell for Congress</payeeName>
+      <recipientName>Swalwell for Congress</recipientName>
+      <amount>1000.00</amount>
+      <date>09/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>J Street PAC</contributorName>
+      <payeeName>Courtney for Congress</payeeName>
+      <recipientName>Courtney for Congress</recipientName>
+      <amount>1000.00</amount>
+      <date>09/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>J Street PAC</contributorName>
+      <payeeName>Dwight Evans for Congress</payeeName>
+      <recipientName>Dwight Evans for Congress</recipientName>
+      <amount>1000.00</amount>
+      <date>09/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>J Street PAC</contributorName>
+      <payeeName>Debbie Dingell for Congress</payeeName>
+      <recipientName>Debbie Dingell for Congress</recipientName>
+      <amount>1000.00</amount>
+      <date>09/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>J Street PAC</contributorName>
+      <payeeName>Bera for Congress</payeeName>
+      <recipientName>Bera for Congress</recipientName>
+      <amount>1000.00</amount>
+      <date>09/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>J Street PAC</contributorName>
+      <payeeName>Perlmutter for Congress </payeeName>
+      <recipientName>Perlmutter for Congress </recipientName>
+      <amount>1000.00</amount>
+      <date>09/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>J Street PAC</contributorName>
+      <payeeName>Adam Smith for Congress Committee</payeeName>
+      <recipientName>Adam Smith for Congress Committee</recipientName>
+      <amount>1000.00</amount>
+      <date>09/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>J Street PAC</contributorName>
+      <payeeName>Yarmuth for Congress</payeeName>
+      <recipientName>Yarmuth for Congress</recipientName>
+      <amount>1000.00</amount>
+      <date>09/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>J Street PAC</contributorName>
+      <payeeName>Steve Cohen for Congress </payeeName>
+      <recipientName>Steve Cohen for Congress </recipientName>
+      <amount>1000.00</amount>
+      <date>09/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>J Street PAC</contributorName>
+      <payeeName>A Whole Lot of People for Grijalva Congressional C</payeeName>
+      <recipientName>A Whole Lot of People for Grijalva Congressional C
+</recipientName>
+      <amount>1000.00</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>J Street PAC</contributorName>
+      <payeeName>Barbara Lee for Congress</payeeName>
+      <recipientName>Barbara Lee for Congress</recipientName>
+      <amount>2000.00</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>J Street PAC</contributorName>
+      <payeeName>Castro for Congress</payeeName>
+      <recipientName>Castro for Congress</recipientName>
+      <amount>1000.00</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>J Street PAC</contributorName>
+      <payeeName>Committee to Re-elect Linda Sanchez</payeeName>
+      <recipientName>Committee to Re-elect Linda Sanchez</recipientName>
+      <amount>1000.00</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>J Street PAC</contributorName>
+      <payeeName>Defazio for Congress</payeeName>
+      <recipientName>Defazio for Congress</recipientName>
+      <amount>1000.00</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>J Street PAC</contributorName>
+      <payeeName>Delbene for Congress</payeeName>
+      <recipientName>Delbene for Congress</recipientName>
+      <amount>1000.00</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>J Street PAC</contributorName>
+      <payeeName>Denny Heck for Congress</payeeName>
+      <recipientName>Denny Heck for Congress</recipientName>
+      <amount>1000.00</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>J Street PAC</contributorName>
+      <payeeName>Friends of Dan Kildee</payeeName>
+      <recipientName>Friends of Dan Kildee</recipientName>
+      <amount>1000.00</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>J Street PAC</contributorName>
+      <payeeName>Friends of Jim Clyburn</payeeName>
+      <recipientName>Friends of Jim Clyburn</recipientName>
+      <amount>1000.00</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>J Street PAC</contributorName>
+      <payeeName>Friends of Rosa DeLauro</payeeName>
+      <recipientName>Friends of Rosa DeLauro</recipientName>
+      <amount>1000.00</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>J Street PAC</contributorName>
+      <payeeName>Garamendi for Congress</payeeName>
+      <recipientName>Garamendi for Congress</recipientName>
+      <amount>1000.00</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>J Street PAC</contributorName>
+      <payeeName>Huffman for Congress</payeeName>
+      <recipientName>Huffman for Congress</recipientName>
+      <amount>1000.00</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>J Street PAC</contributorName>
+      <payeeName>Jackie Speier for Congress</payeeName>
+      <recipientName>Jackie Speier for Congress</recipientName>
+      <amount>1000.00</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>J Street PAC</contributorName>
+      <payeeName>Judy Chu for Congress</payeeName>
+      <recipientName>Judy Chu for Congress</recipientName>
+      <amount>1000.00</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>J Street PAC</contributorName>
+      <payeeName>Kaptur for Congress</payeeName>
+      <recipientName>Kaptur for Congress</recipientName>
+      <amount>1000.00</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>J Street PAC</contributorName>
+      <payeeName>Karen Bass for Congress</payeeName>
+      <recipientName>Karen Bass for Congress</recipientName>
+      <amount>2000.00</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>J Street PAC</contributorName>
+      <payeeName>Kind for Congress Committee</payeeName>
+      <recipientName>Kind for Congress Committee</recipientName>
+      <amount>1000.00</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>J Street PAC</contributorName>
+      <payeeName>Langevin for Congress</payeeName>
+      <recipientName>Langevin for Congress</recipientName>
+      <amount>1000.00</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>J Street PAC</contributorName>
+      <payeeName>Mark DeSaulnier for Congress</payeeName>
+      <recipientName>Mark DeSaulnier for Congress</recipientName>
+      <amount>1000.00</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>J Street PAC</contributorName>
+      <payeeName>Mark Pocan for Congress</payeeName>
+      <recipientName>Mark Pocan for Congress</recipientName>
+      <amount>1000.00</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>J Street PAC</contributorName>
+      <payeeName>Mike Thompson for Congress</payeeName>
+      <recipientName>Mike Thompson for Congress</recipientName>
+      <amount>1000.00</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>J Street PAC</contributorName>
+      <payeeName>Moulton for Congress</payeeName>
+      <recipientName>Moulton for Congress</recipientName>
+      <amount>1000.00</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>J Street PAC</contributorName>
+      <payeeName>People for Derek Kilmer</payeeName>
+      <recipientName>People for Derek Kilmer</recipientName>
+      <amount>1000.00</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>J Street PAC</contributorName>
+      <payeeName>Richard E Neal for Congress Committee</payeeName>
+      <recipientName>Richard E Neal for Congress Committee</recipientName>
+      <amount>1000.00</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>J Street PAC</contributorName>
+      <payeeName>Salud Carbajal for Congress</payeeName>
+      <recipientName>Salud Carbajal for Congress</recipientName>
+      <amount>1000.00</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>J Street PAC</contributorName>
+      <payeeName>Scott Peters for Congress</payeeName>
+      <recipientName>Scott Peters for Congress</recipientName>
+      <amount>1000.00</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>J Street PAC</contributorName>
+      <payeeName>Swawell for Congress</payeeName>
+      <recipientName>Swawell for Congress</recipientName>
+      <amount>1000.00</amount>
+      <date>11/21/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

@@ -1,0 +1,2403 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>AMERICAN FEDERATION OF STATE, COUNTY AND MUNICIPAL EMPLOYEES</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>SCOTT FREY</contactName>
+  <senateRegID>2321</senateRegID>
+  <houseRegID>31018</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/27/2020 2:54:59 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>AFSCME PEOPLE Committee</name>
+    </pac>
+    <pac>
+      <name>AMERICAN FEDERATION OF STATE, COUNTY AND MUNICIPAL EMPLOYEES</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Gallego for Arizona</payeeName>
+      <recipientName>Ruben Gallego</recipientName>
+      <amount>1000</amount>
+      <date>7/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Stanton for Congress</payeeName>
+      <recipientName>Greg Stanton</recipientName>
+      <amount>2500</amount>
+      <date>7/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Sherman for Congress</payeeName>
+      <recipientName>Brad Sherman</recipientName>
+      <amount>2500</amount>
+      <date>7/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Ted Lieu for Congress</payeeName>
+      <recipientName>Ted Lieu</recipientName>
+      <amount>2500</amount>
+      <date>7/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Norma Torres for Congress</payeeName>
+      <recipientName>Norma Torres</recipientName>
+      <amount>2500</amount>
+      <date>7/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Stand with Sanchez</payeeName>
+      <recipientName>Linda Sanchez</recipientName>
+      <amount>2500</amount>
+      <date>7/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Mark Takano for Congress</payeeName>
+      <recipientName>Mark Takano</recipientName>
+      <amount>2000</amount>
+      <date>7/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Alan Lowenthal for Congress</payeeName>
+      <recipientName>Alan Lowenthal</recipientName>
+      <amount>1500</amount>
+      <date>7/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Finkenauer for Congress</payeeName>
+      <recipientName>Abby Finkenauer</recipientName>
+      <amount>2500</amount>
+      <date>7/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Cindy Axne for Congress</payeeName>
+      <recipientName>Cindy Axne</recipientName>
+      <amount>1500</amount>
+      <date>7/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Schneider for Congress</payeeName>
+      <recipientName>Bradley Schneider</recipientName>
+      <amount>2500</amount>
+      <date>7/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Andre Carson for Congress</payeeName>
+      <recipientName>Andre Carson</recipientName>
+      <amount>2500</amount>
+      <date>7/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Richmond for Congress</payeeName>
+      <recipientName>Cedric Richmond</recipientName>
+      <amount>1500</amount>
+      <date>7/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Anthony Brown for Congress</payeeName>
+      <recipientName>Anthony Brown</recipientName>
+      <amount>1500</amount>
+      <date>7/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Angie Craig for Congress</payeeName>
+      <recipientName>Angie Craig</recipientName>
+      <amount>2500</amount>
+      <date>7/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>McCollum for Congress</payeeName>
+      <recipientName>Betty McCollum</recipientName>
+      <amount>1500</amount>
+      <date>7/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Donald Norcross for Congress</payeeName>
+      <recipientName>Donald Norcross</recipientName>
+      <amount>1000</amount>
+      <date>7/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Donald Norcross for Congress</payeeName>
+      <recipientName>Donald Norcross</recipientName>
+      <amount>1000</amount>
+      <date>7/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Bonnie Watson Coleman for Congress</payeeName>
+      <recipientName>Bonnie Watson Coleman</recipientName>
+      <amount>2000</amount>
+      <date>7/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Deb Haaland for Congress</payeeName>
+      <recipientName>Deb Haaland</recipientName>
+      <amount>2500</amount>
+      <date>7/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Joe Morelle for Congress</payeeName>
+      <recipientName>Joseph Morelle</recipientName>
+      <amount>2500</amount>
+      <date>7/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Bonamici for Congress</payeeName>
+      <recipientName>Suzanne Bonamici</recipientName>
+      <amount>1500</amount>
+      <date>7/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>The Reed Committee</payeeName>
+      <recipientName>John "Jack" Reed</recipientName>
+      <amount>2000</amount>
+      <date>7/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Vicente Gonzalez for Congress</payeeName>
+      <recipientName>Vicente Gonzalez</recipientName>
+      <amount>2000</amount>
+      <date>7/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Doggett for U.S. Congress</payeeName>
+      <recipientName>Lloyd Doggett</recipientName>
+      <amount>2000</amount>
+      <date>7/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Bridge PAC</payeeName>
+      <recipientName>James E. Clyburn</recipientName>
+      <amount>2500</amount>
+      <date>7/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Green Mountain PAC</payeeName>
+      <recipientName>Patrick Leahy</recipientName>
+      <amount>2500</amount>
+      <date>7/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Beatty for Congress</payeeName>
+      <recipientName>Joyce Beatty</recipientName>
+      <amount>1500</amount>
+      <date>7/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Cisneros for Congress</payeeName>
+      <recipientName>Gil Cisneros</recipientName>
+      <amount>2500</amount>
+      <date>7/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Friends of Jahana Hayes</payeeName>
+      <recipientName>Jahana Hayes</recipientName>
+      <amount>500</amount>
+      <date>7/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Friends of Lucy McBath</payeeName>
+      <recipientName>Lucy McBath</recipientName>
+      <amount>1500</amount>
+      <date>7/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Andre Carson for Congress</payeeName>
+      <recipientName>Andre Carson</recipientName>
+      <amount>1000</amount>
+      <date>7/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Tom Malinowski for Congress</payeeName>
+      <recipientName>Tom Malinowski</recipientName>
+      <amount>1000</amount>
+      <date>7/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Langevin for Congress</payeeName>
+      <recipientName>James Langevin</recipientName>
+      <amount>1500</amount>
+      <date>7/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>CT Working Families Federal PAC</payeeName>
+      <recipientName>Working Families Party</recipientName>
+      <amount>5000</amount>
+      <date>7/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Democratic National Committee-Federal Acc</payeeName>
+      <recipientName>Democratic Party</recipientName>
+      <amount>15000</amount>
+      <date>7/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Democratic National Committee-Federal Acc</payeeName>
+      <recipientName>Democratic Party</recipientName>
+      <amount>45000</amount>
+      <date>7/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Democratic National Committee-Federal Acc</payeeName>
+      <recipientName>Democratic Party</recipientName>
+      <amount>45000</amount>
+      <date>7/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Democratic National Committee-Federal Acc</payeeName>
+      <recipientName>Democratic Party</recipientName>
+      <amount>45000</amount>
+      <date>7/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Mike Thompson for Congress</payeeName>
+      <recipientName>Mike Thompson</recipientName>
+      <amount>2500</amount>
+      <date>8/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Mark DeSaulnier for Congress</payeeName>
+      <recipientName>Mark DeSaulnier</recipientName>
+      <amount>2500</amount>
+      <date>8/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Barbara Lee for Congress</payeeName>
+      <recipientName>Barbara Lee</recipientName>
+      <amount>2500</amount>
+      <date>8/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Swalwell for Congress</payeeName>
+      <recipientName>Eric Swalwell</recipientName>
+      <amount>2500</amount>
+      <date>8/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Anna Eshoo for Congress</payeeName>
+      <recipientName>Anna G. Eshoo</recipientName>
+      <amount>2000</amount>
+      <date>8/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Jimmy Panetta for Congress</payeeName>
+      <recipientName>Jimmy Panetta</recipientName>
+      <amount>2500</amount>
+      <date>8/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Napolitano for Congress</payeeName>
+      <recipientName>Grace Napolitano</recipientName>
+      <amount>1500</amount>
+      <date>8/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Ted Lieu for Congress</payeeName>
+      <recipientName>Ted Lieu</recipientName>
+      <amount>2500</amount>
+      <date>8/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Friends of Juan Vargas</payeeName>
+      <recipientName>Juan Carlos Vargas</recipientName>
+      <amount>2500</amount>
+      <date>8/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Larson for Congress</payeeName>
+      <recipientName>John B. Larson</recipientName>
+      <amount>2000</amount>
+      <date>8/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Friends of Rosa DeLauro</payeeName>
+      <recipientName>Rosa DeLauro</recipientName>
+      <amount>2500</amount>
+      <date>8/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Val Demings for Congress</payeeName>
+      <recipientName>Val Demings</recipientName>
+      <amount>1000</amount>
+      <date>8/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Charlie Crist for Congress</payeeName>
+      <recipientName>Charlie Joseph Crist</recipientName>
+      <amount>3000</amount>
+      <date>8/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Lois Frankel for Congress</payeeName>
+      <recipientName>Lois J. Frankel</recipientName>
+      <amount>1000</amount>
+      <date>8/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>John Lewis for Congress</payeeName>
+      <recipientName>John R. Lewis</recipientName>
+      <amount>3000</amount>
+      <date>8/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Schakowsky for Congress</payeeName>
+      <recipientName>Jan Schakowsky</recipientName>
+      <amount>2500</amount>
+      <date>8/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Bill Foster for Congress</payeeName>
+      <recipientName>G. William (Bill) Foster</recipientName>
+      <amount>2500</amount>
+      <date>8/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Yarmuth for Congress</payeeName>
+      <recipientName>John A. Yarmuth</recipientName>
+      <amount>2500</amount>
+      <date>8/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Lori Trahan for Congress Committee</payeeName>
+      <recipientName>Lori Trahan</recipientName>
+      <amount>3000</amount>
+      <date>8/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Anthony Brown for Congress</payeeName>
+      <recipientName>Anthony Brown</recipientName>
+      <amount>1000</amount>
+      <date>8/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Hoyer for Congress</payeeName>
+      <recipientName>Steny Hoyer</recipientName>
+      <amount>2500</amount>
+      <date>8/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Committee to Elect Jared Golden</payeeName>
+      <recipientName>Jared Golden</recipientName>
+      <amount>2500</amount>
+      <date>8/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Peters for Michigan</payeeName>
+      <recipientName>Gary Peters</recipientName>
+      <amount>1500</amount>
+      <date>8/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Friends of Dan Kildee</payeeName>
+      <recipientName>Daniel Kildee</recipientName>
+      <amount>3000</amount>
+      <date>8/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Haley Stevens for Congress</payeeName>
+      <recipientName>Haley Stevens</recipientName>
+      <amount>2500</amount>
+      <date>8/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Tina Smith for Minnesota</payeeName>
+      <recipientName>Tina Flint Smith</recipientName>
+      <amount>3000</amount>
+      <date>8/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Tom Malinowski for Congress</payeeName>
+      <recipientName>Tom Malinowski</recipientName>
+      <amount>2000</amount>
+      <date>8/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Jeffries for Congress</payeeName>
+      <recipientName>Hakeem Jeffries</recipientName>
+      <amount>2500</amount>
+      <date>8/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Clarke for Congress</payeeName>
+      <recipientName>Yvette D. Clarke</recipientName>
+      <amount>2000</amount>
+      <date>8/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Max Rose for Congress</payeeName>
+      <recipientName>Max Rose</recipientName>
+      <amount>1500</amount>
+      <date>8/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Adriano Espaillat for Congress</payeeName>
+      <recipientName>Adriano Espaillat</recipientName>
+      <amount>2000</amount>
+      <date>8/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Cartwright for Congress</payeeName>
+      <recipientName>Matt Cartwright</recipientName>
+      <amount>1000</amount>
+      <date>8/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Elaine for Congress</payeeName>
+      <recipientName>Elaine Luria</recipientName>
+      <amount>1500</amount>
+      <date>8/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Congressional Progressive Caucus PAC</payeeName>
+      <recipientName>Congressional Progressive Caucus members</recipientName>
+      <amount>2500</amount>
+      <date>8/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Blue Majority PAC</payeeName>
+      <recipientName>Mark Pocan</recipientName>
+      <amount>2500</amount>
+      <date>8/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Maloney for Congress</payeeName>
+      <recipientName>Carolyn Maloney</recipientName>
+      <amount>2500</amount>
+      <date>8/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>McCready for Congress</payeeName>
+      <recipientName>Daniel McCready</recipientName>
+      <amount>5000</amount>
+      <date>8/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Kaptur for Congress</payeeName>
+      <recipientName>Marcy Kaptur</recipientName>
+      <amount>3000</amount>
+      <date>8/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Judy Chu for Congress</payeeName>
+      <recipientName>Judy Chu</recipientName>
+      <amount>1500</amount>
+      <date>9/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>The Markey Committee</payeeName>
+      <recipientName>Edward Markey</recipientName>
+      <amount>1000</amount>
+      <date>9/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Andy Levin for Congress</payeeName>
+      <recipientName>Andy Levin</recipientName>
+      <amount>1500</amount>
+      <date>9/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>The Cicilline Committee</payeeName>
+      <recipientName>David Cicilline</recipientName>
+      <amount>1500</amount>
+      <date>9/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Chris Coons for Delaware</payeeName>
+      <recipientName>Christopher Coons</recipientName>
+      <amount>2500</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Friends of Dick Durbin Committee</payeeName>
+      <recipientName>Richard J. Durbin</recipientName>
+      <amount>2500</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Susan Wild for Congress</payeeName>
+      <recipientName>Susan Wild</recipientName>
+      <amount>1500</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Scholten4Iowa Campaign Committee</payeeName>
+      <recipientName>J.D. Scholten</recipientName>
+      <amount>5000</amount>
+      <date>9/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Brindisi for Congress</payeeName>
+      <recipientName>Anthony Brindisi</recipientName>
+      <amount>2000</amount>
+      <date>9/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Democratic Party of Illinois - Fed Acct</payeeName>
+      <recipientName>Illinois Democratic Party</recipientName>
+      <amount>5000</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Terri Sewell for Congress</payeeName>
+      <recipientName>Terri Sewell</recipientName>
+      <amount>2000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Tom O'Halleran for Congress</payeeName>
+      <recipientName>Tom O'Halleran</recipientName>
+      <amount>1500</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Kirkpatrick for Congress</payeeName>
+      <recipientName>Ann Kirkpatrick</recipientName>
+      <amount>2000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Garamendi for Congress</payeeName>
+      <recipientName>John Garamendi</recipientName>
+      <amount>2500</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Matsui for Congress</payeeName>
+      <recipientName>Doris Matsui</recipientName>
+      <amount>1500</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Josh Harder for Congress</payeeName>
+      <recipientName>Josh Harder</recipientName>
+      <amount>2000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>T.J. Cox for Congress</payeeName>
+      <recipientName>T.J. Cox</recipientName>
+      <amount>2000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Katie Hill for Congress</payeeName>
+      <recipientName>Katie Hill</recipientName>
+      <amount>2000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Julia Brownley for Congress</payeeName>
+      <recipientName>Julia Brownley</recipientName>
+      <amount>2000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Schiff for Congress</payeeName>
+      <recipientName>Adam Schiff</recipientName>
+      <amount>2000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Tony Cardenas for Congress</payeeName>
+      <recipientName>Tony Cardenas</recipientName>
+      <amount>1500</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Pete Aguilar for Congress</payeeName>
+      <recipientName>Pete Aguilar</recipientName>
+      <amount>1500</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Jimmy Gomez for Congress</payeeName>
+      <recipientName>Jimmy Gomez</recipientName>
+      <amount>1500</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Cisneros for Congress</payeeName>
+      <recipientName>Gil Cisneros</recipientName>
+      <amount>1500</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Lucille Roybal-Allard for Congress</payeeName>
+      <recipientName>Lucille Roybal-Allard</recipientName>
+      <amount>3000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Katie Porter for Congress</payeeName>
+      <recipientName>Katie Porter</recipientName>
+      <amount>1000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Harley Rouda for Congress</payeeName>
+      <recipientName>Harley Rouda</recipientName>
+      <amount>1500</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Mike Levin for Congress</payeeName>
+      <recipientName>Mike Levin</recipientName>
+      <amount>1500</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Jason Crow for Congress</payeeName>
+      <recipientName>Jason Crow</recipientName>
+      <amount>2500</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Citizens for Eleanor Holmes Norton</payeeName>
+      <recipientName>Eleanor Holmes Norton</recipientName>
+      <amount>2500</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Chris Coons for Delaware</payeeName>
+      <recipientName>Christopher Coons</recipientName>
+      <amount>2500</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Stephanie Murphy for Congress</payeeName>
+      <recipientName>Stephanie Murphy</recipientName>
+      <amount>1500</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Darren Soto for Congress</payeeName>
+      <recipientName>Darren Soto</recipientName>
+      <amount>2500</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Castor for Congress</payeeName>
+      <recipientName>Kathy Castor</recipientName>
+      <amount>2000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Debbie Wasserman Schultz for Congress</payeeName>
+      <recipientName>Debbie Wasserman Schultz</recipientName>
+      <amount>2500</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Debbie for Congress</payeeName>
+      <recipientName>Debbie Mucarsel-Powell</recipientName>
+      <amount>1500</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Donna Shalala for Congress</payeeName>
+      <recipientName>Donna Shalala</recipientName>
+      <amount>1500</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Friends of Lucy McBath</payeeName>
+      <recipientName>Lucy McBath</recipientName>
+      <amount>1500</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Citizens for Rush</payeeName>
+      <recipientName>Bobby Rush</recipientName>
+      <amount>1500</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Chuy Garcia for Congress</payeeName>
+      <recipientName>Chuy Garcia</recipientName>
+      <amount>1500</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Casten for Congress</payeeName>
+      <recipientName>Sean Casten</recipientName>
+      <amount>2500</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Davis for Congress/Friends of Davis</payeeName>
+      <recipientName>Danny K. Davis</recipientName>
+      <amount>1000</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Friends of Raja for Congress</payeeName>
+      <recipientName>Raja Krishnamoorthi</recipientName>
+      <amount>1500</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Friends of Cheri Bustos</payeeName>
+      <recipientName>Cheri Bustos</recipientName>
+      <amount>1500</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Yarmuth for Congress</payeeName>
+      <recipientName>John Yarmuth</recipientName>
+      <amount>1000</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Re-elect McGovern Committee</payeeName>
+      <recipientName>James McGovern</recipientName>
+      <amount>2500</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Katherine Clark for Congress</payeeName>
+      <recipientName>Katherine Clark</recipientName>
+      <amount>2000</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>The Committee to Elect Ayanna Pressley</payeeName>
+      <recipientName>Ayanna Pressley</recipientName>
+      <amount>1500</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Dutch Ruppersberger for Congress Cmte</payeeName>
+      <recipientName>C.A. Dutch Ruppersberger</recipientName>
+      <amount>1000</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Cummings for Congress Campaign Committee</payeeName>
+      <recipientName>Elijah E. Cummings</recipientName>
+      <amount>2500</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Committee to Elect Jared Golden</payeeName>
+      <recipientName>Jared Golden</recipientName>
+      <amount>1000</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Elissa Slotkin for Congress</payeeName>
+      <recipientName>Elissa Slotkin</recipientName>
+      <amount>1500</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Debbie Dingell for Congress</payeeName>
+      <recipientName>Debbie Dingell</recipientName>
+      <amount>2500</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Brenda Lawrence for Congress</payeeName>
+      <recipientName>Brenda Lawrence</recipientName>
+      <amount>1000</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Clay, Jr. for Congress</payeeName>
+      <recipientName>William Lacy Clay, Jr</recipientName>
+      <amount>1500</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Friends of Bennie Thompson</payeeName>
+      <recipientName>Bennie Thompson</recipientName>
+      <amount>1500</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Price for Congress</payeeName>
+      <recipientName>David E. Price</recipientName>
+      <amount>2000</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Pascrell for Congress</payeeName>
+      <recipientName>William J. Pascrell Jr.</recipientName>
+      <amount>2500</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Donald M. Payne Jr. for Congress</payeeName>
+      <recipientName>Donald M. Payne</recipientName>
+      <amount>2000</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Mikie Sherrill for Congress</payeeName>
+      <recipientName>Michelle Sherrill</recipientName>
+      <amount>2500</amount>
+      <date>9/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Xochitl for New Mexico</payeeName>
+      <recipientName>Xochitl Torris Small</recipientName>
+      <amount>2000</amount>
+      <date>9/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Titus for Congress</payeeName>
+      <recipientName>Dina Titus</recipientName>
+      <amount>2000</amount>
+      <date>9/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Nevadans for Steven Horsford</payeeName>
+      <recipientName>Steven Horsford</recipientName>
+      <amount>2000</amount>
+      <date>9/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Grace for New York</payeeName>
+      <recipientName>Grace Meng</recipientName>
+      <amount>2000</amount>
+      <date>9/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Committee to Re-Elect Nydia M. Velazquez</payeeName>
+      <recipientName>Nydia M. Velezquez</recipientName>
+      <amount>1500</amount>
+      <date>9/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Clarke for Congress</payeeName>
+      <recipientName>Yvette D.Clarke</recipientName>
+      <amount>1000</amount>
+      <date>9/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Engel for Congress</payeeName>
+      <recipientName>Eliot L.Engel</recipientName>
+      <amount>1500</amount>
+      <date>9/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Nita Lowey for Congress</payeeName>
+      <recipientName>Nita M.Lowey</recipientName>
+      <amount>2000</amount>
+      <date>9/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Delgado for Congress</payeeName>
+      <recipientName>Antonio Delgado</recipientName>
+      <amount>1500</amount>
+      <date>9/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Marcia Fudge for Congress</payeeName>
+      <recipientName>Marcia Fudge</recipientName>
+      <amount>1000</amount>
+      <date>9/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Bonamici for Congress</payeeName>
+      <recipientName>Suzanne Bonamici</recipientName>
+      <amount>1500</amount>
+      <date>9/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Citizens for Boyle</payeeName>
+      <recipientName>Brendan F. Boyle</recipientName>
+      <amount>1500</amount>
+      <date>9/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Dwight Evans for Congress</payeeName>
+      <recipientName>Dwight Evans</recipientName>
+      <amount>1500</amount>
+      <date>9/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Scanlon for Congress</payeeName>
+      <recipientName>Mary Gay Scanlon</recipientName>
+      <amount>1500</amount>
+      <date>9/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Conor Lamb for Congress</payeeName>
+      <recipientName>Conor Lamb</recipientName>
+      <amount>2500</amount>
+      <date>9/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Doyle for Congress Committee</payeeName>
+      <recipientName>Michael Doyle</recipientName>
+      <amount>1000</amount>
+      <date>9/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Elizabeth Pannill Fletcher for Congress</payeeName>
+      <recipientName>Elizabeth Fletcher</recipientName>
+      <amount>2500</amount>
+      <date>9/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Keep Al Green in Congress</payeeName>
+      <recipientName>Alexander Green</recipientName>
+      <amount>1000</amount>
+      <date>9/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Sheila Jackson-Lee for Congress</payeeName>
+      <recipientName>Sheila Jackson-Lee</recipientName>
+      <amount>2000</amount>
+      <date>9/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Sylvia Garcia for Congress</payeeName>
+      <recipientName>Sylvia Garcia</recipientName>
+      <amount>1500</amount>
+      <date>9/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Eddie Bernice Johnson for Congress</payeeName>
+      <recipientName>Eddie Bernice Johnson</recipientName>
+      <amount>2500</amount>
+      <date>9/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Doggett for Congress</payeeName>
+      <recipientName>Lloyd Doggett</recipientName>
+      <amount>2000</amount>
+      <date>9/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Friends of Mark Warner</payeeName>
+      <recipientName>Mark Robert Warner</recipientName>
+      <amount>1500</amount>
+      <date>9/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Scott for Congress</payeeName>
+      <recipientName>Bobby Scott</recipientName>
+      <amount>1500</amount>
+      <date>9/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>McEachin for Congress</payeeName>
+      <recipientName>Aston Donald McEachin</recipientName>
+      <amount>1500</amount>
+      <date>9/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Spanberger for Congress</payeeName>
+      <recipientName>Abigail Spanberger</recipientName>
+      <amount>2500</amount>
+      <date>9/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Wexton for Congress</payeeName>
+      <recipientName>Jennifer Wexton</recipientName>
+      <amount>1500</amount>
+      <date>9/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Virgin Islands for Plaskett</payeeName>
+      <recipientName>Stacey Plaskett</recipientName>
+      <amount>1000</amount>
+      <date>9/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Citizens to Elect Rick Larsen</payeeName>
+      <recipientName>Rick Larsen</recipientName>
+      <amount>2000</amount>
+      <date>9/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Pramila for Congress</payeeName>
+      <recipientName>Pramila Jayapal</recipientName>
+      <amount>2500</amount>
+      <date>9/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Dr. Kim Schrier for Congress</payeeName>
+      <recipientName>Kim Schrier</recipientName>
+      <amount>2000</amount>
+      <date>9/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Kind for Congress</payeeName>
+      <recipientName>Ronald Kind</recipientName>
+      <amount>2000</amount>
+      <date>9/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Brian Fitzpatrick for Congress</payeeName>
+      <recipientName>Brian Fitzpatrick</recipientName>
+      <amount>2500</amount>
+      <date>9/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>All For Our Country Leadership PAC</payeeName>
+      <recipientName>Catherine Cortez Masto</recipientName>
+      <amount>2500</amount>
+      <date>9/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Jobs, Education &amp; Families First-JEFF PAC</payeeName>
+      <recipientName>Hakeem Jeffries</recipientName>
+      <amount>2500</amount>
+      <date>9/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Kirk Watson for Texas Senate</payeeName>
+      <recipientName>Kirk Watson</recipientName>
+      <amount>2500</amount>
+      <date>9/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Friends for Gregory Meeks</payeeName>
+      <recipientName>Gregory Meeks</recipientName>
+      <amount>2500</amount>
+      <date>9/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Adriano Espaillat for Congress</payeeName>
+      <recipientName>Adriano Espaillat</recipientName>
+      <amount>1000</amount>
+      <date>9/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Great Lakes PAC</payeeName>
+      <recipientName>Debbie Stabenow</recipientName>
+      <amount>2500</amount>
+      <date>9/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Democratic Party of New Mexico</payeeName>
+      <recipientName>New Mexico Democratic Party</recipientName>
+      <amount>2500</amount>
+      <date>9/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Sara Gideon for Maine</payeeName>
+      <recipientName>Sara Gideon</recipientName>
+      <amount>5000</amount>
+      <date>9/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Jaime Harrison for U.S. Senate</payeeName>
+      <recipientName>Jaime Harrison</recipientName>
+      <amount>5000</amount>
+      <date>9/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>A Whole Lot of People for Grijalva</payeeName>
+      <recipientName>Raul Grijalva</recipientName>
+      <amount>1500</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Tom Malinowski for Congress</payeeName>
+      <recipientName>Tom Malinowski</recipientName>
+      <amount>2000</amount>
+      <date>10/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Pingree for Congress</payeeName>
+      <recipientName>Chellie M. Pingree</recipientName>
+      <amount>2500</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Texas Democratic Party</payeeName>
+      <recipientName>Texas Democratic Party</recipientName>
+      <amount>5000</amount>
+      <date>10/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Matsui for Congress</payeeName>
+      <recipientName>Doris Matsui</recipientName>
+      <amount>1500</amount>
+      <date>11/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Salud Carbajal for Congress</payeeName>
+      <recipientName>Salud Carbajal</recipientName>
+      <amount>2000</amount>
+      <date>11/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Tony Cardenas for Congress</payeeName>
+      <recipientName>Tony Cardenas</recipientName>
+      <amount>1500</amount>
+      <date>11/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Val Demings for Congress</payeeName>
+      <recipientName>Val Demings</recipientName>
+      <amount>2000</amount>
+      <date>11/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Quigley for Congress</payeeName>
+      <recipientName>Mike Quigley</recipientName>
+      <amount>2500</amount>
+      <date>11/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Yarmuth for Congress</payeeName>
+      <recipientName>John Yarmuth</recipientName>
+      <amount>1500</amount>
+      <date>11/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Committee to Elect Jared Golden</payeeName>
+      <recipientName>Jared Golden</recipientName>
+      <amount>1500</amount>
+      <date>11/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Brenda Lawrence for Congress</payeeName>
+      <recipientName>Brenda Lawrence</recipientName>
+      <amount>1000</amount>
+      <date>11/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Angie Craig for Congress</payeeName>
+      <recipientName>Angie Craig</recipientName>
+      <amount>2500</amount>
+      <date>11/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Andy Kim for Congress</payeeName>
+      <recipientName>Andy Kim</recipientName>
+      <amount>2000</amount>
+      <date>11/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Tim Ryan for Congress</payeeName>
+      <recipientName>Timothy J. Ryan</recipientName>
+      <amount>3000</amount>
+      <date>11/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Jeff Merkley for Oregon</payeeName>
+      <recipientName>Jeffrey Merkley</recipientName>
+      <amount>2500</amount>
+      <date>11/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Cohen for Congress</payeeName>
+      <recipientName>Stephen Cohen</recipientName>
+      <amount>2500</amount>
+      <date>11/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Connolly for Congress</payeeName>
+      <recipientName>Gerald Connolly</recipientName>
+      <amount>2000</amount>
+      <date>11/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Dr. Kim Schrier for Congress</payeeName>
+      <recipientName>Kim Schrier</recipientName>
+      <amount>1000</amount>
+      <date>11/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Moore for Congress</payeeName>
+      <recipientName>Gwen Moore</recipientName>
+      <amount>2500</amount>
+      <date>11/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Progressive Choices PAC</payeeName>
+      <recipientName>Jan Schakowsky</recipientName>
+      <amount>2500</amount>
+      <date>11/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Perimeter PAC</payeeName>
+      <recipientName>Tammy Duckworth</recipientName>
+      <amount>2500</amount>
+      <date>11/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>AMERIPAC  The Fund for a Greater America</payeeName>
+      <recipientName>Steny Hoyer</recipientName>
+      <amount>5000</amount>
+      <date>11/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Pennsylvania Democratic Party</payeeName>
+      <recipientName>Pennsylvania Democratic Party</recipientName>
+      <amount>5000</amount>
+      <date>11/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Strengthening Virginia's Working Families</payeeName>
+      <recipientName>Bobby Scott</recipientName>
+      <amount>2500</amount>
+      <date>11/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Alaska Democratic Party</payeeName>
+      <recipientName>Alaska Democratic Party</recipientName>
+      <amount>5000</amount>
+      <date>11/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Arizona Democratic Party</payeeName>
+      <recipientName>Arizona Democratic Party</recipientName>
+      <amount>5000</amount>
+      <date>11/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Gina Ortiz Jones for Congress</payeeName>
+      <recipientName>Gina Ortiz Jones</recipientName>
+      <amount>5000</amount>
+      <date>12/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Chuy Garcia for Congress</payeeName>
+      <recipientName>Jesus Garcia</recipientName>
+      <amount>2000</amount>
+      <date>12/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Andy Levin for Congress</payeeName>
+      <recipientName>Andy Levin</recipientName>
+      <amount>2000</amount>
+      <date>12/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Chris Pappas for Congress</payeeName>
+      <recipientName>Chris Pappas</recipientName>
+      <amount>2500</amount>
+      <date>12/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Richard E. Neal for Congress Committee</payeeName>
+      <recipientName>Richard E Neal</recipientName>
+      <amount>2500</amount>
+      <date>12/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Bill Keating Committee</payeeName>
+      <recipientName>William Keating</recipientName>
+      <amount>1500</amount>
+      <date>12/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Susan Davis for Congress</payeeName>
+      <recipientName>Susan Davis</recipientName>
+      <amount>1500</amount>
+      <date>12/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Kirkpatrick for Congress</payeeName>
+      <recipientName>Ann Kirkpatrick</recipientName>
+      <amount>1000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Stanton for Congress</payeeName>
+      <recipientName>Greg Stanton</recipientName>
+      <amount>2500</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>McNerney for Congress</payeeName>
+      <recipientName>Gerald Mark McNerney</recipientName>
+      <amount>2000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Nancy Pelosi for Congress</payeeName>
+      <recipientName>Nancy Pelosi</recipientName>
+      <amount>1000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Nancy Pelosi for Congress</payeeName>
+      <recipientName>Nancy Pelosi</recipientName>
+      <amount>1500</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Jimmy Panetta for Congress</payeeName>
+      <recipientName>Jimmy Panetta</recipientName>
+      <amount>2500</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>T.J. Cox for Congress</payeeName>
+      <recipientName>T.J. Cox</recipientName>
+      <amount>1000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Julia Brownley for Congress</payeeName>
+      <recipientName>Julia Brownley</recipientName>
+      <amount>1000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Napolitano for Congress</payeeName>
+      <recipientName>Grace Napolitano</recipientName>
+      <amount>1500</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Dr. Raul Ruiz for Congress</payeeName>
+      <recipientName>Raul Ruiz</recipientName>
+      <amount>1500</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Jason Crow for Congress</payeeName>
+      <recipientName>Jason Crow</recipientName>
+      <amount>2500</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Castor for Congress</payeeName>
+      <recipientName>Kathy Castor</recipientName>
+      <amount>1000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Frederica S. Wilson for Congress</payeeName>
+      <recipientName>Frederica S. Wilson</recipientName>
+      <amount>1500</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Friends of Dick Durbin Committee</payeeName>
+      <recipientName>Richard J. Durbin</recipientName>
+      <amount>2500</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Friends of Cheri Bustos</payeeName>
+      <recipientName>Cheri Bustos</recipientName>
+      <amount>1000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Katherine Clark for Congress</payeeName>
+      <recipientName>Katherine Clark</recipientName>
+      <amount>1000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Stephen F. Lynch for Congress Committee</payeeName>
+      <recipientName>Stephen Lynch</recipientName>
+      <amount>2500</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Dutch Ruppersberger for Congress Cmte</payeeName>
+      <recipientName>C.A. Dutch Ruppersberger</recipientName>
+      <amount>2000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Jamie Raskin for Congress</payeeName>
+      <recipientName>Jamie Raskin</recipientName>
+      <amount>1500</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Peterson for Congress</payeeName>
+      <recipientName>Collin Peterson</recipientName>
+      <amount>2000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Kilili for Congress</payeeName>
+      <recipientName>Gregorio Sabian</recipientName>
+      <amount>2500</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Price for Congress</payeeName>
+      <recipientName>David E. Price</recipientName>
+      <amount>1000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Alma Adams for Congress</payeeName>
+      <recipientName>Alma Adams</recipientName>
+      <amount>1500</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Xochitl for New Mexico</payeeName>
+      <recipientName>Xochitl Torris Small</recipientName>
+      <amount>1000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Nevadans for Steven Horsford</payeeName>
+      <recipientName>Steven Horsford</recipientName>
+      <amount>1500</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Grace for New York</payeeName>
+      <recipientName>Grace Meng</recipientName>
+      <amount>1000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Max Rose for Congress</payeeName>
+      <recipientName>Max Rose</recipientName>
+      <amount>1000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Paul Tonko for Congress</payeeName>
+      <recipientName>Paul Tonko</recipientName>
+      <amount>1000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Brian Higgins for Congress</payeeName>
+      <recipientName>Brian Higgins</recipientName>
+      <amount>2500</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Kurt Schrader for Congress</payeeName>
+      <recipientName>Kurt Schrader</recipientName>
+      <amount>1500</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Chrissy Houlahan for Congress</payeeName>
+      <recipientName>Chrissy Houlahan</recipientName>
+      <amount>1500</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Langevin for Congress</payeeName>
+      <recipientName>James Langevin</recipientName>
+      <amount>500</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Keep Al Green in Congress</payeeName>
+      <recipientName>Alexander Green</recipientName>
+      <amount>2000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Veronica Escobar for Congress</payeeName>
+      <recipientName>Veronica Escobar</recipientName>
+      <amount>2500</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Eddie Bernice Johnson for Congress</payeeName>
+      <recipientName>Eddie Bernice Johnson</recipientName>
+      <amount>2500</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Marc Veasey Congressional Campaign Cmte.</payeeName>
+      <recipientName>Marc Veasey</recipientName>
+      <amount>1000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Friends of Ben McAdams</payeeName>
+      <recipientName>Ben McAdams</recipientName>
+      <amount>2500</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>DelBene for Congress</payeeName>
+      <recipientName>Suzan Delbene</recipientName>
+      <amount>2000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Committee For A Democratic Future</payeeName>
+      <recipientName>Rosa DeLauro</recipientName>
+      <amount>2500</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Perimeter PAC</payeeName>
+      <recipientName>Tammy Duckworth</recipientName>
+      <amount>2500</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Shore PAC</payeeName>
+      <recipientName>Frank Pallone Jr</recipientName>
+      <amount>2500</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>America 2 0 PAC</payeeName>
+      <recipientName>Tim Ryan</recipientName>
+      <amount>2500</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Promise PAC</payeeName>
+      <recipientName>Marcia Fudge</recipientName>
+      <amount>5000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>ASPIRE PAC</payeeName>
+      <recipientName>Asian American and Pacific Islander Members of Congress</recipientName>
+      <amount>2500</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Equality PAC</payeeName>
+      <recipientName>Congressional LGBTQ Equality Caucus</recipientName>
+      <amount>2500</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Terri Sewell for Congress</payeeName>
+      <recipientName>Terri Sewell</recipientName>
+      <amount>1500</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Huffman for Congress</payeeName>
+      <recipientName>Jared Huffman</recipientName>
+      <amount>1000</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Swalwell for Congress</payeeName>
+      <recipientName>Eric Swalwell</recipientName>
+      <amount>1000</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Christy Smith for Congress</payeeName>
+      <recipientName>Christy Smith</recipientName>
+      <amount>5000</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Christy Smith for Congress</payeeName>
+      <recipientName>Christy Smith</recipientName>
+      <amount>5000</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Schiff for Congress</payeeName>
+      <recipientName>Adam Schiff</recipientName>
+      <amount>1500</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Sherman for Congress</payeeName>
+      <recipientName>Brad Sherman</recipientName>
+      <amount>2500</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Mike Levin for Congress</payeeName>
+      <recipientName>Mike Levin</recipientName>
+      <amount>1000</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Debbie for Congress</payeeName>
+      <recipientName>Debbie Mucarsel-Powell</recipientName>
+      <amount>1500</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Sanford Bishop for Congress</payeeName>
+      <recipientName>Sanford D. Bishop</recipientName>
+      <amount>1500</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Committee to Re-Elect Henry Hank Johnson</payeeName>
+      <recipientName>Henry C. "Hank" Johnson</recipientName>
+      <amount>1500</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Ed Case for Congress</payeeName>
+      <recipientName>Edward Case</recipientName>
+      <amount>2500</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Casten for Congress</payeeName>
+      <recipientName>Sean Casten</recipientName>
+      <amount>2500</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Schneider for Congress</payeeName>
+      <recipientName>Bradley Schneider</recipientName>
+      <amount>2500</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Sharice for Congress</payeeName>
+      <recipientName>Sharice Davids</recipientName>
+      <amount>1500</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Haley Stevens for Congress</payeeName>
+      <recipientName>Haley Stevens</recipientName>
+      <amount>1000</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Butterfield for Congress</payeeName>
+      <recipientName>G.K. Butterfield</recipientName>
+      <amount>2500</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Shaheen for Senate</payeeName>
+      <recipientName>Jeanne Shaheen</recipientName>
+      <amount>2000</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Donald M. Payne Jr. for Congress</payeeName>
+      <recipientName>Donald M. Payne</recipientName>
+      <amount>1000</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Susie Lee for Congress</payeeName>
+      <recipientName>Susie Lee</recipientName>
+      <amount>1500</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>The Reed Committee</payeeName>
+      <recipientName>John "Jack" Reed</recipientName>
+      <amount>1000</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Friends of Jim Clyburn</payeeName>
+      <recipientName>James Clyburn</recipientName>
+      <amount>2500</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Sylvia Garcia for Congress</payeeName>
+      <recipientName>Sylvia Garcia</recipientName>
+      <amount>1500</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Spanberger for Congress</payeeName>
+      <recipientName>Abigail Spanberger</recipientName>
+      <amount>2500</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Wexton for Congress</payeeName>
+      <recipientName>Jennifer Wexton</recipientName>
+      <amount>1500</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Welch For Congress</payeeName>
+      <recipientName>Peter Welch</recipientName>
+      <amount>2500</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Friends of Chris Smith</payeeName>
+      <recipientName>Christopher Smith</recipientName>
+      <amount>2000</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Democratic Congressional Campaign Cmte</payeeName>
+      <recipientName>Democratic House Candidates</recipientName>
+      <amount>45000</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Democratic Senatorial Campaign Committee</payeeName>
+      <recipientName>Democratic Senate Candidates</recipientName>
+      <amount>45000</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Sara Gideon for Maine</payeeName>
+      <recipientName>Sara Gideon</recipientName>
+      <amount>5000</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Chris Pappas for Congress</payeeName>
+      <recipientName>Chris Pappas</recipientName>
+      <amount>2500</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AFSCME PEOPLE Committee</contributorName>
+      <payeeName>Castro for Congress</payeeName>
+      <recipientName>Joaquin Castro</recipientName>
+      <amount>2000</amount>
+      <date>12/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>Honorary Expenses</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Congressional Black Caucus Foundation Inc
+</payeeName>
+      <recipientName>Reps. Cedric Richmond, Sheila Jackson Lee, Joyce Beatty, Dwight Evans, Marcia Fudge, Alcee Hastings, and Karen Bass are directors of CBC Foundations, Inc.
+</recipientName>
+      <amount>35000.00</amount>
+      <date>7/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>Honorary Expenses</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Congressional Black Caucus Institute
+</payeeName>
+      <recipientName>Reps. Bennie Thompson, James Clyburn, Marcia Fudge, Cedric Richmond, Earl Hilliard, Karen Bass are directors of CBC Institute.
+</recipientName>
+      <amount>15000.00</amount>
+      <date>7/2/2019</date>
+    </contribution>
+    <contribution>
+      <type>Honorary Expenses</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Congressional Hispanic Caucus Institute, Inc
+</payeeName>
+      <recipientName>Reps. Ruben Gallego, Pete Aguilar, Jimmy Gomez, Grace Flores Napolitano, Raul Ruiz, and Juan Vargas are officers/directors of CHC Institute, Inc.
+</recipientName>
+      <amount>6000.00</amount>
+      <date>7/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>Honorary Expenses</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Progressive Caucus Action Fund
+</payeeName>
+      <recipientName>Congressional Progressive Caucus Members
+</recipientName>
+      <amount>100000.00</amount>
+      <date>7/12/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

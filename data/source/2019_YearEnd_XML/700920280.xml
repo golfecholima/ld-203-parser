@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>BOEHRINGER INGELHEIM PHARMACEUTICALS, INC.</organizationName>
+  <lobbyistPrefix>Ms.</lobbyistPrefix>
+  <lobbyistFirstName>Mary</lobbyistFirstName>
+  <lobbyistMiddleName>Bridget</lobbyistMiddleName>
+  <lobbyistLastName>Walsh</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>292972</senateRegID>
+  <houseRegID>37344</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/24/2020 2:26:29 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Steve Bullock for President</payeeName>
+      <recipientName>Gov. Steve Bullock</recipientName>
+      <amount>500.00</amount>
+      <date>07/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Jones for U.S. Senate</payeeName>
+      <recipientName>Sen. Doug Jones</recipientName>
+      <amount>500.00</amount>
+      <date>08/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Kendra Horn for Congress</payeeName>
+      <recipientName>Rep. Kendra Horn</recipientName>
+      <amount>1000.00</amount>
+      <date>10/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Steve Bullock for President</payeeName>
+      <recipientName>Gov. Steve Bullock</recipientName>
+      <amount>500.00</amount>
+      <date>10/31/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

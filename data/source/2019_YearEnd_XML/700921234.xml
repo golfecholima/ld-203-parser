@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>Direct Supply, Inc.</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>Ashley Carter McCurry</contactName>
+  <senateRegID>401103282</senateRegID>
+  <houseRegID>42573</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/27/2020 2:41:26 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>
+  </noContributions>
+  <pacs>
+    <pac>
+      <name>Direct Supply Inc Partners PAC DSI Partners PAC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Direct Supply Inc Partners PAC DSI Partners PAC</contributorName>
+      <payeeName>RON JOHNSON VICTORY</payeeName>
+      <recipientName>Sen Ron H Johnson</recipientName>
+      <amount>5000.00</amount>
+      <date>08/07/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Direct Supply Inc Partners PAC DSI Partners PAC</contributorName>
+      <payeeName>MCCARTHY VICTORY FUND</payeeName>
+      <recipientName>Rep Kevin Mccarthy</recipientName>
+      <amount>10000.00</amount>
+      <date>08/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Direct Supply Inc Partners PAC DSI Partners PAC</contributorName>
+      <payeeName>HEARTLAND VALUES PAC</payeeName>
+      <recipientName>Sen John R Thune</recipientName>
+      <amount>5000.00</amount>
+      <date>09/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Direct Supply Inc Partners PAC DSI Partners PAC</contributorName>
+      <payeeName>ROBIN KELLY FOR CONGRESS</payeeName>
+      <recipientName>Rep Robin L Kelly</recipientName>
+      <amount>1500.00</amount>
+      <date>09/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Direct Supply Inc Partners PAC DSI Partners PAC</contributorName>
+      <payeeName>Holding Onto Oregons Priorities</payeeName>
+      <recipientName>Sen Ronald Lee Wyden</recipientName>
+      <amount>5000.00</amount>
+      <date>10/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Direct Supply Inc Partners PAC DSI Partners PAC</contributorName>
+      <payeeName>SCALISE LEADERSHIP FUND</payeeName>
+      <recipientName>Rep Steve Scalise</recipientName>
+      <amount>5000.00</amount>
+      <date>10/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Direct Supply Inc Partners PAC DSI Partners PAC</contributorName>
+      <payeeName>Anna Eshoo for Congress</payeeName>
+      <recipientName>Rep Anna G Eshoo</recipientName>
+      <amount>2500.00</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Direct Supply Inc Partners PAC DSI Partners PAC</contributorName>
+      <payeeName>DSCC</payeeName>
+      <recipientName>DSCC</recipientName>
+      <amount>15000.00</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Direct Supply Inc Partners PAC DSI Partners PAC</contributorName>
+      <payeeName>Friends of Mark Warner</payeeName>
+      <recipientName>Sen Mark R Warner</recipientName>
+      <amount>5000.00</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Direct Supply Inc Partners PAC DSI Partners PAC</contributorName>
+      <payeeName>Friends of Schumer</payeeName>
+      <recipientName>Sen Charles E Schumer</recipientName>
+      <amount>5000.00</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Direct Supply Inc Partners PAC DSI Partners PAC</contributorName>
+      <payeeName>GREAT LAKES PAC</payeeName>
+      <recipientName>Sen Debbie A Stabenow</recipientName>
+      <amount>2500.00</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Direct Supply Inc Partners PAC DSI Partners PAC</contributorName>
+      <payeeName>CHURCH FOR WISCONSIN</payeeName>
+      <recipientName>Jason Church</recipientName>
+      <amount>2800.00</amount>
+      <date>11/04/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Direct Supply Inc Partners PAC DSI Partners PAC</contributorName>
+      <payeeName>MCCONNELL VICTORY COMMITTEE</payeeName>
+      <recipientName>Sen Mitch Mcconnell</recipientName>
+      <amount>25000.00</amount>
+      <date>11/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Direct Supply Inc Partners PAC DSI Partners PAC</contributorName>
+      <payeeName>Friends of Schumer</payeeName>
+      <recipientName>Sen Charles E Schumer</recipientName>
+      <amount>5000.00</amount>
+      <date>11/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Direct Supply Inc Partners PAC DSI Partners PAC</contributorName>
+      <payeeName>National Republican Congressional Committee</payeeName>
+      <recipientName>National Republican Congressional Committee</recipientName>
+      <amount>15000.00</amount>
+      <date>11/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Direct Supply Inc Partners PAC DSI Partners PAC</contributorName>
+      <payeeName>Anna Eshoo for Congress</payeeName>
+      <recipientName>Rep Anna G Eshoo</recipientName>
+      <amount>2500.00</amount>
+      <date>12/02/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

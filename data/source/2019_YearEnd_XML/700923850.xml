@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>Mechanical Contractors Association of America</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>JOHN MCNERNEY</contactName>
+  <senateRegID>24761</senateRegID>
+  <houseRegID>33657</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/29/2020 5:30:59 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>Mechanical Contractors Association of America PAC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Mechanical Contractors Association of America PAC</contributorName>
+      <payeeName>Rosa DeLauro for Congress</payeeName>
+      <recipientName>Rep. Rosa DeLauro</recipientName>
+      <amount>2500.00</amount>
+      <date>07/02/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Mechanical Contractors Association of America PAC</contributorName>
+      <payeeName>Neal for Congress</payeeName>
+      <recipientName>Rep. Richard Neal</recipientName>
+      <amount>2500.00</amount>
+      <date>07/02/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Mechanical Contractors Association of America PAC</contributorName>
+      <payeeName>Democratic Congressional Campaign Committee</payeeName>
+      <recipientName>Democratic Candidates for US Congress</recipientName>
+      <amount>2500.00</amount>
+      <date>08/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Mechanical Contractors Association of America PAC</contributorName>
+      <payeeName>Friends of Sherrod Brown</payeeName>
+      <recipientName>Senator Sherrod Brown</recipientName>
+      <amount>1000.00</amount>
+      <date>09/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Mechanical Contractors Association of America PAC</contributorName>
+      <payeeName>Citizens for Boyle</payeeName>
+      <recipientName>Rep. Brendan Boyle</recipientName>
+      <amount>5000.00</amount>
+      <date>10/07/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Mechanical Contractors Association of America PAC</contributorName>
+      <payeeName>Donald Norcross for Congress</payeeName>
+      <recipientName>Rep. Donald Norcross</recipientName>
+      <amount>2500.00</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Mechanical Contractors Association of America PAC</contributorName>
+      <payeeName>Friends of Jim Clyburn</payeeName>
+      <recipientName>Rep. Jim Clyburn</recipientName>
+      <amount>1000.00</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Mechanical Contractors Association of America PAC</contributorName>
+      <payeeName>People for Patty Murray</payeeName>
+      <recipientName>Senator Patty Murray</recipientName>
+      <amount>1000.00</amount>
+      <date>12/10/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

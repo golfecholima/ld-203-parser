@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>STATE STREET BANK AND TRUST COMPANY AND ITS AFFILIATES</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>Steven Patterson</contactName>
+  <senateRegID>83854</senateRegID>
+  <houseRegID>36457</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/29/2020 10:30:42 AM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>State Street Bank and Trust Company Voluntary PAC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>State Street Bank and Trust Company Voluntary PAC</contributorName>
+      <payeeName>Courtney For Congress</payeeName>
+      <recipientName>Rep. Joseph Courtney</recipientName>
+      <amount>1000.00</amount>
+      <date>07/03/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>State Street Bank and Trust Company Voluntary PAC</contributorName>
+      <payeeName>Hoyer For Congress</payeeName>
+      <recipientName>Rep. Steny Hamilton Hoyer</recipientName>
+      <amount>1000.00</amount>
+      <date>07/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>State Street Bank and Trust Company Voluntary PAC</contributorName>
+      <payeeName>Kuster For Congress, Inc</payeeName>
+      <recipientName>Rep. Ann McLane Kuster</recipientName>
+      <amount>1000.00</amount>
+      <date>07/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>State Street Bank and Trust Company Voluntary PAC</contributorName>
+      <payeeName>Kustoff For Congress</payeeName>
+      <recipientName>Rep. David Kustoff</recipientName>
+      <amount>1000.00</amount>
+      <date>07/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>State Street Bank and Trust Company Voluntary PAC</contributorName>
+      <payeeName>Maggie For NH</payeeName>
+      <recipientName>Sen. Margaret Wood Hassan</recipientName>
+      <amount>1500.00</amount>
+      <date>07/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>State Street Bank and Trust Company Voluntary PAC</contributorName>
+      <payeeName>Portman For Senate Committee</payeeName>
+      <recipientName>Sen. Rob Portman</recipientName>
+      <amount>1000.00</amount>
+      <date>07/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>State Street Bank and Trust Company Voluntary PAC</contributorName>
+      <payeeName>Ted Budd For Congress</payeeName>
+      <recipientName>Rep. Theodore Paul Budd</recipientName>
+      <amount>1000.00</amount>
+      <date>07/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>State Street Bank and Trust Company Voluntary PAC</contributorName>
+      <payeeName>Blaine For Congress</payeeName>
+      <recipientName>Rep. W. Blaine Luetkemeyer</recipientName>
+      <amount>2500.00</amount>
+      <date>08/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>State Street Bank and Trust Company Voluntary PAC</contributorName>
+      <payeeName>French Hill For Arkansas</payeeName>
+      <recipientName>Rep. J. French Hill</recipientName>
+      <amount>1000.00</amount>
+      <date>08/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>State Street Bank and Trust Company Voluntary PAC</contributorName>
+      <payeeName>Al Lawson For Congress</payeeName>
+      <recipientName>Rep. Alfred J. Lawson, Jr.</recipientName>
+      <amount>1000.00</amount>
+      <date>09/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>State Street Bank and Trust Company Voluntary PAC</contributorName>
+      <payeeName>Anthony Gonzalez For Congress</payeeName>
+      <recipientName>Rep. Anthony Gonzalez</recipientName>
+      <amount>1000.00</amount>
+      <date>09/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>State Street Bank and Trust Company Voluntary PAC</contributorName>
+      <payeeName>Davidson For Congress</payeeName>
+      <recipientName>Rep. Warren Davidson</recipientName>
+      <amount>1000.00</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>State Street Bank and Trust Company Voluntary PAC</contributorName>
+      <payeeName>Friends For Gregory Meeks</payeeName>
+      <recipientName>Rep. Gregory Weldon Meeks</recipientName>
+      <amount>1500.00</amount>
+      <date>09/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>State Street Bank and Trust Company Voluntary PAC</contributorName>
+      <payeeName>Friends Of Denver Riggleman, Inc.</payeeName>
+      <recipientName>Rep. Denver Riggleman III</recipientName>
+      <amount>1000.00</amount>
+      <date>09/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>State Street Bank and Trust Company Voluntary PAC</contributorName>
+      <payeeName>Friends Of Pat Toomey</payeeName>
+      <recipientName>Sen. Patrick Joseph Toomey</recipientName>
+      <amount>5000.00</amount>
+      <date>09/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>State Street Bank and Trust Company Voluntary PAC</contributorName>
+      <payeeName>Lance Gooden For Congress Committee</payeeName>
+      <recipientName>Rep. Lance Gooden</recipientName>
+      <amount>1000.00</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>State Street Bank and Trust Company Voluntary PAC</contributorName>
+      <payeeName>Mike Crapo For US Senate</payeeName>
+      <recipientName>Sen. Michael Dean Crapo</recipientName>
+      <amount>1000.00</amount>
+      <date>09/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>State Street Bank and Trust Company Voluntary PAC</contributorName>
+      <payeeName>Stivers For Congress</payeeName>
+      <recipientName>Rep. Steve Stivers</recipientName>
+      <amount>1500.00</amount>
+      <date>09/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>State Street Bank and Trust Company Voluntary PAC</contributorName>
+      <payeeName>Zeldin For Congress</payeeName>
+      <recipientName>Rep. Lee Zeldin</recipientName>
+      <amount>1000.00</amount>
+      <date>09/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>State Street Bank and Trust Company Voluntary PAC</contributorName>
+      <payeeName>Emmer For Congress</payeeName>
+      <recipientName>Rep. Thomas Earl Emmer, Jr.</recipientName>
+      <amount>1500.00</amount>
+      <date>10/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>State Street Bank and Trust Company Voluntary PAC</contributorName>
+      <payeeName>Huizenga For Congress</payeeName>
+      <recipientName>Rep. William Patrick Huizenga</recipientName>
+      <amount>1000.00</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>State Street Bank and Trust Company Voluntary PAC</contributorName>
+      <payeeName>Josh Gottheimer For Congress</payeeName>
+      <recipientName>Rep. Joshua Gottheimer</recipientName>
+      <amount>1000.00</amount>
+      <date>10/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>State Street Bank and Trust Company Voluntary PAC</contributorName>
+      <payeeName>Kind For Congress Committee</payeeName>
+      <recipientName>Rep. Ronald James Kind</recipientName>
+      <amount>1000.00</amount>
+      <date>10/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>State Street Bank and Trust Company Voluntary PAC</contributorName>
+      <payeeName>Larson For Congress</payeeName>
+      <recipientName>Rep. John Barry Larson</recipientName>
+      <amount>1000.00</amount>
+      <date>10/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>State Street Bank and Trust Company Voluntary PAC</contributorName>
+      <payeeName>McHenry For Congress</payeeName>
+      <recipientName>Rep. Patrick Timothy McHenry</recipientName>
+      <amount>5000.00</amount>
+      <date>10/08/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>State Street Bank and Trust Company Voluntary PAC</contributorName>
+      <payeeName>Moore for Congress</payeeName>
+      <recipientName>Rep. Gwendolynne Sophia Moore</recipientName>
+      <amount>1000.00</amount>
+      <date>10/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>State Street Bank and Trust Company Voluntary PAC</contributorName>
+      <payeeName>Portman For Senate Committee</payeeName>
+      <recipientName>Sen. Rob Portman</recipientName>
+      <amount>1500.00</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>State Street Bank and Trust Company Voluntary PAC</contributorName>
+      <payeeName>Tina Smith For Minnesota</payeeName>
+      <recipientName>Sen. Tina Smith</recipientName>
+      <amount>1000.00</amount>
+      <date>10/08/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>State Street Bank and Trust Company Voluntary PAC</contributorName>
+      <payeeName>Bill Foster For Congress</payeeName>
+      <recipientName>Rep. Bill Foster</recipientName>
+      <amount>2000.00</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>State Street Bank and Trust Company Voluntary PAC</contributorName>
+      <payeeName>Thom Tillis Committee</payeeName>
+      <recipientName>Sen. Thomas Roland Tillis</recipientName>
+      <amount>1000.00</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>State Street Bank and Trust Company Voluntary PAC</contributorName>
+      <payeeName>Cleaver for Congress</payeeName>
+      <recipientName>Rep. Emanuel Cleaver II</recipientName>
+      <amount>1500.00</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>State Street Bank and Trust Company Voluntary PAC</contributorName>
+      <payeeName>Jason Smith for Congress</payeeName>
+      <recipientName>Rep. Jason Thomas Smith</recipientName>
+      <amount>1000.00</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>State Street Bank and Trust Company Voluntary PAC</contributorName>
+      <payeeName>Kind for Congress Committee</payeeName>
+      <recipientName>Rep. Ronald James Kind</recipientName>
+      <amount>1000.00</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>State Street Bank and Trust Company Voluntary PAC</contributorName>
+      <payeeName>McConnell Senate Committee</payeeName>
+      <recipientName>Sen. Mitch McConnell</recipientName>
+      <amount>1000.00</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>State Street Bank and Trust Company Voluntary PAC</contributorName>
+      <payeeName>Shaheen for Senate</payeeName>
+      <recipientName>Sen. Jeanne Shaheen</recipientName>
+      <amount>1000.00</amount>
+      <date>12/16/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

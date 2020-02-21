@@ -1,0 +1,696 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>Quicken Loans Inc.</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>Megan Hansen</contactName>
+  <senateRegID>400316478</senateRegID>
+  <houseRegID>40236</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/30/2020 8:20:32 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>Quicken Loans PAC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Quicken Loans PAC</contributorName>
+      <payeeName>Brenda Lawrence for Congress</payeeName>
+      <recipientName>Rep. Brenda Lawrence</recipientName>
+      <amount>1000.00</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Quicken Loans PAC</contributorName>
+      <payeeName>Mike Thompson for Congress</payeeName>
+      <recipientName>Rep. Mike Thompson</recipientName>
+      <amount>2000.00</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Quicken Loans PAC</contributorName>
+      <payeeName>Tina Smith for Minnesota</payeeName>
+      <recipientName>Senator Tina Smith</recipientName>
+      <amount>2500.00</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Quicken Loans PAC</contributorName>
+      <payeeName>Clay, Jr. for Congress Committee</payeeName>
+      <recipientName>Rep. Lacy Clay</recipientName>
+      <amount>4000.00</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Quicken Loans PAC</contributorName>
+      <payeeName>Maloney for Congress</payeeName>
+      <recipientName>Rep. Carolyn Maloney</recipientName>
+      <amount>5000.00</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Quicken Loans PAC</contributorName>
+      <payeeName>Brenda Lawrence for Congress</payeeName>
+      <recipientName>Rep. Brenda Lawrence</recipientName>
+      <amount>5000.00</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Quicken Loans PAC</contributorName>
+      <payeeName>Veasey for Congress</payeeName>
+      <recipientName>Rep. Marc Veasey</recipientName>
+      <amount>2500.00</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Quicken Loans PAC</contributorName>
+      <payeeName>Peter Aguilar for Congress</payeeName>
+      <recipientName>Rep. Peter Aguilar</recipientName>
+      <amount>2500.00</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Quicken Loans PAC</contributorName>
+      <payeeName>Lisa Blunt Rochester for Congress</payeeName>
+      <recipientName>Rep. Lisa Blunt Rochester</recipientName>
+      <amount>2500.00</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Quicken Loans PAC</contributorName>
+      <payeeName>Debbie Dingell for Congress</payeeName>
+      <recipientName>Rep. Debbie Dingell</recipientName>
+      <amount>1000.00</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Quicken Loans PAC</contributorName>
+      <payeeName>Anthony Gonzales for Congress</payeeName>
+      <recipientName>Rep. Anthony Gonzales</recipientName>
+      <amount>1000.00</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Quicken Loans PAC</contributorName>
+      <payeeName>Stivers for Congress</payeeName>
+      <recipientName>Rep. Steve Stivers</recipientName>
+      <amount>2500.00</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Quicken Loans PAC</contributorName>
+      <payeeName>Patrick McHenry for Congress</payeeName>
+      <recipientName>Rep. Patrick McHenry</recipientName>
+      <amount>2000.00</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Quicken Loans PAC</contributorName>
+      <payeeName>Andy Barr for Congress</payeeName>
+      <recipientName>Rep. Andy Barr</recipientName>
+      <amount>1000.00</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Quicken Loans PAC</contributorName>
+      <payeeName>Lance Gooden for Congress</payeeName>
+      <recipientName>Rep. Lance Gooden</recipientName>
+      <amount>2000.00</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Quicken Loans PAC</contributorName>
+      <payeeName>John Rose for Tennessee</payeeName>
+      <recipientName>Rep. John Rose</recipientName>
+      <amount>2000.00</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Quicken Loans PAC</contributorName>
+      <payeeName>Emmer for Congress</payeeName>
+      <recipientName>Rep. Tom Emmer</recipientName>
+      <amount>2000.00</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Quicken Loans PAC</contributorName>
+      <payeeName>Sinema for Arizona</payeeName>
+      <recipientName>Sen. Kyrsten Sinema</recipientName>
+      <amount>1000.00</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Quicken Loans PAC</contributorName>
+      <payeeName>Collins for Senator</payeeName>
+      <recipientName>Senator Susan Collins</recipientName>
+      <amount>2500.00</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Quicken Loans PAC</contributorName>
+      <payeeName>Texans for Senator John Cornyn</payeeName>
+      <recipientName>Sen. Cornyn</recipientName>
+      <amount>5000.00</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Quicken Loans PAC</contributorName>
+      <payeeName>Stivers for Congress</payeeName>
+      <recipientName>Rep. Steve Stivers</recipientName>
+      <amount>1000.00</amount>
+      <date>12/27/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Quicken Loans PAC</contributorName>
+      <payeeName>Making America Prosperous PAC</payeeName>
+      <recipientName>Rep. Kevin Brady</recipientName>
+      <amount>2500.00</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Quicken Loans PAC</contributorName>
+      <payeeName>Battleground PAC</payeeName>
+      <recipientName>Rep. Mark Walker</recipientName>
+      <amount>3000.00</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Quicken Loans PAC</contributorName>
+      <payeeName>PORT PAC</payeeName>
+      <recipientName>Sen. Rob Portman</recipientName>
+      <amount>5000.00</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Quicken Loans PAC</contributorName>
+      <payeeName>Great America Committee</payeeName>
+      <recipientName>Vice President Mike Pence</recipientName>
+      <amount>5000.00</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Quicken Loans PAC</contributorName>
+      <payeeName>Upper Hand Fund</payeeName>
+      <recipientName>Rep. Bill Huizenga</recipientName>
+      <amount>2500.00</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Quicken Loans PAC</contributorName>
+      <payeeName>American Works PAC</payeeName>
+      <recipientName>Sen. Sherrod Brown</recipientName>
+      <amount>5000.00</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Quicken Loans PAC</contributorName>
+      <payeeName>Innovation PAC</payeeName>
+      <recipientName>Rep. Patrick McHenry</recipientName>
+      <amount>2500.00</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Quicken Loans PAC</contributorName>
+      <payeeName>Great Lakes PAC</payeeName>
+      <recipientName>Sen. Debbie Stabenow</recipientName>
+      <amount>5000.00</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Quicken Loans PAC</contributorName>
+      <payeeName>BARR PAC</payeeName>
+      <recipientName>Rep. Andy Barr</recipientName>
+      <amount>2000.00</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Quicken Loans PAC</contributorName>
+      <payeeName>BLAINE PAC</payeeName>
+      <recipientName>Rep. Blaine Luetkemeyer</recipientName>
+      <amount>2500.00</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Quicken Loans PAC</contributorName>
+      <payeeName>Georgia PAC</payeeName>
+      <recipientName>Rep. Tom Graves</recipientName>
+      <amount>2500.00</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Quicken Loans PAC</contributorName>
+      <payeeName>Build America PAC</payeeName>
+      <recipientName>Rep. Greg Meeks</recipientName>
+      <amount>5000.00</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Quicken Loans PAC</contributorName>
+      <payeeName>In the Arena PAC</payeeName>
+      <recipientName>Rep. French Hill</recipientName>
+      <amount>5000.00</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Quicken Loans PAC</contributorName>
+      <payeeName>Freedom Fund</payeeName>
+      <recipientName>Sen. Mike Crapo</recipientName>
+      <amount>5000.00</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Quicken Loans PAC</contributorName>
+      <payeeName>Joyce Beatty for Congress</payeeName>
+      <recipientName>Rep. Joyce Beatty</recipientName>
+      <amount>2500.00</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Quicken Loans PAC</contributorName>
+      <payeeName>House Conservatives Fund</payeeName>
+      <recipientName>Rep. Mike Johnson</recipientName>
+      <amount>2500.00</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Quicken Loans PAC</contributorName>
+      <payeeName>Motor City PAC</payeeName>
+      <recipientName>Sen. Gary Peters</recipientName>
+      <amount>5000.00</amount>
+      <date>07/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Quicken Loans PAC</contributorName>
+      <payeeName>New Pioneers PAC</payeeName>
+      <recipientName>Rep. Greg Walden</recipientName>
+      <amount>2500.00</amount>
+      <date>08/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Quicken Loans PAC</contributorName>
+      <payeeName>Perdue for Senate</payeeName>
+      <recipientName>Sen. David Perdue</recipientName>
+      <amount>2500.00</amount>
+      <date>08/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Quicken Loans PAC</contributorName>
+      <payeeName>Haley Stevens for Congress</payeeName>
+      <recipientName>Rep. Haley Stevens</recipientName>
+      <amount>5000.00</amount>
+      <date>08/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Quicken Loans PAC</contributorName>
+      <payeeName>Veronica Escobar for Congress</payeeName>
+      <recipientName>Rep. Veronica Escobar</recipientName>
+      <amount>1000.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Quicken Loans PAC</contributorName>
+      <payeeName>Denny Heck for Congress</payeeName>
+      <recipientName>Rep. Denny Heck</recipientName>
+      <amount>5000.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Quicken Loans PAC</contributorName>
+      <payeeName>Veasey for Congress</payeeName>
+      <recipientName>Rep. Marc Veasey</recipientName>
+      <amount>2500.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Quicken Loans PAC</contributorName>
+      <payeeName>Anthony Gonzales for Congress</payeeName>
+      <recipientName>Rep. Anthony Gonzales</recipientName>
+      <amount>5000.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Quicken Loans PAC</contributorName>
+      <payeeName>French Hill for Congress</payeeName>
+      <recipientName>Rep. French Hill</recipientName>
+      <amount>2500.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Quicken Loans PAC</contributorName>
+      <payeeName>Ann Wagner for Congress</payeeName>
+      <recipientName>Rep. Ann Wagner</recipientName>
+      <amount>2500.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Quicken Loans PAC</contributorName>
+      <payeeName>Ted Budd for Congress</payeeName>
+      <recipientName>Rep. Ted Budd</recipientName>
+      <amount>2000.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Quicken Loans PAC</contributorName>
+      <payeeName>John Carter for Congress</payeeName>
+      <recipientName>Rep. John Carter</recipientName>
+      <amount>10000.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Quicken Loans PAC</contributorName>
+      <payeeName>Team Cheney</payeeName>
+      <recipientName>Rep. Liz Cheney</recipientName>
+      <amount>5000.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Quicken Loans PAC</contributorName>
+      <payeeName>Collins for Congress</payeeName>
+      <recipientName>Rep. Doug Collins</recipientName>
+      <amount>2500.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Quicken Loans PAC</contributorName>
+      <payeeName>Emmer for Congress</payeeName>
+      <recipientName>Rep. Tom Emmer</recipientName>
+      <amount>2500.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Quicken Loans PAC</contributorName>
+      <payeeName>Tom Graves for Congress</payeeName>
+      <recipientName>Rep. Tom Graves</recipientName>
+      <amount>500.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Quicken Loans PAC</contributorName>
+      <payeeName>Jaime for Congress</payeeName>
+      <recipientName>Rep. Jaime Herrera Beutler</recipientName>
+      <amount>1000.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Quicken Loans PAC</contributorName>
+      <payeeName>French Hill for Arkansas</payeeName>
+      <recipientName>Rep. French Hill</recipientName>
+      <amount>2000.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Quicken Loans PAC</contributorName>
+      <payeeName>Holding for Congress</payeeName>
+      <recipientName>Rep. George Holding</recipientName>
+      <amount>2000.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Quicken Loans PAC</contributorName>
+      <payeeName>Hollingsworth for Congress</payeeName>
+      <recipientName>Rep. Trey Hollingsworth</recipientName>
+      <amount>2000.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Quicken Loans PAC</contributorName>
+      <payeeName>Richard Hudson for Congress</payeeName>
+      <recipientName>Rep. Richard Hudson</recipientName>
+      <amount>3000.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Quicken Loans PAC</contributorName>
+      <payeeName>Katko for Congress</payeeName>
+      <recipientName>Rep. John Katko</recipientName>
+      <amount>2000.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Quicken Loans PAC</contributorName>
+      <payeeName>Pete King for Congress Committee</payeeName>
+      <recipientName>Rep. Pete King</recipientName>
+      <amount>2000.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Quicken Loans PAC</contributorName>
+      <payeeName>Adam Kinzinger Future 1st Committee</payeeName>
+      <recipientName>Rep. Adam Kinzinger</recipientName>
+      <amount>2500.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Quicken Loans PAC</contributorName>
+      <payeeName>Blaine for Congress</payeeName>
+      <recipientName>Rep. Blaine Leutkemeyer</recipientName>
+      <amount>4000.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Quicken Loans PAC</contributorName>
+      <payeeName>John Moolenaar for Congress</payeeName>
+      <recipientName>Rep. John Moolenaar</recipientName>
+      <amount>2500.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Quicken Loans PAC</contributorName>
+      <payeeName>Richard E. Neal for Congress Committee</payeeName>
+      <recipientName>Rep. Richard Neal</recipientName>
+      <amount>1000.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Quicken Loans PAC</contributorName>
+      <payeeName>Gary Palmer for Congress</payeeName>
+      <recipientName>Rep. Gary Palmer</recipientName>
+      <amount>1000.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Quicken Loans PAC</contributorName>
+      <payeeName>Mike Rogers for Congress</payeeName>
+      <recipientName>Rep. Mike Rogers</recipientName>
+      <amount>1000.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Quicken Loans PAC</contributorName>
+      <payeeName>John Rose for Tennessee</payeeName>
+      <recipientName>Rep. John Rose</recipientName>
+      <amount>2000.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Quicken Loans PAC</contributorName>
+      <payeeName>Scalise for Congress</payeeName>
+      <recipientName>Rep. Steve Scalise</recipientName>
+      <amount>5000.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Quicken Loans PAC</contributorName>
+      <payeeName>Steil for Wisconsin</payeeName>
+      <recipientName>Rep. Bryan Steil</recipientName>
+      <amount>4000.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Quicken Loans PAC</contributorName>
+      <payeeName>Upton for All of Us</payeeName>
+      <recipientName>Rep. Fred Upton</recipientName>
+      <amount>2500.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Quicken Loans PAC</contributorName>
+      <payeeName>Zeldin for Congress</payeeName>
+      <recipientName>Rep. Lee Zeldin</recipientName>
+      <amount>1000.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Quicken Loans PAC</contributorName>
+      <payeeName>Steve Daines for Montana</payeeName>
+      <recipientName>Sen. Steve Daines</recipientName>
+      <amount>2500.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Quicken Loans PAC</contributorName>
+      <payeeName>Making America Prosperous PAC</payeeName>
+      <recipientName>Rep. Kevin Brady</recipientName>
+      <amount>2500.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Quicken Loans PAC</contributorName>
+      <payeeName>Georgia PAC</payeeName>
+      <recipientName>Rep. Tom Graves</recipientName>
+      <amount>2000.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Quicken Loans PAC</contributorName>
+      <payeeName>Upper Hand Fund</payeeName>
+      <recipientName>Rep. Bill Huizenga</recipientName>
+      <amount>2500.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Quicken Loans PAC</contributorName>
+      <payeeName>JEFF PAC</payeeName>
+      <recipientName>Rep. Hakeem Jeffries</recipientName>
+      <amount>5000.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Quicken Loans PAC</contributorName>
+      <payeeName>Michigan Democratic Party</payeeName>
+      <recipientName>Michigan Democratic Party</recipientName>
+      <amount>5000.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Quicken Loans PAC</contributorName>
+      <payeeName>Michigan Republican Party</payeeName>
+      <recipientName>Michigan Republican Party</recipientName>
+      <amount>5000.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Quicken Loans PAC</contributorName>
+      <payeeName>DANG PAC</payeeName>
+      <recipientName>Rep. Stephanie Murphy</recipientName>
+      <amount>5000.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Quicken Loans PAC</contributorName>
+      <payeeName>Walberg for Congress</payeeName>
+      <recipientName>Rep. Tim Walberg</recipientName>
+      <amount>2500.00</amount>
+      <date>09/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Quicken Loans PAC</contributorName>
+      <payeeName>Friends of Chris Stewart</payeeName>
+      <recipientName>Rep. Chris Stewart</recipientName>
+      <amount>2500.00</amount>
+      <date>09/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Quicken Loans PAC</contributorName>
+      <payeeName>Bergman for Congress</payeeName>
+      <recipientName>Rep. Jack Bergman</recipientName>
+      <amount>2500.00</amount>
+      <date>09/27/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

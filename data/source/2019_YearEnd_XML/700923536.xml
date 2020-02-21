@@ -1,0 +1,1433 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>International Union of Operating Engineers</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>Brian E. Hickey</contactName>
+  <senateRegID>20106</senateRegID>
+  <houseRegID>30658</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/29/2020 3:24:38 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>
+  </noContributions>
+  <pacs>
+    <pac>
+      <name>PAC Engineers Political Education Committee/IUOE</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>A New Direction PAC</payeeName>
+      <recipientName>A New Direction PAC</recipientName>
+      <amount>5000</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Alma Adams for Congress</payeeName>
+      <recipientName>Adams, Alma</recipientName>
+      <amount>2500</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>All for Our Country</payeeName>
+      <recipientName>All for Our Country</recipientName>
+      <amount>5000</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>America Works PAC</payeeName>
+      <recipientName>America Works PAC</recipientName>
+      <amount>5000</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>American Defense and Military PAC</payeeName>
+      <recipientName>American Defense and Military PAC</recipientName>
+      <amount>5000</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>AmeriPAC The Fund for a Greater America</payeeName>
+      <recipientName>AmeriPAC The Fund for a Greater America</recipientName>
+      <amount>5000</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Amodei for Nevada</payeeName>
+      <recipientName>Amodei, Mark</recipientName>
+      <amount>2500</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Bacon for Congress</payeeName>
+      <recipientName>Bacon, Don</recipientName>
+      <amount>5000</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Beatty for Congress</payeeName>
+      <recipientName>Beatty, Joyce</recipientName>
+      <amount>2500</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Michelle Beckley Campaign</payeeName>
+      <recipientName>Beckley, Michelle</recipientName>
+      <amount>2000</amount>
+      <date>12/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Bera For Congress</payeeName>
+      <recipientName>Bera, Ami</recipientName>
+      <amount>2500</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Friends of Don Beyer</payeeName>
+      <recipientName>Beyer, Don</recipientName>
+      <amount>1000</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>BFB PAC</payeeName>
+      <recipientName>BFB PAC</recipientName>
+      <amount>5000</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Blue Power PAC</payeeName>
+      <recipientName>Blue Power PAC</recipientName>
+      <amount>5000</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Bollier for Kansas</payeeName>
+      <recipientName>Bollier, Barbara</recipientName>
+      <amount>5000</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Bollier for Kansas</payeeName>
+      <recipientName>Bollier, Barbara</recipientName>
+      <amount>5000</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Bonamici for Congress</payeeName>
+      <recipientName>Bonamici, Suzanne</recipientName>
+      <amount>2500</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Bridge PAC</payeeName>
+      <recipientName>Bridge PAC</recipientName>
+      <amount>5000</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Bringing America Together</payeeName>
+      <recipientName>Bringing America Together</recipientName>
+      <amount>5000</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Burchett for Congress</payeeName>
+      <recipientName>Burchett, Tim</recipientName>
+      <amount>5000</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Butterfield For Congress</payeeName>
+      <recipientName>Butterfield, G.K.</recipientName>
+      <amount>2500</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Salud Carbajal</payeeName>
+      <recipientName>Carbajal, Salud</recipientName>
+      <amount>2500</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Tony Cardenas</payeeName>
+      <recipientName>Cardenas, Tony</recipientName>
+      <amount>2500</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Andre Carson For Congress</payeeName>
+      <recipientName>Carson, Andre</recipientName>
+      <amount>5000</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Case for Congress</payeeName>
+      <recipientName>Case, Ed.</recipientName>
+      <amount>2500</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Castor for Congress</payeeName>
+      <recipientName>Castor, Kathy</recipientName>
+      <amount>2500</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Castro For Congress</payeeName>
+      <recipientName>Castro, Joaquin</recipientName>
+      <amount>2500</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>CHER PAC</payeeName>
+      <recipientName>CHER PAC</recipientName>
+      <amount>5000</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Cisneros for Congress</payeeName>
+      <recipientName>Cisneros, Gil</recipientName>
+      <amount>5000</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Clarke for Congress</payeeName>
+      <recipientName>Clarke, Yvette</recipientName>
+      <amount>1000</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Clay Jr. for Congress</payeeName>
+      <recipientName>Clay, Lacy</recipientName>
+      <amount>5000</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Cleaver For Congress</payeeName>
+      <recipientName>Cleaver, Emanuel</recipientName>
+      <amount>5000</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Bonnie Watson Coleman for Congress</payeeName>
+      <recipientName>Coleman, Bonnie Watson</recipientName>
+      <amount>2500</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Connolly For Congress</payeeName>
+      <recipientName>Connolly, Gerry</recipientName>
+      <amount>2500</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Chris Coons for Delaware</payeeName>
+      <recipientName>Coons, Chris</recipientName>
+      <amount>5000</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Chris Coons for Delaware</payeeName>
+      <recipientName>Coons, Chris</recipientName>
+      <amount>5000</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Cooper For Congress</payeeName>
+      <recipientName>Cooper, James</recipientName>
+      <amount>2500</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Jim Costa for Congress</payeeName>
+      <recipientName>Costa, Jim</recipientName>
+      <amount>2500</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Courtney for Congress</payeeName>
+      <recipientName>Courtney, Joe</recipientName>
+      <amount>5000</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Charlie Crist for Congress</payeeName>
+      <recipientName>Crist, Charlie</recipientName>
+      <amount>5000</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>CSMITH PAC</payeeName>
+      <recipientName>CSMITH PAC</recipientName>
+      <amount>5000</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Texans For Henry Cuellar</payeeName>
+      <recipientName>Cuellar, Henry</recipientName>
+      <amount>5000</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Steve Daines for Montana</payeeName>
+      <recipientName>Daines, Steve</recipientName>
+      <amount>5000</amount>
+      <date>12/2/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>DAVE PAC</payeeName>
+      <recipientName>DAVE PAC</recipientName>
+      <amount>5000</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Davis for Congress</payeeName>
+      <recipientName>Davis, Danny</recipientName>
+      <amount>5000</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Wendy Davis for Congress</payeeName>
+      <recipientName>Davis, Wendy</recipientName>
+      <amount>5000</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Wendy Davis for Congress</payeeName>
+      <recipientName>Davis, Wendy</recipientName>
+      <amount>5000</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Diana DeGette for Congress</payeeName>
+      <recipientName>DeGette, Diana</recipientName>
+      <amount>2500</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>DelBene for Congress</payeeName>
+      <recipientName>DelBene, Suzan</recipientName>
+      <amount>2500</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Val Demings for Congr</payeeName>
+      <recipientName>Demings, Val.</recipientName>
+      <amount>5000</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Democratic Assocation of Sec. of State</payeeName>
+      <recipientName>Democratic Assocation of Sec. of State</recipientName>
+      <amount>25000</amount>
+      <date>12/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Democrats Win Seats PAC</payeeName>
+      <recipientName>Democrats Win Seats PAC</recipientName>
+      <amount>5000</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>DePasquale for PA</payeeName>
+      <recipientName>DePasquale, Eugene</recipientName>
+      <amount>5000</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>E&amp;E News</payeeName>
+      <recipientName>E&amp;E News</recipientName>
+      <amount>5295</amount>
+      <date>11/8/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>EMMER PAC</payeeName>
+      <recipientName>EMMER PAC</recipientName>
+      <amount>5000</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Anna Eshoo for Congress</payeeName>
+      <recipientName>Eshoo, Anna</recipientName>
+      <amount>2500</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Finkenauer Victory Fund</payeeName>
+      <recipientName>Finkenauer Victory Fund</recipientName>
+      <amount>10000</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>First State PAC</payeeName>
+      <recipientName>First State PAC</recipientName>
+      <amount>5000</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Bill Foster for Congress</payeeName>
+      <recipientName>Foster, Bill</recipientName>
+      <amount>2500</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Lois Frankel For Congress</payeeName>
+      <recipientName>Frankel, Lois</recipientName>
+      <amount>2500</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Gallego for Arizona</payeeName>
+      <recipientName>Gallego, Ruben</recipientName>
+      <amount>2500</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Sylvia Garcia for Congress</payeeName>
+      <recipientName>Garcia, Sylvia</recipientName>
+      <amount>2500</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Kate for NJ, Inc</payeeName>
+      <recipientName>Gibbs, Kate</recipientName>
+      <amount>5000</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Kate for NJ, Inc</payeeName>
+      <recipientName>Gibbs, Kate</recipientName>
+      <amount>5000</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Sara Gideon for Maine</payeeName>
+      <recipientName>Gideon, Sara</recipientName>
+      <amount>5000</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Sara Gideon for Maine</payeeName>
+      <recipientName>Gideon, Sara</recipientName>
+      <amount>5000</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Keep Al Green in Cong</payeeName>
+      <recipientName>Green, Al</recipientName>
+      <amount>2500</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>A WHOLE LOT OF PEOPLE FOR GRIJALVA</payeeName>
+      <recipientName>Grijalva, Raul</recipientName>
+      <amount>5000</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Citizens For Eleanor Holmes Norton</payeeName>
+      <recipientName>H.  Norton, Eleanor</recipientName>
+      <amount>2500</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Deb Haaland for Congress</payeeName>
+      <recipientName>Haaland, Deb</recipientName>
+      <amount>2500</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Jaime Harrison for US Senate</payeeName>
+      <recipientName>Harrison, Jaime</recipientName>
+      <amount>5000</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Hastings for Congress</payeeName>
+      <recipientName>Hastings, Alcee</recipientName>
+      <amount>2500</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Friends of Jahana Hayes</payeeName>
+      <recipientName>Hayes, Jahana</recipientName>
+      <amount>5000</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Denny Heck For Congress</payeeName>
+      <recipientName>Heck, Denny</recipientName>
+      <amount>2500</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Hickenlooper for Colorado</payeeName>
+      <recipientName>Hickenlooper, John</recipientName>
+      <amount>5000</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Hickenlooper for Colorado</payeeName>
+      <recipientName>Hickenlooper, John</recipientName>
+      <amount>5000</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Brian Higgins for Congress</payeeName>
+      <recipientName>Higgins, Brian</recipientName>
+      <amount>2500</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Himes for Congress</payeeName>
+      <recipientName>Himes, Jim</recipientName>
+      <amount>2500</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>HOOPS PAC</payeeName>
+      <recipientName>HOOPS PAC</recipientName>
+      <amount>5000</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Chrissy Houlahan for Congress</payeeName>
+      <recipientName>Houlahan, Chrissy</recipientName>
+      <amount>5000</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Friends of Val Hoyle</payeeName>
+      <recipientName>Hoyle, Val</recipientName>
+      <amount>10000</amount>
+      <date>12/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Huffman for Congress</payeeName>
+      <recipientName>Huffman, Jared</recipientName>
+      <amount>2500</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Impact</payeeName>
+      <recipientName>Impact</recipientName>
+      <amount>5000</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>IUOE Local 841 PAC</payeeName>
+      <recipientName>IUOE Local 841 PAC</recipientName>
+      <amount>17200</amount>
+      <date>7/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Sheila Jackson Lee for Congress</payeeName>
+      <recipientName>Jackson Lee, Sheila</recipientName>
+      <amount>5000</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Pramila for Congress</payeeName>
+      <recipientName>Jayapal, Pramila</recipientName>
+      <amount>2500</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>JET PAC</payeeName>
+      <recipientName>JET PAC</recipientName>
+      <amount>5000</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Eddie Bernice Johnson for Congress</payeeName>
+      <recipientName>Johnson, Eddie Bernice</recipientName>
+      <amount>2500</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Comm. to Re-Elect Henry "Hank" Johnson</payeeName>
+      <recipientName>Johnson, Hank</recipientName>
+      <amount>2500</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>GINA ORTIZ JONES FOR CONGRESS</payeeName>
+      <recipientName>Jones, Gina Ortiz</recipientName>
+      <amount>5000</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>The Bill Keating Committee</payeeName>
+      <recipientName>Keating, William</recipientName>
+      <amount>5000</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Mark Kelly for Senate</payeeName>
+      <recipientName>Kelly, Mark</recipientName>
+      <amount>5000</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Mark Kelly for Senate</payeeName>
+      <recipientName>Kelly, Mark</recipientName>
+      <amount>5000</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Kentucky Democratic Party</payeeName>
+      <recipientName>Kentucky Democratic Party</recipientName>
+      <amount>5000</amount>
+      <date>9/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Keystone Fund</payeeName>
+      <recipientName>Keystone Fund</recipientName>
+      <amount>5000</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>People For Derek Kilmer</payeeName>
+      <recipientName>Kilmer, Derek</recipientName>
+      <amount>2500</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Kirkpatrick for Congress</payeeName>
+      <recipientName>Kirkpatrick, Ann</recipientName>
+      <amount>5000</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>LaHood for Congress</payeeName>
+      <recipientName>LaHood, Darin</recipientName>
+      <amount>5000</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Larson for Congress</payeeName>
+      <recipientName>Larson, John</recipientName>
+      <amount>5000</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Brenda Lawrence for Congress</payeeName>
+      <recipientName>Lawrence, Brenda</recipientName>
+      <amount>5000</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Al Lawson for Congress</payeeName>
+      <recipientName>Lawson, Al</recipientName>
+      <amount>2500</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Barbara Lee for Congress</payeeName>
+      <recipientName>Lee, Barbara</recipientName>
+      <amount>2500</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Andy Levin for Congress</payeeName>
+      <recipientName>Levin, Andy</recipientName>
+      <amount>5000</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>John Lewis for Congress</payeeName>
+      <recipientName>Lewis, John</recipientName>
+      <amount>5000</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Ted Lieu for Congress</payeeName>
+      <recipientName>Lieu, Ted</recipientName>
+      <amount>2500</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Lofgren for Congress</payeeName>
+      <recipientName>Lofgren, Zoe</recipientName>
+      <amount>5000</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Elect Carolyn Long</payeeName>
+      <recipientName>Long, Carolyn</recipientName>
+      <amount>5000</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Stephen Lynch for Congress</payeeName>
+      <recipientName>Lynch, Stephen</recipientName>
+      <amount>5000</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Brian Mast for Congress</payeeName>
+      <recipientName>Mast, Brian</recipientName>
+      <amount>5000</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Matsui for Congress</payeeName>
+      <recipientName>Matsui, Doris</recipientName>
+      <amount>5000</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>McCready for Congress</payeeName>
+      <recipientName>McCready, Dan</recipientName>
+      <amount>5000</amount>
+      <date>9/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>McEachin for Congress</payeeName>
+      <recipientName>McEachin, Don</recipientName>
+      <amount>2500</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>McNerney for Congress</payeeName>
+      <recipientName>McNerney, Jerry</recipientName>
+      <amount>2500</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Grace for New York</payeeName>
+      <recipientName>Meng, Grace</recipientName>
+      <amount>2500</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Middle Class America PAC</payeeName>
+      <recipientName>Middle Class America PAC</recipientName>
+      <amount>5000</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Joe Morelle for Congress</payeeName>
+      <recipientName>Morelle, Joseph</recipientName>
+      <amount>2500</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Motor City PAC</payeeName>
+      <recipientName>Motor City PAC</recipientName>
+      <amount>5000</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Seth Moulton for Congress</payeeName>
+      <recipientName>Moulton, Seth</recipientName>
+      <amount>2500</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>M-PAC</payeeName>
+      <recipientName>M-PAC</recipientName>
+      <amount>5000</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Napolitano for Congress</payeeName>
+      <recipientName>Napolitano, Grace</recipientName>
+      <amount>2500</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Narragansett Bay PAC</payeeName>
+      <recipientName>Narragansett Bay PAC</recipientName>
+      <amount>5000</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Joe Neguse for Congress</payeeName>
+      <recipientName>Neguse, Joe</recipientName>
+      <amount>2500</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>New Pioneers PAC</payeeName>
+      <recipientName>New Pioneers PAC</recipientName>
+      <amount>5000</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Dan Newhouse for Congress</payeeName>
+      <recipientName>Newhouse, Dan</recipientName>
+      <amount>5000</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>NY City Coalition of OE</payeeName>
+      <recipientName>NY City Coalition of OE</recipientName>
+      <amount>60000</amount>
+      <date>7/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>NY City Coalition of OE</payeeName>
+      <recipientName>NY City Coalition of OE</recipientName>
+      <amount>60000</amount>
+      <date>7/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Ilhan for Congress</payeeName>
+      <recipientName>Omar, Ilhan</recipientName>
+      <amount>2500</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>PAC to the Future</payeeName>
+      <recipientName>PAC to the Future</recipientName>
+      <amount>5000</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Pascrell for Congress</payeeName>
+      <recipientName>Pascrell, Bill</recipientName>
+      <amount>3000</amount>
+      <date>9/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Perimeter PAC</payeeName>
+      <recipientName>Perimeter PAC</recipientName>
+      <amount>5000</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Perlmutter for Congress</payeeName>
+      <recipientName>Perlmutter, Ed</recipientName>
+      <amount>2500</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Scott Peters for Congress</payeeName>
+      <recipientName>Peters, Scott</recipientName>
+      <amount>2500</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Pingree For Congress</payeeName>
+      <recipientName>Pingree, Chellie</recipientName>
+      <amount>2500</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Prairie Political Action Committee</payeeName>
+      <recipientName>Prairie Political Action Committee</recipientName>
+      <amount>2500</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>The Committee to Elect Ayanna Pressley</payeeName>
+      <recipientName>Pressley, Ayanna</recipientName>
+      <amount>2500</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Progressive Americans for Democracy</payeeName>
+      <recipientName>Progressive Americans for Democracy</recipientName>
+      <amount>5000</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Puget PAC</payeeName>
+      <recipientName>Puget PAC</recipientName>
+      <amount>5000</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Quigley For Congress</payeeName>
+      <recipientName>Quigley, Mike</recipientName>
+      <amount>2500</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Jamie Raskin for Congress</payeeName>
+      <recipientName>Raskin, Jamie</recipientName>
+      <amount>5000</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Tom Reed for Congress</payeeName>
+      <recipientName>Reed, Tom</recipientName>
+      <amount>5000</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Lisa Blunt Rochester for Congress</payeeName>
+      <recipientName>Rochester, Lisa Blunt</recipientName>
+      <amount>2500</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>ROD PAC</payeeName>
+      <recipientName>ROD PAC</recipientName>
+      <amount>5000</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Dr. Raul Ruiz For Congress</payeeName>
+      <recipientName>Ruiz, Raul</recipientName>
+      <amount>2500</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Dutch Ruppersberger for Congress</payeeName>
+      <recipientName>Ruppersberger, Dutch</recipientName>
+      <amount>2500</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Salt City PAC</payeeName>
+      <recipientName>Salt City PAC</recipientName>
+      <amount>5000</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>SCANLON FOR CONGRESS</payeeName>
+      <recipientName>Scanlon, Mary</recipientName>
+      <amount>2500</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Schakowsky for Congress</payeeName>
+      <recipientName>Schakowsky, Janice</recipientName>
+      <amount>2500</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Schneider for Congress</payeeName>
+      <recipientName>Schneider, Brad</recipientName>
+      <amount>2500</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Scholten 4 Iowa Campaign Committee</payeeName>
+      <recipientName>Scholten, JD</recipientName>
+      <amount>5000</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Kurt Schrader For Congress</payeeName>
+      <recipientName>Schrader, Kurt</recipientName>
+      <amount>2500</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>David Scott for Congress</payeeName>
+      <recipientName>Scott, David</recipientName>
+      <amount>2500</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Seeking Justice PAC</payeeName>
+      <recipientName>Seeking Justice PAC</recipientName>
+      <amount>5000</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Donna Shalala for Congress</payeeName>
+      <recipientName>Shalala, Donna</recipientName>
+      <amount>2500</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Mikie Sherrill for Congress</payeeName>
+      <recipientName>Sherrill, Mikie</recipientName>
+      <amount>5000</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Sires for Congress</payeeName>
+      <recipientName>Sires, Albio</recipientName>
+      <amount>3700</amount>
+      <date>9/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Jackie Speier for Congress</payeeName>
+      <recipientName>Speier, Jackie</recipientName>
+      <amount>2500</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Stanton for Congress</payeeName>
+      <recipientName>Stanton, Greg</recipientName>
+      <amount>2500</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Strengthening Virginia's Working Families</payeeName>
+      <recipientName>Strengthening Virginia's Working Families</recipientName>
+      <amount>5000</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Swalwell for Congress</payeeName>
+      <recipientName>Swalwell, Eric</recipientName>
+      <amount>1500</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Mark Takano For Congress</payeeName>
+      <recipientName>Takano, Mark</recipientName>
+      <amount>2500</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Texas First PAC</payeeName>
+      <recipientName>Texas First PAC</recipientName>
+      <amount>5000</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Mike Thompson for Congress</payeeName>
+      <recipientName>Thompson, Mike</recipientName>
+      <amount>4000</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Hiral for Congress</payeeName>
+      <recipientName>Tipirneni, Hiral</recipientName>
+      <amount>5000</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Hiral for Congress</payeeName>
+      <recipientName>Tipirneni, Hiral</recipientName>
+      <amount>5000</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Lori Trahan for Congress</payeeName>
+      <recipientName>Trahan, Lori</recipientName>
+      <amount>5000</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Vargas for Congress</payeeName>
+      <recipientName>Vargas, Juan</recipientName>
+      <amount>2500</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Marc Veasey Congressional Campaign Commit</payeeName>
+      <recipientName>Veasey, Marc Allen</recipientName>
+      <amount>2500</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Committee to re-elect Nydia M. Velazquez</payeeName>
+      <recipientName>Velazquez, Nydia</recipientName>
+      <amount>1000</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Velvet Hammer PAC</payeeName>
+      <recipientName>Velvet Hammer PAC</recipientName>
+      <amount>5000</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Citizens for Waters</payeeName>
+      <recipientName>Waters, Maxine</recipientName>
+      <amount>2500</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Welch for Congress</payeeName>
+      <recipientName>Welch, Peter</recipientName>
+      <amount>2500</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Frederica S. Wilson For Congress</payeeName>
+      <recipientName>Wilson, Frederica</recipientName>
+      <amount>2500</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Yarmuth for Congress</payeeName>
+      <recipientName>Yarmuth, John</recipientName>
+      <amount>5000</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC Engineers Political Education Committee/IUOE</contributorName>
+      <payeeName>Alaskans for Don Young, Inc.</payeeName>
+      <recipientName>Young, Don</recipientName>
+      <amount>5000</amount>
+      <date>9/12/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

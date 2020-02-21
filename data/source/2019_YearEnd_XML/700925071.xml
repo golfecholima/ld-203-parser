@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>AMERICAN WATER</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>Maureen Duffy</contactName>
+  <senateRegID>70778</senateRegID>
+  <houseRegID>35859</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/30/2020 1:05:13 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>American Water Works Company, Inc. Employee Federal PAC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Water Works Company, Inc. Employee Federal PAC</contributorName>
+      <payeeName>Capito for West Virginia</payeeName>
+      <recipientName>Senator Shelly Moore Capito</recipientName>
+      <amount>2500.00</amount>
+      <date>10/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Water Works Company, Inc. Employee Federal PAC</contributorName>
+      <payeeName>Democratic Congressional Campaign Committee</payeeName>
+      <recipientName>Democratic Congressional Campaign Committee</recipientName>
+      <amount>1000.00</amount>
+      <date>10/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Water Works Company, Inc. Employee Federal PAC</contributorName>
+      <payeeName>Debbie Dingell for Congress</payeeName>
+      <recipientName>Congresswoman Debbie Dingell</recipientName>
+      <amount>1500.00</amount>
+      <date>07/08/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Water Works Company, Inc. Employee Federal PAC</contributorName>
+      <payeeName>DeFazio for Congress</payeeName>
+      <recipientName>Congressman Peter DeFazio</recipientName>
+      <amount>5000.00</amount>
+      <date>11/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Water Works Company, Inc. Employee Federal PAC</contributorName>
+      <payeeName>Donald Norcross for Congress</payeeName>
+      <recipientName>Congressman Donald Norcross</recipientName>
+      <amount>2500.00</amount>
+      <date>08/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Water Works Company, Inc. Employee Federal PAC</contributorName>
+      <payeeName>Friends of Jim Inhofe</payeeName>
+      <recipientName>Senator Jim Inhofe</recipientName>
+      <amount>1000.00</amount>
+      <date>07/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Water Works Company, Inc. Employee Federal PAC</contributorName>
+      <payeeName>Friends of John Barrasso</payeeName>
+      <recipientName>Senator John Barrasso</recipientName>
+      <amount>1000.00</amount>
+      <date>08/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Water Works Company, Inc. Employee Federal PAC</contributorName>
+      <payeeName>Julia Brownley for Congress</payeeName>
+      <recipientName>Congresswoman Julia Brownley</recipientName>
+      <amount>1000.00</amount>
+      <date>07/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Water Works Company, Inc. Employee Federal PAC</contributorName>
+      <payeeName>McConnell for Senate Committee</payeeName>
+      <recipientName>Senator Mitch McConnell</recipientName>
+      <amount>1000.00</amount>
+      <date>11/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Water Works Company, Inc. Employee Federal PAC</contributorName>
+      <payeeName>Napolitano for Congress</payeeName>
+      <recipientName>Congresswoman Grace Napolitano</recipientName>
+      <amount>2000.00</amount>
+      <date>08/01/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Water Works Company, Inc. Employee Federal PAC</contributorName>
+      <payeeName>Pallone for Congress</payeeName>
+      <recipientName>Congressman Frank Pallone</recipientName>
+      <amount>1000.00</amount>
+      <date>10/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Water Works Company, Inc. Employee Federal PAC</contributorName>
+      <payeeName>Rodney for Congress</payeeName>
+      <recipientName>Congressman Rodney Davis</recipientName>
+      <amount>1000.00</amount>
+      <date>10/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Water Works Company, Inc. Employee Federal PAC</contributorName>
+      <payeeName>Trey for Congress</payeeName>
+      <recipientName>Congressman Trey Gowdy</recipientName>
+      <amount>1000.00</amount>
+      <date>08/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Water Works Company, Inc. Employee Federal PAC</contributorName>
+      <payeeName>Van Drew for Congress</payeeName>
+      <recipientName>Congressman Jeff Van Drew</recipientName>
+      <amount>1000.00</amount>
+      <date>07/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Water Works Company, Inc. Employee Federal PAC</contributorName>
+      <payeeName>Van Drew for Congress</payeeName>
+      <recipientName>Congressman Jeff Van Drew</recipientName>
+      <amount>1000.00</amount>
+      <date>12/04/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Water Works Company, Inc. Employee Federal PAC</contributorName>
+      <payeeName>Vargas for Congress</payeeName>
+      <recipientName>Congressman Juan Vargas</recipientName>
+      <amount>1000.00</amount>
+      <date>08/01/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Water Works Company, Inc. Employee Federal PAC</contributorName>
+      <payeeName>Kevin McCarthy for Congress</payeeName>
+      <recipientName>Congressman Kevin McCarthy</recipientName>
+      <amount>1000.00</amount>
+      <date>08/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Water Works Company, Inc. Employee Federal PAC</contributorName>
+      <payeeName>Jimmy Panetta for Congress</payeeName>
+      <recipientName>Congressman Jimmy Panetta</recipientName>
+      <amount>1000.00</amount>
+      <date>08/12/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

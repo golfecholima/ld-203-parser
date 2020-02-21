@@ -1,0 +1,969 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>BANK OF AMERICA CORPORATION</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>JOHN E. COLLINGWOOD</contactName>
+  <contactPhone>
+  </contactPhone>
+  <senateRegID>26400</senateRegID>
+  <houseRegID>31067</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>This filing is to the best of my knowledge, based on a reasonable review of Bank of America Corporation activities.</comments>
+  <signedDate>1/30/2020 8:07:55 AM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>Bank of America Corporation Federal PAC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>Maloney for Congress</payeeName>
+      <recipientName>Carolyn Maloney</recipientName>
+      <amount>1000.00</amount>
+      <date>07/03/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>Tom Reed For Congress</payeeName>
+      <recipientName>Tom Reed</recipientName>
+      <amount>3000.00</amount>
+      <date>07/03/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>Lisa Blunt Rochester for Congress</payeeName>
+      <recipientName>Lisa Blunt Rochester</recipientName>
+      <amount>2000.00</amount>
+      <date>07/03/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>Conaway for Congress</payeeName>
+      <recipientName>Mike Conaway</recipientName>
+      <amount>2000.00</amount>
+      <date>07/03/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>Friends of Dave Joyce</payeeName>
+      <recipientName>David Joyce</recipientName>
+      <amount>2000.00</amount>
+      <date>07/03/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>Ben Cline for Congress Inc.</payeeName>
+      <recipientName>Ben Cline</recipientName>
+      <amount>500.00</amount>
+      <date>07/03/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>Sherman for Congress</payeeName>
+      <recipientName>Brad Sherman</recipientName>
+      <amount>1000.00</amount>
+      <date>07/03/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>Ron Estes For Congress</payeeName>
+      <recipientName>Ron Estes</recipientName>
+      <amount>1000.00</amount>
+      <date>07/03/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>Zeldin for Congress</payeeName>
+      <recipientName>Lee Zeldin</recipientName>
+      <amount>2000.00</amount>
+      <date>07/03/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>Rodney Davis for Congress</payeeName>
+      <recipientName>Rodney Davis</recipientName>
+      <amount>2000.00</amount>
+      <date>07/03/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>David Rouzer for Congress</payeeName>
+      <recipientName>David Rouzer</recipientName>
+      <amount>1000.00</amount>
+      <date>07/03/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>VoteTipton.com</payeeName>
+      <recipientName>Scott Tipton</recipientName>
+      <amount>2000.00</amount>
+      <date>07/03/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>Brady for Congress</payeeName>
+      <recipientName>Kevin Brady</recipientName>
+      <amount>2500.00</amount>
+      <date>07/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>Brady for Congress</payeeName>
+      <recipientName>Kevin Brady</recipientName>
+      <amount>-2500.00</amount>
+      <date>07/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>LaHood for Congress</payeeName>
+      <recipientName>Darin LaHood</recipientName>
+      <amount>2500.00</amount>
+      <date>07/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>Lance Gooden for Congress Committee</payeeName>
+      <recipientName>Lance Gooden</recipientName>
+      <amount>2500.00</amount>
+      <date>07/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>McHenry for Congress</payeeName>
+      <recipientName>Patrick McHenry</recipientName>
+      <amount>5000.00</amount>
+      <date>07/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>Friends of Dan Kildee</payeeName>
+      <recipientName>Dan Kildee</recipientName>
+      <amount>2500.00</amount>
+      <date>07/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>Jimmy Panetta for Congress</payeeName>
+      <recipientName>Jimmy Panetta</recipientName>
+      <amount>1000.00</amount>
+      <date>07/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>Kansans for Marshall</payeeName>
+      <recipientName>Roger Marshall</recipientName>
+      <amount>2500.00</amount>
+      <date>07/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>Ann Wagner for Congress</payeeName>
+      <recipientName>Ann Wagner</recipientName>
+      <amount>2500.00</amount>
+      <date>07/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>Building America's Republican Representation PAC</payeeName>
+      <recipientName>Andy Barr</recipientName>
+      <amount>5000.00</amount>
+      <date>07/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>Denver Riggleman for Congress</payeeName>
+      <recipientName>Denver Riggleman</recipientName>
+      <amount>500.00</amount>
+      <date>07/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>Anthony Gonzalez for Congress</payeeName>
+      <recipientName>Anthony Gonzalez</recipientName>
+      <amount>2500.00</amount>
+      <date>07/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>Neal for Congress</payeeName>
+      <recipientName>Richard Neal</recipientName>
+      <amount>2500.00</amount>
+      <date>07/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>Wenstrup for Congress</payeeName>
+      <recipientName>Brad Wenstrup</recipientName>
+      <amount>1000.00</amount>
+      <date>07/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>John Rose for Tennessee</payeeName>
+      <recipientName>John Rose</recipientName>
+      <amount>2000.00</amount>
+      <date>07/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>Steil for Wisconsin</payeeName>
+      <recipientName>Bryan Steil</recipientName>
+      <amount>1000.00</amount>
+      <date>07/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>Elise for Congress</payeeName>
+      <recipientName>Elise Stefanik</recipientName>
+      <amount>1000.00</amount>
+      <date>07/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>Ted Budd for Congress</payeeName>
+      <recipientName>Theodore (Ted) P. Budd</recipientName>
+      <amount>2500.00</amount>
+      <date>07/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>Ameripac: The Fund for A Greater America</payeeName>
+      <recipientName>Steny Hoyer</recipientName>
+      <amount>5000.00</amount>
+      <date>08/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>Cummings for Congress Campaign Committee</payeeName>
+      <recipientName>Elijah Cummings</recipientName>
+      <amount>1000.00</amount>
+      <date>09/04/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>21st Century Majority Fund</payeeName>
+      <recipientName>Johnny Isakson</recipientName>
+      <amount>2500.00</amount>
+      <date>09/04/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>Friends of Jim Clyburn</payeeName>
+      <recipientName>James Clyburn</recipientName>
+      <amount>1500.00</amount>
+      <date>09/04/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>Suozzi for Congress</payeeName>
+      <recipientName>Tom  Suozzi</recipientName>
+      <amount>2500.00</amount>
+      <date>09/04/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>Cory Gardner for Senate</payeeName>
+      <recipientName>Cory Gardner</recipientName>
+      <amount>3000.00</amount>
+      <date>09/04/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>Mike Kelly for Congress</payeeName>
+      <recipientName>George J. (Mike) Kelly</recipientName>
+      <amount>1500.00</amount>
+      <date>09/04/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>Clay Jr. for Congress</payeeName>
+      <recipientName>William Clay Jr.</recipientName>
+      <amount>1000.00</amount>
+      <date>09/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>Ann Wagner for Congress</payeeName>
+      <recipientName>Ann Wagner</recipientName>
+      <amount>2500.00</amount>
+      <date>09/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>Madison PAC</payeeName>
+      <recipientName>Richard Neal</recipientName>
+      <amount>5000.00</amount>
+      <date>09/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>Pascrell for Congress</payeeName>
+      <recipientName>William Pascrell</recipientName>
+      <amount>1000.00</amount>
+      <date>09/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>Dutch Ruppersberger for Congress</payeeName>
+      <recipientName>Dutch Ruppersberger</recipientName>
+      <amount>1500.00</amount>
+      <date>09/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>Perdue for Senate</payeeName>
+      <recipientName>David Perdue</recipientName>
+      <amount>2500.00</amount>
+      <date>09/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>Mooney for Congress</payeeName>
+      <recipientName>Alexander Mooney</recipientName>
+      <amount>2500.00</amount>
+      <date>09/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>LaHood for Congress</payeeName>
+      <recipientName>Darin LaHood</recipientName>
+      <amount>1500.00</amount>
+      <date>09/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>Sylvia Garcia for Congress</payeeName>
+      <recipientName>Sylvia Garcia</recipientName>
+      <amount>2500.00</amount>
+      <date>09/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>Jason Smith for Congress</payeeName>
+      <recipientName>Jason Smith</recipientName>
+      <amount>1500.00</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>Terri Sewell for Congress</payeeName>
+      <recipientName>Terri Sewell</recipientName>
+      <amount>1000.00</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>Alma Adams for Congress</payeeName>
+      <recipientName>Alma Shealey Adams</recipientName>
+      <amount>1000.00</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>Peters for Michigan</payeeName>
+      <recipientName>Gary Peters</recipientName>
+      <amount>5000.00</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>Scott Peters for Congress</payeeName>
+      <recipientName>Scott Peters</recipientName>
+      <amount>2000.00</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>Tom Reed For Congress</payeeName>
+      <recipientName>Tom Reed</recipientName>
+      <amount>1000.00</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>Lisa Blunt Rochester for Congress</payeeName>
+      <recipientName>Lisa Blunt Rochester</recipientName>
+      <amount>2000.00</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>Devin Nunes Campaign Committee</payeeName>
+      <recipientName>Devin Nunes</recipientName>
+      <amount>2500.00</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>Moore for Congress</payeeName>
+      <recipientName>Gwendolynne Moore</recipientName>
+      <amount>2500.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>Wexton For Congress</payeeName>
+      <recipientName>Jennifer Wexton</recipientName>
+      <amount>1000.00</amount>
+      <date>10/02/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>Kustoff for Congress</payeeName>
+      <recipientName>David Kustoff</recipientName>
+      <amount>2500.00</amount>
+      <date>10/02/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>Texans for Jodey Arrington</payeeName>
+      <recipientName>Jodey Arrington</recipientName>
+      <amount>1500.00</amount>
+      <date>10/02/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>Denver Riggleman for Congress</payeeName>
+      <recipientName>Denver Riggleman</recipientName>
+      <amount>2500.00</amount>
+      <date>10/02/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>Huizenga for Congress</payeeName>
+      <recipientName>Bill Huizenga</recipientName>
+      <amount>1500.00</amount>
+      <date>10/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>Adrian Smith for Congress</payeeName>
+      <recipientName>Adrian Smith</recipientName>
+      <amount>1000.00</amount>
+      <date>10/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>Wasserman-Schultz for Congress</payeeName>
+      <recipientName>Debbie Wasserman-Schultz</recipientName>
+      <amount>1000.00</amount>
+      <date>10/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>Ted Budd for Congress</payeeName>
+      <recipientName>Theodore (Ted) P. Budd</recipientName>
+      <amount>2000.00</amount>
+      <date>10/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>Quigley for Congress</payeeName>
+      <recipientName>Mike Quigley</recipientName>
+      <amount>1000.00</amount>
+      <date>10/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>Mike Thompson for Congress</payeeName>
+      <recipientName>Mike Thompson</recipientName>
+      <amount>2000.00</amount>
+      <date>10/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>Huizenga for Congress</payeeName>
+      <recipientName>Bill Huizenga</recipientName>
+      <amount>500.00</amount>
+      <date>10/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>William Timmons for US House</payeeName>
+      <recipientName>William Timmons</recipientName>
+      <amount>3000.00</amount>
+      <date>10/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>Kinzinger for Congress</payeeName>
+      <recipientName>Adam Kinzinger</recipientName>
+      <amount>1000.00</amount>
+      <date>10/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>French Hill for Arkansas</payeeName>
+      <recipientName>French Hill</recipientName>
+      <amount>2000.00</amount>
+      <date>10/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>Dutch Ruppersberger for Congress</payeeName>
+      <recipientName>Dutch Ruppersberger</recipientName>
+      <amount>1000.00</amount>
+      <date>11/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>Friends of Mark Warner</payeeName>
+      <recipientName>Mark Warner</recipientName>
+      <amount>2500.00</amount>
+      <date>11/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>Beatty for Congress</payeeName>
+      <recipientName>Joyce Beatty</recipientName>
+      <amount>500.00</amount>
+      <date>11/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>Sylvia Garcia for Congress</payeeName>
+      <recipientName>Sylvia Garcia</recipientName>
+      <amount>1000.00</amount>
+      <date>11/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>Richard E Neal for Congress Committee</payeeName>
+      <recipientName>Richard Neal</recipientName>
+      <amount>1000.00</amount>
+      <date>11/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>Brenda Lawrence for Congress</payeeName>
+      <recipientName>Brenda Lawrence</recipientName>
+      <amount>1000.00</amount>
+      <date>11/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>Denver Riggleman for Congress</payeeName>
+      <recipientName>Denver Riggleman</recipientName>
+      <amount>2000.00</amount>
+      <date>11/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>Collins for Senator</payeeName>
+      <recipientName>Susan Collins</recipientName>
+      <amount>2500.00</amount>
+      <date>11/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>Beatty for Congress</payeeName>
+      <recipientName>Joyce Beatty</recipientName>
+      <amount>500.00</amount>
+      <date>11/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>Reed Committee</payeeName>
+      <recipientName>Jack Reed</recipientName>
+      <amount>2500.00</amount>
+      <date>11/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>Capito for West Virginia</payeeName>
+      <recipientName>Shelley Moore Capito</recipientName>
+      <amount>5000.00</amount>
+      <date>11/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>Equality PAC</payeeName>
+      <recipientName>Equality PAC</recipientName>
+      <amount>5000.00</amount>
+      <date>11/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>Bill Foster for Congress Committee</payeeName>
+      <recipientName>Bill Foster</recipientName>
+      <amount>2500.00</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>Brady for Congress</payeeName>
+      <recipientName>Kevin Brady</recipientName>
+      <amount>2500.00</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>Team Hagerty</payeeName>
+      <recipientName>Bill Hagerty</recipientName>
+      <amount>2500.00</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>Ann Wagner for Congress</payeeName>
+      <recipientName>Ann Wagner</recipientName>
+      <amount>2000.00</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>Davidson for Congress</payeeName>
+      <recipientName>Warren Davidson</recipientName>
+      <amount>2000.00</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>Brian Higgins For Congress</payeeName>
+      <recipientName>Brian Higgins</recipientName>
+      <amount>1000.00</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>Drew Ferguson for Congress</payeeName>
+      <recipientName>Drew Ferguson</recipientName>
+      <amount>1500.00</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>Schneider for Congress</payeeName>
+      <recipientName>Brad Schneider</recipientName>
+      <amount>2500.00</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>Sylvia Garcia for Congress</payeeName>
+      <recipientName>Sylvia Garcia</recipientName>
+      <amount>1000.00</amount>
+      <date>12/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>Walorski for Congress</payeeName>
+      <recipientName>Jackie Walorski</recipientName>
+      <amount>1500.00</amount>
+      <date>12/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>Stephanie Murphy for Congress</payeeName>
+      <recipientName>Stephanie Murphy</recipientName>
+      <amount>1000.00</amount>
+      <date>12/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>Denver Riggleman for Congress</payeeName>
+      <recipientName>Denver Riggleman</recipientName>
+      <amount>2500.00</amount>
+      <date>12/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>Loudermilk for Congress</payeeName>
+      <recipientName>Barry Loudermilk</recipientName>
+      <amount>2000.00</amount>
+      <date>12/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>Huizenga for Congress</payeeName>
+      <recipientName>Bill Huizenga</recipientName>
+      <amount>1500.00</amount>
+      <date>12/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>Collins for Senator</payeeName>
+      <recipientName>Susan Collins</recipientName>
+      <amount>500.00</amount>
+      <date>12/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>BLAINE PAC-Bldg Ldrship&amp;Inspiring New Enterprise</payeeName>
+      <recipientName>Blaine Luetkemeyer</recipientName>
+      <amount>5000.00</amount>
+      <date>12/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>Friends of Mark Warner</payeeName>
+      <recipientName>Mark Warner</recipientName>
+      <amount>1000.00</amount>
+      <date>12/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>Texans for Jodey Arrington</payeeName>
+      <recipientName>Jodey Arrington</recipientName>
+      <amount>1000.00</amount>
+      <date>12/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>Andy Barr for Congress Inc.</payeeName>
+      <recipientName>Andy Barr</recipientName>
+      <amount>1000.00</amount>
+      <date>12/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>Collins for Senator</payeeName>
+      <recipientName>Susan Collins</recipientName>
+      <amount>2000.00</amount>
+      <date>12/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>Bridge PAC</payeeName>
+      <recipientName>James Clyburn</recipientName>
+      <amount>5000.00</amount>
+      <date>12/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>Stand With Sanchez</payeeName>
+      <recipientName>Linda Sanchez</recipientName>
+      <amount>1000.00</amount>
+      <date>12/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>Jobs and Innovation Matter PAC (JIM PAC)</payeeName>
+      <recipientName>Jim Himes</recipientName>
+      <amount>2500.00</amount>
+      <date>12/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>Steil for Wisconsin</payeeName>
+      <recipientName>Bryan Steil</recipientName>
+      <amount>2000.00</amount>
+      <date>12/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>Kustoff for Congress</payeeName>
+      <recipientName>David Kustoff</recipientName>
+      <amount>2500.00</amount>
+      <date>12/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>Majority Committee PAC--MC PAC</payeeName>
+      <recipientName>Kevin McCarthy</recipientName>
+      <amount>5000.00</amount>
+      <date>12/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>Wexton For Congress</payeeName>
+      <recipientName>Jennifer Wexton</recipientName>
+      <amount>1000.00</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>First State PAC</payeeName>
+      <recipientName>Tom Carper</recipientName>
+      <amount>5000.00</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>Goldfinch PAC</payeeName>
+      <recipientName>Charles Grassley</recipientName>
+      <amount>2000.00</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>Roger Williams for US Congress Committee</payeeName>
+      <recipientName>Roger Williams</recipientName>
+      <amount>1000.00</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>Wexton For Congress</payeeName>
+      <recipientName>Jennifer Wexton</recipientName>
+      <amount>1000.00</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>New PAC</payeeName>
+      <recipientName>Devin Nunes</recipientName>
+      <amount>5000.00</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Bank of America Corporation Federal PAC</contributorName>
+      <payeeName>McSally for Senate Inc.</payeeName>
+      <recipientName>Martha McSally</recipientName>
+      <amount>1500.00</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>Honorary Expenses</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Congressional Black Caucus Foundation-Awards  Dinner</payeeName>
+      <recipientName>Members of the Congressional Black Caucus</recipientName>
+      <amount>10000.00</amount>
+      <date>10/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>Honorary Expenses</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Congressional Hispanic Caucus </payeeName>
+      <recipientName>Members of the Congressional Hispanic Caucus</recipientName>
+      <amount>100000.00</amount>
+      <date>11/14/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

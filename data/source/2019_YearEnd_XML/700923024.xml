@@ -1,0 +1,1766 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>New York Life Insurance Company</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <zipext>
+  </zipext>
+  <contactName>Julie E. Herwig</contactName>
+  <senateRegID>29174</senateRegID>
+  <houseRegID>31217</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/29/2020 11:31:55 AM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>New York Life Insurance Company PAC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>4 MA PAC</payeeName>
+      <recipientName>Kennedy, Joseph</recipientName>
+      <amount>1000</amount>
+      <date>9/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Abraham Lincoln PAC</payeeName>
+      <recipientName>LaHood, Darin</recipientName>
+      <amount>2500</amount>
+      <date>9/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Abraham Lincoln PAC</payeeName>
+      <recipientName>LaHood, Darin</recipientName>
+      <amount>2500</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Across the Aisle PAC</payeeName>
+      <recipientName>Across the Aisle PAC</recipientName>
+      <amount>2500</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Adrian Smith For Congress</payeeName>
+      <recipientName>Smith, Adrian</recipientName>
+      <amount>2500</amount>
+      <date>7/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Alaskans For Dan Sullivan</payeeName>
+      <recipientName>Sullivan, Daniel</recipientName>
+      <amount>2500</amount>
+      <date>11/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>All Hands Political Action Committee</payeeName>
+      <recipientName>Young, Todd</recipientName>
+      <amount>5000</amount>
+      <date>11/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Alma Adams For Congress</payeeName>
+      <recipientName>Adams, Alma</recipientName>
+      <amount>1000</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>ANN PAC</payeeName>
+      <recipientName>Wagner, Ann</recipientName>
+      <amount>5000</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Anthony Gonzalez For Congress</payeeName>
+      <recipientName>Gonzalez, Anthony</recipientName>
+      <amount>500</amount>
+      <date>7/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Arkansas for Leadership Political Action Committee (ARKPAC)</payeeName>
+      <recipientName>Boozman, John</recipientName>
+      <amount>5000</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Armstrong For Congress</payeeName>
+      <recipientName>Armstrong, Kelly</recipientName>
+      <amount>1000</amount>
+      <date>11/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>At The Table!</payeeName>
+      <recipientName>Meng, Grace</recipientName>
+      <amount>3000</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Balderson For Congress</payeeName>
+      <recipientName>Balderson, Troy</recipientName>
+      <amount>2000</amount>
+      <date>9/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Beatty For Congress</payeeName>
+      <recipientName>Beatty, Joyce</recipientName>
+      <amount>5000</amount>
+      <date>7/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Beatty For Congress</payeeName>
+      <recipientName>Beatty, Joyce</recipientName>
+      <amount>2500</amount>
+      <date>9/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Bera For Congress</payeeName>
+      <recipientName>Bera, Ami</recipientName>
+      <amount>2500</amount>
+      <date>11/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Big Sky Opportunity PAC</payeeName>
+      <recipientName>Daines, Steve</recipientName>
+      <amount>5000</amount>
+      <date>11/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Bill Foster For Congress</payeeName>
+      <recipientName>Foster, Bill</recipientName>
+      <amount>1000</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Billy Long For Congress</payeeName>
+      <recipientName>Long, Billy</recipientName>
+      <amount>1000</amount>
+      <date>9/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Brady For Congress</payeeName>
+      <recipientName>Brady, Kevin</recipientName>
+      <amount>2500</amount>
+      <date>11/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Brian Higgins For Congress</payeeName>
+      <recipientName>Higgins, Brian</recipientName>
+      <amount>2500</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Bridge The Gap PAC</payeeName>
+      <recipientName>Schneider, Bradley</recipientName>
+      <amount>2500</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Buddy Carter For Congress</payeeName>
+      <recipientName>Carter, Buddy</recipientName>
+      <amount>2000</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Build America PAC</payeeName>
+      <recipientName>Meeks, Gregory</recipientName>
+      <amount>5000</amount>
+      <date>7/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Building America's Republican Representation PAC</payeeName>
+      <recipientName>Barr, Andy</recipientName>
+      <amount>5000</amount>
+      <date>7/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Building Relationships in Diverse Geographic Environments PAC (Bridge PAC)</payeeName>
+      <recipientName>Clyburn, James</recipientName>
+      <amount>5000</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Burchett For Congress</payeeName>
+      <recipientName>Burchett, Tim</recipientName>
+      <amount>1000</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Cartwright For Congress</payeeName>
+      <recipientName>Cartwright, Matt</recipientName>
+      <amount>5000</amount>
+      <date>7/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Casten For Congress</payeeName>
+      <recipientName>Casten, Sean</recipientName>
+      <amount>5000</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Cathy McMorris Rodgers For Congress</payeeName>
+      <recipientName>McMorris Rodgers, Cathy</recipientName>
+      <amount>2500</amount>
+      <date>11/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Chris Coons For Delaware</payeeName>
+      <recipientName>Coons, Chris</recipientName>
+      <amount>2000</amount>
+      <date>7/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Citizens For John Rutherford</payeeName>
+      <recipientName>Rutherford, John</recipientName>
+      <amount>2500</amount>
+      <date>9/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Citizens For Waters</payeeName>
+      <recipientName>Waters, Maxine</recipientName>
+      <amount>1500</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Clarke For Congress</payeeName>
+      <recipientName>Clarke, Yvette</recipientName>
+      <amount>5000</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Clarke For Congress</payeeName>
+      <recipientName>Clarke, Yvette</recipientName>
+      <amount>2000</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Cleaver For Congress</payeeName>
+      <recipientName>Cleaver, Emanuel</recipientName>
+      <amount>2500</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Collins For Senator</payeeName>
+      <recipientName>Collins, Susan</recipientName>
+      <amount>500</amount>
+      <date>9/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Collins For Senator</payeeName>
+      <recipientName>Collins, Susan</recipientName>
+      <amount>500</amount>
+      <date>9/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Collins For Senator</payeeName>
+      <recipientName>Collins, Susan</recipientName>
+      <amount>4500</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Common Good PAC</payeeName>
+      <recipientName>Suozzi, Thomas</recipientName>
+      <amount>2500</amount>
+      <date>9/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Common Ground PAC</payeeName>
+      <recipientName>Kaine, Tim</recipientName>
+      <amount>2500</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Concerned Americans for Freedom &amp; Opportunity PAC (CAFO PAC)</payeeName>
+      <recipientName>Smith, Adrian</recipientName>
+      <amount>2500</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Concerned Americans for Freedom &amp; Opportunity PAC (CAFO PAC)</payeeName>
+      <recipientName>Smith, Adrian</recipientName>
+      <amount>2500</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Dan Crenshaw For Congress</payeeName>
+      <recipientName>Crenshaw, Daniel</recipientName>
+      <amount>1500</amount>
+      <date>9/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Dan Crenshaw For Congress</payeeName>
+      <recipientName>Crenshaw, Daniel</recipientName>
+      <amount>2500</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Darren Soto For Congress</payeeName>
+      <recipientName>Soto, Darren</recipientName>
+      <amount>5000</amount>
+      <date>7/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Defense, Economic Renewal, Education &amp; Knowledge PAC</payeeName>
+      <recipientName>Kilmer, Derek</recipientName>
+      <amount>2500</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Democrats Reshaping America (DREAMPAC)</payeeName>
+      <recipientName>Sanchez, Linda</recipientName>
+      <amount>2500</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Democrats Reshaping America (DREAMPAC)</payeeName>
+      <recipientName>Sanchez, Linda</recipientName>
+      <amount>2500</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Developing A New Generation (DANG PAC)</payeeName>
+      <recipientName>Murphy, Stephanie</recipientName>
+      <amount>5000</amount>
+      <date>11/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Devin Nunes Campaign Committee</payeeName>
+      <recipientName>Nunes, Devin</recipientName>
+      <amount>1500</amount>
+      <date>7/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Donald Norcross For Congress</payeeName>
+      <recipientName>Norcross, Donald</recipientName>
+      <amount>1000</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Drew Ferguson For Congress Inc.</payeeName>
+      <recipientName>Ferguson, A. Drew</recipientName>
+      <amount>2000</amount>
+      <date>7/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>EDPAC</payeeName>
+      <recipientName>Perlmutter, Edwin</recipientName>
+      <amount>2500</amount>
+      <date>11/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Electing Majority Making Effective Republicans</payeeName>
+      <recipientName>Emmer, Tom</recipientName>
+      <amount>5000</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Elise For Congress</payeeName>
+      <recipientName>Stefanik, Elise</recipientName>
+      <amount>5000</amount>
+      <date>7/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Emmer For Congress</payeeName>
+      <recipientName>Emmer, Tom</recipientName>
+      <amount>1000</amount>
+      <date>7/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>E-PAC</payeeName>
+      <recipientName>Stefanik, Elise</recipientName>
+      <amount>5000</amount>
+      <date>7/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Evergreen PAC</payeeName>
+      <recipientName>DelBene, Suzan</recipientName>
+      <amount>5000</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Excelsior PAC</payeeName>
+      <recipientName>Reed, Tom</recipientName>
+      <amount>1000</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Excelsior PAC</payeeName>
+      <recipientName>Reed, Tom</recipientName>
+      <amount>500</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Excelsior PAC</payeeName>
+      <recipientName>Reed, Tom</recipientName>
+      <amount>3500</amount>
+      <date>11/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Fair Shot PAC</payeeName>
+      <recipientName>Clark, Katherine</recipientName>
+      <amount>5000</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>First in Freedom PAC</payeeName>
+      <recipientName>Hudson, Richard</recipientName>
+      <amount>1500</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>First State PAC</payeeName>
+      <recipientName>Carper, Thomas</recipientName>
+      <amount>2500</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Forward Together PAC</payeeName>
+      <recipientName>Warner, Mark</recipientName>
+      <amount>5000</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Frederica S. Wilson For Congress</payeeName>
+      <recipientName>Wilson, Frederica</recipientName>
+      <amount>1500</amount>
+      <date>11/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>French Hill For Arkansas</payeeName>
+      <recipientName>Hill, French</recipientName>
+      <amount>3000</amount>
+      <date>12/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>French Hill For Arkansas</payeeName>
+      <recipientName>Hill, French</recipientName>
+      <amount>2000</amount>
+      <date>12/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>French Hill For Arkansas</payeeName>
+      <recipientName>Hill, French</recipientName>
+      <amount>3000</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Friends For Gregory Meeks</payeeName>
+      <recipientName>Meeks, Gregory</recipientName>
+      <amount>1500</amount>
+      <date>9/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Friends Of Ben McAdams</payeeName>
+      <recipientName>McAdams, Ben</recipientName>
+      <amount>5000</amount>
+      <date>9/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Friends Of Cheri Bustos</payeeName>
+      <recipientName>Bustos, Cheri</recipientName>
+      <amount>5000</amount>
+      <date>11/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Friends Of Dan Kildee</payeeName>
+      <recipientName>Kildee, Dan</recipientName>
+      <amount>1000</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Friends Of Denver Riggleman, Inc.</payeeName>
+      <recipientName>Riggleman, Denver</recipientName>
+      <amount>500</amount>
+      <date>7/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Friends Of Denver Riggleman, Inc.</payeeName>
+      <recipientName>Riggleman, Denver</recipientName>
+      <amount>2500</amount>
+      <date>7/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Friends Of Hagedorn</payeeName>
+      <recipientName>Hagedorn, James</recipientName>
+      <amount>5000</amount>
+      <date>9/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Friends Of Jahana Hayes</payeeName>
+      <recipientName>Hayes, Jahana</recipientName>
+      <amount>1000</amount>
+      <date>11/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Friends Of Jahana Hayes</payeeName>
+      <recipientName>Hayes, Jahana</recipientName>
+      <amount>4000</amount>
+      <date>11/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Friends Of Jim Clyburn</payeeName>
+      <recipientName>Clyburn, James</recipientName>
+      <amount>2500</amount>
+      <date>9/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Friends Of John Thune</payeeName>
+      <recipientName>Thune, John</recipientName>
+      <amount>1000</amount>
+      <date>9/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Friends Of John Thune</payeeName>
+      <recipientName>Thune, John</recipientName>
+      <amount>4000</amount>
+      <date>9/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Friends Of Mark Warner</payeeName>
+      <recipientName>Warner, Mark</recipientName>
+      <amount>1000</amount>
+      <date>9/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Friends Of Mark Warner</payeeName>
+      <recipientName>Warner, Mark</recipientName>
+      <amount>4000</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Gateway to Leadership PAC</payeeName>
+      <recipientName>Sherrill, Rebecca</recipientName>
+      <amount>5000</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>George Holding For Congress Inc.</payeeName>
+      <recipientName>Holding, George</recipientName>
+      <amount>1500</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>George Holding For Congress Inc.</payeeName>
+      <recipientName>Holding, George</recipientName>
+      <amount>500</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Georgians For Isakson</payeeName>
+      <recipientName>Isakson, Johnny</recipientName>
+      <amount>2000</amount>
+      <date>7/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Giving Willingly Empowering Nationally (GWEN) PAC</payeeName>
+      <recipientName>Moore, Gwendolynne</recipientName>
+      <amount>5000</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Graves For Congress</payeeName>
+      <recipientName>Graves, Samuel</recipientName>
+      <amount>2500</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Great Lakes PAC</payeeName>
+      <recipientName>Stabenow, Debbie</recipientName>
+      <amount>5000</amount>
+      <date>7/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Guthrie For Congress</payeeName>
+      <recipientName>Guthrie, Brett</recipientName>
+      <amount>1000</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Guy For Congress</payeeName>
+      <recipientName>Reschenthaler, Guy</recipientName>
+      <amount>2500</amount>
+      <date>9/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Haley Stevens For Congress</payeeName>
+      <recipientName>Stevens, Haley</recipientName>
+      <amount>1000</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Haley Stevens For Congress</payeeName>
+      <recipientName>Stevens, Haley</recipientName>
+      <amount>1500</amount>
+      <date>11/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Hudson For Congress</payeeName>
+      <recipientName>Hudson, Richard</recipientName>
+      <amount>2500</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Hudson For Congress</payeeName>
+      <recipientName>Hudson, Richard</recipientName>
+      <amount>2500</amount>
+      <date>11/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Hudson Valley PAC</payeeName>
+      <recipientName>Maloney, Sean</recipientName>
+      <amount>2500</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>I Got Your Back PAC</payeeName>
+      <recipientName>Blunt Rochester, Lisa</recipientName>
+      <amount>5000</amount>
+      <date>11/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>IMPACT</payeeName>
+      <recipientName>Schumer, Charles</recipientName>
+      <amount>5000</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>In The Arena PAC</payeeName>
+      <recipientName>Hill, French</recipientName>
+      <amount>5000</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Inland Empire Strikes PAC; The</payeeName>
+      <recipientName>Takano, Mark</recipientName>
+      <amount>5000</amount>
+      <date>9/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Investment Company Institute Political Action Committee</payeeName>
+      <recipientName>Investment Company Institute Political Action Committee</recipientName>
+      <amount>5000</amount>
+      <date>11/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Jason Smith For Congress</payeeName>
+      <recipientName>Smith, Jason</recipientName>
+      <amount>1000</amount>
+      <date>9/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Jersey Values PAC</payeeName>
+      <recipientName>Gottheimer, Joshua</recipientName>
+      <amount>5000</amount>
+      <date>11/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Jim Costa For Congress</payeeName>
+      <recipientName>Costa, Jim</recipientName>
+      <amount>1000</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Jimmy Gomez For Congress</payeeName>
+      <recipientName>Gomez, Jimmy</recipientName>
+      <amount>2500</amount>
+      <date>11/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Joe Morelle For Congress</payeeName>
+      <recipientName>Morelle, Joseph</recipientName>
+      <amount>2500</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>John Kennedy For Us</payeeName>
+      <recipientName>Kennedy, John</recipientName>
+      <amount>2500</amount>
+      <date>9/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>John Rose For Tennessee</payeeName>
+      <recipientName>Rose, John</recipientName>
+      <amount>500</amount>
+      <date>7/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>John Rose For Tennessee</payeeName>
+      <recipientName>Rose, John</recipientName>
+      <amount>2000</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>John Rose For Tennessee</payeeName>
+      <recipientName>Rose, John</recipientName>
+      <amount>2500</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Karen Bass For Congress</payeeName>
+      <recipientName>Bass, Karen</recipientName>
+      <amount>2000</amount>
+      <date>7/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Kathleen Rice For Congress</payeeName>
+      <recipientName>Rice, Kathleen</recipientName>
+      <amount>2500</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Katko For Congress</payeeName>
+      <recipientName>Katko, John</recipientName>
+      <amount>2000</amount>
+      <date>7/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Kay Granger Campaign Fund</payeeName>
+      <recipientName>Granger, Kay</recipientName>
+      <amount>2500</amount>
+      <date>7/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Keep America Rolling PAC</payeeName>
+      <recipientName>Kelly, Mike</recipientName>
+      <amount>2500</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Kind For Congress Committee</payeeName>
+      <recipientName>Kind, Ron</recipientName>
+      <amount>2500</amount>
+      <date>9/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Kirkpatrick For Arizona</payeeName>
+      <recipientName>Kirkpatrick, Ann</recipientName>
+      <amount>1000</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Kirkpatrick For Congress</payeeName>
+      <recipientName>Kirkpatrick, Ann</recipientName>
+      <amount>1000</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Kurt Schrader For Congress</payeeName>
+      <recipientName>Schrader, Kurt</recipientName>
+      <amount>1000</amount>
+      <date>9/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Kuster For Congress, Inc</payeeName>
+      <recipientName>Kuster, Ann</recipientName>
+      <amount>5000</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Kustoff For Congress</payeeName>
+      <recipientName>Kustoff, David</recipientName>
+      <amount>1500</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Lance Gooden For Congress Committee</payeeName>
+      <recipientName>Gooden, Lance</recipientName>
+      <amount>500</amount>
+      <date>7/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Larson For Congress</payeeName>
+      <recipientName>Larson, John</recipientName>
+      <amount>1500</amount>
+      <date>9/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Larson For Congress</payeeName>
+      <recipientName>Larson, John</recipientName>
+      <amount>2500</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Leadership and Accountability are National Keys PAC</payeeName>
+      <recipientName>Lankford, James</recipientName>
+      <amount>1000</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Leadership and Accountability are National Keys PAC</payeeName>
+      <recipientName>Lankford, James</recipientName>
+      <amount>2500</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Liz Cheney For Wyoming</payeeName>
+      <recipientName>Cheney, Elizabeth</recipientName>
+      <amount>3000</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Loudermilk For Congress</payeeName>
+      <recipientName>Loudermilk, Barry</recipientName>
+      <amount>1500</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Loudermilk For Congress</payeeName>
+      <recipientName>Loudermilk, Barry</recipientName>
+      <amount>1500</amount>
+      <date>11/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Mad 4 PA PAC</payeeName>
+      <recipientName>Dean, Madeleine</recipientName>
+      <amount>1500</amount>
+      <date>9/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Madison PAC; The</payeeName>
+      <recipientName>Neal, Richard</recipientName>
+      <amount>5000</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Majority Committee PAC - MC PAC</payeeName>
+      <recipientName>McCarthy, Kevin</recipientName>
+      <amount>5000</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Make It Work PAC</payeeName>
+      <recipientName>King, Angus</recipientName>
+      <amount>2500</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Making a Real Change - MARC PAC</payeeName>
+      <recipientName>Veasey, Marc</recipientName>
+      <amount>2500</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Making a Real Change - MARC PAC</payeeName>
+      <recipientName>Veasey, Marc</recipientName>
+      <amount>2500</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Mast For Congress</payeeName>
+      <recipientName>Mast, Brian</recipientName>
+      <amount>5000</amount>
+      <date>9/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>McHenry For Congress</payeeName>
+      <recipientName>McHenry, Patrick</recipientName>
+      <amount>2500</amount>
+      <date>7/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>McNerney For Congress</payeeName>
+      <recipientName>McNerney, Jerry</recipientName>
+      <amount>250</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>McSally For Senate Inc</payeeName>
+      <recipientName>McSally, Martha</recipientName>
+      <amount>1500</amount>
+      <date>9/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Mike Gallagher For Wisconsin</payeeName>
+      <recipientName>Gallagher, Michael</recipientName>
+      <amount>2500</amount>
+      <date>11/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Mike Johnson For Louisiana</payeeName>
+      <recipientName>Johnson, Mike</recipientName>
+      <amount>2500</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Mike Kelly For Congress</payeeName>
+      <recipientName>Kelly, Mike</recipientName>
+      <amount>500</amount>
+      <date>7/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Mike Kelly For Congress</payeeName>
+      <recipientName>Kelly, Mike</recipientName>
+      <amount>2000</amount>
+      <date>9/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Mike Thompson For Congress</payeeName>
+      <recipientName>Thompson, Mike</recipientName>
+      <amount>2500</amount>
+      <date>7/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Mikie Sherrill For Congress</payeeName>
+      <recipientName>Sherrill, Rebecca</recipientName>
+      <amount>2500</amount>
+      <date>9/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Moderate Democrats PAC</payeeName>
+      <recipientName>Tom Carper, Bob Casey, Martin Heinrich, Tim Kaine, Joe Manchin, Chris Murphy, Gary Peters, Jacky Rosen, Jon Tester, Mark Warner</recipientName>
+      <amount>5000.00</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Moran For Kansas</payeeName>
+      <recipientName>Moran, Jerry</recipientName>
+      <amount>5000</amount>
+      <date>11/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Mr. Southern Missourian In The House PAC</payeeName>
+      <recipientName>Smith, Jason</recipientName>
+      <amount>5000</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Nancy Pelosi For Congress</payeeName>
+      <recipientName>Pelosi, Nancy</recipientName>
+      <amount>2500</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>New PAC</payeeName>
+      <recipientName>Nunes, Devin</recipientName>
+      <amount>2500</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>PAC Unitatis</payeeName>
+      <recipientName>M Amodei, D Bacon, J Herrera Beutler, B Fitzpatrick, M Gallagher, A Gonzalez, B Johnson, D Johnson, D Joyce, J Katko, D Meuser, T Reed, P Stauber, L Smucker, G Thompson, F Upton, S Watkins</recipientName>
+      <amount>2500.00</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Pallone For Congress</payeeName>
+      <recipientName>Pallone, Frank</recipientName>
+      <amount>5000</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Pascrell For Congress</payeeName>
+      <recipientName>Pascrell, William</recipientName>
+      <amount>2500</amount>
+      <date>11/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Paul Tonko For Congress</payeeName>
+      <recipientName>Tonko, Paul</recipientName>
+      <amount>1000</amount>
+      <date>7/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>People For Patty Murray</payeeName>
+      <recipientName>Murray, Patty</recipientName>
+      <amount>1000</amount>
+      <date>9/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>People For Patty Murray</payeeName>
+      <recipientName>Murray, Patty</recipientName>
+      <amount>1500</amount>
+      <date>11/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Perdue For Senate</payeeName>
+      <recipientName>Perdue, David</recipientName>
+      <amount>2500</amount>
+      <date>9/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Peter Norbeck Leadership PAC, The</payeeName>
+      <recipientName>Rounds, Mike</recipientName>
+      <amount>2500</amount>
+      <date>9/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Project West Political Action Committee</payeeName>
+      <recipientName>Gardner, Cory</recipientName>
+      <amount>5000</amount>
+      <date>11/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>R Senate PAC</payeeName>
+      <recipientName>Cornyn, John</recipientName>
+      <amount>5000</amount>
+      <date>11/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Reed Committee; The</payeeName>
+      <recipientName>Reed, Jack</recipientName>
+      <amount>1000</amount>
+      <date>9/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Reed Committee; The</payeeName>
+      <recipientName>Reed, Jack</recipientName>
+      <amount>1500</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Republican Majority Fund</payeeName>
+      <recipientName>Cotton, Tom</recipientName>
+      <amount>5000</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Richmond For Congress</payeeName>
+      <recipientName>Richmond, Cedric</recipientName>
+      <amount>1000</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Ron Estes For Congress</payeeName>
+      <recipientName>Estes, Ron</recipientName>
+      <amount>2000</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Rosen For Nevada</payeeName>
+      <recipientName>Rosen, Jacklyn</recipientName>
+      <amount>1000</amount>
+      <date>9/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Salud Carbajal For Congress</payeeName>
+      <recipientName>Carbajal, Salud</recipientName>
+      <amount>1000</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Sanford Bishop For Congress</payeeName>
+      <recipientName>Bishop, Sanford</recipientName>
+      <amount>1000</amount>
+      <date>9/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Scott Peters For Congress</payeeName>
+      <recipientName>Peters, Scott</recipientName>
+      <amount>2500</amount>
+      <date>9/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Shaheen For Senate</payeeName>
+      <recipientName>Shaheen, Jeanne</recipientName>
+      <amount>2500</amount>
+      <date>9/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Smucker for Congress</payeeName>
+      <recipientName>Smucker, Lloyd</recipientName>
+      <amount>1000</amount>
+      <date>11/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Stand with Sanchez</payeeName>
+      <recipientName>Sanchez, Linda</recipientName>
+      <amount>4000</amount>
+      <date>7/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Steil For Wisconsin, Inc.</payeeName>
+      <recipientName>Steil, Bryan</recipientName>
+      <amount>500</amount>
+      <date>7/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Stephanie Murphy For Congress</payeeName>
+      <recipientName>Murphy, Stephanie</recipientName>
+      <amount>2500</amount>
+      <date>7/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Stephanie Murphy For Congress</payeeName>
+      <recipientName>Murphy, Stephanie</recipientName>
+      <amount>2500</amount>
+      <date>9/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Stivers For Congress</payeeName>
+      <recipientName>Stivers, Steve</recipientName>
+      <amount>2500</amount>
+      <date>7/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Suozzi For Congress</payeeName>
+      <recipientName>Suozzi, Thomas</recipientName>
+      <amount>2500</amount>
+      <date>9/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Susie Lee For Congress</payeeName>
+      <recipientName>Lee, Susie</recipientName>
+      <amount>3500</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Ted Budd For Congress</payeeName>
+      <recipientName>Budd, Theodore</recipientName>
+      <amount>2000</amount>
+      <date>9/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Ted Lieu For Congress</payeeName>
+      <recipientName>Lieu, Ted</recipientName>
+      <amount>5000</amount>
+      <date>7/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Terri Sewell For Congress</payeeName>
+      <recipientName>Sewell, Terri</recipientName>
+      <amount>1000</amount>
+      <date>9/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Terri Sewell For Congress</payeeName>
+      <recipientName>Sewell, Terri</recipientName>
+      <amount>1500</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Terri Sewell For Congress</payeeName>
+      <recipientName>Sewell, Terri</recipientName>
+      <amount>1000</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Texans For Henry Cuellar Congressional Campaign</payeeName>
+      <recipientName>Cuellar, Henry</recipientName>
+      <amount>2500</amount>
+      <date>7/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Texans For Jodey Arrington</payeeName>
+      <recipientName>Arrington, Jodey</recipientName>
+      <amount>2000</amount>
+      <date>9/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Thunderbolt PAC</payeeName>
+      <recipientName>McSally, Martha</recipientName>
+      <amount>2500</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Tim Scott For Senate</payeeName>
+      <recipientName>Scott, Tim</recipientName>
+      <amount>2000</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Tina Smith For Minnesota</payeeName>
+      <recipientName>Smith, Tina</recipientName>
+      <amount>1500</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Tom O'Halleran For Congress</payeeName>
+      <recipientName>O'Halleran, Tom</recipientName>
+      <amount>5000</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Tom Reed For Congress</payeeName>
+      <recipientName>Reed, Tom</recipientName>
+      <amount>2500</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Tom Rice For Congress</payeeName>
+      <recipientName>Rice, Tom</recipientName>
+      <amount>1500</amount>
+      <date>7/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Tom Rice For Congress</payeeName>
+      <recipientName>Rice, Tom</recipientName>
+      <amount>1000</amount>
+      <date>7/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Tony Cardenas For Congress</payeeName>
+      <recipientName>Cardenas, Tony</recipientName>
+      <amount>1000</amount>
+      <date>11/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Treasure State PAC</payeeName>
+      <recipientName>Tester, Jon</recipientName>
+      <amount>5000</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Trey For Congress</payeeName>
+      <recipientName>Hollingsworth, Trey</recipientName>
+      <amount>1500</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Val Demings For Congress</payeeName>
+      <recipientName>Demings, Val</recipientName>
+      <amount>1000</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Val Demings For Congress</payeeName>
+      <recipientName>Demings, Val</recipientName>
+      <amount>1500</amount>
+      <date>11/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Van Drew For Congress</payeeName>
+      <recipientName>Van Drew, Jeff</recipientName>
+      <amount>5000</amount>
+      <date>7/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Vargas For Congress</payeeName>
+      <recipientName>Vargas, Juan</recipientName>
+      <amount>2000</amount>
+      <date>11/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Vern Buchanan For Congress</payeeName>
+      <recipientName>Buchanan, Vern</recipientName>
+      <amount>2500</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Veronica Escobar For Congress</payeeName>
+      <recipientName>Escobar, Veronica</recipientName>
+      <amount>1000</amount>
+      <date>9/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Victory in November Election PAC (VINEPAC)</payeeName>
+      <recipientName>Thompson, Mike</recipientName>
+      <amount>2000</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Virginia Foxx For Congress</payeeName>
+      <recipientName>Foxx, Virginia</recipientName>
+      <amount>2500</amount>
+      <date>7/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Vote To Elect Republicans Now PAC (VERN PAC)</payeeName>
+      <recipientName>Buchanan, Vern</recipientName>
+      <amount>5000</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Walorski For Congress Inc</payeeName>
+      <recipientName>Walorski, Jackie</recipientName>
+      <amount>1500</amount>
+      <date>9/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Wexton For Congress</payeeName>
+      <recipientName>Wexton, Jennifer</recipientName>
+      <amount>5000</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Wild and Wonderful PAC</payeeName>
+      <recipientName>Capito, Shelley Moore</recipientName>
+      <amount>5000</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>William Timmons For Congress</payeeName>
+      <recipientName>Timmons, William</recipientName>
+      <amount>1500</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>William Timmons For Congress</payeeName>
+      <recipientName>Timmons, William</recipientName>
+      <amount>1000</amount>
+      <date>11/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>New York Life Insurance Company PAC</contributorName>
+      <payeeName>Wolf PACK</payeeName>
+      <recipientName>Cleaver, Emanuel</recipientName>
+      <amount>3000</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>Honorary Expenses</type>
+      <contributorName>Self</contributorName>
+      <payeeName>The Fund for American Studies</payeeName>
+      <recipientName>Tim Scott</recipientName>
+      <amount>5000.00</amount>
+      <date>07/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>Honorary Expenses</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Tax Foundation</payeeName>
+      <recipientName>Thomas A. Barthold </recipientName>
+      <amount>8000.00</amount>
+      <date>11/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>Honorary Expenses</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Congressional Black Caucus Foundation</payeeName>
+      <recipientName>Cedric Richmond</recipientName>
+      <amount>5000.00</amount>
+      <date>12/13/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

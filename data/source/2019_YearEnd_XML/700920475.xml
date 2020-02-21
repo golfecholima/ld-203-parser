@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>PUGET SOUND ENERGY</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>NINA ODELL</contactName>
+  <senateRegID>32497</senateRegID>
+  <houseRegID>31594</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>10/25/2019 contribution made in-kind to the campaign DelBene for Congress. </comments>
+  <signedDate>1/24/2020 6:16:44 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>Puget Sound Energy Inc. PAC for Good Government</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Puget Sound Energy Inc. PAC for Good Government</contributorName>
+      <payeeName>Adam Smith for Congress</payeeName>
+      <recipientName>Rep. Adam Smith</recipientName>
+      <amount>500.00</amount>
+      <date>7/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Puget Sound Energy Inc. PAC for Good Government</contributorName>
+      <payeeName>Adam Smith for Congress</payeeName>
+      <recipientName>Rep. Adam Smith</recipientName>
+      <amount>2000.00</amount>
+      <date>7/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Puget Sound Energy Inc. PAC for Good Government</contributorName>
+      <payeeName>DelBene for Congress</payeeName>
+      <recipientName>Rep. Suzan DelBene</recipientName>
+      <amount>2500.00</amount>
+      <date>07/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Puget Sound Energy Inc. PAC for Good Government</contributorName>
+      <payeeName>Heck for Congress</payeeName>
+      <recipientName>Rep. Denny Heck</recipientName>
+      <amount>2500.00</amount>
+      <date>07/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Puget Sound Energy Inc. PAC for Good Government</contributorName>
+      <payeeName>Citizens to Elect Rick Larsen</payeeName>
+      <recipientName>Rep. Rick Larsen</recipientName>
+      <amount>2500.00</amount>
+      <date>07/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Puget Sound Energy Inc. PAC for Good Government</contributorName>
+      <payeeName>People for Derek Kilmer</payeeName>
+      <recipientName>Rep. Derek Kilmer</recipientName>
+      <amount>2500.00</amount>
+      <date>07/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Puget Sound Energy Inc. PAC for Good Government</contributorName>
+      <payeeName>People for Patty Murray</payeeName>
+      <recipientName>Sen. Patty Murray</recipientName>
+      <amount>1500.00</amount>
+      <date>08/08/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Puget Sound Energy Inc. PAC for Good Government</contributorName>
+      <payeeName>Schatz for Senate</payeeName>
+      <recipientName>Sen. Brian Schatz</recipientName>
+      <amount>1000.00</amount>
+      <date>08/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Puget Sound Energy Inc. PAC for Good Government</contributorName>
+      <payeeName>Jaime for Congress</payeeName>
+      <recipientName>Rep. Jaime Herrera Beutler</recipientName>
+      <amount>1000.00</amount>
+      <date>9/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Puget Sound Energy Inc. PAC for Good Government</contributorName>
+      <payeeName>Citizens to Elect Rick Larsen</payeeName>
+      <recipientName>Rep. Rick Larsen</recipientName>
+      <amount>500.00</amount>
+      <date>9/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Puget Sound Energy Inc. PAC for Good Government</contributorName>
+      <payeeName>People for Patty Murray</payeeName>
+      <recipientName>Sen. Patty Murray</recipientName>
+      <amount>1000.00</amount>
+      <date>10/8/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Puget Sound Energy Inc. PAC for Good Government</contributorName>
+      <payeeName>Wild Ginger</payeeName>
+      <recipientName>DelBene for Congress</recipientName>
+      <amount>1073.60</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Puget Sound Energy Inc. PAC for Good Government</contributorName>
+      <payeeName>DelBene for Congress</payeeName>
+      <recipientName>Rep. Suzan DelBene</recipientName>
+      <amount>1426.40</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Puget Sound Energy Inc. PAC for Good Government</contributorName>
+      <payeeName>DelBene for Congress</payeeName>
+      <recipientName>Rep. Suzan DelBene</recipientName>
+      <amount>1573.60</amount>
+      <date>10/30/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

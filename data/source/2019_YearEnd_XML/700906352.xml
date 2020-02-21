@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>Mr. Mark Rey</organizationName>
+  <lobbyistPrefix>Mr.</lobbyistPrefix>
+  <lobbyistFirstName>Mark</lobbyistFirstName>
+  <lobbyistMiddleName>Edward</lobbyistMiddleName>
+  <lobbyistLastName>Rey</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>400454181</senateRegID>
+  <houseRegID>40789</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/15/2020 7:46:31 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Moolenaar for Congress</payeeName>
+      <recipientName>Moolenaar for Congress</recipientName>
+      <amount>500.00</amount>
+      <date>07/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Murkowski for Senate</payeeName>
+      <recipientName>Murkowski for Senate</recipientName>
+      <amount>1000.00</amount>
+      <date>07/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Herrera Beutler for Congress</payeeName>
+      <recipientName>Herrera Beutler for Congress</recipientName>
+      <amount>500.00</amount>
+      <date>09/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Guest for Congress</payeeName>
+      <recipientName>Guest for Congress</recipientName>
+      <amount>500.00</amount>
+      <date>10/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Simpson for Congress</payeeName>
+      <recipientName>Simpson for Congress</recipientName>
+      <amount>2500.00</amount>
+      <date>11/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Grothman for Congress</payeeName>
+      <recipientName>Grothman for Congress</recipientName>
+      <amount>500.00</amount>
+      <date>12/02/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Guest for Congress</payeeName>
+      <recipientName>Guest for Congress</recipientName>
+      <amount>500.00</amount>
+      <date>12/10/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

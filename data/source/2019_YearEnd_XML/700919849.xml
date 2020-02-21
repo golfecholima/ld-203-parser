@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>AECOM</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <zipext>
+  </zipext>
+  <contactName>Mitchell Delk</contactName>
+  <senateRegID>40009071</senateRegID>
+  <houseRegID>39787</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/23/2020 4:53:01 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>AECOM PAC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AECOM PAC</contributorName>
+      <payeeName>Alan Lowenthal for Congress</payeeName>
+      <recipientName>Congressman Alan Lowenthal</recipientName>
+      <amount>1000.00</amount>
+      <date>07/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AECOM PAC</contributorName>
+      <payeeName>Bill Cassidy for US Senate</payeeName>
+      <recipientName>U.S. Senator William Cassidy</recipientName>
+      <amount>1000.00</amount>
+      <date>07/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AECOM PAC</contributorName>
+      <payeeName>Brian Fitzpatrick for Congress</payeeName>
+      <recipientName>Congressman Brian Fitzpatrick</recipientName>
+      <amount>1000.00</amount>
+      <date>07/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AECOM PAC</contributorName>
+      <payeeName>Martin Heinrich for Senate</payeeName>
+      <recipientName>US Senator Martin Heinrich</recipientName>
+      <amount>2500.00</amount>
+      <date>07/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AECOM PAC</contributorName>
+      <payeeName>Palazzo for Congress</payeeName>
+      <recipientName>Congressman Steven Palazzo</recipientName>
+      <amount>1000.00</amount>
+      <date>07/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AECOM PAC</contributorName>
+      <payeeName>Pete Aguilar for Congress</payeeName>
+      <recipientName>Congressman Pete Aguilar</recipientName>
+      <amount>2500.00</amount>
+      <date>07/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AECOM PAC</contributorName>
+      <payeeName>Armstrong for Congress</payeeName>
+      <recipientName>Congressman Kelly Armstrong</recipientName>
+      <amount>1000.00</amount>
+      <date>07/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AECOM PAC</contributorName>
+      <payeeName>Crapo Victory Committee</payeeName>
+      <recipientName>US Senator Mike Crapo</recipientName>
+      <amount>5000.00</amount>
+      <date>07/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AECOM PAC</contributorName>
+      <payeeName>Graves for Congress</payeeName>
+      <recipientName>Congressman Sam Graves</recipientName>
+      <amount>1000.00</amount>
+      <date>07/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AECOM PAC</contributorName>
+      <payeeName>Jimmy Gomez for Congress</payeeName>
+      <recipientName>Congressman Jimmy Gomez</recipientName>
+      <amount>1000.00</amount>
+      <date>07/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AECOM PAC</contributorName>
+      <payeeName>Jobs, Education &amp; Families First - JEFF PAC</payeeName>
+      <recipientName>Congressman Hakeem Jeffries</recipientName>
+      <amount>4000.00</amount>
+      <date>07/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AECOM PAC</contributorName>
+      <payeeName>Texans for Henry Cuellar for Congress</payeeName>
+      <recipientName>Congressman Henry Cuellar</recipientName>
+      <amount>1000.00</amount>
+      <date>07/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AECOM PAC</contributorName>
+      <payeeName>Adrian Smith for Congress</payeeName>
+      <recipientName>Congressman Adrian Smith</recipientName>
+      <amount>1000.00</amount>
+      <date>07/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AECOM PAC</contributorName>
+      <payeeName>Burchett for Congress</payeeName>
+      <recipientName>Congressman Tim Burchett</recipientName>
+      <amount>1000.00</amount>
+      <date>07/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AECOM PAC</contributorName>
+      <payeeName>Friends of Cheri Bustos</payeeName>
+      <recipientName>Congresswoman Cheri Bustos</recipientName>
+      <amount>1000.00</amount>
+      <date>07/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AECOM PAC</contributorName>
+      <payeeName>Napolitano for Congress</payeeName>
+      <recipientName>Congresswoman Grace Napolitano</recipientName>
+      <amount>1000.00</amount>
+      <date>7/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AECOM PAC</contributorName>
+      <payeeName>People for Patty Murray</payeeName>
+      <recipientName>US Senator Patty Murray</recipientName>
+      <amount>2500.00</amount>
+      <date>7/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AECOM PAC</contributorName>
+      <payeeName>Virgin Islands for Plaskett</payeeName>
+      <recipientName>Congresswoman Stacey Plaskett</recipientName>
+      <amount>1500.00</amount>
+      <date>7/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AECOM PAC</contributorName>
+      <payeeName>Jim Risch for US Senate Committee</payeeName>
+      <recipientName>US Senator Jim Risch</recipientName>
+      <amount>2500.00</amount>
+      <date>08/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AECOM PAC</contributorName>
+      <payeeName>People for Derek Kilmer</payeeName>
+      <recipientName>Congressman Derek Kilmer</recipientName>
+      <amount>1000.00</amount>
+      <date>8/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AECOM PAC</contributorName>
+      <payeeName>Texans for Senator John Cornyn Inc</payeeName>
+      <recipientName>Senator John Cornyn</recipientName>
+      <amount>1000.00</amount>
+      <date>8/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AECOM PAC</contributorName>
+      <payeeName>Mario Diaz-Balart for Congress</payeeName>
+      <recipientName>Congressman Mario Diaz-Balart</recipientName>
+      <amount>2500.00</amount>
+      <date>08/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AECOM PAC</contributorName>
+      <payeeName>Anthony Brown for Congress</payeeName>
+      <recipientName>Congressman Anthony Brown</recipientName>
+      <amount>1000.00</amount>
+      <date>08/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AECOM PAC</contributorName>
+      <payeeName>Buddy Carter for Congress</payeeName>
+      <recipientName>Congressman Buddy Carter</recipientName>
+      <amount>2500.00</amount>
+      <date>08/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AECOM PAC</contributorName>
+      <payeeName>Castor for Congress</payeeName>
+      <recipientName>Congresswoman Kathy Castor</recipientName>
+      <amount>1000.00</amount>
+      <date>08/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AECOM PAC</contributorName>
+      <payeeName>Chuck Fleischmann for Congress</payeeName>
+      <recipientName>Congressman Chuck Fleischmann</recipientName>
+      <amount>1000.00</amount>
+      <date>08/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AECOM PAC</contributorName>
+      <payeeName>Friends of Mark Warner</payeeName>
+      <recipientName>US Senator Mark Warner</recipientName>
+      <amount>2500.00</amount>
+      <date>08/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AECOM PAC</contributorName>
+      <payeeName>Jimmy Gomez for Congress</payeeName>
+      <recipientName>Congressman Jimmy Gomez</recipientName>
+      <amount>1000.00</amount>
+      <date>08/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AECOM PAC</contributorName>
+      <payeeName>Perdue for Senate</payeeName>
+      <recipientName>US Senator David Perdue</recipientName>
+      <amount>2500.00</amount>
+      <date>08/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AECOM PAC</contributorName>
+      <payeeName>Weber for Congress</payeeName>
+      <recipientName>Congressman Randy Weber</recipientName>
+      <amount>1000.00</amount>
+      <date>08/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AECOM PAC</contributorName>
+      <payeeName>Friends of Cheri Bustos</payeeName>
+      <recipientName>Congresswoman Cheri Bustos</recipientName>
+      <amount>1000.00</amount>
+      <date>09/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AECOM PAC</contributorName>
+      <payeeName>People for Derek Kilmer</payeeName>
+      <recipientName>Congressman Derek Kilmer</recipientName>
+      <amount>1000.00</amount>
+      <date>09/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AECOM PAC</contributorName>
+      <payeeName>Scalise Leadership Fund</payeeName>
+      <recipientName>Congressman Steve Scalise</recipientName>
+      <amount>5000.00</amount>
+      <date>09/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AECOM PAC</contributorName>
+      <payeeName>Charlie Crist for Congress</payeeName>
+      <recipientName>Congressman Charlie Crist</recipientName>
+      <amount>1000.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AECOM PAC</contributorName>
+      <payeeName>Friends of Dave Joyce</payeeName>
+      <recipientName>Congressman David P Joyce</recipientName>
+      <amount>2000.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AECOM PAC</contributorName>
+      <payeeName>Friends of Jim Clyburn</payeeName>
+      <recipientName>Congressman James E. Clyburn</recipientName>
+      <amount>1000.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AECOM PAC</contributorName>
+      <payeeName>Joe Wilson for Congress</payeeName>
+      <recipientName>Congressman Joe Wilson</recipientName>
+      <amount>1000.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AECOM PAC</contributorName>
+      <payeeName>Mast for Congress</payeeName>
+      <recipientName>Congressman Brian Mast</recipientName>
+      <amount>1000.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AECOM PAC</contributorName>
+      <payeeName>McConnell Senate Committee</payeeName>
+      <recipientName>U.S. Senator Mitch McConnell</recipientName>
+      <amount>2500.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AECOM PAC</contributorName>
+      <payeeName>Scott Peters for Congress</payeeName>
+      <recipientName>Congressman Scott Peters</recipientName>
+      <amount>2500.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AECOM PAC</contributorName>
+      <payeeName>Thom Tillis Committee</payeeName>
+      <recipientName>U.S. Senator Thom Tillis</recipientName>
+      <amount>1000.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AECOM PAC</contributorName>
+      <payeeName>Visclosky for Congress</payeeName>
+      <recipientName>Congressman Peter J. Visclosky </recipientName>
+      <amount>1000.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AECOM PAC</contributorName>
+      <payeeName>Perdue for Senate</payeeName>
+      <recipientName>U.S. Senator David Perdue</recipientName>
+      <amount>2000.00</amount>
+      <date>10/03/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AECOM PAC</contributorName>
+      <payeeName>Brenda Lawrence for Congress</payeeName>
+      <recipientName>Congresswoman Brenda Lawrence </recipientName>
+      <amount>1000.00</amount>
+      <date>10/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AECOM PAC</contributorName>
+      <payeeName>Debbie Dingell for Congress</payeeName>
+      <recipientName>Congresswoman Debbie Dingell</recipientName>
+      <amount>1000.00</amount>
+      <date>10/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AECOM PAC</contributorName>
+      <payeeName>Simpson for Congress</payeeName>
+      <recipientName>Congressman Michael Simpson </recipientName>
+      <amount>1000.00</amount>
+      <date>10/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AECOM PAC</contributorName>
+      <payeeName>Burchett for Congress</payeeName>
+      <recipientName>Congressman Tim Burchett</recipientName>
+      <amount>1000.00</amount>
+      <date>10/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AECOM PAC</contributorName>
+      <payeeName>Citizens to Elect Rick Larsen </payeeName>
+      <recipientName>Congressman Rick Larsen</recipientName>
+      <amount>2000.00</amount>
+      <date>10/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AECOM PAC</contributorName>
+      <payeeName>Friends of Cheri Bustos</payeeName>
+      <recipientName>Congresswoman Cheri Bustos </recipientName>
+      <amount>1000.00</amount>
+      <date>10/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AECOM PAC</contributorName>
+      <payeeName>Garamendi for Congress</payeeName>
+      <recipientName>Congressman John Garamendi </recipientName>
+      <amount>1000.00</amount>
+      <date>10/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AECOM PAC</contributorName>
+      <payeeName>Garret Graves for Congress</payeeName>
+      <recipientName>Congressman Garret Graves</recipientName>
+      <amount>1000.00</amount>
+      <date>10/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AECOM PAC</contributorName>
+      <payeeName>John Kennedy for US</payeeName>
+      <recipientName>U.S. Senator John Neely Kennedy</recipientName>
+      <amount>1000.00</amount>
+      <date>10/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AECOM PAC</contributorName>
+      <payeeName>Ken Calvert for Congress</payeeName>
+      <recipientName>Congressman Kenneth Calvert </recipientName>
+      <amount>2500.00</amount>
+      <date>10/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AECOM PAC</contributorName>
+      <payeeName>People for Derek Kilmer</payeeName>
+      <recipientName>Congressman Derek Kilmer </recipientName>
+      <amount>1000.00</amount>
+      <date>10/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AECOM PAC</contributorName>
+      <payeeName>Visclosky for Congress</payeeName>
+      <recipientName>Congressman Peter J. Visclosky </recipientName>
+      <amount>500.00</amount>
+      <date>10/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AECOM PAC</contributorName>
+      <payeeName>Friends of Dick Durbin Committee</payeeName>
+      <recipientName>U.S. Senator Richard Durbin </recipientName>
+      <amount>1000.00</amount>
+      <date>11/08/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AECOM PAC</contributorName>
+      <payeeName>Blumenauer for Congress</payeeName>
+      <recipientName>Congressman Earl Blumenauer </recipientName>
+      <amount>2500.00</amount>
+      <date>11/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AECOM PAC</contributorName>
+      <payeeName>Friends of Mark Warner</payeeName>
+      <recipientName>U.S. Senator Mark Robert Warner</recipientName>
+      <amount>1500.00</amount>
+      <date>11/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AECOM PAC</contributorName>
+      <payeeName>Friends of Mark Warner</payeeName>
+      <recipientName>U.S. Senator Mark Robert Warner </recipientName>
+      <amount>1000.00</amount>
+      <date>11/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AECOM PAC</contributorName>
+      <payeeName>Lucille Roybal-Allard for Congress</payeeName>
+      <recipientName>Congresswoman Lucille Roybal-Allard </recipientName>
+      <amount>1000.00</amount>
+      <date>11/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AECOM PAC</contributorName>
+      <payeeName>Westerman for Congress</payeeName>
+      <recipientName>Congressman Bruce Westerman </recipientName>
+      <amount>2500.00</amount>
+      <date>11/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AECOM PAC</contributorName>
+      <payeeName>Alan Lowenthal for Congress</payeeName>
+      <recipientName>Congressman Alan Lowenthal </recipientName>
+      <amount>1000.00</amount>
+      <date>12/03/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AECOM PAC</contributorName>
+      <payeeName>Cathy McMorris Rodgers for Congress</payeeName>
+      <recipientName>Congresswoman Cathy McMorris Rodgers </recipientName>
+      <amount>1000.00</amount>
+      <date>12/03/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AECOM PAC</contributorName>
+      <payeeName>Napolitano for Congress</payeeName>
+      <recipientName>Congresswoman Grace Napolitano</recipientName>
+      <amount>1000.00</amount>
+      <date>12/03/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AECOM PAC</contributorName>
+      <payeeName>Price for Congress</payeeName>
+      <recipientName>Congressman David E. Price </recipientName>
+      <amount>1000.00</amount>
+      <date>12/03/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AECOM PAC</contributorName>
+      <payeeName>Bluegrass Committee</payeeName>
+      <recipientName>U.S. Senator Mitch McConnell </recipientName>
+      <amount>5000.00</amount>
+      <date>12/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AECOM PAC</contributorName>
+      <payeeName>Friends for Gregory Meeks</payeeName>
+      <recipientName>Congressman Gregory Meeks </recipientName>
+      <amount>1000.00</amount>
+      <date>12/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AECOM PAC</contributorName>
+      <payeeName>Friends of Mike Lee Inc.</payeeName>
+      <recipientName>U.S. Senator Mike Lee</recipientName>
+      <amount>1000.00</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AECOM PAC</contributorName>
+      <payeeName>Jeff Duncan for Congress</payeeName>
+      <recipientName>Congressman Jeffrey D. Duncan </recipientName>
+      <amount>1500.00</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AECOM PAC</contributorName>
+      <payeeName>Jim Risch for US Senate Committee</payeeName>
+      <recipientName>U.S. Senator Jim Risch </recipientName>
+      <amount>1000.00</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AECOM PAC</contributorName>
+      <payeeName>Kay Granger Campaign Fund</payeeName>
+      <recipientName>Congresswoman Kay Granger</recipientName>
+      <amount>2500.00</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AECOM PAC</contributorName>
+      <payeeName>Collins for Senator</payeeName>
+      <recipientName>U.S. Senator Susan Collins </recipientName>
+      <amount>1000.00</amount>
+      <date>07/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AECOM PAC</contributorName>
+      <payeeName>Sean Patrick Maloney for Congress</payeeName>
+      <recipientName>Congressman Sean Patrick Maloney </recipientName>
+      <amount>1000.00</amount>
+      <date>09/10/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

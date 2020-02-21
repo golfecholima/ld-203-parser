@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>Card &amp; Associates, LLC</organizationName>
+  <lobbyistPrefix>Mr.</lobbyistPrefix>
+  <lobbyistFirstName>A</lobbyistFirstName>
+  <lobbyistMiddleName>Bradford</lobbyistMiddleName>
+  <lobbyistLastName>Card</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>84217</senateRegID>
+  <houseRegID>36446</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/29/2020 2:56:11 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>NRCC</name>
+    </pac>
+    <pac>
+      <name>Hoosier PAC</name>
+    </pac>
+    <pac>
+      <name>Promoting our Republican Team PAC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>McCarthy Victory Fund</payeeName>
+      <recipientName>Rep. Kevin McCarthy</recipientName>
+      <amount>2500.00</amount>
+      <date>07/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Collins for Senate</payeeName>
+      <recipientName>Sen. Susan Collins</recipientName>
+      <amount>2800.00</amount>
+      <date>07/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Meuser for Congress</payeeName>
+      <recipientName>Rep. Dan Meuser</recipientName>
+      <amount>500.00</amount>
+      <date>09/04/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Liz Cheney for Wyoming</payeeName>
+      <recipientName>Rep. Liz Cheney</recipientName>
+      <amount>1000.00</amount>
+      <date>09/04/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>John Katko for Congress</payeeName>
+      <recipientName>Rep. John Katko</recipientName>
+      <amount>1000.00</amount>
+      <date>09/04/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>NRCC</payeeName>
+      <recipientName>Natonal Republican Congressional Committee</recipientName>
+      <amount>2500.00</amount>
+      <date>09/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Darin LaHood for Congress</payeeName>
+      <recipientName>Rep. Darin LaHood</recipientName>
+      <amount>1000.00</amount>
+      <date>07/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Dusty for Congress</payeeName>
+      <recipientName>Rep. Dusty Johnson</recipientName>
+      <amount>250.00</amount>
+      <date>07/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Team McHenry</payeeName>
+      <recipientName>Rep. Patrick McHenry</recipientName>
+      <amount>1800.00</amount>
+      <date>09/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Buddy Carter for Congress</payeeName>
+      <recipientName>Rep. Buddy Carter</recipientName>
+      <amount>500.00</amount>
+      <date>09/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Friends of Roy Blunt</payeeName>
+      <recipientName>Sen. Roy Blunt</recipientName>
+      <amount>1000.00</amount>
+      <date>09/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>McConnell Senate Committee</payeeName>
+      <recipientName>Sen. Mitch McConnell</recipientName>
+      <amount>2800.00</amount>
+      <date>09/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Todd Young US Senate</payeeName>
+      <recipientName>Sen Todd Young</recipientName>
+      <amount>1000.00</amount>
+      <date>09/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Bradley Byrne for US Senate</payeeName>
+      <recipientName>Rep. Bradley Byrne</recipientName>
+      <amount>1000.00</amount>
+      <date>09/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Lloyd Smucker for Congress</payeeName>
+      <recipientName>Rep. Lloyd Smucker</recipientName>
+      <amount>500.00</amount>
+      <date>09/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Texans4Arrington</payeeName>
+      <recipientName>Rep. Jodey Arrington</recipientName>
+      <amount>1000.00</amount>
+      <date>10/08/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Joe Morelle for Congress</payeeName>
+      <recipientName>Rep. Joe Morelle</recipientName>
+      <amount>1000.00</amount>
+      <date>10/08/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>McCarthy Victory Fund</payeeName>
+      <recipientName>Rep. Kevin McCarthy</recipientName>
+      <amount>2500.00</amount>
+      <date>10/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Hoosier PAC</payeeName>
+      <recipientName>Sen. Mike Braun</recipientName>
+      <amount>1000.00</amount>
+      <date>10/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>PORT PAC</payeeName>
+      <recipientName>Sen. Rob Portman</recipientName>
+      <amount>1000.00</amount>
+      <date>10/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Rounds for US Senate</payeeName>
+      <recipientName>Sen. Mike Rounds</recipientName>
+      <amount>1000.00</amount>
+      <date>10/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Jason Lewis for US Senate</payeeName>
+      <recipientName>Rep. Jason Lewis</recipientName>
+      <amount>1000.00</amount>
+      <date>10/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Elise Stefanik for Congress</payeeName>
+      <recipientName>Rep. Elise Stefanik</recipientName>
+      <amount>1000.00</amount>
+      <date>11/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Virginia Foxx for Congress</payeeName>
+      <recipientName>Rep. Virginia Foxx</recipientName>
+      <amount>1000.00</amount>
+      <date>10/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Promoting our Republican Team PAC</payeeName>
+      <recipientName>Congressional Candidates</recipientName>
+      <amount>1000.00</amount>
+      <date>11/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Tom Reed for Congress</payeeName>
+      <recipientName>Rep. Tom Reed</recipientName>
+      <amount>1000.00</amount>
+      <date>11/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Rodney Davis for Congress</payeeName>
+      <recipientName>Rep. Rodney Davis</recipientName>
+      <amount>500.00</amount>
+      <date>12/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Elise Stefanik for Congress</payeeName>
+      <recipientName>Rep. Elise Stefanik</recipientName>
+      <amount>500.00</amount>
+      <date>12/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Darin LaHood for Congress</payeeName>
+      <recipientName>Rep. Darin LaHood</recipientName>
+      <amount>1000.00</amount>
+      <date>12/16/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

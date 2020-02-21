@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>The Nickles Group, LLC</organizationName>
+  <lobbyistPrefix>Mrs.</lobbyistPrefix>
+  <lobbyistFirstName>MARY</lobbyistFirstName>
+  <lobbyistMiddleName>BETH</lobbyistMiddleName>
+  <lobbyistLastName>SAVARY TAYLOR</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>293335</senateRegID>
+  <houseRegID>37338</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/31/2020 12:48:23 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>National Republican Senatorial Committee (NRSC)</payeeName>
+      <recipientName>National Republican Senatorial Committee (NRSC)</recipientName>
+      <amount>1875.00</amount>
+      <date>7/1/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>National Republican Senatorial Committee (NRSC)</payeeName>
+      <recipientName>National Republican Senatorial Committee (NRSC)</recipientName>
+      <amount>1875.00</amount>
+      <date>10/1/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Believe in America PAC</payeeName>
+      <recipientName>Senator Mitt Romney</recipientName>
+      <amount>1,000.00</amount>
+      <date>7/8/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Michael Burgess for Congress</payeeName>
+      <recipientName>Congressman Michael Burgess</recipientName>
+      <amount>500.00</amount>
+      <date>7/25/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>John James for Senate</payeeName>
+      <recipientName>John James</recipientName>
+      <amount>1,000.00</amount>
+      <date>10/22/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Capito for West Virginia</payeeName>
+      <recipientName>Senator Shelley Moore Capito</recipientName>
+      <amount>1,000.00</amount>
+      <date>9/18/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Friends of Pat Toomey</payeeName>
+      <recipientName>Senator Pat Toomey</recipientName>
+      <amount>1000.00</amount>
+      <date>10/21/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Friends of Pat Toomey</payeeName>
+      <recipientName>Senator Pat Toomey</recipientName>
+      <amount>1,000.00</amount>
+      <date>11/20/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Team Rick Scott</payeeName>
+      <recipientName>Senator Rick Scott</recipientName>
+      <amount>1,000.00</amount>
+      <date>11/13/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>McConnell for Senate</payeeName>
+      <recipientName>Senator Mitch McConnell</recipientName>
+      <amount>2500.00</amount>
+      <date>12/19/19</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

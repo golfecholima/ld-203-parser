@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>Atlantic Strategies Group</organizationName>
+  <lobbyistPrefix>Mrs.</lobbyistPrefix>
+  <lobbyistFirstName>HELEN</lobbyistFirstName>
+  <lobbyistMiddleName>C</lobbyistMiddleName>
+  <lobbyistLastName>SIRACUSE</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>401057985</senateRegID>
+  <houseRegID>42307</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>9/19/2019 1:26:34 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Perdue for Senate </payeeName>
+      <recipientName>Senator David Perdue</recipientName>
+      <amount>500.00</amount>
+      <date>9/18/19</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

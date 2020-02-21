@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>Motor &amp; Equipment Manufacturers Association</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>L. ANN WILSON</contactName>
+  <contactPhone>
+  </contactPhone>
+  <senateRegID>26023</senateRegID>
+  <houseRegID>31189</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/27/2020 10:54:26 AM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>MEMA PAC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>MEMA PAC</contributorName>
+      <payeeName>Brenda Lawrence for Congress</payeeName>
+      <recipientName>Representative Brenda Lawrence </recipientName>
+      <amount>1000.00</amount>
+      <date>07/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>MEMA PAC</contributorName>
+      <payeeName>Cathy McMorris Rodgers for Congress</payeeName>
+      <recipientName>Representative Cathy McMorris Rodgers</recipientName>
+      <amount>1000.00</amount>
+      <date>10/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>MEMA PAC</contributorName>
+      <payeeName>Friends of Dan Kildee</payeeName>
+      <recipientName>Representative Dan Kildee</recipientName>
+      <amount>1000.00</amount>
+      <date>09/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>MEMA PAC</contributorName>
+      <payeeName>Johnson for Congress</payeeName>
+      <recipientName>Representative Bill Johnson</recipientName>
+      <amount>1000.00</amount>
+      <date>09/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>MEMA PAC</contributorName>
+      <payeeName>Pallone for Congress</payeeName>
+      <recipientName>Representative Frank Pallone</recipientName>
+      <amount>2500.00</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>MEMA PAC</contributorName>
+      <payeeName>Peters for Michigan</payeeName>
+      <recipientName>Senator Gary Peters</recipientName>
+      <amount>1000.00</amount>
+      <date>09/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>MEMA PAC</contributorName>
+      <payeeName>Peters for Michigan</payeeName>
+      <recipientName>Senator Gary Peters</recipientName>
+      <amount>500.00</amount>
+      <date>09/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>MEMA PAC</contributorName>
+      <payeeName>Van Hollen for Senate</payeeName>
+      <recipientName>Senator Chris Van Hollen</recipientName>
+      <amount>1000.00</amount>
+      <date>10/17/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

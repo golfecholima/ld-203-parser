@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>Sunovion Pharmaceuticals Inc.</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>Eric Rasmussen</contactName>
+  <senateRegID>308957</senateRegID>
+  <houseRegID>38655</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/30/2020 12:26:24 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>Sunovion Pharmaceuticals Inc. Good Governance Fund</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Sunovion Pharmaceuticals Inc. Good Governance Fund</contributorName>
+      <payeeName>McConnell for Majority Leader</payeeName>
+      <recipientName>Mitch McConnell</recipientName>
+      <amount>5000.00</amount>
+      <date>7/22/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Sunovion Pharmaceuticals Inc. Good Governance Fund</contributorName>
+      <payeeName>Steve Daines for Montana</payeeName>
+      <recipientName>Steve Daines</recipientName>
+      <amount>1000.00</amount>
+      <date>8/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Sunovion Pharmaceuticals Inc. Good Governance Fund</contributorName>
+      <payeeName>Kuster for Congress</payeeName>
+      <recipientName>Ann Kuster</recipientName>
+      <amount>1000.00</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Sunovion Pharmaceuticals Inc. Good Governance Fund</contributorName>
+      <payeeName>Common Values PAC</payeeName>
+      <recipientName>John Barrasso</recipientName>
+      <amount>1000.00</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Sunovion Pharmaceuticals Inc. Good Governance Fund</contributorName>
+      <payeeName>Buschon for Congress</payeeName>
+      <recipientName>Larry Buschon</recipientName>
+      <amount>1000.00</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Sunovion Pharmaceuticals Inc. Good Governance Fund</contributorName>
+      <payeeName>Lynch for Congress Committee</payeeName>
+      <recipientName>Stephen Lynch</recipientName>
+      <amount>500.00</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Sunovion Pharmaceuticals Inc. Good Governance Fund</contributorName>
+      <payeeName>Walorski for Congress</payeeName>
+      <recipientName>Jackie Walorski</recipientName>
+      <amount>1000.00</amount>
+      <date>10/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Sunovion Pharmaceuticals Inc. Good Governance Fund</contributorName>
+      <payeeName>Katko for Congress</payeeName>
+      <recipientName>John Katko</recipientName>
+      <amount>1000.00</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Sunovion Pharmaceuticals Inc. Good Governance Fund</contributorName>
+      <payeeName>Sinema for Arizona</payeeName>
+      <recipientName>Kyrsten Sinema</recipientName>
+      <amount>1000.00</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Sunovion Pharmaceuticals Inc. Good Governance Fund</contributorName>
+      <payeeName>Team Hagerty</payeeName>
+      <recipientName>Bill Hagerty</recipientName>
+      <amount>1000.00</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Sunovion Pharmaceuticals Inc. Good Governance Fund</contributorName>
+      <payeeName>Menendez for Senate</payeeName>
+      <recipientName>Bob Menendez</recipientName>
+      <amount>1000.00</amount>
+      <date>11/8/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Sunovion Pharmaceuticals Inc. Good Governance Fund</contributorName>
+      <payeeName>Rely on Your Beliefs</payeeName>
+      <recipientName>Roy Blunt</recipientName>
+      <amount>5000.00</amount>
+      <date>11/8/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Sunovion Pharmaceuticals Inc. Good Governance Fund</contributorName>
+      <payeeName>Collins for Senator</payeeName>
+      <recipientName>Susan Collins</recipientName>
+      <amount>1000.00</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Sunovion Pharmaceuticals Inc. Good Governance Fund</contributorName>
+      <payeeName>Alaskans for Dan Sullivan</payeeName>
+      <recipientName>Dan Sullivan</recipientName>
+      <amount>500.00</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Sunovion Pharmaceuticals Inc. Good Governance Fund</contributorName>
+      <payeeName>The Thom Tillis Committee</payeeName>
+      <recipientName>Thom Tillis</recipientName>
+      <amount>2500.00</amount>
+      <date>12/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Sunovion Pharmaceuticals Inc. Good Governance Fund</contributorName>
+      <payeeName>Schneider for Congress</payeeName>
+      <recipientName>Brad Schneider</recipientName>
+      <amount>1500.00</amount>
+      <date>12/12/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>MWR Consulting</organizationName>
+  <lobbyistPrefix>Mr.</lobbyistPrefix>
+  <lobbyistFirstName>Mark</lobbyistFirstName>
+  <lobbyistMiddleName>W.</lobbyistMiddleName>
+  <lobbyistLastName>Rodgers</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>401104301</senateRegID>
+  <houseRegID>43498</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>True</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/6/2020 1:15:04 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>Huizenga for Congress</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Huizenga for Congress</payeeName>
+      <recipientName>Rep. Bill Huizenga</recipientName>
+      <amount>500.00</amount>
+      <date>10/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Friends of Dave Joyce</payeeName>
+      <recipientName>Rep. David Joyce</recipientName>
+      <amount>500.00</amount>
+      <date>11/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Dr. John Joyce for Congress</payeeName>
+      <recipientName>Rep. John Joyce</recipientName>
+      <amount>500.00</amount>
+      <date>11/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Friends of Pat Toomey</payeeName>
+      <recipientName>Senator Pat Toomey</recipientName>
+      <amount>1000.00</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Rodney for Congress</payeeName>
+      <recipientName>Rep. Rodney Davis</recipientName>
+      <amount>1000.00</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>McMorris Rodgers for Congress</payeeName>
+      <recipientName>Rep. Cathy McMorris Rodgers</recipientName>
+      <amount>500.00</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Mike Kelly for Congress</payeeName>
+      <recipientName>Rep. Mike Kelly</recipientName>
+      <amount>1000.00</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Brian Fitzpatrick for Congress</payeeName>
+      <recipientName>Rep. Brian Fitzpatrick</recipientName>
+      <amount>1000.00</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>John Moolenaar for Congress</payeeName>
+      <recipientName>Rep. John Moolenaar</recipientName>
+      <amount>500.00</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Walberg for Congress</payeeName>
+      <recipientName>Rep. Tim Walberg</recipientName>
+      <amount>500.00</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Tim Walberg</payeeName>
+      <recipientName>Rep. Tim Walberg</recipientName>
+      <amount>500.00</amount>
+      <date>07/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Friends for Christ Stewart, Inc.</payeeName>
+      <recipientName>Rep. Chris Stewart</recipientName>
+      <amount>500.00</amount>
+      <date>07/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Bishop for Congress</payeeName>
+      <recipientName>Dan Bishop</recipientName>
+      <amount>500.00</amount>
+      <date>07/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Bergman for Congress</payeeName>
+      <recipientName>Rep. Jack Bergman</recipientName>
+      <amount>500.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Guthrie for Congress</payeeName>
+      <recipientName>Rep. Brett Guthrie</recipientName>
+      <amount>1000.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

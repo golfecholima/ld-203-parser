@@ -1,0 +1,834 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>Cigna Corporation</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <zipext>
+  </zipext>
+  <contactName>Kimberley Snow</contactName>
+  <senateRegID>9237</senateRegID>
+  <houseRegID>31670</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/29/2020 12:57:21 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>
+  </noContributions>
+  <pacs>
+    <pac>
+      <name>Cigna Corporation Political Action Committee</name>
+    </pac>
+    <pac>
+      <name>Express Scripts Inc. Political Fund (Express Scripts PAC)</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigna Corporation Political Action Committee</contributorName>
+      <payeeName>Velvet Hammer PAC</payeeName>
+      <recipientName>Sen. Tina Smith</recipientName>
+      <amount>2500</amount>
+      <date>9/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigna Corporation Political Action Committee</contributorName>
+      <payeeName>Michael Burgess For Congress</payeeName>
+      <recipientName>Rep. Michael Clifton Burgess</recipientName>
+      <amount>2500</amount>
+      <date>7/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigna Corporation Political Action Committee</contributorName>
+      <payeeName>Chuck Fleischmann For Congress Committee, Inc.</payeeName>
+      <recipientName>Rep. Charles J. Fleischmann</recipientName>
+      <amount>2500</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigna Corporation Political Action Committee</contributorName>
+      <payeeName>Adrian Smith For Congress</payeeName>
+      <recipientName>Rep. Adrian Michael Smith</recipientName>
+      <amount>2500</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigna Corporation Political Action Committee</contributorName>
+      <payeeName>Catherine Cortez Masto For Senate</payeeName>
+      <recipientName>Sen. Catherine Cortez Masto</recipientName>
+      <amount>2500</amount>
+      <date>11/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigna Corporation Political Action Committee</contributorName>
+      <payeeName>Leadership Connecticut PAC</payeeName>
+      <recipientName>Leadership Connecticut PAC</recipientName>
+      <amount>1000</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigna Corporation Political Action Committee</contributorName>
+      <payeeName>Bob Casey For Senate Inc</payeeName>
+      <recipientName>Sen. Robert P. Casey, Jr.</recipientName>
+      <amount>2500</amount>
+      <date>7/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigna Corporation Political Action Committee</contributorName>
+      <payeeName>Chris Coons For Delaware</payeeName>
+      <recipientName>Sen. Christopher Andrew Coons</recipientName>
+      <amount>2500</amount>
+      <date>7/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigna Corporation Political Action Committee</contributorName>
+      <payeeName>Shaheen For Senate</payeeName>
+      <recipientName>Sen. Jeanne Shaheen</recipientName>
+      <amount>4000</amount>
+      <date>9/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigna Corporation Political Action Committee</contributorName>
+      <payeeName>McCaul For Congress, Inc</payeeName>
+      <recipientName>Rep. Michael Thomas McCaul, Sr.</recipientName>
+      <amount>2500</amount>
+      <date>10/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigna Corporation Political Action Committee</contributorName>
+      <payeeName>Terri Sewell For Congress</payeeName>
+      <recipientName>Rep. Terri Andrea Sewell</recipientName>
+      <amount>2500</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigna Corporation Political Action Committee</contributorName>
+      <payeeName>Continuing America's Strength And Security PAC</payeeName>
+      <recipientName>Sen. William Cassidy</recipientName>
+      <amount>5000</amount>
+      <date>11/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigna Corporation Political Action Committee</contributorName>
+      <payeeName>Steve Daines For Montana</payeeName>
+      <recipientName>Sen. Steve David Daines</recipientName>
+      <amount>1500</amount>
+      <date>8/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigna Corporation Political Action Committee</contributorName>
+      <payeeName>Biggs For Congress</payeeName>
+      <recipientName>Rep. Andrew S. Biggs</recipientName>
+      <amount>1000</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigna Corporation Political Action Committee</contributorName>
+      <payeeName>Blue Hen Federal PAC</payeeName>
+      <recipientName>Sen. Christopher Andrew Coons</recipientName>
+      <amount>5000</amount>
+      <date>9/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigna Corporation Political Action Committee</contributorName>
+      <payeeName>Project West Political Action Committee</payeeName>
+      <recipientName>Sen. Cory Gardner</recipientName>
+      <amount>5000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigna Corporation Political Action Committee</contributorName>
+      <payeeName>Tomorrow Is Meaningful PAC</payeeName>
+      <recipientName>Sen. Timothy Eugene Scott</recipientName>
+      <amount>2500</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigna Corporation Political Action Committee</contributorName>
+      <payeeName>Dwight Evans For Congress</payeeName>
+      <recipientName>Rep. Dwight Evans</recipientName>
+      <amount>1500</amount>
+      <date>7/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigna Corporation Political Action Committee</contributorName>
+      <payeeName>Friends Of Pat Toomey</payeeName>
+      <recipientName>Sen. Patrick Joseph Toomey</recipientName>
+      <amount>2500</amount>
+      <date>9/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigna Corporation Political Action Committee</contributorName>
+      <payeeName>Oorah! Political Action Committee</payeeName>
+      <recipientName>Sen. Todd Christopher Young</recipientName>
+      <amount>1500</amount>
+      <date>8/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigna Corporation Political Action Committee</contributorName>
+      <payeeName>Portman For Senate Committee</payeeName>
+      <recipientName>Sen. Rob J. Portman</recipientName>
+      <amount>2500</amount>
+      <date>7/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigna Corporation Political Action Committee</contributorName>
+      <payeeName>Dwight Evans For Congress</payeeName>
+      <recipientName>Rep. Dwight Evans</recipientName>
+      <amount>1000</amount>
+      <date>7/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigna Corporation Political Action Committee</contributorName>
+      <payeeName>Friends Of Cheri Bustos</payeeName>
+      <recipientName>Rep. Cheryl L. Bustos</recipientName>
+      <amount>2500</amount>
+      <date>9/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigna Corporation Political Action Committee</contributorName>
+      <payeeName>Mad 4 Pa PAC</payeeName>
+      <recipientName>Rep. Madeleine Dean</recipientName>
+      <amount>5000</amount>
+      <date>11/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigna Corporation Political Action Committee</contributorName>
+      <payeeName>George Holding For Congress Inc.</payeeName>
+      <recipientName>Rep. George E. Holding</recipientName>
+      <amount>1000</amount>
+      <date>11/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigna Corporation Political Action Committee</contributorName>
+      <payeeName>Tom Rice For Congress</payeeName>
+      <recipientName>Rep. Tom Rice</recipientName>
+      <amount>1000</amount>
+      <date>7/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigna Corporation Political Action Committee</contributorName>
+      <payeeName>Ann Wagner For Congress</payeeName>
+      <recipientName>Rep. Ann Louise Wagner</recipientName>
+      <amount>5000</amount>
+      <date>7/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigna Corporation Political Action Committee</contributorName>
+      <payeeName>Steil For Wisconsin, Inc.</payeeName>
+      <recipientName>Rep. Bryan G. Steil</recipientName>
+      <amount>2000</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigna Corporation Political Action Committee</contributorName>
+      <payeeName>Kurt Schrader For Congress</payeeName>
+      <recipientName>Rep. Kurt Schrader</recipientName>
+      <amount>2500</amount>
+      <date>7/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigna Corporation Political Action Committee</contributorName>
+      <payeeName>Paul Tonko For Congress</payeeName>
+      <recipientName>Rep. Paul David Tonko</recipientName>
+      <amount>1000</amount>
+      <date>9/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigna Corporation Political Action Committee</contributorName>
+      <payeeName>Mike Kelly For Congress</payeeName>
+      <recipientName>Rep. G. Mike J. Kelly</recipientName>
+      <amount>4000</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigna Corporation Political Action Committee</contributorName>
+      <payeeName>Citizens For Boyle</payeeName>
+      <recipientName>Rep. Brendan Francis Boyle</recipientName>
+      <amount>2500</amount>
+      <date>7/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigna Corporation Political Action Committee</contributorName>
+      <payeeName>Terri Sewell For Congress</payeeName>
+      <recipientName>Rep. Terri Andrea Sewell</recipientName>
+      <amount>1000</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigna Corporation Political Action Committee</contributorName>
+      <payeeName>Kind For Congress Committee</payeeName>
+      <recipientName>Rep. Ronald James Kind</recipientName>
+      <amount>2500</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigna Corporation Political Action Committee</contributorName>
+      <payeeName>Synergy PAC</payeeName>
+      <recipientName>Rep. John Barry Larson</recipientName>
+      <amount>5000</amount>
+      <date>7/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigna Corporation Political Action Committee</contributorName>
+      <payeeName>Nancy Pelosi For Congress</payeeName>
+      <recipientName>Rep. Nancy Pelosi</recipientName>
+      <amount>2500</amount>
+      <date>8/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigna Corporation Political Action Committee</contributorName>
+      <payeeName>Terri Sewell For Congress</payeeName>
+      <recipientName>Rep. Terri Andrea Sewell</recipientName>
+      <amount>1500</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigna Corporation Political Action Committee</contributorName>
+      <payeeName>Kuster For Congress, Inc</payeeName>
+      <recipientName>Rep. Ann McLane Kuster</recipientName>
+      <amount>2500</amount>
+      <date>7/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigna Corporation Political Action Committee</contributorName>
+      <payeeName>Mullin For Congress</payeeName>
+      <recipientName>Rep. Markwayne Mullin</recipientName>
+      <amount>2500</amount>
+      <date>7/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigna Corporation Political Action Committee</contributorName>
+      <payeeName>Building America's Republican Representation PAC</payeeName>
+      <recipientName>Rep. Garland Hale Barr, IV</recipientName>
+      <amount>3000</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigna Corporation Political Action Committee</contributorName>
+      <payeeName>Debbie Dingell For Congress</payeeName>
+      <recipientName>Rep. Deborah Ann Dingell</recipientName>
+      <amount>1000</amount>
+      <date>10/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigna Corporation Political Action Committee</contributorName>
+      <payeeName>Shaheen For Senate</payeeName>
+      <recipientName>Sen. Jeanne Shaheen</recipientName>
+      <amount>3500</amount>
+      <date>9/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigna Corporation Political Action Committee</contributorName>
+      <payeeName>Support To Ensure Victory Everywhere PAC-Steve PAC</payeeName>
+      <recipientName>Rep. Steve Stivers</recipientName>
+      <amount>5000</amount>
+      <date>7/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigna Corporation Political Action Committee</contributorName>
+      <payeeName>Citizens For Boyle</payeeName>
+      <recipientName>Rep. Brendan Francis Boyle</recipientName>
+      <amount>2500</amount>
+      <date>7/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigna Corporation Political Action Committee</contributorName>
+      <payeeName>Minnesota House Dfl Caucus</payeeName>
+      <recipientName>Minnesota House Dfl Caucus</recipientName>
+      <amount>2500</amount>
+      <date>9/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigna Corporation Political Action Committee</contributorName>
+      <payeeName>Tina Smith For Minnesota</payeeName>
+      <recipientName>Sen. Tina Smith</recipientName>
+      <amount>1500</amount>
+      <date>9/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigna Corporation Political Action Committee</contributorName>
+      <payeeName>Bera For Congress</payeeName>
+      <recipientName>Rep. Amerish B. Bera</recipientName>
+      <amount>1000</amount>
+      <date>9/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigna Corporation Political Action Committee</contributorName>
+      <payeeName>Josh Gottheimer For Congress</payeeName>
+      <recipientName>Rep. Joshua S. Gottheimer</recipientName>
+      <amount>2500</amount>
+      <date>10/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigna Corporation Political Action Committee</contributorName>
+      <payeeName>Pascrell For Congress</payeeName>
+      <recipientName>Rep. William James Pascrell, Jr.</recipientName>
+      <amount>2500</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigna Corporation Political Action Committee</contributorName>
+      <payeeName>Senate Victory PAC</payeeName>
+      <recipientName>Senate Victory PAC</recipientName>
+      <amount>2500</amount>
+      <date>9/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigna Corporation Political Action Committee</contributorName>
+      <payeeName>Barragan For Congress</payeeName>
+      <recipientName>Rep. Nanette Diaz Barragan</recipientName>
+      <amount>2500</amount>
+      <date>7/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigna Corporation Political Action Committee</contributorName>
+      <payeeName>Pallone For Congress</payeeName>
+      <recipientName>Rep. Frank Pallone, Jr.</recipientName>
+      <amount>2500</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigna Corporation Political Action Committee</contributorName>
+      <payeeName>Brian Fitzpatrick For Congress</payeeName>
+      <recipientName>Rep. Brian K. Fitzpatrick</recipientName>
+      <amount>2000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigna Corporation Political Action Committee</contributorName>
+      <payeeName>Donald Norcross For Congress</payeeName>
+      <recipientName>Rep. Donald W. Norcross</recipientName>
+      <amount>1000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigna Corporation Political Action Committee</contributorName>
+      <payeeName>Tina Smith For Minnesota</payeeName>
+      <recipientName>Sen. Tina Smith</recipientName>
+      <amount>2500</amount>
+      <date>7/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigna Corporation Political Action Committee</contributorName>
+      <payeeName>Anthony Brown For Congress</payeeName>
+      <recipientName>Rep. Anthony Gregory Brown</recipientName>
+      <amount>2500</amount>
+      <date>11/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigna Corporation Political Action Committee</contributorName>
+      <payeeName>Mike Thompson For Congress</payeeName>
+      <recipientName>Rep. Michael C. Thompson</recipientName>
+      <amount>2500</amount>
+      <date>8/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigna Corporation Political Action Committee</contributorName>
+      <payeeName>Texans For Senator John Cornyn Inc.</payeeName>
+      <recipientName>Sen. John Cornyn, III</recipientName>
+      <amount>2500</amount>
+      <date>11/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigna Corporation Political Action Committee</contributorName>
+      <payeeName>Mike Kelly For Congress</payeeName>
+      <recipientName>Rep. G. Mike J. Kelly</recipientName>
+      <amount>1000</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigna Corporation Political Action Committee</contributorName>
+      <payeeName>Larson For Congress</payeeName>
+      <recipientName>Rep. John Barry Larson</recipientName>
+      <amount>2500</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigna Corporation Political Action Committee</contributorName>
+      <payeeName>Jeffries For Congress</payeeName>
+      <recipientName>Rep. Hakeem S. Jeffries</recipientName>
+      <amount>2500</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigna Corporation Political Action Committee</contributorName>
+      <payeeName>Bluegrass Committee</payeeName>
+      <recipientName>Sen. Mitch McConnell</recipientName>
+      <amount>2500</amount>
+      <date>11/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigna Corporation Political Action Committee</contributorName>
+      <payeeName>McEachin For Congress</payeeName>
+      <recipientName>Rep. A. Donald McEachin</recipientName>
+      <amount>1500</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigna Corporation Political Action Committee</contributorName>
+      <payeeName>Friends Of Todd Young, Inc.</payeeName>
+      <recipientName>Sen. Todd Christopher Young</recipientName>
+      <amount>2500</amount>
+      <date>11/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigna Corporation Political Action Committee</contributorName>
+      <payeeName>Jimmy Gomez For Congress</payeeName>
+      <recipientName>Rep. Jimmy Gomez</recipientName>
+      <amount>2500</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigna Corporation Political Action Committee</contributorName>
+      <payeeName>Rely On Your Beliefs Fund</payeeName>
+      <recipientName>Sen. Roy Dean Blunt</recipientName>
+      <amount>5000</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigna Corporation Political Action Committee</contributorName>
+      <payeeName>Finkenauer For Congress</payeeName>
+      <recipientName>Rep. Abby Finkenauer</recipientName>
+      <amount>2500</amount>
+      <date>7/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigna Corporation Political Action Committee</contributorName>
+      <payeeName>McSally For Senate Inc</payeeName>
+      <recipientName>Sen. Martha Elizabeth McSally</recipientName>
+      <amount>5000</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigna Corporation Political Action Committee</contributorName>
+      <payeeName>McConnell Senate Committee</payeeName>
+      <recipientName>Sen. Mitch McConnell</recipientName>
+      <amount>2500</amount>
+      <date>11/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigna Corporation Political Action Committee</contributorName>
+      <payeeName>Graves For Congress</payeeName>
+      <recipientName>Rep. Samuel Bruce Graves, Jr.</recipientName>
+      <amount>2500</amount>
+      <date>8/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigna Corporation Political Action Committee</contributorName>
+      <payeeName>Rosen For Nevada</payeeName>
+      <recipientName>Sen. Jacky Rosen</recipientName>
+      <amount>1000</amount>
+      <date>7/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigna Corporation Political Action Committee</contributorName>
+      <payeeName>Cartwright For Congress</payeeName>
+      <recipientName>Rep. Matthew A. Cartwright</recipientName>
+      <amount>1000</amount>
+      <date>8/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigna Corporation Political Action Committee</contributorName>
+      <payeeName>Van Drew For Congress</payeeName>
+      <recipientName>Rep. Jeff Van Drew, D.D.S.</recipientName>
+      <amount>1000</amount>
+      <date>11/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigna Corporation Political Action Committee</contributorName>
+      <payeeName>Tony Cardenas For Congress</payeeName>
+      <recipientName>Rep. Tony Cardenas</recipientName>
+      <amount>2500</amount>
+      <date>7/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigna Corporation Political Action Committee</contributorName>
+      <payeeName>Nevadans For Steven Horsford</payeeName>
+      <recipientName>Rep. Steven Alexzander Horsford</recipientName>
+      <amount>1000</amount>
+      <date>9/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigna Corporation Political Action Committee</contributorName>
+      <payeeName>Chrissy Houlahan For Congress</payeeName>
+      <recipientName>Rep. Christina J. Houlahan</recipientName>
+      <amount>1500</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigna Corporation Political Action Committee</contributorName>
+      <payeeName>Guy For Congress</payeeName>
+      <recipientName>Rep. Guy L. Reschenthaler</recipientName>
+      <amount>2500</amount>
+      <date>7/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigna Corporation Political Action Committee</contributorName>
+      <payeeName>Marsha For Senate</payeeName>
+      <recipientName>Sen. Marsha Wedgeworth Blackburn</recipientName>
+      <amount>4000</amount>
+      <date>11/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigna Corporation Political Action Committee</contributorName>
+      <payeeName>Citizens For Prosperity In America Today PAC</payeeName>
+      <recipientName>Sen. Patrick Joseph Toomey</recipientName>
+      <amount>5000</amount>
+      <date>9/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigna Corporation Political Action Committee</contributorName>
+      <payeeName>Brian Higgins For Congress</payeeName>
+      <recipientName>Rep. Brian M. Higgins</recipientName>
+      <amount>2500</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigna Corporation Political Action Committee</contributorName>
+      <payeeName>Mike Bost For Congress Committee</payeeName>
+      <recipientName>Rep. Michael J. Bost</recipientName>
+      <amount>2500</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigna Corporation Political Action Committee</contributorName>
+      <payeeName>Nancy Pelosi For Congress</payeeName>
+      <recipientName>Rep. Nancy Pelosi</recipientName>
+      <amount>2500</amount>
+      <date>10/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigna Corporation Political Action Committee</contributorName>
+      <payeeName>Ann Wagner For Congress</payeeName>
+      <recipientName>Rep. Ann Louise Wagner</recipientName>
+      <amount>5000</amount>
+      <date>7/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigna Corporation Political Action Committee</contributorName>
+      <payeeName>Friends Of Raja For Congress</payeeName>
+      <recipientName>Rep. S. Raja Krishnamoorthi</recipientName>
+      <amount>1000</amount>
+      <date>9/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigna Corporation Political Action Committee</contributorName>
+      <payeeName>Schneider For Congress</payeeName>
+      <recipientName>Rep. Bradley Scott Schneider</recipientName>
+      <amount>1500</amount>
+      <date>8/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigna Corporation Political Action Committee</contributorName>
+      <payeeName>Latta For Congress</payeeName>
+      <recipientName>Rep. Robert E. Latta</recipientName>
+      <amount>2500</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigna Corporation Political Action Committee</contributorName>
+      <payeeName>Walden For Congress</payeeName>
+      <recipientName>Rep. Gregory Paul Walden</recipientName>
+      <amount>3500</amount>
+      <date>7/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigna Corporation Political Action Committee</contributorName>
+      <payeeName>Jason Smith For Congress</payeeName>
+      <recipientName>Rep. Jason Thomas Smith</recipientName>
+      <amount>1000</amount>
+      <date>10/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigna Corporation Political Action Committee</contributorName>
+      <payeeName>Developing A New Generation PAC (DANG PAC)</payeeName>
+      <recipientName>Rep. Stephanie N. Murphy</recipientName>
+      <amount>5000</amount>
+      <date>7/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigna Corporation Political Action Committee</contributorName>
+      <payeeName>Josh Gottheimer For Congress</payeeName>
+      <recipientName>Rep. Joshua S. Gottheimer</recipientName>
+      <amount>1500</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigna Corporation Political Action Committee</contributorName>
+      <payeeName>Thom Tillis Committee</payeeName>
+      <recipientName>Sen. Thomas Roland Tillis</recipientName>
+      <amount>1500</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigna Corporation Political Action Committee</contributorName>
+      <payeeName>Billy Long For Congress</payeeName>
+      <recipientName>Rep. William H. Long, II</recipientName>
+      <amount>5000</amount>
+      <date>11/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigna Corporation Political Action Committee</contributorName>
+      <payeeName>Filemon Vela For Congress</payeeName>
+      <recipientName>Rep. Filemon Bartolome Vela, Jr.</recipientName>
+      <amount>2500</amount>
+      <date>9/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigna Corporation Political Action Committee</contributorName>
+      <payeeName>Hoyer For Congress</payeeName>
+      <recipientName>Rep. Steny Hamilton Hoyer</recipientName>
+      <amount>2500</amount>
+      <date>8/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigna Corporation Political Action Committee</contributorName>
+      <payeeName>Drew Ferguson For Congress Inc.</payeeName>
+      <recipientName>Rep. A. Drew Ferguson, IV</recipientName>
+      <amount>1000</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigna Corporation Political Action Committee</contributorName>
+      <payeeName>Haley Stevens For Congress</payeeName>
+      <recipientName>Rep. Haley M. Stevens</recipientName>
+      <amount>2500</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigna Corporation Political Action Committee</contributorName>
+      <payeeName>Guthrie For Congress</payeeName>
+      <recipientName>Rep. S. Brett Guthrie</recipientName>
+      <amount>2000</amount>
+      <date>11/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigna Corporation Political Action Committee</contributorName>
+      <payeeName>Making A Responsible Stand For Households In America PAC</payeeName>
+      <recipientName>Sen. Marsha Wedgeworth Blackburn</recipientName>
+      <amount>5000</amount>
+      <date>7/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cigna Corporation Political Action Committee</contributorName>
+      <payeeName>Bilirakis For Congress</payeeName>
+      <recipientName>Rep. Gus Michael Bilirakis</recipientName>
+      <amount>1000</amount>
+      <date>8/16/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

@@ -1,0 +1,1072 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>Ford Motor Company</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <zipext>
+  </zipext>
+  <contactName>Sarah Meirose</contactName>
+  <senateRegID>15133</senateRegID>
+  <houseRegID>30916</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/30/2020 6:10:48 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>Ford Motor Company Civic Action Fund</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>Honorary Expenses</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Congressional Black Caucus Foundation </payeeName>
+      <recipientName>2019 CBCF Annual Legislative Conference</recipientName>
+      <amount>160000.00</amount>
+      <date>11/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>Honorary Expenses</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Congressional Hispanic Caucus Institute </payeeName>
+      <recipientName>2019 CHCI R2L NextGen - Ford Driving Skills for Life</recipientName>
+      <amount>5000.00</amount>
+      <date>11/08/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Casten, Sean</payeeName>
+      <recipientName>Casten, Sean</recipientName>
+      <amount>1000.00</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Cuellar, Henry</payeeName>
+      <recipientName>Cuellar, Henry</recipientName>
+      <amount>1500.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Cuellar, Henry</payeeName>
+      <recipientName>Cuellar, Henry</recipientName>
+      <amount>1500.00</amount>
+      <date>10/02/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Cuellar, Henry</payeeName>
+      <recipientName>Cuellar, Henry</recipientName>
+      <amount>3500.00</amount>
+      <date>10/02/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>DeFazio, Peter</payeeName>
+      <recipientName>DeFazio, Peter</recipientName>
+      <amount>1000.00</amount>
+      <date>09/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>DeFazio, Peter</payeeName>
+      <recipientName>DeFazio, Peter</recipientName>
+      <amount>2500.00</amount>
+      <date>11/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Dingell, Debbie</payeeName>
+      <recipientName>Dingell, Debbie</recipientName>
+      <amount>1500.00</amount>
+      <date>08/01/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Dingell, Debbie</payeeName>
+      <recipientName>Dingell, Debbie</recipientName>
+      <amount>5000.00</amount>
+      <date>08/01/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Durbin, Richard</payeeName>
+      <recipientName>Durbin, Richard</recipientName>
+      <amount>1000.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Fletcher, Elizabeth</payeeName>
+      <recipientName>Fletcher, Elizabeth</recipientName>
+      <amount>1000.00</amount>
+      <date>10/02/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Horsford, Steven</payeeName>
+      <recipientName>Horsford, Steven</recipientName>
+      <amount>1500.00</amount>
+      <date>10/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Houlahan, Chrissy</payeeName>
+      <recipientName>Houlahan, Chrissy</recipientName>
+      <amount>1000.00</amount>
+      <date>10/02/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Kaptur, Marcy</payeeName>
+      <recipientName>Kaptur, Marcy</recipientName>
+      <amount>1000.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Kelly, Robin</payeeName>
+      <recipientName>Kelly, Robin</recipientName>
+      <amount>1000.00</amount>
+      <date>11/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Kildee, Dan</payeeName>
+      <recipientName>Kildee, Dan</recipientName>
+      <amount>4000.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Kildee, Dan</payeeName>
+      <recipientName>Kildee, Dan</recipientName>
+      <amount>5000.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Kind, Ron</payeeName>
+      <recipientName>Kind, Ron</recipientName>
+      <amount>1000.00</amount>
+      <date>11/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Lawrence, Brenda</payeeName>
+      <recipientName>Lawrence, Brenda</recipientName>
+      <amount>5000.00</amount>
+      <date>07/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Lawrence, Brenda</payeeName>
+      <recipientName>Lawrence, Brenda</recipientName>
+      <amount>1000.00</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Maloney, Carolyn</payeeName>
+      <recipientName>Maloney, Carolyn</recipientName>
+      <amount>1000.00</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Matsui, Doris</payeeName>
+      <recipientName>Matsui, Doris</recipientName>
+      <amount>1000.00</amount>
+      <date>08/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Matsui, Doris</payeeName>
+      <recipientName>Matsui, Doris</recipientName>
+      <amount>1000.00</amount>
+      <date>12/03/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Morelle, Joseph</payeeName>
+      <recipientName>Morelle, Joseph</recipientName>
+      <amount>1000.00</amount>
+      <date>09/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Neal, Richard</payeeName>
+      <recipientName>Neal, Richard</recipientName>
+      <amount>1000.00</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Norcross, Donald</payeeName>
+      <recipientName>Norcross, Donald</recipientName>
+      <amount>1000.00</amount>
+      <date>12/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Pallone, Frank</payeeName>
+      <recipientName>Pallone, Frank</recipientName>
+      <amount>2500.00</amount>
+      <date>11/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Pallone, Frank</payeeName>
+      <recipientName>Pallone, Frank</recipientName>
+      <amount>1000.00</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Peters, Gary</payeeName>
+      <recipientName>Peters, Gary</recipientName>
+      <amount>2500.00</amount>
+      <date>08/02/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Rush, Bobby</payeeName>
+      <recipientName>Rush, Bobby</recipientName>
+      <amount>4000.00</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Schakowsky, Jan</payeeName>
+      <recipientName>Schakowsky, Jan</recipientName>
+      <amount>1000.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Schatz, Brian</payeeName>
+      <recipientName>Schatz, Brian</recipientName>
+      <amount>4000.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Schneider, Bradley</payeeName>
+      <recipientName>Schneider, Bradley</recipientName>
+      <amount>1000.00</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Schrader, Kurt</payeeName>
+      <recipientName>Schrader, Kurt</recipientName>
+      <amount>1500.00</amount>
+      <date>12/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Schumer, Charles</payeeName>
+      <recipientName>Schumer, Charles</recipientName>
+      <amount>2500.00</amount>
+      <date>08/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Sinema, Krysten</payeeName>
+      <recipientName>Sinema, Krysten</recipientName>
+      <amount>1000.00</amount>
+      <date>11/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Stanton, Greg</payeeName>
+      <recipientName>Stanton, Greg</recipientName>
+      <amount>1000.00</amount>
+      <date>12/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Suozzi, Tomas</payeeName>
+      <recipientName>Suozzi, Thomas</recipientName>
+      <amount>1000.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Tonko, Paul</payeeName>
+      <recipientName>Tonko, Paul</recipientName>
+      <amount>1000.00</amount>
+      <date>10/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Veasey, Marc</payeeName>
+      <recipientName>Veasey, Marc</recipientName>
+      <amount>1000.00</amount>
+      <date>09/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Warner, Mark</payeeName>
+      <recipientName>Warner, Mark</recipientName>
+      <amount>2500.00</amount>
+      <date>09/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Warner, Mark</payeeName>
+      <recipientName>Warner, Mark</recipientName>
+      <amount>2500.00</amount>
+      <date>09/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Waters, Maxine</payeeName>
+      <recipientName>Waters, Maxine</recipientName>
+      <amount>1000.00</amount>
+      <date>11/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Arrington, Jodey</payeeName>
+      <recipientName>Arrington, Jodey</recipientName>
+      <amount>1000.00</amount>
+      <date>12/03/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Babin, Brian</payeeName>
+      <recipientName>Babin, Brian</recipientName>
+      <amount>1000.00</amount>
+      <date>12/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Balderson, Troy</payeeName>
+      <recipientName>Balderson, Troy</recipientName>
+      <amount>1000.00</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Barr, Andy</payeeName>
+      <recipientName>Barr, Andy</recipientName>
+      <amount>1000.00</amount>
+      <date>12/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Bilirakis, Gus</payeeName>
+      <recipientName>Bilirakis, Gus</recipientName>
+      <amount>1000.00</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Buchanan, Vern</payeeName>
+      <recipientName>Buchanan, Vern</recipientName>
+      <amount>2500.00</amount>
+      <date>07/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Buchanan, Vern</payeeName>
+      <recipientName>Buchanan, Vern</recipientName>
+      <amount>2500.00</amount>
+      <date>07/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Capito, Shelley</payeeName>
+      <recipientName>Capito, Shelley</recipientName>
+      <amount>1000.00</amount>
+      <date>12/03/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Collins, Susan</payeeName>
+      <recipientName>Collins, Susan</recipientName>
+      <amount>1000.00</amount>
+      <date>12/03/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Collins, Susan</payeeName>
+      <recipientName>Collins, Susan</recipientName>
+      <amount>1000.00</amount>
+      <date>12/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Comer, James</payeeName>
+      <recipientName>Comer, James</recipientName>
+      <amount>1000.00</amount>
+      <date>09/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Cornyn, John</payeeName>
+      <recipientName>Cornyn, John</recipientName>
+      <amount>1000.00</amount>
+      <date>08/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Curtis, John</payeeName>
+      <recipientName>Curtis, John</recipientName>
+      <amount>1000.00</amount>
+      <date>08/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Curtis, John</payeeName>
+      <recipientName>Curtis, John</recipientName>
+      <amount>1000.00</amount>
+      <date>09/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Davis, Rodney</payeeName>
+      <recipientName>Davis, Rodney</recipientName>
+      <amount>1000.00</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Emmer, Tom</payeeName>
+      <recipientName>Emmer, Tom</recipientName>
+      <amount>3000.00</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Estes, Ron</payeeName>
+      <recipientName>Estes, Ron</recipientName>
+      <amount>1000.00</amount>
+      <date>11/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Ferguson, Andrew</payeeName>
+      <recipientName>Ferguson, Andrew</recipientName>
+      <amount>1000.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Fitzpatrick, Brian</payeeName>
+      <recipientName>Fitzpatrick, Brian</recipientName>
+      <amount>1000.00</amount>
+      <date>07/02/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Fitzpatrick, Brian</payeeName>
+      <recipientName>Fitzpatrick, Brian</recipientName>
+      <amount>2000.00</amount>
+      <date>12/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Fitzpatrick, Brian</payeeName>
+      <recipientName>Fitzpatrick, Brian</recipientName>
+      <amount>2000.00</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Gardner, Cory</payeeName>
+      <recipientName>Gardner, Cory</recipientName>
+      <amount>3000.00</amount>
+      <date>10/02/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Gardner, Cory</payeeName>
+      <recipientName>Gardner, Cory</recipientName>
+      <amount>2000.00</amount>
+      <date>10/02/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Gonzalez, Anthony</payeeName>
+      <recipientName>Gonzalez, Anthony</recipientName>
+      <amount>1000.00</amount>
+      <date>09/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Gooden, Lance</payeeName>
+      <recipientName>Gooden, Lance</recipientName>
+      <amount>1000.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Grassley, Charles</payeeName>
+      <recipientName>Grassley, Charles</recipientName>
+      <amount>1000.00</amount>
+      <date>12/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Graves, Garret</payeeName>
+      <recipientName>Graves, Garret</recipientName>
+      <amount>1000.00</amount>
+      <date>12/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Graves, Samuel</payeeName>
+      <recipientName>Graves, Samuel</recipientName>
+      <amount>1000.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Griffith, Morgan</payeeName>
+      <recipientName>Griffith, Morgan</recipientName>
+      <amount>1000.00</amount>
+      <date>12/03/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Guthrie, Brett</payeeName>
+      <recipientName>Guthrie, Brett</recipientName>
+      <amount>1000.00</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Hawley, Joshua</payeeName>
+      <recipientName>Hawley, Joshua</recipientName>
+      <amount>1000.00</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Hollingsworth, Trey</payeeName>
+      <recipientName>Hollingsworth, Trey</recipientName>
+      <amount>1000.00</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Katko, John</payeeName>
+      <recipientName>Katko, John</recipientName>
+      <amount>1000.00</amount>
+      <date>11/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>LaHood, Darin</payeeName>
+      <recipientName>LaHood, Darin</recipientName>
+      <amount>1500.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>LaHood, Darin</payeeName>
+      <recipientName>LaHood, Darin</recipientName>
+      <amount>1000.00</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>LaHood, Darin</payeeName>
+      <recipientName>LaHood, Darin</recipientName>
+      <amount>1000.00</amount>
+      <date>12/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>LaMalfa, Doug</payeeName>
+      <recipientName>LaMalfa, Doug</recipientName>
+      <amount>1000.00</amount>
+      <date>10/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Latta, Bob</payeeName>
+      <recipientName>Latta, Bob</recipientName>
+      <amount>1000.00</amount>
+      <date>11/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Mast, Brian</payeeName>
+      <recipientName>Mast, Brian</recipientName>
+      <amount>1000.00</amount>
+      <date>09/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>McCarthy, Kevin</payeeName>
+      <recipientName>McCarthy, Kevin</recipientName>
+      <amount>2500.00</amount>
+      <date>11/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>McConnell, Mitch</payeeName>
+      <recipientName>McConnell. Mitch</recipientName>
+      <amount>2000.00</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>McHenry, Patrick</payeeName>
+      <recipientName>McHenry, Patrick</recipientName>
+      <amount>4000.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>McHenry, Patrick</payeeName>
+      <recipientName>McHenry, Patrick</recipientName>
+      <amount>1000.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>McMorris Rodgers, Cathy</payeeName>
+      <recipientName>McMorris Rodgers, Cathy</recipientName>
+      <amount>1000.00</amount>
+      <date>09/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>McMorris Rodgers, Cathy</payeeName>
+      <recipientName>McMorris Rodgers, Cathy</recipientName>
+      <amount>1000.00</amount>
+      <date>11/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>McMorris Rodgers, Cathy</payeeName>
+      <recipientName>McMorris Rodgers, Cathy</recipientName>
+      <amount>1000.00</amount>
+      <date>11/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>McMorris Rodgers, Cathy</payeeName>
+      <recipientName>McMorris Rodgers, Cathy</recipientName>
+      <amount>1000.00</amount>
+      <date>11/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Meijer, Peter</payeeName>
+      <recipientName>Meijer, Peter</recipientName>
+      <amount>1000.00</amount>
+      <date>10/02/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Miller, Carol</payeeName>
+      <recipientName>Miller, Carol</recipientName>
+      <amount>2500.00</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Moolenaar, John</payeeName>
+      <recipientName>Moolenaar, John</recipientName>
+      <amount>1000.00</amount>
+      <date>07/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Moolenaar, John</payeeName>
+      <recipientName>Moolenaar, John</recipientName>
+      <amount>1000.00</amount>
+      <date>09/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Moran, Jerry</payeeName>
+      <recipientName>Moran, Jerry</recipientName>
+      <amount>5000.00</amount>
+      <date>08/01/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Pence, Greg</payeeName>
+      <recipientName>Pence, Greg</recipientName>
+      <amount>500.00</amount>
+      <date>07/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Pence, Greg</payeeName>
+      <recipientName>Pence, Greg</recipientName>
+      <amount>5000.00</amount>
+      <date>07/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Perdue, David</payeeName>
+      <recipientName>Perdue, David</recipientName>
+      <amount>1000.00</amount>
+      <date>09/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Reed, Tom</payeeName>
+      <recipientName>Reed, Tom</recipientName>
+      <amount>2500.00</amount>
+      <date>09/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Reed, Tom</payeeName>
+      <recipientName>Reed, Tom</recipientName>
+      <amount>1000.00</amount>
+      <date>11/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Risch, James</payeeName>
+      <recipientName>Risch, James</recipientName>
+      <amount>1000.00</amount>
+      <date>12/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Smith, Jason</payeeName>
+      <recipientName>Smith, Jason</recipientName>
+      <amount>1000.00</amount>
+      <date>12/03/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Stewart, Chris</payeeName>
+      <recipientName>Stewart, Chris</recipientName>
+      <amount>2500.00</amount>
+      <date>08/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Stewart, Chris</payeeName>
+      <recipientName>Stewart, Chris</recipientName>
+      <amount>2500.00</amount>
+      <date>10/03/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Taylor, Nicholas</payeeName>
+      <recipientName>Taylor, Nicholas </recipientName>
+      <amount>1000.00</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Tillis, Thom</payeeName>
+      <recipientName>Tillis, Thom</recipientName>
+      <amount>1000.00</amount>
+      <date>12/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Tillis, Thom</payeeName>
+      <recipientName>Tillis, Thom</recipientName>
+      <amount>500.00</amount>
+      <date>12/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Upton, Frederick</payeeName>
+      <recipientName>Upton, Frederick</recipientName>
+      <amount>1000.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Upton, Frederick</payeeName>
+      <recipientName>Upton, Frederick</recipientName>
+      <amount>1000.00</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Walberg, Tim</payeeName>
+      <recipientName>Walberg, Tim</recipientName>
+      <amount>1000.00</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Williams, Roger</payeeName>
+      <recipientName>Williams, Roger</recipientName>
+      <amount>1000.00</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Alliance of Automobile Manufacturers, Inc. PAC
+</payeeName>
+      <recipientName>Alliance of Automobile Manufacturers, Inc. PAC
+</recipientName>
+      <amount>5000.00</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Article 1 PAC</payeeName>
+      <recipientName>Article 1 PAC</recipientName>
+      <amount>2500.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Democratic Congressional Campaign Committee - Building Fund
+</payeeName>
+      <recipientName>Democratic Congressional Campaign Committee - Building Fund
+</recipientName>
+      <amount>5000.00</amount>
+      <date>08/01/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Hawaii PAC</payeeName>
+      <recipientName>Hawaii PAC</recipientName>
+      <amount>5000.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Heartland Values PAC</payeeName>
+      <recipientName>Heartland Values PAC</recipientName>
+      <amount>2500.00</amount>
+      <date>07/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>IMPACT</payeeName>
+      <recipientName>IMPACT</recipientName>
+      <amount>5000.00</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Keystone America PAC</payeeName>
+      <recipientName>Keystone America PAC</recipientName>
+      <amount>1000.00</amount>
+      <date>12/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Motor City PAC</payeeName>
+      <recipientName>Motor City PAC</recipientName>
+      <amount>5000.00</amount>
+      <date>08/01/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Wolverine PAC</payeeName>
+      <recipientName>Wolverine PAC</recipientName>
+      <amount>5000.00</amount>
+      <date>08/01/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Bluegrass Committee</payeeName>
+      <recipientName>Bluegrass Committee</recipientName>
+      <amount>2500.00</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>LATTA PAC</payeeName>
+      <recipientName>LATTA PAC</recipientName>
+      <amount>5000.00</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Lone Star Leadership PAC</payeeName>
+      <recipientName>Lone Star Leadership PAC</recipientName>
+      <amount>1000.00</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Majority Committee PAC - MC PAC
+</payeeName>
+      <recipientName>Majority Committee PAC - MC PAC
+</recipientName>
+      <amount>2500.00</amount>
+      <date>07/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Michigan Republican Party - Federal Account
+</payeeName>
+      <recipientName>Michigan Republican Party - Federal Account
+</recipientName>
+      <amount>5000.00</amount>
+      <date>07/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Promoting Our Republican Team PAC (PORT PAC)
+</payeeName>
+      <recipientName>Promoting Our Republican Team PAC (PORT PAC)
+</recipientName>
+      <amount>1000.00</amount>
+      <date>08/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ford Motor Company Civic Action Fund</contributorName>
+      <payeeName>Thom Tillis Committee</payeeName>
+      <recipientName>Thom Tillis Committee</recipientName>
+      <amount>2000.00</amount>
+      <date>12/26/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>NFIB (National Federation of Independent Business)</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>Brad Close</contactName>
+  <senateRegID>27811</senateRegID>
+  <houseRegID>30604</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/28/2020 4:26:44 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>
+  </noContributions>
+  <pacs>
+    <pac>
+      <name>National Federation of Independent Business Federal Political Action Committee</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Federation of Independent Business Federal Political Action Committee</contributorName>
+      <payeeName>Joni For Iowa</payeeName>
+      <recipientName>Sen. Joni Kay Ernst</recipientName>
+      <amount>2500</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Federation of Independent Business Federal Political Action Committee</contributorName>
+      <payeeName>Steve Chabot For Congress</payeeName>
+      <recipientName>Rep. Steven Joseph Chabot</recipientName>
+      <amount>1000</amount>
+      <date>9/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Federation of Independent Business Federal Political Action Committee</contributorName>
+      <payeeName>Alaskans For Dan Sullivan</payeeName>
+      <recipientName>Sen. Daniel Scott Sullivan</recipientName>
+      <amount>1000</amount>
+      <date>11/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Federation of Independent Business Federal Political Action Committee</contributorName>
+      <payeeName>Collins For Senator</payeeName>
+      <recipientName>Sen. Susan Margaret Collins</recipientName>
+      <amount>1000</amount>
+      <date>11/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Federation of Independent Business Federal Political Action Committee</contributorName>
+      <payeeName>Steve Daines For Montana</payeeName>
+      <recipientName>Sen. Steve David Daines</recipientName>
+      <amount>1000</amount>
+      <date>11/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Federation of Independent Business Federal Political Action Committee</contributorName>
+      <payeeName>Bill Cassidy For US Senate</payeeName>
+      <recipientName>Sen. William Cassidy</recipientName>
+      <amount>1000</amount>
+      <date>11/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Federation of Independent Business Federal Political Action Committee</contributorName>
+      <payeeName>Kelly For Congress</payeeName>
+      <recipientName>Rep. J. Trent Kelly</recipientName>
+      <amount>1000</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Federation of Independent Business Federal Political Action Committee</contributorName>
+      <payeeName>Leadership And Accountability Are National Keys PAC</payeeName>
+      <recipientName>Sen. James Paul Lankford</recipientName>
+      <amount>2000</amount>
+      <date>11/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Federation of Independent Business Federal Political Action Committee</contributorName>
+      <payeeName>Friends To Elect Dr. Greg Murphy To Congress</payeeName>
+      <recipientName>Rep. Gregory Francis Murphy, M.D.</recipientName>
+      <amount>2500</amount>
+      <date>8/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Federation of Independent Business Federal Political Action Committee</contributorName>
+      <payeeName>Buddy Carter For Congress</payeeName>
+      <recipientName>Rep. Earl L. B. Carter</recipientName>
+      <amount>1000</amount>
+      <date>7/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Federation of Independent Business Federal Political Action Committee</contributorName>
+      <payeeName>Ben Sasse For U.S. Senate, Inc.</payeeName>
+      <recipientName>Sen. Benjamin Eric Sasse</recipientName>
+      <amount>1000</amount>
+      <date>11/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Federation of Independent Business Federal Political Action Committee</contributorName>
+      <payeeName>Anthony Gonzalez For Congress</payeeName>
+      <recipientName>Rep. Anthony E Gonzalez</recipientName>
+      <amount>1000</amount>
+      <date>9/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Federation of Independent Business Federal Political Action Committee</contributorName>
+      <payeeName>Friends Of Susan Brooks</payeeName>
+      <recipientName>Rep. Susan W. Brooks</recipientName>
+      <amount>-1000</amount>
+      <date>7/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Federation of Independent Business Federal Political Action Committee</contributorName>
+      <payeeName>McSally For Senate Inc</payeeName>
+      <recipientName>Sen. Martha Elizabeth McSally</recipientName>
+      <amount>2500</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Federation of Independent Business Federal Political Action Committee</contributorName>
+      <payeeName>Perdue For Senate</payeeName>
+      <recipientName>Sen. David Alfred Perdue, Jr.</recipientName>
+      <amount>2000</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Federation of Independent Business Federal Political Action Committee</contributorName>
+      <payeeName>Hern For Congress</payeeName>
+      <recipientName>Rep. Kevin R. Hern</recipientName>
+      <amount>1000</amount>
+      <date>9/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Federation of Independent Business Federal Political Action Committee</contributorName>
+      <payeeName>Bishop For Congress</payeeName>
+      <recipientName>Rep. Dan Bishop</recipientName>
+      <amount>2500</amount>
+      <date>8/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Federation of Independent Business Federal Political Action Committee</contributorName>
+      <payeeName>Friends Of Denver Riggleman, Inc.</payeeName>
+      <recipientName>Rep. Denver L. Riggleman, III</recipientName>
+      <amount>1000</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Federation of Independent Business Federal Political Action Committee</contributorName>
+      <payeeName>Cory Gardner For Senate</payeeName>
+      <recipientName>Sen. Cory Gardner</recipientName>
+      <amount>1000</amount>
+      <date>11/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Federation of Independent Business Federal Political Action Committee</contributorName>
+      <payeeName>McSally For Senate Inc</payeeName>
+      <recipientName>Sen. Martha Elizabeth McSally</recipientName>
+      <amount>1000</amount>
+      <date>11/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Federation of Independent Business Federal Political Action Committee</contributorName>
+      <payeeName>Meuser For Congress</payeeName>
+      <recipientName>Rep. Daniel P. Meuser</recipientName>
+      <amount>1000</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Federation of Independent Business Federal Political Action Committee</contributorName>
+      <payeeName>Joni For Iowa</payeeName>
+      <recipientName>Sen. Joni Kay Ernst</recipientName>
+      <amount>1000</amount>
+      <date>11/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Federation of Independent Business Federal Political Action Committee</contributorName>
+      <payeeName>Cindy Hyde-Smith For US Senate</payeeName>
+      <recipientName>Sen. Cindy Hyde-Smith</recipientName>
+      <amount>1000</amount>
+      <date>11/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Federation of Independent Business Federal Political Action Committee</contributorName>
+      <payeeName>Rodney For Congress</payeeName>
+      <recipientName>Rep. Rodney Lee Davis</recipientName>
+      <amount>1000</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Federation of Independent Business Federal Political Action Committee</contributorName>
+      <payeeName>Capito For West Virginia</payeeName>
+      <recipientName>Sen. Shelley Moore Capito</recipientName>
+      <amount>1000</amount>
+      <date>7/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Federation of Independent Business Federal Political Action Committee</contributorName>
+      <payeeName>Andy Barr For Congress, Inc.</payeeName>
+      <recipientName>Rep. Garland Hale Barr, IV</recipientName>
+      <amount>1000</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Federation of Independent Business Federal Political Action Committee</contributorName>
+      <payeeName>Perdue For Senate</payeeName>
+      <recipientName>Sen. David Alfred Perdue, Jr.</recipientName>
+      <amount>1500</amount>
+      <date>11/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Federation of Independent Business Federal Political Action Committee</contributorName>
+      <payeeName>Steil For Wisconsin, Inc.</payeeName>
+      <recipientName>Rep. Bryan G. Steil</recipientName>
+      <amount>1000</amount>
+      <date>7/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Federation of Independent Business Federal Political Action Committee</contributorName>
+      <payeeName>Volunteers For Shimkus</payeeName>
+      <recipientName>Rep. John M. Shimkus</recipientName>
+      <amount>1000</amount>
+      <date>7/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Federation of Independent Business Federal Political Action Committee</contributorName>
+      <payeeName>Tom Rice For Congress</payeeName>
+      <recipientName>Rep. Tom Rice</recipientName>
+      <amount>2000</amount>
+      <date>9/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Federation of Independent Business Federal Political Action Committee</contributorName>
+      <payeeName>Latta For Congress</payeeName>
+      <recipientName>Rep. Robert E. Latta</recipientName>
+      <amount>1500</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Federation of Independent Business Federal Political Action Committee</contributorName>
+      <payeeName>McSally For Senate Inc</payeeName>
+      <recipientName>Sen. Martha Elizabeth McSally</recipientName>
+      <amount>1000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Federation of Independent Business Federal Political Action Committee</contributorName>
+      <payeeName>Ted Budd For Congress</payeeName>
+      <recipientName>Rep. Theodore Paul Budd</recipientName>
+      <amount>1000</amount>
+      <date>11/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Federation of Independent Business Federal Political Action Committee</contributorName>
+      <payeeName>Cory Gardner For Senate</payeeName>
+      <recipientName>Sen. Cory Gardner</recipientName>
+      <amount>2500</amount>
+      <date>7/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Federation of Independent Business Federal Political Action Committee</contributorName>
+      <payeeName>Mike Gallagher For Wisconsin</payeeName>
+      <recipientName>Rep. Michael John Gallagher</recipientName>
+      <amount>1000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Federation of Independent Business Federal Political Action Committee</contributorName>
+      <payeeName>Collins For Senator</payeeName>
+      <recipientName>Sen. Susan Margaret Collins</recipientName>
+      <amount>2500</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Federation of Independent Business Federal Political Action Committee</contributorName>
+      <payeeName>Don Bacon For Congress</payeeName>
+      <recipientName>Rep. Donald John Bacon</recipientName>
+      <amount>1000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Federation of Independent Business Federal Political Action Committee</contributorName>
+      <payeeName>John Rose For Tennessee</payeeName>
+      <recipientName>Rep. John W. Rose</recipientName>
+      <amount>1000</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Federation of Independent Business Federal Political Action Committee</contributorName>
+      <payeeName>Rounds For Senate</payeeName>
+      <recipientName>Sen. M. Michael Rounds</recipientName>
+      <amount>1000</amount>
+      <date>11/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Federation of Independent Business Federal Political Action Committee</contributorName>
+      <payeeName>Davidson For Congress</payeeName>
+      <recipientName>Rep. Warren Davidson</recipientName>
+      <amount>1000</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Federation of Independent Business Federal Political Action Committee</contributorName>
+      <payeeName>McConnell Senate Committee</payeeName>
+      <recipientName>Sen. Mitch McConnell</recipientName>
+      <amount>2500</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Federation of Independent Business Federal Political Action Committee</contributorName>
+      <payeeName>Tom Reed For Congress</payeeName>
+      <recipientName>Rep. Thomas W. Reed, II.</recipientName>
+      <amount>1000</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Federation of Independent Business Federal Political Action Committee</contributorName>
+      <payeeName>Capito For West Virginia</payeeName>
+      <recipientName>Sen. Shelley Moore Capito</recipientName>
+      <amount>1000</amount>
+      <date>11/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Federation of Independent Business Federal Political Action Committee</contributorName>
+      <payeeName>Oorah! Political Action Committee</payeeName>
+      <recipientName>Sen. Todd Christopher Young</recipientName>
+      <amount>1000</amount>
+      <date>11/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Federation of Independent Business Federal Political Action Committee</contributorName>
+      <payeeName>Latta For Congress</payeeName>
+      <recipientName>Rep. Robert E. Latta</recipientName>
+      <amount>1000</amount>
+      <date>11/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Federation of Independent Business Federal Political Action Committee</contributorName>
+      <payeeName>Texans For Jodey Arrington</payeeName>
+      <recipientName>Rep. Jodey Cook Arrington</recipientName>
+      <amount>1000</amount>
+      <date>10/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Federation of Independent Business Federal Political Action Committee</contributorName>
+      <payeeName>Pete Stauber For Congress</payeeName>
+      <recipientName>Rep. Pete Stauber</recipientName>
+      <amount>1000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Federation of Independent Business Federal Political Action Committee</contributorName>
+      <payeeName>Cory Gardner For Senate</payeeName>
+      <recipientName>Sen. Cory Gardner</recipientName>
+      <amount>1000</amount>
+      <date>9/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Federation of Independent Business Federal Political Action Committee</contributorName>
+      <payeeName>Thom Tillis Committee</payeeName>
+      <recipientName>Sen. Thomas Roland Tillis</recipientName>
+      <amount>2500</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Federation of Independent Business Federal Political Action Committee</contributorName>
+      <payeeName>Fred Keller For Congress</payeeName>
+      <recipientName>Rep. Frederick B. Keller</recipientName>
+      <amount>1000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Federation of Independent Business Federal Political Action Committee</contributorName>
+      <payeeName>Thom Tillis Committee</payeeName>
+      <recipientName>Sen. Thomas Roland Tillis</recipientName>
+      <amount>1000</amount>
+      <date>7/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Federation of Independent Business Federal Political Action Committee</contributorName>
+      <payeeName>Texans For Senator John Cornyn Inc.</payeeName>
+      <recipientName>Sen. John Cornyn, III</recipientName>
+      <amount>1000</amount>
+      <date>11/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Federation of Independent Business Federal Political Action Committee</contributorName>
+      <payeeName>Friends Of Jim Inhofe</payeeName>
+      <recipientName>Sen. James M. Inhofe</recipientName>
+      <amount>1000</amount>
+      <date>11/15/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

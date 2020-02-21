@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>Clark Hill, PLC</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <zipext>
+  </zipext>
+  <contactName>Derek Ross</contactName>
+  <senateRegID>287771</senateRegID>
+  <houseRegID>37048</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/27/2020 12:03:14 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>The Clark Hill Federal Political Action Committee</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Clark Hill Federal Political Action Committee</contributorName>
+      <payeeName>Great America Committee</payeeName>
+      <recipientName>None</recipientName>
+      <amount>2500.00</amount>
+      <date>07/08/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Clark Hill Federal Political Action Committee</contributorName>
+      <payeeName>Michael Blake for Congress</payeeName>
+      <recipientName>Michael Blake</recipientName>
+      <amount>500.00</amount>
+      <date>08/06/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Clark Hill Federal Political Action Committee</contributorName>
+      <payeeName>Haley Stevens</payeeName>
+      <recipientName>Haley Stevens for Congress</recipientName>
+      <amount>1000.00</amount>
+      <date>09/24/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Clark Hill Federal Political Action Committee</contributorName>
+      <payeeName>Brenda Lawrence for Congress</payeeName>
+      <recipientName>Brenda Lawrence</recipientName>
+      <amount>1000.00</amount>
+      <date>10/04/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Clark Hill Federal Political Action Committee</contributorName>
+      <payeeName>Nevadans for Steven Horsford</payeeName>
+      <recipientName>Steven Horsford</recipientName>
+      <amount>1000.00</amount>
+      <date>11/04/19</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

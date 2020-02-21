@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>Air Medical Group Holdings</organizationName>
+  <lobbyistPrefix>Mr.</lobbyistPrefix>
+  <lobbyistFirstName>Timothy</lobbyistFirstName>
+  <lobbyistMiddleName>R</lobbyistMiddleName>
+  <lobbyistLastName>Pickering</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <address2>
+  </address2>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>401105422</senateRegID>
+  <houseRegID>44564</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>After performing reasonable due diligence, and to the best of my knowledge, I am in compliance with the Standing Rules of the U.S. House and Senate.</comments>
+  <signedDate>1/29/2020 1:59:37 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Jason Smith for Congress</payeeName>
+      <recipientName>Rep. Jason Smith</recipientName>
+      <amount>500.00</amount>
+      <date>11/19/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

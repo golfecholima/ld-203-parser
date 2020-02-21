@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>Broydrick &amp; Associates</organizationName>
+  <lobbyistPrefix>Mrs.</lobbyistPrefix>
+  <lobbyistFirstName>CYNTHIA</lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>BROYDRICK</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>7268</senateRegID>
+  <houseRegID>32405</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/29/2020 8:57:55 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Bishop for Congress</payeeName>
+      <recipientName>Rep. Dan Bishop</recipientName>
+      <amount>250.00</amount>
+      <date>07/25/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Grothman for Congress</payeeName>
+      <recipientName>Rep. Glenn Grothman</recipientName>
+      <amount>250.00</amount>
+      <date>08/09/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Moore for Senate</payeeName>
+      <recipientName>Rep. Gwen Moore</recipientName>
+      <amount>912.63</amount>
+      <date>09/25/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Rep. Angie Craig</payeeName>
+      <recipientName>Rep. Angie Craig</recipientName>
+      <amount>788.80</amount>
+      <date>10/23/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Blunt for Senate</payeeName>
+      <recipientName>Sen. Roy Blunt</recipientName>
+      <amount>500.00</amount>
+      <date>11/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Rep. Ron Kind</payeeName>
+      <recipientName>Rep. Ron Kind</recipientName>
+      <amount>943.14</amount>
+      <date>11/14/19</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

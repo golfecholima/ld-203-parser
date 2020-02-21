@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>Ligado Networks</organizationName>
+  <lobbyistPrefix>Ms.</lobbyistPrefix>
+  <lobbyistFirstName>Ashley</lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>Durmer</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>401103964</senateRegID>
+  <houseRegID>43205</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>I direct or control contributions made by Ligado Networks LLC Political Action Committee. Ligado Networks LLC Political Action Committee did not make any reportable contributions during the reporting period.</comments>
+  <signedDate>1/30/2020 10:15:02 AM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Kennedy for Massachusetts</payeeName>
+      <recipientName>Joseph P. Kennedy III</recipientName>
+      <amount>250.00</amount>
+      <date>9/23/19</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

@@ -1,0 +1,558 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>Small Business Investor Alliance</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <zipext>
+  </zipext>
+  <contactName>Chris Marston</contactName>
+  <senateRegID>27126</senateRegID>
+  <houseRegID>30356</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/31/2020 9:12:39 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>Small Business Investor Alliance PAC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Small Business Investor Alliance PAC</contributorName>
+      <payeeName>Josh Hawley for Senate
+</payeeName>
+      <recipientName>Sen. Josh Hawley
+</recipientName>
+      <amount>1,000 .00</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Small Business Investor Alliance PAC</contributorName>
+      <payeeName>Ross Spano for Congress
+</payeeName>
+      <recipientName>Rep. Ross Spano
+</recipientName>
+      <amount>1000.00</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Small Business Investor Alliance PAC</contributorName>
+      <payeeName>Burchett for Congress
+</payeeName>
+      <recipientName>Rep. Tim Burchett
+</recipientName>
+      <amount>1000.00</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Small Business Investor Alliance PAC</contributorName>
+      <payeeName>Finkenauer for Congress
+</payeeName>
+      <recipientName>Rep. Abby Finkenauer
+</recipientName>
+      <amount>1000.00</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Small Business Investor Alliance PAC</contributorName>
+      <payeeName>Jason Crow for Congress
+</payeeName>
+      <recipientName>Rep. Jason Crow
+</recipientName>
+      <amount>1000.00</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Small Business Investor Alliance PAC</contributorName>
+      <payeeName>Chrissy Houlahan for Congress
+</payeeName>
+      <recipientName>Rep. Chrissy Houlahan
+</recipientName>
+      <amount>1000.00</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Small Business Investor Alliance PAC</contributorName>
+      <payeeName>Friends of Hagedorn
+</payeeName>
+      <recipientName>Rep. Jim Hagedorn
+</recipientName>
+      <amount>1000.00</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Small Business Investor Alliance PAC</contributorName>
+      <payeeName>The Committee to Re-elect Nydia Velazquez
+</payeeName>
+      <recipientName>Rep. Nydia Velazquez
+</recipientName>
+      <amount>1000.00</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Small Business Investor Alliance PAC</contributorName>
+      <payeeName>Kelly for Congress
+</payeeName>
+      <recipientName>Rep. Trent Kelly
+</recipientName>
+      <amount>1000.00</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Small Business Investor Alliance PAC</contributorName>
+      <payeeName>Schneider for Congress
+</payeeName>
+      <recipientName>Rep. Brad Schneider
+</recipientName>
+      <amount>1500.00</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Small Business Investor Alliance PAC</contributorName>
+      <payeeName>Citizens for Waters
+</payeeName>
+      <recipientName>Rep. Maxine Waters
+</recipientName>
+      <amount>1000.00</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Small Business Investor Alliance PAC</contributorName>
+      <payeeName>Hern for Congress
+</payeeName>
+      <recipientName>Rep. Kevin Hern
+</recipientName>
+      <amount>1000.00</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Small Business Investor Alliance PAC</contributorName>
+      <payeeName>Friends of Ben McAdams
+</payeeName>
+      <recipientName>Rep. Ben McAdams
+</recipientName>
+      <amount>1000.00</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Small Business Investor Alliance PAC</contributorName>
+      <payeeName>Pete Stauber for Congress Volunteer Committee
+</payeeName>
+      <recipientName>Rep. Pete Stauber
+</recipientName>
+      <amount>1000.00</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Small Business Investor Alliance PAC</contributorName>
+      <payeeName>Sherman for Congress
+</payeeName>
+      <recipientName>Rep. Brad Sherman
+</recipientName>
+      <amount>1000.00</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Small Business Investor Alliance PAC</contributorName>
+      <payeeName>Stephanie Murphy for Congress
+</payeeName>
+      <recipientName>Rep. Stephanie Murphy
+</recipientName>
+      <amount>1000.00</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Small Business Investor Alliance PAC</contributorName>
+      <payeeName>Dr. John Joyce for Congress
+</payeeName>
+      <recipientName>Rep. John Joyce
+</recipientName>
+      <amount>1000.00</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Small Business Investor Alliance PAC</contributorName>
+      <payeeName>Dwight Evans for Congress
+</payeeName>
+      <recipientName>Rep. Dwight Evans
+</recipientName>
+      <amount>1000.00</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Small Business Investor Alliance PAC</contributorName>
+      <payeeName>Chris Coons for Delaware
+</payeeName>
+      <recipientName>Sen. Chris Coons
+</recipientName>
+      <amount>2500.00</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Small Business Investor Alliance PAC</contributorName>
+      <payeeName>Marc Veasey Congressional Campaign Committee
+</payeeName>
+      <recipientName>Rep. Marc Veasey
+</recipientName>
+      <amount>1000.00</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Small Business Investor Alliance PAC</contributorName>
+      <payeeName>Anthony Gonzalez for Congress
+</payeeName>
+      <recipientName>Rep. Anthony Gonzalez
+</recipientName>
+      <amount>1000.00</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Small Business Investor Alliance PAC</contributorName>
+      <payeeName>Steve Chabot for Congress
+</payeeName>
+      <recipientName>Rep. Steve Chabot
+</recipientName>
+      <amount>1000.00</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Small Business Investor Alliance PAC</contributorName>
+      <payeeName>Stivers for Congress
+</payeeName>
+      <recipientName>Rep. Steve Stivers
+</recipientName>
+      <amount>1500.00</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Small Business Investor Alliance PAC</contributorName>
+      <payeeName>Balderson for Congress
+</payeeName>
+      <recipientName>Rep. Troy Balderson
+</recipientName>
+      <amount>1500.00</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Small Business Investor Alliance PAC</contributorName>
+      <payeeName>BARR PAC
+</payeeName>
+      <recipientName>Rep. Andy Barr
+</recipientName>
+      <amount>3000.00</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Small Business Investor Alliance PAC</contributorName>
+      <payeeName>STEVE PAC
+</payeeName>
+      <recipientName>Rep. Steve Stivers
+</recipientName>
+      <amount>2500.00</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Small Business Investor Alliance PAC</contributorName>
+      <payeeName>Reclaim America PAC
+</payeeName>
+      <recipientName>Sen. Marco Rubio
+</recipientName>
+      <amount>5000.00</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Small Business Investor Alliance PAC</contributorName>
+      <payeeName>Richard E Neal for Congress
+</payeeName>
+      <recipientName>Rep Richard Neal
+</recipientName>
+      <amount>1000.00</amount>
+      <date>12/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Small Business Investor Alliance PAC</contributorName>
+      <payeeName>Huizenga for Congress
+</payeeName>
+      <recipientName>Rep Bill Huizenga
+</recipientName>
+      <amount>1000.00</amount>
+      <date>12/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Small Business Investor Alliance PAC</contributorName>
+      <payeeName>Hern for Congress
+</payeeName>
+      <recipientName>Rep Kevin Hern
+</recipientName>
+      <amount>2500.00</amount>
+      <date>12/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Small Business Investor Alliance PAC</contributorName>
+      <payeeName>Tammy for Illinois
+</payeeName>
+      <recipientName>Sen Tammy Duckworth
+</recipientName>
+      <amount>1000.00</amount>
+      <date>12/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Small Business Investor Alliance PAC</contributorName>
+      <payeeName>Chris Coons for Delaware
+</payeeName>
+      <recipientName>Sen Chris Coons
+</recipientName>
+      <amount>1000.00</amount>
+      <date>12/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Small Business Investor Alliance PAC</contributorName>
+      <payeeName>John Kennedy for US, Inc.
+</payeeName>
+      <recipientName>Sen John Kennedy
+</recipientName>
+      <amount>1000.00</amount>
+      <date>12/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Small Business Investor Alliance PAC</contributorName>
+      <payeeName>Bill Foster for Congress
+</payeeName>
+      <recipientName>Rep Bill Foster
+</recipientName>
+      <amount>1000.00</amount>
+      <date>12/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Small Business Investor Alliance PAC</contributorName>
+      <payeeName>Sharice for Congress
+</payeeName>
+      <recipientName>Rep Sharice Davids
+</recipientName>
+      <amount>1000.00</amount>
+      <date>12/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Small Business Investor Alliance PAC</contributorName>
+      <payeeName>LaHood for Congress
+</payeeName>
+      <recipientName>Rep Darin LaHood
+</recipientName>
+      <amount>1000.00</amount>
+      <date>12/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Small Business Investor Alliance PAC</contributorName>
+      <payeeName>Josh Hawley for Senate
+</payeeName>
+      <recipientName>Sen Josh Hawley
+</recipientName>
+      <amount>1000.00</amount>
+      <date>12/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Small Business Investor Alliance PAC</contributorName>
+      <payeeName>Sinema for Arizona
+</payeeName>
+      <recipientName>Sen Kyrsten Sinema
+</recipientName>
+      <amount>1000.00</amount>
+      <date>12/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Small Business Investor Alliance PAC</contributorName>
+      <payeeName>Shaheen for Senate
+</payeeName>
+      <recipientName>Sen Jean Shaheen
+</recipientName>
+      <amount>1000.00</amount>
+      <date>12/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Small Business Investor Alliance PAC</contributorName>
+      <payeeName>Tim Scott for Senate
+</payeeName>
+      <recipientName>Sen Tim Scott
+</recipientName>
+      <amount>1000.00</amount>
+      <date>12/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Small Business Investor Alliance PAC</contributorName>
+      <payeeName>Anthony Gonzalez for Congress
+</payeeName>
+      <recipientName>Rep Anthony Gonzalez
+</recipientName>
+      <amount>1000.00</amount>
+      <date>12/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Small Business Investor Alliance PAC</contributorName>
+      <payeeName>Dr. John Joyce for Congress
+</payeeName>
+      <recipientName>Rep John Joyce
+</recipientName>
+      <amount>1000.00</amount>
+      <date>12/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Small Business Investor Alliance PAC</contributorName>
+      <payeeName>Friends of Todd Young
+</payeeName>
+      <recipientName>Sen Todd Young
+</recipientName>
+      <amount>1000.00</amount>
+      <date>12/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Small Business Investor Alliance PAC</contributorName>
+      <payeeName>Mike Crapo for US Senate
+</payeeName>
+      <recipientName>Sen Mike Crapo
+</recipientName>
+      <amount>2500.00</amount>
+      <date>12/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Small Business Investor Alliance PAC</contributorName>
+      <payeeName>Moore For US Congress
+</payeeName>
+      <recipientName>Rep Gwen Moore
+</recipientName>
+      <amount>1000.00</amount>
+      <date>12/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Small Business Investor Alliance PAC</contributorName>
+      <payeeName>STEVE PAC - Support to Ensure Victory Everywhere
+</payeeName>
+      <recipientName>Rep Steve Stivers
+</recipientName>
+      <amount>2500.00</amount>
+      <date>12/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Small Business Investor Alliance PAC</contributorName>
+      <payeeName>Texans for Jodey Arrington
+</payeeName>
+      <recipientName>Rep Jodey Arrington
+</recipientName>
+      <amount>1000.00</amount>
+      <date>12/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Small Business Investor Alliance PAC</contributorName>
+      <payeeName>Blaine for Congress
+</payeeName>
+      <recipientName>Rep Blaine Luetkemeyer
+</recipientName>
+      <amount>1000.00</amount>
+      <date>12/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Small Business Investor Alliance PAC</contributorName>
+      <payeeName>Himes for Congress
+</payeeName>
+      <recipientName>Rep Jim Himes
+</recipientName>
+      <amount>1000.00</amount>
+      <date>12/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Small Business Investor Alliance PAC</contributorName>
+      <payeeName>McSally for Senate
+</payeeName>
+      <recipientName>Sen Martha McSally
+</recipientName>
+      <amount>1000.00</amount>
+      <date>12/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Small Business Investor Alliance PAC</contributorName>
+      <payeeName>Blue Dog PAC
+</payeeName>
+      <recipientName>House Dems
+</recipientName>
+      <amount>5000.00</amount>
+      <date>12/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Small Business Investor Alliance PAC</contributorName>
+      <payeeName>Sherman for Congress
+</payeeName>
+      <recipientName>Rep. Brad Sherman
+</recipientName>
+      <amount>1000.00</amount>
+      <date>12/19/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

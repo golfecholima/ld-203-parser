@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>Groom Law Group, Chartered</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <zipext>
+  </zipext>
+  <contactName>BRIGEN L. WINTERS</contactName>
+  <senateRegID>17000</senateRegID>
+  <houseRegID>31350</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/30/2020 3:03:44 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>Groom Law Group, Chartered Political Action Committee</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Groom Law Group, Chartered Political Action Committee</contributorName>
+      <payeeName>Guthrie for Congress</payeeName>
+      <recipientName>Representative Brett Guthrie</recipientName>
+      <amount>2500.00</amount>
+      <date>09/03/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Groom Law Group, Chartered Political Action Committee</contributorName>
+      <payeeName>Delbene for Congress</payeeName>
+      <recipientName>Representative Suzan Delbene</recipientName>
+      <amount>2500.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Groom Law Group, Chartered Political Action Committee</contributorName>
+      <payeeName>Rob Portman for US Senate</payeeName>
+      <recipientName>Senator Rob Portman</recipientName>
+      <amount>2500.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Groom Law Group, Chartered Political Action Committee</contributorName>
+      <payeeName>Mike Crapo for US Senate</payeeName>
+      <recipientName>Senator Mike Crapo</recipientName>
+      <amount>1500.00</amount>
+      <date>10/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Groom Law Group, Chartered Political Action Committee</contributorName>
+      <payeeName>Rob Portman for US Senate</payeeName>
+      <recipientName>Senator Rob Portman</recipientName>
+      <amount>1000.00</amount>
+      <date>10/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Groom Law Group, Chartered Political Action Committee</contributorName>
+      <payeeName>Neal for Congress</payeeName>
+      <recipientName>Representative Richard Neal</recipientName>
+      <amount>2500.00</amount>
+      <date>12/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Groom Law Group, Chartered Political Action Committee</contributorName>
+      <payeeName>Bera for Congress</payeeName>
+      <recipientName>Representative Ami Bera, M.D.</recipientName>
+      <amount>500.00</amount>
+      <date>12/27/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

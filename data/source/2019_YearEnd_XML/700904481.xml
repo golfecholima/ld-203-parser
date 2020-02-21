@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>Smith &amp; Nephew, Inc.</organizationName>
+  <lobbyistPrefix>Mr.</lobbyistPrefix>
+  <lobbyistFirstName>John</lobbyistFirstName>
+  <lobbyistMiddleName>E.</lobbyistMiddleName>
+  <lobbyistLastName>Martin</lobbyistLastName>
+  <lobbyistSuffix>Jr.</lobbyistSuffix>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>400728183</senateRegID>
+  <houseRegID>41625</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>I am assistant treasurer of Smith &amp; Nephew Inc PAC, a separate segregated fund. All reportable PAC contributions appear on the Smith &amp; Nephew Inc PAC LD-203 report.</comments>
+  <signedDate>1/9/2020 9:37:16 AM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Kustoff for Congress</payeeName>
+      <recipientName>David Kustoff</recipientName>
+      <amount>1000.00</amount>
+      <date>07/07/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

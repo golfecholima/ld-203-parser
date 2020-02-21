@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>Pfizer, Inc.</organizationName>
+  <lobbyistPrefix>Mr.</lobbyistPrefix>
+  <lobbyistFirstName>Joseph</lobbyistFirstName>
+  <lobbyistMiddleName>Tucker</lobbyistMiddleName>
+  <lobbyistLastName>Knott</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>31326</senateRegID>
+  <houseRegID>31354</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/28/2020 11:28:32 AM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>David Valadao for Congress</payeeName>
+      <recipientName>David Valadao </recipientName>
+      <amount>2800.00</amount>
+      <date>08/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Tucker for Senate</payeeName>
+      <recipientName>Garland Tucker </recipientName>
+      <amount>1000.00</amount>
+      <date>08/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Tucker for Senate</payeeName>
+      <recipientName>Garland Tucker </recipientName>
+      <amount>500.00</amount>
+      <date>10/07/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Tucker for Senate</payeeName>
+      <recipientName>Garland Tucker </recipientName>
+      <amount>100.00</amount>
+      <date>10/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Tucker for Senate</payeeName>
+      <recipientName>Garland Tucker </recipientName>
+      <amount>500.00</amount>
+      <date>10/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Tucker for Senate</payeeName>
+      <recipientName>Garland Tucker </recipientName>
+      <amount>100.00</amount>
+      <date>11/04/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

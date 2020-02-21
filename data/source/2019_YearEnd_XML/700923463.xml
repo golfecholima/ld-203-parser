@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>PHARMAVITE LLC</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>Ingrid Lebert</contactName>
+  <senateRegID>286074</senateRegID>
+  <houseRegID>36957</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/29/2020 2:53:46 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>Pharmavite Political Action Committee</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Pharmavite Political Action Committee</contributorName>
+      <payeeName>Patty Murray for Senate</payeeName>
+      <recipientName>Sen. Patty Murry (D-WA)</recipientName>
+      <amount>1000.00</amount>
+      <date>07/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Pharmavite Political Action Committee</contributorName>
+      <payeeName>Sinema for Arizona</payeeName>
+      <recipientName>Sen. Kyrsten Sinema (D-AZ)</recipientName>
+      <amount>1000.00</amount>
+      <date>07/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Pharmavite Political Action Committee</contributorName>
+      <payeeName>Doug Jones for Senate</payeeName>
+      <recipientName>Sen. Doug Jones (D-AL)</recipientName>
+      <amount>1000.00</amount>
+      <date>07/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Pharmavite Political Action Committee</contributorName>
+      <payeeName>Tony Cardenas for Congress</payeeName>
+      <recipientName>Rep. Tony Cardenas (D-CA)</recipientName>
+      <amount>1000.00</amount>
+      <date>07/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Pharmavite Political Action Committee</contributorName>
+      <payeeName>John Shimkus for Congress</payeeName>
+      <recipientName>Rep. John Shimkus (R-IL)</recipientName>
+      <amount>1000.00</amount>
+      <date>07/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Pharmavite Political Action Committee</contributorName>
+      <payeeName>Michael Burgess for Congress</payeeName>
+      <recipientName>Rep. Michael Burgess (R-TX)</recipientName>
+      <amount>1000.00</amount>
+      <date>09/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Pharmavite Political Action Committee</contributorName>
+      <payeeName>Mike Braun for Indiana</payeeName>
+      <recipientName>Sen. Mike Braun (R-IN)</recipientName>
+      <amount>1000.00</amount>
+      <date>09/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Pharmavite Political Action Committee</contributorName>
+      <payeeName>Pallone for Congress</payeeName>
+      <recipientName>Rep. Frank Pallone (D-NJ)</recipientName>
+      <amount>1000.00</amount>
+      <date>09/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Pharmavite Political Action Committee</contributorName>
+      <payeeName>David Rouzer for Congress</payeeName>
+      <recipientName>Rep. David Rouzer (R-NC)</recipientName>
+      <amount>1000.00</amount>
+      <date>09/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Pharmavite Political Action Committee</contributorName>
+      <payeeName>Martin Heinrich for Senate</payeeName>
+      <recipientName>Sen. Martin Heinrich (D-NM)</recipientName>
+      <amount>1000.00</amount>
+      <date>09/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Pharmavite Political Action Committee</contributorName>
+      <payeeName>Mike Rogers for Congress</payeeName>
+      <recipientName>Rep. Mike Rogers (R-AL)</recipientName>
+      <amount>1000.00</amount>
+      <date>09/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Pharmavite Political Action Committee</contributorName>
+      <payeeName>Tim Scott for Senate</payeeName>
+      <recipientName>Sen. Tim Scott (R-SC)</recipientName>
+      <amount>1000.00</amount>
+      <date>10/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Pharmavite Political Action Committee</contributorName>
+      <payeeName>Sinema for Arizona</payeeName>
+      <recipientName>Sen. Kyrsten Sinema (D-AZ)</recipientName>
+      <amount>1000.00</amount>
+      <date>10/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Pharmavite Political Action Committee</contributorName>
+      <payeeName>Ted Lieu for Congress</payeeName>
+      <recipientName>Rep. Ted Lieu (D-CA)</recipientName>
+      <amount>1000.00</amount>
+      <date>10/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Pharmavite Political Action Committee</contributorName>
+      <payeeName>Brad Sherman for Congress</payeeName>
+      <recipientName>Rep. Brad Sherman (D-CA)</recipientName>
+      <amount>1000.00</amount>
+      <date>11/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Pharmavite Political Action Committee</contributorName>
+      <payeeName>The Top Four 2020 Committee</payeeName>
+      <recipientName>Sens. Jean Shaheen (D-NH), Gary Peters (D-MI), Doug Jones (D-AL), Tina Smith (D-MN)</recipientName>
+      <amount>2000.00</amount>
+      <date>11/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Pharmavite Political Action Committee</contributorName>
+      <payeeName>Martin Henrich for Senate</payeeName>
+      <recipientName>Sen. Martin Heinrich (D-NM)</recipientName>
+      <amount>1000.00</amount>
+      <date>11/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Pharmavite Political Action Committee</contributorName>
+      <payeeName>Kinzinger for Congress</payeeName>
+      <recipientName>Rep. Adam Kinzinger (R-IL)</recipientName>
+      <amount>1000.00</amount>
+      <date>11/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Pharmavite Political Action Committee</contributorName>
+      <payeeName>Maggie for New Hampshire</payeeName>
+      <recipientName>Sen. Maggie Hassan (D-NH)</recipientName>
+      <amount>1000.00</amount>
+      <date>11/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Pharmavite Political Action Committee</contributorName>
+      <payeeName>Tammy Baldwin for Senate</payeeName>
+      <recipientName>Sen. Tammy Baldwin (D-WI)</recipientName>
+      <amount>1000.00</amount>
+      <date>12/04/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>Microsoft Corporation</organizationName>
+  <lobbyistPrefix>Mr.</lobbyistPrefix>
+  <lobbyistFirstName>Chan</lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>Park</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>25204</senateRegID>
+  <houseRegID>31174</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/30/2020 4:36:47 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>Asian American Action Fund</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Chris Coons for Delaware</payeeName>
+      <recipientName>Chris Coons</recipientName>
+      <amount>1000.00</amount>
+      <date>10/08/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Asian American Action Fund</contributorName>
+      <payeeName>Sri for Congress</payeeName>
+      <recipientName>Sri Preston Kulkarni</recipientName>
+      <amount>5000.00</amount>
+      <date>07/01/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Asian American Action Fund</contributorName>
+      <payeeName>Andy Kim for Congress</payeeName>
+      <recipientName>Andy Kim</recipientName>
+      <amount>5000.00</amount>
+      <date>07/01/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Asian American Action Fund</contributorName>
+      <payeeName>Cisneros for Congress</payeeName>
+      <recipientName>Gilbert Cisneros</recipientName>
+      <amount>5000.00</amount>
+      <date>09/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Asian American Action Fund</contributorName>
+      <payeeName>Susie Lee for Congress</payeeName>
+      <recipientName>Susie Lee</recipientName>
+      <amount>5000.00</amount>
+      <date>09/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Asian American Action Fund</contributorName>
+      <payeeName>Harley Rouda for Congress</payeeName>
+      <recipientName>Harley Rouda</recipientName>
+      <amount>5000.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Asian American Action Fund</contributorName>
+      <payeeName>Haley Stevens for Congress</payeeName>
+      <recipientName>Haley Stevens</recipientName>
+      <amount>1000.00</amount>
+      <date>10/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Asian American Action Fund</contributorName>
+      <payeeName>Sara Gideon for Maine</payeeName>
+      <recipientName>Sara Gideon</recipientName>
+      <amount>5000.00</amount>
+      <date>12/06/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

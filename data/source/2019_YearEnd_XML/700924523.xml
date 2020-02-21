@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>AIRPORTS COUNCIL INTERNATIONAL -- NORTH AMERICA</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>Annie Russo</contactName>
+  <senateRegID>647</senateRegID>
+  <houseRegID>32160</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/30/2020 10:41:57 AM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>ACI-NA PAC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ACI-NA PAC</contributorName>
+      <payeeName>Responsibility &amp; Freedom Work PAC</payeeName>
+      <recipientName>Senator Roger Wicker </recipientName>
+      <amount>2500.00</amount>
+      <date>07/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ACI-NA PAC</contributorName>
+      <payeeName>Collins for Senator </payeeName>
+      <recipientName>Senator Susan Collins </recipientName>
+      <amount>1500.00</amount>
+      <date>07/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ACI-NA PAC</contributorName>
+      <payeeName>Dirigo PAC</payeeName>
+      <recipientName>Senator Susan Collins </recipientName>
+      <amount>3500.00</amount>
+      <date>07/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ACI-NA PAC</contributorName>
+      <payeeName>Peters for Michigan </payeeName>
+      <recipientName>Senator Gary Peters </recipientName>
+      <amount>2500.00</amount>
+      <date>09/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ACI-NA PAC</contributorName>
+      <payeeName>Castor for Congress</payeeName>
+      <recipientName>Congresswoman Kathy Castor</recipientName>
+      <amount>2500.00</amount>
+      <date>09/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ACI-NA PAC</contributorName>
+      <payeeName>Committee for Leadership &amp; Progress
+</payeeName>
+      <recipientName>Congresswoman Nita Lowey </recipientName>
+      <amount>1000.00</amount>
+      <date>09/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ACI-NA PAC</contributorName>
+      <payeeName>DeFazio for Congress
+</payeeName>
+      <recipientName>Congressman Peter DeFazio </recipientName>
+      <amount>2500.00</amount>
+      <date>10/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ACI-NA PAC</contributorName>
+      <payeeName>Friends of Bennie Thompson
+</payeeName>
+      <recipientName>Congressman Bennie Thompson</recipientName>
+      <amount>1500.00</amount>
+      <date>11/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ACI-NA PAC</contributorName>
+      <payeeName>McConnell for Majority Leader </payeeName>
+      <recipientName>Senator Mitch McConnell </recipientName>
+      <amount>2500.00</amount>
+      <date>11/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ACI-NA PAC</contributorName>
+      <payeeName>Bluemnauer for Congress
+</payeeName>
+      <recipientName>Congressman Earl Blumenauer</recipientName>
+      <amount>1000.00</amount>
+      <date>11/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ACI-NA PAC</contributorName>
+      <payeeName>Graves for Congress
+</payeeName>
+      <recipientName>Congressman Sam Graves </recipientName>
+      <amount>1000.00</amount>
+      <date>12/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ACI-NA PAC</contributorName>
+      <payeeName>Rodney for Congress
+</payeeName>
+      <recipientName>Congressman Rodney Davis </recipientName>
+      <amount>1000.00</amount>
+      <date>12/31/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

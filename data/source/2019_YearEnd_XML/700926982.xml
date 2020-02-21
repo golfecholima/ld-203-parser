@@ -1,0 +1,1513 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>Air Line Pilots Association</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>Government Affairs Department</contactName>
+  <senateRegID>580</senateRegID>
+  <houseRegID>30014</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/31/2020 4:16:40 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>
+  </noContributions>
+  <pacs>
+    <pac>
+      <name>Air Line Pilots Association PAC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Defending American Values Everywhere PAC</payeeName>
+      <recipientName>Rep. Dave Joyce</recipientName>
+      <amount>5000</amount>
+      <date>09/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Democratic Congressional Campaign Committee Recount Fund</payeeName>
+      <recipientName>Democratic Congressional Campaign Committee Recount Fund</recipientName>
+      <amount>45000</amount>
+      <date>09/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>National Republican Congressional Committee Legal Fund</payeeName>
+      <recipientName>National Republican Congressional Committee Legal Fund</recipientName>
+      <amount>45000</amount>
+      <date>09/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>National Republican Senatorial Committee Recount Fund</payeeName>
+      <recipientName>National Republican Senatorial Committee Recount Fund</recipientName>
+      <amount>45000</amount>
+      <date>09/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Democratic Senatorial Campaign Committee Recount Fund</payeeName>
+      <recipientName>Democratic Senatorial Campaign Committee Recount Fund</recipientName>
+      <amount>45000</amount>
+      <date>09/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Educate And Innovate PAC</payeeName>
+      <recipientName>Sen. Edward Markey</recipientName>
+      <amount>5000</amount>
+      <date>09/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Colin Allred For Congress</payeeName>
+      <recipientName>Rep. Colin Allred</recipientName>
+      <amount>1000</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>People's Voice PAC</payeeName>
+      <recipientName>Sen. Tammy Baldwin</recipientName>
+      <amount>2500</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Barragan For Congress</payeeName>
+      <recipientName>Nanette Barragan</recipientName>
+      <amount>1000</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Bera For Congress</payeeName>
+      <recipientName>Rep. Ami Bera MD</recipientName>
+      <amount>1000</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Blumenauer For Congress</payeeName>
+      <recipientName>Rep. Earl Blumenauer</recipientName>
+      <amount>1000</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Nutmeg PAC</payeeName>
+      <recipientName>Sen. Richard Blumenthal</recipientName>
+      <amount>1000</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Lisa Blunt Rochester For Congress</payeeName>
+      <recipientName>Rep. Lisa Blunt Rochester</recipientName>
+      <amount>1000</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Citizens For Boyle</payeeName>
+      <recipientName>Brendan Boyle</recipientName>
+      <amount>1000</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Citizens For Boyle</payeeName>
+      <recipientName>Brendan Boyle</recipientName>
+      <amount>1000</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Julia Brownley For Congress</payeeName>
+      <recipientName>Rep. Julia Brownley</recipientName>
+      <amount>2500</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Julia Brownley For Congress</payeeName>
+      <recipientName>Rep. Julia Brownley</recipientName>
+      <amount>1000</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>CherPAC</payeeName>
+      <recipientName>Rep. Cheri Bustos</recipientName>
+      <amount>5000</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Ken Calvert For Congress Committee</payeeName>
+      <recipientName>Kenneth Calvert</recipientName>
+      <amount>1000</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Salud Carbajal For Congress</payeeName>
+      <recipientName>Salud Carbajal</recipientName>
+      <amount>1000</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Tony Cardenas For Congress</payeeName>
+      <recipientName>Rep. Tony Cardenas</recipientName>
+      <amount>1000</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Liz Cheney For Wyoming</payeeName>
+      <recipientName>Rep. Liz Cheney</recipientName>
+      <amount>1000</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Cicilline Committee</payeeName>
+      <recipientName>Rep. David N. Cicilline</recipientName>
+      <amount>1000</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Jim Costa For Congress</payeeName>
+      <recipientName>Rep. Jim Costa</recipientName>
+      <amount>1000</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Angie Craig For Congress</payeeName>
+      <recipientName>Angela Craig</recipientName>
+      <amount>2000</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Angie Craig For Congress</payeeName>
+      <recipientName>Angela Craig</recipientName>
+      <amount>1000</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Steve Daines For Montana</payeeName>
+      <recipientName>Sen. Steve Daines</recipientName>
+      <amount>1500</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Sharice For Congress</payeeName>
+      <recipientName>Rep. Sharice Davids</recipientName>
+      <amount>3000</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Progressive Americans for Democracy</payeeName>
+      <recipientName>Peter DeFazio</recipientName>
+      <amount>5000</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Friends Of Dick Durbin Committee</payeeName>
+      <recipientName>Sen. Richard J. Durbin</recipientName>
+      <amount>5000</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Engel For Congress</payeeName>
+      <recipientName>Rep. Eliot L. Engel</recipientName>
+      <amount>5000</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Joni For Iowa</payeeName>
+      <recipientName>Sen. Joni Ernst</recipientName>
+      <amount>1000</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Veronica Escobar For Congress</payeeName>
+      <recipientName>Rep. Veronica Escobar</recipientName>
+      <amount>1000</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Ron Estes For Congress</payeeName>
+      <recipientName>Rep. Ron Estes</recipientName>
+      <amount>2000</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Drew Ferguson For Congress Inc.</payeeName>
+      <recipientName>Rep. A. Drew Ferguson</recipientName>
+      <amount>1500</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Drew Ferguson For Congress Inc.</payeeName>
+      <recipientName>Rep. A. Drew Ferguson</recipientName>
+      <amount>5000</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Finkenauer For Congress</payeeName>
+      <recipientName>Rep. Abby Lea Finkenauer</recipientName>
+      <amount>1000</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Elizabeth Pannill Fletcher For Congress</payeeName>
+      <recipientName>Rep. Lizzie Fletcher</recipientName>
+      <amount>1000</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Jeff Fortenberry For United States Congress</payeeName>
+      <recipientName>Rep. Jeff Fortenberry</recipientName>
+      <amount>1000</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Mike Gallagher For Wisconsin</payeeName>
+      <recipientName>Rep. Michael John Gallagher</recipientName>
+      <amount>1000</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Chuy Garcia For Congress</payeeName>
+      <recipientName>Rep. Jesus G. Garcia</recipientName>
+      <amount>1000</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Graves For Congress</payeeName>
+      <recipientName>Rep. Samuel B. Graves Jr.</recipientName>
+      <amount>1000</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Vicky Hartzler For Congress</payeeName>
+      <recipientName>Rep. Vicky Hartzler</recipientName>
+      <amount>1000</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Friends Of Jahana Hayes</payeeName>
+      <recipientName>Rep. Jahana Hayes</recipientName>
+      <amount>1000</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Brian Higgins For Congress</payeeName>
+      <recipientName>Rep. Brian M. Higgins</recipientName>
+      <amount>2500</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Nevadans For Steven Horsford</payeeName>
+      <recipientName>Rep. Steven Alexander Horsford</recipientName>
+      <amount>1000</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Friends Of Jim Inhofe</payeeName>
+      <recipientName>Sen. Jim Mountain Inhofe</recipientName>
+      <amount>500</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Friends Of Jim Inhofe</payeeName>
+      <recipientName>Sen. Jim Mountain Inhofe</recipientName>
+      <amount>1500</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Pramila For Congress</payeeName>
+      <recipientName>Rep. Pramila Jayapal</recipientName>
+      <amount>2500</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Eddie Bernice Johnson For Congress</payeeName>
+      <recipientName>Rep. Eddie Bernice Johnson</recipientName>
+      <amount>2000</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Friends Of Dan Kildee</payeeName>
+      <recipientName>Rep. Dan Kildee</recipientName>
+      <amount>1000</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Andy Kim For Congress</payeeName>
+      <recipientName>Andy Kim</recipientName>
+      <amount>1000</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Pete King For Congress Committee</payeeName>
+      <recipientName>Rep. Pete T. King</recipientName>
+      <amount>2500</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Kinzinger For Congress</payeeName>
+      <recipientName>Rep. Adam Kinzinger</recipientName>
+      <amount>1000</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Kinzinger For Congress</payeeName>
+      <recipientName>Rep. Adam Kinzinger</recipientName>
+      <amount>1000</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Kirkpatrick For Congress</payeeName>
+      <recipientName>Rep. Ann Kirkpatrick</recipientName>
+      <amount>1000</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Friends Of Raja For Congress</payeeName>
+      <recipientName>S. Raja Krishnamoorthi</recipientName>
+      <amount>1000</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>LaHood for Congress</payeeName>
+      <recipientName>Darin McKay LaHood</recipientName>
+      <amount>1000</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Doug Lamalfa Committee</payeeName>
+      <recipientName>Rep. Doug LaMalfa</recipientName>
+      <amount>1000</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Conor Lamb For Congress</payeeName>
+      <recipientName>Rep. Conor Lamb</recipientName>
+      <amount>1000</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>LANK PAC</payeeName>
+      <recipientName>Sen. James Lankford</recipientName>
+      <amount>1000</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>LANK PAC</payeeName>
+      <recipientName>Sen. James Lankford</recipientName>
+      <amount>1000</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Citizens To Elect Rick Larsen</payeeName>
+      <recipientName>Rep. Rick Larsen</recipientName>
+      <amount>3500</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Debbie Lesko For Congress</payeeName>
+      <recipientName>Rep. Debbie Lesko</recipientName>
+      <amount>1000</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Turquoise PAC</payeeName>
+      <recipientName>Rep. Ben Lujan Jr.</recipientName>
+      <amount>2500</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Markey Committee; The</payeeName>
+      <recipientName>Sen. Edward Markey</recipientName>
+      <amount>2500</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Friends Of Lucy McBath</payeeName>
+      <recipientName>Rep. Lucy McBath</recipientName>
+      <amount>1000</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Re-Elect McGovern Committee</payeeName>
+      <recipientName>Rep. James P. McGovern</recipientName>
+      <amount>1000</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Moran For Kansas</payeeName>
+      <recipientName>Jerry Moran</recipientName>
+      <amount>1000</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Jimmy Panetta For Congress</payeeName>
+      <recipientName>Rep. Jimmy Panetta</recipientName>
+      <amount>1000</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Chris Pappas For Congress</payeeName>
+      <recipientName>Rep. Chris Pappas</recipientName>
+      <amount>4000</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Pascrell For Congress</payeeName>
+      <recipientName>Rep. William J. Pascrell Jr.</recipientName>
+      <amount>1000</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Peters For Michigan</payeeName>
+      <recipientName>Sen. Gary Peters</recipientName>
+      <amount>2500</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Peters For Michigan</payeeName>
+      <recipientName>Sen. Gary Peters</recipientName>
+      <amount>2500</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>PORT PAC</payeeName>
+      <recipientName>Sen. Rob Portman</recipientName>
+      <amount>1000</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>PORT PAC</payeeName>
+      <recipientName>Sen. Rob Portman</recipientName>
+      <amount>2000</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Guy For Congress</payeeName>
+      <recipientName>Rep. Guy L. Reschenthaler</recipientName>
+      <amount>1000</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Friends Of Denver Riggleman, Inc.</payeeName>
+      <recipientName>Rep. Denver Lee Riggleman III</recipientName>
+      <amount>1000</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Max Rose For Congress</payeeName>
+      <recipientName>Rep. Max Rose</recipientName>
+      <amount>1000</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Harley Rouda For Congress</payeeName>
+      <recipientName>Rep. Harley E. Rouda Jr.</recipientName>
+      <amount>1000</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>David Rouzer For Congress</payeeName>
+      <recipientName>Rep. David Rouzer</recipientName>
+      <amount>2000</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Lucille Roybal-Allard For Congress</payeeName>
+      <recipientName>Rep. Lucille Roybal-Allard</recipientName>
+      <amount>2000</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Dr. Raul Ruiz For Congress</payeeName>
+      <recipientName>Rep. Raul Ruiz MD</recipientName>
+      <amount>1000</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Stand With Sanchez</payeeName>
+      <recipientName>Rep. Linda T. Sanchez</recipientName>
+      <amount>1000</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Schiff For Congress</payeeName>
+      <recipientName>Rep. Adam B. Schiff</recipientName>
+      <amount>1000</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Steil For Wisconsin, Inc.</payeeName>
+      <recipientName>Rep. Bryan Steil</recipientName>
+      <amount>1000</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Greg Steube For Congress</payeeName>
+      <recipientName>Rep. Greg W. Steube</recipientName>
+      <amount>1000</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Swalwell For Congress</payeeName>
+      <recipientName>Rep. Eric M. Swalwell</recipientName>
+      <amount>1000</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Lori Trahan For Congress Committee</payeeName>
+      <recipientName>Rep. Lori Trahan</recipientName>
+      <amount>1000</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Lauren Underwood For Congress</payeeName>
+      <recipientName>Rep. Lauren Underwood</recipientName>
+      <amount>1000</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Marc Veasey Congressional Campaign Committee</payeeName>
+      <recipientName>Rep. Marc Veasey</recipientName>
+      <amount>1000</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Walden For Congress</payeeName>
+      <recipientName>Rep. Greg P. Walden</recipientName>
+      <amount>2000</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Susan Wild For Congress</payeeName>
+      <recipientName>Rep. Susan Wild</recipientName>
+      <amount>1000</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Rob Wittman For Congress</payeeName>
+      <recipientName>Robert Wittman</recipientName>
+      <amount>1000</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Womack For Congress Committee</payeeName>
+      <recipientName>Rep. Stephen A. Womack</recipientName>
+      <amount>1000</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Yarmuth For Congress</payeeName>
+      <recipientName>Rep. John A. Yarmuth</recipientName>
+      <amount>1000</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Alaskans For Don Young</payeeName>
+      <recipientName>Rep. Don E. Young</recipientName>
+      <amount>5000</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Zeldin For Congress</payeeName>
+      <recipientName>Lee Zeldin</recipientName>
+      <amount>1000</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>PORT PAC</payeeName>
+      <recipientName>Sen. Rob Portman</recipientName>
+      <amount>2000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Scalise For Congress</payeeName>
+      <recipientName>Steve Scalise</recipientName>
+      <amount>3500</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Scalise For Congress</payeeName>
+      <recipientName>Steve Scalise</recipientName>
+      <amount>5000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Friends Of Hagedorn</payeeName>
+      <recipientName>Rep. James Hagedorn</recipientName>
+      <amount>1000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Free State PAC</payeeName>
+      <recipientName>Sen. Jerry Moran</recipientName>
+      <amount>5000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Dr John Joyce For Congress</payeeName>
+      <recipientName>Rep. John Joyce</recipientName>
+      <amount>1000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Josh Hawley For Senate</payeeName>
+      <recipientName>Sen. Joshua Hawley</recipientName>
+      <amount>1000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Garret Graves For Congress</payeeName>
+      <recipientName>Garret Graves</recipientName>
+      <amount>1000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Debbie Lesko For Congress</payeeName>
+      <recipientName>Rep. Debbie Lesko</recipientName>
+      <amount>1000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Jim Risch For U S Senate Committee</payeeName>
+      <recipientName>Sen. James E. Risch</recipientName>
+      <amount>1000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Debbie Dingell For Congress</payeeName>
+      <recipientName>Rep. Debbie Insley Dingell</recipientName>
+      <amount>1000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Mario Diaz-Balart For Congress</payeeName>
+      <recipientName>Rep. Mario Diaz-Balart</recipientName>
+      <amount>1000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Roger Williams For U S Congress Committee</payeeName>
+      <recipientName>Rep. Roger Williams</recipientName>
+      <amount>5000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Johnson For Congress</payeeName>
+      <recipientName>Rep. Bill Johnson</recipientName>
+      <amount>2500</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Johnson For Congress</payeeName>
+      <recipientName>Rep. Bill Johnson</recipientName>
+      <amount>2500</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Mike Bost For Congress Committee</payeeName>
+      <recipientName>Michael Bost</recipientName>
+      <amount>5000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Bill Foster For Congress</payeeName>
+      <recipientName>Rep. Bill Foster PhD</recipientName>
+      <amount>1000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Hudson For Congress</payeeName>
+      <recipientName>Rep. Richard L. Hudson Jr.</recipientName>
+      <amount>1000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Vicente Gonzalez For Congress</payeeName>
+      <recipientName>Vicente Gonzalez</recipientName>
+      <amount>1000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Moran For Kansas</payeeName>
+      <recipientName>Jerry Moran</recipientName>
+      <amount>1000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Quigley For Congress</payeeName>
+      <recipientName>Rep. Michael Quigley</recipientName>
+      <amount>1000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Rodney For Congress</payeeName>
+      <recipientName>Rep. Rodney L. Davis</recipientName>
+      <amount>1000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Wild &amp; Wonderful PAC</payeeName>
+      <recipientName>Sen. Shelley Moore Capito</recipientName>
+      <amount>1000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>McClintock For Congress</payeeName>
+      <recipientName>Rep. Tom McClintock</recipientName>
+      <amount>1000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Larson For Congress</payeeName>
+      <recipientName>Rep. John B. Larson</recipientName>
+      <amount>1000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Friends Of Chris Smith</payeeName>
+      <recipientName>Rep. Christopher H. Smith</recipientName>
+      <amount>2500</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Scott Peters For Congress</payeeName>
+      <recipientName>Rep. Scott Harvey Peters</recipientName>
+      <amount>1000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Friends Of Cheri Bustos</payeeName>
+      <recipientName>Rep. Cheri Bustos</recipientName>
+      <amount>1000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Marc Veasey Congressional Campaign Committee</payeeName>
+      <recipientName>Rep. Marc Veasey</recipientName>
+      <amount>1000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Weber For Congress</payeeName>
+      <recipientName>Rep. Randy Weber</recipientName>
+      <amount>1000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Brian Higgins For Congress</payeeName>
+      <recipientName>Rep. Brian M. Higgins</recipientName>
+      <amount>2000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Brian Higgins For Congress</payeeName>
+      <recipientName>Rep. Brian M. Higgins</recipientName>
+      <amount>500</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Graves For Congress</payeeName>
+      <recipientName>Rep. Samuel B. Graves Jr.</recipientName>
+      <amount>2500</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Collins For Senator</payeeName>
+      <recipientName>Susan Collins</recipientName>
+      <amount>1000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Cartwright For Congress</payeeName>
+      <recipientName>Rep. Matt A. Cartwright</recipientName>
+      <amount>2500</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Loudermilk For Congress</payeeName>
+      <recipientName>Rep. Barry Loudermilk</recipientName>
+      <amount>1000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Ted Deutch For Congress Committee</payeeName>
+      <recipientName>Rep. Ted Deutch</recipientName>
+      <amount>1000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Doyle For Congress Committee</payeeName>
+      <recipientName>Rep. Michael F. Doyle</recipientName>
+      <amount>1000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>JULIA PAC</payeeName>
+      <recipientName>Rep. Julia Brownley</recipientName>
+      <amount>2500</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Emmer For Congress</payeeName>
+      <recipientName>Rep. Tom Earl Emmer Jr.</recipientName>
+      <amount>2500</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Kirkpatrick For Congress</payeeName>
+      <recipientName>Rep. Ann Kirkpatrick</recipientName>
+      <amount>1000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Bergmanforcongress</payeeName>
+      <recipientName>John Bergman</recipientName>
+      <amount>1000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Puget PAC</payeeName>
+      <recipientName>Rep. Rick Larsen</recipientName>
+      <amount>5000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Alaskans For Dan Sullivan</payeeName>
+      <recipientName>Sen. Daniel S. Sullivan</recipientName>
+      <amount>1500</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Gary Palmer For Congress</payeeName>
+      <recipientName>Rep. Gary Palmer</recipientName>
+      <amount>2000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Blue Majority PAC</payeeName>
+      <recipientName>Rep. Mark Pocan</recipientName>
+      <amount>2500</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Citizens For Eleanor Holmes Norton</payeeName>
+      <recipientName>Rep. Eleanor Holmes Norton</recipientName>
+      <amount>1000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Van Drew For Congress</payeeName>
+      <recipientName>Rep. Jeff Van Drew</recipientName>
+      <amount>1000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Lisa Blunt Rochester For Congress</payeeName>
+      <recipientName>Rep. Lisa Blunt Rochester</recipientName>
+      <amount>1000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>A New Direction PAC</payeeName>
+      <recipientName>Sen. Jeanne Shaheen</recipientName>
+      <amount>5000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Lance Gooden For Congress Committee</payeeName>
+      <recipientName>Rep. Lance Gooden</recipientName>
+      <amount>1000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Shaheen For Senate</payeeName>
+      <recipientName>Jeanne Shaheen</recipientName>
+      <amount>2000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Mike Levin For Congress</payeeName>
+      <recipientName>Rep. Michael Ted Levin</recipientName>
+      <amount>1000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Pascrell For Congress</payeeName>
+      <recipientName>Rep. William J. Pascrell Jr.</recipientName>
+      <amount>1000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Friends Of Ben McAdams</payeeName>
+      <recipientName>Rep. Ben McAdams</recipientName>
+      <amount>1000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>LANK PAC</payeeName>
+      <recipientName>Sen. James Lankford</recipientName>
+      <amount>1000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>PRAIRIE PAC</payeeName>
+      <recipientName>Sen. Richard Durbin</recipientName>
+      <amount>5000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Hern For Congress</payeeName>
+      <recipientName>Rep. Kevin Hern</recipientName>
+      <amount>1000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Mad4pa Pac</payeeName>
+      <recipientName>Rep. Madeleine Dean</recipientName>
+      <amount>1000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>John Carter For Congress</payeeName>
+      <recipientName>John Carter</recipientName>
+      <amount>2500</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Huffman For Congress</payeeName>
+      <recipientName>Jared Huffman</recipientName>
+      <amount>2500</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Mike Crapo For Us Senate</payeeName>
+      <recipientName>Michael Crapo</recipientName>
+      <amount>1000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Maintaining All Republicans In Office PAC</payeeName>
+      <recipientName>Rep. Mario Diaz-Balart</recipientName>
+      <amount>5000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Bluegrass Committee</payeeName>
+      <recipientName>Sen. Mitch McConnell</recipientName>
+      <amount>5000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Getting Stuff Done PAC</payeeName>
+      <recipientName>Sen. Krysten Sinema</recipientName>
+      <amount>2500</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Dirigo PAC</payeeName>
+      <recipientName>Sen. Susan Collins</recipientName>
+      <amount>5000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Debbie Dingell For Congress</payeeName>
+      <recipientName>Rep. Debbie Insley Dingell</recipientName>
+      <amount>1000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Joe Morelle For Congress</payeeName>
+      <recipientName>Rep. Joseph Morelle</recipientName>
+      <amount>1000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Jimmy Gomez For Congress</payeeName>
+      <recipientName>Jimmy Gomez</recipientName>
+      <amount>1000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Jimmy Panetta For Congress</payeeName>
+      <recipientName>Rep. Jimmy Panetta</recipientName>
+      <amount>1000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Donald Norcross For Congress</payeeName>
+      <recipientName>Donald Norcross</recipientName>
+      <amount>1000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Casten For Congress</payeeName>
+      <recipientName>Rep. Sean Casten</recipientName>
+      <amount>1000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Jobs Education and Family First</payeeName>
+      <recipientName>Rep. Hakeem Jeffries</recipientName>
+      <amount>5000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Salud Carbajal For Congress</payeeName>
+      <recipientName>Salud Carbajal</recipientName>
+      <amount>3000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>M-PAC</payeeName>
+      <recipientName>Patty Murray</recipientName>
+      <amount>5000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Treasure State Pac</payeeName>
+      <recipientName>Sen. Jon Tester</recipientName>
+      <amount>5000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Don Bacon For Congress</payeeName>
+      <recipientName>Donald Bacon</recipientName>
+      <amount>3000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Vargas For Congress</payeeName>
+      <recipientName>Rep. Juan C. Vargas</recipientName>
+      <amount>1000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Steve Daines For Montana</payeeName>
+      <recipientName>Sen. Steve Daines</recipientName>
+      <amount>1000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Turquoise PAC</payeeName>
+      <recipientName>Rep. Ben Lujan Jr.</recipientName>
+      <amount>2500</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Stand With Sanchez</payeeName>
+      <recipientName>Rep. Linda T. Sanchez</recipientName>
+      <amount>1500</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Reed Committee; The</payeeName>
+      <recipientName>Sen. Jack Francis Reed</recipientName>
+      <amount>1500</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Meuser For Congress</payeeName>
+      <recipientName>Rep. Dan Meuser</recipientName>
+      <amount>1000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Courtney For Congress</payeeName>
+      <recipientName>Rep. Joseph D. Courtney</recipientName>
+      <amount>1000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Anthony Brown For Congress</payeeName>
+      <recipientName>Anthony Brown</recipientName>
+      <amount>1000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Air Line Pilots Association PAC</contributorName>
+      <payeeName>Show-Me PAC</payeeName>
+      <recipientName>Rep. Samuel Graves Jr.</recipientName>
+      <amount>5000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

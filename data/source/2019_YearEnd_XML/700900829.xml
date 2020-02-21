@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>THE TRUSTEES OF COLUMBIA UNIVERSITY IN THE CITY OF NEW YORK</organizationName>
+  <lobbyistPrefix>Mr.</lobbyistPrefix>
+  <lobbyistFirstName>ROSS</lobbyistFirstName>
+  <lobbyistMiddleName>A.</lobbyistMiddleName>
+  <lobbyistLastName>FROMMER</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>38585</senateRegID>
+  <houseRegID>30887</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>True</amendment>
+  <comments>
+  </comments>
+  <signedDate>9/12/2019 8:11:30 AM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Friends of John Delany</payeeName>
+      <recipientName>John Delany</recipientName>
+      <amount>100.00</amount>
+      <date>07/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Friends of Ed Markey</payeeName>
+      <recipientName>Ed Markey</recipientName>
+      <amount>250.00</amount>
+      <date>08/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Friends of Dan McCready</payeeName>
+      <recipientName>Dan McCready</recipientName>
+      <amount>100.00</amount>
+      <date>09/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Friends of John Delaney</payeeName>
+      <recipientName>John Delaney</recipientName>
+      <amount>500.00</amount>
+      <date>09/12/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

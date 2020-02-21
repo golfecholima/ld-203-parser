@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>The Velasquez Group, L.L.C.</organizationName>
+  <lobbyistPrefix>Mr.</lobbyistPrefix>
+  <lobbyistFirstName>JAY</lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>VELASQUEZ</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>53403</senateRegID>
+  <houseRegID>34984</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>12/25/2019 2:29:21 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>Jobs, Economy &amp; Budget Fund</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Jobs, Economy &amp; Budget Fund</contributorName>
+      <payeeName>Ted Budd for Congress</payeeName>
+      <recipientName>Congressman Ted Budd (NC)</recipientName>
+      <amount>1000.00</amount>
+      <date>07/08/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Jobs, Economy &amp; Budget Fund</contributorName>
+      <payeeName>Ratcliffe for Congress</payeeName>
+      <recipientName>Congressman John Ratcliffe (TX)</recipientName>
+      <amount>1000.00</amount>
+      <date>08/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Jobs, Economy &amp; Budget Fund</contributorName>
+      <payeeName>Van Taylor Campaign</payeeName>
+      <recipientName>Congressman Van Taylor (TX)</recipientName>
+      <amount>500.00</amount>
+      <date>08/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Jobs, Economy &amp; Budget Fund</contributorName>
+      <payeeName>Jeff Duncan for Congress</payeeName>
+      <recipientName>Congressman Jeff Duncan (SC)</recipientName>
+      <amount>1000.00</amount>
+      <date>09/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Jobs, Economy &amp; Budget Fund</contributorName>
+      <payeeName>Andy Barr for Congress</payeeName>
+      <recipientName>Congressman Andy Barr (KY)</recipientName>
+      <amount>500.00</amount>
+      <date>09/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Jobs, Economy &amp; Budget Fund</contributorName>
+      <payeeName>Tim Scott for Senate</payeeName>
+      <recipientName>Senator Tim Scott (SC)</recipientName>
+      <amount>5000.00</amount>
+      <date>10/03/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Jobs, Economy &amp; Budget Fund</contributorName>
+      <payeeName>Cloud for Congress</payeeName>
+      <recipientName>Congressman Michael Cloud (TX)</recipientName>
+      <amount>500.00</amount>
+      <date>10/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Jobs, Economy &amp; Budget Fund</contributorName>
+      <payeeName>Van Taylor Campaign</payeeName>
+      <recipientName>Congressman Van Taylor (TX)</recipientName>
+      <amount>5000.00</amount>
+      <date>10/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Jobs, Economy &amp; Budget Fund</contributorName>
+      <payeeName>Stivers for Congress</payeeName>
+      <recipientName>Congressman Steve Stivers (OH)</recipientName>
+      <amount>1000.00</amount>
+      <date>10/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Jobs, Economy &amp; Budget Fund</contributorName>
+      <payeeName>Anthony Gonzalez for Congress</payeeName>
+      <recipientName>Congressman Anthony Gonzalez (OH)</recipientName>
+      <amount>1000.00</amount>
+      <date>10/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Jobs, Economy &amp; Budget Fund</contributorName>
+      <payeeName>Lance Gooden for Congress Committee</payeeName>
+      <recipientName>Congressman Lance Gooden (TX)</recipientName>
+      <amount>250.00</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Jobs, Economy &amp; Budget Fund</contributorName>
+      <payeeName>Joe Wilson for Congress</payeeName>
+      <recipientName>Congressman Joe Wilson (SC)</recipientName>
+      <amount>2000.00</amount>
+      <date>12/10/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

@@ -1,0 +1,703 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>Federation of American Hospitals</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <zipext>
+  </zipext>
+  <contactName>Katie Tenoever</contactName>
+  <senateRegID>14267</senateRegID>
+  <houseRegID>32635</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/9/2020 10:21:07 AM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>
+  </noContributions>
+  <pacs>
+    <pac>
+      <name>Federation of American Hospitals PAC (FedPAC)</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Federation of American Hospitals PAC (FedPAC)</contributorName>
+      <payeeName>Bill Cassidy For US Senate</payeeName>
+      <recipientName>Sen. William Cassidy</recipientName>
+      <amount>2500</amount>
+      <date>7/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Federation of American Hospitals PAC (FedPAC)</contributorName>
+      <payeeName>Bucshon For Congress</payeeName>
+      <recipientName>Rep. Larry Dean Bucshon</recipientName>
+      <amount>2500</amount>
+      <date>7/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Federation of American Hospitals PAC (FedPAC)</contributorName>
+      <payeeName>Brian Fitzpatrick For Congress</payeeName>
+      <recipientName>Rep. Brian K. Fitzpatrick</recipientName>
+      <amount>1000</amount>
+      <date>8/7/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Federation of American Hospitals PAC (FedPAC)</contributorName>
+      <payeeName>Katherine Clark For Congress</payeeName>
+      <recipientName>Rep. Katherine M. Clark</recipientName>
+      <amount>2500</amount>
+      <date>8/7/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Federation of American Hospitals PAC (FedPAC)</contributorName>
+      <payeeName>Peters For Michigan</payeeName>
+      <recipientName>Sen. Gary Charles Peters</recipientName>
+      <amount>2500</amount>
+      <date>8/7/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Federation of American Hospitals PAC (FedPAC)</contributorName>
+      <payeeName>Project West Political Action Committee</payeeName>
+      <recipientName>Sen. Cory Gardner</recipientName>
+      <amount>2500</amount>
+      <date>8/7/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Federation of American Hospitals PAC (FedPAC)</contributorName>
+      <payeeName>Texans For Jodey Arrington</payeeName>
+      <recipientName>Rep. Jodey Cook Arrington</recipientName>
+      <amount>1500</amount>
+      <date>8/7/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Federation of American Hospitals PAC (FedPAC)</contributorName>
+      <payeeName>The Eye Of The Tiger Political Action Committee</payeeName>
+      <recipientName>Rep. Stephen Joseph Scalise</recipientName>
+      <amount>5000</amount>
+      <date>8/7/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Federation of American Hospitals PAC (FedPAC)</contributorName>
+      <payeeName>LaHood for Congress</payeeName>
+      <recipientName>Rep. Darin M. LaHood</recipientName>
+      <amount>1500</amount>
+      <date>8/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Federation of American Hospitals PAC (FedPAC)</contributorName>
+      <payeeName>Lois Frankel For Congress</payeeName>
+      <recipientName>Rep. Lois Jane Frankel</recipientName>
+      <amount>2500</amount>
+      <date>8/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Federation of American Hospitals PAC (FedPAC)</contributorName>
+      <payeeName>Mike Thompson For Congress</payeeName>
+      <recipientName>Rep. Michael C. Thompson</recipientName>
+      <amount>2500</amount>
+      <date>8/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Federation of American Hospitals PAC (FedPAC)</contributorName>
+      <payeeName>Curtis For Congress</payeeName>
+      <recipientName>Rep. John R. Curtis</recipientName>
+      <amount>2000</amount>
+      <date>8/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Federation of American Hospitals PAC (FedPAC)</contributorName>
+      <payeeName>John Rose For Tennessee</payeeName>
+      <recipientName>Rep. John W. Rose</recipientName>
+      <amount>1500</amount>
+      <date>8/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Federation of American Hospitals PAC (FedPAC)</contributorName>
+      <payeeName>Zeldin For Congress</payeeName>
+      <recipientName>Rep. Lee M. Zeldin</recipientName>
+      <amount>2000</amount>
+      <date>8/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Federation of American Hospitals PAC (FedPAC)</contributorName>
+      <payeeName>Giving US Security Political Action Committee (GUS PAC)</payeeName>
+      <recipientName>Rep. Gus Michael Bilirakis</recipientName>
+      <amount>1500</amount>
+      <date>9/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Federation of American Hospitals PAC (FedPAC)</contributorName>
+      <payeeName>Majority Committee PAC--Mc PAC</payeeName>
+      <recipientName>Rep. Kevin Owen McCarthy</recipientName>
+      <amount>5000</amount>
+      <date>9/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Federation of American Hospitals PAC (FedPAC)</contributorName>
+      <payeeName>NRCC</payeeName>
+      <recipientName>NRCC</recipientName>
+      <amount>5000</amount>
+      <date>9/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Federation of American Hospitals PAC (FedPAC)</contributorName>
+      <payeeName>NRSC</payeeName>
+      <recipientName>NRSC</recipientName>
+      <amount>5000</amount>
+      <date>9/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Federation of American Hospitals PAC (FedPAC)</contributorName>
+      <payeeName>NRSC</payeeName>
+      <recipientName>NRSC</recipientName>
+      <amount>5000</amount>
+      <date>9/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Federation of American Hospitals PAC (FedPAC)</contributorName>
+      <payeeName>NRSC</payeeName>
+      <recipientName>NRSC</recipientName>
+      <amount>5000</amount>
+      <date>9/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Federation of American Hospitals PAC (FedPAC)</contributorName>
+      <payeeName>Debbie Wasserman Schultz For Congress</payeeName>
+      <recipientName>Rep. Debbie Wasserman Schultz</recipientName>
+      <amount>2500</amount>
+      <date>9/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Federation of American Hospitals PAC (FedPAC)</contributorName>
+      <payeeName>Making A Responsible Stand For Households In America PAC</payeeName>
+      <recipientName>Sen. Marsha Wedgeworth Blackburn</recipientName>
+      <amount>5000</amount>
+      <date>9/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Federation of American Hospitals PAC (FedPAC)</contributorName>
+      <payeeName>McConnell Senate Committee</payeeName>
+      <recipientName>Sen. Mitch McConnell</recipientName>
+      <amount>5000</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Federation of American Hospitals PAC (FedPAC)</contributorName>
+      <payeeName>McConnell Senate Committee</payeeName>
+      <recipientName>Sen. Mitch McConnell</recipientName>
+      <amount>5000</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Federation of American Hospitals PAC (FedPAC)</contributorName>
+      <payeeName>Fighting For Missouri PAC</payeeName>
+      <recipientName>Sen. Josh D. Hawley</recipientName>
+      <amount>2500</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Federation of American Hospitals PAC (FedPAC)</contributorName>
+      <payeeName>Nooga PAC</payeeName>
+      <recipientName>Rep. Charles J. Fleischmann</recipientName>
+      <amount>5000</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Federation of American Hospitals PAC (FedPAC)</contributorName>
+      <payeeName>Schneider For Congress</payeeName>
+      <recipientName>Rep. Bradley Scott Schneider</recipientName>
+      <amount>4000</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Federation of American Hospitals PAC (FedPAC)</contributorName>
+      <payeeName>Wenstrup For Congress</payeeName>
+      <recipientName>Rep. Brad R. Wenstrup</recipientName>
+      <amount>1000</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Federation of American Hospitals PAC (FedPAC)</contributorName>
+      <payeeName>Jobs, Freedom, And Security PAC</payeeName>
+      <recipientName>Sen. Ted E. Cruz</recipientName>
+      <amount>2500</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Federation of American Hospitals PAC (FedPAC)</contributorName>
+      <payeeName>Mike Kelly For Congress</payeeName>
+      <recipientName>Rep. G. Mike J. Kelly</recipientName>
+      <amount>2500</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Federation of American Hospitals PAC (FedPAC)</contributorName>
+      <payeeName>Shaheen For Senate</payeeName>
+      <recipientName>Sen. Jeanne Shaheen</recipientName>
+      <amount>2500</amount>
+      <date>9/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Federation of American Hospitals PAC (FedPAC)</contributorName>
+      <payeeName>Matsui For Congress</payeeName>
+      <recipientName>Rep. Doris O. Matsui</recipientName>
+      <amount>4000</amount>
+      <date>10/7/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Federation of American Hospitals PAC (FedPAC)</contributorName>
+      <payeeName>Brian Higgins For Congress</payeeName>
+      <recipientName>Rep. Brian M. Higgins</recipientName>
+      <amount>2500</amount>
+      <date>10/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Federation of American Hospitals PAC (FedPAC)</contributorName>
+      <payeeName>Developing A New Generation PAC (DANG PAC)</payeeName>
+      <recipientName>Rep. Stephanie N. Murphy</recipientName>
+      <amount>2500</amount>
+      <date>10/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Federation of American Hospitals PAC (FedPAC)</contributorName>
+      <payeeName>DSCC</payeeName>
+      <recipientName>DSCC</recipientName>
+      <amount>2500</amount>
+      <date>10/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Federation of American Hospitals PAC (FedPAC)</contributorName>
+      <payeeName>Getting Stuff Done PAC (GSD-PAC)</payeeName>
+      <recipientName>Sen. Kyrsten Sinema</recipientName>
+      <amount>1000</amount>
+      <date>10/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Federation of American Hospitals PAC (FedPAC)</contributorName>
+      <payeeName>Haley Stevens For Congress</payeeName>
+      <recipientName>Rep. Haley M. Stevens</recipientName>
+      <amount>1000</amount>
+      <date>10/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Federation of American Hospitals PAC (FedPAC)</contributorName>
+      <payeeName>Lets Get To Work PAC</payeeName>
+      <recipientName>Sen. Rick Scott</recipientName>
+      <amount>5000</amount>
+      <date>10/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Federation of American Hospitals PAC (FedPAC)</contributorName>
+      <payeeName>New Pioneers PAC</payeeName>
+      <recipientName>Rep. Gregory Paul Walden</recipientName>
+      <amount>1500</amount>
+      <date>10/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Federation of American Hospitals PAC (FedPAC)</contributorName>
+      <payeeName>Pallone For Congress</payeeName>
+      <recipientName>Rep. Frank Pallone, Jr.</recipientName>
+      <amount>2500</amount>
+      <date>10/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Federation of American Hospitals PAC (FedPAC)</contributorName>
+      <payeeName>Scalise For Congress</payeeName>
+      <recipientName>Rep. Stephen Joseph Scalise</recipientName>
+      <amount>5000</amount>
+      <date>10/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Federation of American Hospitals PAC (FedPAC)</contributorName>
+      <payeeName>Susan Wild For Congress</payeeName>
+      <recipientName>Rep. Susan Wild</recipientName>
+      <amount>1000</amount>
+      <date>10/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Federation of American Hospitals PAC (FedPAC)</contributorName>
+      <payeeName>Tom O'Halleran For Congress</payeeName>
+      <recipientName>Rep. Tom O'Halleran</recipientName>
+      <amount>2500</amount>
+      <date>10/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Federation of American Hospitals PAC (FedPAC)</contributorName>
+      <payeeName>Xochitl For New Mexico</payeeName>
+      <recipientName>Rep. Xochitl Torres Small</recipientName>
+      <amount>1000</amount>
+      <date>10/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Federation of American Hospitals PAC (FedPAC)</contributorName>
+      <payeeName>Team Hagerty</payeeName>
+      <recipientName>Bill Hagerty</recipientName>
+      <amount>5000</amount>
+      <date>10/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Federation of American Hospitals PAC (FedPAC)</contributorName>
+      <payeeName>Building Relationships In Diverse Geographic Environments PAC (BRIDGE PAC)</payeeName>
+      <recipientName>Rep. James E. Clyburn</recipientName>
+      <amount>2500</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Federation of American Hospitals PAC (FedPAC)</contributorName>
+      <payeeName>DSCC</payeeName>
+      <recipientName>DSCC</recipientName>
+      <amount>5000</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Federation of American Hospitals PAC (FedPAC)</contributorName>
+      <payeeName>Friends Of Dick Durbin Committee</payeeName>
+      <recipientName>Sen. Richard Joseph Durbin</recipientName>
+      <amount>5000</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Federation of American Hospitals PAC (FedPAC)</contributorName>
+      <payeeName>Friends Of Mark Warner</payeeName>
+      <recipientName>Sen. Mark Robert Warner</recipientName>
+      <amount>2500</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Federation of American Hospitals PAC (FedPAC)</contributorName>
+      <payeeName>Josh Gottheimer For Congress</payeeName>
+      <recipientName>Rep. Joshua S. Gottheimer</recipientName>
+      <amount>1000</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Federation of American Hospitals PAC (FedPAC)</contributorName>
+      <payeeName>Larson For Congress</payeeName>
+      <recipientName>Rep. John Barry Larson</recipientName>
+      <amount>2500</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Federation of American Hospitals PAC (FedPAC)</contributorName>
+      <payeeName>All Hands Political Action Committee</payeeName>
+      <recipientName>Sen. Todd Christopher Young</recipientName>
+      <amount>5000</amount>
+      <date>11/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Federation of American Hospitals PAC (FedPAC)</contributorName>
+      <payeeName>American Innovation Political Action Committee (AMI PAC)</payeeName>
+      <recipientName>Rep. Amerish B. Bera</recipientName>
+      <amount>1500</amount>
+      <date>11/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Federation of American Hospitals PAC (FedPAC)</contributorName>
+      <payeeName>Bluegrass Committee</payeeName>
+      <recipientName>Sen. Mitch McConnell</recipientName>
+      <amount>5000</amount>
+      <date>11/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Federation of American Hospitals PAC (FedPAC)</contributorName>
+      <payeeName>Heartland Values PAC</payeeName>
+      <recipientName>Sen. John Randolph Thune</recipientName>
+      <amount>5000</amount>
+      <date>11/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Federation of American Hospitals PAC (FedPAC)</contributorName>
+      <payeeName>Hoops PAC</payeeName>
+      <recipientName>Sen. Ron L. Wyden</recipientName>
+      <amount>5000</amount>
+      <date>11/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Federation of American Hospitals PAC (FedPAC)</contributorName>
+      <payeeName>Jimmy Gomez For Congress</payeeName>
+      <recipientName>Rep. Jimmy Gomez</recipientName>
+      <amount>2500</amount>
+      <date>11/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Federation of American Hospitals PAC (FedPAC)</contributorName>
+      <payeeName>Mikie Sherrill For Congress</payeeName>
+      <recipientName>Rep. Mikie Sherrill</recipientName>
+      <amount>1000</amount>
+      <date>11/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Federation of American Hospitals PAC (FedPAC)</contributorName>
+      <payeeName>Nevadans For Steven Horsford</payeeName>
+      <recipientName>Rep. Steven Alexzander Horsford</recipientName>
+      <amount>1000</amount>
+      <date>11/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Federation of American Hospitals PAC (FedPAC)</contributorName>
+      <payeeName>NRCC</payeeName>
+      <recipientName>NRCC</recipientName>
+      <amount>5000</amount>
+      <date>11/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Federation of American Hospitals PAC (FedPAC)</contributorName>
+      <payeeName>PAC To the Future</payeeName>
+      <recipientName>Rep. Nancy Pelosi</recipientName>
+      <amount>5000</amount>
+      <date>11/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Federation of American Hospitals PAC (FedPAC)</contributorName>
+      <payeeName>Sharice For Congress</payeeName>
+      <recipientName>Rep. Sharice Davids</recipientName>
+      <amount>1000</amount>
+      <date>11/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Federation of American Hospitals PAC (FedPAC)</contributorName>
+      <payeeName>Anna Eshoo For Congress</payeeName>
+      <recipientName>Rep. Anna G. Eshoo</recipientName>
+      <amount>2000</amount>
+      <date>11/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Federation of American Hospitals PAC (FedPAC)</contributorName>
+      <payeeName>Granite Values PAC</payeeName>
+      <recipientName>Sen. Margaret Wood Hassan</recipientName>
+      <amount>2000</amount>
+      <date>11/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Federation of American Hospitals PAC (FedPAC)</contributorName>
+      <payeeName>Harley Rouda For Congress</payeeName>
+      <recipientName>Rep. Harley E. Rouda, Jr.</recipientName>
+      <amount>1000</amount>
+      <date>11/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Federation of American Hospitals PAC (FedPAC)</contributorName>
+      <payeeName>Pascrell For Congress</payeeName>
+      <recipientName>Rep. William James Pascrell, Jr.</recipientName>
+      <amount>2500</amount>
+      <date>11/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Federation of American Hospitals PAC (FedPAC)</contributorName>
+      <payeeName>Tom Reed For Congress</payeeName>
+      <recipientName>Rep. Thomas W. Reed, II.</recipientName>
+      <amount>2500</amount>
+      <date>11/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Federation of American Hospitals PAC (FedPAC)</contributorName>
+      <payeeName>AMERIPAC The Fund for a Greater America</payeeName>
+      <recipientName>Rep. Steny Hamilton Hoyer</recipientName>
+      <amount>5000</amount>
+      <date>12/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Federation of American Hospitals PAC (FedPAC)</contributorName>
+      <payeeName>CHC BOLD PAC</payeeName>
+      <recipientName>CHC BOLD PAC</recipientName>
+      <amount>1000</amount>
+      <date>12/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Federation of American Hospitals PAC (FedPAC)</contributorName>
+      <payeeName>Donna Shalala For Congress</payeeName>
+      <recipientName>Rep. Donna E. Shalala</recipientName>
+      <amount>2000</amount>
+      <date>12/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Federation of American Hospitals PAC (FedPAC)</contributorName>
+      <payeeName>Lois Frankel For Congress</payeeName>
+      <recipientName>Rep. Lois Jane Frankel</recipientName>
+      <amount>2500</amount>
+      <date>12/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Federation of American Hospitals PAC (FedPAC)</contributorName>
+      <payeeName>The Hawkeye PAC</payeeName>
+      <recipientName>Sen. Charles E. Grassley</recipientName>
+      <amount>5000</amount>
+      <date>12/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Federation of American Hospitals PAC (FedPAC)</contributorName>
+      <payeeName>Jim Risch For U.S. Senate Committee</payeeName>
+      <recipientName>Sen. James E. Risch</recipientName>
+      <amount>1000</amount>
+      <date>12/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Federation of American Hospitals PAC (FedPAC)</contributorName>
+      <payeeName>BRETTPAC-The Leadership PAC of U.S.Represenative Brett Guthrie</payeeName>
+      <recipientName>Rep. S. Brett Guthrie</recipientName>
+      <amount>2500</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Federation of American Hospitals PAC (FedPAC)</contributorName>
+      <payeeName>Jobs, Education, &amp; Families First - Jeff PAC</payeeName>
+      <recipientName>Rep. Hakeem S. Jeffries</recipientName>
+      <amount>2500</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Federation of American Hospitals PAC (FedPAC)</contributorName>
+      <payeeName>Keep America Rolling PAC</payeeName>
+      <recipientName>Rep. G. Mike J. Kelly</recipientName>
+      <amount>2500</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Federation of American Hospitals PAC (FedPAC)</contributorName>
+      <payeeName>People For Derek Kilmer</payeeName>
+      <recipientName>Rep. Derek Kilmer</recipientName>
+      <amount>2500</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Federation of American Hospitals PAC (FedPAC)</contributorName>
+      <payeeName>Terri Sewell For Congress</payeeName>
+      <recipientName>Rep. Terri Andrea Sewell</recipientName>
+      <amount>2500</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Federation of American Hospitals PAC (FedPAC)</contributorName>
+      <payeeName>Tomorrow Is Meaningful PAC</payeeName>
+      <recipientName>Sen. Timothy Eugene Scott</recipientName>
+      <amount>5000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Federation of American Hospitals PAC (FedPAC)</contributorName>
+      <payeeName>Cowboy PAC</payeeName>
+      <recipientName>Rep. Elizabeth Cheney</recipientName>
+      <amount>5000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Federation of American Hospitals PAC (FedPAC)</contributorName>
+      <payeeName>DSCC</payeeName>
+      <recipientName>DSCC</recipientName>
+      <amount>2500</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Federation of American Hospitals PAC (FedPAC)</contributorName>
+      <payeeName>Healthcare Freedom Fund</payeeName>
+      <recipientName>Rep. David Philip Roe</recipientName>
+      <amount>2500</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Federation of American Hospitals PAC (FedPAC)</contributorName>
+      <payeeName>Shore PAC</payeeName>
+      <recipientName>Rep. Frank Pallone, Jr.</recipientName>
+      <amount>5000</amount>
+      <date>12/20/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

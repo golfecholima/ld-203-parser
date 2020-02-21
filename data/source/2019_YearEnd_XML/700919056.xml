@@ -1,0 +1,817 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>THE NORTHWESTERN MUTUAL LIFE INSURANCE COMPANY</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>Steven M. Radke</contactName>
+  <senateRegID>29607</senateRegID>
+  <houseRegID>31296</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/22/2020 2:24:09 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>
+  </noContributions>
+  <pacs>
+    <pac>
+      <name>The Northwestern Mutual Life Insurance Company Federal Political Action Committee</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Northwestern Mutual Life Insurance Company Federal Political Action Committee</contributorName>
+      <payeeName>Kustoff For Congress</payeeName>
+      <recipientName>Rep. David F. Kustoff (R)</recipientName>
+      <amount>1000</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Northwestern Mutual Life Insurance Company Federal Political Action Committee</contributorName>
+      <payeeName>Jason Smith For Congress</payeeName>
+      <recipientName>Rep. Jason Thomas Smith (R)</recipientName>
+      <amount>1000</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Northwestern Mutual Life Insurance Company Federal Political Action Committee</contributorName>
+      <payeeName>Adrian Smith For Congress</payeeName>
+      <recipientName>Rep. Adrian Michael Smith (R)</recipientName>
+      <amount>2500</amount>
+      <date>7/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Northwestern Mutual Life Insurance Company Federal Political Action Committee</contributorName>
+      <payeeName>Alex Mooney For Congress</payeeName>
+      <recipientName>Rep. Alexander X. Mooney (R)</recipientName>
+      <amount>1000</amount>
+      <date>7/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Northwestern Mutual Life Insurance Company Federal Political Action Committee</contributorName>
+      <payeeName>George Holding For Congress Inc.</payeeName>
+      <recipientName>Rep. George E. Holding (R)</recipientName>
+      <amount>1000</amount>
+      <date>7/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Northwestern Mutual Life Insurance Company Federal Political Action Committee</contributorName>
+      <payeeName>Nancy Pelosi For Congress</payeeName>
+      <recipientName>Rep. Nancy Pelosi (D)</recipientName>
+      <amount>2500</amount>
+      <date>11/7/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Northwestern Mutual Life Insurance Company Federal Political Action Committee</contributorName>
+      <payeeName>Texans For Jodey Arrington</payeeName>
+      <recipientName>Rep. Jodey Cook Arrington (R)</recipientName>
+      <amount>1000</amount>
+      <date>10/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Northwestern Mutual Life Insurance Company Federal Political Action Committee</contributorName>
+      <payeeName>Strategy PAC</payeeName>
+      <recipientName>Sen. Ronald H. Johnson (R)</recipientName>
+      <amount>500</amount>
+      <date>11/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Northwestern Mutual Life Insurance Company Federal Political Action Committee</contributorName>
+      <payeeName>Suozzi For Congress</payeeName>
+      <recipientName>Rep. Thomas R. Suozzi (D)</recipientName>
+      <amount>500</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Northwestern Mutual Life Insurance Company Federal Political Action Committee</contributorName>
+      <payeeName>Walorski For Congress Inc</payeeName>
+      <recipientName>Rep. Jacqueline Walorski (R)</recipientName>
+      <amount>1000</amount>
+      <date>10/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Northwestern Mutual Life Insurance Company Federal Political Action Committee</contributorName>
+      <payeeName>Himes For Congress</payeeName>
+      <recipientName>Rep. James Andrew Himes (D)</recipientName>
+      <amount>1500</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Northwestern Mutual Life Insurance Company Federal Political Action Committee</contributorName>
+      <payeeName>Thom Tillis Committee</payeeName>
+      <recipientName>Sen. Thomas Roland Tillis (R)</recipientName>
+      <amount>1000</amount>
+      <date>8/1/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Northwestern Mutual Life Insurance Company Federal Political Action Committee</contributorName>
+      <payeeName>Devin Nunes Campaign Committee</payeeName>
+      <recipientName>Rep. Devin G. Nunes (R)</recipientName>
+      <amount>1000</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Northwestern Mutual Life Insurance Company Federal Political Action Committee</contributorName>
+      <payeeName>Steil For Wisconsin, Inc.</payeeName>
+      <recipientName>Rep. Bryan G. Steil (R)</recipientName>
+      <amount>1000</amount>
+      <date>9/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Northwestern Mutual Life Insurance Company Federal Political Action Committee</contributorName>
+      <payeeName>George Holding For Congress Inc.</payeeName>
+      <recipientName>Rep. George E. Holding (R)</recipientName>
+      <amount>1000</amount>
+      <date>10/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Northwestern Mutual Life Insurance Company Federal Political Action Committee</contributorName>
+      <payeeName>Promoting Our Republican Team PAC</payeeName>
+      <recipientName>Sen. Rob J. Portman (R)</recipientName>
+      <amount>1000</amount>
+      <date>10/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Northwestern Mutual Life Insurance Company Federal Political Action Committee</contributorName>
+      <payeeName>Mikie Sherrill For Congress</payeeName>
+      <recipientName>Rep. Mikie Sherrill (D)</recipientName>
+      <amount>1000</amount>
+      <date>12/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Northwestern Mutual Life Insurance Company Federal Political Action Committee</contributorName>
+      <payeeName>Mike Gallagher For Wisconsin</payeeName>
+      <recipientName>Rep. Michael John Gallagher (R)</recipientName>
+      <amount>500</amount>
+      <date>7/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Northwestern Mutual Life Insurance Company Federal Political Action Committee</contributorName>
+      <payeeName>Wenstrup For Congress</payeeName>
+      <recipientName>Rep. Brad R. Wenstrup (R)</recipientName>
+      <amount>1000</amount>
+      <date>9/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Northwestern Mutual Life Insurance Company Federal Political Action Committee</contributorName>
+      <payeeName>Cleaver For Congress</payeeName>
+      <recipientName>Rep. Emanuel Cleaver, II (D)</recipientName>
+      <amount>1000</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Northwestern Mutual Life Insurance Company Federal Political Action Committee</contributorName>
+      <payeeName>Tom Rice For Congress</payeeName>
+      <recipientName>Rep. Tom Rice (R)</recipientName>
+      <amount>1000</amount>
+      <date>12/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Northwestern Mutual Life Insurance Company Federal Political Action Committee</contributorName>
+      <payeeName>Suozzi For Congress</payeeName>
+      <recipientName>Rep. Thomas R. Suozzi (D)</recipientName>
+      <amount>1000</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Northwestern Mutual Life Insurance Company Federal Political Action Committee</contributorName>
+      <payeeName>Schneider For Congress</payeeName>
+      <recipientName>Rep. Bradley Scott Schneider (D)</recipientName>
+      <amount>1000</amount>
+      <date>7/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Northwestern Mutual Life Insurance Company Federal Political Action Committee</contributorName>
+      <payeeName>Haley Stevens For Congress</payeeName>
+      <recipientName>Rep. Haley M. Stevens (D)</recipientName>
+      <amount>1000</amount>
+      <date>7/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Northwestern Mutual Life Insurance Company Federal Political Action Committee</contributorName>
+      <payeeName>Peters For Michigan</payeeName>
+      <recipientName>Sen. Gary Charles Peters (D)</recipientName>
+      <amount>1000</amount>
+      <date>8/1/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Northwestern Mutual Life Insurance Company Federal Political Action Committee</contributorName>
+      <payeeName>LaHood for Congress</payeeName>
+      <recipientName>Rep. Darin M. LaHood (R)</recipientName>
+      <amount>1500</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Northwestern Mutual Life Insurance Company Federal Political Action Committee</contributorName>
+      <payeeName>Perlmutter For Congress</payeeName>
+      <recipientName>Rep. Edwin George Perlmutter (D)</recipientName>
+      <amount>1000</amount>
+      <date>7/1/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Northwestern Mutual Life Insurance Company Federal Political Action Committee</contributorName>
+      <payeeName>Tomorrow Is Meaningful PAC</payeeName>
+      <recipientName>Sen. Timothy Eugene Scott (R)</recipientName>
+      <amount>1000</amount>
+      <date>7/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Northwestern Mutual Life Insurance Company Federal Political Action Committee</contributorName>
+      <payeeName>NYS Democratic Senate Campaign Committee (NYS DSCC)</payeeName>
+      <recipientName>NYS Democratic Senate Campaign Committee (NYS DSCC)</recipientName>
+      <amount>1000</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Northwestern Mutual Life Insurance Company Federal Political Action Committee</contributorName>
+      <payeeName>Mad 4 Pa PAC</payeeName>
+      <recipientName>Rep. Madeleine Dean (D)</recipientName>
+      <amount>1000</amount>
+      <date>12/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Northwestern Mutual Life Insurance Company Federal Political Action Committee</contributorName>
+      <payeeName>Keystone America PAC</payeeName>
+      <recipientName>Sen. Robert P. Casey, Jr. (D)</recipientName>
+      <amount>1000</amount>
+      <date>11/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Northwestern Mutual Life Insurance Company Federal Political Action Committee</contributorName>
+      <payeeName>Clay JR. For Congress</payeeName>
+      <recipientName>Rep. William Lacy Clay, Jr. (D)</recipientName>
+      <amount>1000</amount>
+      <date>7/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Northwestern Mutual Life Insurance Company Federal Political Action Committee</contributorName>
+      <payeeName>Friends Of David Schweikert</payeeName>
+      <recipientName>Rep. David Schweikert (R)</recipientName>
+      <amount>1000</amount>
+      <date>9/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Northwestern Mutual Life Insurance Company Federal Political Action Committee</contributorName>
+      <payeeName>Promoting Our Republican Team PAC</payeeName>
+      <recipientName>Sen. Rob J. Portman (R)</recipientName>
+      <amount>1500</amount>
+      <date>12/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Northwestern Mutual Life Insurance Company Federal Political Action Committee</contributorName>
+      <payeeName>Jimmy Panetta For Congress</payeeName>
+      <recipientName>Rep. James V. Panetta (D)</recipientName>
+      <amount>1000</amount>
+      <date>9/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Northwestern Mutual Life Insurance Company Federal Political Action Committee</contributorName>
+      <payeeName>Scott Fitzgerald For Congress</payeeName>
+      <recipientName>Sen. Scott L. Fitzgerald (R)</recipientName>
+      <amount>3000</amount>
+      <date>12/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Northwestern Mutual Life Insurance Company Federal Political Action Committee</contributorName>
+      <payeeName>Kind For Congress Committee</payeeName>
+      <recipientName>Rep. Ronald James Kind (D)</recipientName>
+      <amount>1000</amount>
+      <date>9/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Northwestern Mutual Life Insurance Company Federal Political Action Committee</contributorName>
+      <payeeName>Casten For Congress</payeeName>
+      <recipientName>Rep. Sean Casten (D)</recipientName>
+      <amount>2000</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Northwestern Mutual Life Insurance Company Federal Political Action Committee</contributorName>
+      <payeeName>Steve Daines For Montana</payeeName>
+      <recipientName>Sen. Steve David Daines (R)</recipientName>
+      <amount>1000</amount>
+      <date>11/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Northwestern Mutual Life Insurance Company Federal Political Action Committee</contributorName>
+      <payeeName>George Holding For Congress Inc.</payeeName>
+      <recipientName>Rep. George E. Holding (R)</recipientName>
+      <amount>1500</amount>
+      <date>11/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Northwestern Mutual Life Insurance Company Federal Political Action Committee</contributorName>
+      <payeeName>Chuy Garcia For Congress</payeeName>
+      <recipientName>Rep. Jesus G. Garcia (D)</recipientName>
+      <amount>500</amount>
+      <date>7/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Northwestern Mutual Life Insurance Company Federal Political Action Committee</contributorName>
+      <payeeName>Promoting Our Republican Team PAC</payeeName>
+      <recipientName>Sen. Rob J. Portman (R)</recipientName>
+      <amount>2500</amount>
+      <date>10/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Northwestern Mutual Life Insurance Company Federal Political Action Committee</contributorName>
+      <payeeName>The Reed Committee</payeeName>
+      <recipientName>Sen. Jack Francis Reed (D)</recipientName>
+      <amount>1000</amount>
+      <date>9/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Northwestern Mutual Life Insurance Company Federal Political Action Committee</contributorName>
+      <payeeName>Larson For Congress</payeeName>
+      <recipientName>Rep. John Barry Larson (D)</recipientName>
+      <amount>1000</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Northwestern Mutual Life Insurance Company Federal Political Action Committee</contributorName>
+      <payeeName>Freedom Fund</payeeName>
+      <recipientName>Sen. Michael Dean Crapo (R)</recipientName>
+      <amount>5000</amount>
+      <date>9/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Northwestern Mutual Life Insurance Company Federal Political Action Committee</contributorName>
+      <payeeName>Bill Dodd for Senate 2020</payeeName>
+      <recipientName>Sen. Bill Dodd (D)</recipientName>
+      <amount>1500</amount>
+      <date>10/7/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Northwestern Mutual Life Insurance Company Federal Political Action Committee</contributorName>
+      <payeeName>Scott Fitzgerald For Congress</payeeName>
+      <recipientName>Sen. Scott L. Fitzgerald (R)</recipientName>
+      <amount>2000</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Northwestern Mutual Life Insurance Company Federal Political Action Committee</contributorName>
+      <payeeName>Hudson For Congress</payeeName>
+      <recipientName>Rep. Richard Lane Hudson, Jr. (R)</recipientName>
+      <amount>1000</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Northwestern Mutual Life Insurance Company Federal Political Action Committee</contributorName>
+      <payeeName>Himes For Congress</payeeName>
+      <recipientName>Rep. James Andrew Himes (D)</recipientName>
+      <amount>1500</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Northwestern Mutual Life Insurance Company Federal Political Action Committee</contributorName>
+      <payeeName>John Rose For Tennessee</payeeName>
+      <recipientName>Rep. John W. Rose (R)</recipientName>
+      <amount>1000</amount>
+      <date>11/7/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Northwestern Mutual Life Insurance Company Federal Political Action Committee</contributorName>
+      <payeeName>Floridians for Limited Government</payeeName>
+      <recipientName>Floridians for Limited Government</recipientName>
+      <amount>2500</amount>
+      <date>7/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Northwestern Mutual Life Insurance Company Federal Political Action Committee</contributorName>
+      <payeeName>Mike Gallagher For Wisconsin</payeeName>
+      <recipientName>Rep. Michael John Gallagher (R)</recipientName>
+      <amount>1500</amount>
+      <date>10/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Northwestern Mutual Life Insurance Company Federal Political Action Committee</contributorName>
+      <payeeName>Duffy For Wisconsin</payeeName>
+      <recipientName>Sean Patrick Duffy (R)</recipientName>
+      <amount>2500</amount>
+      <date>7/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Northwestern Mutual Life Insurance Company Federal Political Action Committee</contributorName>
+      <payeeName>Stivers For Congress</payeeName>
+      <recipientName>Rep. Steve Stivers (R)</recipientName>
+      <amount>5000</amount>
+      <date>7/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Northwestern Mutual Life Insurance Company Federal Political Action Committee</contributorName>
+      <payeeName>Ted Cruz For Senate</payeeName>
+      <recipientName>Sen. Ted E. Cruz (R)</recipientName>
+      <amount>1000</amount>
+      <date>11/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Northwestern Mutual Life Insurance Company Federal Political Action Committee</contributorName>
+      <payeeName>Mike Gallagher For Wisconsin</payeeName>
+      <recipientName>Rep. Michael John Gallagher (R)</recipientName>
+      <amount>1000</amount>
+      <date>10/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Northwestern Mutual Life Insurance Company Federal Political Action Committee</contributorName>
+      <payeeName>NYS Democratic Assembly Campaign Committee (DACC)</payeeName>
+      <recipientName>NYS Democratic Assembly Campaign Committee (DACC)</recipientName>
+      <amount>1000</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Northwestern Mutual Life Insurance Company Federal Political Action Committee</contributorName>
+      <payeeName>Hertzberg for Senate 2018 Officholder Account</payeeName>
+      <recipientName>Sen. Bob M. Hertzberg (D)</recipientName>
+      <amount>1500</amount>
+      <date>10/7/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Northwestern Mutual Life Insurance Company Federal Political Action Committee</contributorName>
+      <payeeName>Richard E Neal For Congress Committee</payeeName>
+      <recipientName>Rep. Richard Edmund Neal (D)</recipientName>
+      <amount>5000</amount>
+      <date>10/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Northwestern Mutual Life Insurance Company Federal Political Action Committee</contributorName>
+      <payeeName>Glenn Grothman For Congress</payeeName>
+      <recipientName>Rep. Glenn S. Grothman (R)</recipientName>
+      <amount>3000</amount>
+      <date>7/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Northwestern Mutual Life Insurance Company Federal Political Action Committee</contributorName>
+      <payeeName>Haley Stevens For Congress</payeeName>
+      <recipientName>Rep. Haley M. Stevens (D)</recipientName>
+      <amount>1000</amount>
+      <date>7/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Northwestern Mutual Life Insurance Company Federal Political Action Committee</contributorName>
+      <payeeName>Vern Buchanan For Congress</payeeName>
+      <recipientName>Rep. Vernon Gale Buchanan (R)</recipientName>
+      <amount>2500</amount>
+      <date>10/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Northwestern Mutual Life Insurance Company Federal Political Action Committee</contributorName>
+      <payeeName>Steve Daines For Montana</payeeName>
+      <recipientName>Sen. Steve David Daines (R)</recipientName>
+      <amount>1500</amount>
+      <date>11/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Northwestern Mutual Life Insurance Company Federal Political Action Committee</contributorName>
+      <payeeName>Ann Wagner For Congress</payeeName>
+      <recipientName>Rep. Ann Louise Wagner (R)</recipientName>
+      <amount>2500</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Northwestern Mutual Life Insurance Company Federal Political Action Committee</contributorName>
+      <payeeName>Stephen Lynch For Congress</payeeName>
+      <recipientName>Rep. Stephen Francis Lynch (D)</recipientName>
+      <amount>1000</amount>
+      <date>7/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Northwestern Mutual Life Insurance Company Federal Political Action Committee</contributorName>
+      <payeeName>Glenn Grothman For Congress</payeeName>
+      <recipientName>Rep. Glenn S. Grothman (R)</recipientName>
+      <amount>2000</amount>
+      <date>7/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Northwestern Mutual Life Insurance Company Federal Political Action Committee</contributorName>
+      <payeeName>Jobs for Florida</payeeName>
+      <recipientName>Jobs for Florida</recipientName>
+      <amount>10000</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Northwestern Mutual Life Insurance Company Federal Political Action Committee</contributorName>
+      <payeeName>New Millennium PAC</payeeName>
+      <recipientName>Sen. Robert Menendez (D)</recipientName>
+      <amount>1000</amount>
+      <date>12/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Northwestern Mutual Life Insurance Company Federal Political Action Committee</contributorName>
+      <payeeName>People's Voice PAC</payeeName>
+      <recipientName>Sen. Tammy S. Baldwin (D)</recipientName>
+      <amount>5000</amount>
+      <date>10/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Northwestern Mutual Life Insurance Company Federal Political Action Committee</contributorName>
+      <payeeName>Florida First Forever, Inc.</payeeName>
+      <recipientName>Florida First Forever, Inc.</recipientName>
+      <amount>2500</amount>
+      <date>10/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Northwestern Mutual Life Insurance Company Federal Political Action Committee</contributorName>
+      <payeeName>George Holding For Congress Inc.</payeeName>
+      <recipientName>Rep. George E. Holding (R)</recipientName>
+      <amount>1000</amount>
+      <date>11/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Northwestern Mutual Life Insurance Company Federal Political Action Committee</contributorName>
+      <payeeName>Keystone America PAC</payeeName>
+      <recipientName>Sen. Robert P. Casey, Jr. (D)</recipientName>
+      <amount>2500</amount>
+      <date>10/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Northwestern Mutual Life Insurance Company Federal Political Action Committee</contributorName>
+      <payeeName>Working Together for Florida</payeeName>
+      <recipientName>Working Together for Florida</recipientName>
+      <amount>5000</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Northwestern Mutual Life Insurance Company Federal Political Action Committee</contributorName>
+      <payeeName>Stephanie Murphy For Congress</payeeName>
+      <recipientName>Rep. Stephanie N. Murphy (D)</recipientName>
+      <amount>1000</amount>
+      <date>7/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Northwestern Mutual Life Insurance Company Federal Political Action Committee</contributorName>
+      <payeeName>Stanton For Congress</payeeName>
+      <recipientName>Rep. Greg Stanton (D)</recipientName>
+      <amount>2000</amount>
+      <date>11/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Northwestern Mutual Life Insurance Company Federal Political Action Committee</contributorName>
+      <payeeName>Himes For Congress</payeeName>
+      <recipientName>Rep. James Andrew Himes (D)</recipientName>
+      <amount>2500</amount>
+      <date>7/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Northwestern Mutual Life Insurance Company Federal Political Action Committee</contributorName>
+      <payeeName>Angie Craig For Congress</payeeName>
+      <recipientName>Rep. Angela Dawn Craig (D)</recipientName>
+      <amount>2000</amount>
+      <date>12/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Northwestern Mutual Life Insurance Company Federal Political Action Committee</contributorName>
+      <payeeName>Sinema For Arizona</payeeName>
+      <recipientName>Sen. Kyrsten Sinema (D)</recipientName>
+      <amount>1000</amount>
+      <date>10/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Northwestern Mutual Life Insurance Company Federal Political Action Committee</contributorName>
+      <payeeName>Citizens For Boyle</payeeName>
+      <recipientName>Rep. Brendan Francis Boyle (D)</recipientName>
+      <amount>1000</amount>
+      <date>10/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Northwestern Mutual Life Insurance Company Federal Political Action Committee</contributorName>
+      <payeeName>Price For Congress</payeeName>
+      <recipientName>Rep. David Eugene Price (D)</recipientName>
+      <amount>1000</amount>
+      <date>11/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Northwestern Mutual Life Insurance Company Federal Political Action Committee</contributorName>
+      <payeeName>Terri Sewell For Congress</payeeName>
+      <recipientName>Rep. Terri Andrea Sewell (D)</recipientName>
+      <amount>2500</amount>
+      <date>10/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Northwestern Mutual Life Insurance Company Federal Political Action Committee</contributorName>
+      <payeeName>Mike Thompson For Congress</payeeName>
+      <recipientName>Rep. Michael C. Thompson (D)</recipientName>
+      <amount>1000</amount>
+      <date>9/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Northwestern Mutual Life Insurance Company Federal Political Action Committee</contributorName>
+      <payeeName>Steil For Wisconsin, Inc.</payeeName>
+      <recipientName>Rep. Bryan G. Steil (R)</recipientName>
+      <amount>1000</amount>
+      <date>9/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Northwestern Mutual Life Insurance Company Federal Political Action Committee</contributorName>
+      <payeeName>Bluegrass Committee</payeeName>
+      <recipientName>Sen. Mitch McConnell (R)</recipientName>
+      <amount>2500</amount>
+      <date>10/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Northwestern Mutual Life Insurance Company Federal Political Action Committee</contributorName>
+      <payeeName>Team Graham, Inc.</payeeName>
+      <recipientName>Sen. Lindsey Olin Graham (R)</recipientName>
+      <amount>500</amount>
+      <date>7/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Northwestern Mutual Life Insurance Company Federal Political Action Committee</contributorName>
+      <payeeName>Denny Heck For Congress</payeeName>
+      <recipientName>Rep. Dennis Heck (D)</recipientName>
+      <amount>1000</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Northwestern Mutual Life Insurance Company Federal Political Action Committee</contributorName>
+      <payeeName>Glenn Grothman For Congress</payeeName>
+      <recipientName>Rep. Glenn S. Grothman (R)</recipientName>
+      <amount>1000</amount>
+      <date>10/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Northwestern Mutual Life Insurance Company Federal Political Action Committee</contributorName>
+      <payeeName>Mike Kelly For Congress</payeeName>
+      <recipientName>Rep. G. Mike J. Kelly (R)</recipientName>
+      <amount>2500</amount>
+      <date>10/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Northwestern Mutual Life Insurance Company Federal Political Action Committee</contributorName>
+      <payeeName>Beatty For Congress</payeeName>
+      <recipientName>Rep. Joyce Beatty (D)</recipientName>
+      <amount>1500</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Northwestern Mutual Life Insurance Company Federal Political Action Committee</contributorName>
+      <payeeName>Mike Gallagher For Wisconsin</payeeName>
+      <recipientName>Rep. Michael John Gallagher (R)</recipientName>
+      <amount>1000</amount>
+      <date>7/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Northwestern Mutual Life Insurance Company Federal Political Action Committee</contributorName>
+      <payeeName>Treasure State PAC</payeeName>
+      <recipientName>Sen. Jon Tester (D)</recipientName>
+      <amount>4000</amount>
+      <date>11/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Northwestern Mutual Life Insurance Company Federal Political Action Committee</contributorName>
+      <payeeName>Suozzi For Congress</payeeName>
+      <recipientName>Rep. Thomas R. Suozzi (D)</recipientName>
+      <amount>2000</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Northwestern Mutual Life Insurance Company Federal Political Action Committee</contributorName>
+      <payeeName>LEGPAC</payeeName>
+      <recipientName>Sen. Benjamin L. Cardin (D)</recipientName>
+      <amount>3000</amount>
+      <date>11/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Northwestern Mutual Life Insurance Company Federal Political Action Committee</contributorName>
+      <payeeName>Friends Of Mark Warner</payeeName>
+      <recipientName>Sen. Mark Robert Warner (D)</recipientName>
+      <amount>1000</amount>
+      <date>9/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Northwestern Mutual Life Insurance Company Federal Political Action Committee</contributorName>
+      <payeeName>Brian Higgins For Congress</payeeName>
+      <recipientName>Rep. Brian M. Higgins (D)</recipientName>
+      <amount>1000</amount>
+      <date>7/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Northwestern Mutual Life Insurance Company Federal Political Action Committee</contributorName>
+      <payeeName>Giving Willingly Empowering Nationally (GWEN) PAC</payeeName>
+      <recipientName>Rep. Gwendolynne Sophia Moore (D)</recipientName>
+      <amount>2500</amount>
+      <date>8/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Northwestern Mutual Life Insurance Company Federal Political Action Committee</contributorName>
+      <payeeName>Nevadans For Steven Horsford</payeeName>
+      <recipientName>Rep. Steven Alexzander Horsford (D)</recipientName>
+      <amount>1000</amount>
+      <date>12/9/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

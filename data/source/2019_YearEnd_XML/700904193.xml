@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>West Front Strategies LLC</organizationName>
+  <lobbyistPrefix>Mr.</lobbyistPrefix>
+  <lobbyistFirstName>Shimon</lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>Stein</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>401103493</senateRegID>
+  <houseRegID>42764</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/8/2020 10:06:34 AM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>NRCC 218</payeeName>
+      <recipientName>NRCC 218</recipientName>
+      <amount>250.00</amount>
+      <date>07/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>McCarthy Victory Fund</payeeName>
+      <recipientName>Congressman Kevin McCarthy</recipientName>
+      <amount>2500.00</amount>
+      <date>07/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Team McHenry</payeeName>
+      <recipientName>Congressman Patrick McHenry</recipientName>
+      <amount>500.00</amount>
+      <date>07/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>NRCC 218</payeeName>
+      <recipientName>NRCC 218</recipientName>
+      <amount>250.00</amount>
+      <date>08/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>NRCC 218</payeeName>
+      <recipientName>NRCC 218</recipientName>
+      <amount>250.00</amount>
+      <date>09/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>NRCC 218</payeeName>
+      <recipientName>NRCC 218</recipientName>
+      <amount>250.00</amount>
+      <date>10/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Michael McCaul for Congress</payeeName>
+      <recipientName>Congessman Michael McCaul</recipientName>
+      <amount>500.00</amount>
+      <date>10/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>McCarthy Victory Fund</payeeName>
+      <recipientName>Congressman Kevin McCarthy</recipientName>
+      <amount>2500.00</amount>
+      <date>10/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Denver Riggleman For Congress</payeeName>
+      <recipientName>Congressman Denver Riggleman</recipientName>
+      <amount>1000.00</amount>
+      <date>11/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>NRCC 218</payeeName>
+      <recipientName>NRCC 218</recipientName>
+      <amount>250.00</amount>
+      <date>11/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>John Rose for Congress</payeeName>
+      <recipientName>Congressman John Rose</recipientName>
+      <amount>500.00</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Adrian Smith for Congress</payeeName>
+      <recipientName>Congressman Adrian Smith</recipientName>
+      <amount>500.00</amount>
+      <date>12/03/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>NRCC 218</payeeName>
+      <recipientName>NRCC 218</recipientName>
+      <amount>250.00</amount>
+      <date>12/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Rodney Davis for Congress</payeeName>
+      <recipientName>Congressman Rodney Davis</recipientName>
+      <amount>500.00</amount>
+      <date>12/04/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

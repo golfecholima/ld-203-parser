@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>PayPal</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <zipext>
+  </zipext>
+  <contactName>Barry Murphy</contactName>
+  <senateRegID>401103770</senateRegID>
+  <houseRegID>43023</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/27/2020 11:21:39 AM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>PayPal Inc. Political Action Committee (PAYPAL PAC)</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PayPal Inc. Political Action Committee (PAYPAL PAC)</contributorName>
+      <payeeName>Ann Wagner for Congress</payeeName>
+      <recipientName>Ann L. Wagner</recipientName>
+      <amount>1000.00</amount>
+      <date>10/08/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PayPal Inc. Political Action Committee (PAYPAL PAC)</contributorName>
+      <payeeName>Biggs for Congress</payeeName>
+      <recipientName>Andy Biggs</recipientName>
+      <amount>1000.00</amount>
+      <date>10/08/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PayPal Inc. Political Action Committee (PAYPAL PAC)</contributorName>
+      <payeeName>Bill Foster for Congress</payeeName>
+      <recipientName>William G. Foster</recipientName>
+      <amount>1000.00</amount>
+      <date>10/08/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PayPal Inc. Political Action Committee (PAYPAL PAC)</contributorName>
+      <payeeName>McSally for Senate</payeeName>
+      <recipientName>Martha McSally</recipientName>
+      <amount>1500.00</amount>
+      <date>10/08/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PayPal Inc. Political Action Committee (PAYPAL PAC)</contributorName>
+      <payeeName>Mike Crapo for US Senate</payeeName>
+      <recipientName>Michael D. Crapo</recipientName>
+      <amount>1000.00</amount>
+      <date>10/08/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PayPal Inc. Political Action Committee (PAYPAL PAC)</contributorName>
+      <payeeName>Mike Crapo for US Senate</payeeName>
+      <recipientName>Michael D. Crapo</recipientName>
+      <amount>500.00</amount>
+      <date>10/08/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PayPal Inc. Political Action Committee (PAYPAL PAC)</contributorName>
+      <payeeName>PAC to the Future</payeeName>
+      <recipientName>Nancy Pelosi</recipientName>
+      <amount>1000.00</amount>
+      <date>10/08/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PayPal Inc. Political Action Committee (PAYPAL PAC)</contributorName>
+      <payeeName>CHC Bold PAC</payeeName>
+      <recipientName>Congressional Hispanic Caucus</recipientName>
+      <amount>5000.00</amount>
+      <date>11/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PayPal Inc. Political Action Committee (PAYPAL PAC)</contributorName>
+      <payeeName>New Democrat Coalition PAC</payeeName>
+      <recipientName>New Democrat Coalition</recipientName>
+      <amount>5000.00</amount>
+      <date>11/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PayPal Inc. Political Action Committee (PAYPAL PAC)</contributorName>
+      <payeeName>FINKENAUER FOR CONGRESS</payeeName>
+      <recipientName>Abby Finkenauer</recipientName>
+      <amount>1000.00</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PayPal Inc. Political Action Committee (PAYPAL PAC)</contributorName>
+      <payeeName>McHenry for Congress</payeeName>
+      <recipientName>Patrick T. McHenry</recipientName>
+      <amount>1000.00</amount>
+      <date>12/13/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

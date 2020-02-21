@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>Dell Technologies, Inc.</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <zipext>
+  </zipext>
+  <contactName>Cris Turner</contactName>
+  <senateRegID>11958</senateRegID>
+  <houseRegID>32683</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/30/2020 2:16:24 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>
+  </noContributions>
+  <pacs>
+    <pac>
+      <name>Dell Technologies Political Action Committee</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dell Technologies Political Action Committee</contributorName>
+      <payeeName>Ben Cardin For Senate, Inc.</payeeName>
+      <recipientName>Sen. Benjamin L. Cardin</recipientName>
+      <amount>2500</amount>
+      <date>7/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dell Technologies Political Action Committee</contributorName>
+      <payeeName>LEGPAC</payeeName>
+      <recipientName>Sen. Benjamin L. Cardin</recipientName>
+      <amount>2500</amount>
+      <date>7/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dell Technologies Political Action Committee</contributorName>
+      <payeeName>Katherine Clark For Congress</payeeName>
+      <recipientName>Rep. Katherine M. Clark</recipientName>
+      <amount>2500</amount>
+      <date>7/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dell Technologies Political Action Committee</contributorName>
+      <payeeName>LEGPAC</payeeName>
+      <recipientName>Sen. Benjamin L. Cardin</recipientName>
+      <amount>2500</amount>
+      <date>7/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dell Technologies Political Action Committee</contributorName>
+      <payeeName>NRCC (Recount Fund)</payeeName>
+      <recipientName>NRCC</recipientName>
+      <amount>5000</amount>
+      <date>7/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dell Technologies Political Action Committee</contributorName>
+      <payeeName>Take Back The House 2020</payeeName>
+      <recipientName>NRCC</recipientName>
+      <amount>5000</amount>
+      <date>7/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dell Technologies Political Action Committee</contributorName>
+      <payeeName>Chrissy Houlahan For Congress</payeeName>
+      <recipientName>Rep. Christina J. Houlahan</recipientName>
+      <amount>5000</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dell Technologies Political Action Committee</contributorName>
+      <payeeName>Vaquero PAC</payeeName>
+      <recipientName>Rep. Filemon Bartolome Vela, Jr.</recipientName>
+      <amount>2500</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dell Technologies Political Action Committee</contributorName>
+      <payeeName>Cory Gardner For Senate</payeeName>
+      <recipientName>Sen. Cory Gardner</recipientName>
+      <amount>4000</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dell Technologies Political Action Committee</contributorName>
+      <payeeName>Cory Gardner For Senate</payeeName>
+      <recipientName>Sen. Cory Gardner</recipientName>
+      <amount>1000</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dell Technologies Political Action Committee</contributorName>
+      <payeeName>Project West Political Action Committee</payeeName>
+      <recipientName>Sen. Cory Gardner</recipientName>
+      <amount>1000</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dell Technologies Political Action Committee</contributorName>
+      <payeeName>Conservative &amp; Republican Together Equals Results PAC</payeeName>
+      <recipientName>Rep. John R. Carter</recipientName>
+      <amount>1000</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dell Technologies Political Action Committee</contributorName>
+      <payeeName>Barbara Lee For Congress</payeeName>
+      <recipientName>Rep. Barbara Jean Lee</recipientName>
+      <amount>5000</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dell Technologies Political Action Committee</contributorName>
+      <payeeName>Langevin For Congress</payeeName>
+      <recipientName>Rep. James R. Langevin</recipientName>
+      <amount>2000</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dell Technologies Political Action Committee</contributorName>
+      <payeeName>Texans For Jodey Arrington</payeeName>
+      <recipientName>Rep. Jodey Cook Arrington</recipientName>
+      <amount>1000</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dell Technologies Political Action Committee</contributorName>
+      <payeeName>Friends Of Jim Inhofe</payeeName>
+      <recipientName>Sen. James M. Inhofe</recipientName>
+      <amount>1500</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dell Technologies Political Action Committee</contributorName>
+      <payeeName>Friends Of Jim Inhofe</payeeName>
+      <recipientName>Sen. James M. Inhofe</recipientName>
+      <amount>3500</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dell Technologies Political Action Committee</contributorName>
+      <payeeName>Marc Veasey Congressional Campaign Committee</payeeName>
+      <recipientName>Rep. Marc A. Veasey</recipientName>
+      <amount>3500</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dell Technologies Political Action Committee</contributorName>
+      <payeeName>Marc Veasey Congressional Campaign Committee</payeeName>
+      <recipientName>Rep. Marc A. Veasey</recipientName>
+      <amount>1500</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dell Technologies Political Action Committee</contributorName>
+      <payeeName>Haley Stevens For Congress</payeeName>
+      <recipientName>Rep. Haley M. Stevens</recipientName>
+      <amount>1000</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dell Technologies Political Action Committee</contributorName>
+      <payeeName>Friends Of Raja For Congress</payeeName>
+      <recipientName>Rep. S. Raja Krishnamoorthi</recipientName>
+      <amount>1000</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dell Technologies Political Action Committee</contributorName>
+      <payeeName>Mikie Sherrill For Congress</payeeName>
+      <recipientName>Rep. Mikie Sherrill</recipientName>
+      <amount>2500</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dell Technologies Political Action Committee</contributorName>
+      <payeeName>Anthony Brown For Congress</payeeName>
+      <recipientName>Rep. Anthony Gregory Brown</recipientName>
+      <amount>2500</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dell Technologies Political Action Committee</contributorName>
+      <payeeName>Hoyer For Congress</payeeName>
+      <recipientName>Rep. Steny Hamilton Hoyer</recipientName>
+      <amount>5000</amount>
+      <date>10/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dell Technologies Political Action Committee</contributorName>
+      <payeeName>Clarke For Congress</payeeName>
+      <recipientName>Rep. Yvette Diana Clarke</recipientName>
+      <amount>2500</amount>
+      <date>10/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dell Technologies Political Action Committee</contributorName>
+      <payeeName>Angie Craig For Congress</payeeName>
+      <recipientName>Rep. Angela Dawn Craig</recipientName>
+      <amount>2500</amount>
+      <date>10/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dell Technologies Political Action Committee</contributorName>
+      <payeeName>Finkenauer For Congress</payeeName>
+      <recipientName>Rep. Abby Finkenauer</recipientName>
+      <amount>2500</amount>
+      <date>10/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dell Technologies Political Action Committee</contributorName>
+      <payeeName>Sylvia Garcia For Congress</payeeName>
+      <recipientName>Rep. Sylvia R. Garcia</recipientName>
+      <amount>2500</amount>
+      <date>10/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dell Technologies Political Action Committee</contributorName>
+      <payeeName>Anthony Brown For Congress</payeeName>
+      <recipientName>Rep. Anthony Gregory Brown</recipientName>
+      <amount>2500</amount>
+      <date>10/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dell Technologies Political Action Committee</contributorName>
+      <payeeName>Debbie For Congress</payeeName>
+      <recipientName>Rep. Debbie Mucarsel-Powell</recipientName>
+      <amount>2500</amount>
+      <date>10/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dell Technologies Political Action Committee</contributorName>
+      <payeeName>Anthony Brown For Congress</payeeName>
+      <recipientName>Rep. Anthony Gregory Brown</recipientName>
+      <amount>2500</amount>
+      <date>11/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dell Technologies Political Action Committee</contributorName>
+      <payeeName>Cornyn Majority Texas</payeeName>
+      <recipientName>Sen. John Cornyn ($5,000); NRSC ($30,000)</recipientName>
+      <amount>35000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dell Technologies Political Action Committee</contributorName>
+      <payeeName>Texans For Henry Cuellar Congressional Campaign</payeeName>
+      <recipientName>Rep. Henry Roberto Cuellar</recipientName>
+      <amount>5000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dell Technologies Political Action Committee</contributorName>
+      <payeeName>Responsibility And Freedom Work PAC (RFWPAC)</payeeName>
+      <recipientName>Sen. Roger Frederick Wicker</recipientName>
+      <amount>2500</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dell Technologies Political Action Committee</contributorName>
+      <payeeName>Lone Star Leadership PAC</payeeName>
+      <recipientName>Rep. Michael Clifton Burgess</recipientName>
+      <amount>5000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dell Technologies Political Action Committee</contributorName>
+      <payeeName>LaHood for Congress</payeeName>
+      <recipientName>Rep. Darin M. LaHood</recipientName>
+      <amount>2500</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dell Technologies Political Action Committee</contributorName>
+      <payeeName>Ben Cline For Congress, Inc.</payeeName>
+      <recipientName>Rep. Benjamin L. Cline</recipientName>
+      <amount>2500</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dell Technologies Political Action Committee</contributorName>
+      <payeeName>Debbie Wasserman Schultz For Congress</payeeName>
+      <recipientName>Rep. Debbie Wasserman Schultz</recipientName>
+      <amount>1000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dell Technologies Political Action Committee</contributorName>
+      <payeeName>Richmond For Congress</payeeName>
+      <recipientName>Rep. Cedric Levon Richmond</recipientName>
+      <amount>1000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dell Technologies Political Action Committee</contributorName>
+      <payeeName>Chip Roy For Congress</payeeName>
+      <recipientName>Rep. Chip Roy</recipientName>
+      <amount>5000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dell Technologies Political Action Committee</contributorName>
+      <payeeName>Friends Of Jim Clyburn</payeeName>
+      <recipientName>Rep. James E. Clyburn</recipientName>
+      <amount>2500</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dell Technologies Political Action Committee</contributorName>
+      <payeeName>Friends Of Raja For Congress</payeeName>
+      <recipientName>Rep. S. Raja Krishnamoorthi</recipientName>
+      <amount>2000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dell Technologies Political Action Committee</contributorName>
+      <payeeName>Van Taylor Campaign</payeeName>
+      <recipientName>Rep. Vancampen Taylor</recipientName>
+      <amount>2500</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dell Technologies Political Action Committee</contributorName>
+      <payeeName>DCCC (Building Fund)</payeeName>
+      <recipientName>DSCC</recipientName>
+      <amount>25000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dell Technologies Political Action Committee</contributorName>
+      <payeeName>DSCC</payeeName>
+      <recipientName>DSCC</recipientName>
+      <amount>15000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dell Technologies Political Action Committee</contributorName>
+      <payeeName>Frontera Vision PAC</payeeName>
+      <recipientName>Rep. Veronica Escobar</recipientName>
+      <amount>5000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dell Technologies Political Action Committee</contributorName>
+      <payeeName>Granite Values PAC</payeeName>
+      <recipientName>Sen. Margaret Wood Hassan</recipientName>
+      <amount>5000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dell Technologies Political Action Committee</contributorName>
+      <payeeName>Scalise Leadership Fund</payeeName>
+      <recipientName>Rep. Steve Scalise ($5,000), NRCC ($15,000)</recipientName>
+      <amount>20000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dell Technologies Political Action Committee</contributorName>
+      <payeeName>NRCC (Building Fund)</payeeName>
+      <recipientName>NRCC</recipientName>
+      <amount>20000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dell Technologies Political Action Committee</contributorName>
+      <payeeName>Katko For Congress</payeeName>
+      <recipientName>Rep. John Michael Katko</recipientName>
+      <amount>2500</amount>
+      <date>12/30/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

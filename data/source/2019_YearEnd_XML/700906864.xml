@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>Doctors Hospital at Renaissance</organizationName>
+  <lobbyistPrefix>Mr.</lobbyistPrefix>
+  <lobbyistFirstName>Roberto</lobbyistFirstName>
+  <lobbyistMiddleName>Adrian</lobbyistMiddleName>
+  <lobbyistLastName>Haddad</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>400479360</senateRegID>
+  <houseRegID>40954</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/17/2020 9:56:55 AM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>Border Health PAC </name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Border Health PAC</payeeName>
+      <recipientName>Border Health PAC </recipientName>
+      <amount>109.28</amount>
+      <date>07/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Border Health PAC</payeeName>
+      <recipientName>Border Health PAC</recipientName>
+      <amount>105.52</amount>
+      <date>08/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Border Health PAC</payeeName>
+      <recipientName>Border Health PAC</recipientName>
+      <amount>100.00</amount>
+      <date>09/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Border Health PAC</payeeName>
+      <recipientName>Border Health PAC</recipientName>
+      <amount>100.00</amount>
+      <date>11/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Border Health PAC</payeeName>
+      <recipientName>Border Health PAC</recipientName>
+      <amount>100.00</amount>
+      <date>10/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Border Health PAC</payeeName>
+      <recipientName>Border Health PAC</recipientName>
+      <amount>100.00</amount>
+      <date>12/14/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

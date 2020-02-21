@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>Van Scoyoc Associates</organizationName>
+  <lobbyistPrefix>Mr.</lobbyistPrefix>
+  <lobbyistFirstName>Harry</lobbyistFirstName>
+  <lobbyistMiddleName>J.</lobbyistMiddleName>
+  <lobbyistLastName>Glenn</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>39837</senateRegID>
+  <houseRegID>32802</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/30/2020 12:46:44 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Mario Diaz Balart for Congress</payeeName>
+      <recipientName>Rep. Mario Diaz Balart (Primary)</recipientName>
+      <amount>2800.00</amount>
+      <date>09/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Mario Diaz Balart for Congress</payeeName>
+      <recipientName>Rep. Mario Diaz Balart (General)</recipientName>
+      <amount>1200.00</amount>
+      <date>09/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Moran Victory Committee</payeeName>
+      <recipientName>Sen. Jerry Moran (Primary)</recipientName>
+      <amount>1000.00</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Debbie Wasserman Schultz for Congress</payeeName>
+      <recipientName>Rep. Debbie Wasserman Schultz</recipientName>
+      <amount>2000.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Charlie Crist for Congress</payeeName>
+      <recipientName>Rep. Charlie Crist (primary)</recipientName>
+      <amount>1000.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Charlie Crist for Congress</payeeName>
+      <recipientName>Rep. Charlie Crist (primary)</recipientName>
+      <amount>1800.00</amount>
+      <date>11/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Charlie Crist for Congress</payeeName>
+      <recipientName>Rep. Charlie Crist (General)</recipientName>
+      <amount>1000.00</amount>
+      <date>11/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Matsui for Congress</payeeName>
+      <recipientName>Rep. Doris Matsui</recipientName>
+      <amount>1500.00</amount>
+      <date>11/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Making America Prosperous PAC</payeeName>
+      <recipientName>Rep. Kevin Brady Leadership PAC</recipientName>
+      <amount>2000.00</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Amodei for Nevada</payeeName>
+      <recipientName>Rep. Mark Amodei</recipientName>
+      <amount>1000.00</amount>
+      <date>12/04/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Vern Buchanan for Congress</payeeName>
+      <recipientName>Rep. Vern Buchanan (Primary)</recipientName>
+      <amount>1000.00</amount>
+      <date>12/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Friends of Neal Dunn</payeeName>
+      <recipientName>Rep. Neal Dunn (Primary)</recipientName>
+      <amount>2800.00</amount>
+      <date>12/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Betty PAC</payeeName>
+      <recipientName>Rep. Betty McCollum Leadership PAC</recipientName>
+      <amount>1500.00</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Ken Calvert for Congress</payeeName>
+      <recipientName>Rep. Ken Calvert (Primary)</recipientName>
+      <amount>1000.00</amount>
+      <date>12/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Reaching for a Brighter America PAC</payeeName>
+      <recipientName>Rep. Robert Aderholt Leadership PAC</recipientName>
+      <amount>1500.00</amount>
+      <date>12/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Vern Buchanan for Congress</payeeName>
+      <recipientName>Rep. Vern Buchanan (Primary)</recipientName>
+      <amount>1800.00</amount>
+      <date>12/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Vern Buchanan for Congress</payeeName>
+      <recipientName>Rep. Vern Buchanan (General)</recipientName>
+      <amount>2800.00</amount>
+      <date>12/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Madison PAC</payeeName>
+      <recipientName>Rep. Richard Neal Leadership PAC</recipientName>
+      <amount>4000.00</amount>
+      <date>12/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Daniel Webster for Congress</payeeName>
+      <recipientName>Rep. Daniel Webster </recipientName>
+      <amount>1000.00</amount>
+      <date>12/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Kay Granger Campaign Fund</payeeName>
+      <recipientName>Rep. Kay Granger </recipientName>
+      <amount>1000.00</amount>
+      <date>12/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>McConnell for Majority Leader (Kentucky Republican Party Fund)</payeeName>
+      <recipientName>Various Kentucky State Republican Candidates</recipientName>
+      <amount>1000.00</amount>
+      <date>12/16/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

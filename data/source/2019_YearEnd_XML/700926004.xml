@@ -1,0 +1,552 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>American Veterinary Medical Association</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>PATRICIA MAYO</contactName>
+  <senateRegID>3630</senateRegID>
+  <houseRegID>31140</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/30/2020 4:40:54 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>AVMA PAC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AVMA PAC</contributorName>
+      <payeeName>Bucshon For Congress</payeeName>
+      <recipientName>Rep. Larry Dean Bucshon (R)</recipientName>
+      <amount>1000.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AVMA PAC</contributorName>
+      <payeeName>Pingree For Congress</payeeName>
+      <recipientName>Rep. Chellie Marie Pingree (D)</recipientName>
+      <amount>1000.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AVMA PAC</contributorName>
+      <payeeName>Peterson For Congress</payeeName>
+      <recipientName>Rep. Collin Clark Peterson (D)</recipientName>
+      <amount>1500.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AVMA PAC</contributorName>
+      <payeeName>Tina Smith For Minnesota</payeeName>
+      <recipientName>Se. Tina Smith</recipientName>
+      <amount>1000.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AVMA PAC</contributorName>
+      <payeeName>Kuster For Congress, Inc</payeeName>
+      <recipientName>Rep. Ann McLane Kuster (D)</recipientName>
+      <amount>1000.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AVMA PAC</contributorName>
+      <payeeName>Engel For Congress</payeeName>
+      <recipientName>Rep. Eliot Lance Engel (D)</recipientName>
+      <amount>1000.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AVMA PAC</contributorName>
+      <payeeName>Brindisi For Congress</payeeName>
+      <recipientName>Rep. Anthony J. Brindisi (D)</recipientName>
+      <amount>1000.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AVMA PAC</contributorName>
+      <payeeName>Smucker For Congress</payeeName>
+      <recipientName>Rep. Lloyd K. Smucker</recipientName>
+      <amount>2500.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Kay Granger Campaign Fund</payeeName>
+      <recipientName>Rep. Kay Granger</recipientName>
+      <amount>1000.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AVMA PAC</contributorName>
+      <payeeName>Castro For Congress</payeeName>
+      <recipientName>Rep. Joaquin Castro (D)</recipientName>
+      <amount>1000.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Doggett For Congress</payeeName>
+      <recipientName>Rep. Lloyd Alton Doggett, II (D)</recipientName>
+      <amount>1000.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AVMA PAC</contributorName>
+      <payeeName>Welch For Congress</payeeName>
+      <recipientName>Rep. Peter Francis Welch (D)</recipientName>
+      <amount>1000.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AVMA PAC</contributorName>
+      <payeeName>DelBene For Congress</payeeName>
+      <recipientName>Rep. Suzan Kay DelBene (D)</recipientName>
+      <amount>1000.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AVMA PAC</contributorName>
+      <payeeName>Valadao For Congress</payeeName>
+      <recipientName>David G. Valadao (R)</recipientName>
+      <amount>1000.00</amount>
+      <date>11/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AVMA PAC</contributorName>
+      <payeeName>Friends of Hagedorn</payeeName>
+      <recipientName>Rep. James Hagedorn</recipientName>
+      <amount>1000.00</amount>
+      <date>11/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AVMA PAC</contributorName>
+      <payeeName>Jeff Fortenberry For United States Congress</payeeName>
+      <recipientName>Rep. Jeff Lane Fortenberry (R)</recipientName>
+      <amount>1500.00</amount>
+      <date>11/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AVMA PAC</contributorName>
+      <payeeName>Friends of John Thune</payeeName>
+      <recipientName>Sen. John Randolph Thune (R)</recipientName>
+      <amount>1000.00</amount>
+      <date>11/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AVMA PAC</contributorName>
+      <payeeName>Michael Burgess For Congress</payeeName>
+      <recipientName>Rep. Michael Clifton Burgess</recipientName>
+      <amount>1000.00</amount>
+      <date>11/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AVMA PAC</contributorName>
+      <payeeName>Gallego For Arizona</payeeName>
+      <recipientName>Rep. Ruben M. Gallego (D)</recipientName>
+      <amount>1000.00</amount>
+      <date>12/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AVMA PAC</contributorName>
+      <payeeName>Ted Howze For Congress 2020</payeeName>
+      <recipientName>Ted D. Howze (R)</recipientName>
+      <amount>1000.00</amount>
+      <date>12/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AVMA PAC</contributorName>
+      <payeeName>Friends of Raja For Congress</payeeName>
+      <recipientName>Re. S. Raja Krishnamoorthi (D)</recipientName>
+      <amount>2000.00</amount>
+      <date>12/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AVMA PAC</contributorName>
+      <payeeName>Rodney For Congress</payeeName>
+      <recipientName>Rep. Rodney Lee Davis</recipientName>
+      <amount>2000.00</amount>
+      <date>12/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AVMA PAC</contributorName>
+      <payeeName>Tammy For Illinois</payeeName>
+      <recipientName>Sen. L. Tammy Dukworth</recipientName>
+      <amount>1000.00</amount>
+      <date>12/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AVMA PAC</contributorName>
+      <payeeName>Rep. Abraham For Congress</payeeName>
+      <recipientName>Rep. Ralph Lee Abraham (R)</recipientName>
+      <amount>2500.00</amount>
+      <date>12/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AVMA PAC</contributorName>
+      <payeeName>Peterson For Congress</payeeName>
+      <recipientName>Rep. Colin Clark Peterson (D)</recipientName>
+      <amount>1000.00</amount>
+      <date>12/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AVMA PAC</contributorName>
+      <payeeName>Tina Smith For Minnesota</payeeName>
+      <recipientName>Sen. Tina Smith</recipientName>
+      <amount>1000.00</amount>
+      <date>12/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AVMA PAC</contributorName>
+      <payeeName>Steve Daines For Montana</payeeName>
+      <recipientName>Sen. Steve David Daines (R)</recipientName>
+      <amount>1000.00</amount>
+      <date>12/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AVMA PAC</contributorName>
+      <payeeName>Joe Morelle For Congress</payeeName>
+      <recipientName>Rep. Joseph D. Morelle (D)</recipientName>
+      <amount>1000.00</amount>
+      <date>12/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AVMA PAC</contributorName>
+      <payeeName>Spanberger For Congress</payeeName>
+      <recipientName>Rep. Abigail Spanberger (D) </recipientName>
+      <amount>1000.00</amount>
+      <date>12/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AVMA PAC</contributorName>
+      <payeeName>NRCC</payeeName>
+      <recipientName>NRCC</recipientName>
+      <amount>15000.00</amount>
+      <date>12/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AVMA PAC</contributorName>
+      <payeeName>DCCC</payeeName>
+      <recipientName>DCCC</recipientName>
+      <amount>15000.00</amount>
+      <date>12/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AVMA PAC</contributorName>
+      <payeeName>A Whole Lot of People for Grijalva Congressional Committee</payeeName>
+      <recipientName>Rep. Raul Manuel Grijalva (D)</recipientName>
+      <amount>1000.00</amount>
+      <date>09/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AVMA PAC</contributorName>
+      <payeeName>Friends of David Schweikert</payeeName>
+      <recipientName>Rep. David Schweikert (R)</recipientName>
+      <amount>1000.00</amount>
+      <date>09/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AVMA PAC</contributorName>
+      <payeeName>Mike Thompson For Congress</payeeName>
+      <recipientName>Rep. Michael C. Thompson (D)</recipientName>
+      <amount>1000.00</amount>
+      <date>09/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AVMA PAC</contributorName>
+      <payeeName>Barbara Lee For Congress</payeeName>
+      <recipientName>Rep. Barbara Jean Lee</recipientName>
+      <amount>1000.00</amount>
+      <date>09/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Stand With Sanchez</payeeName>
+      <recipientName>Rep. Linda T. Sanchez</recipientName>
+      <amount>1000.00</amount>
+      <date>09/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AVMA PAC</contributorName>
+      <payeeName>Cory Gardner For Senate</payeeName>
+      <recipientName>Sen. Cory Gardner</recipientName>
+      <amount>1000.00</amount>
+      <date>09/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AVMA PAC</contributorName>
+      <payeeName>Castor For Congress</payeeName>
+      <recipientName>Rep. Katherine Anne Castor (D)</recipientName>
+      <amount>1000.00</amount>
+      <date>09/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>John Lewis For Congress</payeeName>
+      <recipientName>Rep. John Robert Lewis (D)</recipientName>
+      <amount>1000.00</amount>
+      <date>09/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AVMA PAC</contributorName>
+      <payeeName>David Scott For Congress</payeeName>
+      <recipientName>Rep. David Albert Scott (D)</recipientName>
+      <amount>1000.00</amount>
+      <date>09/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AVMA PAC</contributorName>
+      <payeeName>Quigley For Congress</payeeName>
+      <recipientName>Rep. Michael Quigley (D)</recipientName>
+      <amount>1000.00</amount>
+      <date>09/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AVMA PAC</contributorName>
+      <payeeName>Schakowsky For Congress</payeeName>
+      <recipientName>Rep. Janice D. Schakowsky</recipientName>
+      <amount>1000.00</amount>
+      <date>09/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AVMA PAC</contributorName>
+      <payeeName>Moran For Kansas</payeeName>
+      <recipientName>Sen. Jerry W. Moran</recipientName>
+      <amount>1000.00</amount>
+      <date>09/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AVMA PAC</contributorName>
+      <payeeName>Guthrie For Congress</payeeName>
+      <recipientName>Rep. S. Brett Guthrie</recipientName>
+      <amount>1000.00</amount>
+      <date>09/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AVMA PAC</contributorName>
+      <payeeName>Richard E Neal For Congress Committee</payeeName>
+      <recipientName>Rep. Richard Edmund Neal (D)</recipientName>
+      <amount>1000.00</amount>
+      <date>09/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AVMA PAC</contributorName>
+      <payeeName>Billy Long For Congress</payeeName>
+      <recipientName>Rep. William H. Long, II (R)</recipientName>
+      <amount>1000.00</amount>
+      <date>09/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AVMA PAC</contributorName>
+      <payeeName>Wicker For Senate</payeeName>
+      <recipientName>Rep. Roger Frederick Wicker (R)</recipientName>
+      <amount>2000.00</amount>
+      <date>09/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AVMA PAC</contributorName>
+      <payeeName>Butterfield For Congress</payeeName>
+      <recipientName>Rep. George Kenneth Butterfield, Jr. (D)</recipientName>
+      <amount>1000.00</amount>
+      <date>09/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AVMA PAC</contributorName>
+      <payeeName>Alma Adams For Congress</payeeName>
+      <recipientName>Rep. Alma Shealey Adams (D)</recipientName>
+      <amount>1000.00</amount>
+      <date>09/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AVMA PAC</contributorName>
+      <payeeName>Adrian Smith For Congress</payeeName>
+      <recipientName>Rep. Adrian Michael Smith (R)</recipientName>
+      <amount>1000.00</amount>
+      <date>09/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AVMA PAC</contributorName>
+      <payeeName>Ben Sasse For US Senate Inc</payeeName>
+      <recipientName>Sen. Benjamin Eric Sasse (R)</recipientName>
+      <amount>1000.00</amount>
+      <date>09/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Pallone for Congress</payeeName>
+      <recipientName>Rep. Frank Pallone, Jr. (D)</recipientName>
+      <amount>2500.00</amount>
+      <date>09/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AVMA PAC</contributorName>
+      <payeeName>Suozzi For Congress</payeeName>
+      <recipientName>Rep. Thomas R. Suozzi (D)</recipientName>
+      <amount>1000.00</amount>
+      <date>09/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AVMA PAC</contributorName>
+      <payeeName>Walden For Congress</payeeName>
+      <recipientName>Rep. Gregory Paul Walden (R)</recipientName>
+      <amount>1500.00</amount>
+      <date>09/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AVMA PAC</contributorName>
+      <payeeName>Tom Rice For Congress</payeeName>
+      <recipientName>Rep. Tom Rice</recipientName>
+      <amount>1000.00</amount>
+      <date>09/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AVMA PAC</contributorName>
+      <payeeName>Brady For Congress</payeeName>
+      <recipientName>Rep. Kevin Patrick Brady</recipientName>
+      <amount>1000.00</amount>
+      <date>09/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AVMA PAC</contributorName>
+      <payeeName>Moore For Congress</payeeName>
+      <recipientName>Rep. Gwendolynne Sophia Moore (D)</recipientName>
+      <amount>1000.00</amount>
+      <date>09/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AVMA PAC</contributorName>
+      <payeeName>Capito For West Virginia</payeeName>
+      <recipientName>Sen. Shelley Moore Capito (R)</recipientName>
+      <amount>1000.00</amount>
+      <date>09/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AVMA PAC</contributorName>
+      <payeeName>Making Business Excel Political Action Committee</payeeName>
+      <recipientName>Sen. Michael Bradley Enzi (R)</recipientName>
+      <amount>1000.00</amount>
+      <date>09/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AVMA PAC</contributorName>
+      <payeeName>Garamendi For Congress</payeeName>
+      <recipientName>Rep. John Raymond Garamendi (D)</recipientName>
+      <amount>1000.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Mark Takano For Congress</payeeName>
+      <recipientName>Rep. Mark Allan Takano (D)</recipientName>
+      <amount>1000.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AVMA PAC</contributorName>
+      <payeeName>Courtney For Congress</payeeName>
+      <recipientName>Rep. Joseph D. Courtney (D)</recipientName>
+      <amount>1000.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AVMA PAC</contributorName>
+      <payeeName>Drew Ferguson For Congress Inc.</payeeName>
+      <recipientName>Rep. A. Drew Ferguson, IV (R)</recipientName>
+      <amount>1000.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AVMA PAC</contributorName>
+      <payeeName>Young For Iowa, Inc.</payeeName>
+      <recipientName>David Edmund Young (R)</recipientName>
+      <amount>1000.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

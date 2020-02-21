@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>Scrivner Leon Group, LLC</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>Michael Scrivner</contactName>
+  <senateRegID>401103886</senateRegID>
+  <houseRegID>43123</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/21/2020 2:34:52 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Engel for Congress</payeeName>
+      <recipientName>Hon. Eliot Engel</recipientName>
+      <amount>1000.00</amount>
+      <date>7/10/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Xochitl for New Mexico</payeeName>
+      <recipientName>Hon. Xochitl Torres Small</recipientName>
+      <amount>500.00</amount>
+      <date>7/25/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Ted Budd for Congress</payeeName>
+      <recipientName>Hon. Ted Budd</recipientName>
+      <amount>500.00</amount>
+      <date>9/23/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Stephanie Schmid for Congress</payeeName>
+      <recipientName>Candidate Stephanie Schmid</recipientName>
+      <amount>250.00</amount>
+      <date>10/2/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Anthony Brindisi for Congress</payeeName>
+      <recipientName>Hon. Anthony Brindisi</recipientName>
+      <amount>500.00</amount>
+      <date>11/14/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Ben Ray Lujan for Senate</payeeName>
+      <recipientName>Hon. Ben Ray Lujan</recipientName>
+      <amount>100.00</amount>
+      <date>11/14/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Equality PAC</payeeName>
+      <recipientName>Equality PAC</recipientName>
+      <amount>1000.00</amount>
+      <date>11/19/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Gina Ortiz for Congress</payeeName>
+      <recipientName>Candidate Gina Ortiz</recipientName>
+      <amount>250.00</amount>
+      <date>12/9/19</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

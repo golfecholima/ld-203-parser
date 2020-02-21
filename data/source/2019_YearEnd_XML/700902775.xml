@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>AKIN GUMP STRAUSS HAUER &amp; FELD</organizationName>
+  <lobbyistPrefix>Mr.</lobbyistPrefix>
+  <lobbyistFirstName>SMITH</lobbyistFirstName>
+  <lobbyistMiddleName>W.</lobbyistMiddleName>
+  <lobbyistLastName>DAVIS</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>682</senateRegID>
+  <houseRegID>31784</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>After performing reasonable due diligence &amp; to the best of my knowledge, this is a complete &amp; accurate report of my contributions &amp; I am in compliance with the House &amp; Senate Standing Rules.</comments>
+  <signedDate>12/10/2019 2:58:20 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>The Thom Tillis Committee</payeeName>
+      <recipientName>Sen. Thom Tillis</recipientName>
+      <amount>500.00</amount>
+      <date>7/9/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>The Thom Tillis Committee</payeeName>
+      <recipientName>Sen. Thom Tillis</recipientName>
+      <amount>500.00</amount>
+      <date>8/2/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Boozman for Senate</payeeName>
+      <recipientName>Sen. John Boozman</recipientName>
+      <amount>500.00</amount>
+      <date>9/18/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Steil for Wisconsin</payeeName>
+      <recipientName>Rep. Bryan Steil</recipientName>
+      <amount>1000.00</amount>
+      <date>9/26/19</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

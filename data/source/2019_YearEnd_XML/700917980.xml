@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>Jackson Lewis PC</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <zipext>
+  </zipext>
+  <contactName>Frank Alvarez</contactName>
+  <senateRegID>400355624</senateRegID>
+  <houseRegID>40427</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/21/2020 11:10:22 AM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>Jackson Lewis P.C. PAC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Jackson Lewis P.C. PAC</contributorName>
+      <payeeName>Democratic Senatorial Campaign Committee (DSCC)</payeeName>
+      <recipientName>n/a</recipientName>
+      <amount>15000.00</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Jackson Lewis P.C. PAC</contributorName>
+      <payeeName>Bobby Scott for Congress (D-VA)</payeeName>
+      <recipientName>n/a</recipientName>
+      <amount>2000.00</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Jackson Lewis P.C. PAC</contributorName>
+      <payeeName>Ann Wagner for Congress (R-MO)</payeeName>
+      <recipientName>n/a</recipientName>
+      <amount>2800.00</amount>
+      <date>11/8/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>Enbridge (U.S.) Inc</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>William Burlew</contactName>
+  <senateRegID>400960770</senateRegID>
+  <houseRegID>43214</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/30/2020 11:21:13 AM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Crawford for Congress</payeeName>
+      <recipientName>Rep Eric Alan Crawford</recipientName>
+      <amount>1000.00</amount>
+      <date>08/01/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Deb Fischer for US Senate</payeeName>
+      <recipientName>Senator Debra Fischer</recipientName>
+      <amount>1000.00</amount>
+      <date>08/01/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Elizabeth Fletcher for Congress</payeeName>
+      <recipientName>Rep. Elizabeth Fletcher</recipientName>
+      <amount>2500.00</amount>
+      <date>09/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Friends of Dick Durbin Committee</payeeName>
+      <recipientName>Senator Richard Joseph Durbin</recipientName>
+      <amount>1000.00</amount>
+      <date>12/03/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Garrett Graves for Congress</payeeName>
+      <recipientName>Rep. Garret Graves</recipientName>
+      <amount>1000.00</amount>
+      <date>12/03/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Star PAC</payeeName>
+      <recipientName>Rep Jack Bergman</recipientName>
+      <amount>1000.00</amount>
+      <date>12/03/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Friends of Dick Durbin Committee</payeeName>
+      <recipientName>Senator Richard Joseph Durbin</recipientName>
+      <amount>4000.00</amount>
+      <date>12/03/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Interstate Natural Gas Association of America Political Action Committee</payeeName>
+      <recipientName>INGAA PAC</recipientName>
+      <amount>5000.00</amount>
+      <date>12/03/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>American Gas Association Political Action Committee</payeeName>
+      <recipientName>AGA PAC</recipientName>
+      <amount>2000.00</amount>
+      <date>12/03/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Richmond for Congress</payeeName>
+      <recipientName>Rep. Cedric Levon Richmond</recipientName>
+      <amount>1000.00</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Claire Chase for Congress</payeeName>
+      <recipientName>Claire Chase</recipientName>
+      <amount>3500.00</amount>
+      <date>12/20/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>Jones Walker, LLP</organizationName>
+  <lobbyistPrefix>Mr.</lobbyistPrefix>
+  <lobbyistFirstName>R</lobbyistFirstName>
+  <lobbyistMiddleName>Christian</lobbyistMiddleName>
+  <lobbyistLastName>JOHNSEN</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>20881</senateRegID>
+  <houseRegID>31496</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>Although I do not control the Jones Walker PAC, I work with others in the firm of Jones Walker LLP to determine recipients of PAC contributions (which are fully disclosed in the firm's LD-203 report and separately with FEC.)</comments>
+  <signedDate>1/30/2020 9:33:56 AM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>Self</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Mike Johnson for Congress</payeeName>
+      <recipientName>Congressman Mike Johnson</recipientName>
+      <amount>1000.00</amount>
+      <date>7/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Ralph Abraham for Congress</payeeName>
+      <recipientName>Congressman Ralph Abraham</recipientName>
+      <amount>500.00</amount>
+      <date>7/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Cassidy for Senate</payeeName>
+      <recipientName>Senator Bill Cassidy</recipientName>
+      <amount>1000.00</amount>
+      <date>10/1/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Scalise Leadership Fund</payeeName>
+      <recipientName>Congressman Steve Scalise</recipientName>
+      <amount>1000.00</amount>
+      <date>11/9/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

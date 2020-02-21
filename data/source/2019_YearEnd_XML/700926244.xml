@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>Cuneo Gilbert &amp; LaDuca</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <zipext>
+  </zipext>
+  <contactName>PAMELA GILBERT</contactName>
+  <senateRegID>11481</senateRegID>
+  <houseRegID>31880</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>True</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/30/2020 5:42:26 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Oceans PAC</payeeName>
+      <recipientName>Sheldon Whitehouse</recipientName>
+      <amount>500.00</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Schakowsky for Congress</payeeName>
+      <recipientName>Jan Schakowsky</recipientName>
+      <amount>500.00</amount>
+      <date>09/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>The Markey Committee</payeeName>
+      <recipientName>Ed Markey</recipientName>
+      <amount>2000.00</amount>
+      <date>10/04/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Jared Golden for Congress</payeeName>
+      <recipientName>Jared Golden</recipientName>
+      <amount>500.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Doggett for Congress</payeeName>
+      <recipientName>Lloyd Doggett</recipientName>
+      <amount>500.00</amount>
+      <date>09/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Kimpton George Hotel</payeeName>
+      <recipientName>Jerrold Nadler</recipientName>
+      <amount>1118.24</amount>
+      <date>11/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>AAJ PAC</payeeName>
+      <recipientName>AAJ</recipientName>
+      <amount>250.00</amount>
+      <date>12/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>AAJ PAC</payeeName>
+      <recipientName>AAJ </recipientName>
+      <amount>175.00</amount>
+      <date>12/26/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

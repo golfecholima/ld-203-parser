@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>Sunrun Inc.</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <zipext>
+  </zipext>
+  <contactName>Alexander McDonough</contactName>
+  <senateRegID>401103472</senateRegID>
+  <houseRegID>42749</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/26/2020 3:47:54 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>Sunrun Inc. Political Action Committee (Sunrun PAC)</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Sunrun Inc. Political Action Committee (Sunrun PAC)</contributorName>
+      <payeeName>Mike Thompson for Congress</payeeName>
+      <recipientName>Mike Thompson</recipientName>
+      <amount>2000.00</amount>
+      <date>10/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Sunrun Inc. Political Action Committee (Sunrun PAC)</contributorName>
+      <payeeName>Mike Thompson for Congress</payeeName>
+      <recipientName>Mike Thompson</recipientName>
+      <amount>2500.00</amount>
+      <date>10/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Sunrun Inc. Political Action Committee (Sunrun PAC)</contributorName>
+      <payeeName>Catherine Cortez Masto for Senate</payeeName>
+      <recipientName>Catherine Cortez Masto</recipientName>
+      <amount>2500.00</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Sunrun Inc. Political Action Committee (Sunrun PAC)</contributorName>
+      <payeeName>IMPACT</payeeName>
+      <recipientName>Charles E. Schumer Leadership PAC</recipientName>
+      <amount>2500.00</amount>
+      <date>12/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Sunrun Inc. Political Action Committee (Sunrun PAC)</contributorName>
+      <payeeName>LOBO PAC</payeeName>
+      <recipientName>Martin Trevor Heinrich</recipientName>
+      <amount>2500.00</amount>
+      <date>07/23/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

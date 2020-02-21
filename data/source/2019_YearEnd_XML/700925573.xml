@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>Livestock Marketing Association</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>Chelsea Good</contactName>
+  <senateRegID>22974</senateRegID>
+  <houseRegID>30101</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/30/2020 3:05:04 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>Livestock Marketing Association PAC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Livestock Marketing Association PAC</contributorName>
+      <payeeName>Brindisi for Congress</payeeName>
+      <recipientName>Congressman Anthony Brindisi</recipientName>
+      <amount>1000.00</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Livestock Marketing Association PAC</contributorName>
+      <payeeName>Hartzler for U.S. Congress</payeeName>
+      <recipientName>Congresswoman Vicky Hartzler</recipientName>
+      <amount>1000.00</amount>
+      <date>11/19/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Livestock Marketing Association PAC</contributorName>
+      <payeeName>Kansans for Marshall</payeeName>
+      <recipientName>Congressman Roger Marshall</recipientName>
+      <amount>1000.00</amount>
+      <date>8/31/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Livestock Marketing Association PAC</contributorName>
+      <payeeName>Conaway for Congress</payeeName>
+      <recipientName>Congressman Mike Conaway</recipientName>
+      <amount>1000.00</amount>
+      <date>7/17/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Livestock Marketing Association PAC</contributorName>
+      <payeeName>Peterson for Congress</payeeName>
+      <recipientName>Congressman Collin Peterson</recipientName>
+      <amount>1000.00</amount>
+      <date>8/6/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Livestock Marketing Association PAC</contributorName>
+      <payeeName>Estes for Congress</payeeName>
+      <recipientName>Congressman Ron Estes</recipientName>
+      <amount>500.00</amount>
+      <date>8/19/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Livestock Marketing Association PAC</contributorName>
+      <payeeName>Inhofe for U.S. Senate</payeeName>
+      <recipientName>Senator James Inhofe</recipientName>
+      <amount>2500.00</amount>
+      <date>9/6/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Livestock Marketing Association PAC</contributorName>
+      <payeeName>Graves for Congress</payeeName>
+      <recipientName>Congressman Sam Graves</recipientName>
+      <amount>500.00</amount>
+      <date>8/15/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Livestock Marketing Association PAC</contributorName>
+      <payeeName>Rouzer for Congress</payeeName>
+      <recipientName>Congressman David Rouzer</recipientName>
+      <amount>1000.00</amount>
+      <date>9/24/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Livestock Marketing Association PAC</contributorName>
+      <payeeName>Cornyn for U.S. Senate</payeeName>
+      <recipientName>Senator John Cornyn</recipientName>
+      <amount>1000.00</amount>
+      <date>9/24/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Livestock Marketing Association PAC</contributorName>
+      <payeeName>Hagedorn for Congress</payeeName>
+      <recipientName>Congressman James Hagedorn</recipientName>
+      <amount>1000.00</amount>
+      <date>9/23/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Livestock Marketing Association PAC</contributorName>
+      <payeeName>Thompson for Congress</payeeName>
+      <recipientName>Congressman Glenn Thompson</recipientName>
+      <amount>1000.00</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Livestock Marketing Association PAC</contributorName>
+      <payeeName>Comer for Congress</payeeName>
+      <recipientName>Congressman James Comer</recipientName>
+      <amount>500.00</amount>
+      <date>10/1/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Livestock Marketing Association PAC</contributorName>
+      <payeeName>Mann for Congress</payeeName>
+      <recipientName>Candidate Tracy Mann</recipientName>
+      <amount>500.00</amount>
+      <date>12/9/19</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

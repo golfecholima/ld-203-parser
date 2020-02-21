@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>Vantiv, Inc.</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>Jonathan Genovese</contactName>
+  <senateRegID>401104319</senateRegID>
+  <houseRegID>43512</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/30/2020 4:24:19 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>FIS Good Government Fund</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>FIS Good Government Fund</contributorName>
+      <payeeName>Perdue Victory Inc.</payeeName>
+      <recipientName>Perdue Victory Inc.</recipientName>
+      <amount>2500.00</amount>
+      <date>07/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>FIS Good Government Fund</contributorName>
+      <payeeName>Andy Barr for Congress, Inc.</payeeName>
+      <recipientName>Andy Barr</recipientName>
+      <amount>1000.00</amount>
+      <date>07/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>FIS Good Government Fund</contributorName>
+      <payeeName>Alaskans for Dan Sullivan</payeeName>
+      <recipientName>Dan Sullivan</recipientName>
+      <amount>2800.00</amount>
+      <date>09/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>FIS Good Government Fund</contributorName>
+      <payeeName>Sinema for Arizona</payeeName>
+      <recipientName>Kyrsten Sinema</recipientName>
+      <amount>2500.00</amount>
+      <date>10/07/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>FIS Good Government Fund</contributorName>
+      <payeeName>NRSC</payeeName>
+      <recipientName>NRSC</recipientName>
+      <amount>15000.00</amount>
+      <date>11/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>FIS Good Government Fund</contributorName>
+      <payeeName>Steve Chabot for Congress</payeeName>
+      <recipientName>Steve Chabot</recipientName>
+      <amount>2500.00</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>FIS Good Government Fund</contributorName>
+      <payeeName>Beatty for Congress</payeeName>
+      <recipientName>Joyce Beatty</recipientName>
+      <amount>5000.00</amount>
+      <date>12/27/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

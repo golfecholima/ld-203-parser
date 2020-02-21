@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>Hilton Worldwide</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>Jonas Neihardt</contactName>
+  <senateRegID>400489404</senateRegID>
+  <houseRegID>40984</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/26/2020 1:09:23 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>
+  </noContributions>
+  <pacs>
+    <pac>
+      <name>HILTON WORLDWIDE POLITICAL ACTION COMMITTEE</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HILTON WORLDWIDE POLITICAL ACTION COMMITTEE</contributorName>
+      <payeeName>RESPONSIBILITY AND FREEDOM WORK PAC (RFWPAC)</payeeName>
+      <recipientName>SEN. ROGER WICKER</recipientName>
+      <amount>2500</amount>
+      <date>7/8/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HILTON WORLDWIDE POLITICAL ACTION COMMITTEE</contributorName>
+      <payeeName>QUIGLEY FOR CONGRESS</payeeName>
+      <recipientName>REP. MIKE QUIGLEY</recipientName>
+      <amount>1000</amount>
+      <date>7/8/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HILTON WORLDWIDE POLITICAL ACTION COMMITTEE</contributorName>
+      <payeeName>FRIENDS OF CHRIS SMITH</payeeName>
+      <recipientName>REP. CHRISTOPHER SMITH</recipientName>
+      <amount>2500</amount>
+      <date>7/8/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HILTON WORLDWIDE POLITICAL ACTION COMMITTEE</contributorName>
+      <payeeName>LAHOOD FOR CONGRESS</payeeName>
+      <recipientName>REP. DARIN LAHOOD</recipientName>
+      <amount>1000</amount>
+      <date>7/8/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HILTON WORLDWIDE POLITICAL ACTION COMMITTEE</contributorName>
+      <payeeName>CITIZENS FOR WATERS</payeeName>
+      <recipientName>REP. MAXINE WATERS</recipientName>
+      <amount>2500</amount>
+      <date>7/8/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HILTON WORLDWIDE POLITICAL ACTION COMMITTEE</contributorName>
+      <payeeName>NANCY PELOSI FOR CONGRESS</payeeName>
+      <recipientName>REP. NANCY PELOSI</recipientName>
+      <amount>5000</amount>
+      <date>7/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HILTON WORLDWIDE POLITICAL ACTION COMMITTEE</contributorName>
+      <payeeName>NANCY PELOSI FOR CONGRESS</payeeName>
+      <recipientName>REP. NANCY PELOSI</recipientName>
+      <amount>5000</amount>
+      <date>7/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HILTON WORLDWIDE POLITICAL ACTION COMMITTEE</contributorName>
+      <payeeName>WALDEN FOR CONGRESS</payeeName>
+      <recipientName>REP. GREGORY P. WALDEN</recipientName>
+      <amount>3000</amount>
+      <date>7/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HILTON WORLDWIDE POLITICAL ACTION COMMITTEE</contributorName>
+      <payeeName>CUMMINGS FOR CONGRESS CAMPAIGN COMMITTEE</payeeName>
+      <recipientName>REP. ELIJAH E. CUMMINGS</recipientName>
+      <amount>1000</amount>
+      <date>7/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HILTON WORLDWIDE POLITICAL ACTION COMMITTEE</contributorName>
+      <payeeName>THOM TILLIS COMMITTEE</payeeName>
+      <recipientName>SEN. THOM TILLIS</recipientName>
+      <amount>-2500</amount>
+      <date>7/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HILTON WORLDWIDE POLITICAL ACTION COMMITTEE</contributorName>
+      <payeeName>ROMNEY FOR UTAH INC.</payeeName>
+      <recipientName>SEN. MITT W. ROMNEY</recipientName>
+      <amount>2500</amount>
+      <date>7/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HILTON WORLDWIDE POLITICAL ACTION COMMITTEE</contributorName>
+      <payeeName>STEPHANIE MURPHY FOR CONGRESS</payeeName>
+      <recipientName>REP. STEPHANIE MURPHY</recipientName>
+      <amount>1000</amount>
+      <date>7/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HILTON WORLDWIDE POLITICAL ACTION COMMITTEE</contributorName>
+      <payeeName>TIM SCOTT FOR SENATE</payeeName>
+      <recipientName>SEN. TIM SCOTT</recipientName>
+      <amount>2500</amount>
+      <date>7/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HILTON WORLDWIDE POLITICAL ACTION COMMITTEE</contributorName>
+      <payeeName>FRIENDS OF SCHUMER</payeeName>
+      <recipientName>SEN. CHARLES E. SCHUMER</recipientName>
+      <amount>2500</amount>
+      <date>7/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HILTON WORLDWIDE POLITICAL ACTION COMMITTEE</contributorName>
+      <payeeName>TITUS FOR CONGRESS</payeeName>
+      <recipientName>REP. DINA TITUS</recipientName>
+      <amount>1000</amount>
+      <date>9/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HILTON WORLDWIDE POLITICAL ACTION COMMITTEE</contributorName>
+      <payeeName>PALLONE FOR CONGRESS</payeeName>
+      <recipientName>REP. FRANK PALLONE, JR.</recipientName>
+      <amount>2500</amount>
+      <date>9/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HILTON WORLDWIDE POLITICAL ACTION COMMITTEE</contributorName>
+      <payeeName>RICHARD E. NEAL FOR CONGRESS COMMITTEE</payeeName>
+      <recipientName>REP. RICHARD E. NEAL</recipientName>
+      <amount>2500</amount>
+      <date>9/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HILTON WORLDWIDE POLITICAL ACTION COMMITTEE</contributorName>
+      <payeeName>CASE FOR CONGRESS</payeeName>
+      <recipientName>REP. EDWARD CASE</recipientName>
+      <amount>1000</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HILTON WORLDWIDE POLITICAL ACTION COMMITTEE</contributorName>
+      <payeeName>DEB FISCHER FOR U.S. SENATE</payeeName>
+      <recipientName>SEN. DEBRA FISCHER</recipientName>
+      <amount>1500</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HILTON WORLDWIDE POLITICAL ACTION COMMITTEE</contributorName>
+      <payeeName>MORAN FOR KANSAS</payeeName>
+      <recipientName>SEN. JERRY MORAN</recipientName>
+      <amount>1000</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HILTON WORLDWIDE POLITICAL ACTION COMMITTEE</contributorName>
+      <payeeName>WELCH FOR CONGRESS</payeeName>
+      <recipientName>REP. PETER WELCH</recipientName>
+      <amount>2500</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HILTON WORLDWIDE POLITICAL ACTION COMMITTEE</contributorName>
+      <payeeName>PETE KING FOR CONGRESS COMMITTEE</payeeName>
+      <recipientName>REP. PETE KING</recipientName>
+      <amount>2500</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HILTON WORLDWIDE POLITICAL ACTION COMMITTEE</contributorName>
+      <payeeName>JEFFRIES FOR CONGRESS</payeeName>
+      <recipientName>REP. HAKEEN JEFFRIES</recipientName>
+      <amount>2500</amount>
+      <date>10/8/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HILTON WORLDWIDE POLITICAL ACTION COMMITTEE</contributorName>
+      <payeeName>JEFFRIES FOR CONGRESS</payeeName>
+      <recipientName>REP. HAKEEN JEFFRIES</recipientName>
+      <amount>5000</amount>
+      <date>10/8/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HILTON WORLDWIDE POLITICAL ACTION COMMITTEE</contributorName>
+      <payeeName>JOBS, EDUCATION, &amp; FAMILIES FIRST - JEFF PAC</payeeName>
+      <recipientName>REP. HAKEEN JEFFRIES</recipientName>
+      <amount>5000</amount>
+      <date>10/8/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HILTON WORLDWIDE POLITICAL ACTION COMMITTEE</contributorName>
+      <payeeName>FRIENDS OF ROY BLUNT</payeeName>
+      <recipientName>SEN. ROY BLUNT</recipientName>
+      <amount>2500</amount>
+      <date>10/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HILTON WORLDWIDE POLITICAL ACTION COMMITTEE</contributorName>
+      <payeeName>BUDDY CARTER FOR CONGRESS</payeeName>
+      <recipientName>REP. BUDDY CARTER</recipientName>
+      <amount>1000</amount>
+      <date>10/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HILTON WORLDWIDE POLITICAL ACTION COMMITTEE</contributorName>
+      <payeeName>MCCARTHY VICTORY FUND</payeeName>
+      <recipientName>REP. KEVIN MCCARTY, NRCC, TAKE BACK THE HOUSE 2020 AND PROTECT THE HOUSE  (SEE RESPECTIVE FEC FORM 1 FOR LIST OF STATE POLITICALPARTY COMMITTEE FEDERAL ACCOUNTS AND AUTHORZED COMMITTEES OF FEDERAL CANDIDATES)</recipientName>
+      <amount>7500</amount>
+      <date>10/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HILTON WORLDWIDE POLITICAL ACTION COMMITTEE</contributorName>
+      <payeeName>UPTON FOR ALL OF US</payeeName>
+      <recipientName>REP. FREDERICK STEPHEN UPTON</recipientName>
+      <amount>1000</amount>
+      <date>10/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HILTON WORLDWIDE POLITICAL ACTION COMMITTEE</contributorName>
+      <payeeName>FRIENDS OF JIM CLYBURN</payeeName>
+      <recipientName>REP. JAMES E CLYBURN</recipientName>
+      <amount>1000</amount>
+      <date>10/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HILTON WORLDWIDE POLITICAL ACTION COMMITTEE</contributorName>
+      <payeeName>JOSH HAWLEY FOR SENATE</payeeName>
+      <recipientName>SEN. JOSH HAWLEY</recipientName>
+      <amount>1000</amount>
+      <date>10/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HILTON WORLDWIDE POLITICAL ACTION COMMITTEE</contributorName>
+      <payeeName>ANNA ESHOO FOR CONGRESS</payeeName>
+      <recipientName>REP. ANNA ESHOO</recipientName>
+      <amount>2000</amount>
+      <date>11/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HILTON WORLDWIDE POLITICAL ACTION COMMITTEE</contributorName>
+      <payeeName>HOYER'S MAJORITY FUND</payeeName>
+      <recipientName>REP. STENY HOYER</recipientName>
+      <amount>5000</amount>
+      <date>11/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HILTON WORLDWIDE POLITICAL ACTION COMMITTEE</contributorName>
+      <payeeName>FRIENDS OF JIM CLYBURN</payeeName>
+      <recipientName>REP. JAMES E CLYBURN</recipientName>
+      <amount>1000</amount>
+      <date>11/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HILTON WORLDWIDE POLITICAL ACTION COMMITTEE</contributorName>
+      <payeeName>FRIENDS OF DICK DURBIN</payeeName>
+      <recipientName>SEN. RICHARD DURBIN</recipientName>
+      <amount>2500</amount>
+      <date>11/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HILTON WORLDWIDE POLITICAL ACTION COMMITTEE</contributorName>
+      <payeeName>HUDSON FOR CONGRESS</payeeName>
+      <recipientName>REP. RICHARD HUDSON</recipientName>
+      <amount>1000</amount>
+      <date>11/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HILTON WORLDWIDE POLITICAL ACTION COMMITTEE</contributorName>
+      <payeeName>LATTA FOR CONGRESS</payeeName>
+      <recipientName>REP. ROBERT LATTA</recipientName>
+      <amount>2500</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HILTON WORLDWIDE POLITICAL ACTION COMMITTEE</contributorName>
+      <payeeName>CATHY MCMORRIS RODGERS FOR CONGRESS</payeeName>
+      <recipientName>REP. CATHY MCMORRIS RODGERS</recipientName>
+      <amount>1000</amount>
+      <date>12/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HILTON WORLDWIDE POLITICAL ACTION COMMITTEE</contributorName>
+      <payeeName>FRIENDS OF PAT TOOMEY</payeeName>
+      <recipientName>SEN. PATRICK JOSEPH TOOMEY</recipientName>
+      <amount>2500</amount>
+      <date>12/3/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

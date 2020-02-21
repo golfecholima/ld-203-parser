@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>U.S. Cellular Corp</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>GRANT SPELLMEYER</contactName>
+  <contactPhone>
+  </contactPhone>
+  <senateRegID>320417</senateRegID>
+  <houseRegID>39513</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/8/2020 1:06:17 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>U.S. Cellular Political Action Committee</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>U.S. Cellular Political Action Committee</contributorName>
+      <payeeName>Friends of Jim Inhofe</payeeName>
+      <recipientName>Jim Inhofe</recipientName>
+      <amount>1000.00</amount>
+      <date>07/01/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>U.S. Cellular Political Action Committee</contributorName>
+      <payeeName>Tony Cardenas for Congress</payeeName>
+      <recipientName>Tony Cardenas</recipientName>
+      <amount>1000.00</amount>
+      <date>07/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>U.S. Cellular Political Action Committee</contributorName>
+      <payeeName>Free State Pac</payeeName>
+      <recipientName>Jerry Moran</recipientName>
+      <amount>5000.00</amount>
+      <date>07/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>U.S. Cellular Political Action Committee</contributorName>
+      <payeeName>Tammy Baldwin for Senate</payeeName>
+      <recipientName>Tammy Baldwin</recipientName>
+      <amount>1000.00</amount>
+      <date>08/01/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>U.S. Cellular Political Action Committee</contributorName>
+      <payeeName>Durbin Victory Committee</payeeName>
+      <recipientName>Dick Durbin</recipientName>
+      <amount>2500.00</amount>
+      <date>09/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>U.S. Cellular Political Action Committee</contributorName>
+      <payeeName>Welch for Congress</payeeName>
+      <recipientName>Peter Welch</recipientName>
+      <amount>2500.00</amount>
+      <date>09/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>U.S. Cellular Political Action Committee</contributorName>
+      <payeeName>Latta for Congress</payeeName>
+      <recipientName>Robert Latta</recipientName>
+      <amount>1000.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>U.S. Cellular Political Action Committee</contributorName>
+      <payeeName>Cathy McMorris Rodgers for Congress</payeeName>
+      <recipientName>Cathy McMorris Rodgers</recipientName>
+      <amount>1500.00</amount>
+      <date>09/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>U.S. Cellular Political Action Committee</contributorName>
+      <payeeName>John Kennedy for US</payeeName>
+      <recipientName>John Kennedy</recipientName>
+      <amount>1000.00</amount>
+      <date>10/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>U.S. Cellular Political Action Committee</contributorName>
+      <payeeName>Manchin for West Virginia</payeeName>
+      <recipientName>Joe Manchin</recipientName>
+      <amount>1000.00</amount>
+      <date>10/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>U.S. Cellular Political Action Committee</contributorName>
+      <payeeName>Doyle for Congress</payeeName>
+      <recipientName>Mike Doyle</recipientName>
+      <amount>5000.00</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>U.S. Cellular Political Action Committee</contributorName>
+      <payeeName>Brett Gutherie for Congress</payeeName>
+      <recipientName>Brett Gutherie</recipientName>
+      <amount>1000.00</amount>
+      <date>11/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>U.S. Cellular Political Action Committee</contributorName>
+      <payeeName>Bill Johnson for Congress</payeeName>
+      <recipientName>Bill Johnson</recipientName>
+      <amount>1000.00</amount>
+      <date>11/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>U.S. Cellular Political Action Committee</contributorName>
+      <payeeName>Marc Veasey Congressional Campaign</payeeName>
+      <recipientName>Marc Veasey</recipientName>
+      <amount>1000.00</amount>
+      <date>12/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>U.S. Cellular Political Action Committee</contributorName>
+      <payeeName>Three Rivers PAC</payeeName>
+      <recipientName>Kurt Schrader</recipientName>
+      <amount>5000.00</amount>
+      <date>12/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>U.S. Cellular Political Action Committee</contributorName>
+      <payeeName>Cathy McMorris Rodgers for Congress</payeeName>
+      <recipientName>cathy McMorris Rodgers</recipientName>
+      <amount>1500.00</amount>
+      <date>12/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>U.S. Cellular Political Action Committee</contributorName>
+      <payeeName>Cathy McMorris Rodgers for Congress</payeeName>
+      <recipientName>Cathy McMorris Rodgers</recipientName>
+      <amount>5000.00</amount>
+      <date>12/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>U.S. Cellular Political Action Committee</contributorName>
+      <payeeName>Walberg for Congress</payeeName>
+      <recipientName>Tim Walberg</recipientName>
+      <amount>1000.00</amount>
+      <date>12/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>U.S. Cellular Political Action Committee</contributorName>
+      <payeeName>Latta for Congress</payeeName>
+      <recipientName>Robert Latta</recipientName>
+      <amount>3000.00</amount>
+      <date>12/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>U.S. Cellular Political Action Committee</contributorName>
+      <payeeName>Latta for Congress</payeeName>
+      <recipientName>Robert Latta</recipientName>
+      <amount>5000.00</amount>
+      <date>12/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>U.S. Cellular Political Action Committee</contributorName>
+      <payeeName>Pallone for Congress</payeeName>
+      <recipientName>Frank Pallone</recipientName>
+      <amount>1000.00</amount>
+      <date>12/11/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

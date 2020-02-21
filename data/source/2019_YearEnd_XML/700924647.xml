@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>BLUE CROSS BLUE SHIELD OF MICHIGAN</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <zipext>
+  </zipext>
+  <contactName>AMY E. MODLIN</contactName>
+  <senateRegID>46676</senateRegID>
+  <houseRegID>39579</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/30/2020 11:09:13 AM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>Blue Cross Blue Shield of Michigan PAC (BluesPAC)</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Blue Cross Blue Shield of Michigan PAC (BluesPAC)</contributorName>
+      <payeeName>Michigan Republican Party</payeeName>
+      <recipientName>Various Republican Candidates</recipientName>
+      <amount>5000.00</amount>
+      <date>07/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Blue Cross Blue Shield of Michigan PAC (BluesPAC)</contributorName>
+      <payeeName>Debbie Dingell for Congress</payeeName>
+      <recipientName>Debbie Dingell</recipientName>
+      <amount>2000.00</amount>
+      <date>07/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Blue Cross Blue Shield of Michigan PAC (BluesPAC)</contributorName>
+      <payeeName>Debbie Dingell for Congress</payeeName>
+      <recipientName>Debbie Dingell</recipientName>
+      <amount>5000.00</amount>
+      <date>07/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Blue Cross Blue Shield of Michigan PAC (BluesPAC)</contributorName>
+      <payeeName>Democratic Congressional Campaign Committee</payeeName>
+      <recipientName>Various Democratic Candidates</recipientName>
+      <amount>5000.00</amount>
+      <date>07/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Blue Cross Blue Shield of Michigan PAC (BluesPAC)</contributorName>
+      <payeeName>Pelosi Victory Vund</payeeName>
+      <recipientName>Nancy Pelosi</recipientName>
+      <amount>3000.00</amount>
+      <date>07/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Blue Cross Blue Shield of Michigan PAC (BluesPAC)</contributorName>
+      <payeeName>Brenda Lawrence for Congress</payeeName>
+      <recipientName>Brenda Lawrence</recipientName>
+      <amount>2500.00</amount>
+      <date>08/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Blue Cross Blue Shield of Michigan PAC (BluesPAC)</contributorName>
+      <payeeName>Haley Stevens for Congress</payeeName>
+      <recipientName>Haley Stevens</recipientName>
+      <amount>2000.00</amount>
+      <date>12/04/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Blue Cross Blue Shield of Michigan PAC (BluesPAC)</contributorName>
+      <payeeName>Walberg for Congress</payeeName>
+      <recipientName>Tim Walberg</recipientName>
+      <amount>2500.00</amount>
+      <date>07/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Blue Cross Blue Shield of Michigan PAC (BluesPAC)</contributorName>
+      <payeeName>Bergman for Congress</payeeName>
+      <recipientName>Jack Bergman</recipientName>
+      <amount>2500.00</amount>
+      <date>07/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Blue Cross Blue Shield of Michigan PAC (BluesPAC)</contributorName>
+      <payeeName>John Moolenaar for Congress</payeeName>
+      <recipientName>John Moolenaar</recipientName>
+      <amount>1000.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Blue Cross Blue Shield of Michigan PAC (BluesPAC)</contributorName>
+      <payeeName>Bill Huizenga for Congress</payeeName>
+      <recipientName>Bill Huizenga</recipientName>
+      <amount>2000.00</amount>
+      <date>10/03/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Blue Cross Blue Shield of Michigan PAC (BluesPAC)</contributorName>
+      <payeeName>Bill Huizenga for Congress</payeeName>
+      <recipientName>Bill Huizenga</recipientName>
+      <amount>1000.00</amount>
+      <date>10/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Blue Cross Blue Shield of Michigan PAC (BluesPAC)</contributorName>
+      <payeeName>Wolverine PAC</payeeName>
+      <recipientName>Debbie Dingell</recipientName>
+      <amount>5000.00</amount>
+      <date>07/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Blue Cross Blue Shield of Michigan PAC (BluesPAC)</contributorName>
+      <payeeName>Insuring America PAC</payeeName>
+      <recipientName>Various Candidates</recipientName>
+      <amount>5000.00</amount>
+      <date>12/19/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

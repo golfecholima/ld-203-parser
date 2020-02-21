@@ -1,0 +1,783 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>American Airlines, Inc.</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>Nathan Gatten</contactName>
+  <senateRegID>1422</senateRegID>
+  <houseRegID>30853</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>My certification below is to the best of my knowledge based on reasonable due diligence.</comments>
+  <signedDate>1/30/2020 1:56:43 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>American Airlines Inc. Political Action Committee (AAPAC)</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Airlines Inc. Political Action Committee (AAPAC)</contributorName>
+      <payeeName>Friends Of Cheri Bustos</payeeName>
+      <recipientName>Rep. Cheryl L. Bustos</recipientName>
+      <amount>2500</amount>
+      <date>07/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Airlines Inc. Political Action Committee (AAPAC)</contributorName>
+      <payeeName>Hoyer For Congress</payeeName>
+      <recipientName>Rep. Steny Hamilton Hoyer</recipientName>
+      <amount>1000</amount>
+      <date>07/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Airlines Inc. Political Action Committee (AAPAC)</contributorName>
+      <payeeName>Karen Bass For Congress</payeeName>
+      <recipientName>Rep. Karen Ruth Bass</recipientName>
+      <amount>2500</amount>
+      <date>07/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Airlines Inc. Political Action Committee (AAPAC)</contributorName>
+      <payeeName>Manchin For West Virginia</payeeName>
+      <recipientName>Sen. Joseph Manchin  III</recipientName>
+      <amount>1000</amount>
+      <date>07/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Airlines Inc. Political Action Committee (AAPAC)</contributorName>
+      <payeeName>Meadows For Congress</payeeName>
+      <recipientName>Rep. Mark Randall Meadows</recipientName>
+      <amount>1000</amount>
+      <date>07/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Airlines Inc. Political Action Committee (AAPAC)</contributorName>
+      <payeeName>Alaskans For Don Young</payeeName>
+      <recipientName>Rep. Donald Edwin Young</recipientName>
+      <amount>1000</amount>
+      <date>07/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Airlines Inc. Political Action Committee (AAPAC)</contributorName>
+      <payeeName>Barragan For Congress</payeeName>
+      <recipientName>Rep. Nanette Diaz Barragan</recipientName>
+      <amount>1000</amount>
+      <date>07/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Airlines Inc. Political Action Committee (AAPAC)</contributorName>
+      <payeeName>Debbie For Congress</payeeName>
+      <recipientName>Rep. Debbie Mucarsel-Powell</recipientName>
+      <amount>1000</amount>
+      <date>07/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Airlines Inc. Political Action Committee (AAPAC)</contributorName>
+      <payeeName>Eddie Bernice Johnson For Congress</payeeName>
+      <recipientName>Rep. Eddie Bernice Johnson</recipientName>
+      <amount>2500</amount>
+      <date>07/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Airlines Inc. Political Action Committee (AAPAC)</contributorName>
+      <payeeName>Jeffries For Congress</payeeName>
+      <recipientName>Rep. Hakeem S. Jeffries</recipientName>
+      <amount>1000</amount>
+      <date>07/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Airlines Inc. Political Action Committee (AAPAC)</contributorName>
+      <payeeName>Wicker For Senate</payeeName>
+      <recipientName>Sen. Roger Frederick Wicker</recipientName>
+      <amount>1500</amount>
+      <date>07/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Airlines Inc. Political Action Committee (AAPAC)</contributorName>
+      <payeeName>Garret Graves For Congress</payeeName>
+      <recipientName>Rep. Garret Neal Graves</recipientName>
+      <amount>1000</amount>
+      <date>07/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Airlines Inc. Political Action Committee (AAPAC)</contributorName>
+      <payeeName>Patriots For Perry</payeeName>
+      <recipientName>Rep. Scott Gordon Perry</recipientName>
+      <amount>1000</amount>
+      <date>07/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Airlines Inc. Political Action Committee (AAPAC)</contributorName>
+      <payeeName>Friends Of Dick Durbin Committee</payeeName>
+      <recipientName>Sen. Richard Joseph Durbin</recipientName>
+      <amount>2500</amount>
+      <date>07/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Airlines Inc. Political Action Committee (AAPAC)</contributorName>
+      <payeeName>Friends For Chris Stewart  Inc.</payeeName>
+      <recipientName>Rep. Christopher Douglas Stewart</recipientName>
+      <amount>1000</amount>
+      <date>09/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Airlines Inc. Political Action Committee (AAPAC)</contributorName>
+      <payeeName>Chuy Garcia For Congress</payeeName>
+      <recipientName>Rep. Jesus G. Garcia</recipientName>
+      <amount>1000</amount>
+      <date>09/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Airlines Inc. Political Action Committee (AAPAC)</contributorName>
+      <payeeName>Citizens To Elect Rick Larsen</payeeName>
+      <recipientName>Rep. Rick Larsen</recipientName>
+      <amount>2500</amount>
+      <date>09/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Airlines Inc. Political Action Committee (AAPAC)</contributorName>
+      <payeeName>Clarke For Congress</payeeName>
+      <recipientName>Rep. Yvette Diana Clarke</recipientName>
+      <amount>1000</amount>
+      <date>09/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Airlines Inc. Political Action Committee (AAPAC)</contributorName>
+      <payeeName>Dwight Evans For Congress</payeeName>
+      <recipientName>Rep. Dwight Evans</recipientName>
+      <amount>1000</amount>
+      <date>09/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Airlines Inc. Political Action Committee (AAPAC)</contributorName>
+      <payeeName>Nancy Pelosi For Congress</payeeName>
+      <recipientName>Rep. Nancy Pelosi</recipientName>
+      <amount>2500</amount>
+      <date>09/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Airlines Inc. Political Action Committee (AAPAC)</contributorName>
+      <payeeName>DeFazio for Congress</payeeName>
+      <recipientName>Rep. Peter Anthony DeFazio</recipientName>
+      <amount>5000</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Airlines Inc. Political Action Committee (AAPAC)</contributorName>
+      <payeeName>Friends Of Raja For Congress</payeeName>
+      <recipientName>Rep. S. Raja Krishnamoorthi</recipientName>
+      <amount>1000</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Airlines Inc. Political Action Committee (AAPAC)</contributorName>
+      <payeeName>Josh Gottheimer For Congress</payeeName>
+      <recipientName>Rep. Joshua S. Gottheimer</recipientName>
+      <amount>1500</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Airlines Inc. Political Action Committee (AAPAC)</contributorName>
+      <payeeName>Marc Veasey Congressional Campaign Committee</payeeName>
+      <recipientName>Rep. Marc A. Veasey</recipientName>
+      <amount>1000</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Airlines Inc. Political Action Committee (AAPAC)</contributorName>
+      <payeeName>Peters For Michigan</payeeName>
+      <recipientName>Sen. Gary Charles Peters</recipientName>
+      <amount>5000</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Airlines Inc. Political Action Committee (AAPAC)</contributorName>
+      <payeeName>Price For Congress</payeeName>
+      <recipientName>Rep. David Eugene Price</recipientName>
+      <amount>1500</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Airlines Inc. Political Action Committee (AAPAC)</contributorName>
+      <payeeName>Rosen For Nevada</payeeName>
+      <recipientName>Sen. Jacky Rosen</recipientName>
+      <amount>2000</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Airlines Inc. Political Action Committee (AAPAC)</contributorName>
+      <payeeName>Schneider For Congress</payeeName>
+      <recipientName>Rep. Bradley Scott Schneider</recipientName>
+      <amount>1000</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Airlines Inc. Political Action Committee (AAPAC)</contributorName>
+      <payeeName>Sharice For Congress</payeeName>
+      <recipientName>Rep. Sharice Davids</recipientName>
+      <amount>1000</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Airlines Inc. Political Action Committee (AAPAC)</contributorName>
+      <payeeName>Steve Daines For Montana</payeeName>
+      <recipientName>Sen. Steve David Daines</recipientName>
+      <amount>5000</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Airlines Inc. Political Action Committee (AAPAC)</contributorName>
+      <payeeName>Virgin Islands For Plaskett</payeeName>
+      <recipientName>Rep. Stacey Elizabeth Plaskett</recipientName>
+      <amount>1500</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Airlines Inc. Political Action Committee (AAPAC)</contributorName>
+      <payeeName>Texans For Jodey Arrington</payeeName>
+      <recipientName>Rep. Jodey Cook Arrington</recipientName>
+      <amount>1000</amount>
+      <date>09/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Airlines Inc. Political Action Committee (AAPAC)</contributorName>
+      <payeeName>Jobs Education &amp; Families First - JEFF PAC</payeeName>
+      <recipientName>Rep. Hakeem S. Jeffries</recipientName>
+      <amount>2500</amount>
+      <date>10/03/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Airlines Inc. Political Action Committee (AAPAC)</contributorName>
+      <payeeName>Robin Kelly For Congress</payeeName>
+      <recipientName>Rep. Robin Lynne Kelly</recipientName>
+      <amount>1000</amount>
+      <date>10/03/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Airlines Inc. Political Action Committee (AAPAC)</contributorName>
+      <payeeName>Rodney For Congress</payeeName>
+      <recipientName>Rep. Rodney Lee Davis</recipientName>
+      <amount>2000</amount>
+      <date>10/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Airlines Inc. Political Action Committee (AAPAC)</contributorName>
+      <payeeName>Norma Torres For Congress</payeeName>
+      <recipientName>Rep. Norma Judith Torres</recipientName>
+      <amount>1500</amount>
+      <date>10/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Airlines Inc. Political Action Committee (AAPAC)</contributorName>
+      <payeeName>Quigley For Congress</payeeName>
+      <recipientName>Rep. Michael Quigley</recipientName>
+      <amount>2500</amount>
+      <date>10/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Airlines Inc. Political Action Committee (AAPAC)</contributorName>
+      <payeeName>Tony Cardenas For Congress</payeeName>
+      <recipientName>Rep. Tony Cardenas</recipientName>
+      <amount>2000</amount>
+      <date>10/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Airlines Inc. Political Action Committee (AAPAC)</contributorName>
+      <payeeName>Carper For Senate</payeeName>
+      <recipientName>Sen. Thomas Richard Carper</recipientName>
+      <amount>1000</amount>
+      <date>11/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Airlines Inc. Political Action Committee (AAPAC)</contributorName>
+      <payeeName>Mike Rogers For Congress</payeeName>
+      <recipientName>Rep. Michael Dennis Rogers</recipientName>
+      <amount>1000</amount>
+      <date>11/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Airlines Inc. Political Action Committee (AAPAC)</contributorName>
+      <payeeName>Walker 4 NC</payeeName>
+      <recipientName>Rep. Bradley Mark Walker</recipientName>
+      <amount>1000</amount>
+      <date>11/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Airlines Inc. Political Action Committee (AAPAC)</contributorName>
+      <payeeName>Nevadans For Steven Horsford</payeeName>
+      <recipientName>Rep. Steven Alexzander Horsford</recipientName>
+      <amount>2500</amount>
+      <date>11/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Airlines Inc. Political Action Committee (AAPAC)</contributorName>
+      <payeeName>Stabenow For US Senate</payeeName>
+      <recipientName>Sen. Deborah Stabenow</recipientName>
+      <amount>1000</amount>
+      <date>11/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Airlines Inc. Political Action Committee (AAPAC)</contributorName>
+      <payeeName>LaHood for Congress</payeeName>
+      <recipientName>Rep. Darin M. LaHood</recipientName>
+      <amount>1500</amount>
+      <date>11/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Airlines Inc. Political Action Committee (AAPAC)</contributorName>
+      <payeeName>Ann Wagner For Congress</payeeName>
+      <recipientName>Rep. Ann Louise Wagner</recipientName>
+      <amount>1000</amount>
+      <date>11/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Airlines Inc. Political Action Committee (AAPAC)</contributorName>
+      <payeeName>Citizens For John Rutherford</payeeName>
+      <recipientName>Rep. John H. Rutherford</recipientName>
+      <amount>1000</amount>
+      <date>11/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Airlines Inc. Political Action Committee (AAPAC)</contributorName>
+      <payeeName>Terri Sewell For Congress</payeeName>
+      <recipientName>Rep. Terri Andrea Sewell</recipientName>
+      <amount>1000</amount>
+      <date>11/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Airlines Inc. Political Action Committee (AAPAC)</contributorName>
+      <payeeName>Biggs For Congress</payeeName>
+      <recipientName>Rep. Andrew S. Biggs</recipientName>
+      <amount>1000</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Airlines Inc. Political Action Committee (AAPAC)</contributorName>
+      <payeeName>David Rouzer For Congress</payeeName>
+      <recipientName>Rep. David Cheston Rouzer</recipientName>
+      <amount>2500</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Airlines Inc. Political Action Committee (AAPAC)</contributorName>
+      <payeeName>Debbie Lesko For Congress</payeeName>
+      <recipientName>Rep. Debbie Lesko</recipientName>
+      <amount>2000</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Airlines Inc. Political Action Committee (AAPAC)</contributorName>
+      <payeeName>Friends Of David Schweikert</payeeName>
+      <recipientName>Rep. David Schweikert</recipientName>
+      <amount>1000</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Airlines Inc. Political Action Committee (AAPAC)</contributorName>
+      <payeeName>Friends Of Roy Blunt</payeeName>
+      <recipientName>Sen. Roy Dean Blunt</recipientName>
+      <amount>2500</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Airlines Inc. Political Action Committee (AAPAC)</contributorName>
+      <payeeName>Graves For Congress</payeeName>
+      <recipientName>Rep. Samuel Bruce Graves  Jr.</recipientName>
+      <amount>2500</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Airlines Inc. Political Action Committee (AAPAC)</contributorName>
+      <payeeName>Hudson For Congress</payeeName>
+      <recipientName>Rep. Richard Lane Hudson  Jr.</recipientName>
+      <amount>2500</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Airlines Inc. Political Action Committee (AAPAC)</contributorName>
+      <payeeName>Kevin McCarthy For Congress</payeeName>
+      <recipientName>Rep. Kevin Owen McCarthy</recipientName>
+      <amount>5000</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Airlines Inc. Political Action Committee (AAPAC)</contributorName>
+      <payeeName>Lance Gooden For Congress Committee</payeeName>
+      <recipientName>Rep. Lance Gooden</recipientName>
+      <amount>1500</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Airlines Inc. Political Action Committee (AAPAC)</contributorName>
+      <payeeName>Liz Cheney For Wyoming</payeeName>
+      <recipientName>Rep. Elizabeth Cheney</recipientName>
+      <amount>1000</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Airlines Inc. Political Action Committee (AAPAC)</contributorName>
+      <payeeName>Meadows For Congress</payeeName>
+      <recipientName>Rep. Mark Randall Meadows</recipientName>
+      <amount>2000</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Airlines Inc. Political Action Committee (AAPAC)</contributorName>
+      <payeeName>Smucker For Congress</payeeName>
+      <recipientName>Rep. Lloyd K. Smucker</recipientName>
+      <amount>1000</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Airlines Inc. Political Action Committee (AAPAC)</contributorName>
+      <payeeName>Weber For Congress</payeeName>
+      <recipientName>Rep. Randy Keith Weber  Sr.</recipientName>
+      <amount>1000</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Airlines Inc. Political Action Committee (AAPAC)</contributorName>
+      <payeeName>Wicker For Senate</payeeName>
+      <recipientName>Sen. Roger Frederick Wicker</recipientName>
+      <amount>1500</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Airlines Inc. Political Action Committee (AAPAC)</contributorName>
+      <payeeName>Friends Of Jim Inhofe</payeeName>
+      <recipientName>Sen. James M. Inhofe</recipientName>
+      <amount>4500</amount>
+      <date>12/02/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Airlines Inc. Political Action Committee (AAPAC)</contributorName>
+      <payeeName>Citizens For Boyle</payeeName>
+      <recipientName>Rep. Brendan Francis Boyle</recipientName>
+      <amount>1000</amount>
+      <date>12/04/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Airlines Inc. Political Action Committee (AAPAC)</contributorName>
+      <payeeName>Boozman For Arkansas</payeeName>
+      <recipientName>Sen. John Nichols Boozman</recipientName>
+      <amount>2000</amount>
+      <date>12/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Airlines Inc. Political Action Committee (AAPAC)</contributorName>
+      <payeeName>Devin Nunes Campaign Committee</payeeName>
+      <recipientName>Rep. Devin G. Nunes</recipientName>
+      <amount>2000</amount>
+      <date>12/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Airlines Inc. Political Action Committee (AAPAC)</contributorName>
+      <payeeName>Friends Of John Barrasso</payeeName>
+      <recipientName>Sen. John Anthony Barrasso</recipientName>
+      <amount>5000</amount>
+      <date>12/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Airlines Inc. Political Action Committee (AAPAC)</contributorName>
+      <payeeName>Garret Graves For Congress</payeeName>
+      <recipientName>Rep. Garret Neal Graves</recipientName>
+      <amount>2000</amount>
+      <date>12/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Airlines Inc. Political Action Committee (AAPAC)</contributorName>
+      <payeeName>Ken Calvert For Congress Committee</payeeName>
+      <recipientName>Rep. Kenneth S. Calvert</recipientName>
+      <amount>2500</amount>
+      <date>12/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Airlines Inc. Political Action Committee (AAPAC)</contributorName>
+      <payeeName>Lance Gooden For Congress Committee</payeeName>
+      <recipientName>Rep. Lance Gooden</recipientName>
+      <amount>1000</amount>
+      <date>12/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Airlines Inc. Political Action Committee (AAPAC)</contributorName>
+      <payeeName>Lucas For Congress</payeeName>
+      <recipientName>Rep. Frank Dean Lucas</recipientName>
+      <amount>2000</amount>
+      <date>12/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Airlines Inc. Political Action Committee (AAPAC)</contributorName>
+      <payeeName>Mario Diaz-Balart For Congress</payeeName>
+      <recipientName>Rep. Mario Rafael Diaz-Balart</recipientName>
+      <amount>1500</amount>
+      <date>12/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Airlines Inc. Political Action Committee (AAPAC)</contributorName>
+      <payeeName>Collins For Senator</payeeName>
+      <recipientName>Sen. Susan Margaret Collins</recipientName>
+      <amount>2500</amount>
+      <date>12/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Airlines Inc. Political Action Committee (AAPAC)</contributorName>
+      <payeeName>Mast For Congress</payeeName>
+      <recipientName>Rep. Brian Mast</recipientName>
+      <amount>2500</amount>
+      <date>12/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Airlines Inc. Political Action Committee (AAPAC)</contributorName>
+      <payeeName>Van Taylor Campaign</payeeName>
+      <recipientName>Rep. Vancampen Taylor</recipientName>
+      <amount>2000</amount>
+      <date>12/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Airlines Inc. Political Action Committee (AAPAC)</contributorName>
+      <payeeName>Cole For Congress</payeeName>
+      <recipientName>Rep. Thomas Jeffery Cole</recipientName>
+      <amount>2500</amount>
+      <date>12/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Airlines Inc. Political Action Committee (AAPAC)</contributorName>
+      <payeeName>Debbie Wasserman Schultz For Congress</payeeName>
+      <recipientName>Rep. Debbie Wasserman Schultz</recipientName>
+      <amount>1000</amount>
+      <date>12/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Airlines Inc. Political Action Committee (AAPAC)</contributorName>
+      <payeeName>Friends Of Raja For Congress</payeeName>
+      <recipientName>Rep. S. Raja Krishnamoorthi</recipientName>
+      <amount>1000</amount>
+      <date>12/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Airlines Inc. Political Action Committee (AAPAC)</contributorName>
+      <payeeName>Gallego For Arizona</payeeName>
+      <recipientName>Rep. Ruben M. Gallego</recipientName>
+      <amount>1000</amount>
+      <date>12/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Airlines Inc. Political Action Committee (AAPAC)</contributorName>
+      <payeeName>Maggie For NH</payeeName>
+      <recipientName>Sen. Margaret Wood Hassan</recipientName>
+      <amount>1000</amount>
+      <date>12/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Airlines Inc. Political Action Committee (AAPAC)</contributorName>
+      <payeeName>Scalise For Congress</payeeName>
+      <recipientName>Rep. Stephen Joseph Scalise</recipientName>
+      <amount>4000</amount>
+      <date>12/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Airlines Inc. Political Action Committee (AAPAC)</contributorName>
+      <payeeName>Shaheen For Senate</payeeName>
+      <recipientName>Sen. Jeanne Shaheen</recipientName>
+      <amount>1000</amount>
+      <date>12/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Airlines Inc. Political Action Committee (AAPAC)</contributorName>
+      <payeeName>The Eye Of The Tiger Political Action Committee</payeeName>
+      <recipientName>Rep. Stephen Joseph Scalise</recipientName>
+      <amount>1500</amount>
+      <date>12/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Airlines Inc. Political Action Committee (AAPAC)</contributorName>
+      <payeeName>Wonder Women Victory Committee</payeeName>
+      <recipientName>Sen. Lisa Ann Murkowski, Sen. Susan Margaret Collins, Sen. Joni Kay Ernst, Sen. Debra S. Fischer, Sen. Shelley Moore Capito</recipientName>
+      <amount>2000.00</amount>
+      <date>12/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Airlines Inc. Political Action Committee (AAPAC)</contributorName>
+      <payeeName>Finkenauer For Congress</payeeName>
+      <recipientName>Rep. Abby Finkenauer</recipientName>
+      <amount>1000</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Airlines Inc. Political Action Committee (AAPAC)</contributorName>
+      <payeeName>Prairie Political Action Committee</payeeName>
+      <recipientName>Sen. Richard Joseph Durbin</recipientName>
+      <amount>1000</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Airlines Inc. Political Action Committee (AAPAC)</contributorName>
+      <payeeName>Chip Roy For Congress</payeeName>
+      <recipientName>Rep. Chip Roy</recipientName>
+      <amount>1000</amount>
+      <date>12/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Airlines Inc. Political Action Committee (AAPAC)</contributorName>
+      <payeeName>Kay Granger Campaign Fund</payeeName>
+      <recipientName>Rep. Kay Granger</recipientName>
+      <amount>5000</amount>
+      <date>12/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Airlines Inc. Political Action Committee (AAPAC)</contributorName>
+      <payeeName>Billy Long For Congress</payeeName>
+      <recipientName>Rep. William H. Long  II</recipientName>
+      <amount>2000</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Airlines Inc. Political Action Committee (AAPAC)</contributorName>
+      <payeeName>Brady For Congress</payeeName>
+      <recipientName>Rep. Kevin Patrick Brady</recipientName>
+      <amount>2500</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Airlines Inc. Political Action Committee (AAPAC)</contributorName>
+      <payeeName>Friends Of Denver Riggleman  Inc.</payeeName>
+      <recipientName>Rep. Denver L. Riggleman  III</recipientName>
+      <amount>1000</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Airlines Inc. Political Action Committee (AAPAC)</contributorName>
+      <payeeName>McHenry For Congress</payeeName>
+      <recipientName>Rep. Patrick Timothy McHenry</recipientName>
+      <amount>5000</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Airlines Inc. Political Action Committee (AAPAC)</contributorName>
+      <payeeName>Ron Wright For Congress</payeeName>
+      <recipientName>Rep. Ron Wright</recipientName>
+      <amount>2000</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>Honorary Expenses</type>
+      <contributorName>Self</contributorName>
+      <payeeName>United States Capitol Historical Society</payeeName>
+      <recipientName>Sen. Roy Blunt, Sen. Bob Casey, Rep. Tom Cole, Rep. Gerry Connolly, Rep. Virginia Foxx, Rep. John B. Larson</recipientName>
+      <amount>2000.00</amount>
+      <date>11/12/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

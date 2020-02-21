@@ -1,0 +1,601 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>MOTOROLA SOLUTIONS, INC</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>Paul Newman</contactName>
+  <senateRegID>26056</senateRegID>
+  <houseRegID>31279</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/28/2020 3:34:26 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>
+  </noContributions>
+  <pacs>
+    <pac>
+      <name>Motorola Solutions, Inc. Political Action Committee</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Motorola Solutions, Inc. Political Action Committee</contributorName>
+      <payeeName>Ted Cruz Victory Committee</payeeName>
+      <recipientName>Ted Cruz Victory Committee</recipientName>
+      <amount>1000</amount>
+      <date>7/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Motorola Solutions, Inc. Political Action Committee</contributorName>
+      <payeeName>Friends Of Dick Durbin Committee</payeeName>
+      <recipientName>Sen. Richard Joseph Durbin</recipientName>
+      <amount>1000</amount>
+      <date>7/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Motorola Solutions, Inc. Political Action Committee</contributorName>
+      <payeeName>Hoyer For Congress</payeeName>
+      <recipientName>Rep. Steny Hamilton Hoyer</recipientName>
+      <amount>1000</amount>
+      <date>7/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Motorola Solutions, Inc. Political Action Committee</contributorName>
+      <payeeName>Hoyer For Congress</payeeName>
+      <recipientName>Rep. Steny Hamilton Hoyer</recipientName>
+      <amount>1000</amount>
+      <date>7/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Motorola Solutions, Inc. Political Action Committee</contributorName>
+      <payeeName>Schatz For Senate</payeeName>
+      <recipientName>Sen. Brian Emanuel Schatz</recipientName>
+      <amount>1000</amount>
+      <date>7/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Motorola Solutions, Inc. Political Action Committee</contributorName>
+      <payeeName>The Reed Committee</payeeName>
+      <recipientName>Sen. Jack Francis Reed</recipientName>
+      <amount>1000</amount>
+      <date>7/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Motorola Solutions, Inc. Political Action Committee</contributorName>
+      <payeeName>Rodney For Congress</payeeName>
+      <recipientName>Rep. Rodney Lee Davis</recipientName>
+      <amount>1000</amount>
+      <date>7/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Motorola Solutions, Inc. Political Action Committee</contributorName>
+      <payeeName>Tammy For Illinois</payeeName>
+      <recipientName>Sen. L. Tammy Duckworth</recipientName>
+      <amount>1000</amount>
+      <date>7/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Motorola Solutions, Inc. Political Action Committee</contributorName>
+      <payeeName>Vicky Hartzler For Congress</payeeName>
+      <recipientName>Rep. Vicky Jo Hartzler</recipientName>
+      <amount>1000</amount>
+      <date>7/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Motorola Solutions, Inc. Political Action Committee</contributorName>
+      <payeeName>Adam Kinzinger - Future 1St Committee</payeeName>
+      <recipientName>Adam Kinzinger - Future 1St Committee</recipientName>
+      <amount>1000</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Motorola Solutions, Inc. Political Action Committee</contributorName>
+      <payeeName>Jeff Duncan For Congress</payeeName>
+      <recipientName>Rep. Jeffrey D. Duncan</recipientName>
+      <amount>500</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Motorola Solutions, Inc. Political Action Committee</contributorName>
+      <payeeName>Leahy For U.S. Senator Committee</payeeName>
+      <recipientName>Sen. Patrick Joseph Leahy</recipientName>
+      <amount>1000</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Motorola Solutions, Inc. Political Action Committee</contributorName>
+      <payeeName>Mario Diaz-Balart For Congress</payeeName>
+      <recipientName>Rep. Mario Rafael Diaz-Balart</recipientName>
+      <amount>2500</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Motorola Solutions, Inc. Political Action Committee</contributorName>
+      <payeeName>McCaul For Congress, Inc</payeeName>
+      <recipientName>Rep. Michael Thomas McCaul, Sr.</recipientName>
+      <amount>1000</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Motorola Solutions, Inc. Political Action Committee</contributorName>
+      <payeeName>Russ Fulcher For Idaho</payeeName>
+      <recipientName>Rep. Russell M. Fulcher</recipientName>
+      <amount>1000</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Motorola Solutions, Inc. Political Action Committee</contributorName>
+      <payeeName>Scalise Leadership Fund</payeeName>
+      <recipientName>Scalise Leadership Fund</recipientName>
+      <amount>2500</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Motorola Solutions, Inc. Political Action Committee</contributorName>
+      <payeeName>The Reed Committee</payeeName>
+      <recipientName>Sen. Jack Francis Reed</recipientName>
+      <amount>2500</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Motorola Solutions, Inc. Political Action Committee</contributorName>
+      <payeeName>Walden For Congress</payeeName>
+      <recipientName>Rep. Gregory Paul Walden</recipientName>
+      <amount>1500</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Motorola Solutions, Inc. Political Action Committee</contributorName>
+      <payeeName>Adam Smith For Congress Committee</payeeName>
+      <recipientName>Rep. Adam Smith</recipientName>
+      <amount>2500</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Motorola Solutions, Inc. Political Action Committee</contributorName>
+      <payeeName>Captain Higgins For Congress</payeeName>
+      <recipientName>Rep. Clay Higgins</recipientName>
+      <amount>1000</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Motorola Solutions, Inc. Political Action Committee</contributorName>
+      <payeeName>Chris Coons For Delaware</payeeName>
+      <recipientName>Sen. Christopher Andrew Coons</recipientName>
+      <amount>1000</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Motorola Solutions, Inc. Political Action Committee</contributorName>
+      <payeeName>Dan Lipinski For Congress</payeeName>
+      <recipientName>Rep. Daniel William Lipinski</recipientName>
+      <amount>1000</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Motorola Solutions, Inc. Political Action Committee</contributorName>
+      <payeeName>DSCC</payeeName>
+      <recipientName>DSCC</recipientName>
+      <amount>15000</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Motorola Solutions, Inc. Political Action Committee</contributorName>
+      <payeeName>Dutch Ruppersberger For Congress Committee</payeeName>
+      <recipientName>Rep. Charles A. Ruppersberger</recipientName>
+      <amount>1000</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Motorola Solutions, Inc. Political Action Committee</contributorName>
+      <payeeName>Gallego For Arizona</payeeName>
+      <recipientName>Rep. Ruben M. Gallego</recipientName>
+      <amount>1000</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Motorola Solutions, Inc. Political Action Committee</contributorName>
+      <payeeName>Kay Granger Campaign Fund</payeeName>
+      <recipientName>Rep. Kay Granger</recipientName>
+      <amount>5000</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Motorola Solutions, Inc. Political Action Committee</contributorName>
+      <payeeName>LaHood for Congress</payeeName>
+      <recipientName>Rep. Darin M. LaHood</recipientName>
+      <amount>1000</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Motorola Solutions, Inc. Political Action Committee</contributorName>
+      <payeeName>Reaching For A Brighter America PAC</payeeName>
+      <recipientName>Rep. Robert Brown Aderholt</recipientName>
+      <amount>2500</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Motorola Solutions, Inc. Political Action Committee</contributorName>
+      <payeeName>Texans For Senator John Cornyn Inc.</payeeName>
+      <recipientName>Sen. John Cornyn, III</recipientName>
+      <amount>3500</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Motorola Solutions, Inc. Political Action Committee</contributorName>
+      <payeeName>Tom O'Halleran For Congress</payeeName>
+      <recipientName>Rep. Tom O'Halleran</recipientName>
+      <amount>1500</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Motorola Solutions, Inc. Political Action Committee</contributorName>
+      <payeeName>Val Demings For Congress</payeeName>
+      <recipientName>Rep. Valdez B. Demings</recipientName>
+      <amount>1000</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Motorola Solutions, Inc. Political Action Committee</contributorName>
+      <payeeName>Visclosky For Congress</payeeName>
+      <recipientName>Rep. Peter John Visclosky</recipientName>
+      <amount>2500</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Motorola Solutions, Inc. Political Action Committee</contributorName>
+      <payeeName>Cory Gardner For Senate</payeeName>
+      <recipientName>Sen. Cory Gardner</recipientName>
+      <amount>2000</amount>
+      <date>10/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Motorola Solutions, Inc. Political Action Committee</contributorName>
+      <payeeName>Mark Green For Congress</payeeName>
+      <recipientName>Rep. Mark E. Green</recipientName>
+      <amount>1000</amount>
+      <date>10/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Motorola Solutions, Inc. Political Action Committee</contributorName>
+      <payeeName>Perdue For Senate</payeeName>
+      <recipientName>Sen. David Alfred Perdue, Jr.</recipientName>
+      <amount>1000</amount>
+      <date>10/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Motorola Solutions, Inc. Political Action Committee</contributorName>
+      <payeeName>Ron Johnson For Senate Inc</payeeName>
+      <recipientName>Sen. Ronald H. Johnson</recipientName>
+      <amount>1000</amount>
+      <date>10/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Motorola Solutions, Inc. Political Action Committee</contributorName>
+      <payeeName>Cole For Congress</payeeName>
+      <recipientName>Rep. Thomas Jeffery Cole</recipientName>
+      <amount>2000</amount>
+      <date>11/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Motorola Solutions, Inc. Political Action Committee</contributorName>
+      <payeeName>Dan Crenshaw For Congress</payeeName>
+      <recipientName>Rep. Daniel Crenshaw</recipientName>
+      <amount>1000</amount>
+      <date>11/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Motorola Solutions, Inc. Political Action Committee</contributorName>
+      <payeeName>DelBene for Congress</payeeName>
+      <recipientName>Rep. Suzan Kay DelBene</recipientName>
+      <amount>1000</amount>
+      <date>11/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Motorola Solutions, Inc. Political Action Committee</contributorName>
+      <payeeName>Denali Leadership PAC</payeeName>
+      <recipientName>Sen. Lisa Ann Murkowski</recipientName>
+      <amount>2500</amount>
+      <date>11/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Motorola Solutions, Inc. Political Action Committee</contributorName>
+      <payeeName>Elise For Congress</payeeName>
+      <recipientName>Rep. Elise M. Stefanik</recipientName>
+      <amount>2500</amount>
+      <date>11/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Motorola Solutions, Inc. Political Action Committee</contributorName>
+      <payeeName>Friends Of Raja For Congress</payeeName>
+      <recipientName>Rep. S. Raja Krishnamoorthi</recipientName>
+      <amount>2000</amount>
+      <date>11/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Motorola Solutions, Inc. Political Action Committee</contributorName>
+      <payeeName>John Carter For Congress</payeeName>
+      <recipientName>Rep. John R. Carter</recipientName>
+      <amount>2500</amount>
+      <date>11/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Motorola Solutions, Inc. Political Action Committee</contributorName>
+      <payeeName>McHenry For Congress</payeeName>
+      <recipientName>Rep. Patrick Timothy McHenry</recipientName>
+      <amount>2500</amount>
+      <date>11/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Motorola Solutions, Inc. Political Action Committee</contributorName>
+      <payeeName>McSally For Senate Inc</payeeName>
+      <recipientName>Sen. Martha Elizabeth McSally</recipientName>
+      <amount>2500</amount>
+      <date>11/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Motorola Solutions, Inc. Political Action Committee</contributorName>
+      <payeeName>Patriot Political Action Committee</payeeName>
+      <recipientName>Rep. Steven M. Palazzo</recipientName>
+      <amount>2500</amount>
+      <date>11/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Motorola Solutions, Inc. Political Action Committee</contributorName>
+      <payeeName>Perimeter PAC</payeeName>
+      <recipientName>Sen. L. Tammy Duckworth</recipientName>
+      <amount>5000</amount>
+      <date>11/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Motorola Solutions, Inc. Political Action Committee</contributorName>
+      <payeeName>Shaheen For Senate</payeeName>
+      <recipientName>Sen. Jeanne Shaheen</recipientName>
+      <amount>1000</amount>
+      <date>11/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Motorola Solutions, Inc. Political Action Committee</contributorName>
+      <payeeName>Tim Scott For Senate</payeeName>
+      <recipientName>Sen. Timothy Eugene Scott</recipientName>
+      <amount>1000</amount>
+      <date>11/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Motorola Solutions, Inc. Political Action Committee</contributorName>
+      <payeeName>Citizens For John Rutherford</payeeName>
+      <recipientName>Rep. John H. Rutherford</recipientName>
+      <amount>-1000</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Motorola Solutions, Inc. Political Action Committee</contributorName>
+      <payeeName>Citizens For John Rutherford</payeeName>
+      <recipientName>Rep. John H. Rutherford</recipientName>
+      <amount>1000</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Motorola Solutions, Inc. Political Action Committee</contributorName>
+      <payeeName>Kathleen Rice For Congress</payeeName>
+      <recipientName>Rep. Kathleen Maura Rice</recipientName>
+      <amount>1000</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Motorola Solutions, Inc. Political Action Committee</contributorName>
+      <payeeName>Pete Stauber For Congress</payeeName>
+      <recipientName>Rep. Pete Stauber</recipientName>
+      <amount>1000</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Motorola Solutions, Inc. Political Action Committee</contributorName>
+      <payeeName>Bilirakis For Congress</payeeName>
+      <recipientName>Rep. Gus Michael Bilirakis</recipientName>
+      <amount>1000</amount>
+      <date>11/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Motorola Solutions, Inc. Political Action Committee</contributorName>
+      <payeeName>Kinzinger For Congress</payeeName>
+      <recipientName>Rep. Adam Daniel Kinzinger</recipientName>
+      <amount>1000</amount>
+      <date>11/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Motorola Solutions, Inc. Political Action Committee</contributorName>
+      <payeeName>Ron Johnson For Senate Inc</payeeName>
+      <recipientName>Sen. Ronald H. Johnson</recipientName>
+      <amount>1000</amount>
+      <date>11/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Motorola Solutions, Inc. Political Action Committee</contributorName>
+      <payeeName>Vicky Hartzler For Congress</payeeName>
+      <recipientName>Rep. Vicky Jo Hartzler</recipientName>
+      <amount>1000</amount>
+      <date>11/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Motorola Solutions, Inc. Political Action Committee</contributorName>
+      <payeeName>John Carter For Congress</payeeName>
+      <recipientName>Rep. John R. Carter</recipientName>
+      <amount>2500</amount>
+      <date>12/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Motorola Solutions, Inc. Political Action Committee</contributorName>
+      <payeeName>Johnson For Congress</payeeName>
+      <recipientName>Rep. William L. Johnson</recipientName>
+      <amount>1000</amount>
+      <date>12/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Motorola Solutions, Inc. Political Action Committee</contributorName>
+      <payeeName>Latta For Congress</payeeName>
+      <recipientName>Rep. Robert E. Latta</recipientName>
+      <amount>1000</amount>
+      <date>12/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Motorola Solutions, Inc. Political Action Committee</contributorName>
+      <payeeName>Lead Encourage Elect PAC</payeeName>
+      <recipientName>Sen. Michael Shumway Lee</recipientName>
+      <amount>1000</amount>
+      <date>12/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Motorola Solutions, Inc. Political Action Committee</contributorName>
+      <payeeName>Pascrell For Congress</payeeName>
+      <recipientName>Rep. William James Pascrell, Jr.</recipientName>
+      <amount>1000</amount>
+      <date>12/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Motorola Solutions, Inc. Political Action Committee</contributorName>
+      <payeeName>Quigley For Congress</payeeName>
+      <recipientName>Rep. Michael Quigley</recipientName>
+      <amount>2500</amount>
+      <date>12/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Motorola Solutions, Inc. Political Action Committee</contributorName>
+      <payeeName>Redemption PAC</payeeName>
+      <recipientName>Rep. Clay Higgins</recipientName>
+      <amount>1000</amount>
+      <date>12/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Motorola Solutions, Inc. Political Action Committee</contributorName>
+      <payeeName>Scalise For Congress</payeeName>
+      <recipientName>Rep. Stephen Joseph Scalise</recipientName>
+      <amount>2500</amount>
+      <date>12/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Motorola Solutions, Inc. Political Action Committee</contributorName>
+      <payeeName>Joe Wilson For Congress</payeeName>
+      <recipientName>Rep. Joe Wilson</recipientName>
+      <amount>1000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Motorola Solutions, Inc. Political Action Committee</contributorName>
+      <payeeName>John Carter For Congress</payeeName>
+      <recipientName>Rep. John R. Carter</recipientName>
+      <amount>5000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Motorola Solutions, Inc. Political Action Committee</contributorName>
+      <payeeName>Kay Granger Campaign Fund</payeeName>
+      <recipientName>Rep. Kay Granger</recipientName>
+      <amount>5000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Motorola Solutions, Inc. Political Action Committee</contributorName>
+      <payeeName>Narragansett Bay PAC</payeeName>
+      <recipientName>Sen. Jack Francis Reed</recipientName>
+      <amount>1000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Motorola Solutions, Inc. Political Action Committee</contributorName>
+      <payeeName>The Reed Committee</payeeName>
+      <recipientName>Sen. Jack Francis Reed</recipientName>
+      <amount>500</amount>
+      <date>12/12/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

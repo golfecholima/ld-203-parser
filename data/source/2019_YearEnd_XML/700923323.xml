@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>Entergy Services, LLC</organizationName>
+  <lobbyistPrefix>Mr.</lobbyistPrefix>
+  <lobbyistFirstName>ROBERT</lobbyistFirstName>
+  <lobbyistMiddleName>P</lobbyistMiddleName>
+  <lobbyistLastName>HALL</lobbyistLastName>
+  <lobbyistSuffix>III</lobbyistSuffix>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>13632</senateRegID>
+  <houseRegID>30437</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>My disclosure and certification are to the best of my knowledge, and based on reasonable due diligence.</comments>
+  <signedDate>1/29/2020 2:03:34 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Angie Craig For Congress</payeeName>
+      <recipientName>Congresswoman Angie Craig</recipientName>
+      <amount>500.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Richard Neal For Congress</payeeName>
+      <recipientName>Congressman Richard Neal</recipientName>
+      <amount>500.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Bill Cassidy For Senate</payeeName>
+      <recipientName>Senator Bill Cassidy</recipientName>
+      <amount>1000.00</amount>
+      <date>10/01/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

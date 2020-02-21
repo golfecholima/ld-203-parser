@@ -1,0 +1,689 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>Humana, Inc.</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>Douglas Stoss</contactName>
+  <senateRegID>18912</senateRegID>
+  <houseRegID>32289</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/28/2020 6:21:47 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>
+  </noContributions>
+  <pacs>
+    <pac>
+      <name>Humana Inc. Political Action Committee</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Humana Inc. Political Action Committee</contributorName>
+      <payeeName>Garret Graves For Congress</payeeName>
+      <recipientName>Rep. Garret Neal Graves</recipientName>
+      <amount>1500</amount>
+      <date>7/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Humana Inc. Political Action Committee</contributorName>
+      <payeeName>Volunteers For Shimkus</payeeName>
+      <recipientName>Rep. John M. Shimkus</recipientName>
+      <amount>2000</amount>
+      <date>7/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Humana Inc. Political Action Committee</contributorName>
+      <payeeName>Grassley Committee Inc</payeeName>
+      <recipientName>Sen. Charles E. Grassley</recipientName>
+      <amount>1000</amount>
+      <date>7/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Humana Inc. Political Action Committee</contributorName>
+      <payeeName>Brady For Congress</payeeName>
+      <recipientName>Rep. Kevin Patrick Brady</recipientName>
+      <amount>2500</amount>
+      <date>7/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Humana Inc. Political Action Committee</contributorName>
+      <payeeName>Guthrie For Congress</payeeName>
+      <recipientName>Rep. S. Brett Guthrie</recipientName>
+      <amount>2500</amount>
+      <date>7/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Humana Inc. Political Action Committee</contributorName>
+      <payeeName>Walden For Congress</payeeName>
+      <recipientName>Rep. Gregory Paul Walden</recipientName>
+      <amount>2500</amount>
+      <date>7/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Humana Inc. Political Action Committee</contributorName>
+      <payeeName>Darren Soto For Congress</payeeName>
+      <recipientName>Rep. Darren Michael Soto</recipientName>
+      <amount>1000</amount>
+      <date>9/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Humana Inc. Political Action Committee</contributorName>
+      <payeeName>Friends Of Cheri Bustos</payeeName>
+      <recipientName>Rep. Cheryl L. Bustos</recipientName>
+      <amount>1000</amount>
+      <date>9/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Humana Inc. Political Action Committee</contributorName>
+      <payeeName>Gallego For Arizona</payeeName>
+      <recipientName>Rep. Ruben M. Gallego</recipientName>
+      <amount>2000</amount>
+      <date>9/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Humana Inc. Political Action Committee</contributorName>
+      <payeeName>Tomorrow Is Meaningful PAC</payeeName>
+      <recipientName>Sen. Timothy Eugene Scott</recipientName>
+      <amount>1000</amount>
+      <date>9/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Humana Inc. Political Action Committee</contributorName>
+      <payeeName>Stand Tall America PAC (STAPAC)</payeeName>
+      <recipientName>Rep. William McClellan Thornberry</recipientName>
+      <amount>5000</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Humana Inc. Political Action Committee</contributorName>
+      <payeeName>Chrissy Houlahan For Congress</payeeName>
+      <recipientName>Rep. Christina J. Houlahan</recipientName>
+      <amount>2500</amount>
+      <date>9/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Humana Inc. Political Action Committee</contributorName>
+      <payeeName>Debbie Wasserman Schultz For Congress</payeeName>
+      <recipientName>Rep. Debbie Wasserman Schultz</recipientName>
+      <amount>2500</amount>
+      <date>9/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Humana Inc. Political Action Committee</contributorName>
+      <payeeName>Democrats Win Seats (DWS PAC)</payeeName>
+      <recipientName>Rep. Debbie Wasserman Schultz</recipientName>
+      <amount>2500</amount>
+      <date>9/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Humana Inc. Political Action Committee</contributorName>
+      <payeeName>Finkenauer For Congress</payeeName>
+      <recipientName>Rep. Abby Finkenauer</recipientName>
+      <amount>2500</amount>
+      <date>9/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Humana Inc. Political Action Committee</contributorName>
+      <payeeName>Friends Of Cheri Bustos</payeeName>
+      <recipientName>Rep. Cheryl L. Bustos</recipientName>
+      <amount>2500</amount>
+      <date>9/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Humana Inc. Political Action Committee</contributorName>
+      <payeeName>McEachin For Congress</payeeName>
+      <recipientName>Rep. A. Donald McEachin</recipientName>
+      <amount>2500</amount>
+      <date>9/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Humana Inc. Political Action Committee</contributorName>
+      <payeeName>Terri Sewell For Congress</payeeName>
+      <recipientName>Rep. Terri Andrea Sewell</recipientName>
+      <amount>1000</amount>
+      <date>9/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Humana Inc. Political Action Committee</contributorName>
+      <payeeName>Friends Of David Schweikert</payeeName>
+      <recipientName>Rep. David Schweikert</recipientName>
+      <amount>1000</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Humana Inc. Political Action Committee</contributorName>
+      <payeeName>Guthrie For Congress</payeeName>
+      <recipientName>Rep. S. Brett Guthrie</recipientName>
+      <amount>1000</amount>
+      <date>10/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Humana Inc. Political Action Committee</contributorName>
+      <payeeName>New PAC</payeeName>
+      <recipientName>Rep. Devin G. Nunes</recipientName>
+      <amount>1000</amount>
+      <date>10/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Humana Inc. Political Action Committee</contributorName>
+      <payeeName>Thom Tillis Committee</payeeName>
+      <recipientName>Sen. Thomas Roland Tillis</recipientName>
+      <amount>3000</amount>
+      <date>10/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Humana Inc. Political Action Committee</contributorName>
+      <payeeName>Walorski For Congress Inc</payeeName>
+      <recipientName>Rep. Jacqueline Walorski</recipientName>
+      <amount>1000</amount>
+      <date>10/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Humana Inc. Political Action Committee</contributorName>
+      <payeeName>Promoting Our Republican Team PAC</payeeName>
+      <recipientName>Sen. Rob J. Portman</recipientName>
+      <amount>2500</amount>
+      <date>11/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Humana Inc. Political Action Committee</contributorName>
+      <payeeName>Cory Gardner For Senate</payeeName>
+      <recipientName>Sen. Cory Gardner</recipientName>
+      <amount>5000</amount>
+      <date>11/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Humana Inc. Political Action Committee</contributorName>
+      <payeeName>Hal Rogers For Congress</payeeName>
+      <recipientName>Rep. Harold D. Rogers</recipientName>
+      <amount>2500</amount>
+      <date>11/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Humana Inc. Political Action Committee</contributorName>
+      <payeeName>Mike Kelly For Congress</payeeName>
+      <recipientName>Rep. G. Mike J. Kelly</recipientName>
+      <amount>1000</amount>
+      <date>11/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Humana Inc. Political Action Committee</contributorName>
+      <payeeName>Texans For Senator John Cornyn Inc.</payeeName>
+      <recipientName>Sen. John Cornyn, III</recipientName>
+      <amount>2500</amount>
+      <date>11/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Humana Inc. Political Action Committee</contributorName>
+      <payeeName>Casten For Congress</payeeName>
+      <recipientName>Rep. Sean Casten</recipientName>
+      <amount>1000</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Humana Inc. Political Action Committee</contributorName>
+      <payeeName>Charlie Crist For Congress</payeeName>
+      <recipientName>Rep. Charlie J. Crist</recipientName>
+      <amount>1000</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Humana Inc. Political Action Committee</contributorName>
+      <payeeName>Citizens For Boyle</payeeName>
+      <recipientName>Rep. Brendan Francis Boyle</recipientName>
+      <amount>1000</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Humana Inc. Political Action Committee</contributorName>
+      <payeeName>Darren Soto For Congress</payeeName>
+      <recipientName>Rep. Darren Michael Soto</recipientName>
+      <amount>1000</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Humana Inc. Political Action Committee</contributorName>
+      <payeeName>DelBene for Congress</payeeName>
+      <recipientName>Rep. Suzan Kay DelBene</recipientName>
+      <amount>1000</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Humana Inc. Political Action Committee</contributorName>
+      <payeeName>Dwight Evans For Congress</payeeName>
+      <recipientName>Rep. Dwight Evans</recipientName>
+      <amount>1000</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Humana Inc. Political Action Committee</contributorName>
+      <payeeName>Friends Of Ben McAdams</payeeName>
+      <recipientName>Rep. Ben McAdams</recipientName>
+      <amount>1000</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Humana Inc. Political Action Committee</contributorName>
+      <payeeName>Friends Of Dan Kildee</payeeName>
+      <recipientName>Rep. Daniel Timothy Kildee</recipientName>
+      <amount>1000</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Humana Inc. Political Action Committee</contributorName>
+      <payeeName>Hoyer For Congress</payeeName>
+      <recipientName>Rep. Steny Hamilton Hoyer</recipientName>
+      <amount>2500</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Humana Inc. Political Action Committee</contributorName>
+      <payeeName>Jackie Speier For Congress</payeeName>
+      <recipientName>Rep. K. Jacqueline Speier</recipientName>
+      <amount>1000</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Humana Inc. Political Action Committee</contributorName>
+      <payeeName>Jimmy Gomez For Congress</payeeName>
+      <recipientName>Rep. Jimmy Gomez</recipientName>
+      <amount>1000</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Humana Inc. Political Action Committee</contributorName>
+      <payeeName>Julia Brownley For Congress</payeeName>
+      <recipientName>Rep. Julia Brownley</recipientName>
+      <amount>1000</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Humana Inc. Political Action Committee</contributorName>
+      <payeeName>Keystone America PAC</payeeName>
+      <recipientName>Sen. Robert P. Casey, Jr.</recipientName>
+      <amount>5000</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Humana Inc. Political Action Committee</contributorName>
+      <payeeName>LaHood for Congress</payeeName>
+      <recipientName>Rep. Darin M. LaHood</recipientName>
+      <amount>5000</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Humana Inc. Political Action Committee</contributorName>
+      <payeeName>Lois Frankel For Congress</payeeName>
+      <recipientName>Rep. Lois Jane Frankel</recipientName>
+      <amount>1000</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Humana Inc. Political Action Committee</contributorName>
+      <payeeName>Moore For Congress</payeeName>
+      <recipientName>Rep. Gwendolynne Sophia Moore</recipientName>
+      <amount>1000</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Humana Inc. Political Action Committee</contributorName>
+      <payeeName>Nevadans For Steven Horsford</payeeName>
+      <recipientName>Rep. Steven Alexzander Horsford</recipientName>
+      <amount>1000</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Humana Inc. Political Action Committee</contributorName>
+      <payeeName>Pallone For Congress</payeeName>
+      <recipientName>Rep. Frank Pallone, Jr.</recipientName>
+      <amount>2500</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Humana Inc. Political Action Committee</contributorName>
+      <payeeName>Peters For Michigan</payeeName>
+      <recipientName>Sen. Gary Charles Peters</recipientName>
+      <amount>2500</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Humana Inc. Political Action Committee</contributorName>
+      <payeeName>Richard E Neal For Congress Committee</payeeName>
+      <recipientName>Rep. Richard Edmund Neal</recipientName>
+      <amount>2500</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Humana Inc. Political Action Committee</contributorName>
+      <payeeName>Scott Peters For Congress</payeeName>
+      <recipientName>Rep. Scott H. Peters</recipientName>
+      <amount>1000</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Humana Inc. Political Action Committee</contributorName>
+      <payeeName>Shaheen For Senate</payeeName>
+      <recipientName>Sen. Jeanne Shaheen</recipientName>
+      <amount>5000</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Humana Inc. Political Action Committee</contributorName>
+      <payeeName>Sharice For Congress</payeeName>
+      <recipientName>Rep. Sharice Davids</recipientName>
+      <amount>1000</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Humana Inc. Political Action Committee</contributorName>
+      <payeeName>Stephanie Murphy For Congress</payeeName>
+      <recipientName>Rep. Stephanie N. Murphy</recipientName>
+      <amount>1000</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Humana Inc. Political Action Committee</contributorName>
+      <payeeName>Together Everyone Realizes Real ImPACt Aka Terri PAC</payeeName>
+      <recipientName>Rep. Terri Andrea Sewell</recipientName>
+      <amount>2500</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Humana Inc. Political Action Committee</contributorName>
+      <payeeName>Tom O'Halleran For Congress</payeeName>
+      <recipientName>Rep. Tom O'Halleran</recipientName>
+      <amount>1000</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Humana Inc. Political Action Committee</contributorName>
+      <payeeName>Tom O'Halleran For Congress</payeeName>
+      <recipientName>Rep. Tom O'Halleran</recipientName>
+      <amount>1000</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Humana Inc. Political Action Committee</contributorName>
+      <payeeName>Van Drew For Congress</payeeName>
+      <recipientName>Rep. Jeff Van Drew, D.D.S.</recipientName>
+      <amount>1000</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Humana Inc. Political Action Committee</contributorName>
+      <payeeName>Victory In November Election PAC</payeeName>
+      <recipientName>Rep. Michael C. Thompson</recipientName>
+      <amount>2500</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Humana Inc. Political Action Committee</contributorName>
+      <payeeName>Majority Committee PAC--Mc PAC</payeeName>
+      <recipientName>Rep. Kevin Owen McCarthy</recipientName>
+      <amount>5000</amount>
+      <date>12/2/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Humana Inc. Political Action Committee</contributorName>
+      <payeeName>Collins For Senator</payeeName>
+      <recipientName>Sen. Susan Margaret Collins</recipientName>
+      <amount>2500</amount>
+      <date>12/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Humana Inc. Political Action Committee</contributorName>
+      <payeeName>Heartland Values PAC</payeeName>
+      <recipientName>Sen. John Randolph Thune</recipientName>
+      <amount>1500</amount>
+      <date>12/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Humana Inc. Political Action Committee</contributorName>
+      <payeeName>Kentucky State Democratic Central Executive Committee</payeeName>
+      <recipientName>Kentucky State Democratic Central Executive Committee</recipientName>
+      <amount>5000</amount>
+      <date>12/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Humana Inc. Political Action Committee</contributorName>
+      <payeeName>American Innovation Political Action Committee (AMI PAC)</payeeName>
+      <recipientName>Rep. Amerish B. Bera</recipientName>
+      <amount>2500</amount>
+      <date>12/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Humana Inc. Political Action Committee</contributorName>
+      <payeeName>Bluegrass Committee</payeeName>
+      <recipientName>Sen. Mitch McConnell</recipientName>
+      <amount>5000</amount>
+      <date>12/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Humana Inc. Political Action Committee</contributorName>
+      <payeeName>Comer For Congress</payeeName>
+      <recipientName>Rep. James R. Comer, Jr.</recipientName>
+      <amount>1000</amount>
+      <date>12/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Humana Inc. Political Action Committee</contributorName>
+      <payeeName>Lets Get To Work PAC</payeeName>
+      <recipientName>Sen. Rick Scott</recipientName>
+      <amount>5000</amount>
+      <date>12/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Humana Inc. Political Action Committee</contributorName>
+      <payeeName>Andy Barr For Congress, Inc.</payeeName>
+      <recipientName>Rep. Garland Hale Barr, IV</recipientName>
+      <amount>2000</amount>
+      <date>12/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Humana Inc. Political Action Committee</contributorName>
+      <payeeName>BRETTPAC-The Leadership PAC of U.S.Represenative Brett Guthrie</payeeName>
+      <recipientName>Rep. S. Brett Guthrie</recipientName>
+      <amount>5000</amount>
+      <date>12/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Humana Inc. Political Action Committee</contributorName>
+      <payeeName>Heartland Values PAC</payeeName>
+      <recipientName>Sen. John Randolph Thune</recipientName>
+      <amount>1500</amount>
+      <date>12/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Humana Inc. Political Action Committee</contributorName>
+      <payeeName>Oorah! Political Action Committee</payeeName>
+      <recipientName>Sen. Todd Christopher Young</recipientName>
+      <amount>5000</amount>
+      <date>12/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Humana Inc. Political Action Committee</contributorName>
+      <payeeName>Casten For Congress</payeeName>
+      <recipientName>Rep. Sean Casten</recipientName>
+      <amount>1000</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Humana Inc. Political Action Committee</contributorName>
+      <payeeName>Developing A New Generation PAC (DANG PAC)</payeeName>
+      <recipientName>Rep. Stephanie N. Murphy</recipientName>
+      <amount>5000</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Humana Inc. Political Action Committee</contributorName>
+      <payeeName>Friends Of Ben McAdams</payeeName>
+      <recipientName>Rep. Ben McAdams</recipientName>
+      <amount>1000</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Humana Inc. Political Action Committee</contributorName>
+      <payeeName>Haley Stevens For Congress</payeeName>
+      <recipientName>Rep. Haley M. Stevens</recipientName>
+      <amount>1000</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Humana Inc. Political Action Committee</contributorName>
+      <payeeName>Jason Smith For Congress</payeeName>
+      <recipientName>Rep. Jason Thomas Smith</recipientName>
+      <amount>2000</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Humana Inc. Political Action Committee</contributorName>
+      <payeeName>Josh Gottheimer For Congress</payeeName>
+      <recipientName>Rep. Joshua S. Gottheimer</recipientName>
+      <amount>2500</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Humana Inc. Political Action Committee</contributorName>
+      <payeeName>Kuster For Congress, Inc</payeeName>
+      <recipientName>Rep. Ann McLane Kuster</recipientName>
+      <amount>1000</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Humana Inc. Political Action Committee</contributorName>
+      <payeeName>Nevadans For Steven Horsford</payeeName>
+      <recipientName>Rep. Steven Alexzander Horsford</recipientName>
+      <amount>2000</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Humana Inc. Political Action Committee</contributorName>
+      <payeeName>Richmond For Congress</payeeName>
+      <recipientName>Rep. Cedric Levon Richmond</recipientName>
+      <amount>1000</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Humana Inc. Political Action Committee</contributorName>
+      <payeeName>Sharice For Congress</payeeName>
+      <recipientName>Rep. Sharice Davids</recipientName>
+      <amount>1000</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Humana Inc. Political Action Committee</contributorName>
+      <payeeName>Steve Daines For Montana</payeeName>
+      <recipientName>Sen. Steve David Daines</recipientName>
+      <amount>2500</amount>
+      <date>12/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Humana Inc. Political Action Committee</contributorName>
+      <payeeName>Steve Daines For Montana</payeeName>
+      <recipientName>Sen. Steve David Daines</recipientName>
+      <amount>2500</amount>
+      <date>12/30/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

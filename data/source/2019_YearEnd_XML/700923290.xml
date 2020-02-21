@@ -1,0 +1,799 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>CSX Corporation</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <zipext>
+  </zipext>
+  <contactName>Stephen Flippin</contactName>
+  <senateRegID>11424</senateRegID>
+  <houseRegID>32054</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/29/2020 1:48:25 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>
+  </noContributions>
+  <pacs>
+    <pac>
+      <name>CSX Corporation Good Government Fund</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CSX Corporation Good Government Fund</contributorName>
+      <payeeName>Frederica S. Wilson For Congress</payeeName>
+      <recipientName>Frederica Wilson</recipientName>
+      <amount>2000.00</amount>
+      <date>07/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CSX Corporation Good Government Fund</contributorName>
+      <payeeName>Ross Spano for Congress</payeeName>
+      <recipientName>Vincent Ross Spano</recipientName>
+      <amount>2000.00</amount>
+      <date>07/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CSX Corporation Good Government Fund</contributorName>
+      <payeeName>Daniel Webster for Congress</payeeName>
+      <recipientName>Daniel Webster</recipientName>
+      <amount>2000.00</amount>
+      <date>07/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CSX Corporation Good Government Fund</contributorName>
+      <payeeName>Cory Gardner for Senate</payeeName>
+      <recipientName>Cory Gardner</recipientName>
+      <amount>5000.00</amount>
+      <date>07/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CSX Corporation Good Government Fund</contributorName>
+      <payeeName>Rural America Counts PAC (RAC PAC)</payeeName>
+      <recipientName>Eric Alan Rick Crawford</recipientName>
+      <amount>5000.00</amount>
+      <date>07/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CSX Corporation Good Government Fund</contributorName>
+      <payeeName>Gary Palmer for Congress</payeeName>
+      <recipientName>Gary Palmer</recipientName>
+      <amount>2000.00</amount>
+      <date>07/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CSX Corporation Good Government Fund</contributorName>
+      <payeeName>Elizabeth Pannill Fletcher for Congress</payeeName>
+      <recipientName>Elizabeth  Pannill Fletcher</recipientName>
+      <amount>2000.00</amount>
+      <date>07/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CSX Corporation Good Government Fund</contributorName>
+      <payeeName>Rob Wittman for Congress</payeeName>
+      <recipientName>Rob Wittman</recipientName>
+      <amount>1000.00</amount>
+      <date>07/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CSX Corporation Good Government Fund</contributorName>
+      <payeeName>Citizens To Elect Rick Larsen</payeeName>
+      <recipientName>Rick Larsen</recipientName>
+      <amount>2500.00</amount>
+      <date>07/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CSX Corporation Good Government Fund</contributorName>
+      <payeeName>Common Ground PAC</payeeName>
+      <recipientName>Tim Kaine</recipientName>
+      <amount>5000.00</amount>
+      <date>07/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CSX Corporation Good Government Fund</contributorName>
+      <payeeName>Debbie for Congress</payeeName>
+      <recipientName>Debbie Mucarsel-Powell</recipientName>
+      <amount>2000.00</amount>
+      <date>07/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CSX Corporation Good Government Fund</contributorName>
+      <payeeName>Lead Encourage Elect PAC - LEE PAC</payeeName>
+      <recipientName>Mike Lee</recipientName>
+      <amount>5000.00</amount>
+      <date>07/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CSX Corporation Good Government Fund</contributorName>
+      <payeeName>Dr Brian Babin for Congress</payeeName>
+      <recipientName>Brian Babin</recipientName>
+      <amount>2000.00</amount>
+      <date>07/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CSX Corporation Good Government Fund</contributorName>
+      <payeeName>Liz Cheney for Wyoming</payeeName>
+      <recipientName>Elizabeth Cheney</recipientName>
+      <amount>2500.00</amount>
+      <date>07/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CSX Corporation Good Government Fund</contributorName>
+      <payeeName>Robin Kelly for Congress</payeeName>
+      <recipientName>Robin Kelly</recipientName>
+      <amount>1000.00</amount>
+      <date>07/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CSX Corporation Good Government Fund</contributorName>
+      <payeeName>Norma Torres for Congress</payeeName>
+      <recipientName>Norma Torres</recipientName>
+      <amount>2000.00</amount>
+      <date>07/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CSX Corporation Good Government Fund</contributorName>
+      <payeeName>Richmond for Congress</payeeName>
+      <recipientName>Cedric Richmond</recipientName>
+      <amount>2500.00</amount>
+      <date>07/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CSX Corporation Good Government Fund</contributorName>
+      <payeeName>Pete Stauber for Congress</payeeName>
+      <recipientName>Pete Stauber</recipientName>
+      <amount>2000.00</amount>
+      <date>08/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CSX Corporation Good Government Fund</contributorName>
+      <payeeName>Clarke for Congress</payeeName>
+      <recipientName>Yvette Clarke</recipientName>
+      <amount>2000.00</amount>
+      <date>09/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CSX Corporation Good Government Fund</contributorName>
+      <payeeName>Sensible American Solutions Supporting Everyone PAC</payeeName>
+      <recipientName>Ben Sasse</recipientName>
+      <amount>5000.00</amount>
+      <date>09/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CSX Corporation Good Government Fund</contributorName>
+      <payeeName>Greg Pence for Congress</payeeName>
+      <recipientName>Greg Pence</recipientName>
+      <amount>2000.00</amount>
+      <date>09/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CSX Corporation Good Government Fund</contributorName>
+      <payeeName>Eye of the Tiger PAC</payeeName>
+      <recipientName>Steve Scalise</recipientName>
+      <amount>5000.00</amount>
+      <date>09/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CSX Corporation Good Government Fund</contributorName>
+      <payeeName>Cohen for Congress</payeeName>
+      <recipientName>Stephen Cohen</recipientName>
+      <amount>2000.00</amount>
+      <date>09/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CSX Corporation Good Government Fund</contributorName>
+      <payeeName>Marco Rubio for US Senate</payeeName>
+      <recipientName>Marco Rubio</recipientName>
+      <amount>5000.00</amount>
+      <date>09/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CSX Corporation Good Government Fund</contributorName>
+      <payeeName>Promoting Our Republican Team PAC</payeeName>
+      <recipientName>Rob Portman</recipientName>
+      <amount>2500.00</amount>
+      <date>09/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CSX Corporation Good Government Fund</contributorName>
+      <payeeName>Terri Sewell for Congress</payeeName>
+      <recipientName>Terri Sewell</recipientName>
+      <amount>1000.00</amount>
+      <date>09/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CSX Corporation Good Government Fund</contributorName>
+      <payeeName>Paul Tonko for Congress</payeeName>
+      <recipientName>Paul Tonko</recipientName>
+      <amount>2000.00</amount>
+      <date>09/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CSX Corporation Good Government Fund</contributorName>
+      <payeeName>Nadler for Congress</payeeName>
+      <recipientName>Jerrold Nadler</recipientName>
+      <amount>5000.00</amount>
+      <date>09/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CSX Corporation Good Government Fund</contributorName>
+      <payeeName>Crawford for Congress</payeeName>
+      <recipientName>Eric Alan Rick Crawford</recipientName>
+      <amount>2500.00</amount>
+      <date>09/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CSX Corporation Good Government Fund</contributorName>
+      <payeeName>Huffman For Congress</payeeName>
+      <recipientName>Jared Huffman</recipientName>
+      <amount>2000.00</amount>
+      <date>09/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CSX Corporation Good Government Fund</contributorName>
+      <payeeName>Greg Steube Congressional Committee</payeeName>
+      <recipientName>Greg Steube</recipientName>
+      <amount>1000.00</amount>
+      <date>09/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CSX Corporation Good Government Fund</contributorName>
+      <payeeName>Kinzinger for Congress</payeeName>
+      <recipientName>Adam Kinzinger</recipientName>
+      <amount>2500.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CSX Corporation Good Government Fund</contributorName>
+      <payeeName>Tim Ryan for Congress</payeeName>
+      <recipientName>Tim Ryan</recipientName>
+      <amount>2000.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CSX Corporation Good Government Fund</contributorName>
+      <payeeName>Andre Carson for Congress</payeeName>
+      <recipientName>Andre Carson</recipientName>
+      <amount>2000.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CSX Corporation Good Government Fund</contributorName>
+      <payeeName>Meadows for Congress</payeeName>
+      <recipientName>Mark Meadows</recipientName>
+      <amount>2000.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CSX Corporation Good Government Fund</contributorName>
+      <payeeName>Getting Stuff Done PAC</payeeName>
+      <recipientName>Kyrsten Sinema</recipientName>
+      <amount>5000.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CSX Corporation Good Government Fund</contributorName>
+      <payeeName>Friends of Bennie Thompson</payeeName>
+      <recipientName>Bennie Thompson</recipientName>
+      <amount>5000.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CSX Corporation Good Government Fund</contributorName>
+      <payeeName>Stephanie Murphy for Congress</payeeName>
+      <recipientName>Stephanie Murphy</recipientName>
+      <amount>1000.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CSX Corporation Good Government Fund</contributorName>
+      <payeeName>Clay Jr. for Congress</payeeName>
+      <recipientName>William Clay Jr.</recipientName>
+      <amount>1000.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CSX Corporation Good Government Fund</contributorName>
+      <payeeName>Butterfield for Congress</payeeName>
+      <recipientName>G.K. Butterfield</recipientName>
+      <amount>2500.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CSX Corporation Good Government Fund</contributorName>
+      <payeeName>Espaillat for Congress</payeeName>
+      <recipientName>Adriano Espaillat</recipientName>
+      <amount>2000.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CSX Corporation Good Government Fund</contributorName>
+      <payeeName>Kay Granger Campaign Fund</payeeName>
+      <recipientName>Kay Granger</recipientName>
+      <amount>2500.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CSX Corporation Good Government Fund</contributorName>
+      <payeeName>Brady for Congress</payeeName>
+      <recipientName>Kevin Brady</recipientName>
+      <amount>5000.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CSX Corporation Good Government Fund</contributorName>
+      <payeeName>Friends of Don Beyer</payeeName>
+      <recipientName>Don Beyer</recipientName>
+      <amount>1000.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CSX Corporation Good Government Fund</contributorName>
+      <payeeName>Joe Morelle for Congress</payeeName>
+      <recipientName>Joe Morelle</recipientName>
+      <amount>1000.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CSX Corporation Good Government Fund</contributorName>
+      <payeeName>Tom Rice for Congress</payeeName>
+      <recipientName>Tom Rice</recipientName>
+      <amount>2000.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CSX Corporation Good Government Fund</contributorName>
+      <payeeName>Mark DeSaulnier for Congress</payeeName>
+      <recipientName>Mark DeSaulnier</recipientName>
+      <amount>2000.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CSX Corporation Good Government Fund</contributorName>
+      <payeeName>Peters for Michigan</payeeName>
+      <recipientName>Gary Peters</recipientName>
+      <amount>2500.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CSX Corporation Good Government Fund</contributorName>
+      <payeeName>Mario Diaz-Balart For Congress</payeeName>
+      <recipientName>Mario Diaz-Balart</recipientName>
+      <amount>-2500.00</amount>
+      <date>10/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CSX Corporation Good Government Fund</contributorName>
+      <payeeName>Ryan Costello for Congress</payeeName>
+      <recipientName>Ryan Costello</recipientName>
+      <amount>-1500.00</amount>
+      <date>10/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CSX Corporation Good Government Fund</contributorName>
+      <payeeName>California Republican Assembly</payeeName>
+      <recipientName>California Republican Assembly</recipientName>
+      <amount>-5000.00</amount>
+      <date>11/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CSX Corporation Good Government Fund</contributorName>
+      <payeeName>Friends of Todd Young Inc.</payeeName>
+      <recipientName>Todd Young</recipientName>
+      <amount>-2500.00</amount>
+      <date>11/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CSX Corporation Good Government Fund</contributorName>
+      <payeeName>Sanford for Congress</payeeName>
+      <recipientName>Mark Sanford</recipientName>
+      <amount>-2500.00</amount>
+      <date>11/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CSX Corporation Good Government Fund</contributorName>
+      <payeeName>Frederica S. Wilson For Congress</payeeName>
+      <recipientName>Frederica Wilson</recipientName>
+      <amount>-2000.00</amount>
+      <date>11/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CSX Corporation Good Government Fund</contributorName>
+      <payeeName>Rooney for Congress</payeeName>
+      <recipientName>Francis Rooney</recipientName>
+      <amount>-1000.00</amount>
+      <date>11/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CSX Corporation Good Government Fund</contributorName>
+      <payeeName>Friends of Mark Warner</payeeName>
+      <recipientName>Mark Warner</recipientName>
+      <amount>4000.00</amount>
+      <date>12/02/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CSX Corporation Good Government Fund</contributorName>
+      <payeeName>Collins for Senator</payeeName>
+      <recipientName>Susan Collins</recipientName>
+      <amount>3000.00</amount>
+      <date>12/02/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CSX Corporation Good Government Fund</contributorName>
+      <payeeName>Perdue for Senate</payeeName>
+      <recipientName>David Perdue</recipientName>
+      <amount>5000.00</amount>
+      <date>12/02/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CSX Corporation Good Government Fund</contributorName>
+      <payeeName>Katherine Clark for Congress</payeeName>
+      <recipientName>Katherine Clark</recipientName>
+      <amount>2000.00</amount>
+      <date>12/02/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CSX Corporation Good Government Fund</contributorName>
+      <payeeName>Arkansas for Leadership Political Action Committee</payeeName>
+      <recipientName>John Boozman</recipientName>
+      <amount>5000.00</amount>
+      <date>12/02/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CSX Corporation Good Government Fund</contributorName>
+      <payeeName>HALPAC-Help America's Leaders PAC</payeeName>
+      <recipientName>Harold Rogers</recipientName>
+      <amount>2500.00</amount>
+      <date>12/02/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CSX Corporation Good Government Fund</contributorName>
+      <payeeName>Rodney Davis for Congress</payeeName>
+      <recipientName>Rodney Davis</recipientName>
+      <amount>2000.00</amount>
+      <date>12/02/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CSX Corporation Good Government Fund</contributorName>
+      <payeeName>Alaskans for Dan Sullivan</payeeName>
+      <recipientName>Dan Sullivan</recipientName>
+      <amount>5000.00</amount>
+      <date>12/02/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CSX Corporation Good Government Fund</contributorName>
+      <payeeName>Engel for Congress</payeeName>
+      <recipientName>Eliot Engel</recipientName>
+      <amount>1000.00</amount>
+      <date>12/02/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CSX Corporation Good Government Fund</contributorName>
+      <payeeName>Bishop for Congress</payeeName>
+      <recipientName>Dan Bishop</recipientName>
+      <amount>1000.00</amount>
+      <date>12/02/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CSX Corporation Good Government Fund</contributorName>
+      <payeeName>Quigley for Congress</payeeName>
+      <recipientName>Mike Quigley</recipientName>
+      <amount>2500.00</amount>
+      <date>12/02/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CSX Corporation Good Government Fund</contributorName>
+      <payeeName>Country Roads PAC</payeeName>
+      <recipientName>Joseph Manchin</recipientName>
+      <amount>5000.00</amount>
+      <date>12/02/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CSX Corporation Good Government Fund</contributorName>
+      <payeeName>Secure PAC</payeeName>
+      <recipientName>Bennie Thompson</recipientName>
+      <amount>2500.00</amount>
+      <date>12/02/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CSX Corporation Good Government Fund</contributorName>
+      <payeeName>Friends of Mark Warner</payeeName>
+      <recipientName>Mark Warner</recipientName>
+      <amount>1000.00</amount>
+      <date>12/02/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CSX Corporation Good Government Fund</contributorName>
+      <payeeName>Responsibility And Freedom Work PAC (RFWPAC)</payeeName>
+      <recipientName>Roger  Wicker</recipientName>
+      <amount>5000.00</amount>
+      <date>12/02/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CSX Corporation Good Government Fund</contributorName>
+      <payeeName>Collins for Senator</payeeName>
+      <recipientName>Susan Collins</recipientName>
+      <amount>2000.00</amount>
+      <date>12/02/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CSX Corporation Good Government Fund</contributorName>
+      <payeeName>Perimeter PAC</payeeName>
+      <recipientName>Tammy Duckworth</recipientName>
+      <amount>5000.00</amount>
+      <date>12/02/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CSX Corporation Good Government Fund</contributorName>
+      <payeeName>Blumenauer for Congress</payeeName>
+      <recipientName>Earl Blumenauer</recipientName>
+      <amount>2500.00</amount>
+      <date>12/02/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CSX Corporation Good Government Fund</contributorName>
+      <payeeName>M-PAC</payeeName>
+      <recipientName>Patty Murray</recipientName>
+      <amount>5000.00</amount>
+      <date>12/02/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CSX Corporation Good Government Fund</contributorName>
+      <payeeName>Stanton for Arizona</payeeName>
+      <recipientName>Greg Stanton</recipientName>
+      <amount>2000.00</amount>
+      <date>12/02/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CSX Corporation Good Government Fund</contributorName>
+      <payeeName>Brian Mast For Congress</payeeName>
+      <recipientName>Brian Mast</recipientName>
+      <amount>2000.00</amount>
+      <date>12/02/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CSX Corporation Good Government Fund</contributorName>
+      <payeeName>Eddie Bernice Johnson for Congress</payeeName>
+      <recipientName>Eddie Johnson</recipientName>
+      <amount>2500.00</amount>
+      <date>12/02/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CSX Corporation Good Government Fund</contributorName>
+      <payeeName>MARSHA PAC</payeeName>
+      <recipientName>Marsha Blackburn</recipientName>
+      <amount>5000.00</amount>
+      <date>12/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CSX Corporation Good Government Fund</contributorName>
+      <payeeName>Blue Hen PAC</payeeName>
+      <recipientName>Christopher Coons</recipientName>
+      <amount>5000.00</amount>
+      <date>12/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CSX Corporation Good Government Fund</contributorName>
+      <payeeName>Peters for Michigan</payeeName>
+      <recipientName>Gary Peters</recipientName>
+      <amount>2500.00</amount>
+      <date>12/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CSX Corporation Good Government Fund</contributorName>
+      <payeeName>Ameripac: The Fund for A Greater America</payeeName>
+      <recipientName>Steny Hoyer</recipientName>
+      <amount>5000.00</amount>
+      <date>12/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CSX Corporation Good Government Fund</contributorName>
+      <payeeName>Cooper for Congress</payeeName>
+      <recipientName>Jim Cooper</recipientName>
+      <amount>1000.00</amount>
+      <date>12/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CSX Corporation Good Government Fund</contributorName>
+      <payeeName>Jim Risch for U S Senate Committee</payeeName>
+      <recipientName>Jim  Risch</recipientName>
+      <amount>1000.00</amount>
+      <date>12/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CSX Corporation Good Government Fund</contributorName>
+      <payeeName>Kevin McCarthy for Congress</payeeName>
+      <recipientName>Kevin McCarthy</recipientName>
+      <amount>5000.00</amount>
+      <date>12/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CSX Corporation Good Government Fund</contributorName>
+      <payeeName>Friends of Todd Young Inc.</payeeName>
+      <recipientName>Todd Young</recipientName>
+      <amount>5000.00</amount>
+      <date>12/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CSX Corporation Good Government Fund</contributorName>
+      <payeeName>Drew Ferguson for Congress</payeeName>
+      <recipientName>Drew Ferguson</recipientName>
+      <amount>1000.00</amount>
+      <date>12/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CSX Corporation Good Government Fund</contributorName>
+      <payeeName>Strategy PAC</payeeName>
+      <recipientName>Ron Johnson</recipientName>
+      <amount>5000.00</amount>
+      <date>12/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CSX Corporation Good Government Fund</contributorName>
+      <payeeName>Citizens for Turner</payeeName>
+      <recipientName>Michael Turner</recipientName>
+      <amount>1000.00</amount>
+      <date>12/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CSX Corporation Good Government Fund</contributorName>
+      <payeeName>Scalise for Congress</payeeName>
+      <recipientName>Steve Scalise</recipientName>
+      <amount>5000.00</amount>
+      <date>12/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CSX Corporation Good Government Fund</contributorName>
+      <payeeName>Democrats Win Seats (DWS PAC)</payeeName>
+      <recipientName>Debbie Wasserman-Schultz</recipientName>
+      <amount>1000.00</amount>
+      <date>12/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CSX Corporation Good Government Fund</contributorName>
+      <payeeName>Impact</payeeName>
+      <recipientName>Charles Schumer</recipientName>
+      <amount>5000.00</amount>
+      <date>12/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CSX Corporation Good Government Fund</contributorName>
+      <payeeName>VoteTipton.com</payeeName>
+      <recipientName>Scott Tipton</recipientName>
+      <amount>2000.00</amount>
+      <date>12/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CSX Corporation Good Government Fund</contributorName>
+      <payeeName>Pete Aguilar for Congress</payeeName>
+      <recipientName>Pete Aguilar</recipientName>
+      <amount>2000.00</amount>
+      <date>12/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CSX Corporation Good Government Fund</contributorName>
+      <payeeName>Steve Daines for Montana</payeeName>
+      <recipientName>Steven Daines</recipientName>
+      <amount>5000.00</amount>
+      <date>12/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CSX Corporation Good Government Fund</contributorName>
+      <payeeName>Texans for Senator John Cornyn Inc</payeeName>
+      <recipientName>John Cornyn</recipientName>
+      <amount>5000.00</amount>
+      <date>12/16/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

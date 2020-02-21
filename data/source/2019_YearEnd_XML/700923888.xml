@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>National Organization of Social Security Claimants' Representatives</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>Barbara R. Silverstone</contactName>
+  <senateRegID>28253</senateRegID>
+  <houseRegID>30690</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/29/2020 5:48:11 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>NOSSCR PAC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NOSSCR PAC</contributorName>
+      <payeeName>Brindisi for Congress</payeeName>
+      <recipientName>Rep. Anthony Brindisi</recipientName>
+      <amount>1000.00</amount>
+      <date>7/24/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NOSSCR PAC</contributorName>
+      <payeeName>Brindisi for Congress</payeeName>
+      <recipientName>Rep. Anthony Brindisi</recipientName>
+      <amount>1000.00</amount>
+      <date>11/19/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NOSSCR PAC</contributorName>
+      <payeeName>Casten for Congress</payeeName>
+      <recipientName>Rep. Sean Casten</recipientName>
+      <amount>1000.00</amount>
+      <date>11/19/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NOSSCR PAC</contributorName>
+      <payeeName>Cisneros for Congress</payeeName>
+      <recipientName>Rep. Gilbert Cisneros</recipientName>
+      <amount>1000.00</amount>
+      <date>11/19/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NOSSCR PAC</contributorName>
+      <payeeName>Dwight Evans for Congress</payeeName>
+      <recipientName>Rep. Dwight Evans</recipientName>
+      <amount>1000.00</amount>
+      <date>11/19/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NOSSCR PAC</contributorName>
+      <payeeName>Friends of Jahanna Hayes</payeeName>
+      <recipientName>Rep. Jahanna Hayes</recipientName>
+      <amount>1000.00</amount>
+      <date>11/19/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NOSSCR PAC</contributorName>
+      <payeeName>Haley Stevens for Congress</payeeName>
+      <recipientName>Rep. Haley Stevens </recipientName>
+      <amount>1000.00</amount>
+      <date>7/23/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NOSSCR PAC</contributorName>
+      <payeeName>Haley Stevens for Congress</payeeName>
+      <recipientName>Rep. Haley Stevens</recipientName>
+      <amount>1000.00</amount>
+      <date>11/19/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NOSSCR PAC</contributorName>
+      <payeeName>Jason Crow for Congress</payeeName>
+      <recipientName>Rep. Jason Crow</recipientName>
+      <amount>1000.00</amount>
+      <date>11/19/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NOSSCR PAC</contributorName>
+      <payeeName>Nevadans for Steven Horsford</payeeName>
+      <recipientName>Rep. Steven Horsford</recipientName>
+      <amount>1000.00</amount>
+      <date>11/19/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NOSSCR PAC</contributorName>
+      <payeeName>Xochitl for New Mexico</payeeName>
+      <recipientName>Rep. Xochitl Torres Small</recipientName>
+      <amount>1000.00</amount>
+      <date>9/20/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NOSSCR PAC</contributorName>
+      <payeeName>Brian Higgins for Congress</payeeName>
+      <recipientName>Rep. Brian Higgins</recipientName>
+      <amount>1500.00</amount>
+      <date>7/18/19</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

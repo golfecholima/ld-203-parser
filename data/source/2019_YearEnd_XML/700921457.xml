@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>Institute of Scrap Recycling Industries, Inc.</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <zipext>
+  </zipext>
+  <contactName>Margie Erinle</contactName>
+  <senateRegID>19503</senateRegID>
+  <houseRegID>32005</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/27/2020 4:32:24 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>JONI FOR IOWA</payeeName>
+      <recipientName>Rep. Joni Ernst</recipientName>
+      <amount>1000.00</amount>
+      <date>08/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>WALDEN FOR CONGRESS</payeeName>
+      <recipientName>Rep. Greg Walden</recipientName>
+      <amount>1500.00</amount>
+      <date>08/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>JOHN S FUND</payeeName>
+      <recipientName>Rep. John Shimkus</recipientName>
+      <amount>3000.00</amount>
+      <date>07/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>PALLONE FOR CONGRESS</payeeName>
+      <recipientName>Rep. Frank Pallone, Jr.</recipientName>
+      <amount>2000.00</amount>
+      <date>10/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>RODNEY FOR CONGRESS</payeeName>
+      <recipientName>Rep. Rodney Davis</recipientName>
+      <amount>1000.00</amount>
+      <date>09/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>CORY GARDNER FOR SENATE</payeeName>
+      <recipientName>Rep. Cory Gardner</recipientName>
+      <amount>1000.00</amount>
+      <date>09/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>CARPER FOR SENATE</payeeName>
+      <recipientName>Rep. Tom Carper</recipientName>
+      <amount>2500.00</amount>
+      <date>10/29/19</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

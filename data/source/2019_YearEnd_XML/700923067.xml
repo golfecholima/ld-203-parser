@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>Corning Incorporated</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <zipext>
+  </zipext>
+  <contactName>TIMOTHY REGAN</contactName>
+  <senateRegID>10888</senateRegID>
+  <houseRegID>31832</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/29/2020 11:54:17 AM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>
+  </noContributions>
+  <pacs>
+    <pac>
+      <name>Corning Incorporated Employees Political Action Committee (COREPAC)</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Corning Incorporated Employees Political Action Committee (COREPAC)</contributorName>
+      <payeeName>David Rouzer For Congress</payeeName>
+      <recipientName>Rep. David Cheston Rouzer</recipientName>
+      <amount>1000</amount>
+      <date>9/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Corning Incorporated Employees Political Action Committee (COREPAC)</contributorName>
+      <payeeName>Hudson For Congress</payeeName>
+      <recipientName>Rep. Richard Lane Hudson, Jr.</recipientName>
+      <amount>2500</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Corning Incorporated Employees Political Action Committee (COREPAC)</contributorName>
+      <payeeName>Information Technology Industry Council Political Action Committee  (ITI PAC)</payeeName>
+      <recipientName>Information Technology Industry Council Political Action Committee  (ITI PAC)</recipientName>
+      <amount>5000</amount>
+      <date>11/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Corning Incorporated Employees Political Action Committee (COREPAC)</contributorName>
+      <payeeName>Sean Patrick Maloney For Congress</payeeName>
+      <recipientName>Rep. Sean Patrick Maloney</recipientName>
+      <amount>1000</amount>
+      <date>9/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Corning Incorporated Employees Political Action Committee (COREPAC)</contributorName>
+      <payeeName>Kuster For Congress, Inc</payeeName>
+      <recipientName>Rep. Ann McLane Kuster</recipientName>
+      <amount>2500</amount>
+      <date>8/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Corning Incorporated Employees Political Action Committee (COREPAC)</contributorName>
+      <payeeName>Collins For Senator</payeeName>
+      <recipientName>Sen. Susan Margaret Collins</recipientName>
+      <amount>1000</amount>
+      <date>9/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Corning Incorporated Employees Political Action Committee (COREPAC)</contributorName>
+      <payeeName>Van Drew For Congress</payeeName>
+      <recipientName>Rep. Jeff Van Drew, D.D.S.</recipientName>
+      <amount>1000</amount>
+      <date>11/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Corning Incorporated Employees Political Action Committee (COREPAC)</contributorName>
+      <payeeName>Chris Coons For Delaware</payeeName>
+      <recipientName>Sen. Christopher Andrew Coons</recipientName>
+      <amount>1000</amount>
+      <date>10/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Corning Incorporated Employees Political Action Committee (COREPAC)</contributorName>
+      <payeeName>Nadler For Congress</payeeName>
+      <recipientName>Rep. Jerrold Lewis Nadler</recipientName>
+      <amount>1000</amount>
+      <date>8/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Corning Incorporated Employees Political Action Committee (COREPAC)</contributorName>
+      <payeeName>Suozzi For Congress</payeeName>
+      <recipientName>Rep. Thomas R. Suozzi</recipientName>
+      <amount>1000</amount>
+      <date>8/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Corning Incorporated Employees Political Action Committee (COREPAC)</contributorName>
+      <payeeName>Elise For Congress</payeeName>
+      <recipientName>Rep. Elise M. Stefanik</recipientName>
+      <amount>1000</amount>
+      <date>9/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Corning Incorporated Employees Political Action Committee (COREPAC)</contributorName>
+      <payeeName>McKinley For Congress</payeeName>
+      <recipientName>Rep. David B. McKinley</recipientName>
+      <amount>1000</amount>
+      <date>12/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Corning Incorporated Employees Political Action Committee (COREPAC)</contributorName>
+      <payeeName>New Democrat Coalition Action Fund</payeeName>
+      <recipientName>New Democrat Coalition Action Fund</recipientName>
+      <amount>5000</amount>
+      <date>9/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Corning Incorporated Employees Political Action Committee (COREPAC)</contributorName>
+      <payeeName>Moran For Kansas</payeeName>
+      <recipientName>Sen. Jerry W. Moran</recipientName>
+      <amount>1000</amount>
+      <date>7/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Corning Incorporated Employees Political Action Committee (COREPAC)</contributorName>
+      <payeeName>Rob Wittman For Congress</payeeName>
+      <recipientName>Rep. Robert Joseph Wittman</recipientName>
+      <amount>1000</amount>
+      <date>9/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Corning Incorporated Employees Political Action Committee (COREPAC)</contributorName>
+      <payeeName>Ben Cline For Congress, Inc.</payeeName>
+      <recipientName>Rep. Benjamin L. Cline</recipientName>
+      <amount>500</amount>
+      <date>10/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Corning Incorporated Employees Political Action Committee (COREPAC)</contributorName>
+      <payeeName>First In Freedom PAC</payeeName>
+      <recipientName>Rep. Richard Lane Hudson, Jr.</recipientName>
+      <amount>3000.00</amount>
+      <date>8/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Corning Incorporated Employees Political Action Committee (COREPAC)</contributorName>
+      <payeeName>Cartwright For Congress</payeeName>
+      <recipientName>Rep. Matthew A. Cartwright</recipientName>
+      <amount>1000</amount>
+      <date>11/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Corning Incorporated Employees Political Action Committee (COREPAC)</contributorName>
+      <payeeName>Joni For Iowa</payeeName>
+      <recipientName>Sen. Joni Kay Ernst</recipientName>
+      <amount>1000</amount>
+      <date>9/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Corning Incorporated Employees Political Action Committee (COREPAC)</contributorName>
+      <payeeName>Committee To Re-Elect Henry Hank Johnson</payeeName>
+      <recipientName>Rep. Henry C. Johnson, Jr.</recipientName>
+      <amount>1000</amount>
+      <date>8/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Corning Incorporated Employees Political Action Committee (COREPAC)</contributorName>
+      <payeeName>Saffo for Mayor</payeeName>
+      <recipientName>Bill Saffo</recipientName>
+      <amount>1000</amount>
+      <date>10/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Corning Incorporated Employees Political Action Committee (COREPAC)</contributorName>
+      <payeeName>Kind For Congress Committee</payeeName>
+      <recipientName>Rep. Ronald James Kind</recipientName>
+      <amount>1000</amount>
+      <date>8/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Corning Incorporated Employees Political Action Committee (COREPAC)</contributorName>
+      <payeeName>Mad 4 Pa PAC</payeeName>
+      <recipientName>Rep. Madeleine Dean</recipientName>
+      <amount>500</amount>
+      <date>8/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Corning Incorporated Employees Political Action Committee (COREPAC)</contributorName>
+      <payeeName>David Rouzer For Congress</payeeName>
+      <recipientName>Rep. David Cheston Rouzer</recipientName>
+      <amount>1000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Corning Incorporated Employees Political Action Committee (COREPAC)</contributorName>
+      <payeeName>Hudson For Congress</payeeName>
+      <recipientName>Rep. Richard Lane Hudson, Jr.</recipientName>
+      <amount>500</amount>
+      <date>9/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Corning Incorporated Employees Political Action Committee (COREPAC)</contributorName>
+      <payeeName>Bluegrass Committee</payeeName>
+      <recipientName>Sen. Mitch McConnell</recipientName>
+      <amount>5000</amount>
+      <date>7/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Corning Incorporated Employees Political Action Committee (COREPAC)</contributorName>
+      <payeeName>Elise For Congress</payeeName>
+      <recipientName>Rep. Elise M. Stefanik</recipientName>
+      <amount>1000</amount>
+      <date>12/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Corning Incorporated Employees Political Action Committee (COREPAC)</contributorName>
+      <payeeName>Friends Of Ben McAdams</payeeName>
+      <recipientName>Rep. Ben McAdams</recipientName>
+      <amount>1000</amount>
+      <date>10/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Corning Incorporated Employees Political Action Committee (COREPAC)</contributorName>
+      <payeeName>Tom Reed For Congress</payeeName>
+      <recipientName>Rep. Thomas W. Reed, II.</recipientName>
+      <amount>5000</amount>
+      <date>7/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Corning Incorporated Employees Political Action Committee (COREPAC)</contributorName>
+      <payeeName>Shaheen For Senate</payeeName>
+      <recipientName>Sen. Jeanne Shaheen</recipientName>
+      <amount>3250</amount>
+      <date>10/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Corning Incorporated Employees Political Action Committee (COREPAC)</contributorName>
+      <payeeName>Clarke For Congress</payeeName>
+      <recipientName>Rep. Yvette Diana Clarke</recipientName>
+      <amount>1000</amount>
+      <date>9/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Corning Incorporated Employees Political Action Committee (COREPAC)</contributorName>
+      <payeeName>Collins For Senator</payeeName>
+      <recipientName>Sen. Susan Margaret Collins</recipientName>
+      <amount>4000</amount>
+      <date>10/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Corning Incorporated Employees Political Action Committee (COREPAC)</contributorName>
+      <payeeName>Katko For Congress</payeeName>
+      <recipientName>Rep. John Michael Katko</recipientName>
+      <amount>1000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Corning Incorporated Employees Political Action Committee (COREPAC)</contributorName>
+      <payeeName>Guthrie For Congress</payeeName>
+      <recipientName>Rep. S. Brett Guthrie</recipientName>
+      <amount>1000</amount>
+      <date>7/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Corning Incorporated Employees Political Action Committee (COREPAC)</contributorName>
+      <payeeName>LaHood for Congress</payeeName>
+      <recipientName>Rep. Darin M. LaHood</recipientName>
+      <amount>1000</amount>
+      <date>9/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Corning Incorporated Employees Political Action Committee (COREPAC)</contributorName>
+      <payeeName>Stanton For Congress</payeeName>
+      <recipientName>Rep. Greg Stanton</recipientName>
+      <amount>2500</amount>
+      <date>9/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Corning Incorporated Employees Political Action Committee (COREPAC)</contributorName>
+      <payeeName>Connolly For Congress</payeeName>
+      <recipientName>Rep. Gerald E. Connolly</recipientName>
+      <amount>500</amount>
+      <date>9/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Corning Incorporated Employees Political Action Committee (COREPAC)</contributorName>
+      <payeeName>LaHood for Congress</payeeName>
+      <recipientName>Rep. Darin M. LaHood</recipientName>
+      <amount>3000</amount>
+      <date>7/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Corning Incorporated Employees Political Action Committee (COREPAC)</contributorName>
+      <payeeName>Re-Elect Brenda Howerton</payeeName>
+      <recipientName>Brenda Howerton</recipientName>
+      <amount>1000</amount>
+      <date>12/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Corning Incorporated Employees Political Action Committee (COREPAC)</contributorName>
+      <payeeName>Cory Gardner For Senate</payeeName>
+      <recipientName>Sen. Cory Gardner</recipientName>
+      <amount>1000</amount>
+      <date>10/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Corning Incorporated Employees Political Action Committee (COREPAC)</contributorName>
+      <payeeName>Scott Peters For Congress</payeeName>
+      <recipientName>Rep. Scott H. Peters</recipientName>
+      <amount>1000</amount>
+      <date>8/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Corning Incorporated Employees Political Action Committee (COREPAC)</contributorName>
+      <payeeName>Friends Of Dick Durbin Committee</payeeName>
+      <recipientName>Sen. Richard Joseph Durbin</recipientName>
+      <amount>1000</amount>
+      <date>8/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Corning Incorporated Employees Political Action Committee (COREPAC)</contributorName>
+      <payeeName>Billy Long For Congress</payeeName>
+      <recipientName>Rep. William H. Long, II</recipientName>
+      <amount>500</amount>
+      <date>10/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Corning Incorporated Employees Political Action Committee (COREPAC)</contributorName>
+      <payeeName>Thom Tillis Committee</payeeName>
+      <recipientName>Sen. Thomas Roland Tillis</recipientName>
+      <amount>1000</amount>
+      <date>10/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Corning Incorporated Employees Political Action Committee (COREPAC)</contributorName>
+      <payeeName>Re-Elect Brenda Howerton</payeeName>
+      <recipientName>Brenda Howerton</recipientName>
+      <amount>1000</amount>
+      <date>8/8/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Corning Incorporated Employees Political Action Committee (COREPAC)</contributorName>
+      <payeeName>Shaheen For Senate</payeeName>
+      <recipientName>Sen. Jeanne Shaheen</recipientName>
+      <amount>2750</amount>
+      <date>10/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Corning Incorporated Employees Political Action Committee (COREPAC)</contributorName>
+      <payeeName>NRCC</payeeName>
+      <recipientName>NRCC</recipientName>
+      <amount>10000</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Corning Incorporated Employees Political Action Committee (COREPAC)</contributorName>
+      <payeeName>Friends Of Ben McAdams</payeeName>
+      <recipientName>Rep. Ben McAdams</recipientName>
+      <amount>1000</amount>
+      <date>9/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Corning Incorporated Employees Political Action Committee (COREPAC)</contributorName>
+      <payeeName>Re-Elect Brenda Howerton</payeeName>
+      <recipientName>Brenda Howerton</recipientName>
+      <amount>-1000</amount>
+      <date>12/2/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Corning Incorporated Employees Political Action Committee (COREPAC)</contributorName>
+      <payeeName>Texans For Senator John Cornyn Inc.</payeeName>
+      <recipientName>Sen. John Cornyn, III</recipientName>
+      <amount>1000</amount>
+      <date>7/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Corning Incorporated Employees Political Action Committee (COREPAC)</contributorName>
+      <payeeName>Simpson For Congress</payeeName>
+      <recipientName>Rep. Michael Keith Simpson</recipientName>
+      <amount>1000</amount>
+      <date>11/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Corning Incorporated Employees Political Action Committee (COREPAC)</contributorName>
+      <payeeName>Irish American Democrats</payeeName>
+      <recipientName>Irish American Democrats</recipientName>
+      <amount>500</amount>
+      <date>10/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Corning Incorporated Employees Political Action Committee (COREPAC)</contributorName>
+      <payeeName>Suozzi For Congress</payeeName>
+      <recipientName>Rep. Thomas R. Suozzi</recipientName>
+      <amount>3000</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Corning Incorporated Employees Political Action Committee (COREPAC)</contributorName>
+      <payeeName>Zeldin For Congress</payeeName>
+      <recipientName>Rep. Lee M. Zeldin</recipientName>
+      <amount>1000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Corning Incorporated Employees Political Action Committee (COREPAC)</contributorName>
+      <payeeName>McKinley For Congress</payeeName>
+      <recipientName>Rep. David B. McKinley</recipientName>
+      <amount>500</amount>
+      <date>12/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Corning Incorporated Employees Political Action Committee (COREPAC)</contributorName>
+      <payeeName>Walker 4 NC</payeeName>
+      <recipientName>Rep. Bradley Mark Walker</recipientName>
+      <amount>2500</amount>
+      <date>8/8/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Corning Incorporated Employees Political Action Committee (COREPAC)</contributorName>
+      <payeeName>Anna Eshoo For Congress</payeeName>
+      <recipientName>Rep. Anna G. Eshoo</recipientName>
+      <amount>1500</amount>
+      <date>10/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Corning Incorporated Employees Political Action Committee (COREPAC)</contributorName>
+      <payeeName>Paul Tonko For Congress</payeeName>
+      <recipientName>Rep. Paul David Tonko</recipientName>
+      <amount>5000</amount>
+      <date>12/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Corning Incorporated Employees Political Action Committee (COREPAC)</contributorName>
+      <payeeName>Joe Morelle For Congress</payeeName>
+      <recipientName>Rep. Joseph D. Morelle</recipientName>
+      <amount>1000</amount>
+      <date>9/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Corning Incorporated Employees Political Action Committee (COREPAC)</contributorName>
+      <payeeName>Excelsior PAC</payeeName>
+      <recipientName>Rep. Thomas W. Reed, II.</recipientName>
+      <amount>5000</amount>
+      <date>7/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Corning Incorporated Employees Political Action Committee (COREPAC)</contributorName>
+      <payeeName>Republican Party Of Kentucky</payeeName>
+      <recipientName>Republican Party Of Kentucky</recipientName>
+      <amount>5000</amount>
+      <date>7/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Corning Incorporated Employees Political Action Committee (COREPAC)</contributorName>
+      <payeeName>Collins For Senator</payeeName>
+      <recipientName>Sen. Susan Margaret Collins</recipientName>
+      <amount>1000</amount>
+      <date>9/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Corning Incorporated Employees Political Action Committee (COREPAC)</contributorName>
+      <payeeName>Lofgren For Congress</payeeName>
+      <recipientName>Rep. Zoe Lofgren</recipientName>
+      <amount>1000</amount>
+      <date>10/25/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

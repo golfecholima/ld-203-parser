@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>Mr. Michael Hutton</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>MR. MICHAEL HUTTON</contactName>
+  <senateRegID>312758</senateRegID>
+  <houseRegID>38737</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/30/2020 2:25:23 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Gonzales for Congress</payeeName>
+      <recipientName>Vincente Gonzales</recipientName>
+      <amount>500.00</amount>
+      <date>07/01/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Casey for Senate</payeeName>
+      <recipientName>Bob Casey</recipientName>
+      <amount>500.00</amount>
+      <date>07/25/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Ruiz for Congress</payeeName>
+      <recipientName>Raul Ruiz</recipientName>
+      <amount>500.00</amount>
+      <date>07/25/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Clyburn for Congress</payeeName>
+      <recipientName>Jim Clyburn</recipientName>
+      <amount>500.00</amount>
+      <date>07/25/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Scott for Congress</payeeName>
+      <recipientName>David Scott</recipientName>
+      <amount>1000.00</amount>
+      <date>09/01/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Moore for Congress</payeeName>
+      <recipientName>Gwen Moore</recipientName>
+      <amount>1000.00</amount>
+      <date>09/25/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>New Millennium PAC</payeeName>
+      <recipientName>Bob Menendez</recipientName>
+      <amount>5000.00</amount>
+      <date>09/30/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Gonzales for Congress</payeeName>
+      <recipientName>Vincente Gonzales</recipientName>
+      <amount>1000.00</amount>
+      <date>10/17/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Norcross for Congress</payeeName>
+      <recipientName>Donald Norcross</recipientName>
+      <amount>500.00</amount>
+      <date>10/29/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Gottheimer for Congress</payeeName>
+      <recipientName>Josh Gottheimer</recipientName>
+      <amount>1000.00</amount>
+      <date>11/09/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Sherrill for Congress</payeeName>
+      <recipientName>Mikie Sherrill </recipientName>
+      <amount>500.00</amount>
+      <date>11/13/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Engel for Congress</payeeName>
+      <recipientName>Elliot Engel</recipientName>
+      <amount>1000.00</amount>
+      <date>12/11/19</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

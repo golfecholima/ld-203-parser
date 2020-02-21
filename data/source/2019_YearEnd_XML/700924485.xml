@@ -1,0 +1,751 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>Entergy Services, LLC</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <zipext>
+  </zipext>
+  <contactName>Robert Hall, III</contactName>
+  <senateRegID>13632</senateRegID>
+  <houseRegID>30437</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>My disclosure and certification are to the best of my knowledge, and based on reasonable due diligence.
+</comments>
+  <signedDate>1/30/2020 10:33:07 AM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>
+  </noContributions>
+  <pacs>
+    <pac>
+      <name>Entergy Corporation PAC (ENPAC)</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Entergy Corporation PAC (ENPAC)</contributorName>
+      <payeeName>RFWPAC</payeeName>
+      <recipientName>Roger Wicker</recipientName>
+      <amount>1000</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Entergy Corporation PAC (ENPAC)</contributorName>
+      <payeeName>Secure PAC</payeeName>
+      <recipientName>Bennie Thompson</recipientName>
+      <amount>2500</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Entergy Corporation PAC (ENPAC)</contributorName>
+      <payeeName>First State PAC</payeeName>
+      <recipientName>Thomas Carper</recipientName>
+      <amount>5000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Entergy Corporation PAC (ENPAC)</contributorName>
+      <payeeName>AMERIPAC</payeeName>
+      <recipientName>Steny Hoyer</recipientName>
+      <amount>2500</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Entergy Corporation PAC (ENPAC)</contributorName>
+      <payeeName>Scott Peters For Congress</payeeName>
+      <recipientName>Scott Peters</recipientName>
+      <amount>1000</amount>
+      <date>12/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Entergy Corporation PAC (ENPAC)</contributorName>
+      <payeeName>Mullin For Congress</payeeName>
+      <recipientName>Markwayne Mullin</recipientName>
+      <amount>1000</amount>
+      <date>12/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Entergy Corporation PAC (ENPAC)</contributorName>
+      <payeeName>Shelley Moore Capito For Congress</payeeName>
+      <recipientName>Shelley Capito</recipientName>
+      <amount>1000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Entergy Corporation PAC (ENPAC)</contributorName>
+      <payeeName>Country Roads PAC</payeeName>
+      <recipientName>Joe Manchin</recipientName>
+      <amount>5000</amount>
+      <date>12/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Entergy Corporation PAC (ENPAC)</contributorName>
+      <payeeName>IMPACT</payeeName>
+      <recipientName>Charles Schumer</recipientName>
+      <amount>2500</amount>
+      <date>12/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Entergy Corporation PAC (ENPAC)</contributorName>
+      <payeeName>Stand With Sanchez</payeeName>
+      <recipientName>Linda Sanchez</recipientName>
+      <amount>1000</amount>
+      <date>12/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Entergy Corporation PAC (ENPAC)</contributorName>
+      <payeeName>Friends Of Mark Warner</payeeName>
+      <recipientName>Mark Warner</recipientName>
+      <amount>500</amount>
+      <date>12/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Entergy Corporation PAC (ENPAC)</contributorName>
+      <payeeName>Friends Of Mark Warner</payeeName>
+      <recipientName>Mark Warner</recipientName>
+      <amount>500</amount>
+      <date>12/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Entergy Corporation PAC (ENPAC)</contributorName>
+      <payeeName>Who Dat PAC</payeeName>
+      <recipientName>Cedric Richmond</recipientName>
+      <amount>2500</amount>
+      <date>12/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Entergy Corporation PAC (ENPAC)</contributorName>
+      <payeeName>Bonnie Watson Coleman For Congress</payeeName>
+      <recipientName>Bonnie Watson Coleman</recipientName>
+      <amount>1000</amount>
+      <date>12/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Entergy Corporation PAC (ENPAC)</contributorName>
+      <payeeName>Bergmanforcongress</payeeName>
+      <recipientName>Jack Bergman</recipientName>
+      <amount>1000</amount>
+      <date>12/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Entergy Corporation PAC (ENPAC)</contributorName>
+      <payeeName>Lance Gooden For Congress Committee</payeeName>
+      <recipientName>Lance Gooden</recipientName>
+      <amount>1000</amount>
+      <date>12/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Entergy Corporation PAC (ENPAC)</contributorName>
+      <payeeName>Dutch Ruppersberger For Congress Committee</payeeName>
+      <recipientName>C.A. Ruppersberger</recipientName>
+      <amount>1000</amount>
+      <date>12/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Entergy Corporation PAC (ENPAC)</contributorName>
+      <payeeName>Kind For Congress Committee</payeeName>
+      <recipientName>Ron Kind</recipientName>
+      <amount>2500</amount>
+      <date>12/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Entergy Corporation PAC (ENPAC)</contributorName>
+      <payeeName>Forward Together PAC</payeeName>
+      <recipientName>Mark Warner</recipientName>
+      <amount>5000</amount>
+      <date>12/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Entergy Corporation PAC (ENPAC)</contributorName>
+      <payeeName>Dan Crenshaw For Congress</payeeName>
+      <recipientName>Daniel Crenshaw</recipientName>
+      <amount>1000</amount>
+      <date>12/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Entergy Corporation PAC (ENPAC)</contributorName>
+      <payeeName>Friends Of Michael Guest</payeeName>
+      <recipientName>Michael Guest</recipientName>
+      <amount>1000</amount>
+      <date>12/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Entergy Corporation PAC (ENPAC)</contributorName>
+      <payeeName>Cotton For Senate Inc.</payeeName>
+      <recipientName>Tom Cotton</recipientName>
+      <amount>1000</amount>
+      <date>12/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Entergy Corporation PAC (ENPAC)</contributorName>
+      <payeeName>Latta For Congress</payeeName>
+      <recipientName>Bob Latta</recipientName>
+      <amount>1000</amount>
+      <date>12/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Entergy Corporation PAC (ENPAC)</contributorName>
+      <payeeName>Palazzo for Congress</payeeName>
+      <recipientName>Steven Palazzo</recipientName>
+      <amount>1000</amount>
+      <date>12/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Entergy Corporation PAC (ENPAC)</contributorName>
+      <payeeName>Paul Tonko For Congress</payeeName>
+      <recipientName>Paul Tonko</recipientName>
+      <amount>1000</amount>
+      <date>12/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Entergy Corporation PAC (ENPAC)</contributorName>
+      <payeeName>Redemption PAC</payeeName>
+      <recipientName>Clay Higgins</recipientName>
+      <amount>5000</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Entergy Corporation PAC (ENPAC)</contributorName>
+      <payeeName>McKinley For Congress</payeeName>
+      <recipientName>David McKinley</recipientName>
+      <amount>1000</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Entergy Corporation PAC (ENPAC)</contributorName>
+      <payeeName>Eddie Bernice Johnson For Congress</payeeName>
+      <recipientName>Eddie Johnson</recipientName>
+      <amount>1000</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Entergy Corporation PAC (ENPAC)</contributorName>
+      <payeeName>Tom O'Halleran For Congress</payeeName>
+      <recipientName>Tom O'Halleran</recipientName>
+      <amount>1000</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Entergy Corporation PAC (ENPAC)</contributorName>
+      <payeeName>Mike Johnson For Louisiana</payeeName>
+      <recipientName>Mike Johnson</recipientName>
+      <amount>1000</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Entergy Corporation PAC (ENPAC)</contributorName>
+      <payeeName>Ron Wright For Congress</payeeName>
+      <recipientName>Ron Wright</recipientName>
+      <amount>1000</amount>
+      <date>11/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Entergy Corporation PAC (ENPAC)</contributorName>
+      <payeeName>Cole For Congress</payeeName>
+      <recipientName>Thomas Cole</recipientName>
+      <amount>2500</amount>
+      <date>11/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Entergy Corporation PAC (ENPAC)</contributorName>
+      <payeeName>Hudson For Congress</payeeName>
+      <recipientName>Richard Hudson</recipientName>
+      <amount>1000</amount>
+      <date>11/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Entergy Corporation PAC (ENPAC)</contributorName>
+      <payeeName>Brady For Congress</payeeName>
+      <recipientName>Kevin Brady</recipientName>
+      <amount>1000</amount>
+      <date>11/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Entergy Corporation PAC (ENPAC)</contributorName>
+      <payeeName>Texans For Jodey Arrington</payeeName>
+      <recipientName>Jodey Arrington</recipientName>
+      <amount>1000</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Entergy Corporation PAC (ENPAC)</contributorName>
+      <payeeName>Clarke For Congress</payeeName>
+      <recipientName>Yvette Clarke</recipientName>
+      <amount>1000</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Entergy Corporation PAC (ENPAC)</contributorName>
+      <payeeName>Texans For Henry Cuellar Congressional Campaign</payeeName>
+      <recipientName>Henry Cuellar</recipientName>
+      <amount>2500</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Entergy Corporation PAC (ENPAC)</contributorName>
+      <payeeName>Friends Of Michael Guest</payeeName>
+      <recipientName>Michael Guest</recipientName>
+      <amount>1000</amount>
+      <date>10/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Entergy Corporation PAC (ENPAC)</contributorName>
+      <payeeName>Wicker For Senate</payeeName>
+      <recipientName>Roger Wicker</recipientName>
+      <amount>2500</amount>
+      <date>10/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Entergy Corporation PAC (ENPAC)</contributorName>
+      <payeeName>Westerman For Congress</payeeName>
+      <recipientName>Bruce Westerman</recipientName>
+      <amount>1000</amount>
+      <date>10/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Entergy Corporation PAC (ENPAC)</contributorName>
+      <payeeName>Adrian Smith For Congress</payeeName>
+      <recipientName>Adrian Smith</recipientName>
+      <amount>1000</amount>
+      <date>10/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Entergy Corporation PAC (ENPAC)</contributorName>
+      <payeeName>Kelly For Congress</payeeName>
+      <recipientName>Trent Kelly</recipientName>
+      <amount>1000</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Entergy Corporation PAC (ENPAC)</contributorName>
+      <payeeName>Captain Higgins For Congress</payeeName>
+      <recipientName>Clay Higgins</recipientName>
+      <amount>1000</amount>
+      <date>10/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Entergy Corporation PAC (ENPAC)</contributorName>
+      <payeeName>Ralph Abraham For Congress</payeeName>
+      <recipientName>Ralph Abraham</recipientName>
+      <amount>5000</amount>
+      <date>10/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Entergy Corporation PAC (ENPAC)</contributorName>
+      <payeeName>RFWPAC</payeeName>
+      <recipientName>Roger Wicker</recipientName>
+      <amount>2500</amount>
+      <date>10/7/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Entergy Corporation PAC (ENPAC)</contributorName>
+      <payeeName>Continuing America's Strength and Security PAC - CASSPAC</payeeName>
+      <recipientName>Bill Cassidy</recipientName>
+      <amount>2500</amount>
+      <date>10/1/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Entergy Corporation PAC (ENPAC)</contributorName>
+      <payeeName>Nevadans For Steven Horsford</payeeName>
+      <recipientName>Steven Horsford</recipientName>
+      <amount>1000</amount>
+      <date>10/1/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Entergy Corporation PAC (ENPAC)</contributorName>
+      <payeeName>Bill Cassidy For US Senate</payeeName>
+      <recipientName>Bill Cassidy</recipientName>
+      <amount>5000</amount>
+      <date>10/1/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Entergy Corporation PAC (ENPAC)</contributorName>
+      <payeeName>Richmond For Congress</payeeName>
+      <recipientName>Cedric Richmond</recipientName>
+      <amount>2500</amount>
+      <date>10/1/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Entergy Corporation PAC (ENPAC)</contributorName>
+      <payeeName>Friends Of Bennie Thompson</payeeName>
+      <recipientName>Bennie Thompson</recipientName>
+      <amount>2500</amount>
+      <date>10/1/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Entergy Corporation PAC (ENPAC)</contributorName>
+      <payeeName>Kind For Congress Committee</payeeName>
+      <recipientName>Ron Kind</recipientName>
+      <amount>1000</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Entergy Corporation PAC (ENPAC)</contributorName>
+      <payeeName>Stabenow For US Senate</payeeName>
+      <recipientName>Debbie Stabenow</recipientName>
+      <amount>1000.00</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Entergy Corporation PAC (ENPAC)</contributorName>
+      <payeeName>Tina Smith For Minnesota</payeeName>
+      <recipientName>Tina Smith</recipientName>
+      <amount>1000</amount>
+      <date>9/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Entergy Corporation PAC (ENPAC)</contributorName>
+      <payeeName>Martin Heinrich For Senate</payeeName>
+      <recipientName>Martin Heinrich</recipientName>
+      <amount>1000</amount>
+      <date>9/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Entergy Corporation PAC (ENPAC)</contributorName>
+      <payeeName>Families For James Lankford</payeeName>
+      <recipientName>James Lankford</recipientName>
+      <amount>2000</amount>
+      <date>9/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Entergy Corporation PAC (ENPAC)</contributorName>
+      <payeeName>The Richard Burr Committee</payeeName>
+      <recipientName>Richard Burr</recipientName>
+      <amount>1000</amount>
+      <date>9/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Entergy Corporation PAC (ENPAC)</contributorName>
+      <payeeName>Brian Fitzpatrick For Congress</payeeName>
+      <recipientName>Brian Fitzpatrick</recipientName>
+      <amount>1000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Entergy Corporation PAC (ENPAC)</contributorName>
+      <payeeName>Elizabeth Pannill Fletcher For Congress</payeeName>
+      <recipientName>Elizabeth Fletcher</recipientName>
+      <amount>1000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Entergy Corporation PAC (ENPAC)</contributorName>
+      <payeeName>Vern Buchanan For Congress</payeeName>
+      <recipientName>Vern Buchanan</recipientName>
+      <amount>2000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Entergy Corporation PAC (ENPAC)</contributorName>
+      <payeeName>LaHood For Congress</payeeName>
+      <recipientName>Darin LaHood</recipientName>
+      <amount>1000.00</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Entergy Corporation PAC (ENPAC)</contributorName>
+      <payeeName>Mike Johnson For Louisiana</payeeName>
+      <recipientName>Mike Johnson</recipientName>
+      <amount>1000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Entergy Corporation PAC (ENPAC)</contributorName>
+      <payeeName>Peters For Michigan</payeeName>
+      <recipientName>Gary Peters</recipientName>
+      <amount>500</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Entergy Corporation PAC (ENPAC)</contributorName>
+      <payeeName>Peters For Michigan</payeeName>
+      <recipientName>Gary Peters</recipientName>
+      <amount>2000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Entergy Corporation PAC (ENPAC)</contributorName>
+      <payeeName>Kay Granger Campaign Fund</payeeName>
+      <recipientName>Kay Granger</recipientName>
+      <amount>2500</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Entergy Corporation PAC (ENPAC)</contributorName>
+      <payeeName>Richard E Neal For Congress Committee</payeeName>
+      <recipientName>Richard Neal</recipientName>
+      <amount>1500</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Entergy Corporation PAC (ENPAC)</contributorName>
+      <payeeName>Sinema For Arizona</payeeName>
+      <recipientName>Kyrsten Sinema</recipientName>
+      <amount>1000</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Entergy Corporation PAC (ENPAC)</contributorName>
+      <payeeName>Jeanne Shaheen For Senate</payeeName>
+      <recipientName>Jeanne Shaheen</recipientName>
+      <amount>1000</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Entergy Corporation PAC (ENPAC)</contributorName>
+      <payeeName>Carper For Senate</payeeName>
+      <recipientName>Thomas Carper</recipientName>
+      <amount>1000</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Entergy Corporation PAC (ENPAC)</contributorName>
+      <payeeName>Congressional Black Caucus PAC</payeeName>
+      <recipientName>Congressional Black Caucus PAC</recipientName>
+      <amount>5000.00</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Entergy Corporation PAC (ENPAC)</contributorName>
+      <payeeName>French Hill For Arkansas</payeeName>
+      <recipientName>French Hill</recipientName>
+      <amount>1000</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Entergy Corporation PAC (ENPAC)</contributorName>
+      <payeeName>Garret Graves For Congress</payeeName>
+      <recipientName>Garret Graves</recipientName>
+      <amount>5000</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Entergy Corporation PAC (ENPAC)</contributorName>
+      <payeeName>Garret Graves For Congress</payeeName>
+      <recipientName>Garret Graves</recipientName>
+      <amount>2500</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Entergy Corporation PAC (ENPAC)</contributorName>
+      <payeeName>Friends Of Mark Warner</payeeName>
+      <recipientName>Mark Warner</recipientName>
+      <amount>1000</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Entergy Corporation PAC (ENPAC)</contributorName>
+      <payeeName>Upton For All Of Us</payeeName>
+      <recipientName>Frederick Upton</recipientName>
+      <amount>1000</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Entergy Corporation PAC (ENPAC)</contributorName>
+      <payeeName>Dr. Brian Babin For Congress</payeeName>
+      <recipientName>Brian Babin</recipientName>
+      <amount>1000</amount>
+      <date>9/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Entergy Corporation PAC (ENPAC)</contributorName>
+      <payeeName>Friends Of Michael Guest</payeeName>
+      <recipientName>Michael Guest</recipientName>
+      <amount>1000</amount>
+      <date>8/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Entergy Corporation PAC (ENPAC)</contributorName>
+      <payeeName>The Eye of the Tiger PAC</payeeName>
+      <recipientName>Steve Scalise</recipientName>
+      <amount>5000.00</amount>
+      <date>8/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Entergy Corporation PAC (ENPAC)</contributorName>
+      <payeeName>Kirkpatrick For Congress</payeeName>
+      <recipientName>Ann Kirkpatrick</recipientName>
+      <amount>1000</amount>
+      <date>8/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Entergy Corporation PAC (ENPAC)</contributorName>
+      <payeeName>Sylvia Garcia For Congress</payeeName>
+      <recipientName>Sylvia Garcia</recipientName>
+      <amount>1000</amount>
+      <date>8/1/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Entergy Corporation PAC (ENPAC)</contributorName>
+      <payeeName>Friends Of Cheri Bustos</payeeName>
+      <recipientName>Cheri Bustos</recipientName>
+      <amount>1000</amount>
+      <date>8/1/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Entergy Corporation PAC (ENPAC)</contributorName>
+      <payeeName>French Hill For Arkansas</payeeName>
+      <recipientName>French Hill</recipientName>
+      <amount>1000</amount>
+      <date>8/1/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Entergy Corporation PAC (ENPAC)</contributorName>
+      <payeeName>Marcia Fudge For Congress</payeeName>
+      <recipientName>Marcia Fudge</recipientName>
+      <amount>1000</amount>
+      <date>8/1/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Entergy Corporation PAC (ENPAC)</contributorName>
+      <payeeName>Castor For Congress</payeeName>
+      <recipientName>Kathy Castor</recipientName>
+      <amount>1000</amount>
+      <date>8/1/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Entergy Corporation PAC (ENPAC)</contributorName>
+      <payeeName>Cummings For Congress Campaign Committee</payeeName>
+      <recipientName>Elijah Cummings</recipientName>
+      <amount>1000</amount>
+      <date>8/1/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Entergy Corporation PAC (ENPAC)</contributorName>
+      <payeeName>MODERATE DEMOCRATS PAC</payeeName>
+      <recipientName>MODERATE DEMOCRATS PAC</recipientName>
+      <amount>5000</amount>
+      <date>7/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Entergy Corporation PAC (ENPAC)</contributorName>
+      <payeeName>Friends Of Ben McAdams</payeeName>
+      <recipientName>Ben McAdams</recipientName>
+      <amount>2500.00</amount>
+      <date>7/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Entergy Corporation PAC (ENPAC)</contributorName>
+      <payeeName>Buddy Carter For Congress</payeeName>
+      <recipientName>Buddy Carter</recipientName>
+      <amount>1000</amount>
+      <date>7/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Entergy Corporation PAC (ENPAC)</contributorName>
+      <payeeName>RFWPAC</payeeName>
+      <recipientName>Roger Wicker</recipientName>
+      <amount>1500</amount>
+      <date>7/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Entergy Corporation PAC (ENPAC)</contributorName>
+      <payeeName>Richard E Neal For Congress Committee</payeeName>
+      <recipientName>Richard Neal</recipientName>
+      <amount>3500</amount>
+      <date>7/10/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

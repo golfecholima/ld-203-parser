@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>Ogilvy Government Relations</organizationName>
+  <lobbyistPrefix>Mr.</lobbyistPrefix>
+  <lobbyistFirstName>MOSES</lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>MERCADO</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>48827</senateRegID>
+  <houseRegID>34528</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/29/2020 12:26:21 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Horn for Congress</payeeName>
+      <recipientName>Congresswoman Horn</recipientName>
+      <amount>1000.00</amount>
+      <date>09/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Espaillat for Congress</payeeName>
+      <recipientName>Congressman Espaillat</recipientName>
+      <amount>500.00</amount>
+      <date>09/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Vaqero Pac</payeeName>
+      <recipientName>Congressman Fil Vela</recipientName>
+      <amount>1000.00</amount>
+      <date>09/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>A lot of People for Grijalva</payeeName>
+      <recipientName>Congressman Raul Grijalva</recipientName>
+      <amount>500.00</amount>
+      <date>09/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Horsford for Congress</payeeName>
+      <recipientName>Congressman Horsford</recipientName>
+      <amount>500.00</amount>
+      <date>09/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Lujan for Congress</payeeName>
+      <recipientName>Congressman Ben Ray for Congress</recipientName>
+      <amount>1000.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Cardenas for Congress</payeeName>
+      <recipientName>Congressman Tony Cardenas</recipientName>
+      <amount>1000.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Brown for Congress</payeeName>
+      <recipientName>Congressman Anthony Brown</recipientName>
+      <amount>500.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Vaquero Pac</payeeName>
+      <recipientName>Congressman Fil Vela</recipientName>
+      <amount>2500.00</amount>
+      <date>11/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Gallego for Congress</payeeName>
+      <recipientName>Congressman Ruben Gallego</recipientName>
+      <amount>2000.00</amount>
+      <date>11/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Debbie Wasserman Schultz for Congress</payeeName>
+      <recipientName>Congresswoman Debbie Wasserman Schultz</recipientName>
+      <amount>1000.00</amount>
+      <date>11/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Richmond for Congress</payeeName>
+      <recipientName>Congressman Cedric Richmond</recipientName>
+      <amount>500.00</amount>
+      <date>11/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Cuellar for Congress</payeeName>
+      <recipientName>Congressman Henry Cuellar</recipientName>
+      <amount>1000.00</amount>
+      <date>11/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Gomez for Congress</payeeName>
+      <recipientName>Federal Candidate Georgette Gomez</recipientName>
+      <amount>1000.00</amount>
+      <date>12/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Lucille Roybal Allard for congress</payeeName>
+      <recipientName>Congresswoman Lucille Roybal Allard</recipientName>
+      <amount>1000.00</amount>
+      <date>12/25/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

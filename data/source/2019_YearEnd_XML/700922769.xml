@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>AMERICAN SOYBEAN ASSOCIATION</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>Trevor M. Stanley</contactName>
+  <senateRegID>401105471</senateRegID>
+  <houseRegID>44603</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/29/2020 9:55:52 AM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>American Soybean Association PAC (SOYPAC)</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Soybean Association PAC (SOYPAC)</contributorName>
+      <payeeName>KANSANS FOR MARSHALL 
+</payeeName>
+      <recipientName>The Honorable Roger W. Marshall
+</recipientName>
+      <amount>1000.00</amount>
+      <date>7/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Soybean Association PAC (SOYPAC)</contributorName>
+      <payeeName>JASON SMITH FOR CONGRESS 
+</payeeName>
+      <recipientName>The Honorable Jason T. Smith
+</recipientName>
+      <amount>1000.00</amount>
+      <date>7/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Soybean Association PAC (SOYPAC)</contributorName>
+      <payeeName>COMER FOR CONGRESS 
+</payeeName>
+      <recipientName>The Honorable James Comer
+</recipientName>
+      <amount>1000.00</amount>
+      <date>7/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Soybean Association PAC (SOYPAC)</contributorName>
+      <payeeName>GUTHRIE FOR CONGRESS 
+</payeeName>
+      <recipientName>The Honorable S. Brett Guthrie
+</recipientName>
+      <amount>1000.00</amount>
+      <date>7/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Soybean Association PAC (SOYPAC)</contributorName>
+      <payeeName>GIBBS FOR CONGRESS 
+</payeeName>
+      <recipientName>The Honorable Robert Gibbs
+</recipientName>
+      <amount>1000.00</amount>
+      <date>8/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Soybean Association PAC (SOYPAC)</contributorName>
+      <payeeName>KANSANS FOR MARSHALL 
+</payeeName>
+      <recipientName>The Honorable Roger W. Marshall
+</recipientName>
+      <amount>1000.00</amount>
+      <date>8/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Soybean Association PAC (SOYPAC)</contributorName>
+      <payeeName>RICHARD E NEAL FOR CONGRESS COMMITTEE 
+</payeeName>
+      <recipientName>The Honorable Richard E. Neal
+</recipientName>
+      <amount>2500.00</amount>
+      <date>8/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Soybean Association PAC (SOYPAC)</contributorName>
+      <payeeName>PETERSON FOR CONGRESS 
+</payeeName>
+      <recipientName>The Honorable Collin Clark Peterson
+</recipientName>
+      <amount>2500.00</amount>
+      <date>8/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Soybean Association PAC (SOYPAC)</contributorName>
+      <payeeName>DAVID ROUZER FOR CONGRESS 
+</payeeName>
+      <recipientName>The Honorable David Cheston Rouzer
+</recipientName>
+      <amount>1000.00</amount>
+      <date>8/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Soybean Association PAC (SOYPAC)</contributorName>
+      <payeeName>ADRIAN SMITH FOR CONGRESS 
+</payeeName>
+      <recipientName>The Honorable Adrian Smith
+</recipientName>
+      <amount>1000.00</amount>
+      <date>8/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Soybean Association PAC (SOYPAC)</contributorName>
+      <payeeName>CINDY AXNE FOR CONGRESS 
+</payeeName>
+      <recipientName>The Honorable Cindy Axne
+</recipientName>
+      <amount>1000.00</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Soybean Association PAC (SOYPAC)</contributorName>
+      <payeeName>GRASSLEY HAWKEYE FUND
+</payeeName>
+      <recipientName>The Honorable Charles E. Grassley
+</recipientName>
+      <amount>1000.00</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Soybean Association PAC (SOYPAC)</contributorName>
+      <payeeName>FRIENDS OF HAGEDORN 
+</payeeName>
+      <recipientName>The Honorable James Hagedorn
+</recipientName>
+      <amount>1000.00</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Soybean Association PAC (SOYPAC)</contributorName>
+      <payeeName>FRIENDS OF DUSTY JOHNSON 
+</payeeName>
+      <recipientName>The Honorable Dusty Johnson
+</recipientName>
+      <amount>1000.00</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Soybean Association PAC (SOYPAC)</contributorName>
+      <payeeName>KELLY FOR CONGRESS 
+</payeeName>
+      <recipientName>The Honorable John Trent Kelly
+</recipientName>
+      <amount>1000.00</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Soybean Association PAC (SOYPAC)</contributorName>
+      <payeeName>MIKE BOST FOR CONGRESS COMMITTEE 
+</payeeName>
+      <recipientName>The Honorable Michael Bost
+</recipientName>
+      <amount>1000.00</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Soybean Association PAC (SOYPAC)</contributorName>
+      <payeeName>ERNST VICTORY
+</payeeName>
+      <recipientName>The Honorable Joni K. Ernst
+</recipientName>
+      <amount>1000.00</amount>
+      <date>10/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Soybean Association PAC (SOYPAC)</contributorName>
+      <payeeName>ARMSTRONG FOR CONGRESS 
+</payeeName>
+      <recipientName>The Honorable Kelly Armstrong
+</recipientName>
+      <amount>1000.00</amount>
+      <date>10/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Soybean Association PAC (SOYPAC)</contributorName>
+      <payeeName>DON BACON FOR CONGRESS 
+</payeeName>
+      <recipientName>The Honorable Donald J. Bacon
+</recipientName>
+      <amount>1000.00</amount>
+      <date>10/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Soybean Association PAC (SOYPAC)</contributorName>
+      <payeeName>TAMMY BALDWIN FOR SENATE 
+</payeeName>
+      <recipientName>The Honorable Tammy Baldwin
+</recipientName>
+      <amount>1000.00</amount>
+      <date>10/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Soybean Association PAC (SOYPAC)</contributorName>
+      <payeeName>CLEAVER FOR CONGRESS 
+</payeeName>
+      <recipientName>The Honorable Emanuel Cleaver II
+</recipientName>
+      <amount>1000.00</amount>
+      <date>10/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Soybean Association PAC (SOYPAC)</contributorName>
+      <payeeName>COMER FOR CONGRESS 
+</payeeName>
+      <recipientName>The Honorable James Comer
+</recipientName>
+      <amount>1000.00</amount>
+      <date>10/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Soybean Association PAC (SOYPAC)</contributorName>
+      <payeeName>CRAWFORD FOR CONGRESS 
+</payeeName>
+      <recipientName>The Honorable Eric Alan Crawford
+</recipientName>
+      <amount>1000.00</amount>
+      <date>10/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Soybean Association PAC (SOYPAC)</contributorName>
+      <payeeName>RODNEY FOR CONGRESS 
+</payeeName>
+      <recipientName>The Honorable Rodney L. Davis
+</recipientName>
+      <amount>2000.00</amount>
+      <date>10/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Soybean Association PAC (SOYPAC)</contributorName>
+      <payeeName>MARCIA FUDGE FOR CONGRESS 
+</payeeName>
+      <recipientName>The Honorable Marcia L. Fudge
+</recipientName>
+      <amount>1000.00</amount>
+      <date>10/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Soybean Association PAC (SOYPAC)</contributorName>
+      <payeeName>JOSH HAWLEY FOR SENATE 
+</payeeName>
+      <recipientName>The Honorable Joshua David Hawley
+</recipientName>
+      <amount>1000.00</amount>
+      <date>10/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Soybean Association PAC (SOYPAC)</contributorName>
+      <payeeName>TREY FOR CONGRESS 
+</payeeName>
+      <recipientName>The Honorable Trey Hollingsworth
+</recipientName>
+      <amount>1000.00</amount>
+      <date>10/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Soybean Association PAC (SOYPAC)</contributorName>
+      <payeeName>CINDY HYDE-SMITH FOR US SENATE 
+</payeeName>
+      <recipientName>The Honorable Cindy Hyde-Smith
+</recipientName>
+      <amount>2000.00</amount>
+      <date>10/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Soybean Association PAC (SOYPAC)</contributorName>
+      <payeeName>KIND FOR CONGRESS COMMITTEE 
+</payeeName>
+      <recipientName>The Honorable Ronald James Kind
+</recipientName>
+      <amount>1000.00</amount>
+      <date>10/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Soybean Association PAC (SOYPAC)</contributorName>
+      <payeeName>LAHOOD FOR CONGRESS 
+</payeeName>
+      <recipientName>The Honorable Darin McKay LaHood
+</recipientName>
+      <amount>1000.00</amount>
+      <date>10/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Soybean Association PAC (SOYPAC)</contributorName>
+      <payeeName>ADRIAN SMITH FOR CONGRESS 
+</payeeName>
+      <recipientName>The Honorable Adrian Smith
+</recipientName>
+      <amount>1000.00</amount>
+      <date>10/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Soybean Association PAC (SOYPAC)</contributorName>
+      <payeeName>WALORSKI FOR CONGRESS INC 
+</payeeName>
+      <recipientName>The Honorable Jackie Walorski Swihart
+</recipientName>
+      <amount>1000.00</amount>
+      <date>10/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Soybean Association PAC (SOYPAC)</contributorName>
+      <payeeName>ERNST VICTORY
+</payeeName>
+      <recipientName>The Honorable Joni K. Ernst
+</recipientName>
+      <amount>2500.00</amount>
+      <date>11/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Soybean Association PAC (SOYPAC)</contributorName>
+      <payeeName>ANGIE CRAIG FOR CONGRESS 
+</payeeName>
+      <recipientName>The Honorable Angela Dawn Craig
+</recipientName>
+      <amount>2000.00</amount>
+      <date>12/2/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Soybean Association PAC (SOYPAC)</contributorName>
+      <payeeName>FRIENDS OF DICK DURBIN COMMITTEE 
+</payeeName>
+      <recipientName>The Honorable Richard J Durbin
+</recipientName>
+      <amount>1500.00</amount>
+      <date>12/2/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Soybean Association PAC (SOYPAC)</contributorName>
+      <payeeName>GREG PENCE FOR CONGRESS 
+</payeeName>
+      <recipientName>The Honorable Gregory J. Pence
+</recipientName>
+      <amount>1000.00</amount>
+      <date>12/2/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Soybean Association PAC (SOYPAC)</contributorName>
+      <payeeName>ARKANSAS FOR LEADERSHIP POLITICAL ACTION COMMITTEE
+</payeeName>
+      <recipientName>The Honorable John Boozman
+</recipientName>
+      <amount>1000.00</amount>
+      <date>12/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Soybean Association PAC (SOYPAC)</contributorName>
+      <payeeName>DAKOTA PAC
+</payeeName>
+      <recipientName>The Honorable John Hoeven
+</recipientName>
+      <amount>1500.00</amount>
+      <date>12/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Soybean Association PAC (SOYPAC)</contributorName>
+      <payeeName>FRIENDS OF ROY BLUNT 
+</payeeName>
+      <recipientName>The Honorable Roy Blunt
+</recipientName>
+      <amount>1000.00</amount>
+      <date>12/3/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

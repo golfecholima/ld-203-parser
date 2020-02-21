@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>Sullivan Strategies (FKA SB Capitol Solutions)</organizationName>
+  <lobbyistPrefix>Ms.</lobbyistPrefix>
+  <lobbyistFirstName>Suzanne</lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>Sullivan</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>401103503</senateRegID>
+  <houseRegID>42773</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/26/2020 11:15:34 AM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Brownley for Congress</payeeName>
+      <recipientName>Rep. Julia Brownley</recipientName>
+      <amount>2000.00</amount>
+      <date>07/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Bustos for Congress</payeeName>
+      <recipientName>Rep. Cheri Bustos</recipientName>
+      <amount>2000.00</amount>
+      <date>07/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>McGovern for Congress</payeeName>
+      <recipientName>Rep. Jim McGovern</recipientName>
+      <amount>1000.00</amount>
+      <date>07/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>DeFazio for Congress</payeeName>
+      <recipientName>Rep. Peter DeFazio</recipientName>
+      <amount>800.00</amount>
+      <date>09/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Dan Lipinski for Congress</payeeName>
+      <recipientName>Rep. Dan Lipinski</recipientName>
+      <amount>1200.00</amount>
+      <date>09/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Schrader for Congress</payeeName>
+      <recipientName>Rep. Kurt Schrader</recipientName>
+      <amount>500.00</amount>
+      <date>09/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Davids for Congress</payeeName>
+      <recipientName>Rep. Sharice Davids </recipientName>
+      <amount>1000.00</amount>
+      <date>10/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Pappas for Congress</payeeName>
+      <recipientName>Rep. Chris Pappas</recipientName>
+      <amount>500.00</amount>
+      <date>11/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Horsford for Congress</payeeName>
+      <recipientName>Rep. Steven Horsford</recipientName>
+      <amount>500.00</amount>
+      <date>11/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Andy Levin for Congress</payeeName>
+      <recipientName>Rep. Andy Levin</recipientName>
+      <amount>1000.00</amount>
+      <date>12/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Committee for Leadership and Progress</payeeName>
+      <recipientName>Rep. Nita Lowey</recipientName>
+      <amount>1500.00</amount>
+      <date>09/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Raja for Congress</payeeName>
+      <recipientName>Rep. Raja Krishnamoorthi</recipientName>
+      <amount>500.00</amount>
+      <date>12/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Huffstetler for Congress</payeeName>
+      <recipientName>Mr. Roger Dean Huffstetler</recipientName>
+      <amount>1500.00</amount>
+      <date>12/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Allred for Congress</payeeName>
+      <recipientName>Rep. Colin Allred</recipientName>
+      <amount>1000.00</amount>
+      <date>09/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Equality PAC</payeeName>
+      <recipientName>Equality PAC</recipientName>
+      <amount>250.00</amount>
+      <date>10/17/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>SANDLER, TRAVIS &amp; ROSENBERG, P.A.</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>David Cohen</contactName>
+  <senateRegID>34295</senateRegID>
+  <houseRegID>30127</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/30/2020 4:20:30 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>SANDLER, TRAVIS &amp; ROSENBERG, P.A. POLITICAL ACTION COMMITTEE</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>SANDLER, TRAVIS &amp; ROSENBERG, P.A. POLITICAL ACTION COMMITTEE</contributorName>
+      <payeeName>Texans for Senator John Cornyn</payeeName>
+      <recipientName>Texans for Senator John Cornyn</recipientName>
+      <amount>1000.00</amount>
+      <date>09/03/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>SANDLER, TRAVIS &amp; ROSENBERG, P.A. POLITICAL ACTION COMMITTEE</contributorName>
+      <payeeName>Kind for Congress</payeeName>
+      <recipientName>Kind for Congress</recipientName>
+      <amount>1000.00</amount>
+      <date>11/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>SANDLER, TRAVIS &amp; ROSENBERG, P.A. POLITICAL ACTION COMMITTEE</contributorName>
+      <payeeName>Texans for Jodey Arrington</payeeName>
+      <recipientName>Texans for Jodey Arrington</recipientName>
+      <amount>1000.00</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>SANDLER, TRAVIS &amp; ROSENBERG, P.A. POLITICAL ACTION COMMITTEE</contributorName>
+      <payeeName>Wenstrup for Congress</payeeName>
+      <recipientName>Wenstrup for Congress</recipientName>
+      <amount>1000.00</amount>
+      <date>12/11/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

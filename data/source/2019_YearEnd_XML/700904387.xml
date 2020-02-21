@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>Neale Creek, LLC</organizationName>
+  <lobbyistPrefix>Mr.</lobbyistPrefix>
+  <lobbyistFirstName>Andrew</lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>King</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>401104475</senateRegID>
+  <houseRegID>43661</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>Andrew King is Co-Founder and Treasurer of the 150 PAC.</comments>
+  <signedDate>1/8/2020 3:40:58 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>150PAC.org</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Liz Cheney for Wyoming</payeeName>
+      <recipientName>Rep. Liz Cheney</recipientName>
+      <amount>1000.00</amount>
+      <date>7/25/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Ted Cruz Victory PAC</payeeName>
+      <recipientName>Ted Cruz Victory PAC</recipientName>
+      <amount>2500.00</amount>
+      <date>9/19/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Friends of Todd Young</payeeName>
+      <recipientName>Rep. Todd Young</recipientName>
+      <amount>1000.00</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Mike Gallagher for Wisconsin</payeeName>
+      <recipientName>Mike Gallager</recipientName>
+      <amount>500.00</amount>
+      <date>9/24/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Stand with Ted</payeeName>
+      <recipientName>Rep. Ted Yoho</recipientName>
+      <amount>1500.00</amount>
+      <date>9/27/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Fund for Americas Future</payeeName>
+      <recipientName>Fund for Americas Future</recipientName>
+      <amount>2500.00</amount>
+      <date>10/3/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Chris Coons for Senate</payeeName>
+      <recipientName>Sen.Chris Coons</recipientName>
+      <amount>1000.00</amount>
+      <date>10/20/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Josh Hawley for Senate</payeeName>
+      <recipientName>Sen.Josh Hawley</recipientName>
+      <amount>1000.00</amount>
+      <date>10/30/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Mast for Congress </payeeName>
+      <recipientName>Rep.Brian Mast</recipientName>
+      <amount>500.00</amount>
+      <date>11/15/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>LaHood for Congress</payeeName>
+      <recipientName>Rep. Darin LaHood</recipientName>
+      <amount>1000.00</amount>
+      <date>11/18/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Families for Lankford</payeeName>
+      <recipientName>Sen.James Lankford</recipientName>
+      <amount>500.00</amount>
+      <date>12/9/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Kay Granger for Congress</payeeName>
+      <recipientName>Rep.Kay Granger</recipientName>
+      <amount>1000.00</amount>
+      <date>12/17/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>150PAC.org</contributorName>
+      <payeeName>Chrissy Houlahan for Congress</payeeName>
+      <recipientName>Rep.Chrissy Houlahan</recipientName>
+      <amount>1000.00</amount>
+      <date>9/11/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>150PAC.org</contributorName>
+      <payeeName>Mike Gallagher for Wisconsin</payeeName>
+      <recipientName>Rep.Mike Gallagher</recipientName>
+      <amount>1000.00</amount>
+      <date>9/24/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>150PAC.org</contributorName>
+      <payeeName>Steve Daines for Montana</payeeName>
+      <recipientName>Sen.Steve Daines</recipientName>
+      <amount>1000.00</amount>
+      <date>9/24/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>150PAC.org</contributorName>
+      <payeeName>Ted Yoho for Congress</payeeName>
+      <recipientName>Rep.Ted Yoho</recipientName>
+      <amount>1000.00</amount>
+      <date>9/27/19</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

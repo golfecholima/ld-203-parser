@@ -1,0 +1,2872 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>Northrop Grumman Corporation</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>Gabrielle Batkin</contactName>
+  <senateRegID>29551</senateRegID>
+  <houseRegID>31641</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/29/2020 4:49:30 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>Employees of Northrop Grumman Corporation PAC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Devin Nunes Campaign Committee</payeeName>
+      <recipientName>Representative Devin Nunes (R-CA)</recipientName>
+      <amount>2500</amount>
+      <date>07/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Collins for Congress</payeeName>
+      <recipientName>Representative Douglas Collins (R-GA)</recipientName>
+      <amount>2000</amount>
+      <date>07/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Bonamici for Congress</payeeName>
+      <recipientName>Representative Suzanne Bonamici (D-OR)</recipientName>
+      <amount>1000</amount>
+      <date>07/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Graves for Congress</payeeName>
+      <recipientName>Representative Sam Graves (R-MO)</recipientName>
+      <amount>1000</amount>
+      <date>07/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Steve Chabot for Congress</payeeName>
+      <recipientName>Representative Steve Chabot (R-OH)</recipientName>
+      <amount>1000</amount>
+      <date>07/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Friends of Raja for Congress</payeeName>
+      <recipientName>Representative Raja Krishnamoorthi (D-IL)</recipientName>
+      <amount>1000</amount>
+      <date>07/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Cartwright for Congress</payeeName>
+      <recipientName>Representative Matthew Cartwright (D-PA)</recipientName>
+      <amount>2500</amount>
+      <date>07/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Captain Higgins for Congress</payeeName>
+      <recipientName>Representative Clay Higgins (R-LA)</recipientName>
+      <amount>5000</amount>
+      <date>07/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Together Everyone Realizes Real Impact PAC</payeeName>
+      <recipientName>Representative Terri Sewell (D-AL)</recipientName>
+      <amount>5000</amount>
+      <date>07/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Country Roads PAC</payeeName>
+      <recipientName>Senator John McCain (R-AZ)</recipientName>
+      <amount>2500</amount>
+      <date>07/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Arkansas for Leadership Political Action Committee</payeeName>
+      <recipientName>Senator John Boozman (R-AR)</recipientName>
+      <amount>2500</amount>
+      <date>07/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Promoting Our Republican Team PAC</payeeName>
+      <recipientName>Senator Rob Portman (R-OH)</recipientName>
+      <amount>1500</amount>
+      <date>07/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Barragan for Congress</payeeName>
+      <recipientName>Representative Nanette Barragan (D-CA)</recipientName>
+      <amount>2500</amount>
+      <date>07/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Loudermilk for Congress</payeeName>
+      <recipientName>Representative Barry Loudermilk (R-GA)</recipientName>
+      <amount>2500</amount>
+      <date>07/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Cartwright for Congress</payeeName>
+      <recipientName>Representative Matthew Cartwright (D-PA)</recipientName>
+      <amount>2500</amount>
+      <date>07/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Graves for Congress</payeeName>
+      <recipientName>Representative Sam Graves (R-MO)</recipientName>
+      <amount>1500</amount>
+      <date>07/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Friends of Raja for Congress</payeeName>
+      <recipientName>Representative Raja Krishnamoorthi (D-IL)</recipientName>
+      <amount>1500</amount>
+      <date>07/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Donna Shalala for Congress</payeeName>
+      <recipientName>Representative Donna Shalala (D-FL)</recipientName>
+      <amount>2000</amount>
+      <date>07/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Capito for West Virginia</payeeName>
+      <recipientName>Senator Shelley Moore Capito (R-WV)</recipientName>
+      <amount>1000</amount>
+      <date>07/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Tina Smith for Minnesota</payeeName>
+      <recipientName>Senator Tina Smith (D-MN)</recipientName>
+      <amount>2500</amount>
+      <date>07/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>David Schweikert for Congress</payeeName>
+      <recipientName>Representative David Schweikert (R-AZ)</recipientName>
+      <amount>1000</amount>
+      <date>07/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Cummings for Congress Campaign Committee</payeeName>
+      <recipientName>Representative Elijah Cummings (D-MD)</recipientName>
+      <amount>2500</amount>
+      <date>07/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Pete Aguilar for Congress</payeeName>
+      <recipientName>Representative Pete Aguilar (D-CA)</recipientName>
+      <amount>5000</amount>
+      <date>07/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Vargas for Congress</payeeName>
+      <recipientName>Representative Juan Vargas (D-CA)</recipientName>
+      <amount>2500</amount>
+      <date>07/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Billy Long for Congress</payeeName>
+      <recipientName>Representative Billy Long (R-MO)</recipientName>
+      <amount>2500</amount>
+      <date>07/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>LEGPAC</payeeName>
+      <recipientName>Senator Ben Cardin (D-MD)</recipientName>
+      <amount>5000</amount>
+      <date>07/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Bridge the Gap PAC</payeeName>
+      <recipientName>Representative Brad Schneider (D-IL)</recipientName>
+      <amount>2500</amount>
+      <date>07/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>MARSHA PAC</payeeName>
+      <recipientName>Senator Marsha Blackburn (R-TN)</recipientName>
+      <amount>2500</amount>
+      <date>07/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Nebraska Sandhills PAC</payeeName>
+      <recipientName>Senator Deb Fischer (R-NE)</recipientName>
+      <amount>2500</amount>
+      <date>07/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Friends of Cheri Bustos</payeeName>
+      <recipientName>Representative Cheri Bustos (D-IL)</recipientName>
+      <amount>2500</amount>
+      <date>07/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Courtney for Congress</payeeName>
+      <recipientName>Representative Joe Courtney (D-CT)</recipientName>
+      <amount>2500</amount>
+      <date>07/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Kay Granger Campaign Fund</payeeName>
+      <recipientName>Representative Kay Granger (R-TX)</recipientName>
+      <amount>1500</amount>
+      <date>07/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Kirkpatrick for Arizona</payeeName>
+      <recipientName>Representative Ann Kirkpatrick (D-AZ)</recipientName>
+      <amount>1500</amount>
+      <date>07/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Dr Brian Babin for Congress</payeeName>
+      <recipientName>Representative Brian Babin (R-TX)</recipientName>
+      <amount>500</amount>
+      <date>07/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Friends of Jim Clyburn</payeeName>
+      <recipientName>Representative James Clyburn (D-SC)</recipientName>
+      <amount>2500</amount>
+      <date>07/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Dr Brian Babin for Congress</payeeName>
+      <recipientName>Representative Brian Babin (R-TX)</recipientName>
+      <amount>2000</amount>
+      <date>07/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Case for Congress</payeeName>
+      <recipientName>Representative Ed Case (D-HI)</recipientName>
+      <amount>2500</amount>
+      <date>07/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Carper for Senate</payeeName>
+      <recipientName>Senator Tom Carper (D-DE)</recipientName>
+      <amount>1000</amount>
+      <date>07/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Team Graham Inc.</payeeName>
+      <recipientName>Senator Lindsey Graham (R-SC)</recipientName>
+      <amount>2500</amount>
+      <date>07/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Jim Banks for Congress Inc.</payeeName>
+      <recipientName>Representative Jim Banks (R-IN)</recipientName>
+      <amount>1500</amount>
+      <date>07/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Ralph Abraham for Congress</payeeName>
+      <recipientName>Representative Ralph Abraham (R-LA)</recipientName>
+      <amount>2500</amount>
+      <date>07/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Defend America PAC</payeeName>
+      <recipientName>Senator Richard Shelby (R-AL)</recipientName>
+      <amount>5000</amount>
+      <date>07/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>The Winner's Circle Political Action Committee</payeeName>
+      <recipientName>Representative Eddie Bernice Johnson (D-TX)</recipientName>
+      <amount>5000</amount>
+      <date>07/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Donald Norcross for Congress</payeeName>
+      <recipientName>Representative Donald Norcross (D-NJ)</recipientName>
+      <amount>5000</amount>
+      <date>07/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Mikie Sherrill for Congress</payeeName>
+      <recipientName>Representative Mikie Sherrill (D-NJ)</recipientName>
+      <amount>1000</amount>
+      <date>07/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>McEachin for Congress</payeeName>
+      <recipientName>Representative Donald McEachin (D-VA)</recipientName>
+      <amount>2500</amount>
+      <date>07/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Val Demings for Congress</payeeName>
+      <recipientName>Representative Val Demings (D-FL)</recipientName>
+      <amount>1000</amount>
+      <date>07/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Balderson for Congress</payeeName>
+      <recipientName>Representative Troy Balderson (R-OH)</recipientName>
+      <amount>1000</amount>
+      <date>07/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>The Bill Keating Committee</payeeName>
+      <recipientName>Representative Bill Keating (D-MA)</recipientName>
+      <amount>2500</amount>
+      <date>08/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Susan Davis for Congress</payeeName>
+      <recipientName>Representative Susan Davis (D-CA)</recipientName>
+      <amount>2500</amount>
+      <date>08/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Lucas for Congress</payeeName>
+      <recipientName>Representative Frank Lucas (R-OK)</recipientName>
+      <amount>1000</amount>
+      <date>08/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Maintaining All Republicans in Office PAC</payeeName>
+      <recipientName>Senator Mario Diaz-Balart (R-FL)</recipientName>
+      <amount>2500</amount>
+      <date>08/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>MAD 4 PA PAC</payeeName>
+      <recipientName>Representative Madeleine Dean (D-PA)</recipientName>
+      <amount>1000</amount>
+      <date>08/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Susan Davis for Congress</payeeName>
+      <recipientName>Representative Susan Davis (D-CA)</recipientName>
+      <amount>2500</amount>
+      <date>08/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Mike Rogers for Congress</payeeName>
+      <recipientName>Representative Mike Rogers (R-AL)</recipientName>
+      <amount>1500</amount>
+      <date>08/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Larson For Congress</payeeName>
+      <recipientName>Representative John Larson (D-CT)</recipientName>
+      <amount>-2500</amount>
+      <date>08/07/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Elise for Congress</payeeName>
+      <recipientName>Representative Elise Stefanik (R-NY)</recipientName>
+      <amount>3000</amount>
+      <date>08/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Schiff for Congress</payeeName>
+      <recipientName>Representative Adam Schiff (D-CA)</recipientName>
+      <amount>2500</amount>
+      <date>08/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Committee for Leadership And Progress</payeeName>
+      <recipientName>Senator Nita M. Lowey (D-NY)</recipientName>
+      <amount>2500</amount>
+      <date>08/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Heartland Values PAC</payeeName>
+      <recipientName>Senator John Thune (R-SC)</recipientName>
+      <amount>3500</amount>
+      <date>08/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Larson For Congress</payeeName>
+      <recipientName>Representative John Larson (D-CT)</recipientName>
+      <amount>2500</amount>
+      <date>08/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Perlmutter for Congress</payeeName>
+      <recipientName>Representative Ed Perlmutter (D-CO)</recipientName>
+      <amount>2500</amount>
+      <date>08/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Kathleen Rice for Congress</payeeName>
+      <recipientName>Representative Kathleen Rice (D-NY)</recipientName>
+      <amount>2500</amount>
+      <date>09/03/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Josh Gottheimer for Congress</payeeName>
+      <recipientName>Representative Josh Gottheimer (D-NJ)</recipientName>
+      <amount>2500</amount>
+      <date>09/03/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Friends of Hagedorn</payeeName>
+      <recipientName>Representative Jim Hagedorn (R-MN)</recipientName>
+      <amount>2000</amount>
+      <date>09/03/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Texans for Henry Cuellar Congressional Campaign</payeeName>
+      <recipientName>Representative Henry Cuellar (D-TX)</recipientName>
+      <amount>2500</amount>
+      <date>09/03/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Cleaver for Congress</payeeName>
+      <recipientName>Representative Emanuel Cleaver (D-MO)</recipientName>
+      <amount>2500</amount>
+      <date>09/03/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Getting Stuff Done PAC</payeeName>
+      <recipientName>Senator Kyrsten Sinema (D-AZ)</recipientName>
+      <amount>5000</amount>
+      <date>09/03/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Perimeter PAC</payeeName>
+      <recipientName>Senator Tammy Duckworth (D-IL)</recipientName>
+      <amount>2500</amount>
+      <date>09/03/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Committee for Leadership And Progress</payeeName>
+      <recipientName>Senator Nita M. Lowey (D-NY)</recipientName>
+      <amount>2500</amount>
+      <date>09/03/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Adam Smith for Congress Committee</payeeName>
+      <recipientName>Representative Adam Smith (D-WA)</recipientName>
+      <amount>1000</amount>
+      <date>09/03/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Lucas for Congress</payeeName>
+      <recipientName>Representative Frank Lucas (R-OK)</recipientName>
+      <amount>1500</amount>
+      <date>09/03/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>McEachin for Congress</payeeName>
+      <recipientName>Representative Donald McEachin (D-VA)</recipientName>
+      <amount>1000</amount>
+      <date>09/03/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Kind for Congress Committee</payeeName>
+      <recipientName>Representative Ron Kind (D-WI)</recipientName>
+      <amount>5000</amount>
+      <date>09/03/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Mike Johnson for Louisiana</payeeName>
+      <recipientName>Representative Mike Johnson (R-LA)</recipientName>
+      <amount>2500</amount>
+      <date>09/03/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Schneider for Congress</payeeName>
+      <recipientName>Representative Brad Schneider (D-IL)</recipientName>
+      <amount>5000</amount>
+      <date>09/03/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Visclosky for Congress</payeeName>
+      <recipientName>Representative Pete Visclosky (D-IN)</recipientName>
+      <amount>1000</amount>
+      <date>09/03/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Kaptur for Congress</payeeName>
+      <recipientName>Representative Marcy Kaptur (D-OH)</recipientName>
+      <amount>1000</amount>
+      <date>09/03/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Nita Lowey for Congress</payeeName>
+      <recipientName>Representative Nita Lowey (D-NY)</recipientName>
+      <amount>4000</amount>
+      <date>09/03/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Maggie Hassan for NH</payeeName>
+      <recipientName>Representative Maggie Hassan (D-NH)</recipientName>
+      <amount>1000</amount>
+      <date>09/03/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Friends of Pat Toomey</payeeName>
+      <recipientName>Senator Pat Toomey (R-PA)</recipientName>
+      <amount>1000</amount>
+      <date>09/03/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Thom Tillis Committee</payeeName>
+      <recipientName>Senator Thom Tillis (R-NC)</recipientName>
+      <amount>2500</amount>
+      <date>09/03/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Andy Harris for Congress</payeeName>
+      <recipientName>Representative Andy Harris (R-NC)</recipientName>
+      <amount>1000</amount>
+      <date>09/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Ted Lieu for Congress</payeeName>
+      <recipientName>Representative Ted Lieu (D-CA)</recipientName>
+      <amount>2500</amount>
+      <date>09/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Cooper for Congress</payeeName>
+      <recipientName>Representative Jim Cooper (D-TN)</recipientName>
+      <amount>2500</amount>
+      <date>09/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Motor City PAC</payeeName>
+      <recipientName>Senator Gary Peters (D-MI)</recipientName>
+      <amount>2500</amount>
+      <date>09/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Ted Lieu for Congress</payeeName>
+      <recipientName>Representative Ted Lieu (D-CA)</recipientName>
+      <amount>2500</amount>
+      <date>09/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Visclosky for Congress</payeeName>
+      <recipientName>Representative Pete Visclosky (D-IN)</recipientName>
+      <amount>1500</amount>
+      <date>09/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Brian Higgins For Congress</payeeName>
+      <recipientName>Representative Brian Higgins (D-NY)</recipientName>
+      <amount>1500</amount>
+      <date>09/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Marcia Fudge for Congress</payeeName>
+      <recipientName>Representative Marcia Fudge (D-OH)</recipientName>
+      <amount>1500</amount>
+      <date>09/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>MAD 4 PA PAC</payeeName>
+      <recipientName>Representative Madeleine Dean (D-PA)</recipientName>
+      <amount>1000</amount>
+      <date>09/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Jobs, Opportunity and New Ideas PAC</payeeName>
+      <recipientName>Senator Joni Ernst (R-IA)</recipientName>
+      <amount>1500</amount>
+      <date>09/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Sensible American Solutions Supporting Everyone PAC</payeeName>
+      <recipientName>Senator Ben Sasse (R-NE)</recipientName>
+      <amount>2500</amount>
+      <date>09/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Thunderbolt PAC</payeeName>
+      <recipientName>Representative Martha McSally (R-AZ)</recipientName>
+      <amount>2500</amount>
+      <date>09/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>E-PAC</payeeName>
+      <recipientName>Representative Elise Stefanik (R-NY)</recipientName>
+      <amount>2500</amount>
+      <date>09/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Fund for A Conservative Future</payeeName>
+      <recipientName>Senator James Inhofe (R-OK)</recipientName>
+      <amount>1500</amount>
+      <date>09/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Show-me Political Action Committee</payeeName>
+      <recipientName>Representative Sam Graves (R-MO)</recipientName>
+      <amount>2500</amount>
+      <date>09/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Madison PAC</payeeName>
+      <recipientName>Representative Richard Neal (D-MA)</recipientName>
+      <amount>2500</amount>
+      <date>09/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Trent's Troops PAC</payeeName>
+      <recipientName>Representative Trent Kelly (R-MS)</recipientName>
+      <amount>2500</amount>
+      <date>09/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Next Century Fund</payeeName>
+      <recipientName>Senator Richard Burr (R-NC)</recipientName>
+      <amount>2500</amount>
+      <date>09/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>BERGMANFORCONGRESS</payeeName>
+      <recipientName>Representative Jack Bergman (R-MI)</recipientName>
+      <amount>1000</amount>
+      <date>09/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Palazzo for Congress</payeeName>
+      <recipientName>Representative Steven Palazzo (R-MS)</recipientName>
+      <amount>2500</amount>
+      <date>09/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Bill Foster for Congress Committee</payeeName>
+      <recipientName>Representative Bill Foster (D-IL)</recipientName>
+      <amount>1500</amount>
+      <date>09/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Marc Veasey Congressional Campaign Cmte</payeeName>
+      <recipientName>Representative Marc Veasey (D-TX)</recipientName>
+      <amount>2500</amount>
+      <date>09/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Anthony Brown for Congress</payeeName>
+      <recipientName>Representative Anthony Brown (D-MD)</recipientName>
+      <amount>2500</amount>
+      <date>09/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Julia Brownley for Congress</payeeName>
+      <recipientName>Representative Julia Brownley (D-CA)</recipientName>
+      <amount>2500</amount>
+      <date>09/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Vern Buchanan for Congress</payeeName>
+      <recipientName>Representative Vern Buchanan (R-FL)</recipientName>
+      <amount>1000</amount>
+      <date>09/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Simpson for Congress</payeeName>
+      <recipientName>Representative Mike Simpson (R-ID)</recipientName>
+      <amount>2500</amount>
+      <date>09/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Sean Patrick Maloney for Congress</payeeName>
+      <recipientName>Representative Sean Patrick Maloney (D-NY)</recipientName>
+      <amount>2500</amount>
+      <date>09/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Casten For Congress</payeeName>
+      <recipientName>Representative Sean Casten (D-IL)</recipientName>
+      <amount>1000</amount>
+      <date>09/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Steve Chabot for Congress</payeeName>
+      <recipientName>Representative Steve Chabot (R-OH)</recipientName>
+      <amount>1000</amount>
+      <date>09/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Debbie Lesko for Congress</payeeName>
+      <recipientName>Representative Debbie Lesko (R-AZ)</recipientName>
+      <amount>1000</amount>
+      <date>09/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Denver Riggleman for Congress</payeeName>
+      <recipientName>Representative Denver Riggleman (R-VA)</recipientName>
+      <amount>1000</amount>
+      <date>09/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Brenda Lawrence for Congress</payeeName>
+      <recipientName>Representative Brenda Lawrence (D-MI)</recipientName>
+      <amount>1500</amount>
+      <date>09/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Building and Restoring The American Dream Fund</payeeName>
+      <recipientName>Representative Brad Wenstrup (R-OH)</recipientName>
+      <amount>2500</amount>
+      <date>09/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>CHERPAC</payeeName>
+      <recipientName>Representative Cheri Bustos (D-IL)</recipientName>
+      <amount>2500</amount>
+      <date>09/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Make it in America PAC</payeeName>
+      <recipientName>Representative John Garamendi (D-CA)</recipientName>
+      <amount>1000</amount>
+      <date>09/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>HECK PAC</payeeName>
+      <recipientName>Representative Dennis Heck (D-WA)</recipientName>
+      <amount>2500</amount>
+      <date>09/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>COLE PAC</payeeName>
+      <recipientName>Senator Tom Cole (R-OK)</recipientName>
+      <amount>2500</amount>
+      <date>09/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Make Opportunity PAC (MOPAC)</payeeName>
+      <recipientName>Representative Mo Brooks (R-AL)</recipientName>
+      <amount>2500</amount>
+      <date>09/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>HALPAC-Help America's Leaders PAC</payeeName>
+      <recipientName>Representative Hal Rogers (R-KY)</recipientName>
+      <amount>5000</amount>
+      <date>09/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Speak Up America PAC</payeeName>
+      <recipientName>Representative Joe Wilson (R-SC)</recipientName>
+      <amount>1500</amount>
+      <date>09/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Conservative And Republican Together Equals Result</payeeName>
+      <recipientName>Representative John Carter (R-TX)</recipientName>
+      <amount>5000</amount>
+      <date>09/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>First in Freedom PAC</payeeName>
+      <recipientName>Representative Richard Hudson (R-NC)</recipientName>
+      <amount>2500</amount>
+      <date>09/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Developing a New Generation PAC</payeeName>
+      <recipientName>Representative Stephanie Murphy (D-FL)</recipientName>
+      <amount>1500</amount>
+      <date>09/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Impact Committee</payeeName>
+      <recipientName>Representative Michael Turner (R-OH)</recipientName>
+      <amount>2500</amount>
+      <date>09/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Vern Buchanan for Congress</payeeName>
+      <recipientName>Representative Vern Buchanan (R-FL)</recipientName>
+      <amount>2000</amount>
+      <date>09/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Castor for Congress</payeeName>
+      <recipientName>Representative Kathy Castor (D-FL)</recipientName>
+      <amount>2500</amount>
+      <date>09/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Jimmy Gomez for Congress</payeeName>
+      <recipientName>Representative Jimmy Gomez (D-CA)</recipientName>
+      <amount>1000</amount>
+      <date>09/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Zeldin for Congress</payeeName>
+      <recipientName>Representative Lee Zeldin (R-NY)</recipientName>
+      <amount>2500</amount>
+      <date>09/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>MAD 4 PA PAC</payeeName>
+      <recipientName>Representative Madeleine Dean (D-PA)</recipientName>
+      <amount>1000</amount>
+      <date>09/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Vicky Hartzler for Congress</payeeName>
+      <recipientName>Representative Vicky Hartzler (R-MO)</recipientName>
+      <amount>1000</amount>
+      <date>09/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Tom O'Halleran for Congress</payeeName>
+      <recipientName>Representative Tom O'Halleran (D-AZ)</recipientName>
+      <amount>1000</amount>
+      <date>09/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Michael Burgess for Congress</payeeName>
+      <recipientName>Representative Michael Burgess (R-TX)</recipientName>
+      <amount>2500</amount>
+      <date>09/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Friends of Raja for Congress</payeeName>
+      <recipientName>Representative Raja Krishnamoorthi (D-IL)</recipientName>
+      <amount>4000</amount>
+      <date>09/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Salud Carbajal for Congress</payeeName>
+      <recipientName>Representative Salud Carbajal (D-CA)</recipientName>
+      <amount>1000</amount>
+      <date>09/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Van Taylor Campaign</payeeName>
+      <recipientName>Representative Van Taylor (R-TX)</recipientName>
+      <amount>1000</amount>
+      <date>09/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Bilirakis for Congress</payeeName>
+      <recipientName>Representative Gus Bilirakis (R-FL)</recipientName>
+      <amount>2500</amount>
+      <date>09/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Morgan Griffith for Congress</payeeName>
+      <recipientName>Representative Morgan Griffith (R-VA)</recipientName>
+      <amount>1000</amount>
+      <date>09/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Elect Jim Baird for Congress</payeeName>
+      <recipientName>Representative Jim Baird (R-IN)</recipientName>
+      <amount>2500</amount>
+      <date>09/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Jim Banks for Congress Inc.</payeeName>
+      <recipientName>Representative Jim Banks (R-IN)</recipientName>
+      <amount>1000</amount>
+      <date>09/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Lou Correa for Congress</payeeName>
+      <recipientName>Representative Lou Correa (D-CA)</recipientName>
+      <amount>1000</amount>
+      <date>09/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Quigley for Congress</payeeName>
+      <recipientName>Representative Mike Quigley (D-IL)</recipientName>
+      <amount>5000</amount>
+      <date>09/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Friends of Don Beyer</payeeName>
+      <recipientName>Representative Donald Beyer (D-VA)</recipientName>
+      <amount>2500</amount>
+      <date>09/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Friends of Neal Dunn</payeeName>
+      <recipientName>Representative Neal Dunn (R-FL)</recipientName>
+      <amount>2500</amount>
+      <date>09/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Finkenauer for Congress</payeeName>
+      <recipientName>Representative Abby Finkenauer (D-IA)</recipientName>
+      <amount>1000</amount>
+      <date>10/08/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Patriot Political Action Committee</payeeName>
+      <recipientName>Representative Steven Palazzo (R-MS)</recipientName>
+      <amount>2500</amount>
+      <date>10/08/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Building America's Republican Representation PAC</payeeName>
+      <recipientName>Representative Andy Barr (R-KY)</recipientName>
+      <amount>2500</amount>
+      <date>10/08/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>MARIO PAC</payeeName>
+      <recipientName>Representative Mario Diaz-Balart (R-FL)</recipientName>
+      <amount>2500</amount>
+      <date>10/08/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Bringing Everyone Together Through Advocacy</payeeName>
+      <recipientName>Representative Betty McCollum (D-MN)</recipientName>
+      <amount>2500</amount>
+      <date>10/08/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>WELLS PAC</payeeName>
+      <recipientName>Representative Austin Scott (R-GA0</recipientName>
+      <amount>2500</amount>
+      <date>10/08/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Strategy PAC</payeeName>
+      <recipientName>Senator Ron Johnson (R-WI)</recipientName>
+      <amount>5000</amount>
+      <date>10/08/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Shore PAC</payeeName>
+      <recipientName>Representative Frank Pallone JR (D-NJ)</recipientName>
+      <amount>2500</amount>
+      <date>10/08/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Republican Majority Fund</payeeName>
+      <recipientName>Senator Tom Cotton (R-AR)</recipientName>
+      <amount>2500</amount>
+      <date>10/08/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Common Sense Common Solutions PAC</payeeName>
+      <recipientName>Senator Ben Sasse (R-NE)</recipientName>
+      <amount>5000</amount>
+      <date>10/08/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>For Our Republic's Traditions Fund AKA Fort Fund</payeeName>
+      <recipientName>Representative Jeffrey Fortenberry (R-NE)</recipientName>
+      <amount>2500</amount>
+      <date>10/08/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Bringing Everyone Together Through Advocacy</payeeName>
+      <recipientName>Representative Betty McCollum (D-MN)</recipientName>
+      <amount>2500</amount>
+      <date>10/08/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Razor PAC</payeeName>
+      <recipientName>Representative Steve Womack (R-AR)</recipientName>
+      <amount>2500</amount>
+      <date>10/08/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Kirkpatrick for Arizona</payeeName>
+      <recipientName>Representative Anne Kirkpatrick (D-AZ)</recipientName>
+      <amount>500</amount>
+      <date>10/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Jim Banks for Congress Inc.</payeeName>
+      <recipientName>Representative Jim Banks (R-IN)</recipientName>
+      <amount>1000</amount>
+      <date>10/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Connolly for Congress</payeeName>
+      <recipientName>Representative Gerald Connolly (D-VA)</recipientName>
+      <amount>2500</amount>
+      <date>10/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Connolly for Congress</payeeName>
+      <recipientName>Representative Gerald Connolly (D-VA)</recipientName>
+      <amount>2500</amount>
+      <date>10/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Promoting Our Republican Team PAC</payeeName>
+      <recipientName>Senator Rob Portman (R-OH)</recipientName>
+      <amount>2500</amount>
+      <date>10/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>COLE PAC</payeeName>
+      <recipientName>Senator Tom Cole (R-OK)</recipientName>
+      <amount>2500</amount>
+      <date>10/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>The Liberty Fund</payeeName>
+      <recipientName>Representative Jaime Herrera-Beutler (R-WA)</recipientName>
+      <amount>2500</amount>
+      <date>10/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Save America PAC</payeeName>
+      <recipientName>Senator Jim Risch (R-ID)</recipientName>
+      <amount>2500</amount>
+      <date>10/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Citizens for Turner</payeeName>
+      <recipientName>Representative Michael Turner (R-OH)</recipientName>
+      <amount>2500</amount>
+      <date>10/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Anthony Gonzalez for Congress</payeeName>
+      <recipientName>Representative Anthony Gonzalez (R-OH)</recipientName>
+      <amount>2500</amount>
+      <date>10/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Kirkpatrick for Arizona</payeeName>
+      <recipientName>Representative Anne Kirkpatrick (D-AZ)</recipientName>
+      <amount>2000</amount>
+      <date>10/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>John Ratcliffe for Congress</payeeName>
+      <recipientName>Representative John Ratcliffe (R-TX)</recipientName>
+      <amount>2500</amount>
+      <date>10/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>People's House PAC</payeeName>
+      <recipientName>Senator Tammy Baldwin (D-WI)</recipientName>
+      <amount>5000</amount>
+      <date>10/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Common Ground PAC</payeeName>
+      <recipientName>Representative Jim McDermott (D-WA)</recipientName>
+      <amount>2500</amount>
+      <date>10/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Darren Soto for Congress</payeeName>
+      <recipientName>Representative Darren Soto (D-FL)</recipientName>
+      <amount>1000</amount>
+      <date>10/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Lamborn for Congress</payeeName>
+      <recipientName>Representative Doug Lamborn (R-CO)</recipientName>
+      <amount>1000</amount>
+      <date>10/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Idaho Conservative Growth Fund</payeeName>
+      <recipientName>Senator Mike Crapo (R-ID)</recipientName>
+      <amount>5000</amount>
+      <date>10/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Reclaim America PAC</payeeName>
+      <recipientName>Senator Marco Rubio (D-FL)</recipientName>
+      <amount>2500</amount>
+      <date>10/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Jobs, Opportunity and New Ideas PAC</payeeName>
+      <recipientName>Senator Joni Ernst (R-IA)</recipientName>
+      <amount>1000</amount>
+      <date>10/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Republican Majority Fund</payeeName>
+      <recipientName>Senator Tom Cotton (R-AR)</recipientName>
+      <amount>2500</amount>
+      <date>10/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Blue Power PAC</payeeName>
+      <recipientName>Representative Donald Norcross (D-NJ)</recipientName>
+      <amount>2500</amount>
+      <date>10/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Bluegrass Committee</payeeName>
+      <recipientName>Senator Mitch McConnell (R-KY)</recipientName>
+      <amount>2500</amount>
+      <date>10/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Fighting for Missouri PAC</payeeName>
+      <recipientName>Representative Josh Hawley (R-MO)</recipientName>
+      <amount>2500</amount>
+      <date>10/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Forward Together PAC</payeeName>
+      <recipientName>Senator Mark Warner (D-VA)</recipientName>
+      <amount>5000</amount>
+      <date>10/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Crawford for Congress</payeeName>
+      <recipientName>Representative Rick Crawford (R-AR)</recipientName>
+      <amount>500</amount>
+      <date>10/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Brian Fitzpatrick for Congress</payeeName>
+      <recipientName>Representative Brian Fitzpatrick (R-PA)</recipientName>
+      <amount>1500</amount>
+      <date>10/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Stephanie Murphy for Congress</payeeName>
+      <recipientName>Representative Stephanie Murphy (D-FL)</recipientName>
+      <amount>2000</amount>
+      <date>10/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Steve Chabot for Congress</payeeName>
+      <recipientName>Representative Steve Chabot (R-OH)</recipientName>
+      <amount>1000</amount>
+      <date>10/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Crawford for Congress</payeeName>
+      <recipientName>Representative Rick Crawford (R-AR)</recipientName>
+      <amount>2500</amount>
+      <date>10/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Robert Aderholt for Congress</payeeName>
+      <recipientName>Representative Robert Aderholt (R-AL)</recipientName>
+      <amount>1000</amount>
+      <date>10/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Stephanie Murphy for Congress</payeeName>
+      <recipientName>Representative Stephanie Murphy (D-FL)</recipientName>
+      <amount>3000</amount>
+      <date>10/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Kaine for Virginia</payeeName>
+      <recipientName>Senator Tim Kaine (D-VA)</recipientName>
+      <amount>2500</amount>
+      <date>10/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>CA LUV PAC (CALIFORNIA LEADERSHIP UNITED FOR VICTO</payeeName>
+      <recipientName>Representative Pete Aguilar (D-CA)</recipientName>
+      <amount>5000</amount>
+      <date>10/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Grace for New York</payeeName>
+      <recipientName>Representative Grace Meng (R-NY)</recipientName>
+      <amount>2500</amount>
+      <date>10/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Bonnie Watson Coleman for Congress</payeeName>
+      <recipientName>Representative Bonnie Watson-Coleman (D-NJ)</recipientName>
+      <amount>2500</amount>
+      <date>10/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Crist for Congress</payeeName>
+      <recipientName>Representative Charlie Crist (D-FL)</recipientName>
+      <amount>2500</amount>
+      <date>10/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Susan Davis for Congress</payeeName>
+      <recipientName>Representative Susan Davis (D-CA)</recipientName>
+      <amount>-2500</amount>
+      <date>10/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Bridge PAC</payeeName>
+      <recipientName>Representative James Clyburn (D-SC)</recipientName>
+      <amount>5000</amount>
+      <date>10/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>A New Direction PAC</payeeName>
+      <recipientName>Senator Jeanne Shaheen (D-NH)</recipientName>
+      <amount>2500</amount>
+      <date>10/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>California Democratic Party</payeeName>
+      <recipientName>Members of California Democratic Party (Federal Candidates</recipientName>
+      <amount>2800</amount>
+      <date>10/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Lets Get To Work PAC</payeeName>
+      <recipientName>Senator Rick Scott (R-FL)</recipientName>
+      <amount>2500</amount>
+      <date>10/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Joe Neguse for Congress</payeeName>
+      <recipientName>Representative Joe Neguse (D-CO)</recipientName>
+      <amount>1000</amount>
+      <date>10/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Marc Veasey Congressional Campaign Cmte</payeeName>
+      <recipientName>Representative Marc Veasey (D-TX)</recipientName>
+      <amount>1500</amount>
+      <date>10/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Supporting House Problem Solvers</payeeName>
+      <recipientName>Representative Scott Peters (D-CA)</recipientName>
+      <amount>2500</amount>
+      <date>10/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Blue Hen PAC</payeeName>
+      <recipientName>Senator Chris Coons (D-DE)</recipientName>
+      <amount>2500</amount>
+      <date>10/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>America's First PAC</payeeName>
+      <recipientName>Representative Rob Wittman (R-VA)</recipientName>
+      <amount>2500</amount>
+      <date>10/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Country Roads PAC</payeeName>
+      <recipientName>Senator John McCain (D-AZ)</recipientName>
+      <amount>2500</amount>
+      <date>10/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Majority Committee PAC--MC PAC</payeeName>
+      <recipientName>Representative Kevin McCarthy (R-CA)</recipientName>
+      <amount>2500</amount>
+      <date>10/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Motor City PAC</payeeName>
+      <recipientName>Senator Gary Peters (D-MI)</recipientName>
+      <amount>1500</amount>
+      <date>10/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>The Hawkeye PAC</payeeName>
+      <recipientName>Senator Chuck Grassley (R-IA)</recipientName>
+      <amount>2500</amount>
+      <date>10/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>America Works Federal Pac</payeeName>
+      <recipientName>Senator Sherrod Bronwn (D-OH)</recipientName>
+      <amount>1500</amount>
+      <date>10/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Prairie Political Action Committee</payeeName>
+      <recipientName>Senator Richard Durbin (D-IL)</recipientName>
+      <amount>5000</amount>
+      <date>10/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>GOLD PAC</payeeName>
+      <recipientName>Representative Sanford Bishop (D-GA)</recipientName>
+      <amount>2500</amount>
+      <date>10/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Badgerpac</payeeName>
+      <recipientName>Representative Ron Kind (D-WI)</recipientName>
+      <amount>2500</amount>
+      <date>10/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Reclaim America PAC</payeeName>
+      <recipientName>Senator Marco Rubio (D-FL)</recipientName>
+      <amount>2500</amount>
+      <date>10/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Freedom 21: Fighting for Freedom in the 21st Century (Stewart-UT-USH)</payeeName>
+      <recipientName>Representative Chris Stewart (R-UT)</recipientName>
+      <amount>2500</amount>
+      <date>10/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Keystone America PAC</payeeName>
+      <recipientName>Senator Bob Casey (D-PA)</recipientName>
+      <amount>5000</amount>
+      <date>10/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>JULIA PAC</payeeName>
+      <recipientName>Representative Julia Brownley (D-CA)</recipientName>
+      <amount>5000</amount>
+      <date>10/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>M-PAC</payeeName>
+      <recipientName>Senator Patty Murray (D-WA)</recipientName>
+      <amount>5000</amount>
+      <date>10/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Great Lakes PAC</payeeName>
+      <recipientName>Senator Debbie Stabenow (D-MI)</recipientName>
+      <amount>1500</amount>
+      <date>10/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Latino Leaders for Equality, Growth, Opportunity P</payeeName>
+      <recipientName>Representative Ruben Gallego (D-AZ)</recipientName>
+      <amount>1500</amount>
+      <date>10/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>DBM PAC</payeeName>
+      <recipientName>Representative David McKinley (R-WV)</recipientName>
+      <amount>2500</amount>
+      <date>10/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>JOBS, FREEDOM, AND SECURITY PAC</payeeName>
+      <recipientName>Senator Ted Cruz (R-TX)</recipientName>
+      <amount>2500</amount>
+      <date>10/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>JOBS, FREEDOM, AND SECURITY PAC</payeeName>
+      <recipientName>Senator Ted Cruz (R-TX)</recipientName>
+      <amount>2500</amount>
+      <date>10/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Building Renewal in America Now PAC</payeeName>
+      <recipientName>Representative Brian Babin (R-TX)</recipientName>
+      <amount>4000</amount>
+      <date>10/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Kuster for Congress</payeeName>
+      <recipientName>Representative Ann Kuster (D-NH)</recipientName>
+      <amount>1000</amount>
+      <date>10/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Judy Chu for Congress</payeeName>
+      <recipientName>Representative Judy Chu (D-CA)</recipientName>
+      <amount>1500</amount>
+      <date>10/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Buck for Colorado</payeeName>
+      <recipientName>Representative Ken Buck (R-CO)</recipientName>
+      <amount>2000</amount>
+      <date>10/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Brenda Lawrence for Congress</payeeName>
+      <recipientName>Representative Brenda Lawrence (D-MI)</recipientName>
+      <amount>1500</amount>
+      <date>10/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Veronica Escobar for Congress</payeeName>
+      <recipientName>Representative Veronica Escobar (D-TX)</recipientName>
+      <amount>1500</amount>
+      <date>10/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Mike Kelly for Congress</payeeName>
+      <recipientName>Representative Mike Kelly (R-PA)</recipientName>
+      <amount>1000</amount>
+      <date>10/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Pelican PAC</payeeName>
+      <recipientName>Senator John Kennedy (R-LA)</recipientName>
+      <amount>2500</amount>
+      <date>11/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>GO PAC GO</payeeName>
+      <recipientName>Representative Mike Gallagher (R-WI)</recipientName>
+      <amount>2500</amount>
+      <date>11/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Texas First PAC</payeeName>
+      <recipientName>Representative Henry Cuellar (D-TX)</recipientName>
+      <amount>2500</amount>
+      <date>11/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Together Holding Our Majority (THOMPAC)</payeeName>
+      <recipientName>Senator Thom Tillis (R-NC)</recipientName>
+      <amount>2500</amount>
+      <date>11/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Blue Power PAC</payeeName>
+      <recipientName>Representative Donald Norcross (D-NJ)</recipientName>
+      <amount>2500</amount>
+      <date>11/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Ameripac: The Fund for A Greater America</payeeName>
+      <recipientName>Representative Steny Hoyer (D-MD)</recipientName>
+      <amount>5000</amount>
+      <date>11/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>LANKPAC</payeeName>
+      <recipientName>Senator James Lankford (R-OK)</recipientName>
+      <amount>2500</amount>
+      <date>11/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Restoring Our Nation PAC</payeeName>
+      <recipientName>Representative Ron Estes (R-KS)</recipientName>
+      <amount>2000</amount>
+      <date>11/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Making America Prosperous PAC</payeeName>
+      <recipientName>Representative Kevin Brady (R-TX)</recipientName>
+      <amount>5000</amount>
+      <date>11/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Sensible American Solutions Supporting Everyone PAC</payeeName>
+      <recipientName>Senator Ben Sasse (R-NE)</recipientName>
+      <amount>2500</amount>
+      <date>11/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Joe Morelle for Congress</payeeName>
+      <recipientName>Representative Joseph Morelle (D-NY)</recipientName>
+      <amount>1000</amount>
+      <date>11/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Cole for Congress</payeeName>
+      <recipientName>Representative Tom Cole (R-OK)</recipientName>
+      <amount>1000</amount>
+      <date>11/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Karen Bass for Congress</payeeName>
+      <recipientName>Representative Karen Bass (D-CA)</recipientName>
+      <amount>1000</amount>
+      <date>11/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Angie Craig for Congress</payeeName>
+      <recipientName>Representative Angie Craig (D-MN)</recipientName>
+      <amount>2500</amount>
+      <date>11/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Mikie Sherrill for Congress</payeeName>
+      <recipientName>Representative Mikie Sherrill (D-NJ)</recipientName>
+      <amount>1500</amount>
+      <date>11/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Ron Estes For Congress</payeeName>
+      <recipientName>Representative Ron Estes (R-KS)</recipientName>
+      <amount>5000</amount>
+      <date>11/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Vicente Gonzalez for Congress</payeeName>
+      <recipientName>Representative Vicent Gonzalez (D-TX)</recipientName>
+      <amount>2500</amount>
+      <date>11/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Cotton for Senate</payeeName>
+      <recipientName>Senator Tom Cotton (R-AR)</recipientName>
+      <amount>2000</amount>
+      <date>11/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Trent's Troops PAC</payeeName>
+      <recipientName>Representative Trent Kelly (R-MS)</recipientName>
+      <amount>2500</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Thunderbolt PAC</payeeName>
+      <recipientName>Senator Martha McSally (R-AZ)</recipientName>
+      <amount>2500</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Together Holding Our Majority (THOMPAC)</payeeName>
+      <recipientName>Senator Thom Tillis (R-NC)</recipientName>
+      <amount>2500</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>All Hands Political Action Committee</payeeName>
+      <recipientName>Senator Todd Young (R-IN)</recipientName>
+      <amount>5000</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Common Good PAC</payeeName>
+      <recipientName>Representative Tom Suozzi (D-NY)</recipientName>
+      <amount>5000</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Puget PAC</payeeName>
+      <recipientName>Representative Rick Larsen (D-WA)</recipientName>
+      <amount>5000</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>TIM PAC</payeeName>
+      <recipientName>Senator Tim Scott (R-SC)</recipientName>
+      <amount>2500</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>HECK PAC</payeeName>
+      <recipientName>Representative Dennis Heck (D-WA)</recipientName>
+      <amount>2500</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Jobs and Innovation Matter PAC (JIM PAC)</payeeName>
+      <recipientName>Representative Jim Himes (D-CT)</recipientName>
+      <amount>2500</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>United for a Strong America PAC</payeeName>
+      <recipientName>Representative Adam Schiff (D-CA)</recipientName>
+      <amount>5000</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Elise for Congress</payeeName>
+      <recipientName>Representative Elise Stefanik (R-NY)</recipientName>
+      <amount>1000</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Innovation Political Action Committee</payeeName>
+      <recipientName>Representative Patrick McHenry (R-NC)</recipientName>
+      <amount>2500</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Dirigo PAC</payeeName>
+      <recipientName>Senator Susan Collins (R-ME)</recipientName>
+      <amount>5000</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Continuing America's Strength and Security PAC</payeeName>
+      <recipientName>Senator Bill Cassidy (R-LA)</recipientName>
+      <amount>2500</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Making Americans Count PAC</payeeName>
+      <recipientName>Representative Matthew Cartwright (D-PA)</recipientName>
+      <amount>2500</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Responsibility And Freedom Work PAC (RFWPAC)</payeeName>
+      <recipientName>Representative Roger Wicker (R-MS)</recipientName>
+      <amount>2500</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>BACKPAC</payeeName>
+      <recipientName>Representative Don Beyer (D-VA)</recipientName>
+      <amount>5000</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Razor PAC</payeeName>
+      <recipientName>Representative Steve Womack (R-AR)</recipientName>
+      <amount>2500</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>CHC Bold PAC</payeeName>
+      <recipientName>Members of Committee for Hispanic Caucus</recipientName>
+      <amount>5000</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Billy Long for Congress</payeeName>
+      <recipientName>Representative Billy Long (R-MO)</recipientName>
+      <amount>2500</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Anna Eshoo for Congress</payeeName>
+      <recipientName>Representative Anna Eshoo (D-CA)</recipientName>
+      <amount>500</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Tom Reed For Congress</payeeName>
+      <recipientName>Representative Tom Reed (R-NY)</recipientName>
+      <amount>2500</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Casten For Congress</payeeName>
+      <recipientName>Representative Sean Casten (D-IL)</recipientName>
+      <amount>1000</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Wexton For Congress</payeeName>
+      <recipientName>Representative Jennifer Weston (D-VA)</recipientName>
+      <amount>2500</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>The Bill Keating Committee</payeeName>
+      <recipientName>Representative Bill Keating (D-MA)</recipientName>
+      <amount>2500</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Himes for Congress</payeeName>
+      <recipientName>Representative Jim Himes (D-CT)</recipientName>
+      <amount>2500</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Billy Long for Congress</payeeName>
+      <recipientName>Representative Billy Long (R-MO)</recipientName>
+      <amount>2500</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Womack for Congress Committee</payeeName>
+      <recipientName>Representative Steve Womack (R-AR)</recipientName>
+      <amount>2500</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Diana DeGette for Congress Inc.</payeeName>
+      <recipientName>Representative Diana DeGette (D-CO)</recipientName>
+      <amount>1000</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Anna Eshoo for Congress</payeeName>
+      <recipientName>Representative Anna Eshoo (D-CA)</recipientName>
+      <amount>1000</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>VoteTipton.com</payeeName>
+      <recipientName>Representative Scott Tipton (R-CO)</recipientName>
+      <amount>1500</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Wenstrup for Congress</payeeName>
+      <recipientName>Representative Brad Wenstrup (R-OH)</recipientName>
+      <amount>2500</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Blaine for Congress</payeeName>
+      <recipientName>Representative Blaine Luetkemeyer (R-MO)</recipientName>
+      <amount>2000</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Stanton for Arizona</payeeName>
+      <recipientName>Representative Greg Stanton (D-AZ)</recipientName>
+      <amount>1000</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Friends of Rosa DeLauro</payeeName>
+      <recipientName>Representative Rosa DeLauro (D-CT)</recipientName>
+      <amount>2500</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Above the Best PAC</payeeName>
+      <recipientName>Representative Anthony Brown (D-MD)</recipientName>
+      <amount>5000</amount>
+      <date>11/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Latino Leaders for Equality, Growth, Opportunity P</payeeName>
+      <recipientName>Representative Ruben Gallego (D-AZ)</recipientName>
+      <amount>1000</amount>
+      <date>11/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>The Hawkeye PAC</payeeName>
+      <recipientName>Senator Chuck Grassley (R-IA)</recipientName>
+      <amount>1500</amount>
+      <date>11/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Alamo PAC</payeeName>
+      <recipientName>Representative David McKinley (R-WV)</recipientName>
+      <amount>5000</amount>
+      <date>11/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Speak Up America PAC</payeeName>
+      <recipientName>Representative Joe Wilson (R-SC)</recipientName>
+      <amount>1000</amount>
+      <date>11/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Reviving American Jobs Again PAC</payeeName>
+      <recipientName>Representative Raja Krishnamoorthi (D-IL)</recipientName>
+      <amount>2500</amount>
+      <date>11/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Lone Star Liberty Fund</payeeName>
+      <recipientName>Representative John Ratcliffe (R-TX)</recipientName>
+      <amount>5000</amount>
+      <date>11/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Freedom 21: Fighting for Freedom in the 21st Century (Stewart-UT-USH)</payeeName>
+      <recipientName>Representative Chris Stewart (R-UT)</recipientName>
+      <amount>2500</amount>
+      <date>11/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Amodei for Nevada</payeeName>
+      <recipientName>Representative Mark Amodei (R-NV)</recipientName>
+      <amount>2500</amount>
+      <date>11/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Simpson for Congress</payeeName>
+      <recipientName>Representative Mike Simpson (R-ID)</recipientName>
+      <amount>1000</amount>
+      <date>11/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Fred Keller for Congress</payeeName>
+      <recipientName>Representative Fred Keller (R-PA)</recipientName>
+      <amount>1000</amount>
+      <date>11/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Grace for New York</payeeName>
+      <recipientName>Representative Grace Meng (R-NY)</recipientName>
+      <amount>1000</amount>
+      <date>11/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Chrissy Houlahan for Congress</payeeName>
+      <recipientName>Representative Chrissy Houlahan (D-PA)</recipientName>
+      <amount>1000</amount>
+      <date>11/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Kinzinger for Congress</payeeName>
+      <recipientName>Representative Adam Kinzinger (R-IL)</recipientName>
+      <amount>2500</amount>
+      <date>11/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Salud Carbajal for Congress</payeeName>
+      <recipientName>Representative Salud Carbajal (D-CA)</recipientName>
+      <amount>2500</amount>
+      <date>11/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Adam Smith for Congress Committee</payeeName>
+      <recipientName>Representative Adam Smith (D-WA)</recipientName>
+      <amount>1000</amount>
+      <date>11/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Jim Risch for U S Senate Committee</payeeName>
+      <recipientName>Senator Jim Risch (R-ID)</recipientName>
+      <amount>2500</amount>
+      <date>11/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>People for Patty Murray</payeeName>
+      <recipientName>Senator Patty Murray (D-WA)</recipientName>
+      <amount>1000</amount>
+      <date>11/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Cotton for Senate</payeeName>
+      <recipientName>Senator Tom Cotton (R-AR)</recipientName>
+      <amount>3000</amount>
+      <date>11/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Jobs Education &amp; Families First (JEFF PAC)</payeeName>
+      <recipientName>Representative Jeffrey Fortenberry (R-NE)</recipientName>
+      <amount>2500</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>WHO DAT PAC</payeeName>
+      <recipientName>Representative Cedric Richmond (-LA)</recipientName>
+      <amount>5000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Ocean State PAC (OSPAC)</payeeName>
+      <recipientName>Representative James Langevin (D-RI)</recipientName>
+      <amount>5000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Commonwealth PAC</payeeName>
+      <recipientName>Representative Gerald Connolly (D-VA)</recipientName>
+      <amount>5000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Toward Tomorrow PAC</payeeName>
+      <recipientName>Representative Joaquin Castro (D-TX)</recipientName>
+      <amount>2500</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Secure PAC</payeeName>
+      <recipientName>Representative Bennie Thompson (D-MS)</recipientName>
+      <amount>5000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>PAC To The Future</payeeName>
+      <recipientName>Representative Nancy Pelosi (D-CA)</recipientName>
+      <amount>2500</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>DOUGLASPAC</payeeName>
+      <recipientName>Representative Doug Lamborn (R-CO)</recipientName>
+      <amount>2500</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Seeking Justice Committee</payeeName>
+      <recipientName>Representative Doug Jones (D-AL)</recipientName>
+      <amount>5000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Great Lakes PAC</payeeName>
+      <recipientName>Senator Debbie Stabenow (D-MI)</recipientName>
+      <amount>3500</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Golden Rule PAC</payeeName>
+      <recipientName>Representative Charlie Crist (D-FL)</recipientName>
+      <amount>2500</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Cowboy PAC</payeeName>
+      <recipientName>Representative Liz Cheney (R-WY)</recipientName>
+      <amount>2500</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Motor City PAC</payeeName>
+      <recipientName>Senator Gary Peters (D-MI)</recipientName>
+      <amount>1000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Treasure State PAC</payeeName>
+      <recipientName>Senator Jon Tester (D-MT)</recipientName>
+      <amount>3000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>America Now</payeeName>
+      <recipientName>Representative Andre Carson (D-IN)</recipientName>
+      <amount>2500</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Middle Class America PAC</payeeName>
+      <recipientName>Representative Daniel Lipinski )D-IL)</recipientName>
+      <amount>2500</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Strengthening the American Republic PAC</payeeName>
+      <recipientName>Representative John Rutherford (R-FL)</recipientName>
+      <amount>2500</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Victory Now PAC</payeeName>
+      <recipientName>Senator Chris Van Hollen (D-MD)</recipientName>
+      <amount>5000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>WELLS PAC</payeeName>
+      <recipientName>Representative Austin Scott (R-GA0</recipientName>
+      <amount>2500</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Constitutional Conservatives Fund</payeeName>
+      <recipientName>Senator Mike Lee (R-UT)</recipientName>
+      <amount>5000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>John Ratcliffe for Congress</payeeName>
+      <recipientName>Representative John Ratcliffe (R-TX)</recipientName>
+      <amount>5000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Connolly for Congress</payeeName>
+      <recipientName>Representative Gerald Connolly (D-VA)</recipientName>
+      <amount>2500</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Jimmy Panetta for Congress</payeeName>
+      <recipientName>Representative Jimmy Panetta (D-CA)</recipientName>
+      <amount>5000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Katko for Congress</payeeName>
+      <recipientName>Representative John Katko (R-NY)</recipientName>
+      <amount>1000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Marcia Fudge for Congress</payeeName>
+      <recipientName>Representative Marcia Fudge (D-OH)</recipientName>
+      <amount>1500</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Robert Aderholt for Congress</payeeName>
+      <recipientName>Representative Robert Aderholt (R-AL)</recipientName>
+      <amount>3000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Ann Wagner for Congress</payeeName>
+      <recipientName>Representative Ann Wagner (R-MO)</recipientName>
+      <amount>1000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Roger Williams for US Congress Committee</payeeName>
+      <recipientName>Representative Roger Williams (R-TX)</recipientName>
+      <amount>2000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Price for Congress Committee</payeeName>
+      <recipientName>Representative David Price (D-NC)</recipientName>
+      <amount>2500</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>MoBrooksforCongress.com</payeeName>
+      <recipientName>Representative Mo Brooks (R-AL)</recipientName>
+      <amount>1500</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Hal Rogers for Congress</payeeName>
+      <recipientName>Representative Hal Rogers (R-KY)</recipientName>
+      <amount>2500</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Liz Cheney for Wyoming</payeeName>
+      <recipientName>Representative Liz Cheney (R-WY)</recipientName>
+      <amount>3000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Joni For Iowa</payeeName>
+      <recipientName>Senator Joni Ernst (R-IA)</recipientName>
+      <amount>500</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>NOOGA PAC</payeeName>
+      <recipientName>Representative Chuck Fleischmann (R-TN)</recipientName>
+      <amount>2500</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Supporting House Problem Solvers</payeeName>
+      <recipientName>Representative Scott Peters (D-CA)</recipientName>
+      <amount>2500</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Democrats Win Seats (DWS PAC)</payeeName>
+      <recipientName>Representative Debbie Wasserman Schultz (D-FL)</recipientName>
+      <amount>5000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Bacon PAC</payeeName>
+      <recipientName>Representative Don Bacon (R-NE)</recipientName>
+      <amount>5000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Blue Momentum PAC</payeeName>
+      <recipientName>Representative Ted Lieu (D-CA)</recipientName>
+      <amount>5000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>New Millennium PAC</payeeName>
+      <recipientName>Representative Robert Menendez (D-NJ)</recipientName>
+      <amount>2500</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>LOBO PAC</payeeName>
+      <recipientName>Senator Martin Heinrich (D-NM)</recipientName>
+      <amount>2500</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>MAD 4 PA PAC</payeeName>
+      <recipientName>Representative Madeleine Dean (D-PA)</recipientName>
+      <amount>1000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Friends of Cheri Bustos</payeeName>
+      <recipientName>Representative Cheri Bustos (D-IL)</recipientName>
+      <amount>1000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Tony Cardenas for Congress</payeeName>
+      <recipientName>Representative Tony Cardenas (D-CA)</recipientName>
+      <amount>2500</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Vargas for Congress</payeeName>
+      <recipientName>Representative Juan Vargas (D-CA)</recipientName>
+      <amount>2500</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Friends of Dave Joyce</payeeName>
+      <recipientName>Representative David Joyce (R-OH)</recipientName>
+      <amount>1500</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>LaHood for Congress</payeeName>
+      <recipientName>Representative Darin LaHood (R-IL)</recipientName>
+      <amount>1500</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Joni For Iowa</payeeName>
+      <recipientName>Senator Joni Ernst (R-IA)</recipientName>
+      <amount>1000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Eureka Political Action Committee</payeeName>
+      <recipientName>Representative Ken Calvert (R-CA)</recipientName>
+      <amount>5000</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Badlands PAC</payeeName>
+      <recipientName>Representative Kevin Cramer (R-ND)</recipientName>
+      <amount>1500</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Employees of Northrop Grumman Corporation PAC</contributorName>
+      <payeeName>Richard E Neal for Congress Committee</payeeName>
+      <recipientName>Representative Richard Neal (D-MA)</recipientName>
+      <amount>2500</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>Honorary Expenses</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Business Executives for National Security</payeeName>
+      <recipientName>U.S. Army Gen. Paul Nakasone, U.S. Cyber Commander &amp; Director of NSA (Eisenhower Awards Dinner)</recipientName>
+      <amount>10000.00</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>Honorary Expenses</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Army Distaff Foundation</payeeName>
+      <recipientName>Representative Pete Visclosky (D-IN-01)</recipientName>
+      <amount>5000.00</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>Presidential Library Expenses</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Ronald Reagan Presidential Foundation and Institute</payeeName>
+      <recipientName>The Reagan National Defense Forum</recipientName>
+      <amount>250000.00</amount>
+      <date>12/06/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

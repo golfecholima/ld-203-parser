@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>Polsinelli PC</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <zipext>
+  </zipext>
+  <contactName>KAREN BLITZ</contactName>
+  <senateRegID>314911</senateRegID>
+  <houseRegID>39171</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/14/2020 2:47:03 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>Polsinelli PC PAC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Polsinelli PC PAC</contributorName>
+      <payeeName>Andy Harris for Congress</payeeName>
+      <recipientName>Andy Harris</recipientName>
+      <amount>2500.00</amount>
+      <date>07/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Polsinelli PC PAC</contributorName>
+      <payeeName>Schakowsky for Congress</payeeName>
+      <recipientName>Jan Schakowsky</recipientName>
+      <amount>2000.00</amount>
+      <date>07/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Polsinelli PC PAC</contributorName>
+      <payeeName>John Lewis for Congress</payeeName>
+      <recipientName>John Lewis</recipientName>
+      <amount>1500.00</amount>
+      <date>07/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Polsinelli PC PAC</contributorName>
+      <payeeName>Engel for Congress</payeeName>
+      <recipientName>Eliot Engel</recipientName>
+      <amount>1000.00</amount>
+      <date>07/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Polsinelli PC PAC</contributorName>
+      <payeeName>The Markey Committee</payeeName>
+      <recipientName>Ed Markey</recipientName>
+      <amount>1000.00</amount>
+      <date>07/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Polsinelli PC PAC</contributorName>
+      <payeeName>Kind for Congress Committee</payeeName>
+      <recipientName>Ron Kind</recipientName>
+      <amount>1000.00</amount>
+      <date>07/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Polsinelli PC PAC</contributorName>
+      <payeeName>Texans for Senator John Cornyn</payeeName>
+      <recipientName>John Cornyn</recipientName>
+      <amount>1000.00</amount>
+      <date>07/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Polsinelli PC PAC</contributorName>
+      <payeeName>Donald McEachin</payeeName>
+      <recipientName>Donald McEachin</recipientName>
+      <amount>1000.00</amount>
+      <date>09/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Polsinelli PC PAC</contributorName>
+      <payeeName>Jim Jordan for Congress</payeeName>
+      <recipientName>Jim Jordan</recipientName>
+      <amount>1000.00</amount>
+      <date>09/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Polsinelli PC PAC</contributorName>
+      <payeeName>Nancy Pelosi for Congress</payeeName>
+      <recipientName>Nancy Pelosi</recipientName>
+      <amount>5000.00</amount>
+      <date>09/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Polsinelli PC PAC</contributorName>
+      <payeeName>Kind for Congress Committee</payeeName>
+      <recipientName>Ron Kind</recipientName>
+      <amount>1000.00</amount>
+      <date>09/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Polsinelli PC PAC</contributorName>
+      <payeeName>Terri Sewell For Congress</payeeName>
+      <recipientName>Terri Sewell</recipientName>
+      <amount>1000.00</amount>
+      <date>09/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Polsinelli PC PAC</contributorName>
+      <payeeName>Jimmy Panetta for Congress</payeeName>
+      <recipientName>Jimmy Panetta</recipientName>
+      <amount>500.00</amount>
+      <date>09/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Polsinelli PC PAC</contributorName>
+      <payeeName>Butterfield for Congress</payeeName>
+      <recipientName>GK Butterfield</recipientName>
+      <amount>1000.00</amount>
+      <date>09/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Polsinelli PC PAC</contributorName>
+      <payeeName>Tom Reed for Congress</payeeName>
+      <recipientName>Tom Reed</recipientName>
+      <amount>1500.00</amount>
+      <date>09/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Polsinelli PC PAC</contributorName>
+      <payeeName>Garret Graves for Congress</payeeName>
+      <recipientName>Garret Graves</recipientName>
+      <amount>1000.00</amount>
+      <date>09/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Polsinelli PC PAC</contributorName>
+      <payeeName>Jason Smith for Congress</payeeName>
+      <recipientName>Jason Smith</recipientName>
+      <amount>1000.00</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Polsinelli PC PAC</contributorName>
+      <payeeName>Mike Kelly for Congress</payeeName>
+      <recipientName>Mike Kelly</recipientName>
+      <amount>1000.00</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Polsinelli PC PAC</contributorName>
+      <payeeName>Nevadans for Steven Horsford</payeeName>
+      <recipientName>Steven Horsford</recipientName>
+      <amount>1000.00</amount>
+      <date>10/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Polsinelli PC PAC</contributorName>
+      <payeeName>Val Demings for Congress</payeeName>
+      <recipientName>Val Demings</recipientName>
+      <amount>1000.00</amount>
+      <date>10/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Polsinelli PC PAC</contributorName>
+      <payeeName>Donald Payne</payeeName>
+      <recipientName>Donald Payne</recipientName>
+      <amount>1500.00</amount>
+      <date>10/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Polsinelli PC PAC</contributorName>
+      <payeeName>McKinley for Congress</payeeName>
+      <recipientName>David McKinley</recipientName>
+      <amount>2500.00</amount>
+      <date>10/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Polsinelli PC PAC</contributorName>
+      <payeeName>Richard E Neal for Congress Committee</payeeName>
+      <recipientName>Richard Neal</recipientName>
+      <amount>5000.00</amount>
+      <date>10/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Polsinelli PC PAC</contributorName>
+      <payeeName>Terri Sewell for Congress</payeeName>
+      <recipientName>Terri Sewell</recipientName>
+      <amount>1000.00</amount>
+      <date>10/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Polsinelli PC PAC</contributorName>
+      <payeeName>Graves for Congress</payeeName>
+      <recipientName>Tom Graves</recipientName>
+      <amount>1000.00</amount>
+      <date>10/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Polsinelli PC PAC</contributorName>
+      <payeeName>Tim Scott for Senate</payeeName>
+      <recipientName>Tim Scott</recipientName>
+      <amount>2500.00</amount>
+      <date>10/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Polsinelli PC PAC</contributorName>
+      <payeeName>Pallone for Congress</payeeName>
+      <recipientName>Frank Pallone</recipientName>
+      <amount>1000.00</amount>
+      <date>10/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Polsinelli PC PAC</contributorName>
+      <payeeName>Friends of Don Beyer</payeeName>
+      <recipientName>Don Beyer</recipientName>
+      <amount>500.00</amount>
+      <date>10/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Polsinelli PC PAC</contributorName>
+      <payeeName>Bonamici for Congress</payeeName>
+      <recipientName>Suzanne Bonamici</recipientName>
+      <amount>1000.00</amount>
+      <date>10/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Polsinelli PC PAC</contributorName>
+      <payeeName>Friends of Jeanne Shaheen</payeeName>
+      <recipientName>Jeanne Shaheen</recipientName>
+      <amount>1000.00</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Polsinelli PC PAC</contributorName>
+      <payeeName>Friends of Mark Warner</payeeName>
+      <recipientName>Mark Warner</recipientName>
+      <amount>1000.00</amount>
+      <date>10/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Polsinelli PC PAC</contributorName>
+      <payeeName>Doggett for US Congress</payeeName>
+      <recipientName>Lloyd Doggett</recipientName>
+      <amount>1000.00</amount>
+      <date>10/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Polsinelli PC PAC</contributorName>
+      <payeeName>Cleaver for Congress</payeeName>
+      <recipientName>Emanuel Cleaver</recipientName>
+      <amount>2500.00</amount>
+      <date>11/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Polsinelli PC PAC</contributorName>
+      <payeeName>Clay Jr for Congress</payeeName>
+      <recipientName>William Lacy Clay</recipientName>
+      <amount>1500.00</amount>
+      <date>11/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Polsinelli PC PAC</contributorName>
+      <payeeName>Sheila Jackson Lee for Congress</payeeName>
+      <recipientName>Sheila Jackson Lee</recipientName>
+      <amount>2500.00</amount>
+      <date>11/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Polsinelli PC PAC</contributorName>
+      <payeeName>McConnell Senate Committee</payeeName>
+      <recipientName>Mitch McConnell</recipientName>
+      <amount>5000.00</amount>
+      <date>11/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Polsinelli PC PAC</contributorName>
+      <payeeName>Suozzi for Congress</payeeName>
+      <recipientName>Tom Suozzi</recipientName>
+      <amount>1000.00</amount>
+      <date>11/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Polsinelli PC PAC</contributorName>
+      <payeeName>Friends of Dick Durbin</payeeName>
+      <recipientName>Dick Durbin</recipientName>
+      <amount>500.00</amount>
+      <date>11/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Polsinelli PC PAC</contributorName>
+      <payeeName>Friends of Pat Toomey</payeeName>
+      <recipientName>Pat Toomey</recipientName>
+      <amount>1000.00</amount>
+      <date>11/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Polsinelli PC PAC</contributorName>
+      <payeeName>Eddie Bernice Johnson for Congress</payeeName>
+      <recipientName>Eddie Bernice Johnson</recipientName>
+      <amount>1000.00</amount>
+      <date>11/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Polsinelli PC PAC</contributorName>
+      <payeeName>Butterfield for Congress</payeeName>
+      <recipientName>GK Butterfield</recipientName>
+      <amount>1000.00</amount>
+      <date>12/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Polsinelli PC PAC</contributorName>
+      <payeeName>Pascrell for Congress</payeeName>
+      <recipientName>Bill Pascrell</recipientName>
+      <amount>1000.00</amount>
+      <date>12/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Polsinelli PC PAC</contributorName>
+      <payeeName>Stand with Sanchez</payeeName>
+      <recipientName>Linda Sanchez</recipientName>
+      <amount>1000.00</amount>
+      <date>12/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Polsinelli PC PAC</contributorName>
+      <payeeName>Dwight Evans for Congress</payeeName>
+      <recipientName>Dwight Evans</recipientName>
+      <amount>1000.00</amount>
+      <date>12/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Polsinelli PC PAC</contributorName>
+      <payeeName>Mike Thompson for Congress</payeeName>
+      <recipientName>Mike Thompson</recipientName>
+      <amount>2000.00</amount>
+      <date>12/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Polsinelli PC PAC</contributorName>
+      <payeeName>Steve Chabot for Congress</payeeName>
+      <recipientName>Steve Chabot</recipientName>
+      <amount>1000.00</amount>
+      <date>12/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Polsinelli PC PAC</contributorName>
+      <payeeName>Hudson for Congress</payeeName>
+      <recipientName>Richard Hudson</recipientName>
+      <amount>1000.00</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Polsinelli PC PAC</contributorName>
+      <payeeName>Morgan Griffith for Congress</payeeName>
+      <recipientName>Morgan Griffith</recipientName>
+      <amount>2500.00</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Polsinelli PC PAC</contributorName>
+      <payeeName>Karen Bass for Congress</payeeName>
+      <recipientName>Karen Bass</recipientName>
+      <amount>2500.00</amount>
+      <date>12/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Polsinelli PC PAC</contributorName>
+      <payeeName>Lori Trahan for Congress</payeeName>
+      <recipientName>Lori Trahan</recipientName>
+      <amount>1000.00</amount>
+      <date>12/17/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>Devon Energy Production Company, LP</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>John Riesenberg</contactName>
+  <senateRegID>400422017</senateRegID>
+  <houseRegID>40644</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>My certification and disclosure are to the best of my knowledge and based on reasonable due diligence. </comments>
+  <signedDate>1/30/2020 12:04:04 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>
+  </noContributions>
+  <pacs>
+    <pac>
+      <name>DEVON ENERGY CORPORATION POLITICAL ACTION COMMITTEE (DEC PAC)</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DEVON ENERGY CORPORATION POLITICAL ACTION COMMITTEE (DEC PAC)</contributorName>
+      <payeeName>Hern For Congress</payeeName>
+      <recipientName>Rep. Kevin R. Hern</recipientName>
+      <amount>2500</amount>
+      <date>8/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DEVON ENERGY CORPORATION POLITICAL ACTION COMMITTEE (DEC PAC)</contributorName>
+      <payeeName>Mullin For Congress</payeeName>
+      <recipientName>Rep. Markwayne Mullin</recipientName>
+      <amount>2500</amount>
+      <date>8/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DEVON ENERGY CORPORATION POLITICAL ACTION COMMITTEE (DEC PAC)</contributorName>
+      <payeeName>Texans For Senator John Cornyn Inc.</payeeName>
+      <recipientName>Sen. John Cornyn, III</recipientName>
+      <amount>5000</amount>
+      <date>9/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DEVON ENERGY CORPORATION POLITICAL ACTION COMMITTEE (DEC PAC)</contributorName>
+      <payeeName>Bishop For Congress</payeeName>
+      <recipientName>Rep. Dan Bishop</recipientName>
+      <amount>1000</amount>
+      <date>9/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DEVON ENERGY CORPORATION POLITICAL ACTION COMMITTEE (DEC PAC)</contributorName>
+      <payeeName>Thom Tillis Committee</payeeName>
+      <recipientName>Sen. Thomas Roland Tillis</recipientName>
+      <amount>2500</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DEVON ENERGY CORPORATION POLITICAL ACTION COMMITTEE (DEC PAC)</contributorName>
+      <payeeName>Lucas For Congress</payeeName>
+      <recipientName>Rep. Frank Dean Lucas</recipientName>
+      <amount>2500</amount>
+      <date>12/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DEVON ENERGY CORPORATION POLITICAL ACTION COMMITTEE (DEC PAC)</contributorName>
+      <payeeName>John James For Senate, Inc.</payeeName>
+      <recipientName>John James</recipientName>
+      <amount>5000</amount>
+      <date>12/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DEVON ENERGY CORPORATION POLITICAL ACTION COMMITTEE (DEC PAC)</contributorName>
+      <payeeName>Claire Chase For Congress</payeeName>
+      <recipientName>Claire Chase</recipientName>
+      <amount>2500</amount>
+      <date>12/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DEVON ENERGY CORPORATION POLITICAL ACTION COMMITTEE (DEC PAC)</contributorName>
+      <payeeName>McConnell Senate Committee</payeeName>
+      <recipientName>Sen. Mitch McConnell</recipientName>
+      <amount>5000</amount>
+      <date>12/11/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>Continental Automotive Systems, Inc.</organizationName>
+  <lobbyistPrefix>Mr.</lobbyistPrefix>
+  <lobbyistFirstName>IAN</lobbyistFirstName>
+  <lobbyistMiddleName>P</lobbyistMiddleName>
+  <lobbyistLastName>MUSSELMAN</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>401019879</senateRegID>
+  <houseRegID>42196</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/22/2020 9:37:19 AM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>LKQ PAC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>LKQ PAC</contributorName>
+      <payeeName>House Republican Campaign Committee</payeeName>
+      <recipientName>GOP Caucus in the House of Delegates</recipientName>
+      <amount>3500.00</amount>
+      <date>7/15/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>LKQ PAC</contributorName>
+      <payeeName>Cathy McMorris Rodgers</payeeName>
+      <recipientName>U.S. Representative Cathy McMorris Rodgers</recipientName>
+      <amount>1000.00</amount>
+      <date>9/13/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>LKQ PAC</contributorName>
+      <payeeName>Marsha Blackburn </payeeName>
+      <recipientName>U.S. Senator Marsha Blackburn</recipientName>
+      <amount>5000.00</amount>
+      <date>10/1/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>LKQ PAC</contributorName>
+      <payeeName>Tammy Baldwin for Senate</payeeName>
+      <recipientName>U.S. Senatror Tammy Baldwin</recipientName>
+      <amount>1000.00</amount>
+      <date>10/24/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>LKQ PAC</contributorName>
+      <payeeName>Kevin McCarthy for Congress</payeeName>
+      <recipientName>U.S. Representative Kevin McCarthy</recipientName>
+      <amount>2500.00</amount>
+      <date>11/12/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>LKQ PAC</contributorName>
+      <payeeName>Drew Ferguson</payeeName>
+      <recipientName>U.S. Representative Drew Ferguson</recipientName>
+      <amount>2000.00</amount>
+      <date>11/22/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>LKQ PAC</contributorName>
+      <payeeName>David Kustoff</payeeName>
+      <recipientName>U.S. Representative David Kustoff</recipientName>
+      <amount>2000.00</amount>
+      <date>11/22/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>LKQ PAC</contributorName>
+      <payeeName>Steve Daines for U.S. Senate</payeeName>
+      <recipientName>U.S. Senator Steve Daines</recipientName>
+      <amount>1500.00</amount>
+      <date>12/16/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>LKQ PAC</contributorName>
+      <payeeName>Scott Fitzgerald For Congress</payeeName>
+      <recipientName>Scott Fitzgerald, Candidate for U.S. House of Representatives</recipientName>
+      <amount>1000.00</amount>
+      <date>12/20/19</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

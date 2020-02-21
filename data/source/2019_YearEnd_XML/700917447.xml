@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>American Federation of Musicians</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <zipext>
+  </zipext>
+  <contactName>Alfonso M Pollard</contactName>
+  <senateRegID>2310</senateRegID>
+  <houseRegID>31655</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/19/2020 3:50:40 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>Marcia Fudge for Congress</name>
+    </pac>
+    <pac>
+      <name>Bobby Scott for Congress</name>
+    </pac>
+    <pac>
+      <name>Cooper for Congress</name>
+    </pac>
+    <pac>
+      <name>Friends of Sherrod Brown</name>
+    </pac>
+    <pac>
+      <name>Nadler for Congress</name>
+    </pac>
+    <pac>
+      <name>Peterson for Congress</name>
+    </pac>
+    <pac>
+      <name>Valley PAC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Marcia Fudge for Congress</payeeName>
+      <recipientName>Marcia Fedge</recipientName>
+      <amount>1,000.00</amount>
+      <date>09/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Bobby Scott for Congress</payeeName>
+      <recipientName>Bobby Scott</recipientName>
+      <amount>1500.00</amount>
+      <date>10/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Cooper for Congress</payeeName>
+      <recipientName>Jim Cooper</recipientName>
+      <amount>1,000.00</amount>
+      <date>09/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Friends of Sherrod Brown</payeeName>
+      <recipientName>Sherrod Brown</recipientName>
+      <amount>1,000.00</amount>
+      <date>11/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Nadler for Congress</payeeName>
+      <recipientName>Jerrold Nadler</recipientName>
+      <amount>1,000.00</amount>
+      <date>08/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Peterson for Congress</payeeName>
+      <recipientName>Collin C Peterson</recipientName>
+      <amount>1500.00</amount>
+      <date>07/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Valley PAC</payeeName>
+      <recipientName>Collin Peterson</recipientName>
+      <amount>1,000.00</amount>
+      <date>10/25/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

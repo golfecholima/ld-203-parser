@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>Michael Torrey Associates, LLC</organizationName>
+  <lobbyistPrefix>Mr.</lobbyistPrefix>
+  <lobbyistFirstName>MICHAEL</lobbyistFirstName>
+  <lobbyistMiddleName>K</lobbyistMiddleName>
+  <lobbyistLastName>TORREY</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>297033</senateRegID>
+  <houseRegID>37546</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>Filer serves as the Treasurer of the Crop Insurance and Reinsurance Bureau PAC.</comments>
+  <signedDate>1/29/2020 3:02:11 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>Crop Insurance and Reinsurance Bureau PAC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Kansans for Marshall</payeeName>
+      <recipientName>Roger Marshall</recipientName>
+      <amount>500.00</amount>
+      <date>07/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>David Rouzer for Congress</payeeName>
+      <recipientName>David Rouzer</recipientName>
+      <amount>1000.00</amount>
+      <date>09/04/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Hudson for Congress</payeeName>
+      <recipientName>Richard Hudson</recipientName>
+      <amount>1000.00</amount>
+      <date>09/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Thompson for Congress</payeeName>
+      <recipientName>Glenn Thompson</recipientName>
+      <amount>500.00</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Mann for Congress</payeeName>
+      <recipientName>Tracey Mann</recipientName>
+      <amount>1000.00</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>The Thom Tillis Committee</payeeName>
+      <recipientName>Thom Tillis</recipientName>
+      <amount>500.00</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Team Hagerty</payeeName>
+      <recipientName>Bill Hagerty</recipientName>
+      <amount>250.00</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Rouzer for Congress</payeeName>
+      <recipientName>David Rouzer</recipientName>
+      <amount>1000.00</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Kansans for Marshall</payeeName>
+      <recipientName>Roger Marshall</recipientName>
+      <amount>1000.00</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Peterson for Congress</payeeName>
+      <recipientName>Collin Peterson</recipientName>
+      <amount>500.00</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Ron Estes for Congress</payeeName>
+      <recipientName>Ron Estes</recipientName>
+      <amount>500.00</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Smucker for Congress</payeeName>
+      <recipientName>Lloyd Smucker</recipientName>
+      <amount>500.00</amount>
+      <date>11/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Crop Insurance and Reinsurance Bureau PAC</contributorName>
+      <payeeName>Friends of Glenn Thompson</payeeName>
+      <recipientName>Glenn Thompson</recipientName>
+      <amount>2500.00</amount>
+      <date>10/07/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Crop Insurance and Reinsurance Bureau PAC</contributorName>
+      <payeeName>Rodney Davis for Congress</payeeName>
+      <recipientName>Rodney Davis</recipientName>
+      <amount>1000.00</amount>
+      <date>10/07/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Crop Insurance and Reinsurance Bureau PAC</contributorName>
+      <payeeName>Stabenow for U.S. Senate</payeeName>
+      <recipientName>Debbie Stabenow</recipientName>
+      <amount>1000.00</amount>
+      <date>11/26/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

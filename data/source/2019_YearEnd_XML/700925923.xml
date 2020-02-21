@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>DTE Energy</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>Zane Corriveau</contactName>
+  <senateRegID>12130</senateRegID>
+  <houseRegID>31815</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/30/2020 4:23:11 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>DTE Energy PAC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DTE Energy PAC</contributorName>
+      <payeeName>Michigan Republican Party Federal Account</payeeName>
+      <recipientName>Michigan Republican Party</recipientName>
+      <amount>5000.00</amount>
+      <date>7/1/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DTE Energy PAC</contributorName>
+      <payeeName>Wicker for Senate</payeeName>
+      <recipientName>Wicker, Roger</recipientName>
+      <amount>1500.00</amount>
+      <date>7/10/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DTE Energy PAC</contributorName>
+      <payeeName>Bergman for Congress</payeeName>
+      <recipientName>Bergman, Jack</recipientName>
+      <amount>2500.00</amount>
+      <date>7/10/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DTE Energy PAC</contributorName>
+      <payeeName>Hoyer Majority Fund</payeeName>
+      <recipientName>Hoyer, Steny</recipientName>
+      <amount>2500.00</amount>
+      <date>7/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DTE Energy PAC</contributorName>
+      <payeeName>Johnson for Congress</payeeName>
+      <recipientName>Johnson, Bill</recipientName>
+      <amount>1000.00</amount>
+      <date>7/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DTE Energy PAC</contributorName>
+      <payeeName>John Moolenaar for Congress</payeeName>
+      <recipientName>Moolenaar, John</recipientName>
+      <amount>2500.00</amount>
+      <date>8/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DTE Energy PAC</contributorName>
+      <payeeName>Wolverine PAC</payeeName>
+      <recipientName>Dingell, Debbie</recipientName>
+      <amount>5000.00</amount>
+      <date>11/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DTE Energy PAC</contributorName>
+      <payeeName>Upton for All of Us</payeeName>
+      <recipientName>Upton, Fred</recipientName>
+      <amount>5000.00</amount>
+      <date>11/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DTE Energy PAC</contributorName>
+      <payeeName>Hudson for Congress</payeeName>
+      <recipientName>Hudson, Richard</recipientName>
+      <amount>1000.00</amount>
+      <date>11/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DTE Energy PAC</contributorName>
+      <payeeName>Bergman for Congress</payeeName>
+      <recipientName>Bergman, Jack</recipientName>
+      <amount>2500.00</amount>
+      <date>11/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DTE Energy PAC</contributorName>
+      <payeeName>Andy Levin for Congress</payeeName>
+      <recipientName>Levin, Andy</recipientName>
+      <amount>2500.00</amount>
+      <date>11/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DTE Energy PAC</contributorName>
+      <payeeName>Hoosier PAC</payeeName>
+      <recipientName>Braun, Mike</recipientName>
+      <amount>2000.00</amount>
+      <date>11/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DTE Energy PAC</contributorName>
+      <payeeName>Michigan Future PAC</payeeName>
+      <recipientName>Kildee, Dan</recipientName>
+      <amount>2500.00</amount>
+      <date>11/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DTE Energy PAC</contributorName>
+      <payeeName>Bill Huizenga for Congress</payeeName>
+      <recipientName>Huizenga, Bill</recipientName>
+      <amount>2500.00</amount>
+      <date>11/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DTE Energy PAC</contributorName>
+      <payeeName>The Upper Hand Fund</payeeName>
+      <recipientName>Huizenga, Bill</recipientName>
+      <amount>2500.00</amount>
+      <date>11/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DTE Energy PAC</contributorName>
+      <payeeName>Repair the World</payeeName>
+      <recipientName>Levin, Andy</recipientName>
+      <amount>2500.00</amount>
+      <date>11/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DTE Energy PAC</contributorName>
+      <payeeName>Capito for West Virginia</payeeName>
+      <recipientName>Capito, Shelley Moore</recipientName>
+      <amount>2500.00</amount>
+      <date>11/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DTE Energy PAC</contributorName>
+      <payeeName>Michigan Future PAC</payeeName>
+      <recipientName>Kildee, Dan</recipientName>
+      <amount>2500.00</amount>
+      <date>11/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DTE Energy PAC</contributorName>
+      <payeeName>STAR PAC</payeeName>
+      <recipientName>Bergman, Jack</recipientName>
+      <amount>2500.00</amount>
+      <date>11/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DTE Energy PAC</contributorName>
+      <payeeName>Cory Gardner for Senate</payeeName>
+      <recipientName>Gardner, Cory</recipientName>
+      <amount>5000.00</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DTE Energy PAC</contributorName>
+      <payeeName>Hoyer Majority Fund</payeeName>
+      <recipientName>Hoyer, Steny</recipientName>
+      <amount>5000.00</amount>
+      <date>11/19/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DTE Energy PAC</contributorName>
+      <payeeName>IMPACT</payeeName>
+      <recipientName>Schumer, Chuck</recipientName>
+      <amount>5000.00</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DTE Energy PAC</contributorName>
+      <payeeName>Dutch Ruppersberger for Congress</payeeName>
+      <recipientName>Ruppersberger, Dutch</recipientName>
+      <amount>1000.00</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DTE Energy PAC</contributorName>
+      <payeeName>Manchin for West Virginia</payeeName>
+      <recipientName>Manchin, Joe</recipientName>
+      <amount>5000.00</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DTE Energy PAC</contributorName>
+      <payeeName>Wicker for Senate</payeeName>
+      <recipientName>Wicker, Roger</recipientName>
+      <amount>1500.00</amount>
+      <date>10/28/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DTE Energy PAC</contributorName>
+      <payeeName>Cole for Congress</payeeName>
+      <recipientName>Cole, Tom</recipientName>
+      <amount>2500.00</amount>
+      <date>10/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DTE Energy PAC</contributorName>
+      <payeeName>Clarke for Congress</payeeName>
+      <recipientName>Clarke, Yvette</recipientName>
+      <amount>1000.00</amount>
+      <date>10/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DTE Energy PAC</contributorName>
+      <payeeName>Friends of Dan Kildee</payeeName>
+      <recipientName>Kildee, Dan</recipientName>
+      <amount>2500.00</amount>
+      <date>9/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DTE Energy PAC</contributorName>
+      <payeeName>TRUSTPAC</payeeName>
+      <recipientName>Upton, Fred</recipientName>
+      <amount>5000.00</amount>
+      <date>9/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DTE Energy PAC</contributorName>
+      <payeeName>Alaskans for Dan Sullivan</payeeName>
+      <recipientName>Sullivan, Dan</recipientName>
+      <amount>2000.00</amount>
+      <date>9/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DTE Energy PAC</contributorName>
+      <payeeName>TIMW Fund</payeeName>
+      <recipientName>Walberg, Tim</recipientName>
+      <amount>5000.00</amount>
+      <date>9/27/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

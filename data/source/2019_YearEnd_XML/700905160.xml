@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>BROADCAST MUSIC, INC.</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <zipext>
+  </zipext>
+  <contactName>Michael Collins</contactName>
+  <senateRegID>7086</senateRegID>
+  <houseRegID>33763</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>My certification below is to the best of my knowledge based on reasonable due diligence.</comments>
+  <signedDate>1/13/2020 11:34:24 AM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>BMI Political Action Committee (PAC)</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>BMI Political Action Committee (PAC)</contributorName>
+      <payeeName>Jeffries for Congress</payeeName>
+      <recipientName>Hakeem Jeffries</recipientName>
+      <amount>5000.00</amount>
+      <date>07/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>BMI Political Action Committee (PAC)</contributorName>
+      <payeeName>Chris Coons for Delaware</payeeName>
+      <recipientName>Chris Coons</recipientName>
+      <amount>1500.00</amount>
+      <date>08/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>BMI Political Action Committee (PAC)</contributorName>
+      <payeeName>Making A Responsible Stand For Households In America PAC</payeeName>
+      <recipientName>Marsha Blackburn</recipientName>
+      <amount>2500.00</amount>
+      <date>10/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>BMI Political Action Committee (PAC)</contributorName>
+      <payeeName>Ted Lieu for Congress</payeeName>
+      <recipientName>Ted Lieu</recipientName>
+      <amount>1000.00</amount>
+      <date>10/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>BMI Political Action Committee (PAC)</contributorName>
+      <payeeName>Oceans PAC</payeeName>
+      <recipientName>Sheldon Whitehouse</recipientName>
+      <amount>2500.00</amount>
+      <date>10/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>BMI Political Action Committee (PAC)</contributorName>
+      <payeeName>Collins for Congress</payeeName>
+      <recipientName>Doug Collins</recipientName>
+      <amount>5000.00</amount>
+      <date>12/02/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>BMI Political Action Committee (PAC)</contributorName>
+      <payeeName>Oceans PAC</payeeName>
+      <recipientName>Sheldon Whitehouse</recipientName>
+      <amount>2500.00</amount>
+      <date>12/02/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>BMI Political Action Committee (PAC)</contributorName>
+      <payeeName>Cooper for Congress</payeeName>
+      <recipientName>Jim Cooper</recipientName>
+      <amount>1000.00</amount>
+      <date>12/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>BMI Political Action Committee (PAC)</contributorName>
+      <payeeName>Making A Responsible Stand For Households In America PAC</payeeName>
+      <recipientName>Marsha Blackburn</recipientName>
+      <amount>2500.00</amount>
+      <date>12/11/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

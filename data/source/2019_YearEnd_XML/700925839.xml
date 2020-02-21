@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>SIMPLOT CO. J.R.</organizationName>
+  <lobbyistPrefix>Mr.</lobbyistPrefix>
+  <lobbyistFirstName>Ken</lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>Dey</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>12802</senateRegID>
+  <houseRegID>32698</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/30/2020 4:07:59 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>SIMPAC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>SIMPAC</contributorName>
+      <payeeName>Simpson For Congress</payeeName>
+      <recipientName>Rep. Mike Simpson</recipientName>
+      <amount>5000.00</amount>
+      <date>08/01/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>SIMPAC</contributorName>
+      <payeeName>Fulcher for Idaho</payeeName>
+      <recipientName>Rep. Russ Fulcher</recipientName>
+      <amount>2500.00</amount>
+      <date>08/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>SIMPAC</contributorName>
+      <payeeName>Dan Newhouse for Congress</payeeName>
+      <recipientName>Rep. Dan Newhouse</recipientName>
+      <amount>5000.00</amount>
+      <date>08/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>SIMPAC</contributorName>
+      <payeeName>McConnell for Senate Committee</payeeName>
+      <recipientName>Sen. Mitch McConnell</recipientName>
+      <amount>2500.00</amount>
+      <date>08/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>SIMPAC</contributorName>
+      <payeeName>Cramer for Senate</payeeName>
+      <recipientName>Sen. Kevin Cramer</recipientName>
+      <amount>1000.00</amount>
+      <date>10/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>SIMPAC</contributorName>
+      <payeeName>Jim Costa for Congress</payeeName>
+      <recipientName>Rep. Jim Costa</recipientName>
+      <amount>2500.00</amount>
+      <date>10/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>SIMPAC</contributorName>
+      <payeeName>Doug LaMalfa Committee</payeeName>
+      <recipientName>Rep. Doug LaMalfa</recipientName>
+      <amount>1000.00</amount>
+      <date>12/02/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Cathy McMorris Rodgers for Congress</payeeName>
+      <recipientName>Rep. Cathy McMorris</recipientName>
+      <amount>2500.00</amount>
+      <date>12/02/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>SIMPAC</contributorName>
+      <payeeName>Jerry McNerney for Congress</payeeName>
+      <recipientName>Rep. Jerry McNerney</recipientName>
+      <amount>2500.00</amount>
+      <date>12/02/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>SIMPAC</contributorName>
+      <payeeName>Liz Cheney for Wyoming</payeeName>
+      <recipientName>Rep. Liz Cheney</recipientName>
+      <amount>2500.00</amount>
+      <date>12/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>SIMPAC</contributorName>
+      <payeeName>AFFI PAC</payeeName>
+      <recipientName>American Frozen Food Institute PAC</recipientName>
+      <amount>5000.00</amount>
+      <date>08/15/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

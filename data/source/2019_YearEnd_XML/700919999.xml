@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>WPX Energy, Inc.</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <zipext>
+  </zipext>
+  <contactName>Dennis Cameron</contactName>
+  <senateRegID>400872556</senateRegID>
+  <houseRegID>41929</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/24/2020 10:09:32 AM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>WPX Energy PAC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>WPX Energy PAC</contributorName>
+      <payeeName>Cory Gardner for Senate</payeeName>
+      <recipientName>Sen. Cory Gardner</recipientName>
+      <amount>5000.00</amount>
+      <date>08/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>WPX Energy PAC</contributorName>
+      <payeeName>Mullin for Congress</payeeName>
+      <recipientName>Rep. MarkWayne Mullin</recipientName>
+      <amount>2500.00</amount>
+      <date>08/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>WPX Energy PAC</contributorName>
+      <payeeName>Elizabeth Pennell Fletcher for Congress</payeeName>
+      <recipientName>Rep. Elizabeth Fletcher</recipientName>
+      <amount>1000.00</amount>
+      <date>08/21/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

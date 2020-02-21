@@ -1,0 +1,847 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>Aircraft Owners &amp; Pilots Association</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>Kathleen A. Yodice</contactName>
+  <senateRegID>625</senateRegID>
+  <houseRegID>30016</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>The person certifying this report serves as counsel to AOPA. </comments>
+  <signedDate>1/30/2020 5:20:19 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>AOPA PAC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AOPA PAC</contributorName>
+      <payeeName>Citizens to Elect Rick Larsen</payeeName>
+      <recipientName>none</recipientName>
+      <amount>2500.00</amount>
+      <date>09/30/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AOPA PAC</contributorName>
+      <payeeName>Citizens to Elect Rick Larsen</payeeName>
+      <recipientName>none</recipientName>
+      <amount>5000.00</amount>
+      <date>09/30/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AOPA PAC</contributorName>
+      <payeeName>Cory Gardner for Senate</payeeName>
+      <recipientName>none</recipientName>
+      <amount>1000.00</amount>
+      <date>09/30/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AOPA PAC</contributorName>
+      <payeeName>Cory Gardner for Senate</payeeName>
+      <recipientName>none</recipientName>
+      <amount>5000.00</amount>
+      <date>09/30/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AOPA PAC</contributorName>
+      <payeeName>David Rouzer for Congress</payeeName>
+      <recipientName>none</recipientName>
+      <amount>5000.00</amount>
+      <date>09/30/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AOPA PAC</contributorName>
+      <payeeName>Defazio for Congress</payeeName>
+      <recipientName>none</recipientName>
+      <amount>5000.00</amount>
+      <date>09/30/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AOPA PAC</contributorName>
+      <payeeName>Doug Lamalfa Committee</payeeName>
+      <recipientName>none</recipientName>
+      <amount>2500.00</amount>
+      <date>09/30/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AOPA PAC</contributorName>
+      <payeeName>Julia Brownley for Congress</payeeName>
+      <recipientName>none</recipientName>
+      <amount>2500.00</amount>
+      <date>09/30/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AOPA PAC</contributorName>
+      <payeeName>Napolitano for Congress</payeeName>
+      <recipientName>none</recipientName>
+      <amount>2500.00</amount>
+      <date>09/30/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AOPA PAC</contributorName>
+      <payeeName>Scalise Leadership Fund</payeeName>
+      <recipientName>none</recipientName>
+      <amount>5000.00</amount>
+      <date>09/30/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AOPA PAC</contributorName>
+      <payeeName>Steve Cohen for Congress</payeeName>
+      <recipientName>none</recipientName>
+      <amount>2500.00</amount>
+      <date>09/30/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AOPA PAC</contributorName>
+      <payeeName>Westerman for Congress</payeeName>
+      <recipientName>none</recipientName>
+      <amount>2500.00</amount>
+      <date>09/30/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AOPA PAC</contributorName>
+      <payeeName>Brenda Lawrence for Congress</payeeName>
+      <recipientName>none</recipientName>
+      <amount>2500.00</amount>
+      <date>11/8/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AOPA PAC</contributorName>
+      <payeeName>Garret Graves for Congress</payeeName>
+      <recipientName>none</recipientName>
+      <amount>2500.00</amount>
+      <date>09/30/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AOPA PAC</contributorName>
+      <payeeName>Kahele for Congress</payeeName>
+      <recipientName>none</recipientName>
+      <amount>5000.00</amount>
+      <date>11/8/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AOPA PAC</contributorName>
+      <payeeName>Kansans for Marshall</payeeName>
+      <recipientName>none</recipientName>
+      <amount>3000.00</amount>
+      <date>11/8/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AOPA PAC</contributorName>
+      <payeeName>Perdue for Senate</payeeName>
+      <recipientName>none</recipientName>
+      <amount>2500.00</amount>
+      <date>11/8/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AOPA PAC</contributorName>
+      <payeeName>Steil for Wisconsin, Inc.</payeeName>
+      <recipientName>none</recipientName>
+      <amount>2500.00</amount>
+      <date>11/8/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AOPA PAC</contributorName>
+      <payeeName>Thom Tillis Committee</payeeName>
+      <recipientName>none</recipientName>
+      <amount>2500.00</amount>
+      <date>11/8/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AOPA PAC</contributorName>
+      <payeeName>The Peter Norbeck Leadership PAC</payeeName>
+      <recipientName>none</recipientName>
+      <amount>5000.00</amount>
+      <date>11/8/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AOPA PAC</contributorName>
+      <payeeName>Dirigo PAC</payeeName>
+      <recipientName>none</recipientName>
+      <amount>1000.00</amount>
+      <date>11/8/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AOPA PAC</contributorName>
+      <payeeName>Perimeter PAC</payeeName>
+      <recipientName>none</recipientName>
+      <amount>5000.00</amount>
+      <date>11/8/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AOPA PAC</contributorName>
+      <payeeName>Matt Rosendale for Montana</payeeName>
+      <recipientName>none</recipientName>
+      <amount>1500.00</amount>
+      <date>11/12/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AOPA PAC</contributorName>
+      <payeeName>Alaskans for Don Young</payeeName>
+      <recipientName>none</recipientName>
+      <amount>2500.00</amount>
+      <date>11/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AOPA PAC</contributorName>
+      <payeeName>Alaskans for Don Young</payeeName>
+      <recipientName>none</recipientName>
+      <amount>2500.00</amount>
+      <date>11/12/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AOPA PAC</contributorName>
+      <payeeName>Graves for Congress</payeeName>
+      <recipientName>none</recipientName>
+      <amount>5000.00</amount>
+      <date>11/12/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AOPA PAC</contributorName>
+      <payeeName>McSally for Senate Inc</payeeName>
+      <recipientName>none</recipientName>
+      <amount>5000.00</amount>
+      <date>11/12/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AOPA PAC</contributorName>
+      <payeeName>Steve Daines for Montana</payeeName>
+      <recipientName>none</recipientName>
+      <amount>5000.00</amount>
+      <date>11/12/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AOPA PAC</contributorName>
+      <payeeName>Carol for Congress</payeeName>
+      <recipientName>none</recipientName>
+      <amount>2500.00</amount>
+      <date>12/11/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AOPA PAC</contributorName>
+      <payeeName>Lois Frankel for Congress</payeeName>
+      <recipientName>none</recipientName>
+      <amount>5000.00</amount>
+      <date>12/11/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AOPA PAC</contributorName>
+      <payeeName>Wicker for Senate</payeeName>
+      <recipientName>none</recipientName>
+      <amount>5000.00</amount>
+      <date>12/11/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AOPA PAC</contributorName>
+      <payeeName>Kirkpatrick for Arizona</payeeName>
+      <recipientName>none</recipientName>
+      <amount>2500.00</amount>
+      <date>12/11/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AOPA PAC</contributorName>
+      <payeeName>Eddie Bernice Johnson for Congress</payeeName>
+      <recipientName>none</recipientName>
+      <amount>2500.00</amount>
+      <date>12/11/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AOPA PAC</contributorName>
+      <payeeName>Citizens for Eleanor Holmes Norton</payeeName>
+      <recipientName>none</recipientName>
+      <amount>2500.00</amount>
+      <date>12/11/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AOPA PAC</contributorName>
+      <payeeName>Gary Palmer for Congress</payeeName>
+      <recipientName>none</recipientName>
+      <amount>1000.00</amount>
+      <date>12/11/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AOPA PAC</contributorName>
+      <payeeName>Greg Pence for Congress</payeeName>
+      <recipientName>none</recipientName>
+      <amount>2500.00</amount>
+      <date>12/11/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AOPA PAC</contributorName>
+      <payeeName>Stanton for Congress</payeeName>
+      <recipientName>none</recipientName>
+      <amount>2500.00</amount>
+      <date>12/11/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AOPA PAC</contributorName>
+      <payeeName>Huffman for Congress</payeeName>
+      <recipientName>none</recipientName>
+      <amount>2500.00</amount>
+      <date>12/11/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AOPA PAC</contributorName>
+      <payeeName>Cartwright for Congress</payeeName>
+      <recipientName>none</recipientName>
+      <amount>2500.00</amount>
+      <date>12/11/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AOPA PAC</contributorName>
+      <payeeName>Cole for Congress</payeeName>
+      <recipientName>none</recipientName>
+      <amount>2500.00</amount>
+      <date>12/11/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AOPA PAC</contributorName>
+      <payeeName>Van Hollen for Senate</payeeName>
+      <recipientName>none</recipientName>
+      <amount>5000.00</amount>
+      <date>12/11/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AOPA PAC</contributorName>
+      <payeeName>McConnell Senate Committee</payeeName>
+      <recipientName>none</recipientName>
+      <amount>5000.00</amount>
+      <date>12/11/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AOPA PAC</contributorName>
+      <payeeName>Debbie for Congress</payeeName>
+      <recipientName>none</recipientName>
+      <amount>2500.00</amount>
+      <date>12/11/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AOPA PAC</contributorName>
+      <payeeName>Michael Waltz for Congress</payeeName>
+      <recipientName>none</recipientName>
+      <amount>2500.00</amount>
+      <date>12/11/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AOPA PAC</contributorName>
+      <payeeName>Robert Aderholt for Congress</payeeName>
+      <recipientName>none</recipientName>
+      <amount>2500.00</amount>
+      <date>12/11/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AOPA PAC</contributorName>
+      <payeeName>Virginia Foxx for Congress</payeeName>
+      <recipientName>none</recipientName>
+      <amount>4000.00</amount>
+      <date>12/11/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AOPA PAC</contributorName>
+      <payeeName>Friends of John Thune</payeeName>
+      <recipientName>none</recipientName>
+      <amount>2000.00</amount>
+      <date>12/11/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AOPA PAC</contributorName>
+      <payeeName>Sinema for Arizona</payeeName>
+      <recipientName>none</recipientName>
+      <amount>2000.00</amount>
+      <date>12/11/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AOPA PAC</contributorName>
+      <payeeName>Price for Congress</payeeName>
+      <recipientName>none</recipientName>
+      <amount>2500.00</amount>
+      <date>12/11/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AOPA PAC</contributorName>
+      <payeeName>Mike Desaulnier for Congress</payeeName>
+      <recipientName>none</recipientName>
+      <amount>2500.00</amount>
+      <date>12/11/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AOPA PAC</contributorName>
+      <payeeName>Friends of Rosa Delauro</payeeName>
+      <recipientName>none</recipientName>
+      <amount>1000.00</amount>
+      <date>12/11/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AOPA PAC</contributorName>
+      <payeeName>Womack for Congress Committee</payeeName>
+      <recipientName>none</recipientName>
+      <amount>2500.00</amount>
+      <date>12/11/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AOPA PAC</contributorName>
+      <payeeName>Alaskans for Dan Sullivan</payeeName>
+      <recipientName>none</recipientName>
+      <amount>2000.00</amount>
+      <date>12/11/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AOPA PAC</contributorName>
+      <payeeName>The Reed Committee</payeeName>
+      <recipientName>none</recipientName>
+      <amount>2500.00</amount>
+      <date>12/11/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AOPA PAC</contributorName>
+      <payeeName>Shaheen for Senate</payeeName>
+      <recipientName>none</recipientName>
+      <amount>3000.00</amount>
+      <date>12/11/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AOPA PAC</contributorName>
+      <payeeName>Alan Lowenthall for Congress</payeeName>
+      <recipientName>none</recipientName>
+      <amount>2500.00</amount>
+      <date>12/11/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AOPA PAC</contributorName>
+      <payeeName>Andre Carson for Congress</payeeName>
+      <recipientName>none</recipientName>
+      <amount>5000.00</amount>
+      <date>12/11/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AOPA PAC</contributorName>
+      <payeeName>Friends of Cheri Bustos</payeeName>
+      <recipientName>none</recipientName>
+      <amount>5000.00</amount>
+      <date>12/11/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AOPA PAC</contributorName>
+      <payeeName>Meadows for Congress</payeeName>
+      <recipientName>none</recipientName>
+      <amount>2500.00</amount>
+      <date>12/11/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AOPA PAC</contributorName>
+      <payeeName>Sean Patrick Maloney for Congress</payeeName>
+      <recipientName>none</recipientName>
+      <amount>2500.00</amount>
+      <date>12/11/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AOPA PAC</contributorName>
+      <payeeName>John Carter for Congress</payeeName>
+      <recipientName>none</recipientName>
+      <amount>5000.00</amount>
+      <date>12/11/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AOPA PAC</contributorName>
+      <payeeName>Mike Gallagher for Wisconsin</payeeName>
+      <recipientName>none</recipientName>
+      <amount>2500.00</amount>
+      <date>12/11/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AOPA PAC</contributorName>
+      <payeeName>Tammy for Illinois</payeeName>
+      <recipientName>none</recipientName>
+      <amount>3000.00</amount>
+      <date>12/11/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AOPA PAC</contributorName>
+      <payeeName>Liz Cheney for Wyoming</payeeName>
+      <recipientName>none</recipientName>
+      <amount>2500.00</amount>
+      <date>12/11/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AOPA PAC</contributorName>
+      <payeeName>Norma Torres for Congress</payeeName>
+      <recipientName>none</recipientName>
+      <amount>2500.00</amount>
+      <date>12/11/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AOPA PAC</contributorName>
+      <payeeName>Weber for Congress</payeeName>
+      <recipientName>none</recipientName>
+      <amount>2500.00</amount>
+      <date>12/11/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AOPA PAC</contributorName>
+      <payeeName>Families for James Lankford</payeeName>
+      <recipientName>none</recipientName>
+      <amount>1500.00</amount>
+      <date>12/11/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AOPA PAC</contributorName>
+      <payeeName>John Kennedy for Us</payeeName>
+      <recipientName>none</recipientName>
+      <amount>2500.00</amount>
+      <date>12/11/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AOPA PAC</contributorName>
+      <payeeName>LANK PAC</payeeName>
+      <recipientName>none</recipientName>
+      <amount>5000.00</amount>
+      <date>12/11/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AOPA PAC</contributorName>
+      <payeeName>Daniel Webster for Congress</payeeName>
+      <recipientName>none</recipientName>
+      <amount>2500.00</amount>
+      <date>12/11/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AOPA PAC</contributorName>
+      <payeeName>Guy for Congress</payeeName>
+      <recipientName>none</recipientName>
+      <amount>1000.00</amount>
+      <date>12/11/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AOPA PAC</contributorName>
+      <payeeName>Salud Carbajal for Congress</payeeName>
+      <recipientName>none</recipientName>
+      <amount>2500.00</amount>
+      <date>12/11/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AOPA PAC</contributorName>
+      <payeeName>Votetipton.com</payeeName>
+      <recipientName>none</recipientName>
+      <amount>2500.00</amount>
+      <date>12/11/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AOPA PAC</contributorName>
+      <payeeName>Sharice for Congress</payeeName>
+      <recipientName>none</recipientName>
+      <amount>2500.00</amount>
+      <date>12/11/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AOPA PAC</contributorName>
+      <payeeName>Thomas Massie for Congress</payeeName>
+      <recipientName>none</recipientName>
+      <amount>2500.00</amount>
+      <date>12/11/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AOPA PAC</contributorName>
+      <payeeName>Moran for Kansas</payeeName>
+      <recipientName>none</recipientName>
+      <amount>2500.00</amount>
+      <date>12/11/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AOPA PAC</contributorName>
+      <payeeName>Lisa Murkowski for US Senate</payeeName>
+      <recipientName>none</recipientName>
+      <amount>2500.00</amount>
+      <date>12/11/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AOPA PAC</contributorName>
+      <payeeName>Kurt Schrader for Congress</payeeName>
+      <recipientName>none</recipientName>
+      <amount>2500.00</amount>
+      <date>12/11/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AOPA PAC</contributorName>
+      <payeeName>Quigley for Congress</payeeName>
+      <recipientName>none</recipientName>
+      <amount>2500.00</amount>
+      <date>12/11/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AOPA PAC</contributorName>
+      <payeeName>PADPAC</payeeName>
+      <recipientName>none</recipientName>
+      <amount>5000.00</amount>
+      <date>12/11/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AOPA PAC</contributorName>
+      <payeeName>Vicky Hartzler for Congress</payeeName>
+      <recipientName>none</recipientName>
+      <amount>2500.00</amount>
+      <date>12/11/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AOPA PAC</contributorName>
+      <payeeName>Cindy Hyde-Smith for US Senate</payeeName>
+      <recipientName>none</recipientName>
+      <amount>2500.00</amount>
+      <date>12/11/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AOPA PAC</contributorName>
+      <payeeName>Capito for West Virginia</payeeName>
+      <recipientName>none</recipientName>
+      <amount>1500.00</amount>
+      <date>12/11/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AOPA PAC</contributorName>
+      <payeeName>Colin Allred for Congress</payeeName>
+      <recipientName>none</recipientName>
+      <amount>2500.00</amount>
+      <date>12/11/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AOPA PAC</contributorName>
+      <payeeName>Boozman for Arkansas</payeeName>
+      <recipientName>none</recipientName>
+      <amount>5000.00</amount>
+      <date>12/11/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AOPA PAC</contributorName>
+      <payeeName>Dr. Brian Babin for Congress</payeeName>
+      <recipientName>none</recipientName>
+      <amount>2500.00</amount>
+      <date>12/11/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AOPA PAC</contributorName>
+      <payeeName>Mario Diaz-Balart for Congress</payeeName>
+      <recipientName>none</recipientName>
+      <amount>5000.00</amount>
+      <date>12/11/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AOPA PAC</contributorName>
+      <payeeName>Dina Titus for Congress</payeeName>
+      <recipientName>none</recipientName>
+      <amount>2500.00</amount>
+      <date>12/11/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AOPA PAC</contributorName>
+      <payeeName>Angie Craig for Congress</payeeName>
+      <recipientName>none</recipientName>
+      <amount>2500.00</amount>
+      <date>12/11/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AOPA PAC</contributorName>
+      <payeeName>Lance Gooden for Congress Committee</payeeName>
+      <recipientName>none</recipientName>
+      <amount>2000.00</amount>
+      <date>12/11/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AOPA PAC</contributorName>
+      <payeeName>McConnell Senate Committee</payeeName>
+      <recipientName>none</recipientName>
+      <amount>3000.00</amount>
+      <date>12/11/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AOPA PAC</contributorName>
+      <payeeName>Marco Rubio for US Senate</payeeName>
+      <recipientName>none</recipientName>
+      <amount>4000.00</amount>
+      <date>12/11/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AOPA PAC</contributorName>
+      <payeeName>PUGET PAC</payeeName>
+      <recipientName>none</recipientName>
+      <amount>5000.00</amount>
+      <date>12/11/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AOPA PAC</contributorName>
+      <payeeName>Peterson for Congress</payeeName>
+      <recipientName>none</recipientName>
+      <amount>5000.00</amount>
+      <date>12/11/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AOPA PAC</contributorName>
+      <payeeName>Smucker for Congress</payeeName>
+      <recipientName>none</recipientName>
+      <amount>2500.00</amount>
+      <date>12/11/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AOPA PAC</contributorName>
+      <payeeName>Dr. Brian Babin for Congress</payeeName>
+      <recipientName>none</recipientName>
+      <amount>1000.00</amount>
+      <date>12/19/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AOPA PAC</contributorName>
+      <payeeName>Crawford for Congress</payeeName>
+      <recipientName>none</recipientName>
+      <amount>1000.00</amount>
+      <date>12/19/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AOPA PAC</contributorName>
+      <payeeName>Palazzo for Congress</payeeName>
+      <recipientName>none</recipientName>
+      <amount>1000.00</amount>
+      <date>12/19/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AOPA PAC</contributorName>
+      <payeeName>Mast for Congress</payeeName>
+      <recipientName>none</recipientName>
+      <amount>2500.00</amount>
+      <date>12/20/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AOPA PAC</contributorName>
+      <payeeName>Chris Pappas for Congress</payeeName>
+      <recipientName>none</recipientName>
+      <amount>2500.00</amount>
+      <date>12/23/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AOPA PAC</contributorName>
+      <payeeName>Rounds for Senate</payeeName>
+      <recipientName>none</recipientName>
+      <amount>2500.00</amount>
+      <date>11/29/19</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

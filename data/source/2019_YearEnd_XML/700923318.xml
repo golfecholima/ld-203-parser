@@ -1,0 +1,1190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>Huntington Ingalls Industries Incorporated</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <zipext>
+  </zipext>
+  <contactName>Sandra L. Sentell</contactName>
+  <senateRegID>400752252</senateRegID>
+  <houseRegID>41668</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/29/2020 2:00:20 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>HUNTINGTON INGALLS INDUSTRIES PAC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>CA LUV PAC</payeeName>
+      <recipientName>REP. PETE AGUILAR</recipientName>
+      <amount>1500.00</amount>
+      <date>7/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>NUTMEG PAC</payeeName>
+      <recipientName>SEN RICHARD BLUMENTHAL</recipientName>
+      <amount>1000.00</amount>
+      <date>7/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>ARKPAC</payeeName>
+      <recipientName>SEN JOHN BOOZMAN</recipientName>
+      <amount>3000.00</amount>
+      <date>7/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>COLE FOR CONGRESS</payeeName>
+      <recipientName>REP TOM COLE</recipientName>
+      <amount>1000.00</amount>
+      <date>7/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>COURTNEY FOR CONGRESS</payeeName>
+      <recipientName>REP JOE COURTNEY</recipientName>
+      <amount>2500.00</amount>
+      <date>7/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>FRIENDS OF DICK DURBIN COMMITTEE</payeeName>
+      <recipientName>SEN DICK DURBIN</recipientName>
+      <amount>1500.00</amount>
+      <date>7/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>FRIENDS OF DICK DURBIN COMMITTEE</payeeName>
+      <recipientName>SEN DICK DURBIN</recipientName>
+      <amount>1000.00</amount>
+      <date>7/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>PRAIRIE PAC</payeeName>
+      <recipientName>SEN DICK DURBIN</recipientName>
+      <amount>2500.00</amount>
+      <date>7/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>GARAMENDI FOR CONGRESSS</payeeName>
+      <recipientName>REP JOHN GARAMENDI</recipientName>
+      <amount>1000.00</amount>
+      <date>7/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>TEAM GRAHAM INC</payeeName>
+      <recipientName>SEN LINDSAY GRAHAM</recipientName>
+      <amount>1000.00</amount>
+      <date>7/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>DOUG JONES FOR SENATE COMMITTEE</payeeName>
+      <recipientName>SEN DOUG JONES</recipientName>
+      <amount>1000.00</amount>
+      <date>7/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>THE BILL KEATING COMMITTEE</payeeName>
+      <recipientName>REP BILL KEATING</recipientName>
+      <amount>1000.00</amount>
+      <date>7/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>DEREK PAC</payeeName>
+      <recipientName>REP DEREK KILMER</recipientName>
+      <amount>2500.00</amount>
+      <date>7/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>KIRKPATRICK FOR CONGRESS</payeeName>
+      <recipientName>REP ANN KIRKPATRICK</recipientName>
+      <amount>2000.00</amount>
+      <date>7/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>CITIZENS TO ELECT RICK LARSEN</payeeName>
+      <recipientName>REP RICK LARSEN</recipientName>
+      <amount>1500.00</amount>
+      <date>7/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>MCCONNELL SENATE COMMITTEE</payeeName>
+      <recipientName>SEN MITCH MCCONNELL</recipientName>
+      <amount>2500.00</amount>
+      <date>7/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>RICHMOND FOR CONGRESS</payeeName>
+      <recipientName>REP CEDRIC RICHMOND</recipientName>
+      <amount>1000.00</amount>
+      <date>7/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>DUTCH RUPPERSBERGER FOR CONGRESS COMMITTEE</payeeName>
+      <recipientName>REP DUTCH RUPPERSBERGER</recipientName>
+      <amount>2000.00</amount>
+      <date>7/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>DUTCH RUPPERSBERGER FOR CONGRESS COMMITTEE</payeeName>
+      <recipientName>REP DUTCH RUPPERSBERGER</recipientName>
+      <amount>500.00</amount>
+      <date>7/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>EYE OF THE TIGER PAC</payeeName>
+      <recipientName>REP STEVE SCALISE</recipientName>
+      <amount>2500.00</amount>
+      <date>7/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>SCHATZ FOR SENATE</payeeName>
+      <recipientName>SEN BRIAN SCHATZ</recipientName>
+      <amount>1000.00</amount>
+      <date>7/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>SHAHEEN FOR SENATE</payeeName>
+      <recipientName>SEN JEANNE SHAHEEN</recipientName>
+      <amount>500.00</amount>
+      <date>7/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>MIKIE SHERRILL FOR CONGRESS</payeeName>
+      <recipientName>REP MIKIE SHERRILL</recipientName>
+      <amount>500.00</amount>
+      <date>7/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>MIKIE SHERRILL FOR CONGRESS</payeeName>
+      <recipientName>REP MIKIE SHERRILL</recipientName>
+      <amount>500.00</amount>
+      <date>7/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>FRIENDS OF BENNIE THOMPSON</payeeName>
+      <recipientName>REP BENNIE THOMPSON</recipientName>
+      <amount>1000.00</amount>
+      <date>7/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>WEXTON FOR CONGRESS</payeeName>
+      <recipientName>REP JENNIFER WEXTON</recipientName>
+      <amount>2000.00</amount>
+      <date>7/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>RESPONSIBILITY AND FREEDOM WORKS PAC</payeeName>
+      <recipientName>SEN ROGER WICKER</recipientName>
+      <amount>1500.00</amount>
+      <date>7/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>RESPONSIBILITY AND FREEDOM WORKS PAC</payeeName>
+      <recipientName>SEN ROGER WICKER</recipientName>
+      <amount>1500.00</amount>
+      <date>7/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>CITIZENS FOR JOHN RUTHERFORD</payeeName>
+      <recipientName>REP JOHN RUTHERFORD</recipientName>
+      <amount>1000.00</amount>
+      <date>9/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>DIRIGO PAC</payeeName>
+      <recipientName>SEN SUSAN COLLINS</recipientName>
+      <amount>3000.00</amount>
+      <date>9/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>FUND FOR A CONSERVATIVE FUTURE</payeeName>
+      <recipientName>SEN JIM INHOFE</recipientName>
+      <amount>5000.00</amount>
+      <date>9/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>TRUE NORTH PAC</payeeName>
+      <recipientName>SEN DAN SULLIVAN</recipientName>
+      <amount>5000.00</amount>
+      <date>9/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>MARSHA PAC</payeeName>
+      <recipientName>SEN MARSHA BLACKBURN</recipientName>
+      <amount>1000.00</amount>
+      <date>9/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>ANTHONY BROWN FOR CONGRESS</payeeName>
+      <recipientName>REP ANTHONY BROWN</recipientName>
+      <amount>1000.00</amount>
+      <date>9/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>CONNOLLY FOR CONGRESS</payeeName>
+      <recipientName>REP GERRY CONNOLLY</recipientName>
+      <amount>1000.00</amount>
+      <date>9/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>PAUL COOK FOR CONGRESS</payeeName>
+      <recipientName>REP PAUL COOK</recipientName>
+      <amount>1000.00</amount>
+      <date>9/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>COURTNEY FOR CONGRESS</payeeName>
+      <recipientName>REP JOE COURTNEY</recipientName>
+      <amount>500.00</amount>
+      <date>9/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>COURTNEY FOR CONGRESS</payeeName>
+      <recipientName>REP JOE COURTNEY</recipientName>
+      <amount>500.00</amount>
+      <date>9/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>CHARLIE CRIST FOR CONGRESS</payeeName>
+      <recipientName>REP CHARLIE CRIST</recipientName>
+      <amount>2500.00</amount>
+      <date>9/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>CHARLIE CRIST FOR CONGRESS</payeeName>
+      <recipientName>REP CHARLIE CRIST</recipientName>
+      <amount>2500.00</amount>
+      <date>9/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>SUSAN DAVIS FOR CONGRESS</payeeName>
+      <recipientName>REP SUSAN DAVIS</recipientName>
+      <amount>1000.00</amount>
+      <date>9/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>DEFAZIO FOR CONGRESS</payeeName>
+      <recipientName>REP PETER DEFAZIO</recipientName>
+      <amount>1500.00</amount>
+      <date>9/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>MARIO DIAZ-BALART FOR CONGRESS</payeeName>
+      <recipientName>REP MARIO DIAZ-BALART</recipientName>
+      <amount>1500.00</amount>
+      <date>9/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>VERONICA ESCOBAR FOR CONGRESS</payeeName>
+      <recipientName>REP VERONICA ESCOBAR</recipientName>
+      <amount>2000.00</amount>
+      <date>9/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>MIKE GALLAGHER FOR WISCONSIN</payeeName>
+      <recipientName>REP MIKE GALLAGHER</recipientName>
+      <amount>2500.00</amount>
+      <date>9/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>GARAMENDI FOR CONGRESS</payeeName>
+      <recipientName>REP JOHN GARAMENDI</recipientName>
+      <amount>1000.00</amount>
+      <date>9/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>GIBBS FOR CONGRESS</payeeName>
+      <recipientName>REP BOB GIBBS</recipientName>
+      <amount>1000.00</amount>
+      <date>9/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>HOYER FOR CONGRESS</payeeName>
+      <recipientName>REP STENY HOYER</recipientName>
+      <amount>1500.00</amount>
+      <date>9/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>KAINE FOR VIRGINIA</payeeName>
+      <recipientName>SEN TIM KAINE</recipientName>
+      <amount>1000.00</amount>
+      <date>9/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>KELLY FOR CONGRESS</payeeName>
+      <recipientName>REP TRENT KELLY</recipientName>
+      <amount>1000.00</amount>
+      <date>9/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>KINZINGER FOR CONGRESS</payeeName>
+      <recipientName>REP ADAM KINZINGER</recipientName>
+      <amount>1000.00</amount>
+      <date>9/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>LANGEVIN FOR CONGRESS</payeeName>
+      <recipientName>REP JIM LANGEVIN</recipientName>
+      <amount>1000.00</amount>
+      <date>9/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>NITA LOWEY FOR CONGRESS</payeeName>
+      <recipientName>REP NITA LOWEY</recipientName>
+      <amount>2000.00</amount>
+      <date>9/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>LISA MURKOWSKI FOR US SENATE</payeeName>
+      <recipientName>SEN LISA MURKOWSKI</recipientName>
+      <amount>1000.00</amount>
+      <date>9/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>DAN NEWHOUSE FOR CONGRESS</payeeName>
+      <recipientName>REP DAN NEWHOUSE</recipientName>
+      <amount>1000.00</amount>
+      <date>9/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>PATRIOT PAC</payeeName>
+      <recipientName>REP STEVEN PALAZZO</recipientName>
+      <amount>2000.00</amount>
+      <date>9/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>PALAZZO FOR CONGRESS</payeeName>
+      <recipientName>REP STEVEN PALAZZO</recipientName>
+      <amount>1000.00</amount>
+      <date>9/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>PAC TO THE FUTURE</payeeName>
+      <recipientName>REP NANCY PELOSI</recipientName>
+      <amount>1000.00</amount>
+      <date>9/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>PETERS FOR MICHIGAN</payeeName>
+      <recipientName>SEN GARY PETERS</recipientName>
+      <amount>1000.00</amount>
+      <date>9/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>FRIENDS OF DENVER RIGGLEMAN INC</payeeName>
+      <recipientName>REP DENVER RIGGLEMAN</recipientName>
+      <amount>2500.00</amount>
+      <date>9/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>AMERICAN SECURITY PAC</payeeName>
+      <recipientName>REP MIKE ROGERS</recipientName>
+      <amount>1000.00</amount>
+      <date>9/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>SCHATZ FOR SENATE</payeeName>
+      <recipientName>SEN BRIAN SCHATZ</recipientName>
+      <amount>1000.00</amount>
+      <date>9/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>IMPACT</payeeName>
+      <recipientName>SEN CHUCK SCHUMER</recipientName>
+      <amount>4000.00</amount>
+      <date>9/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>SCOTT FOR CONGRESS</payeeName>
+      <recipientName>REP BOBBY SCOTT</recipientName>
+      <amount>1000.00</amount>
+      <date>9/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>SCOTT FOR CONGRESS</payeeName>
+      <recipientName>REP BOBBY SCOTT</recipientName>
+      <amount>1000.00</amount>
+      <date>9/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>A NEW DIRECTION PAC</payeeName>
+      <recipientName>SEN JEANNE SHAHEEN</recipientName>
+      <amount>1000.00</amount>
+      <date>9/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>ADAM PAC</payeeName>
+      <recipientName>REP ADAM SMITH</recipientName>
+      <amount>5000.00</amount>
+      <date>9/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>SUOZZI FOR CONGRESS</payeeName>
+      <recipientName>REP TOM SUOZZI</recipientName>
+      <amount>1000.00</amount>
+      <date>9/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>FRIENDS OF BENNIE THOMPSON</payeeName>
+      <recipientName>REP BENNIE THOMPSON</recipientName>
+      <amount>500.00</amount>
+      <date>9/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>FRIENDS OF BENNIE THOMPSON</payeeName>
+      <recipientName>REP BENNIE THOMPSON</recipientName>
+      <amount>1000.00</amount>
+      <date>9/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>FRIENDS OF BENNIE THOMPSON</payeeName>
+      <recipientName>REP BENNIE THOMPSON</recipientName>
+      <amount>2500.00</amount>
+      <date>9/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>CITIZENS FOR TURNER</payeeName>
+      <recipientName>REP MIKE TURNER</recipientName>
+      <amount>1000.00</amount>
+      <date>9/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>VISCLOSKY FOR CONGRESS</payeeName>
+      <recipientName>REP PETE VISCLOSKY</recipientName>
+      <amount>1000.00</amount>
+      <date>9/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>JOE WILSON FOR CONGRESS</payeeName>
+      <recipientName>REP JOE WILSON</recipientName>
+      <amount>1000.00</amount>
+      <date>9/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>AMERICA'S FIRST PAC</payeeName>
+      <recipientName>REP ROB WITTMAN</recipientName>
+      <amount>2500.00</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>AMERICA'S FIRST PAC</payeeName>
+      <recipientName>REP ROB WITTMAN</recipientName>
+      <amount>1000.00</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>PETE AGUILAR FOR CONGRESS</payeeName>
+      <recipientName>REP PETE AGUILAR</recipientName>
+      <amount>3000.00</amount>
+      <date>10/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>PETE AGUILAR FOR CONGRESS</payeeName>
+      <recipientName>REP PETE AGUILAR</recipientName>
+      <amount>2000.00</amount>
+      <date>10/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>FRIENDS OF JIM CLYBURN</payeeName>
+      <recipientName>REP JIM CLYBURN</recipientName>
+      <amount>2500.00</amount>
+      <date>10/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>DIRIGO PAC</payeeName>
+      <recipientName>SEN SUSAN COLLINS</recipientName>
+      <amount>2000.00</amount>
+      <date>10/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>CONNOLLY FOR CONGRESS</payeeName>
+      <recipientName>REP GERRY CONNOLLY</recipientName>
+      <amount>1000.00</amount>
+      <date>10/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>FUND FOR THE MAJORITY PAC</payeeName>
+      <recipientName>SEN DIANNE FEINSTEIN</recipientName>
+      <amount>1000.00</amount>
+      <date>10/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>GALLEGO FOR ARIZONA</payeeName>
+      <recipientName>REP RUBEN GALLEGO</recipientName>
+      <amount>1000.00</amount>
+      <date>10/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>GRAVES FOR CONGRESS</payeeName>
+      <recipientName>REP TOM GRAVES</recipientName>
+      <amount>1000.00</amount>
+      <date>10/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>BRENDA LAWRENCE FOR CONGRESS</payeeName>
+      <recipientName>REP BRENDA LAWRENCE</recipientName>
+      <amount>1000.00</amount>
+      <date>10/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>SEAN PATRICK MALONEY FOR CONGRESS</payeeName>
+      <recipientName>REP SEAN PATRICK MALONEY</recipientName>
+      <amount>1000.00</amount>
+      <date>10/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>PETERS FOR MICHIGAN</payeeName>
+      <recipientName>SEN GARY PETERS</recipientName>
+      <amount>1000.00</amount>
+      <date>10/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>FRIENDS OF DENVER RIGGLEMAN, INC</payeeName>
+      <recipientName>REP DENVER RIGGLEMAN</recipientName>
+      <amount>1500.00</amount>
+      <date>10/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>FRIENDS OF DENVER RIGGLEMAN, INC</payeeName>
+      <recipientName>REP DENVER RIGGLEMAN</recipientName>
+      <amount>2000.00</amount>
+      <date>10/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>MIKE ROGERS FOR CONGRESS</payeeName>
+      <recipientName>REP MIKE ROGERS</recipientName>
+      <amount>1000.00</amount>
+      <date>10/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>SCOTT FOR CONGRESS</payeeName>
+      <recipientName>REP BOBBY SCOTT</recipientName>
+      <amount>500.00</amount>
+      <date>10/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>SCOTT FOR CONGRESS</payeeName>
+      <recipientName>REP BOBBY SCOTT</recipientName>
+      <amount>500.00</amount>
+      <date>10/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>FORWARD TOGETHER PAC</payeeName>
+      <recipientName>SEN MARK WARNER</recipientName>
+      <amount>1500.00</amount>
+      <date>10/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>COMMON GROUND PAC</payeeName>
+      <recipientName>SEN TIM KAINE</recipientName>
+      <amount>4000.00</amount>
+      <date>10/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>FRIENDS OF DON BEYER</payeeName>
+      <recipientName>REP DON BEYER</recipientName>
+      <amount>1000.00</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>MO BROOKS FOR CONGRESS</payeeName>
+      <recipientName>REP MO BROOKS</recipientName>
+      <amount>1000.00</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>SALUD CARBAJAL FOR CONGRESS</payeeName>
+      <recipientName>REP SALUD CARBAJAL</recipientName>
+      <amount>1000.00</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>KATHERINE CLARK FOR CONGRESS</payeeName>
+      <recipientName>REP KATHERINE CLARK</recipientName>
+      <amount>1000.00</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>CONNOLLY FOR CONGRESS</payeeName>
+      <recipientName>REP GERRY CONNOLLY</recipientName>
+      <amount>1000.00</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>COURTNEY FOR CONGRESS</payeeName>
+      <recipientName>REP JOE COURTNEY</recipientName>
+      <amount>1000.00</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>MARIO DIAZ-BALART FOR CONGRESS</payeeName>
+      <recipientName>REP MARIO DIAZ-BALART</recipientName>
+      <amount>1000.00</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>NEBRASKA SANDHILLS PAC</payeeName>
+      <recipientName>SEN DEB FISCHER</recipientName>
+      <amount>1000.00</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>LOIS FRANKEL FOR CONGRESS</payeeName>
+      <recipientName>REP LOIS FRANKEL</recipientName>
+      <amount>1000.00</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>VICKY HARTZLER FOR CONGRESS</payeeName>
+      <recipientName>REP VICKY HARTZLER</recipientName>
+      <amount>1000.00</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>NEVADANS FOR STEVEN HORSFORD</payeeName>
+      <recipientName>REP STEVEN HORSFORD</recipientName>
+      <amount>1000.00</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>KELLY FOR CONGRESS</payeeName>
+      <recipientName>REP TRENT KELLY</recipientName>
+      <amount>1000.00</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>BETTYPAC</payeeName>
+      <recipientName>REP BETTY MCCOLLUM</recipientName>
+      <amount>2500.00</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>GRACE FOR NEW YORK</payeeName>
+      <recipientName>REP GRACE MENG</recipientName>
+      <amount>1000.00</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>DONALD NORCROSS FOR CONGRESS</payeeName>
+      <recipientName>REP DONALD NORCROSS</recipientName>
+      <amount>1000.00</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>PATRIOT PAC</payeeName>
+      <recipientName>REP STEVEN PALAZZO</recipientName>
+      <amount>3000.00</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>HALEY STEVENS FOR CONGRESS</payeeName>
+      <recipientName>REP HALEY STEVENS</recipientName>
+      <amount>1000.00</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>SECURE PAC</payeeName>
+      <recipientName>REP BENNIE THOMPSON</recipientName>
+      <amount>3500.00</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>NORMA TORRES FOR CONGRESS</payeeName>
+      <recipientName>REP NORMA TORRES</recipientName>
+      <amount>1000.00</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>ROB WITTMAN FOR CONGRESS</payeeName>
+      <recipientName>REP ROB WITTMAN</recipientName>
+      <amount>1000.00</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>AMODEI FOR NEVADA</payeeName>
+      <recipientName>REP MARK AMODEI</recipientName>
+      <amount>1000.00</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>BERGMAN FOR CONGRESS</payeeName>
+      <recipientName>REP JACK BERGMAN</recipientName>
+      <amount>1000.00</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>EUREKA PAC</payeeName>
+      <recipientName>REP KEN CALVERT</recipientName>
+      <amount>2500.00</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>JOHN CARTER FOR CONGRESS</payeeName>
+      <recipientName>REP JOHN CARTER</recipientName>
+      <amount>1000.00</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>CASE FOR CONGRESS</payeeName>
+      <recipientName>REP ED CASE</recipientName>
+      <amount>1000.00</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>JONI FOR IOWA</payeeName>
+      <recipientName>SEN JONI ERNST</recipientName>
+      <amount>1000.00</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>MIKE GALLAGHER FOR WISCONSIN</payeeName>
+      <recipientName>REP MIKE GALLAGHER</recipientName>
+      <amount>500.00</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>MIKE GALLAGHER FOR WISCONSIN</payeeName>
+      <recipientName>REP MIKE GALLAGHER</recipientName>
+      <amount>500.00</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>GALLEGO FOR ARIZONA</payeeName>
+      <recipientName>REP RUBEN GALLEGO</recipientName>
+      <amount>1000.00</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>KAY GRANGER CAMPAIGN FUND</payeeName>
+      <recipientName>REP KAY GRANGER</recipientName>
+      <amount>2000.00</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>KAY GRANGER CAMPAIGN FUND</payeeName>
+      <recipientName>REP KAY GRANGER</recipientName>
+      <amount>500.00</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>CITIZENS TO ELECT RICK LARSEN</payeeName>
+      <recipientName>REP RICK LARSEN</recipientName>
+      <amount>1500.00</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>MCCOLLUM FOR CONGRESS</payeeName>
+      <recipientName>REP BETTY MCCOLLUM</recipientName>
+      <amount>3500.00</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>MCEACHIN FOR CONGRESS</payeeName>
+      <recipientName>REP DONALD MCEACHIN</recipientName>
+      <amount>1000.00</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>MOOLENAAR FOR CONGRESS</payeeName>
+      <recipientName>REP JOHN MOOLENAAR</recipientName>
+      <amount>1000.00</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>M-PAC</payeeName>
+      <recipientName>SEN PATTY MURRAY</recipientName>
+      <amount>1000.00</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>PALAZZO FOR CONGRESS</payeeName>
+      <recipientName>REP STEVEN PALAZZO</recipientName>
+      <amount>1000.00</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>PETERS FOR MICHIGAN</payeeName>
+      <recipientName>SEN GARY PETERS</recipientName>
+      <amount>1000.00</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>SCOTT PETERS FOR CONGRESS</payeeName>
+      <recipientName>REP SCOTT PETERS</recipientName>
+      <amount>1000.00</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>MIKE ROGERS FOR CONGRESS</payeeName>
+      <recipientName>REP MIKE ROGERS</recipientName>
+      <amount>1500.00</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>LUCILLE ROYBAL-ALLARD FOR CONGRESS</payeeName>
+      <recipientName>REP LUCILLE ROYBAL-ALLARD</recipientName>
+      <amount>1000.00</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>CITIZENS FOR JOHN RUTHERFORD</payeeName>
+      <recipientName>REP JOHN RUTHERFORD</recipientName>
+      <amount>1000.00</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>TIM RYAN FOR CONGRESS</payeeName>
+      <recipientName>REP TIM RYAN</recipientName>
+      <amount>2500.00</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>SCALISE FOR CONGRESS</payeeName>
+      <recipientName>REP STEVE SCALISE</recipientName>
+      <amount>1000.00</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>SCALISE FOR CONGRESS</payeeName>
+      <recipientName>REP STEVE SCALISE</recipientName>
+      <amount>1500.00</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>SIMPSON FOR CONGRESS</payeeName>
+      <recipientName>REP MIKE SIMPSON</recipientName>
+      <amount>1000.00</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>ROB WITTMAN FOR CONGRESS</payeeName>
+      <recipientName>REP ROB WITTMAN</recipientName>
+      <amount>1000.00</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>PERDUE FOR SENATE</payeeName>
+      <recipientName>SEN DAVID PERDUE</recipientName>
+      <amount>1000.00</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>MCSALLY FOR SENATE, INC</payeeName>
+      <recipientName>SEN MARTHA MCSALLY</recipientName>
+      <amount>1500.00</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>HUNTINGTON INGALLS INDUSTRIES PAC</contributorName>
+      <payeeName>DOUG JONES FOR SENATE COMMITTEE</payeeName>
+      <recipientName>SEN DOUG JONES</recipientName>
+      <amount>1000.00</amount>
+      <date>11/21/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

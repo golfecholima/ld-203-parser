@@ -1,0 +1,904 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>International Brotherhood of Teamsters</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>CHRISTY BAILEY</contactName>
+  <senateRegID>19855</senateRegID>
+  <houseRegID>30661</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/30/2020 8:53:33 AM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>DRIVE</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>SANFORD BISHOP FOR CONGRESS</payeeName>
+      <recipientName>SANFORD BISHOP</recipientName>
+      <amount>5000.00</amount>
+      <date>7/11/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>KAREN BASS FOR CONGRESS</payeeName>
+      <recipientName>KAREN BASS</recipientName>
+      <amount>5000.00</amount>
+      <date>7/11/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>CONOR LAMB FOR CONGRESS</payeeName>
+      <recipientName>CONOR LAMB</recipientName>
+      <amount>5000.00</amount>
+      <date>7/11/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>TINA SMITH FOR MN</payeeName>
+      <recipientName>TINA SMITH</recipientName>
+      <amount>5000.00</amount>
+      <date>7/11/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>KENDRA HORN FOR CONGRESS</payeeName>
+      <recipientName>KENDRA HORN</recipientName>
+      <amount>5000.00</amount>
+      <date>7/11/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>BONAMICI FOR CONGRESS</payeeName>
+      <recipientName>SUZANNE BONAMICI</recipientName>
+      <amount>5000.00</amount>
+      <date>7/15/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>SCANLON FOR  CONGRESS</payeeName>
+      <recipientName>MARY SCANLON</recipientName>
+      <amount>5000.00</amount>
+      <date>7/15/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>MALONEY FOR CONGRESS</payeeName>
+      <recipientName>CAROLYN MALONEY</recipientName>
+      <amount>2500.00</amount>
+      <date>7/19/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>YARMUTH FOR CONGRESS</payeeName>
+      <recipientName>JOHN YARMUTH</recipientName>
+      <amount>2500.00</amount>
+      <date>7/19/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>KUSTER FOR CONGRESS INC</payeeName>
+      <recipientName>ANN KUSTER</recipientName>
+      <amount>5000.00</amount>
+      <date>7/19/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>SHAHEEN FOR SENATE</payeeName>
+      <recipientName>JEANNE SHAHEEN</recipientName>
+      <amount>2500.00</amount>
+      <date>7/19/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>CHRIS PAPPAS FOR CONGRESS</payeeName>
+      <recipientName>CHRIS PAPPAS</recipientName>
+      <amount>5000.00</amount>
+      <date>7/19/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>DEMOCRATIC PARTY OF ILLINOIS - FED ACCOUNT</payeeName>
+      <recipientName>DEMOCRATIC PARTY OF ILLINOIS - FED ACCOUNT</recipientName>
+      <amount>5000.00</amount>
+      <date>7/19/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>DNC CONVENTION FUND</payeeName>
+      <recipientName>DNC CONVENTION FUND</recipientName>
+      <amount>45000.00</amount>
+      <date>7/19/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>DOYLE FOR CONGRESS CMTE</payeeName>
+      <recipientName>MICHAEL DOYLE</recipientName>
+      <amount>2500.00</amount>
+      <date>7/31/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>CITIZENS FOR BOYLE</payeeName>
+      <recipientName>BRENDAN BOYLE</recipientName>
+      <amount>5000.00</amount>
+      <date>7/31/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>ELIZABETH FOR MA INC</payeeName>
+      <recipientName>ELIZABETH WARREN</recipientName>
+      <amount>5000.00</amount>
+      <date>8/7/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>ELIZABETH FOR MA INC</payeeName>
+      <recipientName>ELIZABETH WARREN</recipientName>
+      <amount>5000.00</amount>
+      <date>8/7/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>DNC-LEGAL FUND</payeeName>
+      <recipientName>DNC-LEGAL FUND</recipientName>
+      <amount>45000.00</amount>
+      <date>8/8/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>GO TIGERS PAC</payeeName>
+      <recipientName>STEPHEN COHEN</recipientName>
+      <amount>5000.00</amount>
+      <date>8/8/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>BETTY PAC</payeeName>
+      <recipientName>BETTY MCCOLLUM</recipientName>
+      <amount>5000.00</amount>
+      <date>8/8/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>FIRST DISTRICT CONGRESSIONAL DEMO IOWA</payeeName>
+      <recipientName>FIRST DISTRICT CONGRESSIONAL DEMO IOWA</recipientName>
+      <amount>250.00</amount>
+      <date>8/13/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>BRINDISI FOR CONGRESS</payeeName>
+      <recipientName>ANTHONY BRINDISI</recipientName>
+      <amount>5000.00</amount>
+      <date>8/13/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>PEOPLE FOR PATTY MURRAY</payeeName>
+      <recipientName>PATTY MURRAY</recipientName>
+      <amount>1500.00</amount>
+      <date>8/13/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>WOLVERINE PAC</payeeName>
+      <recipientName>DEBBIE DINGELL</recipientName>
+      <amount>5000.00</amount>
+      <date>8/15/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>DEBBIE DINGELL FOR CONGRESS</payeeName>
+      <recipientName>DEBBIE DINGELL</recipientName>
+      <amount>5000.00</amount>
+      <date>8/15/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>DEBBIE DINGELL FOR CONGRESS</payeeName>
+      <recipientName>DEBBIE DINGELL</recipientName>
+      <amount>5000.00</amount>
+      <date>8/15/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>XOCHITL FOR NEW MEXICO</payeeName>
+      <recipientName>XOCHITL TORRES SMALL</recipientName>
+      <amount>5000.00</amount>
+      <date>8/20/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>SCHIFF FOR CONGRESS</payeeName>
+      <recipientName>ADAM SCHIFF</recipientName>
+      <amount>5000.00</amount>
+      <date>8/20/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>DOYLE FOR CONGRESS CMTE</payeeName>
+      <recipientName>MICHAEL DOYLE</recipientName>
+      <amount>5000.00</amount>
+      <date>9/24/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>DEPASQUALE FOR PA 10</payeeName>
+      <recipientName>EUGENE DEPASQUALE</recipientName>
+      <amount>5000.00</amount>
+      <date>9/25/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>MCKINLEY FOR CONGRESS</payeeName>
+      <recipientName>DAVID MCKINLEY</recipientName>
+      <amount>1000.00</amount>
+      <date>9/25/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>JEFF MERKLEY FOR OREGON</payeeName>
+      <recipientName>JEFF MERKLEY</recipientName>
+      <amount>5000.00</amount>
+      <date>9/25/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>NATIONAL DEMOCRATIC COUNTY OFFICIALS</payeeName>
+      <recipientName>NATIONAL DEMOCRATIC COUNTY OFFICIALS</recipientName>
+      <amount>10000.00</amount>
+      <date>9/30/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>BRIAN FITZPATRICK FOR CONGRESS</payeeName>
+      <recipientName>BRIAN FITZPATRICK</recipientName>
+      <amount>2500.00</amount>
+      <date>9/30/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>SUOZZI FOR CONGRESS</payeeName>
+      <recipientName>THOMAS SUOZZI</recipientName>
+      <amount>5000.00</amount>
+      <date>9/30/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>SWALWELL FOR CONGRESS</payeeName>
+      <recipientName>ERIC SWALWELL</recipientName>
+      <amount>5000.00</amount>
+      <date>9/30/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>PETERS FOR MICHIGAN</payeeName>
+      <recipientName>GARY PETERS</recipientName>
+      <amount>2500.00</amount>
+      <date>9/30/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>FRIENDS OF GREGORY MEEKS</payeeName>
+      <recipientName>GREGORY MEEKS</recipientName>
+      <amount>1000.00</amount>
+      <date>9/30/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>ENGEL FOR CONGRESS</payeeName>
+      <recipientName>ELIOT ENGEL</recipientName>
+      <amount>5000.00</amount>
+      <date>9/30/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>ARTICLE 1 PAC</payeeName>
+      <recipientName>JOHN YARMUTH</recipientName>
+      <amount>5000.00</amount>
+      <date>10/1/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>WORKING AMERICA</payeeName>
+      <recipientName>WORKING AMERICA</recipientName>
+      <amount>50000.00</amount>
+      <date>10/9/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>CMTE FOR A DEMOCRATIC FUTURE</payeeName>
+      <recipientName>ROSA DELAURO</recipientName>
+      <amount>5000.00</amount>
+      <date>10/21/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>IRISH AMERICAN DEMOCRATS - FED ACCOUNT</payeeName>
+      <recipientName>IRISH AMERICAN DEMOCRATS - FED ACCOUNT</recipientName>
+      <amount>5000.00</amount>
+      <date>10/21/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>ALAN LOWENTHAL FOR CONGRESS</payeeName>
+      <recipientName>ALAN LOWENTHAL</recipientName>
+      <amount>1500.00</amount>
+      <date>10/24/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>DEMOCRATIC PARTY OF GA - FEDERAL</payeeName>
+      <recipientName>DEMOCRATIC PARTY OF GA - FEDERAL</recipientName>
+      <amount>5000.00</amount>
+      <date>10/24/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>DSCC - BUILDING FUND</payeeName>
+      <recipientName>DSCC - BUILDING FUND</recipientName>
+      <amount>45000.00</amount>
+      <date>10/24/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>PASCRELL FOR CONGRESS</payeeName>
+      <recipientName>WILLIAM PASCRELL</recipientName>
+      <amount>1000.00</amount>
+      <date>10/30/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>LARSON FOR CONGRESS</payeeName>
+      <recipientName>JOHN LARSON</recipientName>
+      <amount>5000.00</amount>
+      <date>10/30/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>FRIENDS OF DICK DURBIN CMTE</payeeName>
+      <recipientName>RICHARD DURBIN</recipientName>
+      <amount>2500.00</amount>
+      <date>10/30/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>ALAMEDA COUNTY DEMOC CENTRAL CMTE - FED ACCOUNT</payeeName>
+      <recipientName>ALAMEDA COUNTY DEMO CENTRAL CMTE - FED ACCOUNT</recipientName>
+      <amount>2500.00</amount>
+      <date>10/30/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>DR. KIM SCHRIER FOR CONGRESS</payeeName>
+      <recipientName>KIM SCHRIER</recipientName>
+      <amount>5000.00</amount>
+      <date>10/30/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>DEBBIE WASSERMAN SCHULTZ FOR CONGRESS</payeeName>
+      <recipientName>DEBBIE WASSERMAN SCHULTZ</recipientName>
+      <amount>2500.00</amount>
+      <date>10/30/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>CITIZENS FOR ELEANOR HOLMES NORTON</payeeName>
+      <recipientName>ELEANOR HOLMES NORTON</recipientName>
+      <amount>1000.00</amount>
+      <date>10/30/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>FRIENDS OF GREGORY MEEKS</payeeName>
+      <recipientName>GREGORY MEEKS</recipientName>
+      <amount>1000.00</amount>
+      <date>10/30/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>PETE KING FOR CONGRESS CMTE</payeeName>
+      <recipientName>PETE KING</recipientName>
+      <amount>1000.00</amount>
+      <date>10/31/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>DON BACON FOR CONGRESS</payeeName>
+      <recipientName>DON BACON</recipientName>
+      <amount>1000.00</amount>
+      <date>10/31/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>ADRIANO ESPAILLAT FOR CONGRESS</payeeName>
+      <recipientName>ADRIANO ESPAILLAT</recipientName>
+      <amount>500.00</amount>
+      <date>10/31/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>PRAMILA FOR CONGRESS</payeeName>
+      <recipientName>PRAMILA JAYAPAL</recipientName>
+      <amount>5000.00</amount>
+      <date>10/31/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>BRENDA LAWRENCE FOR CONGRESS</payeeName>
+      <recipientName>BRENDA LAWRENCE</recipientName>
+      <amount>2500.00</amount>
+      <date>10/31/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>CICILLINE CMTE</payeeName>
+      <recipientName>DAVID CICILLINE</recipientName>
+      <amount>2500.00</amount>
+      <date>10/31/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>BILL FOSTER FOR CONGRESS</payeeName>
+      <recipientName>BILL FOSTER</recipientName>
+      <amount>2500.00</amount>
+      <date>10/31/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>BILL FOSTER FOR CONGRESS</payeeName>
+      <recipientName>BILL FOSTER</recipientName>
+      <amount>2500.00</amount>
+      <date>10/31/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>LUCILLE ROYBAL ALLARD FOR CONGRESS</payeeName>
+      <recipientName>LUCILLE ROYBAL-ALLARD</recipientName>
+      <amount>5000.00</amount>
+      <date>10/31/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>DOGGETT FOR CONGRESS</payeeName>
+      <recipientName>LLOYD DOGGETT</recipientName>
+      <amount>5000.00</amount>
+      <date>10/31/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>CMTE TO RE ELT NYDIA M. VELAZQUEZ TO CONGRESS</payeeName>
+      <recipientName>NYDIA M. VELAZQUEZ</recipientName>
+      <amount>500.00</amount>
+      <date>10/31/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>NAPOLITANO FOR CONGRESS</payeeName>
+      <recipientName>GRACE NAPOLITANO</recipientName>
+      <amount>5000.00</amount>
+      <date>10/31/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>LANGEVIN FOR CONGRESS</payeeName>
+      <recipientName>JIM LANGEVIN</recipientName>
+      <amount>2500.00</amount>
+      <date>10/31/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>STRENGTHENING VA'S WORKING FAMILIES PAC</payeeName>
+      <recipientName>ROBERT SCOTT</recipientName>
+      <amount>5000.00</amount>
+      <date>10/31/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>PASCRELL FOR CONGRESS</payeeName>
+      <recipientName>WILLIAM PASCRELL</recipientName>
+      <amount>1000.00</amount>
+      <date>11/5/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>FRIENDS OF ROSA DELAURO</payeeName>
+      <recipientName>ROSA DELAURO</recipientName>
+      <amount>5000.00</amount>
+      <date>11/5/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>FRIENDS OF ROSA DELAURO</payeeName>
+      <recipientName>ROSA DELAURO</recipientName>
+      <amount>5000.00</amount>
+      <date>11/5/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>LOIS FRANKEL FOR CONGRESS</payeeName>
+      <recipientName>LOIS FRANKEL</recipientName>
+      <amount>2500.00</amount>
+      <date>11/13/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>NADLER FOR CONGRESS</payeeName>
+      <recipientName>JERROLD NADLER</recipientName>
+      <amount>2500.00</amount>
+      <date>11/13/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>CISNEROS FOR CONGRESS</payeeName>
+      <recipientName>GILBERT CISNEROS</recipientName>
+      <amount>5000.00</amount>
+      <date>11/13/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>DEBBIE FOR CONGRESS</payeeName>
+      <recipientName>DEBBIE MUCARSEL-POWELL</recipientName>
+      <amount>2500.00</amount>
+      <date>11/13/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>FRIENDS OF BEN MCADAMS</payeeName>
+      <recipientName>BEN MCADAMS</recipientName>
+      <amount>5000.00</amount>
+      <date>11/13/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>VIRGIN ISLANDS FOR PLASKETT</payeeName>
+      <recipientName>STACEY PLASKETT</recipientName>
+      <amount>2500.00</amount>
+      <date>11/13/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>COHEN FOR CONGRESS 20</payeeName>
+      <recipientName>ALAN COHEN</recipientName>
+      <amount>5000.00</amount>
+      <date>11/22/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>PEOPLE FOR BEN</payeeName>
+      <recipientName>BEN LUJAN</recipientName>
+      <amount>5000.00</amount>
+      <date>11/22/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>BLUE MAJORITY PAC</payeeName>
+      <recipientName>MARK POCAN</recipientName>
+      <amount>5000.00</amount>
+      <date>12/9/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>HARLEY ROUDA FOR CONGRESS</payeeName>
+      <recipientName>HARLEY ROUDA</recipientName>
+      <amount>2500.00</amount>
+      <date>12/9/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>DONNA SHALALA FOR CONGRESS</payeeName>
+      <recipientName>DONNA SHALALA</recipientName>
+      <amount>2500.00</amount>
+      <date>12/9/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>CHUY GARCIA FOR CONGRESS</payeeName>
+      <recipientName>JESUS GARCIA</recipientName>
+      <amount>2500.00</amount>
+      <date>12/9/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>JASON CROW FOR CONGRESS</payeeName>
+      <recipientName>JASON CROW</recipientName>
+      <amount>5000.00</amount>
+      <date>12/9/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>FRIENDS OF RAJA FOR CONGRESS</payeeName>
+      <recipientName>RAJA KRISHNAMOORTHI</recipientName>
+      <amount>2500.00</amount>
+      <date>12/9/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>ROBIN KELLY FOR CONGRESS</payeeName>
+      <recipientName>ROBIN KELLY</recipientName>
+      <amount>2500.00</amount>
+      <date>12/9/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>TED LIEU FOR CONGRESS</payeeName>
+      <recipientName>TED LIEU</recipientName>
+      <amount>5000.00</amount>
+      <date>12/11/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>DR. RAUL RUIZ FOR CONGRESS</payeeName>
+      <recipientName>DR. RAUL RUIZ</recipientName>
+      <amount>5000.00</amount>
+      <date>12/11/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>MARC VEASEY FOR CONGRESSIONAL CAMPAIGN CMTE</payeeName>
+      <recipientName>MARC VEASEY</recipientName>
+      <amount>2500.00</amount>
+      <date>12/11/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>MCNERNEY FOR CONGRESS</payeeName>
+      <recipientName>JERRY MCNERNEY</recipientName>
+      <amount>2500.00</amount>
+      <date>12/11/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>VERMONT DEMOCRATIC PARTY - FED</payeeName>
+      <recipientName>VERMONT DEMOCRATIC PARTY - FED</recipientName>
+      <amount>1000.00</amount>
+      <date>12/11/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>STAND WITH SANCHEZ</payeeName>
+      <recipientName>LINDA SANCHEZ</recipientName>
+      <amount>5000.00</amount>
+      <date>12/17/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>DNC - BUILDING FUND</payeeName>
+      <recipientName>DNC - BUILDING FUND</recipientName>
+      <amount>30000.00</amount>
+      <date>12/17/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>NADLER FOR CONGRESS</payeeName>
+      <recipientName>JERRY NADLER</recipientName>
+      <amount>1250.00</amount>
+      <date>12/17/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>CMTE FOR A LIVABLE FUTURE</payeeName>
+      <recipientName>EARL BLUMENAUER</recipientName>
+      <amount>5000.00</amount>
+      <date>12/17/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>PETE AGUILAR FOR CONGRESS</payeeName>
+      <recipientName>PETE AGUILAR</recipientName>
+      <amount>5000.00</amount>
+      <date>12/17/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>FRIENDS OF DAN KILDEE</payeeName>
+      <recipientName>DAN KILDEE</recipientName>
+      <amount>5000.00</amount>
+      <date>12/17/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>CLARKE FOR CONGRESS</payeeName>
+      <recipientName>YVETTE CLARKE</recipientName>
+      <amount>2500.00</amount>
+      <date>12/17/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>DAVID SCOTT FOR CONGRESS</payeeName>
+      <recipientName>DAVID SCOTT</recipientName>
+      <amount>5000.00</amount>
+      <date>12/17/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>ANDY KIM FOR CONGRESS</payeeName>
+      <recipientName>ANDY KIM</recipientName>
+      <amount>5000.00</amount>
+      <date>12/19/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>JEFFRIES FOR CONGRESS</payeeName>
+      <recipientName>HAKEEM JEFFRIES</recipientName>
+      <amount>2500.00</amount>
+      <date>12/19/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>TITUS FOR CONGRESS</payeeName>
+      <recipientName>DINA TITUS</recipientName>
+      <amount>1000.00</amount>
+      <date>12/19/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>FRIENDS OF GREGORY MEEKS</payeeName>
+      <recipientName>GREGORY MEEKS</recipientName>
+      <amount>2500.00</amount>
+      <date>12/19/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>TORRES FOR CONGRESS</payeeName>
+      <recipientName>RITICHE TORRES</recipientName>
+      <amount>1000.00</amount>
+      <date>12/19/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>GREAT LAKES PAC</payeeName>
+      <recipientName>DEBBIE STABENOW</recipientName>
+      <amount>5000.00</amount>
+      <date>12/19/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>SCHUPP FOR CONGRESS</payeeName>
+      <recipientName>JILL SCHUPP</recipientName>
+      <amount>5000.00</amount>
+      <date>12/20/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DRIVE</contributorName>
+      <payeeName>SCHUPP FOR CONGRESS</payeeName>
+      <recipientName>JILL SCHUPP</recipientName>
+      <amount>5000.00</amount>
+      <date>12/20/19</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

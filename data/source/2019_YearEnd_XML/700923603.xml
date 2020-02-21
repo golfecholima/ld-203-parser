@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>W. R. BERKLEY CORPORATION</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>Jo-Marie St. Martin Green</contactName>
+  <senateRegID>401104293</senateRegID>
+  <houseRegID>43485</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/29/2020 3:50:15 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>W. R. Berkley Corporation Political Action Committee</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>W. R. Berkley Corporation Political Action Committee</contributorName>
+      <payeeName>Maggie For NH</payeeName>
+      <recipientName>Sen. Margaret Hassan</recipientName>
+      <amount>1500.00</amount>
+      <date>07/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>W. R. Berkley Corporation Political Action Committee</contributorName>
+      <payeeName>Brian Higgins for Congress</payeeName>
+      <recipientName>Rep. Brian Higgins</recipientName>
+      <amount>1500.00</amount>
+      <date>07/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>W. R. Berkley Corporation Political Action Committee</contributorName>
+      <payeeName>Hoyer For Congress</payeeName>
+      <recipientName>Rep. Steny Hoyer</recipientName>
+      <amount>1500.00</amount>
+      <date>07/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>W. R. Berkley Corporation Political Action Committee</contributorName>
+      <payeeName>Thom Tillis Committee</payeeName>
+      <recipientName>Sen. Thom Tillis</recipientName>
+      <amount>1000.00</amount>
+      <date>07/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>W. R. Berkley Corporation Political Action Committee</contributorName>
+      <payeeName>American Property Casualty Insurance Association PAC (Insuring America PAC)</payeeName>
+      <recipientName>Insuring American PAC</recipientName>
+      <amount>5000.00</amount>
+      <date>07/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>W. R. Berkley Corporation Political Action Committee</contributorName>
+      <payeeName>Friends Of Schumer</payeeName>
+      <recipientName>Sen. Charles Schumer</recipientName>
+      <amount>2500.00</amount>
+      <date>09/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>W. R. Berkley Corporation Political Action Committee</contributorName>
+      <payeeName>Self-Insurance Institute of America, Inc. PAC (Self-Insurance PAC)</payeeName>
+      <recipientName>Self-Insurance PAC</recipientName>
+      <amount>2000.00</amount>
+      <date>09/03/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>W. R. Berkley Corporation Political Action Committee</contributorName>
+      <payeeName>McConnell Senate Committee</payeeName>
+      <recipientName>Sen. Mitch McConnell</recipientName>
+      <amount>2500.00</amount>
+      <date>09/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>W. R. Berkley Corporation Political Action Committee</contributorName>
+      <payeeName>Jimmy Panetta For Congress</payeeName>
+      <recipientName>Rep. Jimmy Panetta</recipientName>
+      <amount>1500.00</amount>
+      <date>09/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>W. R. Berkley Corporation Political Action Committee</contributorName>
+      <payeeName>Friends of Roy Blunt</payeeName>
+      <recipientName>Sen. Roy Blunt</recipientName>
+      <amount>2500.00</amount>
+      <date>09/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>W. R. Berkley Corporation Political Action Committee</contributorName>
+      <payeeName>Portman for Senate Committee</payeeName>
+      <recipientName>Sen. Rob Portman</recipientName>
+      <amount>500.00</amount>
+      <date>11/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>W. R. Berkley Corporation Political Action Committee</contributorName>
+      <payeeName>Portman for Senate Committee</payeeName>
+      <recipientName>Sen. Rob Portman</recipientName>
+      <amount>4500.00</amount>
+      <date>11/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>W. R. Berkley Corporation Political Action Committee</contributorName>
+      <payeeName>Collins for Senator</payeeName>
+      <recipientName>Sen. Susan Collins</recipientName>
+      <amount>5000.00</amount>
+      <date>11/15/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

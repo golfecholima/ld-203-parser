@@ -1,0 +1,672 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>Fresenius Medical Care North America</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>Cameron Lynch</contactName>
+  <senateRegID>46940</senateRegID>
+  <houseRegID>34368</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>On 8/5/19 - void of the Schumer check that was cut on 6/12/19</comments>
+  <signedDate>1/30/2020 1:56:44 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>
+  </noContributions>
+  <pacs>
+    <pac>
+      <name>Fresenius Medical Care North America PAC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Fresenius Medical Care North America PAC</contributorName>
+      <payeeName>CITIZENS FOR PROSPERITY IN AMERICA TODAY PAC</payeeName>
+      <recipientName>Sen Pat J Toomey</recipientName>
+      <amount>1500.00</amount>
+      <date>07/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Fresenius Medical Care North America PAC</contributorName>
+      <payeeName>GEORGIANS FOR ISAKSON</payeeName>
+      <recipientName>Sen Johnny Isakson</recipientName>
+      <amount>2000.00</amount>
+      <date>07/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Fresenius Medical Care North America PAC</contributorName>
+      <payeeName>MARCO RUBIO FOR SENATE</payeeName>
+      <recipientName>Sen Marco Rubio</recipientName>
+      <amount>1000.00</amount>
+      <date>07/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Fresenius Medical Care North America PAC</contributorName>
+      <payeeName>Adrian Smith For Congress</payeeName>
+      <recipientName>Rep Adrian M Smith</recipientName>
+      <amount>1000.00</amount>
+      <date>07/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Fresenius Medical Care North America PAC</contributorName>
+      <payeeName>Alamo PAC</payeeName>
+      <recipientName>Sen John Cornyn III</recipientName>
+      <amount>5000.00</amount>
+      <date>07/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Fresenius Medical Care North America PAC</contributorName>
+      <payeeName>DEBBIE DINGELL FOR CONGRESS</payeeName>
+      <recipientName>Rep Debbie Dingell</recipientName>
+      <amount>2500.00</amount>
+      <date>07/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Fresenius Medical Care North America PAC</contributorName>
+      <payeeName>HUDSON FOR CONGRESS</payeeName>
+      <recipientName>Rep Richard L Hudson Jr</recipientName>
+      <amount>2500.00</amount>
+      <date>07/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Fresenius Medical Care North America PAC</contributorName>
+      <payeeName>Jaime For Congress</payeeName>
+      <recipientName>Rep Jaime L Herrera Beutler</recipientName>
+      <amount>1000.00</amount>
+      <date>07/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Fresenius Medical Care North America PAC</contributorName>
+      <payeeName>John Lewis For Congress</payeeName>
+      <recipientName>Rep John R Lewis</recipientName>
+      <amount>2500.00</amount>
+      <date>07/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Fresenius Medical Care North America PAC</contributorName>
+      <payeeName>VICENTE GONZALEZ FOR CONGRESS</payeeName>
+      <recipientName>Rep Vicente Gonzalez</recipientName>
+      <amount>1000.00</amount>
+      <date>07/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Fresenius Medical Care North America PAC</contributorName>
+      <payeeName>CASTOR FOR CONGRESS</payeeName>
+      <recipientName>Rep Kathy Castor</recipientName>
+      <amount>1000.00</amount>
+      <date>07/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Fresenius Medical Care North America PAC</contributorName>
+      <payeeName>CLARKE FOR CONGRESS</payeeName>
+      <recipientName>Rep Yvette D Clarke</recipientName>
+      <amount>1000.00</amount>
+      <date>07/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Fresenius Medical Care North America PAC</contributorName>
+      <payeeName>CRAPO VICTORY COMMITTEE</payeeName>
+      <recipientName>Sen Mike D Crapo</recipientName>
+      <amount>5000.00</amount>
+      <date>07/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Fresenius Medical Care North America PAC</contributorName>
+      <payeeName>DARREN SOTO FOR CONGRESS</payeeName>
+      <recipientName>Rep Darren Soto</recipientName>
+      <amount>2500.00</amount>
+      <date>07/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Fresenius Medical Care North America PAC</contributorName>
+      <payeeName>DIANA DEGETTE FOR CONGRESS</payeeName>
+      <recipientName>Rep Diana DeGette</recipientName>
+      <amount>2000.00</amount>
+      <date>07/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Fresenius Medical Care North America PAC</contributorName>
+      <payeeName>DONALD M PAYNE JR FOR CONGRESS</payeeName>
+      <recipientName>Rep Donald M Payne Jr</recipientName>
+      <amount>2500.00</amount>
+      <date>07/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Fresenius Medical Care North America PAC</contributorName>
+      <payeeName>KANSANS FOR MARSHALL</payeeName>
+      <recipientName>Rep Roger W Marshall</recipientName>
+      <amount>1000.00</amount>
+      <date>07/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Fresenius Medical Care North America PAC</contributorName>
+      <payeeName>LARSON FOR CONGRESS</payeeName>
+      <recipientName>Rep John Larson</recipientName>
+      <amount>2500.00</amount>
+      <date>07/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Fresenius Medical Care North America PAC</contributorName>
+      <payeeName>VELVET HAMMER PAC</payeeName>
+      <recipientName>Sen Tina Smith</recipientName>
+      <amount>2500.00</amount>
+      <date>07/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Fresenius Medical Care North America PAC</contributorName>
+      <payeeName>FRIENDS TO ELECT DR GREG MURPHY TO CONGRESS</payeeName>
+      <recipientName>Rep Gregory F Murphy</recipientName>
+      <amount>1000.00</amount>
+      <date>07/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Fresenius Medical Care North America PAC</contributorName>
+      <payeeName>NEW MILLENNIUM PAC</payeeName>
+      <recipientName>Sen Bob Menendez</recipientName>
+      <amount>5000.00</amount>
+      <date>07/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Fresenius Medical Care North America PAC</contributorName>
+      <payeeName>SCHNEIDER FOR CONGRESS</payeeName>
+      <recipientName>Rep Bradley S Schneider</recipientName>
+      <amount>1000.00</amount>
+      <date>07/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Fresenius Medical Care North America PAC</contributorName>
+      <payeeName>Shaheen for Senate</payeeName>
+      <recipientName>Sen Jeanne Shaheen</recipientName>
+      <amount>1000.00</amount>
+      <date>07/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Fresenius Medical Care North America PAC</contributorName>
+      <payeeName>BOB CASEY FOR SENATE INC</payeeName>
+      <recipientName>Sen Bob Casey</recipientName>
+      <amount>1000.00</amount>
+      <date>07/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Fresenius Medical Care North America PAC</contributorName>
+      <payeeName>Deb Fischer For US Senate Inc</payeeName>
+      <recipientName>Sen Deb Fischer</recipientName>
+      <amount>1000.00</amount>
+      <date>07/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Fresenius Medical Care North America PAC</contributorName>
+      <payeeName>Kinzinger For Congress</payeeName>
+      <recipientName>Rep Adam D Kinzinger</recipientName>
+      <amount>1000.00</amount>
+      <date>07/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Fresenius Medical Care North America PAC</contributorName>
+      <payeeName>TOM RICE FOR CONGRESS</payeeName>
+      <recipientName>Rep Tom Rice Jr</recipientName>
+      <amount>2000.00</amount>
+      <date>07/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Fresenius Medical Care North America PAC</contributorName>
+      <payeeName>BUDDY CARTER FOR CONGRESS</payeeName>
+      <recipientName>Rep Buddy Carter</recipientName>
+      <amount>2500.00</amount>
+      <date>08/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Fresenius Medical Care North America PAC</contributorName>
+      <payeeName>Friends Of Schumer</payeeName>
+      <recipientName>Sen Charles E Schumer</recipientName>
+      <amount>5000.00</amount>
+      <date>08/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Fresenius Medical Care North America PAC</contributorName>
+      <payeeName>John Lewis For Congress</payeeName>
+      <recipientName>Rep John R Lewis</recipientName>
+      <amount>2500.00</amount>
+      <date>08/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Fresenius Medical Care North America PAC</contributorName>
+      <payeeName>VICTORY BY INVESTING BUILDING AND EMPOWERING VIBE PAC</payeeName>
+      <recipientName>Rep Tony Cardenas</recipientName>
+      <amount>2500.00</amount>
+      <date>08/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Fresenius Medical Care North America PAC</contributorName>
+      <payeeName>WALDEN FOR CONGRESS</payeeName>
+      <recipientName>Rep Greg P Walden</recipientName>
+      <amount>2500.00</amount>
+      <date>08/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Fresenius Medical Care North America PAC</contributorName>
+      <payeeName>Jason Smith For Congress</payeeName>
+      <recipientName>Rep Jason T Smith</recipientName>
+      <amount>1500.00</amount>
+      <date>08/07/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Fresenius Medical Care North America PAC</contributorName>
+      <payeeName>BILLY LONG FOR CONGRESS</payeeName>
+      <recipientName>Rep Billy Long</recipientName>
+      <amount>1000.00</amount>
+      <date>08/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Fresenius Medical Care North America PAC</contributorName>
+      <payeeName>ROBIN KELLY FOR CONGRESS</payeeName>
+      <recipientName>Rep Robin L Kelly</recipientName>
+      <amount>2500.00</amount>
+      <date>08/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Fresenius Medical Care North America PAC</contributorName>
+      <payeeName>SINEMA FOR ARIZONA</payeeName>
+      <recipientName>Sen Kyrsten Sinema</recipientName>
+      <amount>1000.00</amount>
+      <date>08/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Fresenius Medical Care North America PAC</contributorName>
+      <payeeName>BADGERPAC</payeeName>
+      <recipientName>Rep Ron J Kind</recipientName>
+      <amount>2500.00</amount>
+      <date>09/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Fresenius Medical Care North America PAC</contributorName>
+      <payeeName>BILIRAKIS FOR CONGRESS</payeeName>
+      <recipientName>Rep Gus Bilirakis</recipientName>
+      <amount>1000.00</amount>
+      <date>09/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Fresenius Medical Care North America PAC</contributorName>
+      <payeeName>BLUMENAUER FOR CONGRESS</payeeName>
+      <recipientName>Rep Earl Blumenauer</recipientName>
+      <amount>2500.00</amount>
+      <date>09/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Fresenius Medical Care North America PAC</contributorName>
+      <payeeName>George Holding For Congress</payeeName>
+      <recipientName>Rep George EB Holding</recipientName>
+      <amount>1000.00</amount>
+      <date>09/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Fresenius Medical Care North America PAC</contributorName>
+      <payeeName>Guthrie For Congress</payeeName>
+      <recipientName>Rep Brett Guthrie</recipientName>
+      <amount>1000.00</amount>
+      <date>09/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Fresenius Medical Care North America PAC</contributorName>
+      <payeeName>HALEY STEVENS FOR CONGRESS</payeeName>
+      <recipientName>Rep Haley Stevens</recipientName>
+      <amount>1000.00</amount>
+      <date>09/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Fresenius Medical Care North America PAC</contributorName>
+      <payeeName>JEFFRIES FOR CONGRESS</payeeName>
+      <recipientName>Rep Hakeem S Jeffries</recipientName>
+      <amount>2500.00</amount>
+      <date>09/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Fresenius Medical Care North America PAC</contributorName>
+      <payeeName>GREG PENCE FOR CONGRESS</payeeName>
+      <recipientName>Rep Gregory Pence</recipientName>
+      <amount>1000.00</amount>
+      <date>09/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Fresenius Medical Care North America PAC</contributorName>
+      <payeeName>Cathy Mcmorris Rodgers For Congress</payeeName>
+      <recipientName>Rep Cathy A McMorris Rodgers</recipientName>
+      <amount>1000.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Fresenius Medical Care North America PAC</contributorName>
+      <payeeName>CRAPO VICTORY COMMITTEE</payeeName>
+      <recipientName>Sen Mike D Crapo</recipientName>
+      <amount>1500.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Fresenius Medical Care North America PAC</contributorName>
+      <payeeName>DONNA SHALALA FOR CONGRESS</payeeName>
+      <recipientName>Rep Donna Shalala</recipientName>
+      <amount>1000.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Fresenius Medical Care North America PAC</contributorName>
+      <payeeName>DONNA SHALALA FOR CONGRESS</payeeName>
+      <recipientName>Rep Donna Shalala</recipientName>
+      <amount>1000.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Fresenius Medical Care North America PAC</contributorName>
+      <payeeName>BILLY LONG FOR CONGRESS</payeeName>
+      <recipientName>Rep Billy Long</recipientName>
+      <amount>1500.00</amount>
+      <date>10/07/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Fresenius Medical Care North America PAC</contributorName>
+      <payeeName>DEMOCRATS RESHAPING AMERICA DREAMPAC</payeeName>
+      <recipientName>Rep Linda Sanchez</recipientName>
+      <amount>2500.00</amount>
+      <date>10/07/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Fresenius Medical Care North America PAC</contributorName>
+      <payeeName>KUSTER FOR CONGRESS INC</payeeName>
+      <recipientName>Rep Ann McLane Kuster</recipientName>
+      <amount>2500.00</amount>
+      <date>10/07/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Fresenius Medical Care North America PAC</contributorName>
+      <payeeName>Pallone For Congress</payeeName>
+      <recipientName>Rep Frank J Pallone Jr</recipientName>
+      <amount>2500.00</amount>
+      <date>10/07/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Fresenius Medical Care North America PAC</contributorName>
+      <payeeName>TOGETHER EVERYONE REALIZES REAL IMPACT AKA TERRI PAC</payeeName>
+      <recipientName>Rep Terri Sewell</recipientName>
+      <amount>2500.00</amount>
+      <date>10/07/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Fresenius Medical Care North America PAC</contributorName>
+      <payeeName>BADLANDS PAC</payeeName>
+      <recipientName>Sen Kevin J Cramer</recipientName>
+      <amount>5000.00</amount>
+      <date>10/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Fresenius Medical Care North America PAC</contributorName>
+      <payeeName>BIG SKY OPPORTUNITY PAC</payeeName>
+      <recipientName>Sen Steve Daines</recipientName>
+      <amount>5000.00</amount>
+      <date>10/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Fresenius Medical Care North America PAC</contributorName>
+      <payeeName>EVERGREEN PAC</payeeName>
+      <recipientName>Rep Suzan K DelBene</recipientName>
+      <amount>2500.00</amount>
+      <date>10/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Fresenius Medical Care North America PAC</contributorName>
+      <payeeName>MARC VEASEY CONGRESSIONAL CAMPAIGN COMMITTEE</payeeName>
+      <recipientName>Rep Marc A Veasey</recipientName>
+      <amount>2500.00</amount>
+      <date>10/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Fresenius Medical Care North America PAC</contributorName>
+      <payeeName>Stabenow For US Senate</payeeName>
+      <recipientName>Sen Debbie A Stabenow</recipientName>
+      <amount>2500.00</amount>
+      <date>10/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Fresenius Medical Care North America PAC</contributorName>
+      <payeeName>COMMON GROUND PAC</payeeName>
+      <recipientName>Sen Tim M Kaine</recipientName>
+      <amount>2500.00</amount>
+      <date>10/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Fresenius Medical Care North America PAC</contributorName>
+      <payeeName>COMMON VALUES PAC</payeeName>
+      <recipientName>Sen John A Barrasso</recipientName>
+      <amount>5000.00</amount>
+      <date>10/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Fresenius Medical Care North America PAC</contributorName>
+      <payeeName>GENERATION GO</payeeName>
+      <recipientName>Rep Jimmy Gomez</recipientName>
+      <amount>2500.00</amount>
+      <date>10/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Fresenius Medical Care North America PAC</contributorName>
+      <payeeName>MCKINLEY FOR CONGRESS</payeeName>
+      <recipientName>Rep David B McKinley</recipientName>
+      <amount>1000.00</amount>
+      <date>10/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Fresenius Medical Care North America PAC</contributorName>
+      <payeeName>OORAH POLITICAL ACTION COMMITTEE</payeeName>
+      <recipientName>Sen Todd C Young</recipientName>
+      <amount>2500.00</amount>
+      <date>10/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Fresenius Medical Care North America PAC</contributorName>
+      <payeeName>PROMOTING OUR REPUBLICAN TEAM PAC</payeeName>
+      <recipientName>Sen Rob J Portman</recipientName>
+      <amount>5000.00</amount>
+      <date>10/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Fresenius Medical Care North America PAC</contributorName>
+      <payeeName>Peters For Michigan</payeeName>
+      <recipientName>Sen Gary C Peters</recipientName>
+      <amount>1000.00</amount>
+      <date>10/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Fresenius Medical Care North America PAC</contributorName>
+      <payeeName>VICTORY IN NOVEMBER ELECTION PAC VINEPAC</payeeName>
+      <recipientName>Rep Mike Thompson</recipientName>
+      <amount>1000.00</amount>
+      <date>10/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Fresenius Medical Care North America PAC</contributorName>
+      <payeeName>BELIEVE IN AMERICA PAC</payeeName>
+      <recipientName>Sen Mitt Romney</recipientName>
+      <amount>5000.00</amount>
+      <date>11/07/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Fresenius Medical Care North America PAC</contributorName>
+      <payeeName>GALLEGO FOR ARIZONA</payeeName>
+      <recipientName>Rep Ruben Gallego</recipientName>
+      <amount>1000.00</amount>
+      <date>11/07/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Fresenius Medical Care North America PAC</contributorName>
+      <payeeName>OORAH POLITICAL ACTION COMMITTEE</payeeName>
+      <recipientName>Sen Todd C Young</recipientName>
+      <amount>2500.00</amount>
+      <date>11/07/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Fresenius Medical Care North America PAC</contributorName>
+      <payeeName>Continuing Americas Strength and Security PAC  CASS PAC</payeeName>
+      <recipientName>Sen Bill Cassidy</recipientName>
+      <amount>2500.00</amount>
+      <date>11/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Fresenius Medical Care North America PAC</contributorName>
+      <payeeName>Madison PAC The</payeeName>
+      <recipientName>Rep Richard E Neal</recipientName>
+      <amount>5000.00</amount>
+      <date>11/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Fresenius Medical Care North America PAC</contributorName>
+      <payeeName>LEGPAC</payeeName>
+      <recipientName>Sen Ben L Cardin</recipientName>
+      <amount>2500.00</amount>
+      <date>11/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Fresenius Medical Care North America PAC</contributorName>
+      <payeeName>MAJORITY COMMITTEE PACMC PAC</payeeName>
+      <recipientName>Rep Kevin McCarthy</recipientName>
+      <amount>5000.00</amount>
+      <date>11/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Fresenius Medical Care North America PAC</contributorName>
+      <payeeName>DOUG JONES FOR SENATE COMMITTEE</payeeName>
+      <recipientName>Sen Doug Jones</recipientName>
+      <amount>2500.00</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Fresenius Medical Care North America PAC</contributorName>
+      <payeeName>DOUG JONES FOR SENATE COMMITTEE</payeeName>
+      <recipientName>Sen Doug Jones</recipientName>
+      <amount>2500.00</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Fresenius Medical Care North America PAC</contributorName>
+      <payeeName>GRANITE VALUES PAC</payeeName>
+      <recipientName>Sen Maggie Hassan</recipientName>
+      <amount>5000.00</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Fresenius Medical Care North America PAC</contributorName>
+      <payeeName>Katherine Clark For Congress</payeeName>
+      <recipientName>Rep Katherine M Clark</recipientName>
+      <amount>1000.00</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Fresenius Medical Care North America PAC</contributorName>
+      <payeeName>FINKENAUER FOR CONGRESS</payeeName>
+      <recipientName>Rep Abby Finkenauer</recipientName>
+      <amount>1000.00</amount>
+      <date>12/02/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Fresenius Medical Care North America PAC</contributorName>
+      <payeeName>STAND WITH SANCHEZ</payeeName>
+      <recipientName>Rep Linda Sanchez</recipientName>
+      <amount>1000.00</amount>
+      <date>12/05/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

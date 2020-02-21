@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>Rolls-Royce North America and its Affiliates</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <zipext>
+  </zipext>
+  <contactName>Steve Wilson</contactName>
+  <senateRegID>33647</senateRegID>
+  <houseRegID>30725</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/30/2020 9:46:08 AM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>Rolls-Royce North America Holdings Inc. PAC (Rolls-Royce North America PAC)</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Rolls-Royce North America Holdings Inc. PAC (Rolls-Royce North America PAC)</contributorName>
+      <payeeName>Friends of Jim Inhofe</payeeName>
+      <recipientName>Senator James Inhofe</recipientName>
+      <amount>2500</amount>
+      <date>8/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Rolls-Royce North America Holdings Inc. PAC (Rolls-Royce North America PAC)</contributorName>
+      <payeeName>Rob Wittman for Congress</payeeName>
+      <recipientName>Congressman Robert Wittman</recipientName>
+      <amount>1000</amount>
+      <date>8/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Rolls-Royce North America Holdings Inc. PAC (Rolls-Royce North America PAC)</contributorName>
+      <payeeName>Friends of Cheri Bustos</payeeName>
+      <recipientName>Congresswoman Cheri Bustos</recipientName>
+      <amount>1000</amount>
+      <date>8/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Rolls-Royce North America Holdings Inc. PAC (Rolls-Royce North America PAC)</contributorName>
+      <payeeName>Jim Banks for Congress, Inc.</payeeName>
+      <recipientName>Congressman James Banks</recipientName>
+      <amount>500</amount>
+      <date>8/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Rolls-Royce North America Holdings Inc. PAC (Rolls-Royce North America PAC)</contributorName>
+      <payeeName>Lisa Murkowski for US Senate</payeeName>
+      <recipientName>Senator Lisa Murkowski</recipientName>
+      <amount>1000</amount>
+      <date>8/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Rolls-Royce North America Holdings Inc. PAC (Rolls-Royce North America PAC)</contributorName>
+      <payeeName>Jim Banks for Congress, Inc.</payeeName>
+      <recipientName>Congressman James Banks</recipientName>
+      <amount>500</amount>
+      <date>8/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Rolls-Royce North America Holdings Inc. PAC (Rolls-Royce North America PAC)</contributorName>
+      <payeeName>Mike Braun for Indiana</payeeName>
+      <recipientName>Senator Mike Braun</recipientName>
+      <amount>1000</amount>
+      <date>8/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Rolls-Royce North America Holdings Inc. PAC (Rolls-Royce North America PAC)</contributorName>
+      <payeeName>Friends of Cheri Bustos</payeeName>
+      <recipientName>Congresswoman Cheri Bustos</recipientName>
+      <amount>1000</amount>
+      <date>8/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Rolls-Royce North America Holdings Inc. PAC (Rolls-Royce North America PAC)</contributorName>
+      <payeeName>Team Graham, Inc.</payeeName>
+      <recipientName>Senator Lindsey Graham</recipientName>
+      <amount>1000</amount>
+      <date>8/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Rolls-Royce North America Holdings Inc. PAC (Rolls-Royce North America PAC)</contributorName>
+      <payeeName>Adam Smith for Congress Committee</payeeName>
+      <recipientName>Congressman Adam Smith</recipientName>
+      <amount>2000.00</amount>
+      <date>8/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Rolls-Royce North America Holdings Inc. PAC (Rolls-Royce North America PAC)</contributorName>
+      <payeeName>Hoyer for Congress</payeeName>
+      <recipientName>Congressman Steny Hoyer</recipientName>
+      <amount>2500</amount>
+      <date>8/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Rolls-Royce North America Holdings Inc. PAC (Rolls-Royce North America PAC)</contributorName>
+      <payeeName>Wicker for Senate</payeeName>
+      <recipientName>Senator Roger Wicker</recipientName>
+      <amount>1500</amount>
+      <date>8/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Rolls-Royce North America Holdings Inc. PAC (Rolls-Royce North America PAC)</contributorName>
+      <payeeName>Scott for Congress</payeeName>
+      <recipientName>Congressman Robert Scott</recipientName>
+      <amount>1000</amount>
+      <date>8/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Rolls-Royce North America Holdings Inc. PAC (Rolls-Royce North America PAC)</contributorName>
+      <payeeName>McEachin for Congress</payeeName>
+      <recipientName>Congressman Aston McEachin</recipientName>
+      <amount>1000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Rolls-Royce North America Holdings Inc. PAC (Rolls-Royce North America PAC)</contributorName>
+      <payeeName>Walorski for Congress Inc</payeeName>
+      <recipientName>Congresswoman Jackie Walorski Swihart</recipientName>
+      <amount>1000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Rolls-Royce North America Holdings Inc. PAC (Rolls-Royce North America PAC)</contributorName>
+      <payeeName>McCollum for Congress</payeeName>
+      <recipientName>Congresswoman Betty McCollum</recipientName>
+      <amount>1000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Rolls-Royce North America Holdings Inc. PAC (Rolls-Royce North America PAC)</contributorName>
+      <payeeName>Adam Smith for Congress Committee</payeeName>
+      <recipientName>Congressman Adam Smith</recipientName>
+      <amount>500.00</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Rolls-Royce North America Holdings Inc. PAC (Rolls-Royce North America PAC)</contributorName>
+      <payeeName>Adam Smith for Congress Committee</payeeName>
+      <recipientName>Congressman Adam Smith</recipientName>
+      <amount>2000.00</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Rolls-Royce North America Holdings Inc. PAC (Rolls-Royce North America PAC)</contributorName>
+      <payeeName>Kelly for Congress</payeeName>
+      <recipientName>Congressman John Kelly</recipientName>
+      <amount>1000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Rolls-Royce North America Holdings Inc. PAC (Rolls-Royce North America PAC)</contributorName>
+      <payeeName>Morgan Griffith for Congress</payeeName>
+      <recipientName>Congressman H. Griffith</recipientName>
+      <amount>1000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Rolls-Royce North America Holdings Inc. PAC (Rolls-Royce North America PAC)</contributorName>
+      <payeeName>Rob Wittman for Congress</payeeName>
+      <recipientName>Congressman Robert Wittman</recipientName>
+      <amount>1000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Rolls-Royce North America Holdings Inc. PAC (Rolls-Royce North America PAC)</contributorName>
+      <payeeName>Greg Pence for Congress</payeeName>
+      <recipientName>Congressman Gregory Pence</recipientName>
+      <amount>1000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Rolls-Royce North America Holdings Inc. PAC (Rolls-Royce North America PAC)</contributorName>
+      <payeeName>Buddy Carter for Congress</payeeName>
+      <recipientName>Congressman Earl Carter</recipientName>
+      <amount>1000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Rolls-Royce North America Holdings Inc. PAC (Rolls-Royce North America PAC)</contributorName>
+      <payeeName>Kaine for Virginia</payeeName>
+      <recipientName>Senator Timothy Kaine</recipientName>
+      <amount>1000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Rolls-Royce North America Holdings Inc. PAC (Rolls-Royce North America PAC)</contributorName>
+      <payeeName>Ken Calvert for Congress Committee</payeeName>
+      <recipientName>Congressman Ken Calvert</recipientName>
+      <amount>1000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Rolls-Royce North America Holdings Inc. PAC (Rolls-Royce North America PAC)</contributorName>
+      <payeeName>Friends of Denver Riggleman, Inc.</payeeName>
+      <recipientName>Congressman Denver Riggleman</recipientName>
+      <amount>1000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Rolls-Royce North America Holdings Inc. PAC (Rolls-Royce North America PAC)</contributorName>
+      <payeeName>Citizens to Elect Rick Larsen</payeeName>
+      <recipientName>Congressman Rick Larsen</recipientName>
+      <amount>1500</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Rolls-Royce North America Holdings Inc. PAC (Rolls-Royce North America PAC)</contributorName>
+      <payeeName>Cole for Congress</payeeName>
+      <recipientName>Congressman Thomas Cole</recipientName>
+      <amount>2500</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Rolls-Royce North America Holdings Inc. PAC (Rolls-Royce North America PAC)</contributorName>
+      <payeeName>Connolly for Congress</payeeName>
+      <recipientName>Congressman Gerald Connolly</recipientName>
+      <amount>1000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Rolls-Royce North America Holdings Inc. PAC (Rolls-Royce North America PAC)</contributorName>
+      <payeeName>Lamborn for Congress</payeeName>
+      <recipientName>Congressman Douglas Lamborn</recipientName>
+      <amount>1000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Rolls-Royce North America Holdings Inc. PAC (Rolls-Royce North America PAC)</contributorName>
+      <payeeName>Langevin for Congress</payeeName>
+      <recipientName>Congressman James Langevin</recipientName>
+      <amount>1000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Rolls-Royce North America Holdings Inc. PAC (Rolls-Royce North America PAC)</contributorName>
+      <payeeName>Mike Rogers for Congress</payeeName>
+      <recipientName>Congressman Michael Rogers</recipientName>
+      <amount>1000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Rolls-Royce North America Holdings Inc. PAC (Rolls-Royce North America PAC)</contributorName>
+      <payeeName>Palazzo for Congress</payeeName>
+      <recipientName>Congressman Steven Palazzo</recipientName>
+      <amount>1000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Rolls-Royce North America Holdings Inc. PAC (Rolls-Royce North America PAC)</contributorName>
+      <payeeName>Andre Carson for Congress</payeeName>
+      <recipientName>Congressman Andre Carson</recipientName>
+      <amount>2500</amount>
+      <date>10/1/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Rolls-Royce North America Holdings Inc. PAC (Rolls-Royce North America PAC)</contributorName>
+      <payeeName>Bergmanforcongress</payeeName>
+      <recipientName>Congressman John Bergman</recipientName>
+      <amount>1000</amount>
+      <date>12/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Rolls-Royce North America Holdings Inc. PAC (Rolls-Royce North America PAC)</contributorName>
+      <payeeName>Ken Calvert for Congress Committee</payeeName>
+      <recipientName>Congressman Ken Calvert</recipientName>
+      <amount>500</amount>
+      <date>12/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Rolls-Royce North America Holdings Inc. PAC (Rolls-Royce North America PAC)</contributorName>
+      <payeeName>Team Graham, Inc.</payeeName>
+      <recipientName>Senator Lindsey Graham</recipientName>
+      <amount>500</amount>
+      <date>12/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Rolls-Royce North America Holdings Inc. PAC (Rolls-Royce North America PAC)</contributorName>
+      <payeeName>Team Graham, Inc.</payeeName>
+      <recipientName>Senator Lindsey Graham</recipientName>
+      <amount>500</amount>
+      <date>12/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Rolls-Royce North America Holdings Inc. PAC (Rolls-Royce North America PAC)</contributorName>
+      <payeeName>Elect Jim Baird for Congress</payeeName>
+      <recipientName>Congressman James Baird</recipientName>
+      <amount>1000</amount>
+      <date>12/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Rolls-Royce North America Holdings Inc. PAC (Rolls-Royce North America PAC)</contributorName>
+      <payeeName>Trey for Congress</payeeName>
+      <recipientName>Congressman Trey Hollingsworth</recipientName>
+      <amount>1000</amount>
+      <date>12/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Rolls-Royce North America Holdings Inc. PAC (Rolls-Royce North America PAC)</contributorName>
+      <payeeName>Friends of Hagedorn</payeeName>
+      <recipientName>Congressman James Hagedorn</recipientName>
+      <amount>1000</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Rolls-Royce North America Holdings Inc. PAC (Rolls-Royce North America PAC)</contributorName>
+      <payeeName>Rob Wittman for Congress</payeeName>
+      <recipientName>Congressman Robert Wittman</recipientName>
+      <amount>500</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>Presidential Library Expenses</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Reagan Presidential Foundation and Institute </payeeName>
+      <recipientName>Reagan Presidential Foundation and Institute </recipientName>
+      <amount>50000.00</amount>
+      <date>07/23/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

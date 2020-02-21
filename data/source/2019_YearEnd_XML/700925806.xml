@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>DLA Piper LLP (US)</organizationName>
+  <lobbyistPrefix>Mr.</lobbyistPrefix>
+  <lobbyistFirstName>JAMES</lobbyistFirstName>
+  <lobbyistMiddleName>J</lobbyistMiddleName>
+  <lobbyistLastName>BLANCHARD</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>76855</senateRegID>
+  <houseRegID>32113</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>DLA Piper PAC is a nonconnected committee. The PAC and its contributions are listed because I serve on the PAC's Governing Committee.  My personal contributions are shown on lines 48-61.
+</comments>
+  <signedDate>1/30/2020 3:59:58 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>DLA Piper PAC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DLA Piper PAC</contributorName>
+      <payeeName>Elise For Congress</payeeName>
+      <recipientName>Elise Stefanik</recipientName>
+      <amount>500</amount>
+      <date>07/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DLA Piper PAC</contributorName>
+      <payeeName>Shaheen For Senate</payeeName>
+      <recipientName>Jeanne Shaheen</recipientName>
+      <amount>5000</amount>
+      <date>07/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DLA Piper PAC</contributorName>
+      <payeeName>Davis For Congress/Friends Of Davis</payeeName>
+      <recipientName>Danny Davis</recipientName>
+      <amount>500</amount>
+      <date>08/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DLA Piper PAC</contributorName>
+      <payeeName>Battleground PAC</payeeName>
+      <recipientName>Rep. Mark Walker Leadership PAC</recipientName>
+      <amount>500</amount>
+      <date>09/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DLA Piper PAC</contributorName>
+      <payeeName>Brian Fitzpatrick For Congress</payeeName>
+      <recipientName>Brian Fitzpatrick</recipientName>
+      <amount>750</amount>
+      <date>09/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DLA Piper PAC</contributorName>
+      <payeeName>Perdue For Senate</payeeName>
+      <recipientName>David Perdue</recipientName>
+      <amount>1500</amount>
+      <date>09/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DLA Piper PAC</contributorName>
+      <payeeName>Rodney For Congress</payeeName>
+      <recipientName>Rodney Davis</recipientName>
+      <amount>1000</amount>
+      <date>09/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DLA Piper PAC</contributorName>
+      <payeeName>Citizens For Turner</payeeName>
+      <recipientName>Michael Turner</recipientName>
+      <amount>1500</amount>
+      <date>09/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DLA Piper PAC</contributorName>
+      <payeeName>Moran For Kansas</payeeName>
+      <recipientName>Jerry Moran</recipientName>
+      <amount>750</amount>
+      <date>09/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DLA Piper PAC</contributorName>
+      <payeeName>Steve Chabot For Congress</payeeName>
+      <recipientName>Steve Chabot</recipientName>
+      <amount>1000</amount>
+      <date>09/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DLA Piper PAC</contributorName>
+      <payeeName>Steve Daines For Montana</payeeName>
+      <recipientName>Steve Daines</recipientName>
+      <amount>2500</amount>
+      <date>09/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DLA Piper PAC</contributorName>
+      <payeeName>Friends Of Jim Inhofe</payeeName>
+      <recipientName>Jim Inhofe</recipientName>
+      <amount>1000</amount>
+      <date>09/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DLA Piper PAC</contributorName>
+      <payeeName>Chrissy Houlahan For Congress</payeeName>
+      <recipientName>Chrissy Houlahan</recipientName>
+      <amount>2500</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DLA Piper PAC</contributorName>
+      <payeeName>Citizens For John Rutherford</payeeName>
+      <recipientName>John Rutherford</recipientName>
+      <amount>750</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DLA Piper PAC</contributorName>
+      <payeeName>Joni For Iowa</payeeName>
+      <recipientName>Joni Ernst</recipientName>
+      <amount>500</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DLA Piper PAC</contributorName>
+      <payeeName>Mike Rogers For Congress</payeeName>
+      <recipientName>Mike Rogers</recipientName>
+      <amount>750</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DLA Piper PAC</contributorName>
+      <payeeName>Boozman For Arkansas</payeeName>
+      <recipientName>John Boozman</recipientName>
+      <amount>1000</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DLA Piper PAC</contributorName>
+      <payeeName>George Holding For Congress Inc.</payeeName>
+      <recipientName>George Holding</recipientName>
+      <amount>1000</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DLA Piper PAC</contributorName>
+      <payeeName>David Rouzer For Congress</payeeName>
+      <recipientName>David Rouzer</recipientName>
+      <amount>500</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DLA Piper PAC</contributorName>
+      <payeeName>Alaskans For Dan Sullivan</payeeName>
+      <recipientName>Daniel Sullivan</recipientName>
+      <amount>250</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DLA Piper PAC</contributorName>
+      <payeeName>Debbie Lesko For Congress</payeeName>
+      <recipientName>Debbie Lesko</recipientName>
+      <amount>750</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DLA Piper PAC</contributorName>
+      <payeeName>Liz Cheney For Wyoming</payeeName>
+      <recipientName>Elizabeth Cheney</recipientName>
+      <amount>1000</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DLA Piper PAC</contributorName>
+      <payeeName>Collins For Senator</payeeName>
+      <recipientName>Susan Collins</recipientName>
+      <amount>1000</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DLA Piper PAC</contributorName>
+      <payeeName>Anthony Brown For Congress</payeeName>
+      <recipientName>Anthony Brown</recipientName>
+      <amount>1000</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DLA Piper PAC</contributorName>
+      <payeeName>New Millenium PAC</payeeName>
+      <recipientName>Sen. Bob Menendez Leadership PAC</recipientName>
+      <amount>3000</amount>
+      <date>10/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DLA Piper PAC</contributorName>
+      <payeeName>Green Mountain PAC</payeeName>
+      <recipientName>Sen. Patrick Leahy Leadership PAC</recipientName>
+      <amount>2500</amount>
+      <date>11/07/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DLA Piper PAC</contributorName>
+      <payeeName>Tuesday Group Political Action Committee</payeeName>
+      <recipientName>Tuesday Group Political Action Committee</recipientName>
+      <amount>1000</amount>
+      <date>11/07/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DLA Piper PAC</contributorName>
+      <payeeName>Democratic Senatorial Campaign Committee</payeeName>
+      <recipientName>Democratic Senatorial Campaign Committee</recipientName>
+      <amount>15000</amount>
+      <date>11/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DLA Piper PAC</contributorName>
+      <payeeName>Democratic Congressional Campaign Committee</payeeName>
+      <recipientName>Democratic Congressional Campaign Committee</recipientName>
+      <amount>15000</amount>
+      <date>12/03/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DLA Piper PAC</contributorName>
+      <payeeName>Van Drew For Congress</payeeName>
+      <recipientName>Jeff Van Drew</recipientName>
+      <amount>1000</amount>
+      <date>12/03/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DLA Piper PAC</contributorName>
+      <payeeName>McHenry For Congress</payeeName>
+      <recipientName>Patrick McHenry</recipientName>
+      <amount>2000</amount>
+      <date>12/04/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DLA Piper PAC</contributorName>
+      <payeeName>Joni For Iowa</payeeName>
+      <recipientName>Joni Ernst</recipientName>
+      <amount>1000</amount>
+      <date>12/04/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DLA Piper PAC</contributorName>
+      <payeeName>Elise For Congress</payeeName>
+      <recipientName>Elise Stefanik</recipientName>
+      <amount>750</amount>
+      <date>12/04/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DLA Piper PAC</contributorName>
+      <payeeName>Ken Calvert For Congress Committee</payeeName>
+      <recipientName>Ken Calvert</recipientName>
+      <amount>1000</amount>
+      <date>12/04/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DLA Piper PAC</contributorName>
+      <payeeName>William Timmons For Congress</payeeName>
+      <recipientName>William Timmons</recipientName>
+      <amount>750</amount>
+      <date>12/04/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DLA Piper PAC</contributorName>
+      <payeeName>Carol For Congress</payeeName>
+      <recipientName>Carol Miller</recipientName>
+      <amount>750</amount>
+      <date>12/04/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DLA Piper PAC</contributorName>
+      <payeeName>McSally For Senate Inc</payeeName>
+      <recipientName>Martha McSally</recipientName>
+      <amount>1000</amount>
+      <date>12/04/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DLA Piper PAC</contributorName>
+      <payeeName>Ron Wright For Congress</payeeName>
+      <recipientName>Ron Wright</recipientName>
+      <amount>750</amount>
+      <date>12/04/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DLA Piper PAC</contributorName>
+      <payeeName>Tuesday Group Political Action Committee</payeeName>
+      <recipientName>Tuesday Group Political Action Committee</recipientName>
+      <amount>500</amount>
+      <date>12/04/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DLA Piper PAC</contributorName>
+      <payeeName>Hudson For Congress</payeeName>
+      <recipientName>Richard Hudson</recipientName>
+      <amount>750</amount>
+      <date>12/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DLA Piper PAC</contributorName>
+      <payeeName>Warner Victory Fund</payeeName>
+      <recipientName>Joint Fundraising Committee of Friends of Mark Warner, Forward Together PAC and Democratic Party of Virginia</recipientName>
+      <amount>2000</amount>
+      <date>12/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DLA Piper PAC</contributorName>
+      <payeeName>Citizens For John Rutherford</payeeName>
+      <recipientName>John Rutherford</recipientName>
+      <amount>750</amount>
+      <date>12/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DLA Piper PAC</contributorName>
+      <payeeName>Anthony Brown For Congress</payeeName>
+      <recipientName>Anthony Brown</recipientName>
+      <amount>1000</amount>
+      <date>12/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DLA Piper PAC</contributorName>
+      <payeeName>Joe Morelle For Congress</payeeName>
+      <recipientName>Joseph Morelle</recipientName>
+      <amount>1000</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DLA Piper PAC</contributorName>
+      <payeeName>Bishop For Congress</payeeName>
+      <recipientName>Dan Bishop</recipientName>
+      <amount>500</amount>
+      <date>12/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DLA Piper PAC</contributorName>
+      <payeeName>Mike Gallagher For Wisconsin</payeeName>
+      <recipientName>Michael Gallagher</recipientName>
+      <amount>750</amount>
+      <date>12/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>DLA Piper PAC</contributorName>
+      <payeeName>Oceans PAC</payeeName>
+      <recipientName>Sen. Sheldon Whitehouse Leadership PAC</recipientName>
+      <amount>2500</amount>
+      <date>12/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Friends of Cheri Bustos</payeeName>
+      <recipientName>Cheri Bustos</recipientName>
+      <amount>2500.00</amount>
+      <date>07/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Elissa Slotkin for Congress</payeeName>
+      <recipientName>Elissa Slotkin</recipientName>
+      <amount>2800.00</amount>
+      <date>07/14/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Cummings for Congress Campaign Committee</payeeName>
+      <recipientName>Elijah Cummings</recipientName>
+      <amount>1000.00</amount>
+      <date>07/15/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Brenda Lawrence for Congress</payeeName>
+      <recipientName>Brenda Lawrence</recipientName>
+      <amount>2800.00</amount>
+      <date>07/17/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Peters for Michigan</payeeName>
+      <recipientName>Gary Peters</recipientName>
+      <amount>2000.00</amount>
+      <date>09/08/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Durbin Victory Fund</payeeName>
+      <recipientName>Joint Fundraising Committee of Friends of Dick Durbin and Prairie PAC (Sen. Durbin Leadership PAC)</recipientName>
+      <amount>1000.00</amount>
+      <date>09/09/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>The Markey Committee</payeeName>
+      <recipientName>Ed Markey</recipientName>
+      <amount>1000.00</amount>
+      <date>09/30/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Andy Levin for Congress</payeeName>
+      <recipientName>Andy Levin</recipientName>
+      <amount>2000.00</amount>
+      <date>10/07/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Friends of Dan Kildee</payeeName>
+      <recipientName>Dan Kildee</recipientName>
+      <amount>2000.00</amount>
+      <date>11/14/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Nick Colvin for Congress</payeeName>
+      <recipientName>Nick Colvin</recipientName>
+      <amount>1000.00</amount>
+      <date>11/18/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Betsy Dirksen Londrigan for Congress</payeeName>
+      <recipientName>Betsy Dirksen Londrigan</recipientName>
+      <amount>1000.00</amount>
+      <date>12/9/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Peters Victory Fund</payeeName>
+      <recipientName>Joint Fundraising Committee of Peters for Michigan, Michigan Democratic State Central Committee and Motor City PAC (Sen. Gary Peters Leadership PAC)</recipientName>
+      <amount>2500.00</amount>
+      <date>12/19/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Stabenow Victory Fund</payeeName>
+      <recipientName>Joint Fundraising Committee of Stabenow for Senate, Michigan Democratic State Senate Committee and Great Lakes PAC (Sen. Stabenow Leadership PAC)</recipientName>
+      <amount>3000.00</amount>
+      <date>12/31/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>The Markey Committee</payeeName>
+      <recipientName>Ed Markey</recipientName>
+      <amount>1000.00</amount>
+      <date>12/31/19</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

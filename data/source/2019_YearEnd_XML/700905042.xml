@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>American Veterinary Medical Association</organizationName>
+  <lobbyistPrefix>Mr.</lobbyistPrefix>
+  <lobbyistFirstName>MARK</lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>LUTSCHAUNIG</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>3630</senateRegID>
+  <houseRegID>31140</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>I am Treasurer of the American Veterinary Medical Association (AVMA)  Political Action Committee. Reportable contributions made by the AVMA Political Action Committee have been disclosed on the American Veterinary Medical Association LD 203.</comments>
+  <signedDate>1/13/2020 8:28:38 AM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>American Veterinary Medical Association Political Action Com</name>
+    </pac>
+    <pac>
+      <name>Kurt Schrader for Congress</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Kurt Schrader for Congress</payeeName>
+      <recipientName>Kurt Schrader for Congress</recipientName>
+      <amount>250.00</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>American Veterinary Medical Association PAC</payeeName>
+      <recipientName>American Veterinary Medical Association PAC</recipientName>
+      <amount>44.58</amount>
+      <date>7/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>American Veterinary Medical Association PAC</payeeName>
+      <recipientName>American Veterinary Medical Association PAC</recipientName>
+      <amount>44.58</amount>
+      <date>8/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>American Veterinary Medical Association PAC</payeeName>
+      <recipientName>American Veterinary Medical Association PAC</recipientName>
+      <amount>44.58</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>American Veterinary Medical Association PAC</payeeName>
+      <recipientName>American Veterinary Medical Association PAC</recipientName>
+      <amount>44.58</amount>
+      <date>10/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>American Veterinary Medical Association PAC</payeeName>
+      <recipientName>American Veterinary Medical Association PAC</recipientName>
+      <amount>44.58</amount>
+      <date>11/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>American Veterinary Medical Association PAC</payeeName>
+      <recipientName>American Veterinary Medical Association PAC</recipientName>
+      <amount>44.58</amount>
+      <date>12/12/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

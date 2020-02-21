@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>GrayRobinson PA</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <zipext>
+  </zipext>
+  <contactName>Kenneth Swab</contactName>
+  <senateRegID>401053970</senateRegID>
+  <houseRegID>42278</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/13/2020 2:46:54 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>GRAYROBINSON, P.A., POLITICAL ACTION COMMITTEE</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>GRAYROBINSON, P.A., POLITICAL ACTION COMMITTEE</contributorName>
+      <payeeName>Stephanie Murphy For Congress</payeeName>
+      <recipientName>Stephanie Murphy</recipientName>
+      <amount>1000.00</amount>
+      <date>8/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>GRAYROBINSON, P.A., POLITICAL ACTION COMMITTEE</contributorName>
+      <payeeName>Greg Steube For Congress</payeeName>
+      <recipientName>Greg Steube</recipientName>
+      <amount>1000.00</amount>
+      <date>8/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>GRAYROBINSON, P.A., POLITICAL ACTION COMMITTEE</contributorName>
+      <payeeName>Mast for Congress</payeeName>
+      <recipientName>Brian Mast</recipientName>
+      <amount>1000.00</amount>
+      <date>10/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>GRAYROBINSON, P.A., POLITICAL ACTION COMMITTEE</contributorName>
+      <payeeName>Republican State Leadership Committee</payeeName>
+      <recipientName>Republican State Leadership Committee</recipientName>
+      <amount>500.00</amount>
+      <date>11/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>GRAYROBINSON, P.A., POLITICAL ACTION COMMITTEE</contributorName>
+      <payeeName>Florida Democratic Party</payeeName>
+      <recipientName>Florida Democratic Party</recipientName>
+      <amount>2000.00</amount>
+      <date>11/4/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

@@ -1,0 +1,726 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>Brady Campaign to Prevent Gun Violence</organizationName>
+  <lobbyistPrefix>Mr.</lobbyistPrefix>
+  <lobbyistFirstName>Mark</lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>Collins</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>17487</senateRegID>
+  <houseRegID>32546</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/14/2020 7:39:35 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>Brady PAC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Brady PAC</contributorName>
+      <payeeName>Andy Kim for Congress (earmarked contribution)</payeeName>
+      <recipientName>Andy Kim</recipientName>
+      <amount>2800.00</amount>
+      <date>11/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Brady PAC</contributorName>
+      <payeeName>Andy Kim for Congress (earmarked contribution)</payeeName>
+      <recipientName>Andy Kim</recipientName>
+      <amount>2800.00</amount>
+      <date>11/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Brady PAC</contributorName>
+      <payeeName>Andy Kim for Congress</payeeName>
+      <recipientName>Andy Kim</recipientName>
+      <amount>4000.00</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Brady PAC</contributorName>
+      <payeeName>ASPIRE PAC</payeeName>
+      <recipientName>ASPIRE PAC</recipientName>
+      <amount>5000.00</amount>
+      <date>09/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Brady PAC</contributorName>
+      <payeeName>Beat The Odds PAC</payeeName>
+      <recipientName>Beat The Odds PAC</recipientName>
+      <amount>5000.00</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Brady PAC</contributorName>
+      <payeeName>Cal for NC (U.S. Senate)</payeeName>
+      <recipientName>Cal Cunningham</recipientName>
+      <amount>5000.00</amount>
+      <date>12/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Brady PAC</contributorName>
+      <payeeName>Cartwright for Congress</payeeName>
+      <recipientName>Matt Cartwright</recipientName>
+      <amount>1000.00</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Brady PAC</contributorName>
+      <payeeName>Cartwright for Congress</payeeName>
+      <recipientName>Matt Cartwright</recipientName>
+      <amount>4000.00</amount>
+      <date>11/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Brady PAC</contributorName>
+      <payeeName>Chrissy Houlahan for Congress (earmarked contribution)</payeeName>
+      <recipientName>Chrissy Houlahan</recipientName>
+      <amount>1000.00</amount>
+      <date>11/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Brady PAC</contributorName>
+      <payeeName>Christy Smith for Congress</payeeName>
+      <recipientName>Christy Smith</recipientName>
+      <amount>5000.00</amount>
+      <date>12/03/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Brady PAC</contributorName>
+      <payeeName>Cicilline Committee</payeeName>
+      <recipientName>David Cicilline</recipientName>
+      <amount>5000.00</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Brady PAC</contributorName>
+      <payeeName>Cindy Axne for Congress</payeeName>
+      <recipientName>Cindy Axne</recipientName>
+      <amount>5000.00</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Brady PAC</contributorName>
+      <payeeName>Cisneros for Congress</payeeName>
+      <recipientName>Gil Cisneros</recipientName>
+      <amount>5000.00</amount>
+      <date>10/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Brady PAC</contributorName>
+      <payeeName>Citizens for Boyle</payeeName>
+      <recipientName>Brendan Boyle</recipientName>
+      <amount>4000.00</amount>
+      <date>12/03/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Brady PAC</contributorName>
+      <payeeName>Colin Allred for Congress</payeeName>
+      <recipientName>Colin Allred</recipientName>
+      <amount>1000.00</amount>
+      <date>09/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Brady PAC</contributorName>
+      <payeeName>Colin Allred for Congress</payeeName>
+      <recipientName>Colin Allred </recipientName>
+      <amount>5000.00</amount>
+      <date>09/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Brady PAC</contributorName>
+      <payeeName>Colin Allred for Congress</payeeName>
+      <recipientName>Colin Allred</recipientName>
+      <amount>2000.00</amount>
+      <date>07/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Brady PAC</contributorName>
+      <payeeName>Colin Allred for Congress</payeeName>
+      <recipientName>Colin Allred</recipientName>
+      <amount>1000.00</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Brady PAC</contributorName>
+      <payeeName>Congressional Black Caucus PAC</payeeName>
+      <recipientName>Congressional Black Caucus PAC</recipientName>
+      <amount>5000.00</amount>
+      <date>07/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Brady PAC</contributorName>
+      <payeeName>Congressional Hispanic Caucus Institute</payeeName>
+      <recipientName>Congressional Hispanic Caucus Institute</recipientName>
+      <amount>5000.00</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Brady PAC</contributorName>
+      <payeeName>Debbie for Congress</payeeName>
+      <recipientName>Debbie Mucarsel-Powell</recipientName>
+      <amount>5000.00</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Brady PAC</contributorName>
+      <payeeName>Debbie for Congress</payeeName>
+      <recipientName>Debbie Mucarsel-Powell</recipientName>
+      <amount>5000.00</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Brady PAC</contributorName>
+      <payeeName>Delgado for Congress</payeeName>
+      <recipientName>Antonio Delgado</recipientName>
+      <amount>2000.00</amount>
+      <date>07/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Brady PAC</contributorName>
+      <payeeName>Delgado for Congress</payeeName>
+      <recipientName>Antonio Delgado</recipientName>
+      <amount>4000.00</amount>
+      <date>12/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Brady PAC</contributorName>
+      <payeeName>Delgado for Congress</payeeName>
+      <recipientName>Antonio Delgado</recipientName>
+      <amount>3000.00</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Brady PAC</contributorName>
+      <payeeName>Elaine for Congress</payeeName>
+      <recipientName>Elaine Luria</recipientName>
+      <amount>5000.00</amount>
+      <date>12/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Brady PAC</contributorName>
+      <payeeName>Elect Democratic Women</payeeName>
+      <recipientName>Elect Democratic Women</recipientName>
+      <amount>2500.00</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Brady PAC</contributorName>
+      <payeeName>Elect Democratic Women</payeeName>
+      <recipientName>Elect Democratic Women</recipientName>
+      <amount>2500.00</amount>
+      <date>12/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Brady PAC</contributorName>
+      <payeeName>Friends of Gregory Meeks</payeeName>
+      <recipientName>Gregory Meeks</recipientName>
+      <amount>2000.00</amount>
+      <date>07/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Brady PAC</contributorName>
+      <payeeName>Friends of Jahana Hayes</payeeName>
+      <recipientName>Jahana Hayes</recipientName>
+      <amount>2000.00</amount>
+      <date>07/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Brady PAC</contributorName>
+      <payeeName>Friends of Lucy McBath</payeeName>
+      <recipientName>Lucy McBath</recipientName>
+      <amount>1500.00</amount>
+      <date>07/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Brady PAC</contributorName>
+      <payeeName>Friends of Lucy McBath</payeeName>
+      <recipientName>Lucy McBath</recipientName>
+      <amount>500.00</amount>
+      <date>07/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Brady PAC</contributorName>
+      <payeeName>Friends of Lucy McBath</payeeName>
+      <recipientName>Lucy McBath</recipientName>
+      <amount>4500.00</amount>
+      <date>09/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Brady PAC</contributorName>
+      <payeeName>Grace for New York</payeeName>
+      <recipientName>Grace Meng</recipientName>
+      <amount>5000.00</amount>
+      <date>12/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Brady PAC</contributorName>
+      <payeeName>Harley Rouda for Congress</payeeName>
+      <recipientName>Harley Rouda</recipientName>
+      <amount>1000.00</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Brady PAC</contributorName>
+      <payeeName>Harley Rouda for Congress</payeeName>
+      <recipientName>Harley Rouda</recipientName>
+      <amount>5000.00</amount>
+      <date>10/02/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Brady PAC</contributorName>
+      <payeeName>Hiral for Congress (earmarked contribution)</payeeName>
+      <recipientName>Hiral Tipirneni</recipientName>
+      <amount>2800.00</amount>
+      <date>11/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Brady PAC</contributorName>
+      <payeeName>Jackie Gordon for Congress</payeeName>
+      <recipientName>Jackie Gordon</recipientName>
+      <amount>5000.00</amount>
+      <date>12/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Brady PAC</contributorName>
+      <payeeName>Jackie Gordon for Congress</payeeName>
+      <recipientName>Jackie Gordon</recipientName>
+      <amount>5000.00</amount>
+      <date>12/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Brady PAC</contributorName>
+      <payeeName>Jackie Gordon for Congress</payeeName>
+      <recipientName>Jackie Gordon </recipientName>
+      <amount>5000.00</amount>
+      <date>12/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Brady PAC</contributorName>
+      <payeeName>John Lewis for Congress</payeeName>
+      <recipientName>John Lewis</recipientName>
+      <amount>5000.00</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Brady PAC</contributorName>
+      <payeeName>Katie Porter for Congress</payeeName>
+      <recipientName>Katie Porter</recipientName>
+      <amount>5000.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Brady PAC</contributorName>
+      <payeeName>Katie Porter for Congress</payeeName>
+      <recipientName>Katie Porter</recipientName>
+      <amount>3000.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Brady PAC</contributorName>
+      <payeeName>Kennedy for Massachusetts</payeeName>
+      <recipientName>Joe Kennedy</recipientName>
+      <amount>5000.00</amount>
+      <date>10/03/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Brady PAC</contributorName>
+      <payeeName>Kennedy for Massachusetts</payeeName>
+      <recipientName>Joe Kennedy</recipientName>
+      <amount>5000.00</amount>
+      <date>10/03/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Brady PAC</contributorName>
+      <payeeName>Lauren Underwood for Congress</payeeName>
+      <recipientName>Lauren Underwood</recipientName>
+      <amount>2000.00</amount>
+      <date>07/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Brady PAC</contributorName>
+      <payeeName>Malinowski for Congress</payeeName>
+      <recipientName>Tom Malinowski</recipientName>
+      <amount>1000.00</amount>
+      <date>10/02/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Brady PAC</contributorName>
+      <payeeName>Malinowski for Congress</payeeName>
+      <recipientName>Tom Malinowski</recipientName>
+      <amount>4000.00</amount>
+      <date>10/02/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Brady PAC</contributorName>
+      <payeeName>Malinowski for Congress (earmarked contribution)</payeeName>
+      <recipientName>Tom Malinowski </recipientName>
+      <amount>2800.00</amount>
+      <date>11/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Brady PAC</contributorName>
+      <payeeName>Malinowski for Congress (earmarked contribution)</payeeName>
+      <recipientName>Tom Malinowski </recipientName>
+      <amount>2800.00</amount>
+      <date>11/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Brady PAC</contributorName>
+      <payeeName>Jobs, Education, &amp; Families First - JEFF PAC</payeeName>
+      <recipientName>Hakeem Jeffries</recipientName>
+      <amount>2500.00</amount>
+      <date>12/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Brady PAC</contributorName>
+      <payeeName>Maloney for Congress</payeeName>
+      <recipientName>Carolyn Maloney</recipientName>
+      <amount>3000.00</amount>
+      <date>12/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Brady PAC</contributorName>
+      <payeeName>Mark Kelly for Senate</payeeName>
+      <recipientName>Mark Kelly</recipientName>
+      <amount>5000.00</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Brady PAC</contributorName>
+      <payeeName>Max Rose for Congress</payeeName>
+      <recipientName>Max Rose</recipientName>
+      <amount>4000.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Brady PAC</contributorName>
+      <payeeName>Mike Levin for Congress</payeeName>
+      <recipientName>Mike Levin</recipientName>
+      <amount>1000.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Brady PAC</contributorName>
+      <payeeName>Mike Levin for Congress</payeeName>
+      <recipientName>Mike Levin </recipientName>
+      <amount>5000.00</amount>
+      <date>12/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Brady PAC</contributorName>
+      <payeeName>Mike Levin for Congress</payeeName>
+      <recipientName>Mike Levin</recipientName>
+      <amount>3000.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Brady PAC</contributorName>
+      <payeeName>Mikie Sherrill for Congress</payeeName>
+      <recipientName>Mikie Sherill</recipientName>
+      <amount>5000.00</amount>
+      <date>12/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Brady PAC</contributorName>
+      <payeeName>Nate McMurray for Congress</payeeName>
+      <recipientName>Nate McMurray </recipientName>
+      <amount>2500.00</amount>
+      <date>09/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Brady PAC</contributorName>
+      <payeeName>Nate McMurray for Congress</payeeName>
+      <recipientName>Nate McMurray</recipientName>
+      <amount>2500.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Brady PAC</contributorName>
+      <payeeName>Nevadans for Steven Horsford</payeeName>
+      <recipientName>Steven Horsford</recipientName>
+      <amount>3000.00</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Brady PAC</contributorName>
+      <payeeName>Nevadans for Steven Horsford</payeeName>
+      <recipientName>Steven Horsford</recipientName>
+      <amount>2000.00</amount>
+      <date>07/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Brady PAC</contributorName>
+      <payeeName>New Voice PAC</payeeName>
+      <recipientName>New Voice PAC</recipientName>
+      <amount>5000.00</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Brady PAC</contributorName>
+      <payeeName>Robin Kelly for Congress</payeeName>
+      <recipientName>Robin Kelly</recipientName>
+      <amount>4000.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Brady PAC</contributorName>
+      <payeeName>Robin Kelly for Congress</payeeName>
+      <recipientName>Robin Kelly </recipientName>
+      <amount>4000.00</amount>
+      <date>12/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Brady PAC</contributorName>
+      <payeeName>Robin Kelly for Congress</payeeName>
+      <recipientName>Robin Kelly</recipientName>
+      <amount>1000.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Brady PAC</contributorName>
+      <payeeName>Sara Gideon for Maine</payeeName>
+      <recipientName>Sara Gideon</recipientName>
+      <amount>5000.00</amount>
+      <date>12/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Brady PAC</contributorName>
+      <payeeName>Sara Gideon for Maine</payeeName>
+      <recipientName>Sara Gideon</recipientName>
+      <amount>5000.00</amount>
+      <date>12/03/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Brady PAC</contributorName>
+      <payeeName>Spanberger for Congress</payeeName>
+      <recipientName>Abigail Spanberger</recipientName>
+      <amount>500.00</amount>
+      <date>07/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Brady PAC</contributorName>
+      <payeeName>Spanberger for Congress</payeeName>
+      <recipientName>Abigail Spanberger</recipientName>
+      <amount>4500.00</amount>
+      <date>10/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Brady PAC</contributorName>
+      <payeeName>Spanberger for Congress</payeeName>
+      <recipientName>Abigail Spanberger </recipientName>
+      <amount>500.00</amount>
+      <date>10/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Brady PAC</contributorName>
+      <payeeName>Stanton for Congress</payeeName>
+      <recipientName>Greg Stanton</recipientName>
+      <amount>5000.00</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Brady PAC</contributorName>
+      <payeeName>Stephanie Murphy for Congress</payeeName>
+      <recipientName>Stephanie Murphy</recipientName>
+      <amount>2500.00</amount>
+      <date>12/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Brady PAC</contributorName>
+      <payeeName>Suozzi for Congress</payeeName>
+      <recipientName>Tom Suozzi</recipientName>
+      <amount>4000.00</amount>
+      <date>12/03/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Brady PAC</contributorName>
+      <payeeName>Suozzi for Congress</payeeName>
+      <recipientName>Tom Suozzi </recipientName>
+      <amount>1000.00</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Brady PAC</contributorName>
+      <payeeName>Susan Wild for Congress</payeeName>
+      <recipientName>Susan Wild</recipientName>
+      <amount>2000.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Brady PAC</contributorName>
+      <payeeName>Susan Wild for Congress</payeeName>
+      <recipientName>Susan Wild </recipientName>
+      <amount>1000.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Brady PAC</contributorName>
+      <payeeName>Susan Wild for Congress</payeeName>
+      <recipientName>Susan Wild</recipientName>
+      <amount>1000.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Brady PAC</contributorName>
+      <payeeName>Susie Lee for Congress</payeeName>
+      <recipientName>Susie Lee</recipientName>
+      <amount>5000.00</amount>
+      <date>11/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Brady PAC</contributorName>
+      <payeeName>Susie Lee for Congress</payeeName>
+      <recipientName>Susie Lee</recipientName>
+      <amount>5000.00</amount>
+      <date>11/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Brady PAC</contributorName>
+      <payeeName>Ted Deutch for Congress</payeeName>
+      <recipientName>Ted Deutch</recipientName>
+      <amount>1000.00</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Brady PAC</contributorName>
+      <payeeName>Titus for Congress</payeeName>
+      <recipientName>Dina Titus</recipientName>
+      <amount>1000.00</amount>
+      <date>12/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Brady PAC</contributorName>
+      <payeeName>Victory for New York Fund</payeeName>
+      <recipientName>Max Rose, Anthony Brinidisi, Antonio Delgado</recipientName>
+      <amount>3000.00</amount>
+      <date>12/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Brady PAC</contributorName>
+      <payeeName>VoteVets</payeeName>
+      <recipientName>VoteVets</recipientName>
+      <amount>5000.00</amount>
+      <date>12/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Brady PAC</contributorName>
+      <payeeName>Wendy Davis for Congress</payeeName>
+      <recipientName>Wendy Davis</recipientName>
+      <amount>5000.00</amount>
+      <date>12/03/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Brady PAC</contributorName>
+      <payeeName>Wexton for Congress</payeeName>
+      <recipientName>Jennifer Wexton</recipientName>
+      <amount>1000.00</amount>
+      <date>12/16/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

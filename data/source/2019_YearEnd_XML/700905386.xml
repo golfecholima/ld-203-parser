@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>CARPENTER STRATEGIC CONSULTING LLC</organizationName>
+  <lobbyistPrefix>Mr.</lobbyistPrefix>
+  <lobbyistFirstName>JOT</lobbyistFirstName>
+  <lobbyistMiddleName>D.</lobbyistMiddleName>
+  <lobbyistLastName>CARPENTER</lobbyistLastName>
+  <lobbyistSuffix>Jr.</lobbyistSuffix>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>401104143</senateRegID>
+  <houseRegID>43352</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/13/2020 3:21:52 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Aderholt for Congress</payeeName>
+      <recipientName>The Hon. Robert Aderholt</recipientName>
+      <amount>500.00</amount>
+      <date>07/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Jordan for Congress</payeeName>
+      <recipientName>The Hon. Jim Jordan</recipientName>
+      <amount>500.00</amount>
+      <date>07/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Paul Cook for Congress</payeeName>
+      <recipientName>The Hon. Paul Cook</recipientName>
+      <amount>500.00</amount>
+      <date>08/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Bill Johnson for Congress</payeeName>
+      <recipientName>The Hon. Bill Johnson</recipientName>
+      <amount>500.00</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Friends of Denver Riggleman</payeeName>
+      <recipientName>The Hon. Denver Riggleman</recipientName>
+      <amount>250.00</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Bob Latta for Congress</payeeName>
+      <recipientName>The Hon. Bob Latta</recipientName>
+      <amount>500.00</amount>
+      <date>11/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Richard Hudson for Congress</payeeName>
+      <recipientName>The Hon. Richard Hudson</recipientName>
+      <amount>500.00</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Cory Gardner for Senate</payeeName>
+      <recipientName>The Hon. Cory Gardner</recipientName>
+      <amount>250.00</amount>
+      <date>12/11/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

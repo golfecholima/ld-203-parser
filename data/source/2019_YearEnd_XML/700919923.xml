@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>National Grid USA</organizationName>
+  <lobbyistPrefix>Ms.</lobbyistPrefix>
+  <lobbyistFirstName>Emily</lobbyistFirstName>
+  <lobbyistMiddleName>Johanna</lobbyistMiddleName>
+  <lobbyistLastName>Duncan</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>29117</senateRegID>
+  <houseRegID>31281</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>I serve as Treasurer of the National Grid USA PAC and Board Member of the Organization for International Investment PAC. These SSFs' connected organizations disclose PAC contributions in their respective organizational LD-203 reports.</comments>
+  <signedDate>1/23/2020 8:17:09 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>true</noContributions>
+  <pacs>
+    <pac>
+      <name>National Grid USA Political Action Committee</name>
+    </pac>
+    <pac>
+      <name>Organization for International Investment PAC</name>
+    </pac>
+  </pacs>
+  <contributions>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

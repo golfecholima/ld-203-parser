@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>MacAndrews South Corporation</organizationName>
+  <lobbyistPrefix>Mr.</lobbyistPrefix>
+  <lobbyistFirstName>EVAN</lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>KNISELY</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>307898</senateRegID>
+  <houseRegID>30349</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>I am a decision maker for MacAndrews PAC, an SSF. The PAC's contributions will be disclosed on the MacAndrews entity Form LD203. My certification and disclosure are to the best of my knowledge complete and based on reasonable due diligence.</comments>
+  <signedDate>1/30/2020 10:40:48 AM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Pallone for Congress
+</payeeName>
+      <recipientName>Frank Pallone
+</recipientName>
+      <amount>2800.00</amount>
+      <date>10/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Adrian Smith for Congress
+</payeeName>
+      <recipientName>Adrian Smith</recipientName>
+      <amount>1000.00</amount>
+      <date>11/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Betsy Dirksen Londrigan for Congress
+</payeeName>
+      <recipientName>Betsy Dirksen Londrigan </recipientName>
+      <amount>1000.00</amount>
+      <date>12/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Friends of Sessions Senate Committee
+</payeeName>
+      <recipientName>Jeff Sessions</recipientName>
+      <amount>1000.00</amount>
+      <date>12/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Betsy Dirksen Londrigan for Congress
+</payeeName>
+      <recipientName>Betsy Dirksen Londrigan </recipientName>
+      <amount>368.43</amount>
+      <date>12/11/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

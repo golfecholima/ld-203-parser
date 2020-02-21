@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>HARVARD UNIVERSITY--PRESIDENT AND FELLOWS OF HARVARD COLLEGE</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>SUZANNE DAY</contactName>
+  <senateRegID>17705</senateRegID>
+  <houseRegID>30336</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>The Hutchins Center honored Lonnie G. Bunch III, Secretary of the Smithsonian Institution, and six other WEB Du Bois medalists including at a dinner reception for 200 attendees. </comments>
+  <signedDate>1/30/2020 9:43:33 AM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>Honorary Expenses</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Various vendors</payeeName>
+      <recipientName>Lonnie G. Bunch III </recipientName>
+      <amount>55433.00</amount>
+      <date>10/22/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

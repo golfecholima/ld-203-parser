@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>National Council of Farmer Cooperatives</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>Janet Peterson</contactName>
+  <senateRegID>27638</senateRegID>
+  <houseRegID>30600</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/15/2020 11:17:27 AM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>NCFC CO-OP/PAC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NCFC CO-OP/PAC</contributorName>
+      <payeeName>Roger Marshall</payeeName>
+      <recipientName>Kansans For Marshall</recipientName>
+      <amount>1000.00</amount>
+      <date>8/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NCFC CO-OP/PAC</contributorName>
+      <payeeName>Jimmy Panetta</payeeName>
+      <recipientName>Jimmy Panetta for Congress</recipientName>
+      <amount>5000.00</amount>
+      <date>9/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NCFC CO-OP/PAC</contributorName>
+      <payeeName>Steny Hoyer</payeeName>
+      <recipientName>Hoyer For Congress</recipientName>
+      <amount>5000.00</amount>
+      <date>9/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NCFC CO-OP/PAC</contributorName>
+      <payeeName>Steny Hoyer</payeeName>
+      <recipientName>Hoyer For Congress</recipientName>
+      <amount>5000.00</amount>
+      <date>9/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NCFC CO-OP/PAC</contributorName>
+      <payeeName>Jim Costa</payeeName>
+      <recipientName>Jim Costa For Congress</recipientName>
+      <amount>1000.00</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NCFC CO-OP/PAC</contributorName>
+      <payeeName>Committee For Stronger Rural Communities, Inc.</payeeName>
+      <recipientName>Committee For Stronger Rural Communities, Inc.</recipientName>
+      <amount>20000.00</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NCFC CO-OP/PAC</contributorName>
+      <payeeName>Mike Braun</payeeName>
+      <recipientName>Mike Braun For Indiana</recipientName>
+      <amount>1000.00</amount>
+      <date>10/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NCFC CO-OP/PAC</contributorName>
+      <payeeName>Collin Peterson</payeeName>
+      <recipientName>Peterson For Congress</recipientName>
+      <amount>500.00</amount>
+      <date>11/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NCFC CO-OP/PAC</contributorName>
+      <payeeName>Suzan DelBene</payeeName>
+      <recipientName>DelBene For Congress</recipientName>
+      <amount>1000.00</amount>
+      <date>11/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NCFC CO-OP/PAC</contributorName>
+      <payeeName>Collin Peterson</payeeName>
+      <recipientName>Peterson For Congress</recipientName>
+      <amount>500.00</amount>
+      <date>11/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NCFC CO-OP/PAC</contributorName>
+      <payeeName>Bob Gibbbs</payeeName>
+      <recipientName>Gibbs For Congress</recipientName>
+      <amount>1000.00</amount>
+      <date>12/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NCFC CO-OP/PAC</contributorName>
+      <payeeName>Debbie Stabenow</payeeName>
+      <recipientName>Stabenow For U.S. Senate</recipientName>
+      <amount>1000.00</amount>
+      <date>12/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NCFC CO-OP/PAC</contributorName>
+      <payeeName>Rodney Davis</payeeName>
+      <recipientName>Rodney For Congress</recipientName>
+      <amount>1000.00</amount>
+      <date>12/12/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

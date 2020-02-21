@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>The D Major Group</organizationName>
+  <lobbyistPrefix>Ms.</lobbyistPrefix>
+  <lobbyistFirstName>DIANE</lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>MAJOR</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>401103162</senateRegID>
+  <houseRegID>42467</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/9/2020 10:09:15 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Brady-Schweikert Victory Committee</payeeName>
+      <recipientName>Rep. Kevin Brady (R-TX) and Rep. David Schweikert (R-AZ). </recipientName>
+      <amount>1000.00</amount>
+      <date>07/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Rob Portman for US Senate</payeeName>
+      <recipientName>Sen. Rob Portman (R-OH)</recipientName>
+      <amount>300.00</amount>
+      <date>07/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>MARSHA PAC</payeeName>
+      <recipientName>Sen. Marsha Blackburn (R-TN)</recipientName>
+      <amount>500.00</amount>
+      <date>07/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Collins for Senator</payeeName>
+      <recipientName>Sen. Susan Collins (R-ME)</recipientName>
+      <amount>500.00</amount>
+      <date>07/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Friends of John Thune</payeeName>
+      <recipientName>Sen. John Thune (R-SD)</recipientName>
+      <amount>1000.00</amount>
+      <date>09/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Young for Iowa</payeeName>
+      <recipientName>Rep. David Young (R-IA)</recipientName>
+      <amount>500.00</amount>
+      <date>09/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Perdue Victory, Inc.</payeeName>
+      <recipientName>Sen. David Perdue (R-GA)</recipientName>
+      <amount>500.00</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Becchi for Congress</payeeName>
+      <recipientName>Rosemary Becchi (candidate for Congress)</recipientName>
+      <amount>250.00</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Perdue Victory, Inc.</payeeName>
+      <recipientName>Sen. David Perdue (R-GA)</recipientName>
+      <amount>500.00</amount>
+      <date>10/03/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Hoosier PAC</payeeName>
+      <recipientName>Sen. Mike Braun (R-IN)</recipientName>
+      <amount>500.00</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Portman for Senate</payeeName>
+      <recipientName>Sen. Rob Portman (R-OH)</recipientName>
+      <amount>500.00</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Lone Star Leadership PAC</payeeName>
+      <recipientName>Rep. Michael Burgess (R-TX)</recipientName>
+      <amount>500.00</amount>
+      <date>11/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Collins Victory Committee</payeeName>
+      <recipientName>Sen. Susan Collins (R-ME)</recipientName>
+      <amount>500.00</amount>
+      <date>11/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Kay Granger Campaign Fund</payeeName>
+      <recipientName>Rep. Kay Granger (R-TX)</recipientName>
+      <amount>1000.00</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Cowboy Victory Committee</payeeName>
+      <recipientName>Sen. John Barrasso (R-WY)</recipientName>
+      <amount>1000.00</amount>
+      <date>12/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>McConnell for Senate Committee</payeeName>
+      <recipientName>Sen. Mitch McConnell (R-KY)</recipientName>
+      <amount>1000.00</amount>
+      <date>12/11/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

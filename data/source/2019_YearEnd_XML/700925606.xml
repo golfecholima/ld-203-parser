@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>SONY PICTURES ENTERTAINMENT INC.</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>Cameron Normand</contactName>
+  <senateRegID>401105268</senateRegID>
+  <houseRegID>44406</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/30/2020 3:12:27 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>Sony Pictures Entertainment, Inc. PAC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Sony Pictures Entertainment, Inc. PAC</contributorName>
+      <payeeName>Rosen for Nevada</payeeName>
+      <recipientName>Senator Jacky Rosen</recipientName>
+      <amount>1000.00</amount>
+      <date>07/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Sony Pictures Entertainment, Inc. PAC</contributorName>
+      <payeeName>Lou Correa for Congress</payeeName>
+      <recipientName>Representative Lou Correa</recipientName>
+      <amount>2000.00</amount>
+      <date>07/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Sony Pictures Entertainment, Inc. PAC</contributorName>
+      <payeeName>Barragan for Congress</payeeName>
+      <recipientName>Representative Nanette Barragan</recipientName>
+      <amount>2000.00</amount>
+      <date>07/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Sony Pictures Entertainment, Inc. PAC</contributorName>
+      <payeeName>Cohen for Congress</payeeName>
+      <recipientName>Representative Steve Cohen</recipientName>
+      <amount>1000.00</amount>
+      <date>09/03/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Sony Pictures Entertainment, Inc. PAC</contributorName>
+      <payeeName>Ted Lieu for Congress</payeeName>
+      <recipientName>Representative Ted Lieu</recipientName>
+      <amount>2000.00</amount>
+      <date>09/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Sony Pictures Entertainment, Inc. PAC</contributorName>
+      <payeeName>Reed Victory Committee</payeeName>
+      <recipientName>Representative Tom Reed</recipientName>
+      <amount>2500.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Sony Pictures Entertainment, Inc. PAC</contributorName>
+      <payeeName>Making America Prosperous PAC</payeeName>
+      <recipientName>Representative Kevin Brady</recipientName>
+      <amount>5000.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Sony Pictures Entertainment, Inc. PAC</contributorName>
+      <payeeName>Jamie Raskin for Congress</payeeName>
+      <recipientName>Representative Jamie Raskin</recipientName>
+      <amount>1000.00</amount>
+      <date>11/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Sony Pictures Entertainment, Inc. PAC</contributorName>
+      <payeeName>Debbie Wasserman Schultz for Congress</payeeName>
+      <recipientName>Representative Debbie Wasserman Schultz</recipientName>
+      <amount>1000.00</amount>
+      <date>11/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Sony Pictures Entertainment, Inc. PAC</contributorName>
+      <payeeName>Hoyer for Congress</payeeName>
+      <recipientName>Representative Steny Hoyer</recipientName>
+      <amount>5000.00</amount>
+      <date>11/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Sony Pictures Entertainment, Inc. PAC</contributorName>
+      <payeeName>Billy Long for Congress</payeeName>
+      <recipientName>Representative Billy Long</recipientName>
+      <amount>3500.00</amount>
+      <date>11/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Sony Pictures Entertainment, Inc. PAC</contributorName>
+      <payeeName>National Republican Congressional Committee</payeeName>
+      <recipientName>National Republican Congressional Committee</recipientName>
+      <amount>5000.00</amount>
+      <date>11/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Sony Pictures Entertainment, Inc. PAC</contributorName>
+      <payeeName>McCarthy Victory Fund</payeeName>
+      <recipientName>Representative Kevin McCarthy</recipientName>
+      <amount>5000.00</amount>
+      <date>11/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Sony Pictures Entertainment, Inc. PAC</contributorName>
+      <payeeName>McCarthy Victory Fund</payeeName>
+      <recipientName>Representative Kevin McCarthy</recipientName>
+      <amount>5000.00</amount>
+      <date>11/14/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

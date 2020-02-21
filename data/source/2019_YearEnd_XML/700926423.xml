@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>Harbinger Strategies, LLC</organizationName>
+  <lobbyistPrefix>Mr.</lobbyistPrefix>
+  <lobbyistFirstName>Manny</lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>Rossman</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>401103523</senateRegID>
+  <houseRegID>42812</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/30/2020 7:36:00 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Bluegrass Committee</payeeName>
+      <recipientName>Sen. Mitch McConnell (R - KY)</recipientName>
+      <amount>1000.00</amount>
+      <date>7/9/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Fighting for Missouri PAC</payeeName>
+      <recipientName>Sen. Josh Hawley (R - MO)</recipientName>
+      <amount>1000.00</amount>
+      <date>7/9/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>LaHood for Congress</payeeName>
+      <recipientName>Rep. Darin LaHood (R - IL - 18)</recipientName>
+      <amount>1000.00</amount>
+      <date>9/27/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Mike Lee for Senate</payeeName>
+      <recipientName>Sen. Mike Lee (R - UT)</recipientName>
+      <amount>1000.00</amount>
+      <date>9/27/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Families for James Lankford </payeeName>
+      <recipientName>Sen. James Lankford (R - OK)</recipientName>
+      <amount>1000.00</amount>
+      <date>9/27/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Friends of Roy Blunt </payeeName>
+      <recipientName>Sen. Roy Blunt (R - MO)</recipientName>
+      <amount>1000.00</amount>
+      <date>10/22/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>RFW PAC</payeeName>
+      <recipientName>Sen. Roger Wicker (R - MS)</recipientName>
+      <amount>1000.00</amount>
+      <date>11/5/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Reclaim America PAC</payeeName>
+      <recipientName>Sen. Marco Rubio (R - FL)</recipientName>
+      <amount>1000.00</amount>
+      <date>11/5/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Bill Hagerty for Senate</payeeName>
+      <recipientName>Candidate Bill Hagerty (R - TN)</recipientName>
+      <amount>500.00</amount>
+      <date>12/16/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Martha McSally for Senate</payeeName>
+      <recipientName>Sen. Martha McSally (R - AZ)</recipientName>
+      <amount>1000.00</amount>
+      <date>12/16/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Smucker for Congress</payeeName>
+      <recipientName>Rep. Lloyd Smucker (R - PA - 11)</recipientName>
+      <amount>500.00</amount>
+      <date>12/16/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Richard Hudson for Congress</payeeName>
+      <recipientName>Rep. Richard Hudson (R - NC - 08)</recipientName>
+      <amount>500.00</amount>
+      <date>12/16/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Cathy McMorris Rodgers for Congress</payeeName>
+      <recipientName>Rep. Cathy McMorris Rodgers (R - WA - 05)</recipientName>
+      <amount>1000.00</amount>
+      <date>12/16/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Jeff Sessions for Senate</payeeName>
+      <recipientName>Sen. Jeff Sessions (R - AL) </recipientName>
+      <amount>1000.00</amount>
+      <date>12/16/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Jim Risch for Senate</payeeName>
+      <recipientName>Sen. Jim Risch (R - ID)</recipientName>
+      <amount>500.00</amount>
+      <date>12/16/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>McConnell for Majority Leader</payeeName>
+      <recipientName>Sen. Mitch McConnell (R - KY)</recipientName>
+      <amount>2500.00</amount>
+      <date>12/16/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Friends of Pat Toomey</payeeName>
+      <recipientName>Sen. Pat Toomey (R - PA)</recipientName>
+      <amount>1000.00</amount>
+      <date>12/18/19</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

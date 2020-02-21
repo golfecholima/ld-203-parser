@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>TE Connectivity Corporation</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <zipext>
+  </zipext>
+  <contactName>Kathleen Ambrose</contactName>
+  <senateRegID>400738213</senateRegID>
+  <houseRegID>41632</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/30/2020 5:59:03 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>TE Connectivity Corporation Political Action Committee TEPAC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>TE Connectivity Corporation Political Action Committee TEPAC</contributorName>
+      <payeeName>Friends of Schweikert</payeeName>
+      <recipientName>Rep. David Schweikert</recipientName>
+      <amount>1000.00</amount>
+      <date>07/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>TE Connectivity Corporation Political Action Committee TEPAC</contributorName>
+      <payeeName>LaHood for Congress</payeeName>
+      <recipientName>Rep. Darin LaHood</recipientName>
+      <amount>1000.00</amount>
+      <date>07/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>TE Connectivity Corporation Political Action Committee TEPAC</contributorName>
+      <payeeName>Thom Tillis Committee </payeeName>
+      <recipientName>Sen. Thom Tillis </recipientName>
+      <amount>1000.00</amount>
+      <date>07/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>TE Connectivity Corporation Political Action Committee TEPAC</contributorName>
+      <payeeName>Rodney for Congress</payeeName>
+      <recipientName>Rep. Rodney Davis</recipientName>
+      <amount>1500.00</amount>
+      <date>07/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>TE Connectivity Corporation Political Action Committee TEPAC</contributorName>
+      <payeeName>Brady for Congress</payeeName>
+      <recipientName>Rep. Kevin Brady</recipientName>
+      <amount>1500.00</amount>
+      <date>07/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>TE Connectivity Corporation Political Action Committee TEPAC</contributorName>
+      <payeeName>Balderson for Congress</payeeName>
+      <recipientName>Rep. Troy Balderson</recipientName>
+      <amount>1000.00</amount>
+      <date>07/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>TE Connectivity Corporation Political Action Committee TEPAC</contributorName>
+      <payeeName>Tom Reed for Congress</payeeName>
+      <recipientName>Rep. Tom Reed</recipientName>
+      <amount>1000.00</amount>
+      <date>11/25/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

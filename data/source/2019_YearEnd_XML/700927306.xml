@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>Corley Consulting, LLC</organizationName>
+  <lobbyistPrefix>Mr.</lobbyistPrefix>
+  <lobbyistFirstName>Christopher</lobbyistFirstName>
+  <lobbyistMiddleName>Scott</lobbyistMiddleName>
+  <lobbyistLastName>Corley</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>400704112</senateRegID>
+  <houseRegID>41551</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>2/4/2020 9:29:59 AM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Marc Veasey for Congress</payeeName>
+      <recipientName>Marc Veasey</recipientName>
+      <amount>1000.00</amount>
+      <date>7/25/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>John Cornyn for Senate</payeeName>
+      <recipientName>John Cornyn</recipientName>
+      <amount>2000.00</amount>
+      <date>8/27/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Marc Veasey for Congress</payeeName>
+      <recipientName>Marc Veasey</recipientName>
+      <amount>1000.00</amount>
+      <date>12/5/19</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

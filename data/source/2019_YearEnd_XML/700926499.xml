@@ -1,0 +1,767 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>McDonald's Corporation</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <zipext>
+  </zipext>
+  <contactName>Sam Tatevosyan</contactName>
+  <senateRegID>24373</senateRegID>
+  <houseRegID>33059</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/30/2020 8:47:04 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>
+  </noContributions>
+  <pacs>
+    <pac>
+      <name>McDonalds Corporation Political Action Committee</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>McDonalds Corporation Political Action Committee</contributorName>
+      <payeeName>Texans For Henry Cuellar Congressional Campaign</payeeName>
+      <recipientName>Rep. Henry Cuellar</recipientName>
+      <amount>2500</amount>
+      <date>09/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>McDonalds Corporation Political Action Committee</contributorName>
+      <payeeName>Collins For Senator</payeeName>
+      <recipientName>Sen. Susan Collins</recipientName>
+      <amount>2500</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>McDonalds Corporation Political Action Committee</contributorName>
+      <payeeName>Chris Coons For Delaware</payeeName>
+      <recipientName>Sen. Christopher Coons</recipientName>
+      <amount>2500</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>McDonalds Corporation Political Action Committee</contributorName>
+      <payeeName>Texans For Senator John Cornyn Inc.</payeeName>
+      <recipientName>Sen. John Cornyn</recipientName>
+      <amount>2500</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>McDonalds Corporation Political Action Committee</contributorName>
+      <payeeName>Texans For Senator John Cornyn Inc.</payeeName>
+      <recipientName>Sen. John Cornyn</recipientName>
+      <amount>5000</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>McDonalds Corporation Political Action Committee</contributorName>
+      <payeeName>Friends Of Dick Durbin Committee</payeeName>
+      <recipientName>Sen. Richard Durbin</recipientName>
+      <amount>2500</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>McDonalds Corporation Political Action Committee</contributorName>
+      <payeeName>Friends Of Dick Durbin Committee</payeeName>
+      <recipientName>Sen. Richard Durbin</recipientName>
+      <amount>5000</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>McDonalds Corporation Political Action Committee</contributorName>
+      <payeeName>Kaine For Virginia</payeeName>
+      <recipientName>Sen. Timothy Kaine</recipientName>
+      <amount>1000</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>McDonalds Corporation Political Action Committee</contributorName>
+      <payeeName>Families For James Lankford</payeeName>
+      <recipientName>Sen. James Lankford</recipientName>
+      <amount>1000</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>McDonalds Corporation Political Action Committee</contributorName>
+      <payeeName>Schatz For Senate</payeeName>
+      <recipientName>Sen. Brian Schatz</recipientName>
+      <amount>1000</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>McDonalds Corporation Political Action Committee</contributorName>
+      <payeeName>Tim Scott For Senate</payeeName>
+      <recipientName>Sen. Timothy Scott</recipientName>
+      <amount>2500</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>McDonalds Corporation Political Action Committee</contributorName>
+      <payeeName>Jim Banks For Congress, Inc.</payeeName>
+      <recipientName>Rep. James Banks</recipientName>
+      <amount>1000</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>McDonalds Corporation Political Action Committee</contributorName>
+      <payeeName>Bilirakis For Congress</payeeName>
+      <recipientName>Rep. Gus Bilirakis</recipientName>
+      <amount>1000</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>McDonalds Corporation Political Action Committee</contributorName>
+      <payeeName>Friends Of Don Beyer</payeeName>
+      <recipientName>Rep. Donald Beyer Jr</recipientName>
+      <amount>2500</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>McDonalds Corporation Political Action Committee</contributorName>
+      <payeeName>Vern Buchanan For Congress</payeeName>
+      <recipientName>Rep. Vern Buchanan</recipientName>
+      <amount>1000</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>McDonalds Corporation Political Action Committee</contributorName>
+      <payeeName>Friends Of Cheri Bustos</payeeName>
+      <recipientName>Rep. Cheryl Bustos</recipientName>
+      <amount>2500</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>McDonalds Corporation Political Action Committee</contributorName>
+      <payeeName>Buddy Carter For Congress</payeeName>
+      <recipientName>Rep. Earl Carter</recipientName>
+      <amount>2500</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>McDonalds Corporation Political Action Committee</contributorName>
+      <payeeName>Case For Congress</payeeName>
+      <recipientName>Rep. Edward Case</recipientName>
+      <amount>1000</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>McDonalds Corporation Political Action Committee</contributorName>
+      <payeeName>Liz Cheney For Wyoming</payeeName>
+      <recipientName>Rep. Elizabeth Cheney</recipientName>
+      <amount>1000</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>McDonalds Corporation Political Action Committee</contributorName>
+      <payeeName>Clarke For Congress</payeeName>
+      <recipientName>Rep. Yvette Clarke</recipientName>
+      <amount>1000</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>McDonalds Corporation Political Action Committee</contributorName>
+      <payeeName>Clay Jr. For Congress</payeeName>
+      <recipientName>Rep. William Clay Jr.</recipientName>
+      <amount>1000</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>McDonalds Corporation Political Action Committee</contributorName>
+      <payeeName>Connolly For Congress</payeeName>
+      <recipientName>Rep. Gerald Connolly</recipientName>
+      <amount>1000</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>McDonalds Corporation Political Action Committee</contributorName>
+      <payeeName>Lou Correa For Congress</payeeName>
+      <recipientName>Rep. J. Luis Correa</recipientName>
+      <amount>1000</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>McDonalds Corporation Political Action Committee</contributorName>
+      <payeeName>Davis For Congress/Friends Of Davis</payeeName>
+      <recipientName>Rep. Danny Davis</recipientName>
+      <amount>2500</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>McDonalds Corporation Political Action Committee</contributorName>
+      <payeeName>Rodney For Congress</payeeName>
+      <recipientName>Rep. Rodney Davis</recipientName>
+      <amount>5000</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>McDonalds Corporation Political Action Committee</contributorName>
+      <payeeName>Josh Gottheimer For Congress</payeeName>
+      <recipientName>Rep. Joshua Gottheimer</recipientName>
+      <amount>2500</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>McDonalds Corporation Political Action Committee</contributorName>
+      <payeeName>Emmer For Congress</payeeName>
+      <recipientName>Rep. Tom Emmer Jr.</recipientName>
+      <amount>2500</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>McDonalds Corporation Political Action Committee</contributorName>
+      <payeeName>Graves For Congress</payeeName>
+      <recipientName>Rep. Tom Graves Jr.</recipientName>
+      <amount>1000</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>McDonalds Corporation Political Action Committee</contributorName>
+      <payeeName>Glenn Grothman For Congress</payeeName>
+      <recipientName>Rep. Glenn Grothman</recipientName>
+      <amount>1000</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>McDonalds Corporation Political Action Committee</contributorName>
+      <payeeName>Guthrie For Congress</payeeName>
+      <recipientName>Rep. S. Brett Guthrie</recipientName>
+      <amount>1000</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>McDonalds Corporation Political Action Committee</contributorName>
+      <payeeName>Hoyer For Congress</payeeName>
+      <recipientName>Rep. Steny Hoyer</recipientName>
+      <amount>2500</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>McDonalds Corporation Political Action Committee</contributorName>
+      <payeeName>Hern For Congress</payeeName>
+      <recipientName>Rep. Kevin Hern</recipientName>
+      <amount>5000</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>McDonalds Corporation Political Action Committee</contributorName>
+      <payeeName>Hudson For Congress</payeeName>
+      <recipientName>Rep. Richard Hudson Jr.</recipientName>
+      <amount>1000</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>McDonalds Corporation Political Action Committee</contributorName>
+      <payeeName>Huffman For Congress</payeeName>
+      <recipientName>Rep. Jared Huffman</recipientName>
+      <amount>1000</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>McDonalds Corporation Political Action Committee</contributorName>
+      <payeeName>Stephanie Murphy For Congress</payeeName>
+      <recipientName>Rep. Stephanie Murphy</recipientName>
+      <amount>2500</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>McDonalds Corporation Political Action Committee</contributorName>
+      <payeeName>Greg Pence For Congress</payeeName>
+      <recipientName>Rep. Gregory Pence</recipientName>
+      <amount>1000</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>McDonalds Corporation Political Action Committee</contributorName>
+      <payeeName>Quigley For Congress</payeeName>
+      <recipientName>Rep. Michael Quigley</recipientName>
+      <amount>1000</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>McDonalds Corporation Political Action Committee</contributorName>
+      <payeeName>Tom Reed For Congress</payeeName>
+      <recipientName>Rep. Tom Reed</recipientName>
+      <amount>1000</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>McDonalds Corporation Political Action Committee</contributorName>
+      <payeeName>David Rouzer For Congress</payeeName>
+      <recipientName>Rep. David Rouzer</recipientName>
+      <amount>2500</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>McDonalds Corporation Political Action Committee</contributorName>
+      <payeeName>Scalise For Congress</payeeName>
+      <recipientName>Rep. Stephen Scalise</recipientName>
+      <amount>2500</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>McDonalds Corporation Political Action Committee</contributorName>
+      <payeeName>Schneider For Congress</payeeName>
+      <recipientName>Rep. Bradley Schneider</recipientName>
+      <amount>1000</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>McDonalds Corporation Political Action Committee</contributorName>
+      <payeeName>Smucker For Congress</payeeName>
+      <recipientName>Rep. Lloyd Smucker</recipientName>
+      <amount>2500</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>McDonalds Corporation Political Action Committee</contributorName>
+      <payeeName>Van Taylor Campaign</payeeName>
+      <recipientName>Rep. Van Taylor</recipientName>
+      <amount>2500</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>McDonalds Corporation Political Action Committee</contributorName>
+      <payeeName>William Timmons For Congress</payeeName>
+      <recipientName>Rep. William Timmons IV</recipientName>
+      <amount>1000</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>McDonalds Corporation Political Action Committee</contributorName>
+      <payeeName>Van Drew For Congress</payeeName>
+      <recipientName>Rep. Jeff Van Drew</recipientName>
+      <amount>1500</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>McDonalds Corporation Political Action Committee</contributorName>
+      <payeeName>Marc Veasey Congressional Campaign Committee</payeeName>
+      <recipientName>Rep. Marc Veasey</recipientName>
+      <amount>1000</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>McDonalds Corporation Political Action Committee</contributorName>
+      <payeeName>Walden For Congress</payeeName>
+      <recipientName>Rep. Gregory Walden</recipientName>
+      <amount>1000</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>McDonalds Corporation Political Action Committee</contributorName>
+      <payeeName>Beatty For Congress</payeeName>
+      <recipientName>Rep. Joyce Beatty</recipientName>
+      <amount>1000</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>McDonalds Corporation Political Action Committee</contributorName>
+      <payeeName>Marcia Fudge For Congress</payeeName>
+      <recipientName>Rep. Marcia Fudge</recipientName>
+      <amount>1000</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>McDonalds Corporation Political Action Committee</contributorName>
+      <payeeName>McEachin For Congress</payeeName>
+      <recipientName>Rep. A. Donald McEachin</recipientName>
+      <amount>1000</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>McDonalds Corporation Political Action Committee</contributorName>
+      <payeeName>Westerman For Congress</payeeName>
+      <recipientName>Rep. Bruce Westerman</recipientName>
+      <amount>1000</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>McDonalds Corporation Political Action Committee</contributorName>
+      <payeeName>McSally For Senate Inc</payeeName>
+      <recipientName>Sen. Martha McSally</recipientName>
+      <amount>1000</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>McDonalds Corporation Political Action Committee</contributorName>
+      <payeeName>Nevadans For Steven Horsford</payeeName>
+      <recipientName>Rep. Steven Horsford</recipientName>
+      <amount>2500</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>McDonalds Corporation Political Action Committee</contributorName>
+      <payeeName>Votetipton.Com</payeeName>
+      <recipientName>Rep. Scott Tipton</recipientName>
+      <amount>1000</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>McDonalds Corporation Political Action Committee</contributorName>
+      <payeeName>Mike Braun For Indiana</payeeName>
+      <recipientName>Sen. Mike Braun</recipientName>
+      <amount>2500</amount>
+      <date>12/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>McDonalds Corporation Political Action Committee</contributorName>
+      <payeeName>Joni For Iowa</payeeName>
+      <recipientName>Sen. Joni Ernst</recipientName>
+      <amount>2500</amount>
+      <date>12/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>McDonalds Corporation Political Action Committee</contributorName>
+      <payeeName>McConnell Senate Committee</payeeName>
+      <recipientName>Sen. Mitch McConnell</recipientName>
+      <amount>2500</amount>
+      <date>12/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>McDonalds Corporation Political Action Committee</contributorName>
+      <payeeName>Thom Tillis Committee</payeeName>
+      <recipientName>Sen. Thomas Tillis</recipientName>
+      <amount>2500</amount>
+      <date>12/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>McDonalds Corporation Political Action Committee</contributorName>
+      <payeeName>Steve Daines For Montana</payeeName>
+      <recipientName>Sen. Steve Daines</recipientName>
+      <amount>1500</amount>
+      <date>12/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>McDonalds Corporation Political Action Committee</contributorName>
+      <payeeName>Steve Daines For Montana</payeeName>
+      <recipientName>Sen. Steve Daines</recipientName>
+      <amount>1000</amount>
+      <date>12/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>McDonalds Corporation Political Action Committee</contributorName>
+      <payeeName>Perdue For Senate</payeeName>
+      <recipientName>Sen. David Perdue</recipientName>
+      <amount>2500</amount>
+      <date>12/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>McDonalds Corporation Political Action Committee</contributorName>
+      <payeeName>Sinema For Arizona</payeeName>
+      <recipientName>Sen. Kyrsten Sinema</recipientName>
+      <amount>2500</amount>
+      <date>12/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>McDonalds Corporation Political Action Committee</contributorName>
+      <payeeName>Friends Of Mark Warner</payeeName>
+      <recipientName>Sen. Mark Warner</recipientName>
+      <amount>2000</amount>
+      <date>12/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>McDonalds Corporation Political Action Committee</contributorName>
+      <payeeName>Alma Adams For Congress</payeeName>
+      <recipientName>Rep. Alma Adams</recipientName>
+      <amount>1000</amount>
+      <date>12/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>McDonalds Corporation Political Action Committee</contributorName>
+      <payeeName>Karen Bass For Congress</payeeName>
+      <recipientName>Rep. Karen Bass</recipientName>
+      <amount>1000</amount>
+      <date>12/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>McDonalds Corporation Political Action Committee</contributorName>
+      <payeeName>Beatty For Congress</payeeName>
+      <recipientName>Rep. Joyce Beatty</recipientName>
+      <amount>1000</amount>
+      <date>12/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>McDonalds Corporation Political Action Committee</contributorName>
+      <payeeName>Mike Bost For Congress Committee</payeeName>
+      <recipientName>Rep. Michael Bost</recipientName>
+      <amount>2500</amount>
+      <date>12/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>McDonalds Corporation Political Action Committee</contributorName>
+      <payeeName>Tony Cardenas For Congress</payeeName>
+      <recipientName>Rep. Tony Cardenas</recipientName>
+      <amount>1000</amount>
+      <date>12/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>McDonalds Corporation Political Action Committee</contributorName>
+      <payeeName>Cartwright For Congress</payeeName>
+      <recipientName>Rep. Matt Cartwright</recipientName>
+      <amount>1000</amount>
+      <date>12/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>McDonalds Corporation Political Action Committee</contributorName>
+      <payeeName>Judy Chu For Congress</payeeName>
+      <recipientName>Rep. Judy Chu</recipientName>
+      <amount>1000</amount>
+      <date>12/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>McDonalds Corporation Political Action Committee</contributorName>
+      <payeeName>Friends Of Jim Clyburn</payeeName>
+      <recipientName>Rep. James Clyburn</recipientName>
+      <amount>2500</amount>
+      <date>12/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>McDonalds Corporation Political Action Committee</contributorName>
+      <payeeName>Cole For Congress</payeeName>
+      <recipientName>Rep. Thomas Cole</recipientName>
+      <amount>2500</amount>
+      <date>12/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>McDonalds Corporation Political Action Committee</contributorName>
+      <payeeName>Jim Costa For Congress</payeeName>
+      <recipientName>Rep. Jim Costa</recipientName>
+      <amount>2500</amount>
+      <date>12/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>McDonalds Corporation Political Action Committee</contributorName>
+      <payeeName>Virginia Foxx For Congress</payeeName>
+      <recipientName>Rep. Virginia Foxx</recipientName>
+      <amount>2500</amount>
+      <date>12/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>McDonalds Corporation Political Action Committee</contributorName>
+      <payeeName>Jeffries For Congress</payeeName>
+      <recipientName>Rep. Hakeem Jeffries</recipientName>
+      <amount>2500</amount>
+      <date>12/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>McDonalds Corporation Political Action Committee</contributorName>
+      <payeeName>Robin Kelly For Congress</payeeName>
+      <recipientName>Rep. Robin Kelly</recipientName>
+      <amount>1000</amount>
+      <date>12/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>McDonalds Corporation Political Action Committee</contributorName>
+      <payeeName>Brenda Lawrence For Congress</payeeName>
+      <recipientName>Rep. Brenda Lawrence</recipientName>
+      <amount>1000</amount>
+      <date>12/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>McDonalds Corporation Political Action Committee</contributorName>
+      <payeeName>Grace For New York</payeeName>
+      <recipientName>Rep. Grace Meng</recipientName>
+      <amount>1000</amount>
+      <date>12/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>McDonalds Corporation Political Action Committee</contributorName>
+      <payeeName>Richard E Neal For Congress Committee</payeeName>
+      <recipientName>Rep. Richard Neal</recipientName>
+      <amount>2500</amount>
+      <date>12/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>McDonalds Corporation Political Action Committee</contributorName>
+      <payeeName>Donald M Payne Jr For Congress</payeeName>
+      <recipientName>Rep. Donald Payne Jr.</recipientName>
+      <amount>1000</amount>
+      <date>12/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>McDonalds Corporation Political Action Committee</contributorName>
+      <payeeName>Scott Peters For Congress</payeeName>
+      <recipientName>Rep. Scott Peters</recipientName>
+      <amount>1000</amount>
+      <date>12/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>McDonalds Corporation Political Action Committee</contributorName>
+      <payeeName>Richmond For Congress</payeeName>
+      <recipientName>Rep. Cedric Richmond</recipientName>
+      <amount>1000</amount>
+      <date>12/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>McDonalds Corporation Political Action Committee</contributorName>
+      <payeeName>Jason Smith For Congress</payeeName>
+      <recipientName>Rep. Jason Smith</recipientName>
+      <amount>2500</amount>
+      <date>12/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>McDonalds Corporation Political Action Committee</contributorName>
+      <payeeName>Van Drew For Congress</payeeName>
+      <recipientName>Rep. Jeff Van Drew</recipientName>
+      <amount>1000</amount>
+      <date>12/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>McDonalds Corporation Political Action Committee</contributorName>
+      <payeeName>Vern Buchanan For Congress</payeeName>
+      <recipientName>Rep. Vern Buchanan</recipientName>
+      <amount>4000</amount>
+      <date>12/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>McDonalds Corporation Political Action Committee</contributorName>
+      <payeeName>Jim Risch For U S Senate Committee</payeeName>
+      <recipientName>Sen. James Risch</recipientName>
+      <amount>2500</amount>
+      <date>12/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>McDonalds Corporation Political Action Committee</contributorName>
+      <payeeName>McDonald's Corporation (in-kind contribution)</payeeName>
+      <recipientName>Rep. Danny Davis</recipientName>
+      <amount>1000.00</amount>
+      <date>12/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>McDonalds Corporation Political Action Committee</contributorName>
+      <payeeName>VIP Security, Inc (in-kind contribution)</payeeName>
+      <recipientName>Rep. Danny Davis</recipientName>
+      <amount>825.00</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>McDonalds Corporation Political Action Committee</contributorName>
+      <payeeName>Davis For Congress/Friends Of Davis</payeeName>
+      <recipientName>Rep. Danny Davis</recipientName>
+      <amount>3175</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>McDonalds Corporation Political Action Committee</contributorName>
+      <payeeName>Friends Of Raja For Congress</payeeName>
+      <recipientName>Rep. Raja Krishnamoorthi</recipientName>
+      <amount>1000</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>McDonalds Corporation Political Action Committee</contributorName>
+      <payeeName>Elise For Congress</payeeName>
+      <recipientName>Rep. Elise Stefanik</recipientName>
+      <amount>2500</amount>
+      <date>12/19/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

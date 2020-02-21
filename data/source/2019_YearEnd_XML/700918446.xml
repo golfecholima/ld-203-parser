@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>ALTICOR INC.</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>Mike Telliga</contactName>
+  <senateRegID>3925</senateRegID>
+  <houseRegID>31137</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/21/2020 3:59:18 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Bergman for Congress</payeeName>
+      <recipientName>Jack Bergman</recipientName>
+      <amount>1000.00</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Darren Soto for Congress</payeeName>
+      <recipientName>Darren Soto</recipientName>
+      <amount>1000.00</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Debbie Lesko for Congress</payeeName>
+      <recipientName>Debbie Lesko</recipientName>
+      <amount>1000.00</amount>
+      <date>7/17/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Ernst Victory</payeeName>
+      <recipientName>Joni Ernst</recipientName>
+      <amount>1000.00</amount>
+      <date>9/12/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Walden for Congress</payeeName>
+      <recipientName>Greg Walden</recipientName>
+      <amount>1500.00</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Hudson for Congress</payeeName>
+      <recipientName>Richard Hudson</recipientName>
+      <amount>2500.00</amount>
+      <date>8/07/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Huizenga for Congress</payeeName>
+      <recipientName>Bill Huizenga</recipientName>
+      <amount>2500.00</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Moolenaar for Congress</payeeName>
+      <recipientName>John Moolenaar</recipientName>
+      <amount>2500.00</amount>
+      <date>8/7/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Cory Gardner for Senate</payeeName>
+      <recipientName>Cory Gardner</recipientName>
+      <amount>1000.00</amount>
+      <date>11/27/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Jaime for Congress</payeeName>
+      <recipientName>Jaime Herrera Beutler</recipientName>
+      <amount>1000.00</amount>
+      <date>11/18/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Upton for All of Us</payeeName>
+      <recipientName>Fred Upton</recipientName>
+      <amount>1000.00</amount>
+      <date>11/18/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Vicente Gonzalez for Congress</payeeName>
+      <recipientName>Vicente Gonzalez</recipientName>
+      <amount>1000.00</amount>
+      <date>11/18/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Walberg for Congress</payeeName>
+      <recipientName>Tim Walberg</recipientName>
+      <amount>1000.00</amount>
+      <date>11/18/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Darren Soto for Congress</payeeName>
+      <recipientName>Darren Soto</recipientName>
+      <amount>2000.00</amount>
+      <date>11/18/19</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

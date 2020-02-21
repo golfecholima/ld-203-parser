@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>RELX Inc.</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>Kenneth Thompson II</contactName>
+  <senateRegID>49511</senateRegID>
+  <houseRegID>34613</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>My certification below is to the best of my knowledge based on reasonable due diligence.</comments>
+  <signedDate>1/30/2020 7:47:08 AM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>
+  </noContributions>
+  <pacs>
+    <pac>
+      <name>RELX Inc. Political Action Committee</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RELX Inc. Political Action Committee</contributorName>
+      <payeeName>Friends Of John Thune</payeeName>
+      <recipientName>Sen. John Randolph Thune</recipientName>
+      <amount>4000</amount>
+      <date>7/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RELX Inc. Political Action Committee</contributorName>
+      <payeeName>Rounds For Senate</payeeName>
+      <recipientName>Sen. M. Michael Rounds</recipientName>
+      <amount>1000</amount>
+      <date>7/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RELX Inc. Political Action Committee</contributorName>
+      <payeeName>Veronica Escobar For Congress</payeeName>
+      <recipientName>Rep. Veronica Escobar</recipientName>
+      <amount>1000</amount>
+      <date>7/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RELX Inc. Political Action Committee</contributorName>
+      <payeeName>Friends Of Schumer</payeeName>
+      <recipientName>Sen. Charles E. Schumer</recipientName>
+      <amount>5000</amount>
+      <date>8/1/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RELX Inc. Political Action Committee</contributorName>
+      <payeeName>The Markey Committee</payeeName>
+      <recipientName>Sen. Edward John Markey</recipientName>
+      <amount>500</amount>
+      <date>8/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RELX Inc. Political Action Committee</contributorName>
+      <payeeName>The Markey Committee</payeeName>
+      <recipientName>Sen. Edward John Markey</recipientName>
+      <amount>500</amount>
+      <date>8/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RELX Inc. Political Action Committee</contributorName>
+      <payeeName>Citizens For Turner</payeeName>
+      <recipientName>Rep. Michael R. Turner</recipientName>
+      <amount>1000</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RELX Inc. Political Action Committee</contributorName>
+      <payeeName>Cory Gardner For Senate</payeeName>
+      <recipientName>Sen. Cory Gardner</recipientName>
+      <amount>500</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RELX Inc. Political Action Committee</contributorName>
+      <payeeName>Cory Gardner For Senate</payeeName>
+      <recipientName>Sen. Cory Gardner</recipientName>
+      <amount>500</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RELX Inc. Political Action Committee</contributorName>
+      <payeeName>Grassley Committee Inc</payeeName>
+      <recipientName>Sen. Charles E. Grassley</recipientName>
+      <amount>1000</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RELX Inc. Political Action Committee</contributorName>
+      <payeeName>Maloney For Congress</payeeName>
+      <recipientName>Rep. Carolyn B. Maloney</recipientName>
+      <amount>1000</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RELX Inc. Political Action Committee</contributorName>
+      <payeeName>Perdue For Senate</payeeName>
+      <recipientName>Sen. David Alfred Perdue, Jr.</recipientName>
+      <amount>1000</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RELX Inc. Political Action Committee</contributorName>
+      <payeeName>Portman For Senate Committee</payeeName>
+      <recipientName>Sen. Rob J. Portman</recipientName>
+      <amount>1000</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RELX Inc. Political Action Committee</contributorName>
+      <payeeName>Thom Tillis Committee</payeeName>
+      <recipientName>Sen. Thomas Roland Tillis</recipientName>
+      <amount>1000</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RELX Inc. Political Action Committee</contributorName>
+      <payeeName>Tim Ryan For Congress</payeeName>
+      <recipientName>Rep. Timothy John Ryan</recipientName>
+      <amount>1000</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RELX Inc. Political Action Committee</contributorName>
+      <payeeName>Veronica Escobar For Congress</payeeName>
+      <recipientName>Rep. Veronica Escobar</recipientName>
+      <amount>1000</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RELX Inc. Political Action Committee</contributorName>
+      <payeeName>Bera For Congress</payeeName>
+      <recipientName>Rep. Amerish B. Bera</recipientName>
+      <amount>1000</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RELX Inc. Political Action Committee</contributorName>
+      <payeeName>Citizens For Turner</payeeName>
+      <recipientName>Rep. Michael R. Turner</recipientName>
+      <amount>3000</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RELX Inc. Political Action Committee</contributorName>
+      <payeeName>Collins For Senator</payeeName>
+      <recipientName>Sen. Susan Margaret Collins</recipientName>
+      <amount>1500</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RELX Inc. Political Action Committee</contributorName>
+      <payeeName>Friends Of Don Beyer</payeeName>
+      <recipientName>Rep. Donald S. Beyer, Jr.</recipientName>
+      <amount>1000</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RELX Inc. Political Action Committee</contributorName>
+      <payeeName>Friends Of Don Beyer</payeeName>
+      <recipientName>Rep. Donald S. Beyer, Jr.</recipientName>
+      <amount>4000</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RELX Inc. Political Action Committee</contributorName>
+      <payeeName>Friends Of Roy Blunt</payeeName>
+      <recipientName>Sen. Roy Dean Blunt</recipientName>
+      <amount>2500</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RELX Inc. Political Action Committee</contributorName>
+      <payeeName>Friends Of Sherrod Brown</payeeName>
+      <recipientName>Sen. Sherrod Campbell Brown</recipientName>
+      <amount>1000</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RELX Inc. Political Action Committee</contributorName>
+      <payeeName>Jeffries For Congress</payeeName>
+      <recipientName>Rep. Hakeem S. Jeffries</recipientName>
+      <amount>1000</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RELX Inc. Political Action Committee</contributorName>
+      <payeeName>Lucas For Congress</payeeName>
+      <recipientName>Rep. Frank Dean Lucas</recipientName>
+      <amount>1500</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RELX Inc. Political Action Committee</contributorName>
+      <payeeName>Mike Crapo For US Senate</payeeName>
+      <recipientName>Sen. Michael Dean Crapo</recipientName>
+      <amount>2500</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RELX Inc. Political Action Committee</contributorName>
+      <payeeName>Ross Spano For Congress</payeeName>
+      <recipientName>Rep. Ross Spano</recipientName>
+      <amount>500</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RELX Inc. Political Action Committee</contributorName>
+      <payeeName>Tony Cardenas For Congress</payeeName>
+      <recipientName>Rep. Tony Cardenas</recipientName>
+      <amount>1000</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RELX Inc. Political Action Committee</contributorName>
+      <payeeName>Cole For Congress</payeeName>
+      <recipientName>Rep. Thomas Jeffery Cole</recipientName>
+      <amount>1000</amount>
+      <date>10/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RELX Inc. Political Action Committee</contributorName>
+      <payeeName>McHenry For Congress</payeeName>
+      <recipientName>Rep. Patrick Timothy McHenry</recipientName>
+      <amount>1000</amount>
+      <date>10/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RELX Inc. Political Action Committee</contributorName>
+      <payeeName>Darren Soto For Congress</payeeName>
+      <recipientName>Rep. Darren Michael Soto</recipientName>
+      <amount>1000</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RELX Inc. Political Action Committee</contributorName>
+      <payeeName>Jamie Raskin For Congress</payeeName>
+      <recipientName>Rep. Jamie B. Raskin</recipientName>
+      <amount>1000</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RELX Inc. Political Action Committee</contributorName>
+      <payeeName>Judy Chu For Congress</payeeName>
+      <recipientName>Rep. Judy May Chu</recipientName>
+      <amount>1000</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RELX Inc. Political Action Committee</contributorName>
+      <payeeName>Schneider For Congress</payeeName>
+      <recipientName>Rep. Bradley Scott Schneider</recipientName>
+      <amount>1000</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RELX Inc. Political Action Committee</contributorName>
+      <payeeName>Carper For Senate</payeeName>
+      <recipientName>Sen. Thomas Richard Carper</recipientName>
+      <amount>2500</amount>
+      <date>10/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RELX Inc. Political Action Committee</contributorName>
+      <payeeName>Scott Peters For Congress</payeeName>
+      <recipientName>Rep. Scott H. Peters</recipientName>
+      <amount>2500</amount>
+      <date>10/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RELX Inc. Political Action Committee</contributorName>
+      <payeeName>Making Business Excel Political Action Committee</payeeName>
+      <recipientName>Sen. Michael Bradley Enzi</recipientName>
+      <amount>1000</amount>
+      <date>11/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RELX Inc. Political Action Committee</contributorName>
+      <payeeName>Debbie For Congress</payeeName>
+      <recipientName>Rep. Debbie Mucarsel-Powell</recipientName>
+      <amount>1000</amount>
+      <date>11/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RELX Inc. Political Action Committee</contributorName>
+      <payeeName>Donna Shalala For Congress</payeeName>
+      <recipientName>Rep. Donna E. Shalala</recipientName>
+      <amount>1000</amount>
+      <date>11/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RELX Inc. Political Action Committee</contributorName>
+      <payeeName>John Kennedy For Us</payeeName>
+      <recipientName>Sen. John Neely Kennedy</recipientName>
+      <amount>1000</amount>
+      <date>11/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RELX Inc. Political Action Committee</contributorName>
+      <payeeName>Josh Hawley For Senate</payeeName>
+      <recipientName>Sen. Josh D. Hawley</recipientName>
+      <amount>1000</amount>
+      <date>11/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RELX Inc. Political Action Committee</contributorName>
+      <payeeName>Friends Of Cheri Bustos</payeeName>
+      <recipientName>Rep. Cheryl L. Bustos</recipientName>
+      <amount>1000</amount>
+      <date>11/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RELX Inc. Political Action Committee</contributorName>
+      <payeeName>Matsui For Congress</payeeName>
+      <recipientName>Rep. Doris O. Matsui</recipientName>
+      <amount>1000</amount>
+      <date>11/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RELX Inc. Political Action Committee</contributorName>
+      <payeeName>Michael Burgess For Congress</payeeName>
+      <recipientName>Rep. Michael Clifton Burgess</recipientName>
+      <amount>1000</amount>
+      <date>11/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RELX Inc. Political Action Committee</contributorName>
+      <payeeName>Menendez For Senate</payeeName>
+      <recipientName>Sen. Robert Menendez</recipientName>
+      <amount>1000</amount>
+      <date>11/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RELX Inc. Political Action Committee</contributorName>
+      <payeeName>Richard E Neal For Congress Committee</payeeName>
+      <recipientName>Rep. Richard Edmund Neal</recipientName>
+      <amount>1000</amount>
+      <date>11/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RELX Inc. Political Action Committee</contributorName>
+      <payeeName>Steve Chabot For Congress</payeeName>
+      <recipientName>Rep. Steven Joseph Chabot</recipientName>
+      <amount>1000</amount>
+      <date>11/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RELX Inc. Political Action Committee</contributorName>
+      <payeeName>Cotton For Senate, Inc.</payeeName>
+      <recipientName>Sen. Thomas Bryant Cotton</recipientName>
+      <amount>1000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RELX Inc. Political Action Committee</contributorName>
+      <payeeName>Dwight Evans For Congress</payeeName>
+      <recipientName>Rep. Dwight Evans</recipientName>
+      <amount>1000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RELX Inc. Political Action Committee</contributorName>
+      <payeeName>Feinstein For Senate 2024</payeeName>
+      <recipientName>Sen. Dianne Feinstein</recipientName>
+      <amount>1000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RELX Inc. Political Action Committee</contributorName>
+      <payeeName>Himes For Congress</payeeName>
+      <recipientName>Rep. James Andrew Himes</recipientName>
+      <amount>1000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RELX Inc. Political Action Committee</contributorName>
+      <payeeName>Paul Tonko For Congress</payeeName>
+      <recipientName>Rep. Paul David Tonko</recipientName>
+      <amount>1000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RELX Inc. Political Action Committee</contributorName>
+      <payeeName>Sinema For Arizona</payeeName>
+      <recipientName>Sen. Kyrsten Sinema</recipientName>
+      <amount>1000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

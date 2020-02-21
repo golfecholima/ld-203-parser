@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>AMERICAN INTELLECTUAL PROPERTY LAW ASSOCIATION (AIPLA)</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <zipext>
+  </zipext>
+  <contactName>Meghan Donohoe</contactName>
+  <senateRegID>2673</senateRegID>
+  <houseRegID>32199</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/27/2020 1:46:06 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>American Intellectual Property Law Association (AIPLA) - PAC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Intellectual Property Law Association (AIPLA) - PAC</contributorName>
+      <payeeName>Cohen for Congress</payeeName>
+      <recipientName>Congressman Steve Cohen</recipientName>
+      <amount>1000.00</amount>
+      <date>07/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Intellectual Property Law Association (AIPLA) - PAC</contributorName>
+      <payeeName>Ted Cruz Victory Committee</payeeName>
+      <recipientName>Senator Ted Cruz</recipientName>
+      <amount>1000.00</amount>
+      <date>07/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Intellectual Property Law Association (AIPLA) - PAC</contributorName>
+      <payeeName>Jeffries for Congress</payeeName>
+      <recipientName>Congressman Hakeem Jeffries</recipientName>
+      <amount>1500.00</amount>
+      <date>07/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Intellectual Property Law Association (AIPLA) - PAC</contributorName>
+      <payeeName>Jerry Nadler for Congress</payeeName>
+      <recipientName>Congressman Jerry Nadler</recipientName>
+      <amount>1500.00</amount>
+      <date>07/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Intellectual Property Law Association (AIPLA) - PAC</contributorName>
+      <payeeName>Durbin Victory Fund</payeeName>
+      <recipientName>Senator Dick Durbin</recipientName>
+      <amount>1000.00</amount>
+      <date>08/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Intellectual Property Law Association (AIPLA) - PAC</contributorName>
+      <payeeName>Hawkeye PAC</payeeName>
+      <recipientName>Senator Chuck Grassley</recipientName>
+      <amount>1000.00</amount>
+      <date>08/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Intellectual Property Law Association (AIPLA) - PAC</contributorName>
+      <payeeName>The Thom Tillis Committee</payeeName>
+      <recipientName>Senator Thom Tillis</recipientName>
+      <amount>1000.00</amount>
+      <date>08/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Intellectual Property Law Association (AIPLA) - PAC</contributorName>
+      <payeeName>Kennedy for Senate</payeeName>
+      <recipientName>Senator John Kennedy</recipientName>
+      <amount>1000.00</amount>
+      <date>08/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American Intellectual Property Law Association (AIPLA) - PAC</contributorName>
+      <payeeName>Leahy for US Senator</payeeName>
+      <recipientName>Senator Patrick Leahy</recipientName>
+      <amount>1000.00</amount>
+      <date>08/30/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

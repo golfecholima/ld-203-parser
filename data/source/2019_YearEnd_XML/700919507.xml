@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>KEYBANK</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <zipext>
+  </zipext>
+  <contactName>Jill E. Hershey</contactName>
+  <senateRegID>400276327</senateRegID>
+  <houseRegID>40094</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/23/2020 11:00:36 AM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>
+  </noContributions>
+  <pacs>
+    <pac>
+      <name>KeyCorp Advocates Fund</name>
+    </pac>
+    <pac>
+      <name>KeyCorp Advocates Fund-Federal</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>KeyCorp Advocates Fund</contributorName>
+      <payeeName>Crapo Victory Committee</payeeName>
+      <recipientName>Crapo Victory Committee</recipientName>
+      <amount>3000</amount>
+      <date>8/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>KeyCorp Advocates Fund</contributorName>
+      <payeeName>Davidson For Congress</payeeName>
+      <recipientName>Rep. Warren Davidson</recipientName>
+      <amount>1000</amount>
+      <date>8/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>KeyCorp Advocates Fund</contributorName>
+      <payeeName>Friends Of Denver Riggleman, Inc.</payeeName>
+      <recipientName>Rep. Denver L. Riggleman, III</recipientName>
+      <amount>1000</amount>
+      <date>8/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>KeyCorp Advocates Fund</contributorName>
+      <payeeName>Beatty For Congress</payeeName>
+      <recipientName>Rep. Joyce Beatty</recipientName>
+      <amount>2500</amount>
+      <date>9/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>KeyCorp Advocates Fund</contributorName>
+      <payeeName>Cleaver For Congress</payeeName>
+      <recipientName>Rep. Emanuel Cleaver, II</recipientName>
+      <amount>1500</amount>
+      <date>9/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>KeyCorp Advocates Fund</contributorName>
+      <payeeName>Davidson For Congress</payeeName>
+      <recipientName>Rep. Warren Davidson</recipientName>
+      <amount>2500</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>KeyCorp Advocates Fund</contributorName>
+      <payeeName>Friends Of Dave Joyce</payeeName>
+      <recipientName>Rep. David Patrick Joyce</recipientName>
+      <amount>2500</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>KeyCorp Advocates Fund</contributorName>
+      <payeeName>Friends Of Denver Riggleman, Inc.</payeeName>
+      <recipientName>Rep. Denver L. Riggleman, III</recipientName>
+      <amount>1000</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>KeyCorp Advocates Fund</contributorName>
+      <payeeName>Sinema For Arizona</payeeName>
+      <recipientName>Sen. Kyrsten Sinema</recipientName>
+      <amount>1000</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>KeyCorp Advocates Fund</contributorName>
+      <payeeName>Blaine For Congress</payeeName>
+      <recipientName>Rep. W. Blaine Luetkemeyer</recipientName>
+      <amount>2500</amount>
+      <date>11/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>KeyCorp Advocates Fund</contributorName>
+      <payeeName>Thom Tillis Committee</payeeName>
+      <recipientName>Sen. Thomas Roland Tillis</recipientName>
+      <amount>2000</amount>
+      <date>11/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>KeyCorp Advocates Fund</contributorName>
+      <payeeName>Friends Of Bill Posey</payeeName>
+      <recipientName>Rep. William Posey</recipientName>
+      <amount>1000</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>KeyCorp Advocates Fund</contributorName>
+      <payeeName>Friends Of Mark Warner</payeeName>
+      <recipientName>Sen. Mark Robert Warner</recipientName>
+      <amount>1000</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>KeyCorp Advocates Fund</contributorName>
+      <payeeName>Steve Daines For Montana</payeeName>
+      <recipientName>Sen. Steve David Daines</recipientName>
+      <amount>1000</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>KeyCorp Advocates Fund</contributorName>
+      <payeeName>French Hill For Arkansas</payeeName>
+      <recipientName>Rep. J. French Hill</recipientName>
+      <amount>1000</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>KeyCorp Advocates Fund</contributorName>
+      <payeeName>Mortgage Bankers Association Political Action Committee (MORPAC)</payeeName>
+      <recipientName>Mortgage Bankers Association Political Action Committee (MORPAC)</recipientName>
+      <amount>2500</amount>
+      <date>11/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>KeyCorp Advocates Fund</contributorName>
+      <payeeName>Beatty For Congress</payeeName>
+      <recipientName>Rep. Joyce Beatty</recipientName>
+      <amount>2500</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>KeyCorp Advocates Fund-Federal</contributorName>
+      <payeeName>Tom Reed For Congress</payeeName>
+      <recipientName>Rep. Thomas W. Reed, II.</recipientName>
+      <amount>1000</amount>
+      <date>7/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>KeyCorp Advocates Fund-Federal</contributorName>
+      <payeeName>Katko For Congress</payeeName>
+      <recipientName>Rep. John Michael Katko</recipientName>
+      <amount>500</amount>
+      <date>8/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>KeyCorp Advocates Fund-Federal</contributorName>
+      <payeeName>Securities Industry And Financial Markets Association Political Action Committee</payeeName>
+      <recipientName>Securities Industry And Financial Markets Association Political Action Committee</recipientName>
+      <amount>5000</amount>
+      <date>8/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>KeyCorp Advocates Fund-Federal</contributorName>
+      <payeeName>Moran Victory Committee</payeeName>
+      <recipientName>Moran Victory Committee</recipientName>
+      <amount>1500</amount>
+      <date>9/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>KeyCorp Advocates Fund-Federal</contributorName>
+      <payeeName>Peters For Michigan</payeeName>
+      <recipientName>Sen. Gary Charles Peters</recipientName>
+      <amount>500</amount>
+      <date>9/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>KeyCorp Advocates Fund-Federal</contributorName>
+      <payeeName>Peters For Michigan</payeeName>
+      <recipientName>Sen. Gary Charles Peters</recipientName>
+      <amount>1000</amount>
+      <date>9/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>KeyCorp Advocates Fund-Federal</contributorName>
+      <payeeName>Mike Kelly For Congress</payeeName>
+      <recipientName>Rep. G. Mike J. Kelly</recipientName>
+      <amount>1000</amount>
+      <date>9/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>KeyCorp Advocates Fund-Federal</contributorName>
+      <payeeName>Marcia Fudge For Congress</payeeName>
+      <recipientName>Rep. Marcia Louise Fudge</recipientName>
+      <amount>1000</amount>
+      <date>10/8/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>KeyCorp Advocates Fund-Federal</contributorName>
+      <payeeName>Alaskans For Dan Sullivan</payeeName>
+      <recipientName>Sen. Daniel Scott Sullivan</recipientName>
+      <amount>1000</amount>
+      <date>10/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>KeyCorp Advocates Fund-Federal</contributorName>
+      <payeeName>Alaskans For Dan Sullivan</payeeName>
+      <recipientName>Sen. Daniel Scott Sullivan</recipientName>
+      <amount>1200</amount>
+      <date>10/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>KeyCorp Advocates Fund-Federal</contributorName>
+      <payeeName>Alaskans For Dan Sullivan</payeeName>
+      <recipientName>Sen. Daniel Scott Sullivan</recipientName>
+      <amount>2800</amount>
+      <date>10/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>KeyCorp Advocates Fund-Federal</contributorName>
+      <payeeName>Himes For Congress</payeeName>
+      <recipientName>Rep. James Andrew Himes</recipientName>
+      <amount>2500</amount>
+      <date>10/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>KeyCorp Advocates Fund-Federal</contributorName>
+      <payeeName>Friends Of Dave Joyce</payeeName>
+      <recipientName>Rep. David Patrick Joyce</recipientName>
+      <amount>2500</amount>
+      <date>10/22/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

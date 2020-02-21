@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>The Livingston Group, LLC</organizationName>
+  <lobbyistPrefix>Mr.</lobbyistPrefix>
+  <lobbyistFirstName>J</lobbyistFirstName>
+  <lobbyistMiddleName>ALLEN</lobbyistMiddleName>
+  <lobbyistLastName>MARTIN</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>49635</senateRegID>
+  <houseRegID>34606</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>True</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/10/2020 12:48:55 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>Adam Kinzinger Future 1st Committee</name>
+    </pac>
+    <pac>
+      <name>National Republican Senatorial Committee</name>
+    </pac>
+    <pac>
+      <name>Friends of Mia Love PAC</name>
+    </pac>
+    <pac>
+      <name>National Republican Congressional Committee</name>
+    </pac>
+    <pac>
+      <name>Scalise Leadership Fund</name>
+    </pac>
+    <pac>
+      <name>Trump Make America Great Again Committee</name>
+    </pac>
+    <pac>
+      <name>McCarthy Victory Fund</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Trump Make America Great Again Committee</payeeName>
+      <recipientName>Donald J. Trump</recipientName>
+      <amount>500.00</amount>
+      <date>12/08/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Joe Wilson for Congress</payeeName>
+      <recipientName>Joe Wilson</recipientName>
+      <amount>326.09</amount>
+      <date>12/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>National Republican Congressional Committee</payeeName>
+      <recipientName>National Republican Congressional Committee</recipientName>
+      <amount>500.00</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>National Republican Congressional Committee</payeeName>
+      <recipientName>National Republican Congressional Committee</recipientName>
+      <amount>500.00</amount>
+      <date>10/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>National Republican Senatorial Committee</payeeName>
+      <recipientName>National Republican Senatorial Committee</recipientName>
+      <amount>500.00</amount>
+      <date>10/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>McCarthy Victory Fund</payeeName>
+      <recipientName>Kevin McCarthy</recipientName>
+      <amount>1000.00</amount>
+      <date>10/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Bishop for Congress</payeeName>
+      <recipientName>Dan Bishop</recipientName>
+      <amount>500.00</amount>
+      <date>09/04/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Bishop for Congress</payeeName>
+      <recipientName>Dan Bishop</recipientName>
+      <amount>500.00</amount>
+      <date>08/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Mike Gallagher for Wisconsin</payeeName>
+      <recipientName>Mike Gallagher</recipientName>
+      <amount>500.00</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Joe Wilson for Congress</payeeName>
+      <recipientName>Joe Wilson</recipientName>
+      <amount>500.00</amount>
+      <date>09/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Friends of Mia Love PAC</payeeName>
+      <recipientName>Friends of Mia Love PAC</recipientName>
+      <amount>100.00</amount>
+      <date>10/02/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Captain Higgins for Congress</payeeName>
+      <recipientName>Clay Higgins</recipientName>
+      <amount>500.00</amount>
+      <date>10/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>National Republican Senatorial Committee</payeeName>
+      <recipientName>National Republican Senatorial Committee</recipientName>
+      <amount>500.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>National Republican Congressional Committee</payeeName>
+      <recipientName>National Republican Congressional Committee</recipientName>
+      <amount>500.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Donald J. Trump for President, Inc.</payeeName>
+      <recipientName>Donald J. Trump</recipientName>
+      <amount>500.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Scalise Leadership Fund</payeeName>
+      <recipientName>Steve Scalise</recipientName>
+      <amount>500.00</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Kean for Congress Inc.</payeeName>
+      <recipientName>Tom Kean, Jr.</recipientName>
+      <amount>500.00</amount>
+      <date>07/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Jim Jordan for Congress</payeeName>
+      <recipientName>Jim Jordan</recipientName>
+      <amount>500.00</amount>
+      <date>07/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>National Republican Senatorial Committee</payeeName>
+      <recipientName>National Republican Senatorial Committee</recipientName>
+      <amount>250.00</amount>
+      <date>08/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Adam Kinzinger Future 1st Committee</payeeName>
+      <recipientName>Adam Kinzinger</recipientName>
+      <amount>500.00</amount>
+      <date>09/11/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>Akin, Gump, Strauss, Hauer &amp; Feld</organizationName>
+  <lobbyistPrefix>Ms.</lobbyistPrefix>
+  <lobbyistFirstName>MARTHA</lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>KENDRICK</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <address2>
+  </address2>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>682</senateRegID>
+  <houseRegID>31784</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>This report is accurate to the best of my knowledge</comments>
+  <signedDate>1/30/2020 4:40:59 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>AMRPA PAC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Bullock for President</payeeName>
+      <recipientName>Steve Bullock</recipientName>
+      <amount>250.00</amount>
+      <date>07/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Price for Congress</payeeName>
+      <recipientName>David E. Price</recipientName>
+      <amount>250.00</amount>
+      <date>07/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Bullock for President</payeeName>
+      <recipientName>Steve Bullock</recipientName>
+      <amount>250.00</amount>
+      <date>08/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Friends of Don Beyer</payeeName>
+      <recipientName>Donald S. Beyer, Jr.</recipientName>
+      <amount>250.00</amount>
+      <date>09/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Richmond for Congress</payeeName>
+      <recipientName>Cedric L. Richmond</recipientName>
+      <amount>250.00</amount>
+      <date>12/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Bera for Congress</payeeName>
+      <recipientName>Ami Bera</recipientName>
+      <amount>250.00</amount>
+      <date>10/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Schumer for Senate</payeeName>
+      <recipientName>Charles Schumer</recipientName>
+      <amount>1000.00</amount>
+      <date>11/04/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Re-Elect Jamie Raskin</payeeName>
+      <recipientName>Jamie Raskin</recipientName>
+      <amount>100.00</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Van Hollen McGrath Victory Fund</payeeName>
+      <recipientName>Chris Van Hollen, Amy McGrath</recipientName>
+      <amount>250.00</amount>
+      <date>12/03/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Jennifer Carroll for Delegate</payeeName>
+      <recipientName>Jennifer Carroll</recipientName>
+      <amount>100.00</amount>
+      <date>10/01/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

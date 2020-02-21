@@ -1,0 +1,809 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>ENTERPRISE HOLDINGS, INC.</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>Gordon Reel</contactName>
+  <senateRegID>89031</senateRegID>
+  <houseRegID>36721</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/30/2020 2:24:24 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>
+  </noContributions>
+  <pacs>
+    <pac>
+      <name>Enterprise Holdings, Inc. PAC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Enterprise Holdings, Inc. PAC</contributorName>
+      <payeeName>Kansans For Marshall</payeeName>
+      <recipientName>Roger Marshall</recipientName>
+      <amount>5000</amount>
+      <date>7/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Enterprise Holdings, Inc. PAC</contributorName>
+      <payeeName>Citizens For Boyle</payeeName>
+      <recipientName>Brendan Boyle</recipientName>
+      <amount>2500</amount>
+      <date>7/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Enterprise Holdings, Inc. PAC</contributorName>
+      <payeeName>Texans For Henry Cuellar Congressional Campaign</payeeName>
+      <recipientName>Henry Cuellar</recipientName>
+      <amount>1000</amount>
+      <date>7/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Enterprise Holdings, Inc. PAC</contributorName>
+      <payeeName>Marcia Fudge For Congress</payeeName>
+      <recipientName>Marcia Fudge</recipientName>
+      <amount>1000</amount>
+      <date>7/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Enterprise Holdings, Inc. PAC</contributorName>
+      <payeeName>Alan Lowenthal For Congress</payeeName>
+      <recipientName>Alan Lowenthal</recipientName>
+      <amount>1500</amount>
+      <date>7/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Enterprise Holdings, Inc. PAC</contributorName>
+      <payeeName>Rodney For Congress</payeeName>
+      <recipientName>Rodney Davis</recipientName>
+      <amount>1000</amount>
+      <date>7/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Enterprise Holdings, Inc. PAC</contributorName>
+      <payeeName>Rodney For Congress</payeeName>
+      <recipientName>Rodney Davis</recipientName>
+      <amount>500</amount>
+      <date>7/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Enterprise Holdings, Inc. PAC</contributorName>
+      <payeeName>Rodney For Congress</payeeName>
+      <recipientName>Rodney Davis</recipientName>
+      <amount>1000</amount>
+      <date>7/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Enterprise Holdings, Inc. PAC</contributorName>
+      <payeeName>Cohen For Congress</payeeName>
+      <recipientName>Steve Cohen</recipientName>
+      <amount>1000</amount>
+      <date>7/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Enterprise Holdings, Inc. PAC</contributorName>
+      <payeeName>Cloud For Congress</payeeName>
+      <recipientName>Michael Cloud</recipientName>
+      <amount>500</amount>
+      <date>8/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Enterprise Holdings, Inc. PAC</contributorName>
+      <payeeName>Chip Roy For Congress</payeeName>
+      <recipientName>Chip Roy</recipientName>
+      <amount>500</amount>
+      <date>8/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Enterprise Holdings, Inc. PAC</contributorName>
+      <payeeName>Doggett For Congress</payeeName>
+      <recipientName>Lloyd Doggett</recipientName>
+      <amount>1000</amount>
+      <date>8/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Enterprise Holdings, Inc. PAC</contributorName>
+      <payeeName>Filemon Vela For Congress</payeeName>
+      <recipientName>Filemon Vela</recipientName>
+      <amount>500</amount>
+      <date>8/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Enterprise Holdings, Inc. PAC</contributorName>
+      <payeeName>Castro For Congress</payeeName>
+      <recipientName>Joaquin Castro</recipientName>
+      <amount>1000</amount>
+      <date>8/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Enterprise Holdings, Inc. PAC</contributorName>
+      <payeeName>Vicente Gonzalez For Congress</payeeName>
+      <recipientName>Vicente Gonzalez</recipientName>
+      <amount>500</amount>
+      <date>8/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Enterprise Holdings, Inc. PAC</contributorName>
+      <payeeName>Congressional Black Caucus PAC</payeeName>
+      <recipientName>Congressional Black Caucus PAC</recipientName>
+      <amount>5000</amount>
+      <date>8/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Enterprise Holdings, Inc. PAC</contributorName>
+      <payeeName>CHC BOLD PAC</payeeName>
+      <recipientName>CHC BOLD PAC</recipientName>
+      <amount>5000</amount>
+      <date>8/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Enterprise Holdings, Inc. PAC</contributorName>
+      <payeeName>Mike Bost For Congress Committee</payeeName>
+      <recipientName>Mike Bost</recipientName>
+      <amount>2000</amount>
+      <date>8/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Enterprise Holdings, Inc. PAC</contributorName>
+      <payeeName>Team Holcomb</payeeName>
+      <recipientName>Eric Holcomb</recipientName>
+      <amount>5000</amount>
+      <date>8/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Enterprise Holdings, Inc. PAC</contributorName>
+      <payeeName>Mike Braun For Indiana</payeeName>
+      <recipientName>Mike Braun</recipientName>
+      <amount>1000</amount>
+      <date>8/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Enterprise Holdings, Inc. PAC</contributorName>
+      <payeeName>Bishop for Congress</payeeName>
+      <recipientName>James Daniel Bishop</recipientName>
+      <amount>3000</amount>
+      <date>8/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Enterprise Holdings, Inc. PAC</contributorName>
+      <payeeName>Graves For Congress</payeeName>
+      <recipientName>Sam Graves</recipientName>
+      <amount>1000</amount>
+      <date>8/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Enterprise Holdings, Inc. PAC</contributorName>
+      <payeeName>Show-Me Political Action Committee</payeeName>
+      <recipientName>Sam Graves</recipientName>
+      <amount>2500</amount>
+      <date>8/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Enterprise Holdings, Inc. PAC</contributorName>
+      <payeeName>Shaheen For Senate</payeeName>
+      <recipientName>Jeanne Shaheen</recipientName>
+      <amount>1000</amount>
+      <date>8/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Enterprise Holdings, Inc. PAC</contributorName>
+      <payeeName>Clay Jr. For Congress</payeeName>
+      <recipientName>William Lacy Clay</recipientName>
+      <amount>1000</amount>
+      <date>9/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Enterprise Holdings, Inc. PAC</contributorName>
+      <payeeName>Chamber of Commerce of the United States of America PAC</payeeName>
+      <recipientName>Chamber of Commerce of the United States of America PAC</recipientName>
+      <amount>5000</amount>
+      <date>9/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Enterprise Holdings, Inc. PAC</contributorName>
+      <payeeName>Steve Daines For Montana</payeeName>
+      <recipientName>Steve Daines</recipientName>
+      <amount>2600</amount>
+      <date>9/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Enterprise Holdings, Inc. PAC</contributorName>
+      <payeeName>Blaine For Congress</payeeName>
+      <recipientName>Blaine Luetkemeyer</recipientName>
+      <amount>1500</amount>
+      <date>9/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Enterprise Holdings, Inc. PAC</contributorName>
+      <payeeName>Moore For Congress</payeeName>
+      <recipientName>Gwen Moore</recipientName>
+      <amount>1000</amount>
+      <date>9/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Enterprise Holdings, Inc. PAC</contributorName>
+      <payeeName>Tammy Baldwin For Senate</payeeName>
+      <recipientName>Tammy Baldwin</recipientName>
+      <amount>2500</amount>
+      <date>9/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Enterprise Holdings, Inc. PAC</contributorName>
+      <payeeName>Steve Chabot For Congress</payeeName>
+      <recipientName>Steve Chabot</recipientName>
+      <amount>2500</amount>
+      <date>9/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Enterprise Holdings, Inc. PAC</contributorName>
+      <payeeName>Rely On Your Beliefs Fund</payeeName>
+      <recipientName>Roy Blunt</recipientName>
+      <amount>2500</amount>
+      <date>9/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Enterprise Holdings, Inc. PAC</contributorName>
+      <payeeName>Cohen For Congress</payeeName>
+      <recipientName>Steve Cohen</recipientName>
+      <amount>2500</amount>
+      <date>9/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Enterprise Holdings, Inc. PAC</contributorName>
+      <payeeName>Restoring Our Democracy (ROD PAC)</payeeName>
+      <recipientName>Rodney Davis</recipientName>
+      <amount>2500</amount>
+      <date>9/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Enterprise Holdings, Inc. PAC</contributorName>
+      <payeeName>Moran For Kansas</payeeName>
+      <recipientName>Jerry Moran</recipientName>
+      <amount>2500</amount>
+      <date>9/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Enterprise Holdings, Inc. PAC</contributorName>
+      <payeeName>Rosen For Nevada</payeeName>
+      <recipientName>Jacky Rosen</recipientName>
+      <amount>2500</amount>
+      <date>9/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Enterprise Holdings, Inc. PAC</contributorName>
+      <payeeName>Citizens For Rush</payeeName>
+      <recipientName>Bobby Rush</recipientName>
+      <amount>2500</amount>
+      <date>9/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Enterprise Holdings, Inc. PAC</contributorName>
+      <payeeName>Balderson For Congress</payeeName>
+      <recipientName>Troy Balderson</recipientName>
+      <amount>2500</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Enterprise Holdings, Inc. PAC</contributorName>
+      <payeeName>Haley Stevens For Congress</payeeName>
+      <recipientName>Haley Stevens</recipientName>
+      <amount>2500</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Enterprise Holdings, Inc. PAC</contributorName>
+      <payeeName>Carol For Congress</payeeName>
+      <recipientName>Carol Miller</recipientName>
+      <amount>1000</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Enterprise Holdings, Inc. PAC</contributorName>
+      <payeeName>Stivers For Congress</payeeName>
+      <recipientName>Steve Stivers</recipientName>
+      <amount>2500</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Enterprise Holdings, Inc. PAC</contributorName>
+      <payeeName>Heartland Values PAC</payeeName>
+      <recipientName>John Thune</recipientName>
+      <amount>1500</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Enterprise Holdings, Inc. PAC</contributorName>
+      <payeeName>Friends Of John Barrasso</payeeName>
+      <recipientName>John Barrasso</recipientName>
+      <amount>5000</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Enterprise Holdings, Inc. PAC</contributorName>
+      <payeeName>Thom Tillis Committee</payeeName>
+      <recipientName>Thom Tillis</recipientName>
+      <amount>5000</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Enterprise Holdings, Inc. PAC</contributorName>
+      <payeeName>Team Hagerty</payeeName>
+      <recipientName>Bill Hagerty</recipientName>
+      <amount>3000</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Enterprise Holdings, Inc. PAC</contributorName>
+      <payeeName>Peters For Michigan</payeeName>
+      <recipientName>Gary Peters</recipientName>
+      <amount>1000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Enterprise Holdings, Inc. PAC</contributorName>
+      <payeeName>Democratic Senatorial Campaign Committee</payeeName>
+      <recipientName>Democratic Senatorial Campaign Committee</recipientName>
+      <amount>2500</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Enterprise Holdings, Inc. PAC</contributorName>
+      <payeeName>National Republican Congressional Committee</payeeName>
+      <recipientName>National Republican Congressional Committee</recipientName>
+      <amount>15000</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Enterprise Holdings, Inc. PAC</contributorName>
+      <payeeName>Pallone For Congress</payeeName>
+      <recipientName>Frank Pallone</recipientName>
+      <amount>1000</amount>
+      <date>10/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Enterprise Holdings, Inc. PAC</contributorName>
+      <payeeName>Vicky Hartzler For Congress</payeeName>
+      <recipientName>Vicky Hartzler</recipientName>
+      <amount>2500</amount>
+      <date>10/8/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Enterprise Holdings, Inc. PAC</contributorName>
+      <payeeName>Heartland Values PAC</payeeName>
+      <recipientName>John Thune</recipientName>
+      <amount>2500</amount>
+      <date>10/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Enterprise Holdings, Inc. PAC</contributorName>
+      <payeeName>Friends Of Ben McAdams</payeeName>
+      <recipientName>Ben McAdams</recipientName>
+      <amount>500</amount>
+      <date>11/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Enterprise Holdings, Inc. PAC</contributorName>
+      <payeeName>Friends For Chris Stewart, Inc.</payeeName>
+      <recipientName>Chris Stewart</recipientName>
+      <amount>500</amount>
+      <date>11/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Enterprise Holdings, Inc. PAC</contributorName>
+      <payeeName>Curtis for Congress</payeeName>
+      <recipientName>John Curtis</recipientName>
+      <amount>500</amount>
+      <date>11/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Enterprise Holdings, Inc. PAC</contributorName>
+      <payeeName>Pete Stauber For Congress</payeeName>
+      <recipientName>Pete Stauber</recipientName>
+      <amount>2500</amount>
+      <date>11/7/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Enterprise Holdings, Inc. PAC</contributorName>
+      <payeeName>Johnson For Congress</payeeName>
+      <recipientName>Bill Johnson</recipientName>
+      <amount>2500</amount>
+      <date>11/7/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Enterprise Holdings, Inc. PAC</contributorName>
+      <payeeName>Roger Williams For U S Congress Committee</payeeName>
+      <recipientName>Roger Williams</recipientName>
+      <amount>2500</amount>
+      <date>11/7/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Enterprise Holdings, Inc. PAC</contributorName>
+      <payeeName>Blaine For Congress</payeeName>
+      <recipientName>Blaine Luetkemeyer</recipientName>
+      <amount>1000</amount>
+      <date>11/7/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Enterprise Holdings, Inc. PAC</contributorName>
+      <payeeName>Billy Long For Congress</payeeName>
+      <recipientName>Billy Long</recipientName>
+      <amount>2500</amount>
+      <date>11/7/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Enterprise Holdings, Inc. PAC</contributorName>
+      <payeeName>Dr John Joyce For Congress</payeeName>
+      <recipientName>John Joyce</recipientName>
+      <amount>1000</amount>
+      <date>11/7/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Enterprise Holdings, Inc. PAC</contributorName>
+      <payeeName>Guy For Congress</payeeName>
+      <recipientName>Guy Reschenthaler</recipientName>
+      <amount>1000</amount>
+      <date>11/7/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Enterprise Holdings, Inc. PAC</contributorName>
+      <payeeName>Ratcliffe For Congress</payeeName>
+      <recipientName>John Ratcliffe</recipientName>
+      <amount>1000</amount>
+      <date>11/7/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Enterprise Holdings, Inc. PAC</contributorName>
+      <payeeName>Brian Fitzpatrick For Congress</payeeName>
+      <recipientName>Brian Fitzpatrick</recipientName>
+      <amount>3500</amount>
+      <date>11/7/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Enterprise Holdings, Inc. PAC</contributorName>
+      <payeeName>Dr. Brian Babin For Congress</payeeName>
+      <recipientName>Brian Babin</recipientName>
+      <amount>2500</amount>
+      <date>11/7/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Enterprise Holdings, Inc. PAC</contributorName>
+      <payeeName>Citizens For Eleanor Holmes Norton</payeeName>
+      <recipientName>Eleanor Holmes Norton</recipientName>
+      <amount>2500</amount>
+      <date>11/7/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Enterprise Holdings, Inc. PAC</contributorName>
+      <payeeName>Friends Of Bennie Thompson</payeeName>
+      <recipientName>Bennie Thompson</recipientName>
+      <amount>2500</amount>
+      <date>11/7/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Enterprise Holdings, Inc. PAC</contributorName>
+      <payeeName>Sensible American Solutions Supporting Everyone PAC</payeeName>
+      <recipientName>Ben Sasse</recipientName>
+      <amount>5000</amount>
+      <date>11/7/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Enterprise Holdings, Inc. PAC</contributorName>
+      <payeeName>Texans For Henry Cuellar Congressional Campaign</payeeName>
+      <recipientName>Henry Cuellar</recipientName>
+      <amount>2000</amount>
+      <date>11/7/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Enterprise Holdings, Inc. PAC</contributorName>
+      <payeeName>Bluegrass Committee</payeeName>
+      <recipientName>Mitch McConnell</recipientName>
+      <amount>5000</amount>
+      <date>11/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Enterprise Holdings, Inc. PAC</contributorName>
+      <payeeName>Nancy Pelosi For Congress</payeeName>
+      <recipientName>Nancy Pelosi</recipientName>
+      <amount>2500</amount>
+      <date>11/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Enterprise Holdings, Inc. PAC</contributorName>
+      <payeeName>Simpson For Congress</payeeName>
+      <recipientName>Mike Simpson</recipientName>
+      <amount>250</amount>
+      <date>12/2/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Enterprise Holdings, Inc. PAC</contributorName>
+      <payeeName>Russ Fulcher For Idaho</payeeName>
+      <recipientName>Russ Fulcher</recipientName>
+      <amount>250</amount>
+      <date>12/2/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Enterprise Holdings, Inc. PAC</contributorName>
+      <payeeName>Cotton For Senate</payeeName>
+      <recipientName>Tom Cotton</recipientName>
+      <amount>5000</amount>
+      <date>12/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Enterprise Holdings, Inc. PAC</contributorName>
+      <payeeName>Responsibility and Freedom Work PAC (RFWPAC)</payeeName>
+      <recipientName>Roger Wicker</recipientName>
+      <amount>5000</amount>
+      <date>12/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Enterprise Holdings, Inc. PAC</contributorName>
+      <payeeName>Marco Rubio For Senate</payeeName>
+      <recipientName>Marco Rubio</recipientName>
+      <amount>1000</amount>
+      <date>12/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Enterprise Holdings, Inc. PAC</contributorName>
+      <payeeName>McSally For Senate Inc</payeeName>
+      <recipientName>Martha McSally</recipientName>
+      <amount>2000</amount>
+      <date>12/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Enterprise Holdings, Inc. PAC</contributorName>
+      <payeeName>Joni For Iowa</payeeName>
+      <recipientName>Joni Ernst</recipientName>
+      <amount>1000</amount>
+      <date>12/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Enterprise Holdings, Inc. PAC</contributorName>
+      <payeeName>Fund for A Conservative Future</payeeName>
+      <recipientName>Jim Inhofe</recipientName>
+      <amount>5000</amount>
+      <date>12/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Enterprise Holdings, Inc. PAC</contributorName>
+      <payeeName>Support To Ensure Victory Everywhere PAC - Steve PAC</payeeName>
+      <recipientName>Steve Stivers</recipientName>
+      <amount>2500</amount>
+      <date>12/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Enterprise Holdings, Inc. PAC</contributorName>
+      <payeeName>Stivers For Congress</payeeName>
+      <recipientName>Steve Stivers</recipientName>
+      <amount>2500</amount>
+      <date>12/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Enterprise Holdings, Inc. PAC</contributorName>
+      <payeeName>Vern Buchanan For Congress</payeeName>
+      <recipientName>Vern Buchanan</recipientName>
+      <amount>5000</amount>
+      <date>12/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Enterprise Holdings, Inc. PAC</contributorName>
+      <payeeName>Zeldin For Congress</payeeName>
+      <recipientName>Lee Zeldin</recipientName>
+      <amount>5000</amount>
+      <date>12/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Enterprise Holdings, Inc. PAC</contributorName>
+      <payeeName>Patriots For Perry</payeeName>
+      <recipientName>Scott Perry</recipientName>
+      <amount>2500</amount>
+      <date>12/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Enterprise Holdings, Inc. PAC</contributorName>
+      <payeeName>Liz Cheney For Wyoming</payeeName>
+      <recipientName>Liz Cheney</recipientName>
+      <amount>1000</amount>
+      <date>12/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Enterprise Holdings, Inc. PAC</contributorName>
+      <payeeName>Virginia Foxx For Congress</payeeName>
+      <recipientName>Virginia Foxx</recipientName>
+      <amount>1000</amount>
+      <date>12/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Enterprise Holdings, Inc. PAC</contributorName>
+      <payeeName>Jason Smith For Congress</payeeName>
+      <recipientName>Jason Smith</recipientName>
+      <amount>1000</amount>
+      <date>12/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Enterprise Holdings, Inc. PAC</contributorName>
+      <payeeName>Branch For Congress</payeeName>
+      <recipientName>Talmadge Branch</recipientName>
+      <amount>250</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Enterprise Holdings, Inc. PAC</contributorName>
+      <payeeName>Tom Reed For Congress</payeeName>
+      <recipientName>Tom Reed</recipientName>
+      <amount>1000</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Enterprise Holdings, Inc. PAC</contributorName>
+      <payeeName>Ron Estes For Congress</payeeName>
+      <recipientName>Ron Estes</recipientName>
+      <amount>2500</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Enterprise Holdings, Inc. PAC</contributorName>
+      <payeeName>Katko For Congress</payeeName>
+      <recipientName>John Katko</recipientName>
+      <amount>2000</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Enterprise Holdings, Inc. PAC</contributorName>
+      <payeeName>Eye of the Tiger Political Action Committee</payeeName>
+      <recipientName>Steve Scalise</recipientName>
+      <amount>5000</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Enterprise Holdings, Inc. PAC</contributorName>
+      <payeeName>Democratic Senatorial Campaign Committee</payeeName>
+      <recipientName>Democratic Senatorial Campaign Committee</recipientName>
+      <amount>12500</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>Honorary Expenses</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Congressional Black Caucus Foundation</payeeName>
+      <recipientName>Congressional Black Caucus Foundation</recipientName>
+      <amount>5000</amount>
+      <date>8/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>Honorary Expenses</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Congressional Black Caucus Institute</payeeName>
+      <recipientName>Congressional Black Caucus Institute</recipientName>
+      <amount>10000</amount>
+      <date>7/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>Honorary Expenses</type>
+      <contributorName>Self</contributorName>
+      <payeeName>National Coalition on Black Civic Participation</payeeName>
+      <recipientName>Elijah Cummings, Maxine Waters</recipientName>
+      <amount>5000</amount>
+      <date>12/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>Honorary Expenses</type>
+      <contributorName>Self</contributorName>
+      <payeeName>National Coalition on Black Civic Participation</payeeName>
+      <recipientName>Elijah Cummings, Maxine Waters</recipientName>
+      <amount>5000</amount>
+      <date>10/2/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

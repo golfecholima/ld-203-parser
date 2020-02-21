@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>CoreLogic</organizationName>
+  <lobbyistPrefix>Mr.</lobbyistPrefix>
+  <lobbyistFirstName>Russell</lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>McIntyre</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>401104219</senateRegID>
+  <houseRegID>43422</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>I am the keeper of records for the CoreLogic Inc. PAC. Since I am responsible for how money is disbursed from this PAC, I am including this information on my LD-203 despite the fact that I made no personal contributions in 2H2019. </comments>
+  <signedDate>1/6/2020 10:17:29 AM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>CoreLogic Inc. PAC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CoreLogic Inc. PAC</contributorName>
+      <payeeName>Lou Correa for Congress</payeeName>
+      <recipientName>Rep. Lou Correa</recipientName>
+      <amount>2500.00</amount>
+      <date>07/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CoreLogic Inc. PAC</contributorName>
+      <payeeName>Jim Risch for U.S. Senate</payeeName>
+      <recipientName>Sen. Jim Risch</recipientName>
+      <amount>5000.00</amount>
+      <date>10/14/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

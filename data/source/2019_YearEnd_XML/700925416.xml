@@ -1,0 +1,593 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>National Restaurant Association</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>Dan Roehl</contactName>
+  <senateRegID>28457</senateRegID>
+  <houseRegID>31074</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/30/2020 2:23:45 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>
+  </noContributions>
+  <pacs>
+    <pac>
+      <name>National Restaurant Association PAC (Restaurant PAC)</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Restaurant Association PAC (Restaurant PAC)</contributorName>
+      <payeeName>Andy Barr For Congress, Inc.</payeeName>
+      <recipientName>Andy Barr</recipientName>
+      <amount>2500</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Restaurant Association PAC (Restaurant PAC)</contributorName>
+      <payeeName>Believe in America PAC</payeeName>
+      <recipientName>Sen. Mitt Romney Leadership PAC</recipientName>
+      <amount>2500</amount>
+      <date>09/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Restaurant Association PAC (Restaurant PAC)</contributorName>
+      <payeeName>Ben Sasse For US Senate Inc</payeeName>
+      <recipientName>Ben Sasse</recipientName>
+      <amount>2500</amount>
+      <date>09/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Restaurant Association PAC (Restaurant PAC)</contributorName>
+      <payeeName>Bluegrass Committee</payeeName>
+      <recipientName>Mitch McConnell</recipientName>
+      <amount>5000</amount>
+      <date>10/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Restaurant Association PAC (Restaurant PAC)</contributorName>
+      <payeeName>Brady For Congress</payeeName>
+      <recipientName>Kevin Brady</recipientName>
+      <amount>2500</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Restaurant Association PAC (Restaurant PAC)</contributorName>
+      <payeeName>Brian Mast for Congress</payeeName>
+      <recipientName>Brian Mast</recipientName>
+      <amount>2500</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Restaurant Association PAC (Restaurant PAC)</contributorName>
+      <payeeName>Brindisi For Congress</payeeName>
+      <recipientName>Anthony Brindisi</recipientName>
+      <amount>2500</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Restaurant Association PAC (Restaurant PAC)</contributorName>
+      <payeeName>Collins For Congress</payeeName>
+      <recipientName>Doug Collins</recipientName>
+      <amount>2500</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Restaurant Association PAC (Restaurant PAC)</contributorName>
+      <payeeName>Common Values PAC</payeeName>
+      <recipientName>Sen. John Barrasso Leadership PAC</recipientName>
+      <amount>5000</amount>
+      <date>09/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Restaurant Association PAC (Restaurant PAC)</contributorName>
+      <payeeName>Cory Gardner For Senate</payeeName>
+      <recipientName>Cory Gardner</recipientName>
+      <amount>2500</amount>
+      <date>09/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Restaurant Association PAC (Restaurant PAC)</contributorName>
+      <payeeName>Dan Lipinski For Congress</payeeName>
+      <recipientName>Dan Lipinski</recipientName>
+      <amount>2500</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Restaurant Association PAC (Restaurant PAC)</contributorName>
+      <payeeName>Dan Lipinski For Congress</payeeName>
+      <recipientName>Dan Lipinski</recipientName>
+      <amount>2500</amount>
+      <date>10/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Restaurant Association PAC (Restaurant PAC)</contributorName>
+      <payeeName>David Rouzer For Congress</payeeName>
+      <recipientName>David Rouzer</recipientName>
+      <amount>2500</amount>
+      <date>11/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Restaurant Association PAC (Restaurant PAC)</contributorName>
+      <payeeName>Don Bacon For Congress</payeeName>
+      <recipientName>Don Bacon</recipientName>
+      <amount>2500</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Restaurant Association PAC (Restaurant PAC)</contributorName>
+      <payeeName>Democratic Senatorial Campaign Committee (Building Fund)</payeeName>
+      <recipientName>Democratic Senatorial Campaign Committee (Building Fund)</recipientName>
+      <amount>15000</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Restaurant Association PAC (Restaurant PAC)</contributorName>
+      <payeeName>Emmer For Congress</payeeName>
+      <recipientName>Tom Emmer</recipientName>
+      <amount>2500</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Restaurant Association PAC (Restaurant PAC)</contributorName>
+      <payeeName>First In Freedom PAC</payeeName>
+      <recipientName>Rep. Richard Hudson Leadership PAC</recipientName>
+      <amount>2500</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Restaurant Association PAC (Restaurant PAC)</contributorName>
+      <payeeName>Friends Of Ben McAdams</payeeName>
+      <recipientName>Ben McAdams</recipientName>
+      <amount>2500</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Restaurant Association PAC (Restaurant PAC)</contributorName>
+      <payeeName>Friends Of Denver Riggleman, Inc.</payeeName>
+      <recipientName>Denver Riggleman</recipientName>
+      <amount>2500</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Restaurant Association PAC (Restaurant PAC)</contributorName>
+      <payeeName>Friends Of Dick Durbin Committee</payeeName>
+      <recipientName>Dick Durbin</recipientName>
+      <amount>2500</amount>
+      <date>09/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Restaurant Association PAC (Restaurant PAC)</contributorName>
+      <payeeName>Friends Of Hagedorn</payeeName>
+      <recipientName>James Hagedorn</recipientName>
+      <amount>2500</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Restaurant Association PAC (Restaurant PAC)</contributorName>
+      <payeeName>George Holding For Congress Inc.</payeeName>
+      <recipientName>George Holding</recipientName>
+      <amount>2500</amount>
+      <date>09/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Restaurant Association PAC (Restaurant PAC)</contributorName>
+      <payeeName>IMPACT</payeeName>
+      <recipientName>Sen. Charles Schumer Leadership PAC</recipientName>
+      <amount>5000</amount>
+      <date>11/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Restaurant Association PAC (Restaurant PAC)</contributorName>
+      <payeeName>Jaime For Congress</payeeName>
+      <recipientName>Jaime Herrera-Beutler</recipientName>
+      <amount>2500</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Restaurant Association PAC (Restaurant PAC)</contributorName>
+      <payeeName>Jason Smith For Congress</payeeName>
+      <recipientName>Jason Smith</recipientName>
+      <amount>2500</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Restaurant Association PAC (Restaurant PAC)</contributorName>
+      <payeeName>Jimmy Panetta For Congress</payeeName>
+      <recipientName>Jimmy Panetta</recipientName>
+      <amount>2500</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Restaurant Association PAC (Restaurant PAC)</contributorName>
+      <payeeName>Jobs, Opportunity &amp; New Ideas PAC</payeeName>
+      <recipientName>Sen. Joni Ernst Leadership PAC</recipientName>
+      <amount>5000</amount>
+      <date>11/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Restaurant Association PAC (Restaurant PAC)</contributorName>
+      <payeeName>Joe Cunningham For Congress</payeeName>
+      <recipientName>Joe Cunningham</recipientName>
+      <amount>2500</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Restaurant Association PAC (Restaurant PAC)</contributorName>
+      <payeeName>John Carter For Congress</payeeName>
+      <recipientName>John Carter</recipientName>
+      <amount>2500</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Restaurant Association PAC (Restaurant PAC)</contributorName>
+      <payeeName>Kendra Horn For Congress</payeeName>
+      <recipientName>Kendra Horn</recipientName>
+      <amount>2500</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Restaurant Association PAC (Restaurant PAC)</contributorName>
+      <payeeName>Kurt Schrader For Congress</payeeName>
+      <recipientName>Kurt Schrader</recipientName>
+      <amount>2500</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Restaurant Association PAC (Restaurant PAC)</contributorName>
+      <payeeName>McSally For Senate Inc</payeeName>
+      <recipientName>Martha McSally</recipientName>
+      <amount>2500</amount>
+      <date>09/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Restaurant Association PAC (Restaurant PAC)</contributorName>
+      <payeeName>Mike Bost For Congress Committee</payeeName>
+      <recipientName>Michael Bost</recipientName>
+      <amount>2500</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Restaurant Association PAC (Restaurant PAC)</contributorName>
+      <payeeName>Mike Braun For Indiana</payeeName>
+      <recipientName>Mike Braun</recipientName>
+      <amount>2500</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Restaurant Association PAC (Restaurant PAC)</contributorName>
+      <payeeName>Mike Kelly For Congress</payeeName>
+      <recipientName>George Kelly</recipientName>
+      <amount>2500</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Restaurant Association PAC (Restaurant PAC)</contributorName>
+      <payeeName>Nevadans For Steven Horsford</payeeName>
+      <recipientName>Steven Horsford</recipientName>
+      <amount>2500</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Restaurant Association PAC (Restaurant PAC)</contributorName>
+      <payeeName>New Democrat Coalition PAC</payeeName>
+      <recipientName>New Democrat Coalition PAC</recipientName>
+      <amount>5000</amount>
+      <date>12/02/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Restaurant Association PAC (Restaurant PAC)</contributorName>
+      <payeeName>Oorah! Political Action Committee</payeeName>
+      <recipientName>Sen. Todd Young Leadership PAC</recipientName>
+      <amount>5000</amount>
+      <date>11/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Restaurant Association PAC (Restaurant PAC)</contributorName>
+      <payeeName>Pallone For Congress</payeeName>
+      <recipientName>Frank Pallone</recipientName>
+      <amount>2500</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Restaurant Association PAC (Restaurant PAC)</contributorName>
+      <payeeName>Perdue For Senate</payeeName>
+      <recipientName>David Perdue</recipientName>
+      <amount>5000</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Restaurant Association PAC (Restaurant PAC)</contributorName>
+      <payeeName>Prairie Political Action Committee</payeeName>
+      <recipientName>Sen. Richard Durbin Leadership PAC</recipientName>
+      <amount>5000</amount>
+      <date>09/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Restaurant Association PAC (Restaurant PAC)</contributorName>
+      <payeeName>Project West Political Action Committee</payeeName>
+      <recipientName>Sen. Cory Gardner Leadership PAC</recipientName>
+      <amount>5000</amount>
+      <date>09/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Restaurant Association PAC (Restaurant PAC)</contributorName>
+      <payeeName>Rely on Your Beliefs Fund</payeeName>
+      <recipientName>Sen. Roy Blunt Leadership PAC</recipientName>
+      <amount>5000</amount>
+      <date>11/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Restaurant Association PAC (Restaurant PAC)</contributorName>
+      <payeeName>Richard E Neal For Congress Committee</payeeName>
+      <recipientName>Rep. Richard Neal</recipientName>
+      <amount>5000</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Restaurant Association PAC (Restaurant PAC)</contributorName>
+      <payeeName>Rodney For Congress</payeeName>
+      <recipientName>Rep. Rodney Davis</recipientName>
+      <amount>2500</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Restaurant Association PAC (Restaurant PAC)</contributorName>
+      <payeeName>Sinema For Arizona</payeeName>
+      <recipientName>Krysten Sinema</recipientName>
+      <amount>5000</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Restaurant Association PAC (Restaurant PAC)</contributorName>
+      <payeeName>Stephanie Murphy For Congress</payeeName>
+      <recipientName>Stephanie Murphy</recipientName>
+      <amount>2500</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Restaurant Association PAC (Restaurant PAC)</contributorName>
+      <payeeName>Steve Chabot For Congress</payeeName>
+      <recipientName>Steven Chabot</recipientName>
+      <amount>2500</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Restaurant Association PAC (Restaurant PAC)</contributorName>
+      <payeeName>Steve Daines For Montana</payeeName>
+      <recipientName>Steve Daines</recipientName>
+      <amount>5000</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Restaurant Association PAC (Restaurant PAC)</contributorName>
+      <payeeName>Steve Daines For Montana</payeeName>
+      <recipientName>Steve Daines</recipientName>
+      <amount>5000</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Restaurant Association PAC (Restaurant PAC)</contributorName>
+      <payeeName>Stivers For Congress</payeeName>
+      <recipientName>Steve Stivers</recipientName>
+      <amount>1000</amount>
+      <date>10/08/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Restaurant Association PAC (Restaurant PAC)</contributorName>
+      <payeeName>Sullivan for US Senate</payeeName>
+      <recipientName>Daniel Sullivan</recipientName>
+      <amount>5000</amount>
+      <date>09/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Restaurant Association PAC (Restaurant PAC)</contributorName>
+      <payeeName>Susie Lee For Congress</payeeName>
+      <recipientName>Susie Lee</recipientName>
+      <amount>2500</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Restaurant Association PAC (Restaurant PAC)</contributorName>
+      <payeeName>Team Graham Inc</payeeName>
+      <recipientName>Lindsey Graham</recipientName>
+      <amount>5000</amount>
+      <date>09/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Restaurant Association PAC (Restaurant PAC)</contributorName>
+      <payeeName>Texans For Henry Cuellar Congressional Campaign</payeeName>
+      <recipientName>Henry Cuellar</recipientName>
+      <amount>2500</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Restaurant Association PAC (Restaurant PAC)</contributorName>
+      <payeeName>Texans For Henry Cuellar Congressional Campaign</payeeName>
+      <recipientName>Henry Cuellar</recipientName>
+      <amount>2500</amount>
+      <date>10/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Restaurant Association PAC (Restaurant PAC)</contributorName>
+      <payeeName>Texans For Senator John Cornyn Inc.</payeeName>
+      <recipientName>John Cornyn</recipientName>
+      <amount>5000</amount>
+      <date>09/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Restaurant Association PAC (Restaurant PAC)</contributorName>
+      <payeeName>Tom O'Halleran For Congress</payeeName>
+      <recipientName>Tom O'Halleran</recipientName>
+      <amount>2500</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Restaurant Association PAC (Restaurant PAC)</contributorName>
+      <payeeName>Tom Reed For Congress</payeeName>
+      <recipientName>Tom Reed</recipientName>
+      <amount>2500</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Restaurant Association PAC (Restaurant PAC)</contributorName>
+      <payeeName>Vern Buchanan For Congress</payeeName>
+      <recipientName>Vern Buchanan</recipientName>
+      <amount>1000</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Restaurant Association PAC (Restaurant PAC)</contributorName>
+      <payeeName>Virginia Foxx For Congress</payeeName>
+      <recipientName>Virginia Foxx</recipientName>
+      <amount>5000</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Restaurant Association PAC (Restaurant PAC)</contributorName>
+      <payeeName>Walberg For Congress</payeeName>
+      <recipientName>Tim Walberg</recipientName>
+      <amount>2500</amount>
+      <date>10/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Restaurant Association PAC (Restaurant PAC)</contributorName>
+      <payeeName>Walden For Congress</payeeName>
+      <recipientName>Greg Walden</recipientName>
+      <amount>5000</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Restaurant Association PAC (Restaurant PAC)</contributorName>
+      <payeeName>Walker 4 Nc</payeeName>
+      <recipientName>Rep. Bradley Walker</recipientName>
+      <amount>2500</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Restaurant Association PAC (Restaurant PAC)</contributorName>
+      <payeeName>Walorski For Congress Inc</payeeName>
+      <recipientName>Rep. Jackie Walorski</recipientName>
+      <amount>2500</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Restaurant Association PAC (Restaurant PAC)</contributorName>
+      <payeeName>Win in 2020</payeeName>
+      <recipientName>Joint Fundraising Committee of the NRCC, Republican Party of Florida, Republican Party of Virginia Inc. and Republican Party of Minnesota Federal</recipientName>
+      <amount>15000</amount>
+      <date>09/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Restaurant Association PAC (Restaurant PAC)</contributorName>
+      <payeeName>Xochitl For New Mexico</payeeName>
+      <recipientName>Xochitl Torres Small</recipientName>
+      <amount>2500</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Restaurant Association PAC (Restaurant PAC)</contributorName>
+      <payeeName>Young For Iowa, Inc.</payeeName>
+      <recipientName>David Young</recipientName>
+      <amount>5000</amount>
+      <date>09/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Restaurant Association PAC (Restaurant PAC)</contributorName>
+      <payeeName>Zeldin For Congress</payeeName>
+      <recipientName>Lee Zeldin</recipientName>
+      <amount>2500</amount>
+      <date>10/25/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

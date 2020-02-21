@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>THE KROGER CO.</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>Matthew Perin</contactName>
+  <senateRegID>88212</senateRegID>
+  <houseRegID>36654</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/30/2020 6:44:28 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>The Kroger Co. Political Action Committee</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Kroger Co. Political Action Committee</contributorName>
+      <payeeName>Friends Of John Barrasso
+</payeeName>
+      <recipientName>John Barrasso
+</recipientName>
+      <amount>2500.00</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Kroger Co. Political Action Committee</contributorName>
+      <payeeName>Steve Cohen For Congress
+</payeeName>
+      <recipientName>Steve Cohen 
+</recipientName>
+      <amount>1000.00</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Kroger Co. Political Action Committee</contributorName>
+      <payeeName>Steve Chabot For Congress
+</payeeName>
+      <recipientName>Steve Chabot 
+</recipientName>
+      <amount>1000.00</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Kroger Co. Political Action Committee</contributorName>
+      <payeeName>Lahood For Congress
+</payeeName>
+      <recipientName>Darin McKay Lahood
+</recipientName>
+      <amount>1500.00</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Kroger Co. Political Action Committee</contributorName>
+      <payeeName>Latta For Congress
+</payeeName>
+      <recipientName>Bob Latta</recipientName>
+      <amount>1000.00</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Kroger Co. Political Action Committee</contributorName>
+      <payeeName>Johnson For Congress
+</payeeName>
+      <recipientName> Bill Johnson
+</recipientName>
+      <amount>1000.00</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Kroger Co. Political Action Committee</contributorName>
+      <payeeName>LaKeisha Myers for State Assembly
+</payeeName>
+      <recipientName>LaKeisha Myers</recipientName>
+      <amount>500.00</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Kroger Co. Political Action Committee</contributorName>
+      <payeeName>Friends Of Dave Joyce
+</payeeName>
+      <recipientName>Dave Joyce</recipientName>
+      <amount>1000.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Kroger Co. Political Action Committee</contributorName>
+      <payeeName>Friends Of Dan Kildee
+</payeeName>
+      <recipientName>Dan Kildee</recipientName>
+      <amount>1000.00</amount>
+      <date>11/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Kroger Co. Political Action Committee</contributorName>
+      <payeeName>Kurt Schrader For Congress
+</payeeName>
+      <recipientName>Kurt Schrader 
+</recipientName>
+      <amount>1000.00</amount>
+      <date>11/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Kroger Co. Political Action Committee</contributorName>
+      <payeeName>Jimmy Panetta For Congress
+</payeeName>
+      <recipientName>Jimmy Panetta
+</recipientName>
+      <amount>500.00</amount>
+      <date>11/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Kroger Co. Political Action Committee</contributorName>
+      <payeeName>John Moolenaar for Congress
+</payeeName>
+      <recipientName>John Moolenaar
+</recipientName>
+      <amount>1000.00</amount>
+      <date>11/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Kroger Co. Political Action Committee</contributorName>
+      <payeeName>Steil For Wisconsin, Inc.
+</payeeName>
+      <recipientName>Brian Steil
+</recipientName>
+      <amount>1000.00</amount>
+      <date>11/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Kroger Co. Political Action Committee</contributorName>
+      <payeeName>Richard E Neal For Congress Committee
+</payeeName>
+      <recipientName>Richard E Neal
+</recipientName>
+      <amount>1000.00</amount>
+      <date>11/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Kroger Co. Political Action Committee</contributorName>
+      <payeeName>Balderson For Congress
+</payeeName>
+      <recipientName>Troy Balderson 
+</recipientName>
+      <amount>2000.00</amount>
+      <date>12/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Kroger Co. Political Action Committee</contributorName>
+      <payeeName>Scott Peters For Congress
+</payeeName>
+      <recipientName>Scott Peters 
+</recipientName>
+      <amount>1000.00</amount>
+      <date>12/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Kroger Co. Political Action Committee</contributorName>
+      <payeeName>Pete Aguilar For Congress
+</payeeName>
+      <recipientName>Pete Aguilar
+</recipientName>
+      <amount>1000.00</amount>
+      <date>12/11/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

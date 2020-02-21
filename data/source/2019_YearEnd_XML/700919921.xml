@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>National Grid USA</organizationName>
+  <lobbyistPrefix>Mrs.</lobbyistPrefix>
+  <lobbyistFirstName>Sheri</lobbyistFirstName>
+  <lobbyistMiddleName>Lauten</lobbyistMiddleName>
+  <lobbyistLastName>Van Someren</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>29117</senateRegID>
+  <houseRegID>31281</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>I served as the Treasurer of the Eversource Energy Political Action Committee (EversourcePAC) until October 31, 2019. Contributions from this PAC are disclosed on the separate LD-203 filing for Eversource Energy Service Company.</comments>
+  <signedDate>1/23/2020 8:15:02 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>true</noContributions>
+  <pacs>
+    <pac>
+      <name>Eversource Energy Political Action Committee (EversourcePAC)</name>
+    </pac>
+  </pacs>
+  <contributions>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

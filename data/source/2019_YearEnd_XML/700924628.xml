@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>Association of American Railroads</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <zipext>
+  </zipext>
+  <contactName>Elgeo Harris</contactName>
+  <senateRegID>4516</senateRegID>
+  <houseRegID>32248</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/30/2020 11:04:32 AM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>RAILPAC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RAILPAC</contributorName>
+      <payeeName>Common Values PAC</payeeName>
+      <recipientName>Sen. John Barrasso</recipientName>
+      <amount>1000</amount>
+      <date>10/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RAILPAC</contributorName>
+      <payeeName>Adriano Espaillat for Congress</payeeName>
+      <recipientName>Rep. Adriano Espaillat</recipientName>
+      <amount>1000</amount>
+      <date>11/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RAILPAC</contributorName>
+      <payeeName>Cornyn Majority Texas</payeeName>
+      <recipientName>Sen. John Cornyn</recipientName>
+      <amount>1000</amount>
+      <date>11/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RAILPAC</contributorName>
+      <payeeName>Eddie Bernice Johnson for Congress</payeeName>
+      <recipientName>Rep. Eddie Johnson</recipientName>
+      <amount>1000</amount>
+      <date>11/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RAILPAC</contributorName>
+      <payeeName>Chris Coons for Delaware</payeeName>
+      <recipientName>Sen. Christopher Coons</recipientName>
+      <amount>1000</amount>
+      <date>10/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RAILPAC</contributorName>
+      <payeeName>Deb Fischer for US Senate Inc.</payeeName>
+      <recipientName>Sen. Deb Fischer</recipientName>
+      <amount>1000</amount>
+      <date>10/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RAILPAC</contributorName>
+      <payeeName>Brian Mast For Congress</payeeName>
+      <recipientName>Rep. Brian Mast</recipientName>
+      <amount>1000</amount>
+      <date>10/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RAILPAC</contributorName>
+      <payeeName>Brady for Congress</payeeName>
+      <recipientName>Rep. Kevin Brady</recipientName>
+      <amount>1000</amount>
+      <date>10/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RAILPAC</contributorName>
+      <payeeName>Rodney Davis for Congress</payeeName>
+      <recipientName>Rep. Rodney Davis</recipientName>
+      <amount>1000</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RAILPAC</contributorName>
+      <payeeName>M-PAC</payeeName>
+      <recipientName>Sen. Patty Murray</recipientName>
+      <amount>1000</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RAILPAC</contributorName>
+      <payeeName>Quigley for Congress</payeeName>
+      <recipientName>Rep. Mike Quigley</recipientName>
+      <amount>1000</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RAILPAC</contributorName>
+      <payeeName>Friends of Bennie Thompson</payeeName>
+      <recipientName>Rep. Bennie Thompson</recipientName>
+      <amount>1000</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RAILPAC</contributorName>
+      <payeeName>Stanton for Arizona</payeeName>
+      <recipientName>Rep. Greg Stanton</recipientName>
+      <amount>1000</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RAILPAC</contributorName>
+      <payeeName>Arkansas for Leadership Political Action Committee</payeeName>
+      <recipientName>Sen. John Boozman</recipientName>
+      <amount>1000</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RAILPAC</contributorName>
+      <payeeName>Lead Encourage Elect PAC - LEE PAC</payeeName>
+      <recipientName>Sen. Mike Lee</recipientName>
+      <amount>1000</amount>
+      <date>08/01/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RAILPAC</contributorName>
+      <payeeName>Gary Palmer for Congress</payeeName>
+      <recipientName>Rep. Gary Palmer</recipientName>
+      <amount>1000</amount>
+      <date>08/01/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RAILPAC</contributorName>
+      <payeeName>Rural America Counts PAC (RAC PAC)</payeeName>
+      <recipientName>Rep. Rick Crawford</recipientName>
+      <amount>1000</amount>
+      <date>08/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RAILPAC</contributorName>
+      <payeeName>Daniel Webster for Congress</payeeName>
+      <recipientName>Rep. Daniel Webster</recipientName>
+      <amount>1000</amount>
+      <date>08/01/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RAILPAC</contributorName>
+      <payeeName>Pete Stauber for Congress</payeeName>
+      <recipientName>Rep. Pete Stauber</recipientName>
+      <amount>1000</amount>
+      <date>08/01/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RAILPAC</contributorName>
+      <payeeName>Citizens To Elect Rick Larsen</payeeName>
+      <recipientName>Rep. Rick Larsen</recipientName>
+      <amount>1000</amount>
+      <date>08/01/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RAILPAC</contributorName>
+      <payeeName>Common Ground PAC</payeeName>
+      <recipientName>Sen. Tim Kaine</recipientName>
+      <amount>1000</amount>
+      <date>08/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RAILPAC</contributorName>
+      <payeeName>Cory Gardner for Senate</payeeName>
+      <recipientName>Sen. Cory Gardner</recipientName>
+      <amount>1000</amount>
+      <date>08/01/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RAILPAC</contributorName>
+      <payeeName>Debbie for Congress</payeeName>
+      <recipientName>Rep. Debbie Mucarsel-Powell</recipientName>
+      <amount>1000</amount>
+      <date>08/01/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RAILPAC</contributorName>
+      <payeeName>Frederica S. Wilson For Congress</payeeName>
+      <recipientName>Rep. Frederica Wilson</recipientName>
+      <amount>1000</amount>
+      <date>08/01/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RAILPAC</contributorName>
+      <payeeName>Dr Brian Babin for Congress</payeeName>
+      <recipientName>Rep. Brian Babin</recipientName>
+      <amount>1000</amount>
+      <date>08/01/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RAILPAC</contributorName>
+      <payeeName>Ross Spano for Congress</payeeName>
+      <recipientName>Rep. Vincent Ross Spano</recipientName>
+      <amount>1000</amount>
+      <date>08/01/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RAILPAC</contributorName>
+      <payeeName>Elizabeth Pannill Fletcher for Congress</payeeName>
+      <recipientName>Rep. Elizabeth  Pannill Fletcher</recipientName>
+      <amount>1000</amount>
+      <date>08/01/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RAILPAC</contributorName>
+      <payeeName>Ben Sasse for US Senate Inc.</payeeName>
+      <recipientName>Sen. Ben Sasse</recipientName>
+      <amount>1000</amount>
+      <date>10/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RAILPAC</contributorName>
+      <payeeName>Mark DeSaulnier for Congress</payeeName>
+      <recipientName>Rep. Mark DeSaulnier</recipientName>
+      <amount>1000</amount>
+      <date>10/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RAILPAC</contributorName>
+      <payeeName>Kay Granger for Congress</payeeName>
+      <recipientName>Rep. Kay Granger</recipientName>
+      <amount>1000</amount>
+      <date>10/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RAILPAC</contributorName>
+      <payeeName>Andre Carson for Congress</payeeName>
+      <recipientName>Rep. Andre Carson</recipientName>
+      <amount>1000</amount>
+      <date>08/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RAILPAC</contributorName>
+      <payeeName>Huffman For Congress</payeeName>
+      <recipientName>Rep. Jared Huffman</recipientName>
+      <amount>1000</amount>
+      <date>08/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RAILPAC</contributorName>
+      <payeeName>Steve Cohen for Congress</payeeName>
+      <recipientName>Rep. Stephen Cohen</recipientName>
+      <amount>1000</amount>
+      <date>08/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RAILPAC</contributorName>
+      <payeeName>Nadler for Congress</payeeName>
+      <recipientName>Rep. Jerrold Nadler</recipientName>
+      <amount>1000</amount>
+      <date>08/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RAILPAC</contributorName>
+      <payeeName>Greg Pence for Congress</payeeName>
+      <recipientName>Rep. Greg Pence</recipientName>
+      <amount>1000</amount>
+      <date>08/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RAILPAC</contributorName>
+      <payeeName>Reclaim America PAC</payeeName>
+      <recipientName>Sen. Marco Rubio</recipientName>
+      <amount>1000</amount>
+      <date>08/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RAILPAC</contributorName>
+      <payeeName>Getting Stuff Done PAC</payeeName>
+      <recipientName>Sen. Kyrsten Sinema</recipientName>
+      <amount>1000</amount>
+      <date>10/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RAILPAC</contributorName>
+      <payeeName>VoteTipton.com</payeeName>
+      <recipientName>Rep. Scott Tipton</recipientName>
+      <amount>1000</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RAILPAC</contributorName>
+      <payeeName>Peters for Michigan</payeeName>
+      <recipientName>Sen. Gary Peters</recipientName>
+      <amount>1000</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RAILPAC</contributorName>
+      <payeeName>MARSHA PAC</payeeName>
+      <recipientName>Sen. Marsha Blackburn</recipientName>
+      <amount>1000</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RAILPAC</contributorName>
+      <payeeName>Norma Torres for Congress</payeeName>
+      <recipientName>Rep. Norma Torres</recipientName>
+      <amount>1000</amount>
+      <date>08/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RAILPAC</contributorName>
+      <payeeName>Liz Cheney for Wyoming</payeeName>
+      <recipientName>Rep. Elizabeth Cheney</recipientName>
+      <amount>1000</amount>
+      <date>08/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RAILPAC</contributorName>
+      <payeeName>Meadows for Congress</payeeName>
+      <recipientName>Rep. Mark Meadows</recipientName>
+      <amount>1000</amount>
+      <date>10/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RAILPAC</contributorName>
+      <payeeName>Responsibility And Freedom Work PAC (RFWPAC)</payeeName>
+      <recipientName>Sen. Roger Wicker</recipientName>
+      <amount>1000</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RAILPAC</contributorName>
+      <payeeName>Scalise Leadership Fund</payeeName>
+      <recipientName>Rep. Steve Scalise</recipientName>
+      <amount>1000</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RAILPAC</contributorName>
+      <payeeName>Oorah! PAC</payeeName>
+      <recipientName>Sen. Todd Young</recipientName>
+      <amount>1000</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RAILPAC</contributorName>
+      <payeeName>Pete Aguilar for Congress</payeeName>
+      <recipientName>Rep. Pete Aguilar</recipientName>
+      <amount>1000</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RAILPAC</contributorName>
+      <payeeName>Manchin for West Virginia</payeeName>
+      <recipientName>Sen. Joseph Manchin</recipientName>
+      <amount>1000</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RAILPAC</contributorName>
+      <payeeName>Blumenauer for Congress</payeeName>
+      <recipientName>Rep. Earl Blumenauer</recipientName>
+      <amount>1000</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RAILPAC</contributorName>
+      <payeeName>True North PAC</payeeName>
+      <recipientName>Sen. Dan Sullivan</recipientName>
+      <amount>1000</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RAILPAC</contributorName>
+      <payeeName>Strategy PAC</payeeName>
+      <recipientName>Sen. Ron Johnson</recipientName>
+      <amount>1000</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RAILPAC</contributorName>
+      <payeeName>Big Sky Opportunity PAC</payeeName>
+      <recipientName>Sen. Steve Daines</recipientName>
+      <amount>1000</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RAILPAC</contributorName>
+      <payeeName>Katherine Clark for Congress</payeeName>
+      <recipientName>Rep. Katherine Clark</recipientName>
+      <amount>1000</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RAILPAC</contributorName>
+      <payeeName>Friends of Mark Warner</payeeName>
+      <recipientName>Sen. Mark Warner</recipientName>
+      <amount>1000</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RAILPAC</contributorName>
+      <payeeName>Perimeter PAC</payeeName>
+      <recipientName>Sen. Tammy Duckworth</recipientName>
+      <amount>1000</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RAILPAC</contributorName>
+      <payeeName>Collins for Senator</payeeName>
+      <recipientName>Sen. Susan Collins</recipientName>
+      <amount>1000</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>RAILPAC</contributorName>
+      <payeeName>Perdue for Senate</payeeName>
+      <recipientName>Sen. David Perdue</recipientName>
+      <amount>1000</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>Honorary Expenses</type>
+      <contributorName>Self</contributorName>
+      <payeeName>B. Gunther &amp; Company, Inc.</payeeName>
+      <recipientName>Rep. Kay Granger</recipientName>
+      <amount>604.82</amount>
+      <date>11/05/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

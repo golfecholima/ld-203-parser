@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>Arnold &amp; Porter Kaye Scholer LLP</organizationName>
+  <lobbyistPrefix>Mr.</lobbyistPrefix>
+  <lobbyistFirstName>PAUL</lobbyistFirstName>
+  <lobbyistMiddleName>A</lobbyistMiddleName>
+  <lobbyistLastName>HOWARD</lobbyistLastName>
+  <lobbyistSuffix>II</lobbyistSuffix>
+  <address2>
+  </address2>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>4301</senateRegID>
+  <houseRegID>31381</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>I am a controlling member who sits on the board of the Arnold &amp; Porter Kaye Scholer LLP Partners PAC.  For a complete list of the PAC's contribution data, please see the Arnold &amp; Porter Kaye Scholer LLP LD-203 report, House registrant ID 31381.</comments>
+  <signedDate>1/29/2020 5:39:09 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>Arnold &amp; Porter Kaye Scholer LLP Partners PAC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Collins for Senator</payeeName>
+      <recipientName>U.S. Senator Susan M. Collins</recipientName>
+      <amount>2800.00</amount>
+      <date>12/05/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

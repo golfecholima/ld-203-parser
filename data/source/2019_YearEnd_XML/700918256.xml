@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>Capitol Representatives</organizationName>
+  <lobbyistPrefix>Ms.</lobbyistPrefix>
+  <lobbyistFirstName>Marjorie</lobbyistFirstName>
+  <lobbyistMiddleName>E</lobbyistMiddleName>
+  <lobbyistLastName>Price</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>306170</senateRegID>
+  <houseRegID>38285</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/21/2020 2:30:05 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Bennet for America</payeeName>
+      <recipientName>U.S. Sen. Michael Bennet</recipientName>
+      <amount>50.00</amount>
+      <date>07/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Joe Neguse for Congress</payeeName>
+      <recipientName>U.S. Rep. Joe Neguse</recipientName>
+      <amount>50.00</amount>
+      <date>09/04/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Bennet for America</payeeName>
+      <recipientName>U.S. Sen. Michael Bennet</recipientName>
+      <amount>50.00</amount>
+      <date>09/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Bennet for America</payeeName>
+      <recipientName>U.S. Sen. Michael Bennet</recipientName>
+      <amount>250.00</amount>
+      <date>09/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Perlmutter for Congress</payeeName>
+      <recipientName>U.S. Rep. Ed Perlmutter</recipientName>
+      <amount>50.00</amount>
+      <date>10/02/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Bennet for America</payeeName>
+      <recipientName>U.S. Sen. Michael Bennet</recipientName>
+      <amount>100.00</amount>
+      <date>09/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>DeGette for Congress</payeeName>
+      <recipientName>U.S. Rep. Diana DeGette</recipientName>
+      <amount>150.00</amount>
+      <date>11/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Jason Crow for Congress</payeeName>
+      <recipientName>U.S. Rep. Jason Crow</recipientName>
+      <amount>100.00</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Bennet for America</payeeName>
+      <recipientName>U.S. Sen. Michael Bennet</recipientName>
+      <amount>200.00</amount>
+      <date>11/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Bennet for America</payeeName>
+      <recipientName>U.S. Sen. Michael Bennet</recipientName>
+      <amount>29.00</amount>
+      <date>11/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Jason Crow for Congress</payeeName>
+      <recipientName>U.S. Rep. Jason Crow</recipientName>
+      <amount>50.00</amount>
+      <date>12/23/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

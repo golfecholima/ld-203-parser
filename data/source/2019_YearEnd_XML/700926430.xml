@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>Harbinger Strategies, LLC</organizationName>
+  <lobbyistPrefix>Mr.</lobbyistPrefix>
+  <lobbyistFirstName>Jonathan</lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>Slemrod</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>401103523</senateRegID>
+  <houseRegID>42812</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/30/2020 7:41:52 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>House of Conservative Fund</payeeName>
+      <recipientName>Rep. Mike Johnson (R - LA - 04)</recipientName>
+      <amount>250.00</amount>
+      <date>8/20/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Chip Roy for Congress</payeeName>
+      <recipientName>Rep. Chip Roy (R-TX)</recipientName>
+      <amount>250.00</amount>
+      <date>9/19/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>LEE PAC</payeeName>
+      <recipientName>Sen. Mike Lee (R - UT) </recipientName>
+      <amount>1000.00</amount>
+      <date>9/27/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Families for James Lankford</payeeName>
+      <recipientName>Families for James Lankford</recipientName>
+      <amount>1000.00</amount>
+      <date>9/27/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Andy Biggs for Congress</payeeName>
+      <recipientName>Rep. Andy Biggs (R - AZ - 05)</recipientName>
+      <amount>500.00</amount>
+      <date>12/2/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Kelly Armstrong for Congress</payeeName>
+      <recipientName>Rep. Kelly Armstrong (R - ND)</recipientName>
+      <amount>250.00</amount>
+      <date>12/2/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Risch for Senate</payeeName>
+      <recipientName>Sen. Jim Risch (R - ID)</recipientName>
+      <amount>300.00</amount>
+      <date>12/16/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Lank PAC </payeeName>
+      <recipientName>Sen. James Lankford (R - OK)</recipientName>
+      <amount>250.00</amount>
+      <date>12/23/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Reclaim America PAC</payeeName>
+      <recipientName>Sen. Marco Rubio (R - FL)</recipientName>
+      <amount>1000.00</amount>
+      <date>12/16/19</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

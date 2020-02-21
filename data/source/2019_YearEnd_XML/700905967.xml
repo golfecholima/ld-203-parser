@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>Congressional Solutions, Inc (CSI)</organizationName>
+  <lobbyistPrefix>Mr.</lobbyistPrefix>
+  <lobbyistFirstName>STEPHEN</lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>COLOVAS</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>297237</senateRegID>
+  <houseRegID>37541</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>True</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/15/2020 2:01:18 AM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Texans for Senator John Cornyn</payeeName>
+      <recipientName>John Cornyn</recipientName>
+      <amount>500.00</amount>
+      <date>12/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Texans for John Cornyn</payeeName>
+      <recipientName>John Cornyn</recipientName>
+      <amount>500.00</amount>
+      <date>12/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Carter for Congress</payeeName>
+      <recipientName>John Carter</recipientName>
+      <amount>500.00</amount>
+      <date>11/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Ken Calvert for Congress</payeeName>
+      <recipientName>Ken Calvert</recipientName>
+      <amount>1000.00</amount>
+      <date>11/04/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Valadao for Congress</payeeName>
+      <recipientName>David Valadao</recipientName>
+      <amount>500.00</amount>
+      <date>11/04/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Van Hollen for Senate</payeeName>
+      <recipientName>Chris Van Hollen</recipientName>
+      <amount>1000.00</amount>
+      <date>10/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Van Hollen for Senate</payeeName>
+      <recipientName>Chris Van Hollen</recipientName>
+      <amount>1700.00</amount>
+      <date>09/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Act Blue</payeeName>
+      <recipientName>Victory Now</recipientName>
+      <amount>1000.00</amount>
+      <date>09/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Greg Murphy for Congress</payeeName>
+      <recipientName>Greg Murphy</recipientName>
+      <amount>500.00</amount>
+      <date>10/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Ken Calvert for Congress</payeeName>
+      <recipientName>Ken Calvert</recipientName>
+      <amount>500.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Texans for John Cornyn</payeeName>
+      <recipientName>John Cornyn</recipientName>
+      <amount>1000.00</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Matt Becker for Congress</payeeName>
+      <recipientName>Matt Becker</recipientName>
+      <amount>1000.00</amount>
+      <date>09/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Matt Becker for Congress</payeeName>
+      <recipientName>Matt Becker</recipientName>
+      <amount>1000.00</amount>
+      <date>07/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Ken Calvert for Congress</payeeName>
+      <recipientName>Ken Calvert</recipientName>
+      <amount>500.00</amount>
+      <date>07/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>ActBlue Cheri Bustos</payeeName>
+      <recipientName>Cheri Bustos</recipientName>
+      <amount>500.00</amount>
+      <date>12/6/19</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

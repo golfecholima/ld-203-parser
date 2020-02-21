@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>The Smith-Free Group, LLC</organizationName>
+  <lobbyistPrefix>Mr.</lobbyistPrefix>
+  <lobbyistFirstName>JACK</lobbyistFirstName>
+  <lobbyistMiddleName>S</lobbyistMiddleName>
+  <lobbyistLastName>DEUSER</lobbyistLastName>
+  <lobbyistSuffix>Jr.</lobbyistSuffix>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>35800</senateRegID>
+  <houseRegID>30770</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/7/2020 11:34:00 AM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Thom Tillis Committee</payeeName>
+      <recipientName>Sen. Thom Tillis</recipientName>
+      <amount>500.00</amount>
+      <date>12/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Young for Iowa</payeeName>
+      <recipientName>David Young</recipientName>
+      <amount>2300.00</amount>
+      <date>12/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Crenshaw for Congress</payeeName>
+      <recipientName>Rep. Dan Crenshaw</recipientName>
+      <amount>500.00</amount>
+      <date>12/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Comer for Congress</payeeName>
+      <recipientName>Rep. James Comer</recipientName>
+      <amount>500.00</amount>
+      <date>12/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Steve Daines for Montana</payeeName>
+      <recipientName>Sen. Steve Daines</recipientName>
+      <amount>500.00</amount>
+      <date>12/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Hal Rogers for Congress</payeeName>
+      <recipientName>Rep. Hal Rogers</recipientName>
+      <amount>1000.00</amount>
+      <date>12/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Brett Guthrie for Congress</payeeName>
+      <recipientName>Rep. Brett Guthrie</recipientName>
+      <amount>500.00</amount>
+      <date>12/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Friends of John Barrasso</payeeName>
+      <recipientName>Sen. John Barrasso</recipientName>
+      <amount>500.00</amount>
+      <date>12/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>McConnell Senate Committee</payeeName>
+      <recipientName>Sen. Mitch McConnell</recipientName>
+      <amount>2800.00</amount>
+      <date>12/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Thomas Massie for Congress</payeeName>
+      <recipientName>Rep. Thomas Massie</recipientName>
+      <amount>500.00</amount>
+      <date>11/14/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>Recording Industry Association of America</organizationName>
+  <lobbyistPrefix>Ms.</lobbyistPrefix>
+  <lobbyistFirstName>MICHELE</lobbyistFirstName>
+  <lobbyistMiddleName>S.</lobbyistMiddleName>
+  <lobbyistLastName>BALLANTYNE</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>32874</senateRegID>
+  <houseRegID>32672</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/28/2020 3:18:02 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Jamie Raskin for Congress </payeeName>
+      <recipientName>Rep. Jamie Raskin </recipientName>
+      <amount>1000.00</amount>
+      <date>08/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Hakeem Jeffries for Congress </payeeName>
+      <recipientName>Rep. Hakeem Jeffries </recipientName>
+      <amount>1000.00</amount>
+      <date>08/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Lou Correa for Congress</payeeName>
+      <recipientName>Rep. Lou Correa </recipientName>
+      <amount>1000.00</amount>
+      <date>08/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Adam Schiff for Congress </payeeName>
+      <recipientName>Rep. Adam Schiff </recipientName>
+      <amount>1500.00</amount>
+      <date>10/08/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Stephanie Murphy for Congress </payeeName>
+      <recipientName>Rep. Stephanie Murphy </recipientName>
+      <amount>500.00</amount>
+      <date>11/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Jimmy Gomez for Congress </payeeName>
+      <recipientName>Rep. Jimmy Gomez </recipientName>
+      <amount>500.00</amount>
+      <date>11/26/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

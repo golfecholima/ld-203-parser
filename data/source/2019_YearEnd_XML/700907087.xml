@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>WGL</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>Jennifer Stettner</contactName>
+  <senateRegID>40544</senateRegID>
+  <houseRegID>31898</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/17/2020 1:48:55 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>
+  </noContributions>
+  <pacs>
+    <pac>
+      <name>Washington Gas Light Company PAC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Washington Gas Light Company PAC</contributorName>
+      <payeeName>HOYERS MAJORITY FUND</payeeName>
+      <recipientName>Rep Steny H Hoyer</recipientName>
+      <amount>2500.00</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Washington Gas Light Company PAC</contributorName>
+      <payeeName>Morgan Griffith for Congress</payeeName>
+      <recipientName>Rep Morgan Griffith</recipientName>
+      <amount>1000.00</amount>
+      <date>10/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Washington Gas Light Company PAC</contributorName>
+      <payeeName>Citizens for Eleanor Holmes Norton</payeeName>
+      <recipientName>Del Eleanor Holmes Norton</recipientName>
+      <amount>1000.00</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Washington Gas Light Company PAC</contributorName>
+      <payeeName>ALEX MOONEY FOR CONGRESS</payeeName>
+      <recipientName>Rep Alex X Mooney</recipientName>
+      <amount>1000.00</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Washington Gas Light Company PAC</contributorName>
+      <payeeName>DEBBIE DINGELL FOR CONGRESS</payeeName>
+      <recipientName>Rep Debbie Dingell</recipientName>
+      <amount>1500.00</amount>
+      <date>07/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Washington Gas Light Company PAC</contributorName>
+      <payeeName>KAINE FOR VIRGINIA</payeeName>
+      <recipientName>Sen Tim M Kaine</recipientName>
+      <amount>1000.00</amount>
+      <date>09/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Washington Gas Light Company PAC</contributorName>
+      <payeeName>ANTHONY BROWN FOR CONGRESS</payeeName>
+      <recipientName>Rep Anthony G Brown</recipientName>
+      <amount>1000.00</amount>
+      <date>12/20/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

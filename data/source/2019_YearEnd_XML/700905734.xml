@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>The O Team LLC</organizationName>
+  <lobbyistPrefix>Mr.</lobbyistPrefix>
+  <lobbyistFirstName>B.</lobbyistFirstName>
+  <lobbyistMiddleName>Robert</lobbyistMiddleName>
+  <lobbyistLastName>Okun</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>400783359</senateRegID>
+  <houseRegID>41769</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/14/2020 1:32:48 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Team Graham</payeeName>
+      <recipientName>U.S. Senator Lindsey Graham</recipientName>
+      <amount>250.00</amount>
+      <date>9/2/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Heartland Values PAC</payeeName>
+      <recipientName>U.S. Senator John Thune</recipientName>
+      <amount>1500.00</amount>
+      <date>9/2/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Cory Gardner for Senate</payeeName>
+      <recipientName>U.S. Senator Cory Gardner</recipientName>
+      <amount>500.00</amount>
+      <date>10/5/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Armstrong for Congress</payeeName>
+      <recipientName>U.S. Representative Kelly Armstrong</recipientName>
+      <amount>500.00</amount>
+      <date>10/7/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Cory Gardner for Senate</payeeName>
+      <recipientName>U.S. Senator Cory Gardner</recipientName>
+      <amount>500.00</amount>
+      <date>11/15/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>RFWPAC</payeeName>
+      <recipientName>U.S. Senator Roger Wicker</recipientName>
+      <amount>500.00</amount>
+      <date>11/15/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Hawley Victory Committee</payeeName>
+      <recipientName>U.S. Senator Josh Hawley</recipientName>
+      <amount>500.00</amount>
+      <date>11/15/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Win Red</payeeName>
+      <recipientName>U.S. Senator John Kennedy</recipientName>
+      <amount>250.00</amount>
+      <date>12/1/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Hawkeye PAC</payeeName>
+      <recipientName>U.S. Senator Chuck Grassley</recipientName>
+      <amount>500.00</amount>
+      <date>12/16/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>CommonValues PAC</payeeName>
+      <recipientName>U.S. Senator John Barrasso</recipientName>
+      <amount>500.00</amount>
+      <date>12/16/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Wonderwomen PAC</payeeName>
+      <recipientName>Various Leadership PACs</recipientName>
+      <amount>500.00</amount>
+      <date>12/16/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>CommonValues PAC</payeeName>
+      <recipientName>U.S. Senator John Barrasso</recipientName>
+      <amount>500.00</amount>
+      <date>12/20/19</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

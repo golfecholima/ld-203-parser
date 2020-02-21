@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>American Apparel &amp; Footwear Association</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <zipext>
+  </zipext>
+  <contactName>Nate Herman</contactName>
+  <senateRegID>1433</senateRegID>
+  <houseRegID>32183</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/21/2020 6:34:12 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>ClothesPAC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ClothesPAC</contributorName>
+      <payeeName>Jimmy Panetta for Congress</payeeName>
+      <recipientName>Congressman Jimmy Panetta (D-CA-20)</recipientName>
+      <amount>1000.00</amount>
+      <date>07/08/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ClothesPAC</contributorName>
+      <payeeName>Bonamici for Congress</payeeName>
+      <recipientName>Congresswoman Suzanne Bonamici (D-OR-1)</recipientName>
+      <amount>1000.00</amount>
+      <date>10/07/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ClothesPAC</contributorName>
+      <payeeName>Bera for Congress</payeeName>
+      <recipientName>Congressman Ami Bera (D-CA-7)</recipientName>
+      <amount>1000.00</amount>
+      <date>12/02/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ClothesPAC</contributorName>
+      <payeeName>Chrissy Houlahan for Congress</payeeName>
+      <recipientName>Congresswoman Chrissy Houlahan (D-PA-6)</recipientName>
+      <amount>2500.00</amount>
+      <date>12/04/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ClothesPAC</contributorName>
+      <payeeName>LEGPAC
+</payeeName>
+      <recipientName>LEGPAC
+</recipientName>
+      <amount>2500.00</amount>
+      <date>12/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ClothesPAC</contributorName>
+      <payeeName>Texans for Cuellar</payeeName>
+      <recipientName>Congressman Henry Cuellar (D-TX-28)</recipientName>
+      <amount>1000.00</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>ClothesPAC</contributorName>
+      <payeeName>Friends for Pat Toomey
+</payeeName>
+      <recipientName>Senator Pat Toomey (R-PA)</recipientName>
+      <amount>1000.00</amount>
+      <date>12/13/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

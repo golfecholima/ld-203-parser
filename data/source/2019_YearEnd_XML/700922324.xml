@@ -1,0 +1,571 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>Nucor Public Affairs, Inc.</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>STEPHAN G. SHRIVER</contactName>
+  <contactPhone>
+  </contactPhone>
+  <senateRegID>40005031</senateRegID>
+  <houseRegID>39733</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/28/2020 3:31:24 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>
+  </noContributions>
+  <pacs>
+    <pac>
+      <name>Nucor Corporation PAC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Nucor Corporation PAC</contributorName>
+      <payeeName>Adam Kinzinger 1st Committee</payeeName>
+      <recipientName>Adam Kinzinger</recipientName>
+      <amount>1000</amount>
+      <date>07/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Nucor Corporation PAC</contributorName>
+      <payeeName>Greg Steube For Congress</payeeName>
+      <recipientName>Greg Stube</recipientName>
+      <amount>1000</amount>
+      <date>07/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Nucor Corporation PAC</contributorName>
+      <payeeName>Greg Pence Victory</payeeName>
+      <recipientName>Greg Pence</recipientName>
+      <amount>1000</amount>
+      <date>07/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Nucor Corporation PAC</contributorName>
+      <payeeName>Pete Stauber For Congress</payeeName>
+      <recipientName>Pete Stauber</recipientName>
+      <amount>1000</amount>
+      <date>07/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Nucor Corporation PAC</contributorName>
+      <payeeName>John Katko For Congress</payeeName>
+      <recipientName>John Katko</recipientName>
+      <amount>2500</amount>
+      <date>07/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Nucor Corporation PAC</contributorName>
+      <payeeName>Friends Of Michael Guest</payeeName>
+      <recipientName>Michael Guest</recipientName>
+      <amount>1000</amount>
+      <date>07/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Nucor Corporation PAC</contributorName>
+      <payeeName>Vicky Hartzler For Congress</payeeName>
+      <recipientName>Vicky Hartzler</recipientName>
+      <amount>1000</amount>
+      <date>07/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Nucor Corporation PAC</contributorName>
+      <payeeName>Thom Tillis Committee</payeeName>
+      <recipientName>Thom Tillis</recipientName>
+      <amount>3000</amount>
+      <date>07/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Nucor Corporation PAC</contributorName>
+      <payeeName>Bill Flores For Congress</payeeName>
+      <recipientName>Bill Flores</recipientName>
+      <amount>1000</amount>
+      <date>07/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Nucor Corporation PAC</contributorName>
+      <payeeName>Hudson For Congress</payeeName>
+      <recipientName>Richard Hudson</recipientName>
+      <amount>2500</amount>
+      <date>07/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Nucor Corporation PAC</contributorName>
+      <payeeName>Terri Sewell For Congress</payeeName>
+      <recipientName>Terri Sewell</recipientName>
+      <amount>2000</amount>
+      <date>07/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Nucor Corporation PAC</contributorName>
+      <payeeName>Guthrie For Congress</payeeName>
+      <recipientName>Brett Guthrie</recipientName>
+      <amount>1000</amount>
+      <date>07/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Nucor Corporation PAC</contributorName>
+      <payeeName>Peters For Michigan</payeeName>
+      <recipientName>Gary Peters</recipientName>
+      <amount>1000</amount>
+      <date>07/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Nucor Corporation PAC</contributorName>
+      <payeeName>Virginia Foxx for Congress</payeeName>
+      <recipientName>Virginia Foxx</recipientName>
+      <amount>2500</amount>
+      <date>07/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Nucor Corporation PAC</contributorName>
+      <payeeName>Jeff Fortenberry for United States Congress</payeeName>
+      <recipientName>Jeff Fortenberry</recipientName>
+      <amount>1500</amount>
+      <date>07/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Nucor Corporation PAC</contributorName>
+      <payeeName>Adam Kinzinger 1st Committee</payeeName>
+      <recipientName>Adam Kinzinger</recipientName>
+      <amount>1000</amount>
+      <date>08/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Nucor Corporation PAC</contributorName>
+      <payeeName>Crawford For Congress</payeeName>
+      <recipientName>Eric Crawford</recipientName>
+      <amount>2400</amount>
+      <date>09/04/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Nucor Corporation PAC</contributorName>
+      <payeeName>Adam Kinzinger 1st Committee</payeeName>
+      <recipientName>Adam Kinzinger</recipientName>
+      <amount>-1000</amount>
+      <date>09/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Nucor Corporation PAC</contributorName>
+      <payeeName>Peters For Michigan</payeeName>
+      <recipientName>Gary Peters</recipientName>
+      <amount>1000</amount>
+      <date>09/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Nucor Corporation PAC</contributorName>
+      <payeeName>Peters For Michigan</payeeName>
+      <recipientName>Gary Peters</recipientName>
+      <amount>-1000</amount>
+      <date>09/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Nucor Corporation PAC</contributorName>
+      <payeeName>McSally For Senate Inc</payeeName>
+      <recipientName>Martha McSally</recipientName>
+      <amount>1000</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Nucor Corporation PAC</contributorName>
+      <payeeName>Ralph Norman For Congress</payeeName>
+      <recipientName>Ralph Norman</recipientName>
+      <amount>1000</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Nucor Corporation PAC</contributorName>
+      <payeeName>Friends of John H. Merrill for U.S. Senate</payeeName>
+      <recipientName>John Merrill</recipientName>
+      <amount>1000</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Nucor Corporation PAC</contributorName>
+      <payeeName>Joe Wilson For Congress</payeeName>
+      <recipientName>Joe Wilson</recipientName>
+      <amount>1000</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Nucor Corporation PAC</contributorName>
+      <payeeName>Elect Jim Baird For Congress</payeeName>
+      <recipientName>James Baird</recipientName>
+      <amount>1000.00</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Nucor Corporation PAC</contributorName>
+      <payeeName>David Rouzer For Congress</payeeName>
+      <recipientName>David Rouzer</recipientName>
+      <amount>1500</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Nucor Corporation PAC</contributorName>
+      <payeeName>Tim Scott For Senate</payeeName>
+      <recipientName>Tim Scott</recipientName>
+      <amount>1000</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Nucor Corporation PAC</contributorName>
+      <payeeName>Richmond For Congress</payeeName>
+      <recipientName>Cedric Richmond</recipientName>
+      <amount>1000</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Nucor Corporation PAC</contributorName>
+      <payeeName>Mo Brooks for Congress</payeeName>
+      <recipientName>Mo Brooks</recipientName>
+      <amount>1000</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Nucor Corporation PAC</contributorName>
+      <payeeName>Terri Sewell For Congress</payeeName>
+      <recipientName>Terri Sewell</recipientName>
+      <amount>1000</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Nucor Corporation PAC</contributorName>
+      <payeeName>Terri Sewell For Congress</payeeName>
+      <recipientName>Terri Sewell</recipientName>
+      <amount>2500</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Nucor Corporation PAC</contributorName>
+      <payeeName>Kaptur For Congress</payeeName>
+      <recipientName>Marcy Kaptur</recipientName>
+      <amount>2000</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Nucor Corporation PAC</contributorName>
+      <payeeName>Graves For Congress</payeeName>
+      <recipientName>Samuel Graves</recipientName>
+      <amount>2500</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Nucor Corporation PAC</contributorName>
+      <payeeName>Jim Jordan For Congress</payeeName>
+      <recipientName>Jim Jordan</recipientName>
+      <amount>1000</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Nucor Corporation PAC</contributorName>
+      <payeeName>Jeff Fortenberry for United States Congress</payeeName>
+      <recipientName>Jeff Fortenberry</recipientName>
+      <amount>3000</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Nucor Corporation PAC</contributorName>
+      <payeeName>Jeff Fortenberry for United States Congress</payeeName>
+      <recipientName>Jeff Fortenberry</recipientName>
+      <amount>-1500</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Nucor Corporation PAC</contributorName>
+      <payeeName>Bill Flores For Congress</payeeName>
+      <recipientName>Bill Flores</recipientName>
+      <amount>-1000</amount>
+      <date>09/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Nucor Corporation PAC</contributorName>
+      <payeeName>McConnell for Majority Leader</payeeName>
+      <recipientName>Mitch McConnell</recipientName>
+      <amount>5000.00</amount>
+      <date>10/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Nucor Corporation PAC</contributorName>
+      <payeeName>Ralph Norman For Congress</payeeName>
+      <recipientName>Ralph Norman</recipientName>
+      <amount>500</amount>
+      <date>10/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Nucor Corporation PAC</contributorName>
+      <payeeName>DeFazio For Congress</payeeName>
+      <recipientName>Peter DeFazio</recipientName>
+      <amount>2500</amount>
+      <date>10/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Nucor Corporation PAC</contributorName>
+      <payeeName>Dr. Brian Babin For Congress</payeeName>
+      <recipientName>Brian Babin</recipientName>
+      <amount>1500</amount>
+      <date>10/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Nucor Corporation PAC</contributorName>
+      <payeeName>Robin Kelly For Congress</payeeName>
+      <recipientName>Robin Kelly</recipientName>
+      <amount>2500</amount>
+      <date>10/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Nucor Corporation PAC</contributorName>
+      <payeeName>Team Graham Inc</payeeName>
+      <recipientName>Lindsey Graham</recipientName>
+      <amount>1000</amount>
+      <date>10/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Nucor Corporation PAC</contributorName>
+      <payeeName>Crawford For Congress</payeeName>
+      <recipientName>Eric Crawford</recipientName>
+      <amount>1500</amount>
+      <date>10/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Nucor Corporation PAC</contributorName>
+      <payeeName>John Katko For Congress</payeeName>
+      <recipientName>John Katko</recipientName>
+      <amount>2500</amount>
+      <date>11/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Nucor Corporation PAC</contributorName>
+      <payeeName>John Katko For Congress</payeeName>
+      <recipientName>John Katko</recipientName>
+      <amount>-2500</amount>
+      <date>11/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Nucor Corporation PAC</contributorName>
+      <payeeName>Guthrie For Congress</payeeName>
+      <recipientName>Brett Guthrie</recipientName>
+      <amount>1000</amount>
+      <date>11/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Nucor Corporation PAC</contributorName>
+      <payeeName>Guthrie For Congress</payeeName>
+      <recipientName>Brett Guthrie</recipientName>
+      <amount>-1000</amount>
+      <date>11/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Nucor Corporation PAC</contributorName>
+      <payeeName>Believe in America PAC</payeeName>
+      <recipientName>Mitt Romney</recipientName>
+      <amount>1000</amount>
+      <date>12/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Nucor Corporation PAC</contributorName>
+      <payeeName>Reclaim America PAC</payeeName>
+      <recipientName>Marco Rubio</recipientName>
+      <amount>1500</amount>
+      <date>12/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Nucor Corporation PAC</contributorName>
+      <payeeName>Butterfield For Congress</payeeName>
+      <recipientName>G. K. Butterfield</recipientName>
+      <amount>1000</amount>
+      <date>12/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Nucor Corporation PAC</contributorName>
+      <payeeName>Byrne for Senate</payeeName>
+      <recipientName>Bradley Byrne</recipientName>
+      <amount>500</amount>
+      <date>12/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Nucor Corporation PAC</contributorName>
+      <payeeName>Balderson For Congress</payeeName>
+      <recipientName>Troy Balderson</recipientName>
+      <amount>1000</amount>
+      <date>12/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Nucor Corporation PAC</contributorName>
+      <payeeName>Vicky Hartzler For Congress</payeeName>
+      <recipientName>Vicky Hartzler</recipientName>
+      <amount>1000</amount>
+      <date>12/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Nucor Corporation PAC</contributorName>
+      <payeeName>Garamendi For Congress</payeeName>
+      <recipientName>John Garamendi</recipientName>
+      <amount>1000</amount>
+      <date>12/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Nucor Corporation PAC</contributorName>
+      <payeeName>Brady For Congress</payeeName>
+      <recipientName>Kevin Brady</recipientName>
+      <amount>2000</amount>
+      <date>12/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Nucor Corporation PAC</contributorName>
+      <payeeName>Portman For Senate Committee</payeeName>
+      <recipientName>Rob Portman</recipientName>
+      <amount>1000</amount>
+      <date>12/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Nucor Corporation PAC</contributorName>
+      <payeeName>Tom Rice For Congress</payeeName>
+      <recipientName>Tom Rice</recipientName>
+      <amount>3000</amount>
+      <date>12/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Nucor Corporation PAC</contributorName>
+      <payeeName>Mike Kelly For Congress</payeeName>
+      <recipientName>Mike Kelly</recipientName>
+      <amount>1000</amount>
+      <date>12/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Nucor Corporation PAC</contributorName>
+      <payeeName>Walberg For Congress</payeeName>
+      <recipientName>Tim Walberg</recipientName>
+      <amount>1000</amount>
+      <date>12/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Nucor Corporation PAC</contributorName>
+      <payeeName>Terri Sewell For Congress</payeeName>
+      <recipientName>Terri Sewell</recipientName>
+      <amount>2000</amount>
+      <date>12/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Nucor Corporation PAC</contributorName>
+      <payeeName>Terri Sewell For Congress</payeeName>
+      <recipientName>Terri Sewell</recipientName>
+      <amount>2000</amount>
+      <date>12/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Nucor Corporation PAC</contributorName>
+      <payeeName>Terri Sewell For Congress</payeeName>
+      <recipientName>Terri Sewell</recipientName>
+      <amount>-2000</amount>
+      <date>12/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Nucor Corporation PAC</contributorName>
+      <payeeName>Peters For Michigan</payeeName>
+      <recipientName>Gary Peters</recipientName>
+      <amount>1000</amount>
+      <date>12/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Nucor Corporation PAC</contributorName>
+      <payeeName>Friends Of Sherrod Brown</payeeName>
+      <recipientName>Sherrod Brown</recipientName>
+      <amount>2000</amount>
+      <date>12/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Nucor Corporation PAC</contributorName>
+      <payeeName>Robert Aderholt For Congress</payeeName>
+      <recipientName>Robert Aderholt</recipientName>
+      <amount>2000</amount>
+      <date>12/23/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>American College of Rheumatology</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>Adam Cooper</contactName>
+  <senateRegID>320873</senateRegID>
+  <houseRegID>39567</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/30/2020 3:37:39 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>American College of Rheumatology RheumPAC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American College of Rheumatology RheumPAC</contributorName>
+      <payeeName>Lisa Murkowski for Senate</payeeName>
+      <recipientName>Murkowski, Lisa</recipientName>
+      <amount>2500.00</amount>
+      <date>07/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American College of Rheumatology RheumPAC</contributorName>
+      <payeeName>Walden for Congress</payeeName>
+      <recipientName>Walden, Greg</recipientName>
+      <amount>5000.00</amount>
+      <date>07/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American College of Rheumatology RheumPAC</contributorName>
+      <payeeName>Guthrie for Congress</payeeName>
+      <recipientName>Guthrie, Brett</recipientName>
+      <amount>5000.00</amount>
+      <date>07/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American College of Rheumatology RheumPAC</contributorName>
+      <payeeName>George Holding for Congress, Inc.</payeeName>
+      <recipientName>Holding, George</recipientName>
+      <amount>2500.00</amount>
+      <date>07/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American College of Rheumatology RheumPAC</contributorName>
+      <payeeName>George Holding for Congress, Inc.</payeeName>
+      <recipientName>Holding, George</recipientName>
+      <amount>2500.00</amount>
+      <date>07/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American College of Rheumatology RheumPAC</contributorName>
+      <payeeName>Butterfield for Congress</payeeName>
+      <recipientName>Butterfield, George</recipientName>
+      <amount>5000.00</amount>
+      <date>07/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American College of Rheumatology RheumPAC</contributorName>
+      <payeeName>Schneider for Congress</payeeName>
+      <recipientName>Schneider, Bradley</recipientName>
+      <amount>5000.00</amount>
+      <date>07/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American College of Rheumatology RheumPAC</contributorName>
+      <payeeName>Doug Jones for Senate Committee</payeeName>
+      <recipientName>Jones, Doug</recipientName>
+      <amount>5000.00</amount>
+      <date>08/08/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American College of Rheumatology RheumPAC</contributorName>
+      <payeeName>McKinley for Congress</payeeName>
+      <recipientName>McKinley, David</recipientName>
+      <amount>5000.00</amount>
+      <date>10/04/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American College of Rheumatology RheumPAC</contributorName>
+      <payeeName>Bill Cassidy for US Senate</payeeName>
+      <recipientName>Cassidy, Bill</recipientName>
+      <amount>2500.00</amount>
+      <date>10/07/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American College of Rheumatology RheumPAC</contributorName>
+      <payeeName>Bill Cassidy for US Senate</payeeName>
+      <recipientName>Cassidy, Bill</recipientName>
+      <amount>2500.00</amount>
+      <date>10/07/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American College of Rheumatology RheumPAC</contributorName>
+      <payeeName>Wenstrup for Congress</payeeName>
+      <recipientName>Wenstrup, Brad</recipientName>
+      <amount>5000.00</amount>
+      <date>11/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American College of Rheumatology RheumPAC</contributorName>
+      <payeeName>Michael Burgess for Congress</payeeName>
+      <recipientName>Burgess, Michael</recipientName>
+      <amount>1500.00</amount>
+      <date>11/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American College of Rheumatology RheumPAC</contributorName>
+      <payeeName>Mike Braun for Indiana</payeeName>
+      <recipientName>Braun, Mike</recipientName>
+      <amount>2500.00</amount>
+      <date>11/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American College of Rheumatology RheumPAC</contributorName>
+      <payeeName>Debbie Dingell for Congress</payeeName>
+      <recipientName>Dingell, Debbie</recipientName>
+      <amount>5000.00</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American College of Rheumatology RheumPAC</contributorName>
+      <payeeName>People for Derek Kilmer</payeeName>
+      <recipientName>Kilmer, Derek</recipientName>
+      <amount>5000.00</amount>
+      <date>11/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American College of Rheumatology RheumPAC</contributorName>
+      <payeeName>Whitehouse for Senate</payeeName>
+      <recipientName>Whitehouse, Sheldon</recipientName>
+      <amount>2500.00</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American College of Rheumatology RheumPAC</contributorName>
+      <payeeName>Tim Scott for Senate</payeeName>
+      <recipientName>Scott, Tim</recipientName>
+      <amount>2500.00</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American College of Rheumatology RheumPAC</contributorName>
+      <payeeName>Bob Casey for Senate, Inc.</payeeName>
+      <recipientName>Casey, Bob</recipientName>
+      <amount>2500.00</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American College of Rheumatology RheumPAC</contributorName>
+      <payeeName>Collins for Senator</payeeName>
+      <recipientName>Collins, Susan</recipientName>
+      <amount>5000.00</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American College of Rheumatology RheumPAC</contributorName>
+      <payeeName>Dr. Raul Ruiz for Congress</payeeName>
+      <recipientName>Ruiz, Raul</recipientName>
+      <amount>5000.00</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American College of Rheumatology RheumPAC</contributorName>
+      <payeeName>Doggett for US Congress</payeeName>
+      <recipientName>Doggett, Lloyd</recipientName>
+      <amount>5000.00</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>American College of Rheumatology RheumPAC</contributorName>
+      <payeeName>Bera for Congress</payeeName>
+      <recipientName>Bera, Ami</recipientName>
+      <amount>5000.00</amount>
+      <date>12/18/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

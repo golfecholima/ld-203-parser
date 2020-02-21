@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>GuideWell Mutual Holding Corporation</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>Kelly James</contactName>
+  <senateRegID>401103191</senateRegID>
+  <houseRegID>42486</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/21/2020 10:45:23 AM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>
+  </noContributions>
+  <pacs>
+    <pac>
+      <name>Guidewell Mutual Holding Corporation Political Action Committee (Guidewell PAC)</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Guidewell Mutual Holding Corporation Political Action Committee (Guidewell PAC)</contributorName>
+      <payeeName>Bilirakis For Congress</payeeName>
+      <recipientName>Rep. Gus Michael Bilirakis</recipientName>
+      <amount>1500</amount>
+      <date>7/1/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Guidewell Mutual Holding Corporation Political Action Committee (Guidewell PAC)</contributorName>
+      <payeeName>NRSC</payeeName>
+      <recipientName>NRSC</recipientName>
+      <amount>1500</amount>
+      <date>7/2/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Guidewell Mutual Holding Corporation Political Action Committee (Guidewell PAC)</contributorName>
+      <payeeName>Al Lawson For Congress</payeeName>
+      <recipientName>Rep. Alfred J. Lawson, Jr.</recipientName>
+      <amount>2500</amount>
+      <date>8/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Guidewell Mutual Holding Corporation Political Action Committee (Guidewell PAC)</contributorName>
+      <payeeName>Castor For Congress</payeeName>
+      <recipientName>Rep. Katherine Anne Castor</recipientName>
+      <amount>2500</amount>
+      <date>8/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Guidewell Mutual Holding Corporation Political Action Committee (Guidewell PAC)</contributorName>
+      <payeeName>Debbie Wasserman Schultz For Congress</payeeName>
+      <recipientName>Rep. Debbie Wasserman Schultz</recipientName>
+      <amount>2500</amount>
+      <date>8/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Guidewell Mutual Holding Corporation Political Action Committee (Guidewell PAC)</contributorName>
+      <payeeName>Ross Spano For Congress</payeeName>
+      <recipientName>Rep. Ross Spano</recipientName>
+      <amount>500</amount>
+      <date>9/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Guidewell Mutual Holding Corporation Political Action Committee (Guidewell PAC)</contributorName>
+      <payeeName>Bilirakis For Congress</payeeName>
+      <recipientName>Rep. Gus Michael Bilirakis</recipientName>
+      <amount>1000</amount>
+      <date>9/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Guidewell Mutual Holding Corporation Political Action Committee (Guidewell PAC)</contributorName>
+      <payeeName>Stephanie Murphy For Congress</payeeName>
+      <recipientName>Rep. Stephanie N. Murphy</recipientName>
+      <amount>1000</amount>
+      <date>9/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Guidewell Mutual Holding Corporation Political Action Committee (Guidewell PAC)</contributorName>
+      <payeeName>Val Demings For Congress</payeeName>
+      <recipientName>Rep. Valdez B. Demings</recipientName>
+      <amount>1000</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Guidewell Mutual Holding Corporation Political Action Committee (Guidewell PAC)</contributorName>
+      <payeeName>Republican Mainstreet Partnership PAC</payeeName>
+      <recipientName>Republican Mainstreet Partnership PAC</recipientName>
+      <amount>-2500</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Guidewell Mutual Holding Corporation Political Action Committee (Guidewell PAC)</contributorName>
+      <payeeName>Greg Steube For Congress</payeeName>
+      <recipientName>Rep. W. Gregory Steube</recipientName>
+      <amount>1500</amount>
+      <date>9/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Guidewell Mutual Holding Corporation Political Action Committee (Guidewell PAC)</contributorName>
+      <payeeName>Donna Shalala For Congress</payeeName>
+      <recipientName>Rep. Donna E. Shalala</recipientName>
+      <amount>5000</amount>
+      <date>10/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Guidewell Mutual Holding Corporation Political Action Committee (Guidewell PAC)</contributorName>
+      <payeeName>Friends Of Todd Young, Inc.</payeeName>
+      <recipientName>Sen. Todd Christopher Young</recipientName>
+      <amount>2500</amount>
+      <date>10/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Guidewell Mutual Holding Corporation Political Action Committee (Guidewell PAC)</contributorName>
+      <payeeName>Val Demings For Congress</payeeName>
+      <recipientName>Rep. Valdez B. Demings</recipientName>
+      <amount>2000</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Guidewell Mutual Holding Corporation Political Action Committee (Guidewell PAC)</contributorName>
+      <payeeName>Val Demings For Congress</payeeName>
+      <recipientName>Rep. Valdez B. Demings</recipientName>
+      <amount>3000</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Guidewell Mutual Holding Corporation Political Action Committee (Guidewell PAC)</contributorName>
+      <payeeName>Greg Steube For Congress</payeeName>
+      <recipientName>Rep. W. Gregory Steube</recipientName>
+      <amount>2500</amount>
+      <date>12/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Guidewell Mutual Holding Corporation Political Action Committee (Guidewell PAC)</contributorName>
+      <payeeName>Stephanie Murphy For Congress</payeeName>
+      <recipientName>Rep. Stephanie N. Murphy</recipientName>
+      <amount>1000</amount>
+      <date>12/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Guidewell Mutual Holding Corporation Political Action Committee (Guidewell PAC)</contributorName>
+      <payeeName>Al Lawson For Congress</payeeName>
+      <recipientName>Rep. Alfred J. Lawson, Jr.</recipientName>
+      <amount>2500</amount>
+      <date>12/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Guidewell Mutual Holding Corporation Political Action Committee (Guidewell PAC)</contributorName>
+      <payeeName>Mario Diaz-Balart For Congress</payeeName>
+      <recipientName>Rep. Mario Rafael Diaz-Balart</recipientName>
+      <amount>2500</amount>
+      <date>12/23/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

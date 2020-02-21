@@ -1,0 +1,745 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>Communications Workers of America</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>Shane Larson</contactName>
+  <senateRegID>10217</senateRegID>
+  <houseRegID>30221</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/27/2020 8:47:46 AM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>
+  </noContributions>
+  <pacs>
+    <pac>
+      <name>CWA-COPE PCC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CWA-COPE PCC</contributorName>
+      <payeeName>ADAM SMITH FOR CONGRESS COMMITTEE</payeeName>
+      <recipientName>ADAM SMITH</recipientName>
+      <amount>2000.00</amount>
+      <date>08/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CWA-COPE PCC</contributorName>
+      <payeeName>ESPAILLAT FOR CONGRESS</payeeName>
+      <recipientName>ADRIANO ESPAILLAT</recipientName>
+      <amount>1000.00</amount>
+      <date>10/07/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CWA-COPE PCC</contributorName>
+      <payeeName>Anthony Brown for Congress</payeeName>
+      <recipientName>Anthony Brown</recipientName>
+      <amount>1000.00</amount>
+      <date>09/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CWA-COPE PCC</contributorName>
+      <payeeName>BRINDISI FOR CONGRESS</payeeName>
+      <recipientName>Anthony Brindis</recipientName>
+      <amount>2500.00</amount>
+      <date>09/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CWA-COPE PCC</contributorName>
+      <payeeName>Bonnie Watson Coleman For Congress</payeeName>
+      <recipientName>Bonnie Coleman</recipientName>
+      <amount>1500.00</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CWA-COPE PCC</contributorName>
+      <payeeName>BRIAN HIGGINS FOR CONGRESS</payeeName>
+      <recipientName>Brian Higgins</recipientName>
+      <amount>1000.00</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CWA-COPE PCC</contributorName>
+      <payeeName>Bridget Fleming for Congress</payeeName>
+      <recipientName>Bridget Fleming</recipientName>
+      <amount>500.00</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CWA-COPE PCC</contributorName>
+      <payeeName>Elect Carolyn Long</payeeName>
+      <recipientName>Carolyn Long</recipientName>
+      <amount>4000.00</amount>
+      <date>08/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CWA-COPE PCC</contributorName>
+      <payeeName>MALONEY FOR CONGRESS</payeeName>
+      <recipientName>CAROLYN MALONEY</recipientName>
+      <amount>1000.00</amount>
+      <date>10/07/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CWA-COPE PCC</contributorName>
+      <payeeName>CHARLIE CRIST FOR CONGRESS</payeeName>
+      <recipientName>Charlie Crist</recipientName>
+      <amount>2500.00</amount>
+      <date>08/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CWA-COPE PCC</contributorName>
+      <payeeName>CINDY AXNE FOR CONGRESS</payeeName>
+      <recipientName>CINDY AXNE</recipientName>
+      <amount>2500.00</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CWA-COPE PCC</contributorName>
+      <payeeName>COLIN ALLRED FOR CONGRESS</payeeName>
+      <recipientName>COLIN ALLRED</recipientName>
+      <amount>2500.00</amount>
+      <date>07/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CWA-COPE PCC</contributorName>
+      <payeeName>COLIN ALLRED FOR CONGRESS</payeeName>
+      <recipientName>COLIN ALLRED</recipientName>
+      <amount>-2500.00</amount>
+      <date>09/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CWA-COPE PCC</contributorName>
+      <payeeName>FRIENDS OF DAN KILDEE</payeeName>
+      <recipientName>DANIEL KILDEE</recipientName>
+      <amount>5000.00</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CWA-COPE PCC</contributorName>
+      <payeeName>DARREN SOTO FOR CONGRESS</payeeName>
+      <recipientName>DARREN SOTO</recipientName>
+      <amount>5000.00</amount>
+      <date>07/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CWA-COPE PCC</contributorName>
+      <payeeName>CICILLINE COMMITTEE</payeeName>
+      <recipientName>David Cicilline</recipientName>
+      <amount>2500.00</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CWA-COPE PCC</contributorName>
+      <payeeName>CICILLINE COMMITTEE</payeeName>
+      <recipientName>David Cicilline</recipientName>
+      <amount>5000.00</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CWA-COPE PCC</contributorName>
+      <payeeName>DAVID SCOTT FOR CONGRESS</payeeName>
+      <recipientName>David Scott</recipientName>
+      <amount>2000.00</amount>
+      <date>11/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CWA-COPE PCC</contributorName>
+      <payeeName>PRICE FOR CONGRESS</payeeName>
+      <recipientName>DAVID PRICE</recipientName>
+      <amount>5000.00</amount>
+      <date>09/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CWA-COPE PCC</contributorName>
+      <payeeName>SHARICE FOR CONGRESS</payeeName>
+      <recipientName>Davids Sharice</recipientName>
+      <amount>5000.00</amount>
+      <date>11/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CWA-COPE PCC</contributorName>
+      <payeeName>DEB HAALAND FOR CONGRESS</payeeName>
+      <recipientName>DEB HAALAND</recipientName>
+      <amount>5000.00</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CWA-COPE PCC</contributorName>
+      <payeeName>Denny Heck for Congress</payeeName>
+      <recipientName>Dennis Heck</recipientName>
+      <amount>2000.00</amount>
+      <date>08/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CWA-COPE PCC</contributorName>
+      <payeeName>Friends of Derek Kilmer</payeeName>
+      <recipientName>Derek Kilmer</recipientName>
+      <amount>2000.00</amount>
+      <date>08/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CWA-COPE PCC</contributorName>
+      <payeeName>The Markey Committee</payeeName>
+      <recipientName>EDWARD MARKEY</recipientName>
+      <amount>5000.00</amount>
+      <date>11/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CWA-COPE PCC</contributorName>
+      <payeeName>The Markey Committee</payeeName>
+      <recipientName>EDWARD MARKEY</recipientName>
+      <amount>2500.00</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CWA-COPE PCC</contributorName>
+      <payeeName>ENGEL FOR CONGRESS</payeeName>
+      <recipientName>ELIOT ENGEL</recipientName>
+      <amount>1000.00</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CWA-COPE PCC</contributorName>
+      <payeeName>ENGEL FOR CONGRESS</payeeName>
+      <recipientName>ELIOT ENGEL</recipientName>
+      <amount>2500.00</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CWA-COPE PCC</contributorName>
+      <payeeName>SWALWELL FOR CONGRESS</payeeName>
+      <recipientName>ERIC SWALWELL</recipientName>
+      <amount>2500.00</amount>
+      <date>11/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CWA-COPE PCC</contributorName>
+      <payeeName>Esmeralda Soria for Congress 2020</payeeName>
+      <recipientName>Esmeralda Soria</recipientName>
+      <amount>3000.00</amount>
+      <date>11/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CWA-COPE PCC</contributorName>
+      <payeeName>PALLONE FOR CONGRESS</payeeName>
+      <recipientName>FRANK PALLONE</recipientName>
+      <amount>1000.00</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CWA-COPE PCC</contributorName>
+      <payeeName>GINA ORTIZ JONES FOR CONGRESS</payeeName>
+      <recipientName>Gina Ortiz Jones</recipientName>
+      <amount>1500.00</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CWA-COPE PCC</contributorName>
+      <payeeName>GRACE FOR NEW YORK</payeeName>
+      <recipientName>GRACE MENG</recipientName>
+      <amount>1000.00</amount>
+      <date>11/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CWA-COPE PCC</contributorName>
+      <payeeName>NAPOLITANO FOR CONGRESS</payeeName>
+      <recipientName>GRACE NAPOLITANO</recipientName>
+      <amount>1500.00</amount>
+      <date>07/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CWA-COPE PCC</contributorName>
+      <payeeName>Stanton for Congress</payeeName>
+      <recipientName>Greg Stanton</recipientName>
+      <amount>1000.00</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CWA-COPE PCC</contributorName>
+      <payeeName>MOORE FOR CONGRESS</payeeName>
+      <recipientName>Gwendolynne Moore</recipientName>
+      <amount>5000.00</amount>
+      <date>10/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CWA-COPE PCC</contributorName>
+      <payeeName>HIRAL FOR CONGRESS</payeeName>
+      <recipientName>Hiral Tipirneni</recipientName>
+      <amount>5000.00</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CWA-COPE PCC</contributorName>
+      <payeeName>ROSEN FOR NEVADA</payeeName>
+      <recipientName>Jacky Rosen</recipientName>
+      <amount>5000.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CWA-COPE PCC</contributorName>
+      <payeeName>FRIENDS OF JAHANA HAYES</payeeName>
+      <recipientName>JAHANA HAYES</recipientName>
+      <amount>1000.00</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CWA-COPE PCC</contributorName>
+      <payeeName>JAMES MACKLER FOR US SENATE</payeeName>
+      <recipientName>JAMES MACKLER</recipientName>
+      <amount>4000.00</amount>
+      <date>09/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CWA-COPE PCC</contributorName>
+      <payeeName>LANGEVIN FOR CONGRESS</payeeName>
+      <recipientName>JAMES LANGEVIN</recipientName>
+      <amount>750.00</amount>
+      <date>09/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CWA-COPE PCC</contributorName>
+      <payeeName>JAMIE RASKIN FOR CONGRESS</payeeName>
+      <recipientName>JAMIE RASKIN</recipientName>
+      <amount>500.00</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CWA-COPE PCC</contributorName>
+      <payeeName>SCHAKOWSKY FOR CONGRESS</payeeName>
+      <recipientName>JANICE SCHAKOWSKY</recipientName>
+      <amount>5000.00</amount>
+      <date>11/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CWA-COPE PCC</contributorName>
+      <payeeName>SCHAKOWSKY FOR CONGRESS</payeeName>
+      <recipientName>JANICE SCHAKOWSKY</recipientName>
+      <amount>3000.00</amount>
+      <date>10/08/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CWA-COPE PCC</contributorName>
+      <payeeName>NADLER FOR CONGRESS INC</payeeName>
+      <recipientName>JERROLD NADLER</recipientName>
+      <amount>5000.00</amount>
+      <date>10/07/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CWA-COPE PCC</contributorName>
+      <payeeName>Jessica Cisneros for Congress</payeeName>
+      <recipientName>Jessica Cisneros</recipientName>
+      <amount>2500.00</amount>
+      <date>10/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CWA-COPE PCC</contributorName>
+      <payeeName>CHUY GARCIA FOR CONGRESS</payeeName>
+      <recipientName>JESUS GARCIA</recipientName>
+      <amount>5000.00</amount>
+      <date>11/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CWA-COPE PCC</contributorName>
+      <payeeName>YARMUTH FOR CONGRESS</payeeName>
+      <recipientName>John Yarmuth</recipientName>
+      <amount>2500.00</amount>
+      <date>11/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CWA-COPE PCC</contributorName>
+      <payeeName>Courtney For Congress</payeeName>
+      <recipientName>Joseph Courtney</recipientName>
+      <amount>1500.00</amount>
+      <date>07/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CWA-COPE PCC</contributorName>
+      <payeeName>Joe Morelle for Congress</payeeName>
+      <recipientName>Joseph Morelle</recipientName>
+      <amount>1000.00</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CWA-COPE PCC</contributorName>
+      <payeeName>KAHELE FOR CONGRESS</payeeName>
+      <recipientName>KAIALI'I KAHELE</recipientName>
+      <amount>5000.00</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CWA-COPE PCC</contributorName>
+      <payeeName>Dr. Kim Schrier for Congress</payeeName>
+      <recipientName>Kim Schrier</recipientName>
+      <amount>2000.00</amount>
+      <date>08/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CWA-COPE PCC</contributorName>
+      <payeeName>DOGGETT FOR CONGRESS</payeeName>
+      <recipientName>LLOYD DOGGETT</recipientName>
+      <amount>500.00</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CWA-COPE PCC</contributorName>
+      <payeeName>DOGGETT FOR CONGRESS</payeeName>
+      <recipientName>LLOYD DOGGETT</recipientName>
+      <amount>2000.00</amount>
+      <date>09/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CWA-COPE PCC</contributorName>
+      <payeeName>DOGGETT FOR CONGRESS</payeeName>
+      <recipientName>LLOYD DOGGETT</recipientName>
+      <amount>2000.00</amount>
+      <date>09/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CWA-COPE PCC</contributorName>
+      <payeeName>MARK DESAULNIER FOR CONGRESS</payeeName>
+      <recipientName>MARK DESAULNIER</recipientName>
+      <amount>2500.00</amount>
+      <date>09/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CWA-COPE PCC</contributorName>
+      <payeeName>MARK TAKANO FOR CONGRESS</payeeName>
+      <recipientName>Mark Takano</recipientName>
+      <amount>1000.00</amount>
+      <date>11/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CWA-COPE PCC</contributorName>
+      <payeeName>MAX ROSE FOR CONGRESS</payeeName>
+      <recipientName>Max Rose</recipientName>
+      <amount>1000.00</amount>
+      <date>11/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CWA-COPE PCC</contributorName>
+      <payeeName>MAX ROSE FOR CONGRESS</payeeName>
+      <recipientName>Max Rose</recipientName>
+      <amount>1500.00</amount>
+      <date>08/01/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CWA-COPE PCC</contributorName>
+      <payeeName>MIKE SIEGEL FOR CONGRESS</payeeName>
+      <recipientName>Michael Siegel</recipientName>
+      <amount>1000.00</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CWA-COPE PCC</contributorName>
+      <payeeName>DOYLE FOR CONGRESS COMMITTEE</payeeName>
+      <recipientName>MIKE DOYLE</recipientName>
+      <amount>5000.00</amount>
+      <date>09/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CWA-COPE PCC</contributorName>
+      <payeeName>COMMITTEE TO RE-ELECT NYDIA M. VELAZQUEZ TO CONGRESS</payeeName>
+      <recipientName>Nydia Velazquez</recipientName>
+      <amount>1500.00</amount>
+      <date>10/07/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CWA-COPE PCC</contributorName>
+      <payeeName>PETE STAUBER FOR CONGRESS</payeeName>
+      <recipientName>PETE STAUBER</recipientName>
+      <amount>1000.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CWA-COPE PCC</contributorName>
+      <payeeName>DEFAZIO FOR CONGRESS</payeeName>
+      <recipientName>PETER DEFAZIO</recipientName>
+      <amount>4000.00</amount>
+      <date>10/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CWA-COPE PCC</contributorName>
+      <payeeName>DEFAZIO FOR CONGRESS</payeeName>
+      <recipientName>PETER DEFAZIO</recipientName>
+      <amount>1000.00</amount>
+      <date>07/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CWA-COPE PCC</contributorName>
+      <payeeName>PRAMILA FOR CONGRESS</payeeName>
+      <recipientName>PRAMILA JAYAPAL</recipientName>
+      <amount>500.00</amount>
+      <date>11/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CWA-COPE PCC</contributorName>
+      <payeeName>CITIZENS TO ELECT RICK LARSEN</payeeName>
+      <recipientName>RICHARD LARSEN</recipientName>
+      <amount>2000.00</amount>
+      <date>09/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CWA-COPE PCC</contributorName>
+      <payeeName>CITIZENS TO ELECT RICK LARSEN</payeeName>
+      <recipientName>RICHARD LARSEN</recipientName>
+      <amount>2500.00</amount>
+      <date>08/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CWA-COPE PCC</contributorName>
+      <payeeName>Torres for Congress</payeeName>
+      <recipientName>Richie Torres</recipientName>
+      <amount>5000.00</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CWA-COPE PCC</contributorName>
+      <payeeName>FRIENDS OF ROSA DELAURO</payeeName>
+      <recipientName>ROSA DELAURO</recipientName>
+      <amount>1000.00</amount>
+      <date>10/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CWA-COPE PCC</contributorName>
+      <payeeName>LEVIN FOR CONGRESS</payeeName>
+      <recipientName>SANDER LEVIN</recipientName>
+      <amount>5000.00</amount>
+      <date>12/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CWA-COPE PCC</contributorName>
+      <payeeName>LEVIN FOR CONGRESS</payeeName>
+      <recipientName>SANDER LEVIN</recipientName>
+      <amount>-5000.00</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CWA-COPE PCC</contributorName>
+      <payeeName>KULKARNI FOR CONGRESS</payeeName>
+      <recipientName>SRI PRESTON KULKARNI</recipientName>
+      <amount>-1500.00</amount>
+      <date>09/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CWA-COPE PCC</contributorName>
+      <payeeName>STEVE COHEN FOR CONGRESS</payeeName>
+      <recipientName>Steve Cohen</recipientName>
+      <amount>2500.00</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CWA-COPE PCC</contributorName>
+      <payeeName>DelBene for Congress</payeeName>
+      <recipientName>Suzan DelBene</recipientName>
+      <amount>2000.00</amount>
+      <date>08/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CWA-COPE PCC</contributorName>
+      <payeeName>VICENTE GONZALEZ FOR CONGRESS</payeeName>
+      <recipientName>VICENTE GONZALEZ</recipientName>
+      <amount>2500.00</amount>
+      <date>08/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CWA-COPE PCC</contributorName>
+      <payeeName>Vikki Goodwin Campaign</payeeName>
+      <recipientName>Vickie Goodwin</recipientName>
+      <amount>1000.00</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CWA-COPE PCC</contributorName>
+      <payeeName>BILL KEATING COMMITTEE; THE</payeeName>
+      <recipientName>William Keating</recipientName>
+      <amount>1000.00</amount>
+      <date>11/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CWA-COPE PCC</contributorName>
+      <payeeName>PASCRELL FOR CONGRESS INC</payeeName>
+      <recipientName>WILLIAM PASCRELL</recipientName>
+      <amount>1000.00</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CWA-COPE PCC</contributorName>
+      <payeeName>CLARKE FOR CONGRESS</payeeName>
+      <recipientName>Yvette Clarke</recipientName>
+      <amount>1000.00</amount>
+      <date>09/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CWA-COPE PCC</contributorName>
+      <payeeName>BLUE MAJORITY PAC</payeeName>
+      <recipientName>BLUE MAJORITY PAC</recipientName>
+      <amount>5000.00</amount>
+      <date>12/02/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CWA-COPE PCC</contributorName>
+      <payeeName>Build Our Movement PAC</payeeName>
+      <recipientName>Build Our Movement PAC</recipientName>
+      <amount>5000.00</amount>
+      <date>12/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CWA-COPE PCC</contributorName>
+      <payeeName>CT WORKING FAMILIES FEDERAL PAC</payeeName>
+      <recipientName>CT WORKING FAMILIES FEDERAL PAC</recipientName>
+      <amount>5000.00</amount>
+      <date>08/01/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CWA-COPE PCC</contributorName>
+      <payeeName>DNC PAC</payeeName>
+      <recipientName>DNC PAC</recipientName>
+      <amount>5000.00</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CWA-COPE PCC</contributorName>
+      <payeeName>DNC SERVICES CORPORATION/DEMOCRATIC NATIONAL COMMI</payeeName>
+      <recipientName>DNC SERVICES CORPORATION/DEMOCRATIC NATIONAL COMMI</recipientName>
+      <amount>50000.00</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CWA-COPE PCC</contributorName>
+      <payeeName>Nutmeg PAC</payeeName>
+      <recipientName>Nutmeg PAC</recipientName>
+      <amount>1000.00</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CWA-COPE PCC</contributorName>
+      <payeeName>People's Voice PAC</payeeName>
+      <recipientName>People's Voice PAC</recipientName>
+      <amount>5000.00</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CWA-COPE PCC</contributorName>
+      <payeeName>Progressive Choices PAC</payeeName>
+      <recipientName>Progressive Choices PAC</recipientName>
+      <amount>5000.00</amount>
+      <date>08/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CWA-COPE PCC</contributorName>
+      <payeeName>SUNSHINE ORGANIZATION FOR TREMENDOUS OPPORTUNITIES (SOTO PAC)</payeeName>
+      <recipientName>SUNSHINE ORGANIZATION FOR TREMENDOUS OPPORTUNITIES (SOTO PAC)</recipientName>
+      <amount>5000.00</amount>
+      <date>12/19/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

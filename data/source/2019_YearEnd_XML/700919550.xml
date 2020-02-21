@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>Velocity Government Relations, LLC</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>Erin Neal</contactName>
+  <senateRegID>401104749</senateRegID>
+  <houseRegID>43919</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/23/2020 11:30:12 AM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>People for Derek Kilmer</payeeName>
+      <recipientName>Cong. Derek Kilmer (D-WA)</recipientName>
+      <amount>500.00</amount>
+      <date>7/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Dutch Ruppersberger for Congress</payeeName>
+      <recipientName>Cong. Dutch Ruppersberger (D-MD)</recipientName>
+      <amount>500.00</amount>
+      <date>7/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Xochitl for New Mexico</payeeName>
+      <recipientName>Cong. Xochitl Liana Torres Small (D-NM)</recipientName>
+      <amount>500.00</amount>
+      <date>7/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Spanberger for Congress</payeeName>
+      <recipientName>Cong. Abigail Spanberger (D-VA)</recipientName>
+      <amount>500.00</amount>
+      <date>10/2/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Charlie Crist for Congress</payeeName>
+      <recipientName>Cong. Charlie Crist (D-FL)</recipientName>
+      <amount>500.00</amount>
+      <date>10/2/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Kirkpatrick for Congress</payeeName>
+      <recipientName>Cong. Anne Kirkpatrick (D-AZ)</recipientName>
+      <amount>500.00</amount>
+      <date>10/2/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Visclosky for Congress</payeeName>
+      <recipientName>Cong. Pete Visclosky (D-IN)</recipientName>
+      <amount>500.00</amount>
+      <date>10/2/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Peters for Michigan</payeeName>
+      <recipientName>Sen. Gary Peters (D-MI)</recipientName>
+      <amount>500.00</amount>
+      <date>10/2/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Adam Smith for Congress</payeeName>
+      <recipientName>Cong. Adam Smith (D-WA)</recipientName>
+      <amount>500.00</amount>
+      <date>10/2/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Nita Lowey for Congress</payeeName>
+      <recipientName>Cong. Nita Lowey (D-NY)</recipientName>
+      <amount>500.00</amount>
+      <date>10/2/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Kirkpatrick for Congress</payeeName>
+      <recipientName>Cong. Anne Kirkpatrick (D-AZ)</recipientName>
+      <amount>500.00</amount>
+      <date>10/2/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Scott Peters for Congress</payeeName>
+      <recipientName>Cong. Scott Peters (D-CA)</recipientName>
+      <amount>500.00</amount>
+      <date>10/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Collin Allred for Congress</payeeName>
+      <recipientName>Cong. Collin Allred (D-TX)</recipientName>
+      <amount>500.00</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Kendra Horn for Congress</payeeName>
+      <recipientName>Cong. Kendra Horn (D-OK)</recipientName>
+      <amount>1000.00</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Haley Stevens for Congress</payeeName>
+      <recipientName>Cong. Haley Stevens (D-MI)</recipientName>
+      <amount>119.00</amount>
+      <date>10/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Lizzie Fletcher</payeeName>
+      <recipientName>Cong. Lizzie Fletcher (D-TX)</recipientName>
+      <amount>119.00</amount>
+      <date>10/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Lauren Underwood for Congress</payeeName>
+      <recipientName>Cong. Lauren Underwood (D-IL)</recipientName>
+      <amount>119.00</amount>
+      <date>10/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Lucy McBath for Congress</payeeName>
+      <recipientName>Cong. Lucy McBath (D-GA)</recipientName>
+      <amount>119.00</amount>
+      <date>10/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Lucy McBath for Congress</payeeName>
+      <recipientName>Cong. Lucy McBath (D-GA)</recipientName>
+      <amount>119.00</amount>
+      <date>7/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Angie Craig for Congress</payeeName>
+      <recipientName>Cong. Angie Craig (D-MN)</recipientName>
+      <amount>119.00</amount>
+      <date>7/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Cindy Axne for Congress</payeeName>
+      <recipientName>Cong. Cindy Axne (D-IA)</recipientName>
+      <amount>119.00</amount>
+      <date>7/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Kim Schrier for Congress</payeeName>
+      <recipientName>Cong. Kim Schrier (D-WA)</recipientName>
+      <amount>119.00</amount>
+      <date>9/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Sharice Davids</payeeName>
+      <recipientName>Cong. Sharice Davids (D-KS)</recipientName>
+      <amount>119.00</amount>
+      <date>9/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Jahana Hayes for Congress</payeeName>
+      <recipientName>Cong. Jahana Hayes (D-CT)</recipientName>
+      <amount>119.00</amount>
+      <date>9/18/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

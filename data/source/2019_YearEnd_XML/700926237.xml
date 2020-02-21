@@ -1,0 +1,1816 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>Verizon Communications Inc. and Various Subsidiaries</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>Robert S. Fisher</contactName>
+  <senateRegID>5836</senateRegID>
+  <houseRegID>31572</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/30/2020 5:40:57 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>The Bill Keating Committee</payeeName>
+      <recipientName>Rep. William Richard Keating</recipientName>
+      <amount>1000</amount>
+      <date>7/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Stand With Sanchez</payeeName>
+      <recipientName>Rep. Linda T. Sanchez</recipientName>
+      <amount>2500</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>McHenry For Congress</payeeName>
+      <recipientName>Rep. Patrick Timothy McHenry</recipientName>
+      <amount>5000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Guthrie For Congress</payeeName>
+      <recipientName>Rep. S. Brett Guthrie</recipientName>
+      <amount>1500</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Blue Hen Federal PAC</payeeName>
+      <recipientName>Sen. Christopher Andrew Coons</recipientName>
+      <amount>2000</amount>
+      <date>7/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Robert Aderholt For Congress</payeeName>
+      <recipientName>Rep. Robert Brown Aderholt</recipientName>
+      <amount>2000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Cathy McMorris Rodgers For Congress</payeeName>
+      <recipientName>Rep. Cathy McMorris Rodgers</recipientName>
+      <amount>2500</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Hoeven For Senate</payeeName>
+      <recipientName>Sen. John Henry Hoeven, III</recipientName>
+      <amount>2000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Van Taylor Campaign</payeeName>
+      <recipientName>Rep. Vancampen Taylor</recipientName>
+      <amount>1000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Hudson For Congress</payeeName>
+      <recipientName>Rep. Richard Lane Hudson, Jr.</recipientName>
+      <amount>500</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Vargas For Congress</payeeName>
+      <recipientName>Rep. Juan Carlos Vargas</recipientName>
+      <amount>1000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Bucshon For Congress</payeeName>
+      <recipientName>Rep. Larry Dean Bucshon</recipientName>
+      <amount>2000</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Garret Graves For Congress</payeeName>
+      <recipientName>Rep. Garret Neal Graves</recipientName>
+      <amount>1000</amount>
+      <date>7/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Mike Kelly For Congress</payeeName>
+      <recipientName>Rep. G. Mike J. Kelly</recipientName>
+      <amount>2000</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Brian Fitzpatrick For Congress</payeeName>
+      <recipientName>Rep. Brian K. Fitzpatrick</recipientName>
+      <amount>1000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Schneider For Congress</payeeName>
+      <recipientName>Rep. Bradley Scott Schneider</recipientName>
+      <amount>1000</amount>
+      <date>7/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Moran For Kansas</payeeName>
+      <recipientName>Sen. Jerry W. Moran</recipientName>
+      <amount>3000</amount>
+      <date>7/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Leahy For U.S. Senator Committee</payeeName>
+      <recipientName>Sen. Patrick Joseph Leahy</recipientName>
+      <amount>2000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Schiff For Congress</payeeName>
+      <recipientName>Rep. Adam Bennett Schiff</recipientName>
+      <amount>1000</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Mark Takano For Congress</payeeName>
+      <recipientName>Rep. Mark Allan Takano</recipientName>
+      <amount>1000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Lois Frankel For Congress</payeeName>
+      <recipientName>Rep. Lois Jane Frankel</recipientName>
+      <amount>1000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Schneider For Congress</payeeName>
+      <recipientName>Rep. Bradley Scott Schneider</recipientName>
+      <amount>1000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Bilirakis For Congress</payeeName>
+      <recipientName>Rep. Gus Michael Bilirakis</recipientName>
+      <amount>2000</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Stephanie Murphy For Congress</payeeName>
+      <recipientName>Rep. Stephanie N. Murphy</recipientName>
+      <amount>261</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Bera For Congress</payeeName>
+      <recipientName>Rep. Amerish B. Bera</recipientName>
+      <amount>1000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Texans For Jodey Arrington</payeeName>
+      <recipientName>Rep. Jodey Cook Arrington</recipientName>
+      <amount>1000</amount>
+      <date>7/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Kuster For Congress, Inc</payeeName>
+      <recipientName>Rep. Ann McLane Kuster</recipientName>
+      <amount>500</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Sean Patrick Maloney For Congress</payeeName>
+      <recipientName>Rep. Sean Patrick Maloney</recipientName>
+      <amount>2000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Anna Eshoo For Congress</payeeName>
+      <recipientName>Rep. Anna G. Eshoo</recipientName>
+      <amount>2000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>The Madison PAC</payeeName>
+      <recipientName>Rep. Richard Edmund Neal</recipientName>
+      <amount>5000</amount>
+      <date>7/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Debbie Dingell For Congress</payeeName>
+      <recipientName>Rep. Deborah Ann Dingell</recipientName>
+      <amount>2000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Angie Craig For Congress</payeeName>
+      <recipientName>Rep. Angela Dawn Craig</recipientName>
+      <amount>1000</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Ben Cline For Congress, Inc.</payeeName>
+      <recipientName>Rep. Benjamin L. Cline</recipientName>
+      <amount>2500</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Karen Bass For Congress</payeeName>
+      <recipientName>Rep. Karen Ruth Bass</recipientName>
+      <amount>3000</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Brenda Lawrence For Congress</payeeName>
+      <recipientName>Rep. Brenda L. Lawrence</recipientName>
+      <amount>1000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Julia Brownley For Congress</payeeName>
+      <recipientName>Rep. Julia Brownley</recipientName>
+      <amount>1000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Kay Granger Campaign Fund</payeeName>
+      <recipientName>Rep. Kay Granger</recipientName>
+      <amount>3000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Beatty For Congress</payeeName>
+      <recipientName>Rep. Joyce Beatty</recipientName>
+      <amount>1000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Friends Of Mike Lee Inc</payeeName>
+      <recipientName>Sen. Michael Shumway Lee</recipientName>
+      <amount>500</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Mullin For Congress</payeeName>
+      <recipientName>Rep. Markwayne Mullin</recipientName>
+      <amount>3000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>LaHood for Congress</payeeName>
+      <recipientName>Rep. Darin M. LaHood</recipientName>
+      <amount>1000</amount>
+      <date>7/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Texans For Henry Cuellar Congressional Campaign</payeeName>
+      <recipientName>Rep. Henry Roberto Cuellar</recipientName>
+      <amount>2000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Engel For Congress</payeeName>
+      <recipientName>Rep. Eliot Lance Engel</recipientName>
+      <amount>2000</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Cleaver For Congress</payeeName>
+      <recipientName>Rep. Emanuel Cleaver, II</recipientName>
+      <amount>1000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Carper For Senate</payeeName>
+      <recipientName>Sen. Thomas Richard Carper</recipientName>
+      <amount>1000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Tom Rice For Congress</payeeName>
+      <recipientName>Rep. Tom Rice</recipientName>
+      <amount>1500</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Don Bacon For Congress</payeeName>
+      <recipientName>Rep. Donald John Bacon</recipientName>
+      <amount>1000</amount>
+      <date>7/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>LaHood for Congress</payeeName>
+      <recipientName>Rep. Darin M. LaHood</recipientName>
+      <amount>1000</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Walorski For Congress Inc</payeeName>
+      <recipientName>Rep. Jacqueline Walorski</recipientName>
+      <amount>2000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Friends Of Mazie Hirono</payeeName>
+      <recipientName>Sen. Mazie Keiko Hirono</recipientName>
+      <amount>1000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Lou Correa For Congress</payeeName>
+      <recipientName>Rep. J. Luis Correa</recipientName>
+      <amount>1000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>NRSC (Building Fund)</payeeName>
+      <recipientName>NRSC (Building Fund)</recipientName>
+      <amount>15000</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>IMPACT</payeeName>
+      <recipientName>Sen. Charles E. Schumer</recipientName>
+      <amount>2000</amount>
+      <date>7/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Robin Kelly For Congress</payeeName>
+      <recipientName>Rep. Robin Lynne Kelly</recipientName>
+      <amount>1000</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Jeffries For Congress</payeeName>
+      <recipientName>Rep. Hakeem S. Jeffries</recipientName>
+      <amount>4000</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Val Demings For Congress</payeeName>
+      <recipientName>Rep. Valdez B. Demings</recipientName>
+      <amount>1000</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Stanton For Congress</payeeName>
+      <recipientName>Rep. Greg Stanton</recipientName>
+      <amount>2000</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Kuster For Congress, Inc</payeeName>
+      <recipientName>Rep. Ann McLane Kuster</recipientName>
+      <amount>1500</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Debbie Wasserman Schultz For Congress</payeeName>
+      <recipientName>Rep. Debbie Wasserman Schultz</recipientName>
+      <amount>1000</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Getting Stuff Done PAC (GSD-PAC)</payeeName>
+      <recipientName>Sen. Kyrsten Sinema</recipientName>
+      <amount>4000</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Casten For Congress</payeeName>
+      <recipientName>Rep. Sean Casten</recipientName>
+      <amount>1000</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>A Whole Lot Of People For Grijalva Congressional Committee</payeeName>
+      <recipientName>Rep. Raul Manuel Grijalva</recipientName>
+      <amount>1000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Chris Coons For Delaware</payeeName>
+      <recipientName>Sen. Christopher Andrew Coons</recipientName>
+      <amount>500</amount>
+      <date>7/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Cohen For Congress</payeeName>
+      <recipientName>Rep. Stephen I. Cohen</recipientName>
+      <amount>1000</amount>
+      <date>7/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Ted Lieu For Congress</payeeName>
+      <recipientName>Rep. Ted W. Lieu</recipientName>
+      <amount>1000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Leadership And Accountability Are National Keys PAC</payeeName>
+      <recipientName>Sen. James Paul Lankford</recipientName>
+      <amount>1000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Citizens For Boyle</payeeName>
+      <recipientName>Rep. Brendan Francis Boyle</recipientName>
+      <amount>1000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Deb Haaland For Congress</payeeName>
+      <recipientName>Rep. Debra A. Haaland</recipientName>
+      <amount>1000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Friends Of Mark Warner</payeeName>
+      <recipientName>Sen. Mark Robert Warner</recipientName>
+      <amount>2500</amount>
+      <date>7/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Amodei For Nevada</payeeName>
+      <recipientName>Rep. Mark Eugene Amodei</recipientName>
+      <amount>1000</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>CHERPAC</payeeName>
+      <recipientName>Rep. Cheryl L. Bustos</recipientName>
+      <amount>2500</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Portman For Senate Committee</payeeName>
+      <recipientName>Sen. Rob J. Portman</recipientName>
+      <amount>2000</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Friends Of Cheri Bustos</payeeName>
+      <recipientName>Rep. Cheryl L. Bustos</recipientName>
+      <amount>1000</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Committee To Re-Elect Henry Hank Johnson</payeeName>
+      <recipientName>Rep. Henry C. Johnson, Jr.</recipientName>
+      <amount>1000</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Dan Newhouse For Congress</payeeName>
+      <recipientName>Rep. Daniel Milton Newhouse</recipientName>
+      <amount>1000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Latta For Congress</payeeName>
+      <recipientName>Rep. Robert E. Latta</recipientName>
+      <amount>1500</amount>
+      <date>7/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Dwight Evans For Congress</payeeName>
+      <recipientName>Rep. Dwight Evans</recipientName>
+      <amount>1000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Wenstrup For Congress</payeeName>
+      <recipientName>Rep. Brad R. Wenstrup</recipientName>
+      <amount>1000</amount>
+      <date>7/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Jim Banks For Congress, Inc.</payeeName>
+      <recipientName>Rep. James E. Banks</recipientName>
+      <amount>1000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Hoeven For Senate</payeeName>
+      <recipientName>Sen. John Henry Hoeven, III</recipientName>
+      <amount>3000</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Sharice For Congress</payeeName>
+      <recipientName>Rep. Sharice Davids</recipientName>
+      <amount>1000</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Jason Smith For Congress</payeeName>
+      <recipientName>Rep. Jason Thomas Smith</recipientName>
+      <amount>1000</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Friends Of Roy Blunt</payeeName>
+      <recipientName>Sen. Roy Dean Blunt</recipientName>
+      <amount>1500</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Richard E Neal For Congress Committee</payeeName>
+      <recipientName>Rep. Richard Edmund Neal</recipientName>
+      <amount>2500</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Michael Burgess For Congress</payeeName>
+      <recipientName>Rep. Michael Clifton Burgess</recipientName>
+      <amount>1000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>The Hawkeye PAC</payeeName>
+      <recipientName>Sen. Charles E. Grassley</recipientName>
+      <amount>5000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Citizens For John Rutherford</payeeName>
+      <recipientName>Rep. John H. Rutherford</recipientName>
+      <amount>1000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Salud Carbajal For Congress</payeeName>
+      <recipientName>Rep. Salud O. Carbajal</recipientName>
+      <amount>1000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>McSally For Senate Inc</payeeName>
+      <recipientName>Sen. Martha Elizabeth McSally</recipientName>
+      <amount>5000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Friends Of Jim Clyburn</payeeName>
+      <recipientName>Rep. James E. Clyburn</recipientName>
+      <amount>2000</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Davis For Congress/Friends Of Davis</payeeName>
+      <recipientName>Rep. Danny K. Davis</recipientName>
+      <amount>1000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Van Hollen For Senate</payeeName>
+      <recipientName>Sen. Christopher Van Hollen</recipientName>
+      <amount>2000</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Gallego For Arizona</payeeName>
+      <recipientName>Rep. Ruben M. Gallego</recipientName>
+      <amount>1000</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Schakowsky For Congress</payeeName>
+      <recipientName>Rep. Janice D. Schakowsky</recipientName>
+      <amount>1000</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Larson For Congress</payeeName>
+      <recipientName>Rep. John Barry Larson</recipientName>
+      <amount>1000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Making America Prosperous PAC</payeeName>
+      <recipientName>Rep. Kevin Patrick Brady</recipientName>
+      <amount>5000</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Anthony Brown For Congress</payeeName>
+      <recipientName>Rep. Anthony Gregory Brown</recipientName>
+      <amount>1000</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Upton For All Of Us</payeeName>
+      <recipientName>Rep. Frederick Stephen Upton</recipientName>
+      <amount>1000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Veronica Escobar For Congress</payeeName>
+      <recipientName>Rep. Veronica Escobar</recipientName>
+      <amount>1000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Graves For Congress</payeeName>
+      <recipientName>Rep. Tom Graves</recipientName>
+      <amount>3500</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Kinzinger For Congress</payeeName>
+      <recipientName>Rep. Adam Daniel Kinzinger</recipientName>
+      <amount>2000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>DNC Services Corporation/Democratic National Committee</payeeName>
+      <recipientName>DNC Services Corporation/Democratic National Committee</recipientName>
+      <amount>15000</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Sinema For Arizona</payeeName>
+      <recipientName>Sen. Kyrsten Sinema</recipientName>
+      <amount>1000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Walberg For Congress</payeeName>
+      <recipientName>Rep. Timothy L. Walberg</recipientName>
+      <amount>1000</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Latta For Congress</payeeName>
+      <recipientName>Rep. Robert E. Latta</recipientName>
+      <amount>2500</amount>
+      <date>7/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Jason Smith For Congress</payeeName>
+      <recipientName>Rep. Jason Thomas Smith</recipientName>
+      <amount>1000</amount>
+      <date>7/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Cartwright For Congress</payeeName>
+      <recipientName>Rep. Matthew A. Cartwright</recipientName>
+      <amount>2000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Hastings For Congress</payeeName>
+      <recipientName>Rep. Alcee Lamar Hastings</recipientName>
+      <amount>3000</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Alma Adams For Congress</payeeName>
+      <recipientName>Rep. Alma Shealey Adams</recipientName>
+      <amount>1000</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Susie Lee For Congress</payeeName>
+      <recipientName>Rep. Susie Lee</recipientName>
+      <amount>1000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Catherine Cortez Masto For Senate</payeeName>
+      <recipientName>Sen. Catherine Cortez Masto</recipientName>
+      <amount>2000</amount>
+      <date>7/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Mad 4 Pa PAC</payeeName>
+      <recipientName>Rep. Madeleine Dean</recipientName>
+      <amount>1000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Tammy For Illinois</payeeName>
+      <recipientName>Sen. L. Tammy Duckworth</recipientName>
+      <amount>2000</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Citizens For Prosperity In America Today PAC</payeeName>
+      <recipientName>Sen. Patrick Joseph Toomey</recipientName>
+      <amount>1000</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Billy Long For Congress</payeeName>
+      <recipientName>Rep. William H. Long, II</recipientName>
+      <amount>4000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Scott For Congress</payeeName>
+      <recipientName>Rep. Robert Cortez Scott</recipientName>
+      <amount>1000</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Friends Of Dan Kildee</payeeName>
+      <recipientName>Rep. Daniel Timothy Kildee</recipientName>
+      <amount>1000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Bilirakis For Congress</payeeName>
+      <recipientName>Rep. Gus Michael Bilirakis</recipientName>
+      <amount>1000</amount>
+      <date>7/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Ted Deutch For Congress Committee</payeeName>
+      <recipientName>Rep. Theodore Eliot Deutch</recipientName>
+      <amount>1000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Dr. Raul Ruiz For Congress</payeeName>
+      <recipientName>Rep. Raul Ruiz</recipientName>
+      <amount>2000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Wenstrup For Congress</payeeName>
+      <recipientName>Rep. Brad R. Wenstrup</recipientName>
+      <amount>1000</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Jimmy Panetta For Congress</payeeName>
+      <recipientName>Rep. James V. Panetta</recipientName>
+      <amount>1000</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Pete Stauber For Congress</payeeName>
+      <recipientName>Rep. Pete Stauber</recipientName>
+      <amount>1000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Robert Aderholt For Congress</payeeName>
+      <recipientName>Rep. Robert Brown Aderholt</recipientName>
+      <amount>1500</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Pete Aguilar For Congress</payeeName>
+      <recipientName>Rep. Peter Ray Aguilar</recipientName>
+      <amount>1000</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>The Eye Of The Tiger Political Action Committee</payeeName>
+      <recipientName>Rep. Stephen Joseph Scalise</recipientName>
+      <amount>5000</amount>
+      <date>7/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>DelBene for Congress</payeeName>
+      <recipientName>Rep. Suzan Kay DelBene</recipientName>
+      <amount>2000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Case For Congress</payeeName>
+      <recipientName>Rep. Ed Case</recipientName>
+      <amount>1000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Grace For New York</payeeName>
+      <recipientName>Rep. Grace Meng</recipientName>
+      <amount>1000</amount>
+      <date>7/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Citizens For Rush</payeeName>
+      <recipientName>Rep. Bobby Lee Rush</recipientName>
+      <amount>2000</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Ben Sasse For U.S. Senate, Inc.</payeeName>
+      <recipientName>Sen. Benjamin Eric Sasse</recipientName>
+      <amount>1000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Friends Of Dusty Johnson</payeeName>
+      <recipientName>Rep. Dusty Johnson</recipientName>
+      <amount>1000</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Garamendi For Congress</payeeName>
+      <recipientName>Rep. John Raymond Garamendi</recipientName>
+      <amount>1000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Lance Gooden For Congress Committee</payeeName>
+      <recipientName>Rep. Lance Gooden</recipientName>
+      <amount>1000</amount>
+      <date>7/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Hoops PAC</payeeName>
+      <recipientName>Sen. Ron L. Wyden</recipientName>
+      <amount>5000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Friends Of Neal Dunn</payeeName>
+      <recipientName>Rep. Neal Patrick Dunn</recipientName>
+      <amount>1000</amount>
+      <date>7/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Elise For Congress</payeeName>
+      <recipientName>Rep. Elise M. Stefanik</recipientName>
+      <amount>1000</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>LaHood for Congress</payeeName>
+      <recipientName>Rep. Darin M. LaHood</recipientName>
+      <amount>1000</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Team Graham, Inc.</payeeName>
+      <recipientName>Sen. Lindsey Olin Graham</recipientName>
+      <amount>1500</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Dan Crenshaw For Congress</payeeName>
+      <recipientName>Rep. Daniel Crenshaw</recipientName>
+      <amount>2500</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Friends Of Mike Lee Inc</payeeName>
+      <recipientName>Sen. Michael Shumway Lee</recipientName>
+      <amount>1500</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Dutch Ruppersberger For Congress Committee</payeeName>
+      <recipientName>Rep. Charles A. Ruppersberger</recipientName>
+      <amount>1000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Thom Tillis Committee</payeeName>
+      <recipientName>Sen. Thomas Roland Tillis</recipientName>
+      <amount>1500</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Richard E Neal For Congress Committee</payeeName>
+      <recipientName>Rep. Richard Edmund Neal</recipientName>
+      <amount>2000</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Blue Hen Federal PAC</payeeName>
+      <recipientName>Sen. Christopher Andrew Coons</recipientName>
+      <amount>1000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Kathleen Rice For Congress</payeeName>
+      <recipientName>Rep. Kathleen Maura Rice</recipientName>
+      <amount>1000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Devin Nunes Campaign Committee</payeeName>
+      <recipientName>Rep. Devin G. Nunes</recipientName>
+      <amount>2000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>George Holding For Congress Inc.</payeeName>
+      <recipientName>Rep. George E. Holding</recipientName>
+      <amount>2000</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Rodney For Congress</payeeName>
+      <recipientName>Rep. Rodney Lee Davis</recipientName>
+      <amount>3000</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Engel For Congress</payeeName>
+      <recipientName>Rep. Eliot Lance Engel</recipientName>
+      <amount>1000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Tom O'Halleran For Congress</payeeName>
+      <recipientName>Rep. Tom O'Halleran</recipientName>
+      <amount>2000</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Make It Work PAC</payeeName>
+      <recipientName>Sen. Angus Stanley King, Jr.</recipientName>
+      <amount>1000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Marsha For Senate</payeeName>
+      <recipientName>Sen. Marsha Wedgeworth Blackburn</recipientName>
+      <amount>1000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Jim Costa For Congress</payeeName>
+      <recipientName>Rep. James M. Costa</recipientName>
+      <amount>1000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Jamie Raskin For Congress</payeeName>
+      <recipientName>Rep. Jamie B. Raskin</recipientName>
+      <amount>1000</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Jobs, Freedom, And Security PAC</payeeName>
+      <recipientName>Sen. Ted E. Cruz</recipientName>
+      <amount>1000</amount>
+      <date>11/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>New Pioneers PAC</payeeName>
+      <recipientName>Rep. Gregory Paul Walden</recipientName>
+      <amount>5000</amount>
+      <date>7/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Friends For Chris Stewart, Inc.</payeeName>
+      <recipientName>Rep. Christopher Douglas Stewart</recipientName>
+      <amount>2000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Friends Of Mark Warner</payeeName>
+      <recipientName>Sen. Mark Robert Warner</recipientName>
+      <amount>1500</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Denny Heck For Congress</payeeName>
+      <recipientName>Rep. Dennis Heck</recipientName>
+      <amount>1000</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Yarmuth For Congress</payeeName>
+      <recipientName>Rep. John A. Yarmuth</recipientName>
+      <amount>1000</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Butterfield For Congress</payeeName>
+      <recipientName>Rep. George Kenneth Butterfield, Jr.</recipientName>
+      <amount>1000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Ron Estes For Congress</payeeName>
+      <recipientName>Rep. Ron Estes</recipientName>
+      <amount>1000</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Team Graham, Inc.</payeeName>
+      <recipientName>Sen. Lindsey Olin Graham</recipientName>
+      <amount>1500</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Developing A New Generation PAC (DANG PAC)</payeeName>
+      <recipientName>Rep. Stephanie N. Murphy</recipientName>
+      <amount>5000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Butterfield For Congress</payeeName>
+      <recipientName>Rep. George Kenneth Butterfield, Jr.</recipientName>
+      <amount>2000</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Kinzinger For Congress</payeeName>
+      <recipientName>Rep. Adam Daniel Kinzinger</recipientName>
+      <amount>2000</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Alamo PAC</payeeName>
+      <recipientName>Sen. John Cornyn, III</recipientName>
+      <amount>2000</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Strategy PAC</payeeName>
+      <recipientName>Sen. Ronald H. Johnson</recipientName>
+      <amount>1000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Citizens For Rush</payeeName>
+      <recipientName>Rep. Bobby Lee Rush</recipientName>
+      <amount>2000</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Kirkpatrick For Congress</payeeName>
+      <recipientName>Rep. Ann L. Kirkpatrick</recipientName>
+      <amount>1000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Jaime For Congress</payeeName>
+      <recipientName>Rep. Jaime Lynn Herrera Beutler</recipientName>
+      <amount>1000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Steil For Wisconsin, Inc.</payeeName>
+      <recipientName>Rep. Bryan G. Steil</recipientName>
+      <amount>2000</amount>
+      <date>7/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Napolitano For Congress</payeeName>
+      <recipientName>Rep. Grace F. Napolitano</recipientName>
+      <amount>1000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>David Rouzer For Congress</payeeName>
+      <recipientName>Rep. David Cheston Rouzer</recipientName>
+      <amount>3000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Shaheen For Senate</payeeName>
+      <recipientName>Sen. Jeanne Shaheen</recipientName>
+      <amount>2000</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Texans For Jodey Arrington</payeeName>
+      <recipientName>Rep. Jodey Cook Arrington</recipientName>
+      <amount>1000</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Friends Of Dick Durbin Committee</payeeName>
+      <recipientName>Sen. Richard Joseph Durbin</recipientName>
+      <amount>1000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Guthrie For Congress</payeeName>
+      <recipientName>Rep. S. Brett Guthrie</recipientName>
+      <amount>3500</amount>
+      <date>7/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Friends Of Denver Riggleman, Inc.</payeeName>
+      <recipientName>Rep. Denver L. Riggleman, III</recipientName>
+      <amount>1000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Pete Stauber For Congress</payeeName>
+      <recipientName>Rep. Pete Stauber</recipientName>
+      <amount>2000</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Nancy Pelosi For Congress</payeeName>
+      <recipientName>Rep. Nancy Pelosi</recipientName>
+      <amount>5000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Cartwright For Congress</payeeName>
+      <recipientName>Rep. Matthew A. Cartwright</recipientName>
+      <amount>1000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Dr John Joyce For Congress</payeeName>
+      <recipientName>Rep. John Joyce</recipientName>
+      <amount>1000</amount>
+      <date>7/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Richard E Neal For Congress Committee</payeeName>
+      <recipientName>Rep. Richard Edmund Neal</recipientName>
+      <amount>500</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Elizabeth Pannill Fletcher For Congress</payeeName>
+      <recipientName>Rep. Elizabeth Pannill Fletcher</recipientName>
+      <amount>1000</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Jobs, Education, &amp; Families First - Jeff PAC</payeeName>
+      <recipientName>Rep. Hakeem S. Jeffries</recipientName>
+      <amount>2500</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>DeFazio for Congress</payeeName>
+      <recipientName>Rep. Peter Anthony DeFazio</recipientName>
+      <amount>1000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Tammy For Illinois</payeeName>
+      <recipientName>Sen. L. Tammy Duckworth</recipientName>
+      <amount>1000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Collins For Congress</payeeName>
+      <recipientName>Rep. Douglas Allen Collins</recipientName>
+      <amount>2000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Blue Hen Federal PAC</payeeName>
+      <recipientName>Sen. Christopher Andrew Coons</recipientName>
+      <amount>2000</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Grace For New York</payeeName>
+      <recipientName>Rep. Grace Meng</recipientName>
+      <amount>1000</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Pallone For Congress</payeeName>
+      <recipientName>Rep. Frank Pallone, Jr.</recipientName>
+      <amount>5000</amount>
+      <date>7/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Mikie Sherrill For Congress</payeeName>
+      <recipientName>Rep. Mikie Sherrill</recipientName>
+      <amount>1000</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Friends Of Bennie Thompson</payeeName>
+      <recipientName>Rep. Bennie G. Thompson</recipientName>
+      <amount>1000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Elise For Congress</payeeName>
+      <recipientName>Rep. Elise M. Stefanik</recipientName>
+      <amount>1000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Jobs, Freedom, And Security PAC</payeeName>
+      <recipientName>Sen. Ted E. Cruz</recipientName>
+      <amount>2500</amount>
+      <date>7/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Kuster For Congress, Inc</payeeName>
+      <recipientName>Rep. Ann McLane Kuster</recipientName>
+      <amount>2500</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Vicky Hartzler For Congress</payeeName>
+      <recipientName>Rep. Vicky Jo Hartzler</recipientName>
+      <amount>1000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Friends Of Jim Clyburn</payeeName>
+      <recipientName>Rep. James E. Clyburn</recipientName>
+      <amount>3000</amount>
+      <date>7/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Jim Costa For Congress</payeeName>
+      <recipientName>Rep. James M. Costa</recipientName>
+      <amount>1000</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Scott Peters For Congress</payeeName>
+      <recipientName>Rep. Scott H. Peters</recipientName>
+      <amount>1500</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Schatz For Senate</payeeName>
+      <recipientName>Sen. Brian Emanuel Schatz</recipientName>
+      <amount>2000</amount>
+      <date>7/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Mario Diaz-Balart For Congress</payeeName>
+      <recipientName>Rep. Mario Rafael Diaz-Balart</recipientName>
+      <amount>500</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Building Relationships In Diverse Geographic Environments PAC (BRIDGE PAC)</payeeName>
+      <recipientName>Rep. James E. Clyburn</recipientName>
+      <amount>2500</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Upton For All Of Us</payeeName>
+      <recipientName>Rep. Frederick Stephen Upton</recipientName>
+      <amount>2000</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Curtis For Congress</payeeName>
+      <recipientName>Rep. John R. Curtis</recipientName>
+      <amount>1000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Blumenauer For Congress</payeeName>
+      <recipientName>Rep. Earl Francis Blumenauer</recipientName>
+      <amount>1000</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Katherine Clark For Congress</payeeName>
+      <recipientName>Rep. Katherine M. Clark</recipientName>
+      <amount>1000</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Mike Gallagher For Wisconsin</payeeName>
+      <recipientName>Rep. Michael John Gallagher</recipientName>
+      <amount>1500</amount>
+      <date>7/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Friends Of Jim Inhofe</payeeName>
+      <recipientName>Sen. James M. Inhofe</recipientName>
+      <amount>1000</amount>
+      <date>7/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Finkenauer For Congress</payeeName>
+      <recipientName>Rep. Abby Finkenauer</recipientName>
+      <amount>1000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Adrian Smith For Congress</payeeName>
+      <recipientName>Rep. Adrian Michael Smith</recipientName>
+      <amount>1000</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Angus King For U.S. Senate Campaign</payeeName>
+      <recipientName>Sen. Angus Stanley King, Jr.</recipientName>
+      <amount>1000</amount>
+      <date>7/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Marcia Fudge For Congress</payeeName>
+      <recipientName>Rep. Marcia Louise Fudge</recipientName>
+      <amount>1000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Marc Veasey Congressional Campaign Committee</payeeName>
+      <recipientName>Rep. Marc A. Veasey</recipientName>
+      <amount>5000</amount>
+      <date>10/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Scanlon For Congress</payeeName>
+      <recipientName>Rep. Mary Gay Scanlon</recipientName>
+      <amount>1000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Communications, Inc. Political Action Committee (Verizon PAC)</contributorName>
+      <payeeName>Simpson For Congress</payeeName>
+      <recipientName>Rep. Michael Keith Simpson</recipientName>
+      <amount>1000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>Honorary Expenses</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Congressional Black Caucus Foundation (CBCF)</payeeName>
+      <recipientName>Congressional Members of CBCF</recipientName>
+      <amount>70000.00</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>Honorary Expenses</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Congressional Hispanic Caucus Institute (CHCI)</payeeName>
+      <recipientName>Congressional Members of CHCI</recipientName>
+      <amount>75000.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>Honorary Expenses</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Congressional Hispanic Leadership Institute (CHLI)</payeeName>
+      <recipientName>Congressional Members of CHLI</recipientName>
+      <amount>20000.00</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>Honorary Expenses</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Congressional Award Foundation (CAF)</payeeName>
+      <recipientName>Congressional Members of CAF</recipientName>
+      <amount>10000.00</amount>
+      <date>11/14/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

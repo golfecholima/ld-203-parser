@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>America's Physician Groups</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>Anu Murthy</contactName>
+  <senateRegID>400446140</senateRegID>
+  <houseRegID>40764</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/30/2020 8:53:50 AM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>
+  </noContributions>
+  <pacs>
+    <pac>
+      <name>Americas Physician Groups PAC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Americas Physician Groups PAC</contributorName>
+      <payeeName>BARRAGAN FOR CONGRESS</payeeName>
+      <recipientName>Rep Nanette Diaz Barragan</recipientName>
+      <amount>1000.00</amount>
+      <date>07/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Americas Physician Groups PAC</contributorName>
+      <payeeName>PEOPLE FOR PATTY MURRAY</payeeName>
+      <recipientName>Sen Patty Murray</recipientName>
+      <amount>2500.00</amount>
+      <date>07/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Americas Physician Groups PAC</contributorName>
+      <payeeName>KATHERINE CLARK FOR CONGRESS</payeeName>
+      <recipientName>Rep Katherine M Clark</recipientName>
+      <amount>1000.00</amount>
+      <date>07/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Americas Physician Groups PAC</contributorName>
+      <payeeName>DR RAUL RUIZ FOR CONGRESS</payeeName>
+      <recipientName>Rep Raul Ruiz</recipientName>
+      <amount>1000.00</amount>
+      <date>08/02/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Americas Physician Groups PAC</contributorName>
+      <payeeName>TONY CARDENAS FOR CONGRESS</payeeName>
+      <recipientName>Rep Tony Cardenas</recipientName>
+      <amount>1000.00</amount>
+      <date>08/02/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Americas Physician Groups PAC</contributorName>
+      <payeeName>BRIAN HIGGINS FOR CONGRESS</payeeName>
+      <recipientName>Rep Brian M Higgins</recipientName>
+      <amount>1000.00</amount>
+      <date>08/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Americas Physician Groups PAC</contributorName>
+      <payeeName>RICHARD E NEAL FOR CONGRESS COMMITTEE</payeeName>
+      <recipientName>Rep Richard E Neal</recipientName>
+      <amount>1000.00</amount>
+      <date>10/01/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Americas Physician Groups PAC</contributorName>
+      <payeeName>GRASSLEY COMMITTEE INC</payeeName>
+      <recipientName>Sen Chuck Grassley</recipientName>
+      <amount>1000.00</amount>
+      <date>10/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Americas Physician Groups PAC</contributorName>
+      <payeeName>FRIENDS OF PAT TOOMEY</payeeName>
+      <recipientName>Sen Pat J Toomey</recipientName>
+      <amount>1000.00</amount>
+      <date>10/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Americas Physician Groups PAC</contributorName>
+      <payeeName>KIND FOR CONGRESS COMMITTEE</payeeName>
+      <recipientName>Rep Ron J Kind</recipientName>
+      <amount>1000.00</amount>
+      <date>10/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Americas Physician Groups PAC</contributorName>
+      <payeeName>MIKE KELLY FOR CONGRESS</payeeName>
+      <recipientName>Rep Mike Kelly Jr</recipientName>
+      <amount>1000.00</amount>
+      <date>10/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Americas Physician Groups PAC</contributorName>
+      <payeeName>BILL CASSIDY FOR US SENATE</payeeName>
+      <recipientName>Sen Bill Cassidy</recipientName>
+      <amount>1000.00</amount>
+      <date>10/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Americas Physician Groups PAC</contributorName>
+      <payeeName>WARNER VICTORY FUND</payeeName>
+      <recipientName>Sen Mark R Warner</recipientName>
+      <amount>1000.00</amount>
+      <date>11/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Americas Physician Groups PAC</contributorName>
+      <payeeName>GUTHRIE FOR CONGRESS</payeeName>
+      <recipientName>Rep Brett Guthrie</recipientName>
+      <amount>1000.00</amount>
+      <date>12/16/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

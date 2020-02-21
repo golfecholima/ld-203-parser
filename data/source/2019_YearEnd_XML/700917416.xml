@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>Townsend Public Affairs</organizationName>
+  <lobbyistPrefix>Mr.</lobbyistPrefix>
+  <lobbyistFirstName>Christopher</lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>Townsend</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>54734</senateRegID>
+  <houseRegID>35094</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/19/2020 6:11:11 AM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Josh Harder for Congress PO Box 4426, Modesto, CA 95352</payeeName>
+      <recipientName>Josh Harder</recipientName>
+      <amount>2800.00</amount>
+      <date>07/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Michelle Steel for Congress 92A Surfside Avenue #472 Surfside, California 90743</payeeName>
+      <recipientName>Michelle Steel</recipientName>
+      <amount>2800.00</amount>
+      <date>08/08/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Michelle Steel for Congress 92A Surfside Avenue #472 Surfside, California 90743</payeeName>
+      <recipientName>Michelle Steel </recipientName>
+      <amount>2800.00</amount>
+      <date>08/08/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Democratic Foundation of Orange County</payeeName>
+      <recipientName>Democratic Foundation of Orange County</recipientName>
+      <amount>550.00</amount>
+      <date>09/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>GARAMENDI FOR CONGRESS P.O. BOX 440, WALNUT GROVE, CA 95690</payeeName>
+      <recipientName>John Garamendi</recipientName>
+      <amount>2800.00</amount>
+      <date>12/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>TJ Cox for Congress
+PO Box 804
+Selma, CA 93662</payeeName>
+      <recipientName>TJ Cox</recipientName>
+      <amount>2800.00</amount>
+      <date>12/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Salud Carbajal for Congress 
+P.O. Box 1290 Santa Barbara, CA, 93102</payeeName>
+      <recipientName>Salud Carbajal for Congress 
+P.O. Box 1290 Santa Barbara, CA, 93102</recipientName>
+      <amount>2800.00</amount>
+      <date>12/31/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

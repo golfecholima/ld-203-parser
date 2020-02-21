@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>Hogan Lovells US LLP</organizationName>
+  <lobbyistPrefix>Mr.</lobbyistPrefix>
+  <lobbyistFirstName>Eduardo</lobbyistFirstName>
+  <lobbyistMiddleName>Ivan</lobbyistMiddleName>
+  <lobbyistLastName>Zapien</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>18422</senateRegID>
+  <houseRegID>30470</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/30/2020 2:29:27 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>Hogan Lovells Political Action Committee</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Friends of Mark Warner</payeeName>
+      <recipientName>Sen. Mark Warner (D-VA)</recipientName>
+      <amount>2000.00</amount>
+      <date>07/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Doug Jones for Senate Committee</payeeName>
+      <recipientName>Sen. Doug Jones (D-AL)</recipientName>
+      <amount>2000.00</amount>
+      <date>08/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>New Millennium PAC</payeeName>
+      <recipientName>Sen. Robert Menendez (D-NJ)</recipientName>
+      <amount>2000.00</amount>
+      <date>08/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Rosen for Nevada</payeeName>
+      <recipientName>Sen. Jacky Rosen (D-NV)</recipientName>
+      <amount>1000.00</amount>
+      <date>09/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Team Haggerty</payeeName>
+      <recipientName>Sen. Bill Haggerty (R-TN)</recipientName>
+      <amount>2000.00</amount>
+      <date>10/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Chris Coons for Delaware</payeeName>
+      <recipientName>Sen. Chris Coons (D-DE)</recipientName>
+      <amount>1000.00</amount>
+      <date>10/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Cindy Hyde-Smith for US Senate</payeeName>
+      <recipientName>Sen. Cindy Hyde-Smith (R-MS)</recipientName>
+      <amount>1000.00</amount>
+      <date>11/01/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Thom Tillis Committee</payeeName>
+      <recipientName>Sen. Thom Tillis (R-NC)</recipientName>
+      <amount>2500.00</amount>
+      <date>11/01/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Ben Sasse for US Senate</payeeName>
+      <recipientName>Sen. Ben Sasse (R-NE)</recipientName>
+      <amount>1000.00</amount>
+      <date>12/02/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Gary Palmer for Congress</payeeName>
+      <recipientName>Rep. Gary Palmer (R-AL)</recipientName>
+      <amount>1000.00</amount>
+      <date>07/08/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Adam Kinzinger - Future 1st Committee</payeeName>
+      <recipientName>Rep. Adam Kinzinger (R-IL)</recipientName>
+      <amount>1500.00</amount>
+      <date>07/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>LaHood for Congress</payeeName>
+      <recipientName>Rep. Darin McKay LaHood (R-IL)</recipientName>
+      <amount>1000.00</amount>
+      <date>07/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Jamie Raskin for Congress</payeeName>
+      <recipientName>Rep. Jamie Raskin (D-MD)</recipientName>
+      <amount>1000.00</amount>
+      <date>07/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Sires for Congress</payeeName>
+      <recipientName>Rep. Albio Sires (D-NJ_</recipientName>
+      <amount>2000.00</amount>
+      <date>08/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Richard E. Neal for Congress Committee</payeeName>
+      <recipientName>Rep. Richard Neal (D-MA)</recipientName>
+      <amount>1000.00</amount>
+      <date>08/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>McHenry for Congress</payeeName>
+      <recipientName>Rep. Patrick Timothy McHenry (R-NC)</recipientName>
+      <amount>1000.00</amount>
+      <date>09/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Friends of Jim Clyburn</payeeName>
+      <recipientName>Rep. Jim Clyburn (D-SC)</recipientName>
+      <amount>1000.00</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Blaine for Congress</payeeName>
+      <recipientName>Rep. W. Blaine Luetkemeyer (R-MO)</recipientName>
+      <amount>1000.00</amount>
+      <date>10/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Pringle for Congress, Inc.</payeeName>
+      <recipientName>Rep. Chris Pringle (R-AL)</recipientName>
+      <amount>1000.00</amount>
+      <date>10/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Napolitano for Congress</payeeName>
+      <recipientName>Rep. Grace Napolitano (D-CA)</recipientName>
+      <amount>1000.00</amount>
+      <date>11/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Terri Sewell for Congress</payeeName>
+      <recipientName>Rep. Terri Sewell (D-AL)</recipientName>
+      <amount>1000.00</amount>
+      <date>11/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Clarke for Congress</payeeName>
+      <recipientName>Rep. Yvette Clarke (D-NY)</recipientName>
+      <amount>1000.00</amount>
+      <date>11/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Pascrell for Congress Inc.</payeeName>
+      <recipientName>Rep. William Pascrell (D-NJ)</recipientName>
+      <amount>1000.00</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Sires for Congress</payeeName>
+      <recipientName>Albio Sires</recipientName>
+      <amount>2700.00</amount>
+      <date>08/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Doug Jones for Senate Committee</payeeName>
+      <recipientName>Doug Jones</recipientName>
+      <amount>1000.00</amount>
+      <date>08/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>New Millennium PAC</payeeName>
+      <recipientName>New Millennium PAC</recipientName>
+      <amount>2000.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Friends of Mark Warner</payeeName>
+      <recipientName>Mark Warner</recipientName>
+      <amount>1000.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Horsford for Congress</payeeName>
+      <recipientName>Steven Horsford</recipientName>
+      <amount>500.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Candace for 24</payeeName>
+      <recipientName>Candace Valenzuela</recipientName>
+      <amount>500.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Swalwell for Congress</payeeName>
+      <recipientName>Eric Swalwell</recipientName>
+      <amount>500.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Nellie Gorbea</payeeName>
+      <recipientName>Nellie Gorbea</recipientName>
+      <amount>250.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Doug Jones</payeeName>
+      <recipientName>Doug Jones</recipientName>
+      <amount>500.00</amount>
+      <date>11/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Vincente Gonzalez for Congress</payeeName>
+      <recipientName>Vincente Gonzalez</recipientName>
+      <amount>1000.00</amount>
+      <date>11/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Hickenlooper for Colorado</payeeName>
+      <recipientName>John Hickenlooper</recipientName>
+      <amount>1000.00</amount>
+      <date>12/02/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

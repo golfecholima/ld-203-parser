@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>JUUL LABS, INC.</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>David Mason</contactName>
+  <senateRegID>401104897</senateRegID>
+  <houseRegID>44103</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>In section 6 of this report, the entries on Lines #28 through #41 are voided contributions.  </comments>
+  <signedDate>1/30/2020 6:08:28 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>JUUL Labs, Inc. Employees Political Action Committee (JLE PAC)</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JUUL Labs, Inc. Employees Political Action Committee (JLE PAC)</contributorName>
+      <payeeName>ASPIRE PAC</payeeName>
+      <recipientName>ASPIRE PAC</recipientName>
+      <amount>2500.00</amount>
+      <date>07/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JUUL Labs, Inc. Employees Political Action Committee (JLE PAC)</contributorName>
+      <payeeName>CHC Bold PAC</payeeName>
+      <recipientName>CHC Bold PAC</recipientName>
+      <amount>5000.00</amount>
+      <date>07/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JUUL Labs, Inc. Employees Political Action Committee (JLE PAC)</contributorName>
+      <payeeName>Congressional Black Caucus PAC</payeeName>
+      <recipientName>Congressional Black Caucus PAC</recipientName>
+      <amount>5000.00</amount>
+      <date>07/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JUUL Labs, Inc. Employees Political Action Committee (JLE PAC)</contributorName>
+      <payeeName>LLEGO PAC</payeeName>
+      <recipientName>Rep. Ruben Gallego</recipientName>
+      <amount>5000.00</amount>
+      <date>07/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JUUL Labs, Inc. Employees Political Action Committee (JLE PAC)</contributorName>
+      <payeeName>Nevadans for Steven Horsford</payeeName>
+      <recipientName>Rep. Steven A. Horsford</recipientName>
+      <amount>5000.00</amount>
+      <date>07/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JUUL Labs, Inc. Employees Political Action Committee (JLE PAC)</contributorName>
+      <payeeName>Scalise for Congress</payeeName>
+      <recipientName>Rep. Steve J. Scalise</recipientName>
+      <amount>2500.00</amount>
+      <date>07/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JUUL Labs, Inc. Employees Political Action Committee (JLE PAC)</contributorName>
+      <payeeName>Shaheen for Senate</payeeName>
+      <recipientName>Sen. Jeanne Shaheen</recipientName>
+      <amount>5000.00</amount>
+      <date>07/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JUUL Labs, Inc. Employees Political Action Committee (JLE PAC)</contributorName>
+      <payeeName>Republican Party of Kentucky - Federal Account</payeeName>
+      <recipientName>Republican Party of Kentucky - Federal Account</recipientName>
+      <amount>5000.00</amount>
+      <date>09/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JUUL Labs, Inc. Employees Political Action Committee (JLE PAC)</contributorName>
+      <payeeName>Clay Jr. for Congress</payeeName>
+      <recipientName>Rep. William Lacy Clay Jr.</recipientName>
+      <amount>1000.00</amount>
+      <date>09/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JUUL Labs, Inc. Employees Political Action Committee (JLE PAC)</contributorName>
+      <payeeName>New Democrat Coalition Action Fund </payeeName>
+      <recipientName>New Democrat Coalition Action Fund </recipientName>
+      <amount>5000.00</amount>
+      <date>09/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JUUL Labs, Inc. Employees Political Action Committee (JLE PAC)</contributorName>
+      <payeeName>Bluegrass Committee </payeeName>
+      <recipientName>Sen. Mitch McConnell</recipientName>
+      <amount>5000.00</amount>
+      <date>11/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JUUL Labs, Inc. Employees Political Action Committee (JLE PAC)</contributorName>
+      <payeeName>First in Freedom PAC</payeeName>
+      <recipientName>Rep. Richard L. Hudson  Jr.
+</recipientName>
+      <amount>2500.00</amount>
+      <date>11/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JUUL Labs, Inc. Employees Political Action Committee (JLE PAC)</contributorName>
+      <payeeName>Hudson for Congress</payeeName>
+      <recipientName>Rep. Richard L. Hudson Jr.</recipientName>
+      <amount>2500.00</amount>
+      <date>11/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JUUL Labs, Inc. Employees Political Action Committee (JLE PAC)</contributorName>
+      <payeeName>Liz Cheney for Wyoming</payeeName>
+      <recipientName>Rep. Liz L. Cheney</recipientName>
+      <amount>5000.00</amount>
+      <date>11/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JUUL Labs, Inc. Employees Political Action Committee (JLE PAC)</contributorName>
+      <payeeName>McConnell Senate Committee</payeeName>
+      <recipientName>Sen. Mitch McConnell</recipientName>
+      <amount>5000.00</amount>
+      <date>11/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JUUL Labs, Inc. Employees Political Action Committee (JLE PAC)</contributorName>
+      <payeeName>McConnell Senate Committee</payeeName>
+      <recipientName>Sen. Mitch McConnell</recipientName>
+      <amount>5000.00</amount>
+      <date>11/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JUUL Labs, Inc. Employees Political Action Committee (JLE PAC)</contributorName>
+      <payeeName>Next Century Fund</payeeName>
+      <recipientName>Sen. Richard M. Burr
+</recipientName>
+      <amount>5000.00</amount>
+      <date>11/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JUUL Labs, Inc. Employees Political Action Committee (JLE PAC)</contributorName>
+      <payeeName>Oorah! Political Action Committee</payeeName>
+      <recipientName>Sen. Todd Christopher Young
+</recipientName>
+      <amount>5000.00</amount>
+      <date>11/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JUUL Labs, Inc. Employees Political Action Committee (JLE PAC)</contributorName>
+      <payeeName>Tim Scott for Senate</payeeName>
+      <recipientName>Sen. Tim E. Scott</recipientName>
+      <amount>5000.00</amount>
+      <date>11/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JUUL Labs, Inc. Employees Political Action Committee (JLE PAC)</contributorName>
+      <payeeName>Guthrie for Congress</payeeName>
+      <recipientName>Rep. Brett Guthrie</recipientName>
+      <amount>2500.00</amount>
+      <date>12/03/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JUUL Labs, Inc. Employees Political Action Committee (JLE PAC)</contributorName>
+      <payeeName>Sanford Bishop For Congress</payeeName>
+      <recipientName>Rep. Sanford D. Bishop Jr.</recipientName>
+      <amount>2500.00</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JUUL Labs, Inc. Employees Political Action Committee (JLE PAC)</contributorName>
+      <payeeName>Blue Nevada PAC</payeeName>
+      <recipientName>Rep. Steven A. Horsford
+</recipientName>
+      <amount>2500.00</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JUUL Labs, Inc. Employees Political Action Committee (JLE PAC)</contributorName>
+      <payeeName>Dogwood PAC</payeeName>
+      <recipientName>Rep. A. Donald McEachin
+</recipientName>
+      <amount>2500.00</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JUUL Labs, Inc. Employees Political Action Committee (JLE PAC)</contributorName>
+      <payeeName>Hudson for Congress</payeeName>
+      <recipientName>Rep. Richard L. Hudson Jr.</recipientName>
+      <amount>2500.00</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JUUL Labs, Inc. Employees Political Action Committee (JLE PAC)</contributorName>
+      <payeeName>Innovation PAC</payeeName>
+      <recipientName>Rep. Patrick T. McHenry</recipientName>
+      <amount>2500.00</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JUUL Labs, Inc. Employees Political Action Committee (JLE PAC)</contributorName>
+      <payeeName>McEachin for Congress</payeeName>
+      <recipientName>Rep. A. Donald McEachin</recipientName>
+      <amount>2500.00</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JUUL Labs, Inc. Employees Political Action Committee (JLE PAC)</contributorName>
+      <payeeName>The Eye of the Tiger Political Action Committee</payeeName>
+      <recipientName>Rep. Stephen J. Scalise
+</recipientName>
+      <amount>5000.00</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JUUL Labs, Inc. Employees Political Action Committee (JLE PAC)</contributorName>
+      <payeeName>Aspire PAC</payeeName>
+      <recipientName>Aspire PAC</recipientName>
+      <amount>-2500</amount>
+      <date>7/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JUUL Labs, Inc. Employees Political Action Committee (JLE PAC)</contributorName>
+      <payeeName>CHC BOLD PAC</payeeName>
+      <recipientName>CHC BOLD PAC</recipientName>
+      <amount>-5000</amount>
+      <date>7/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JUUL Labs, Inc. Employees Political Action Committee (JLE PAC)</contributorName>
+      <payeeName>Congressional Black Caucus PAC</payeeName>
+      <recipientName>Congressional Black Caucus PAC</recipientName>
+      <amount>-5000</amount>
+      <date>7/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JUUL Labs, Inc. Employees Political Action Committee (JLE PAC)</contributorName>
+      <payeeName>Latino Leaders For Equality Growth Opportunity Progressive Action &amp; Change (LLEGO-PAC)</payeeName>
+      <recipientName>Rep. Ruben M. Gallego</recipientName>
+      <amount>-5000</amount>
+      <date>7/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JUUL Labs, Inc. Employees Political Action Committee (JLE PAC)</contributorName>
+      <payeeName>Nevadans For Steven Horsford</payeeName>
+      <recipientName>Rep. Steven Alexzander Horsford</recipientName>
+      <amount>-5000</amount>
+      <date>7/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JUUL Labs, Inc. Employees Political Action Committee (JLE PAC)</contributorName>
+      <payeeName>New Democrat Coalition Action Fund</payeeName>
+      <recipientName>New Democrat Coalition Action Fund</recipientName>
+      <amount>-5000</amount>
+      <date>7/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JUUL Labs, Inc. Employees Political Action Committee (JLE PAC)</contributorName>
+      <payeeName>Scalise For Congress</payeeName>
+      <recipientName>Rep. Stephen Joseph Scalise</recipientName>
+      <amount>-2500</amount>
+      <date>7/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JUUL Labs, Inc. Employees Political Action Committee (JLE PAC)</contributorName>
+      <payeeName>Shaheen For Senate</payeeName>
+      <recipientName>Sen. Jeanne Shaheen</recipientName>
+      <amount>-5000</amount>
+      <date>7/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JUUL Labs, Inc. Employees Political Action Committee (JLE PAC)</contributorName>
+      <payeeName>Clay JR. For Congress</payeeName>
+      <recipientName>Rep. William Lacy Clay, Jr.</recipientName>
+      <amount>-1000</amount>
+      <date>8/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JUUL Labs, Inc. Employees Political Action Committee (JLE PAC)</contributorName>
+      <payeeName>New Democrat Coalition Action Fund</payeeName>
+      <recipientName>New Democrat Coalition Action Fund</recipientName>
+      <amount>-5000</amount>
+      <date>8/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JUUL Labs, Inc. Employees Political Action Committee (JLE PAC)</contributorName>
+      <payeeName>Catherine Cortez Masto For Senate</payeeName>
+      <recipientName>Sen. Catherine Cortez Masto</recipientName>
+      <amount>-5000</amount>
+      <date>8/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JUUL Labs, Inc. Employees Political Action Committee (JLE PAC)</contributorName>
+      <payeeName>Richmond For Congress</payeeName>
+      <recipientName>Rep. Cedric Levon Richmond</recipientName>
+      <amount>-2500</amount>
+      <date>8/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JUUL Labs, Inc. Employees Political Action Committee (JLE PAC)</contributorName>
+      <payeeName>Votevets</payeeName>
+      <recipientName>Votevets</recipientName>
+      <amount>-2500</amount>
+      <date>8/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JUUL Labs, Inc. Employees Political Action Committee (JLE PAC)</contributorName>
+      <payeeName>Republican Party Of Kentucky</payeeName>
+      <recipientName>Republican Party Of Kentucky</recipientName>
+      <amount>-5000</amount>
+      <date>9/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>Honorary Expenses</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Congressional Black Caucus Institute</payeeName>
+      <recipientName>Congressional Black Caucus Institute</recipientName>
+      <amount>25000.00</amount>
+      <date>7/20/19</date>
+    </contribution>
+    <contribution>
+      <type>Honorary Expenses</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Congressional Black Caucus Institute</payeeName>
+      <recipientName>Congressional Black Caucus Institute</recipientName>
+      <amount>25000.00</amount>
+      <date>7/29/19</date>
+    </contribution>
+    <contribution>
+      <type>Honorary Expenses</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Congressional Black Caucus Foundation</payeeName>
+      <recipientName>Congressional Black Caucus Foundation</recipientName>
+      <amount>35000.00</amount>
+      <date>10/21/19</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

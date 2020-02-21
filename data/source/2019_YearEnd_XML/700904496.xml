@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>Holland &amp; Knight LLP</organizationName>
+  <lobbyistPrefix>Mr.</lobbyistPrefix>
+  <lobbyistFirstName>Christopher</lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>Armstrong</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>18466</senateRegID>
+  <houseRegID>30825</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>True</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/9/2020 10:01:47 AM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>Maverick PAC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Maverick PAC</payeeName>
+      <recipientName>Maverick PAC</recipientName>
+      <amount>125.00</amount>
+      <date>08/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Maverick PAC</payeeName>
+      <recipientName>Maverick PAC</recipientName>
+      <amount>125.00</amount>
+      <date>09/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Maverick PAC</payeeName>
+      <recipientName>Maverick PAC</recipientName>
+      <amount>125.00</amount>
+      <date>10/15/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Maverick PAC</payeeName>
+      <recipientName>Maverick PAC</recipientName>
+      <amount>125.00</amount>
+      <date>11/15/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Maverick PAC</payeeName>
+      <recipientName>Maverick PAC</recipientName>
+      <amount>125.00</amount>
+      <date>12/15/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>AMANDA MAKKI FOR CONGRESS</payeeName>
+      <recipientName>AMANDA MAKKI FOR CONGRESS</recipientName>
+      <amount>500.00</amount>
+      <date>12/31/19</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

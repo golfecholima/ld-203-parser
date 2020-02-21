@@ -1,0 +1,751 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>INTERNATIONAL BROTHERHOOD OF BOILERMAKERS</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <zipext>
+  </zipext>
+  <contactName>Cecile Conroy</contactName>
+  <senateRegID>19811</senateRegID>
+  <houseRegID>30930</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/27/2020 1:28:08 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>
+  </noContributions>
+  <pacs>
+    <pac>
+      <name>International Brotherhood of Boilermakers Campaign Assistance Fund</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Brotherhood of Boilermakers Campaign Assistance Fund</contributorName>
+      <payeeName>Gallego for Arizona</payeeName>
+      <recipientName>Ruben Gallego</recipientName>
+      <amount>2000.00</amount>
+      <date>08/02/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Brotherhood of Boilermakers Campaign Assistance Fund</contributorName>
+      <payeeName>Sylvia Garcia for Congress</payeeName>
+      <recipientName>Sylvia Garcia</recipientName>
+      <amount>1500.00</amount>
+      <date>08/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Brotherhood of Boilermakers Campaign Assistance Fund</contributorName>
+      <payeeName>Theresa Greenfield for Iowa</payeeName>
+      <recipientName>Theresa Greenfield</recipientName>
+      <amount>2000.00</amount>
+      <date>08/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Brotherhood of Boilermakers Campaign Assistance Fund</contributorName>
+      <payeeName>Whitehouse for Senate</payeeName>
+      <recipientName>Sheldon Whitehouse</recipientName>
+      <amount>5000.00</amount>
+      <date>08/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Brotherhood of Boilermakers Campaign Assistance Fund</contributorName>
+      <payeeName>McKinley For Congress</payeeName>
+      <recipientName>David McKinley</recipientName>
+      <amount>2500.00</amount>
+      <date>08/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Brotherhood of Boilermakers Campaign Assistance Fund</contributorName>
+      <payeeName>Donald Norcross for Congress</payeeName>
+      <recipientName>Donald Norcross</recipientName>
+      <amount>1500.00</amount>
+      <date>08/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Brotherhood of Boilermakers Campaign Assistance Fund</contributorName>
+      <payeeName>McCready for Congress</payeeName>
+      <recipientName>Daniel McCready</recipientName>
+      <amount>2500.00</amount>
+      <date>09/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Brotherhood of Boilermakers Campaign Assistance Fund</contributorName>
+      <payeeName>Brian Fitzpatrick for Congress</payeeName>
+      <recipientName>Brian Fitzpatrick</recipientName>
+      <amount>2500.00</amount>
+      <date>09/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Brotherhood of Boilermakers Campaign Assistance Fund</contributorName>
+      <payeeName>Engel for Congress</payeeName>
+      <recipientName>Eliot Engel</recipientName>
+      <amount>1000.00</amount>
+      <date>09/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Brotherhood of Boilermakers Campaign Assistance Fund</contributorName>
+      <payeeName>Tim Ryan for Congress</payeeName>
+      <recipientName>Tim Ryan</recipientName>
+      <amount>5000.00</amount>
+      <date>09/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Brotherhood of Boilermakers Campaign Assistance Fund</contributorName>
+      <payeeName>Van Drew for Congress</payeeName>
+      <recipientName>Jeff Van Drew</recipientName>
+      <amount>1500.00</amount>
+      <date>09/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Brotherhood of Boilermakers Campaign Assistance Fund</contributorName>
+      <payeeName>MAD 4 PA PAC</payeeName>
+      <recipientName>Madeleine Dean</recipientName>
+      <amount>1500.00</amount>
+      <date>09/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Brotherhood of Boilermakers Campaign Assistance Fund</contributorName>
+      <payeeName>Susan Wild for Congress</payeeName>
+      <recipientName>Susan Wild</recipientName>
+      <amount>1500.00</amount>
+      <date>09/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Brotherhood of Boilermakers Campaign Assistance Fund</contributorName>
+      <payeeName>Tom O'Halleran for Congress</payeeName>
+      <recipientName>Tom O'Halleran</recipientName>
+      <amount>1000.00</amount>
+      <date>09/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Brotherhood of Boilermakers Campaign Assistance Fund</contributorName>
+      <payeeName>Chrissy Houlahan for Congress</payeeName>
+      <recipientName>Chrissy Houlahan</recipientName>
+      <amount>1500.00</amount>
+      <date>09/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Brotherhood of Boilermakers Campaign Assistance Fund</contributorName>
+      <payeeName>Doyle for Congress Committee</payeeName>
+      <recipientName>Michael Doyle</recipientName>
+      <amount>2000.00</amount>
+      <date>09/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Brotherhood of Boilermakers Campaign Assistance Fund</contributorName>
+      <payeeName>Congressional Black Caucus PAC</payeeName>
+      <recipientName>Congressional Black Caucus PAC</recipientName>
+      <amount>5000.00</amount>
+      <date>09/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Brotherhood of Boilermakers Campaign Assistance Fund</contributorName>
+      <payeeName>Kirkpatrick for Arizona</payeeName>
+      <recipientName>Ann Kirkpatrick</recipientName>
+      <amount>1500.00</amount>
+      <date>09/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Brotherhood of Boilermakers Campaign Assistance Fund</contributorName>
+      <payeeName>Kuster for Congress</payeeName>
+      <recipientName>Ann McClane Kuster</recipientName>
+      <amount>1500.00</amount>
+      <date>09/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Brotherhood of Boilermakers Campaign Assistance Fund</contributorName>
+      <payeeName>Marc Veasey Congressional Campaign Cmte</payeeName>
+      <recipientName>Marc Veasey</recipientName>
+      <amount>2500.00</amount>
+      <date>09/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Brotherhood of Boilermakers Campaign Assistance Fund</contributorName>
+      <payeeName>Cindy Axne for Congress</payeeName>
+      <recipientName>Cindy Axne</recipientName>
+      <amount>2000.00</amount>
+      <date>09/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Brotherhood of Boilermakers Campaign Assistance Fund</contributorName>
+      <payeeName>Friends of Jim Clyburn</payeeName>
+      <recipientName>James Clyburn</recipientName>
+      <amount>1000.00</amount>
+      <date>09/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Brotherhood of Boilermakers Campaign Assistance Fund</contributorName>
+      <payeeName>Mark Pocan for Congress</payeeName>
+      <recipientName>Mark Pocan</recipientName>
+      <amount>1500.00</amount>
+      <date>09/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Brotherhood of Boilermakers Campaign Assistance Fund</contributorName>
+      <payeeName>Garamendi for Congress</payeeName>
+      <recipientName>John Garamendi</recipientName>
+      <amount>2500.00</amount>
+      <date>09/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Brotherhood of Boilermakers Campaign Assistance Fund</contributorName>
+      <payeeName>Hoosiers for Hale</payeeName>
+      <recipientName>Christina  Hale</recipientName>
+      <amount>2500.00</amount>
+      <date>10/01/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Brotherhood of Boilermakers Campaign Assistance Fund</contributorName>
+      <payeeName>Yarmuth for Congress</payeeName>
+      <recipientName>John Yarmuth</recipientName>
+      <amount>1500.00</amount>
+      <date>10/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Brotherhood of Boilermakers Campaign Assistance Fund</contributorName>
+      <payeeName>Strengthening Virginia's Working Families PAC</payeeName>
+      <recipientName>Bobby Scott</recipientName>
+      <amount>3000.00</amount>
+      <date>10/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Brotherhood of Boilermakers Campaign Assistance Fund</contributorName>
+      <payeeName>Sires for Congress</payeeName>
+      <recipientName>Albio Sires</recipientName>
+      <amount>1500.00</amount>
+      <date>10/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Brotherhood of Boilermakers Campaign Assistance Fund</contributorName>
+      <payeeName>Steve Cohen for Congress</payeeName>
+      <recipientName>Stephen Cohen</recipientName>
+      <amount>1500.00</amount>
+      <date>10/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Brotherhood of Boilermakers Campaign Assistance Fund</contributorName>
+      <payeeName>Hoeven for Senate</payeeName>
+      <recipientName>John Hoeven</recipientName>
+      <amount>2000.00</amount>
+      <date>10/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Brotherhood of Boilermakers Campaign Assistance Fund</contributorName>
+      <payeeName>Steve Cohen for Congress</payeeName>
+      <recipientName>Stephen Cohen</recipientName>
+      <amount>1500.00</amount>
+      <date>10/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Brotherhood of Boilermakers Campaign Assistance Fund</contributorName>
+      <payeeName>Finkenauer Victory Fund</payeeName>
+      <recipientName>Abby Finkenauer</recipientName>
+      <amount>4000.00</amount>
+      <date>10/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Brotherhood of Boilermakers Campaign Assistance Fund</contributorName>
+      <payeeName>Finkenauer Victory Fund</payeeName>
+      <recipientName>Abby Finkenauer</recipientName>
+      <amount>1000.00</amount>
+      <date>10/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Brotherhood of Boilermakers Campaign Assistance Fund</contributorName>
+      <payeeName>Don Bacon for Congress</payeeName>
+      <recipientName>Don Bacon</recipientName>
+      <amount>1500.00</amount>
+      <date>10/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Brotherhood of Boilermakers Campaign Assistance Fund</contributorName>
+      <payeeName>Sharice for Congress</payeeName>
+      <recipientName>Sharice Davids</recipientName>
+      <amount>1500.00</amount>
+      <date>10/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Brotherhood of Boilermakers Campaign Assistance Fund</contributorName>
+      <payeeName>Dan Lipinski for Congress</payeeName>
+      <recipientName>Daniel Lipinski</recipientName>
+      <amount>2500.00</amount>
+      <date>10/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Brotherhood of Boilermakers Campaign Assistance Fund</contributorName>
+      <payeeName>Don Bacon for Congress</payeeName>
+      <recipientName>Don Bacon</recipientName>
+      <amount>1000.00</amount>
+      <date>10/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Brotherhood of Boilermakers Campaign Assistance Fund</contributorName>
+      <payeeName>Dwight Evans for Congress</payeeName>
+      <recipientName>Dwight Evans</recipientName>
+      <amount>1000.00</amount>
+      <date>11/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Brotherhood of Boilermakers Campaign Assistance Fund</contributorName>
+      <payeeName>Butterfield for Congress</payeeName>
+      <recipientName>G.K. Butterfield</recipientName>
+      <amount>1500.00</amount>
+      <date>11/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Brotherhood of Boilermakers Campaign Assistance Fund</contributorName>
+      <payeeName>Committee To Reelect Congressman Chris Smith</payeeName>
+      <recipientName>Christopher Smith</recipientName>
+      <amount>1500.00</amount>
+      <date>11/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Brotherhood of Boilermakers Campaign Assistance Fund</contributorName>
+      <payeeName>Andre Carson for Congress</payeeName>
+      <recipientName>Andre Carson</recipientName>
+      <amount>2000.00</amount>
+      <date>11/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Brotherhood of Boilermakers Campaign Assistance Fund</contributorName>
+      <payeeName>Perimeter PAC</payeeName>
+      <recipientName>Tammy Duckworth</recipientName>
+      <amount>2500.00</amount>
+      <date>11/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Brotherhood of Boilermakers Campaign Assistance Fund</contributorName>
+      <payeeName>Guy for Congress</payeeName>
+      <recipientName>Guy Reschenthaler</recipientName>
+      <amount>1500.00</amount>
+      <date>11/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Brotherhood of Boilermakers Campaign Assistance Fund</contributorName>
+      <payeeName>Spanberger for Congress</payeeName>
+      <recipientName>Abigail Spanberger</recipientName>
+      <amount>1500.00</amount>
+      <date>11/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Brotherhood of Boilermakers Campaign Assistance Fund</contributorName>
+      <payeeName>Courtney for Congress</payeeName>
+      <recipientName>Joseph Courtney</recipientName>
+      <amount>5000.00</amount>
+      <date>11/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Brotherhood of Boilermakers Campaign Assistance Fund</contributorName>
+      <payeeName>Friends of Dick Durbin</payeeName>
+      <recipientName>Richard Durbin</recipientName>
+      <amount>2500.00</amount>
+      <date>11/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Brotherhood of Boilermakers Campaign Assistance Fund</contributorName>
+      <payeeName>Alma Adams for Congress</payeeName>
+      <recipientName>Alma Shealey Adams</recipientName>
+      <amount>1500.00</amount>
+      <date>11/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Brotherhood of Boilermakers Campaign Assistance Fund</contributorName>
+      <payeeName>CHERPAC</payeeName>
+      <recipientName>Cheri Bustos</recipientName>
+      <amount>2500.00</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Brotherhood of Boilermakers Campaign Assistance Fund</contributorName>
+      <payeeName>Angie Craig for Congress</payeeName>
+      <recipientName>Angie Craig</recipientName>
+      <amount>1500.00</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Brotherhood of Boilermakers Campaign Assistance Fund</contributorName>
+      <payeeName>McDermott for Congress</payeeName>
+      <recipientName>Thomas McDermott</recipientName>
+      <amount>2000.00</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Brotherhood of Boilermakers Campaign Assistance Fund</contributorName>
+      <payeeName>Elaine for Congress</payeeName>
+      <recipientName>Elaine Luria</recipientName>
+      <amount>1000.00</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Brotherhood of Boilermakers Campaign Assistance Fund</contributorName>
+      <payeeName>Bridge PAC</payeeName>
+      <recipientName>James Clyburn</recipientName>
+      <amount>2500.00</amount>
+      <date>12/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Brotherhood of Boilermakers Campaign Assistance Fund</contributorName>
+      <payeeName>Cleaver for Congress</payeeName>
+      <recipientName>Emanuel Cleaver</recipientName>
+      <amount>1500.00</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Brotherhood of Boilermakers Campaign Assistance Fund</contributorName>
+      <payeeName>Yarmuth for Congress</payeeName>
+      <recipientName>John Yarmuth</recipientName>
+      <amount>1500.00</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Brotherhood of Boilermakers Campaign Assistance Fund</contributorName>
+      <payeeName>Friends of Bennie Thompson</payeeName>
+      <recipientName>Bennie Thompson</recipientName>
+      <amount>2000.00</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Brotherhood of Boilermakers Campaign Assistance Fund</contributorName>
+      <payeeName>Stand With Sanchez</payeeName>
+      <recipientName>Linda Sanchez</recipientName>
+      <amount>3000.00</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Brotherhood of Boilermakers Campaign Assistance Fund</contributorName>
+      <payeeName>Keep Al Green in Congress</payeeName>
+      <recipientName>Al Green</recipientName>
+      <amount>1500.00</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Brotherhood of Boilermakers Campaign Assistance Fund</contributorName>
+      <payeeName>Sheila Jackson Lee for Congress</payeeName>
+      <recipientName>Sheila Jackson-Lee</recipientName>
+      <amount>1500.00</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Brotherhood of Boilermakers Campaign Assistance Fund</contributorName>
+      <payeeName>Friends of Rosa DeLauro</payeeName>
+      <recipientName>Rosa DeLauro</recipientName>
+      <amount>2000.00</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Brotherhood of Boilermakers Campaign Assistance Fund</contributorName>
+      <payeeName>Conor Lamb for Congress</payeeName>
+      <recipientName>Conor Lamb</recipientName>
+      <amount>1500.00</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Brotherhood of Boilermakers Campaign Assistance Fund</contributorName>
+      <payeeName>Nevadans for Steven Horsford</payeeName>
+      <recipientName>Steven Horsford</recipientName>
+      <amount>1500.00</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Brotherhood of Boilermakers Campaign Assistance Fund</contributorName>
+      <payeeName>Sylvia Garcia for Congress</payeeName>
+      <recipientName>Sylvia Garcia</recipientName>
+      <amount>1500.00</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Brotherhood of Boilermakers Campaign Assistance Fund</contributorName>
+      <payeeName>Brenda Lawrence for Congress</payeeName>
+      <recipientName>Brenda Lawrence</recipientName>
+      <amount>1000.00</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Brotherhood of Boilermakers Campaign Assistance Fund</contributorName>
+      <payeeName>Swalwell for Congress</payeeName>
+      <recipientName>Eric Swalwell</recipientName>
+      <amount>3000.00</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Brotherhood of Boilermakers Campaign Assistance Fund</contributorName>
+      <payeeName>Friends of Dave Joyce</payeeName>
+      <recipientName>David Joyce</recipientName>
+      <amount>1500.00</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Brotherhood of Boilermakers Campaign Assistance Fund</contributorName>
+      <payeeName>Filemon Vela for Congress</payeeName>
+      <recipientName>Filemon Vela</recipientName>
+      <amount>1500.00</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Brotherhood of Boilermakers Campaign Assistance Fund</contributorName>
+      <payeeName>Kirkpatrick for Arizona</payeeName>
+      <recipientName>Ann Kirkpatrick</recipientName>
+      <amount>1500.00</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Brotherhood of Boilermakers Campaign Assistance Fund</contributorName>
+      <payeeName>Kuster for Congress</payeeName>
+      <recipientName>Ann McClane Kuster</recipientName>
+      <amount>1500.00</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Brotherhood of Boilermakers Campaign Assistance Fund</contributorName>
+      <payeeName>Hoyer's Majority Fund</payeeName>
+      <recipientName>Steny Hoyer</recipientName>
+      <amount>1500.00</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Brotherhood of Boilermakers Campaign Assistance Fund</contributorName>
+      <payeeName>Guy for Congress</payeeName>
+      <recipientName>Guy Reschenthaler</recipientName>
+      <amount>1500.00</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Brotherhood of Boilermakers Campaign Assistance Fund</contributorName>
+      <payeeName>Pete Stauber for Congress</payeeName>
+      <recipientName>Pete Stauber</recipientName>
+      <amount>1500.00</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Brotherhood of Boilermakers Campaign Assistance Fund</contributorName>
+      <payeeName>Gina Ortiz Jones for Congress</payeeName>
+      <recipientName>Gina Ortiz Jones</recipientName>
+      <amount>2000.00</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Brotherhood of Boilermakers Campaign Assistance Fund</contributorName>
+      <payeeName>Hoyer's Majority Fund</payeeName>
+      <recipientName>Steny Hoyer</recipientName>
+      <amount>1500.00</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Brotherhood of Boilermakers Campaign Assistance Fund</contributorName>
+      <payeeName>John Lewis for Congress</payeeName>
+      <recipientName>John Lewis</recipientName>
+      <amount>2000.00</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Brotherhood of Boilermakers Campaign Assistance Fund</contributorName>
+      <payeeName>Citizens for Eleanor Holmes Norton</payeeName>
+      <recipientName>Eleanor Holmes Norton</recipientName>
+      <amount>1500.00</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Brotherhood of Boilermakers Campaign Assistance Fund</contributorName>
+      <payeeName>Clay Jr. for Congress</payeeName>
+      <recipientName>William Clay Jr.</recipientName>
+      <amount>1500.00</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Brotherhood of Boilermakers Campaign Assistance Fund</contributorName>
+      <payeeName>Brian Higgins For Congress</payeeName>
+      <recipientName>Brian Higgins</recipientName>
+      <amount>1000.00</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Brotherhood of Boilermakers Campaign Assistance Fund</contributorName>
+      <payeeName>Courtney for Congress</payeeName>
+      <recipientName>Joseph Courtney</recipientName>
+      <amount>5000.00</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Brotherhood of Boilermakers Campaign Assistance Fund</contributorName>
+      <payeeName>Moore for Congress</payeeName>
+      <recipientName>Gwendolynne Moore</recipientName>
+      <amount>2000.00</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Brotherhood of Boilermakers Campaign Assistance Fund</contributorName>
+      <payeeName>DeFazio for Congress</payeeName>
+      <recipientName>Peter DeFazio</recipientName>
+      <amount>2000.00</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Brotherhood of Boilermakers Campaign Assistance Fund</contributorName>
+      <payeeName>Debbie Dingell for Congress</payeeName>
+      <recipientName>Debbie Dingell</recipientName>
+      <amount>2000.00</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Brotherhood of Boilermakers Campaign Assistance Fund</contributorName>
+      <payeeName>Bonnie Watson Coleman for Congress</payeeName>
+      <recipientName>Bonnie Watson Coleman</recipientName>
+      <amount>1500.00</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Brotherhood of Boilermakers Campaign Assistance Fund</contributorName>
+      <payeeName>Husky PAC</payeeName>
+      <recipientName>Joseph Courtney</recipientName>
+      <amount>5000.00</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Brotherhood of Boilermakers Campaign Assistance Fund</contributorName>
+      <payeeName>Richmond for Congress</payeeName>
+      <recipientName>Cedric Richmond</recipientName>
+      <amount>1500.00</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Brotherhood of Boilermakers Campaign Assistance Fund</contributorName>
+      <payeeName>Beatty for Congress</payeeName>
+      <recipientName>Joyce Beatty</recipientName>
+      <amount>1000.00</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Brotherhood of Boilermakers Campaign Assistance Fund</contributorName>
+      <payeeName>Titus for Congress</payeeName>
+      <recipientName>Dina Titus</recipientName>
+      <amount>1500.00</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Brotherhood of Boilermakers Campaign Assistance Fund</contributorName>
+      <payeeName>Mark Pocan for Congress</payeeName>
+      <recipientName>Mark Pocan</recipientName>
+      <amount>1500.00</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Brotherhood of Boilermakers Campaign Assistance Fund</contributorName>
+      <payeeName>Garamendi for Congress</payeeName>
+      <recipientName>John Garamendi</recipientName>
+      <amount>2500.00</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Brotherhood of Boilermakers Campaign Assistance Fund</contributorName>
+      <payeeName>Connolly for Congress</payeeName>
+      <recipientName>Gerry Connolly</recipientName>
+      <amount>2000.00</amount>
+      <date>12/20/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

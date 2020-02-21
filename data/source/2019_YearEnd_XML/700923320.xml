@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>Steptoe &amp; Johnson LLP</organizationName>
+  <lobbyistPrefix>Mr.</lobbyistPrefix>
+  <lobbyistFirstName>Christopher</lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>Caron</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>36710</senateRegID>
+  <houseRegID>31033</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/29/2020 2:01:52 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>
+  </noContributions>
+  <pacs>
+    <pac>
+      <name>Steptoe &amp; Johnson PAC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Steptoe &amp; Johnson PAC</contributorName>
+      <payeeName>The Reed Committee</payeeName>
+      <recipientName>The Honorable Jack Reed</recipientName>
+      <amount>1000</amount>
+      <date>7/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Steptoe &amp; Johnson PAC</contributorName>
+      <payeeName>Don Bacon for Congress</payeeName>
+      <recipientName>The Honorable Don Bacon</recipientName>
+      <amount>1000</amount>
+      <date>7/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Steptoe &amp; Johnson PAC</contributorName>
+      <payeeName>Cory Gardner for Senate</payeeName>
+      <recipientName>The Honorable Cory Gardner</recipientName>
+      <amount>1000</amount>
+      <date>7/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Steptoe &amp; Johnson PAC</contributorName>
+      <payeeName>Lucas for Congress</payeeName>
+      <recipientName>The Honorable Frank Lucas</recipientName>
+      <amount>1000</amount>
+      <date>7/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Steptoe &amp; Johnson PAC</contributorName>
+      <payeeName>Gwen Moore for Congress</payeeName>
+      <recipientName>The Honorable Gwen Moore</recipientName>
+      <amount>1000</amount>
+      <date>7/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Steptoe &amp; Johnson PAC</contributorName>
+      <payeeName>Tomorrow is Meaningful</payeeName>
+      <recipientName>The Honorable Tim Scott</recipientName>
+      <amount>1500</amount>
+      <date>7/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Steptoe &amp; Johnson PAC</contributorName>
+      <payeeName>Cory Gardner for Senate</payeeName>
+      <recipientName>The Honorable Cory Gardner</recipientName>
+      <amount>1000</amount>
+      <date>7/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Steptoe &amp; Johnson PAC</contributorName>
+      <payeeName>Thom Tillis Committee</payeeName>
+      <recipientName>The Honorable Thom Tillis</recipientName>
+      <amount>1000</amount>
+      <date>7/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Steptoe &amp; Johnson PAC</contributorName>
+      <payeeName>Friends of Dan Kildee</payeeName>
+      <recipientName>The Honorable Dan Kildee</recipientName>
+      <amount>1000</amount>
+      <date>9/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Steptoe &amp; Johnson PAC</contributorName>
+      <payeeName>Lisa Murkowski for US Senate</payeeName>
+      <recipientName>The Honorable Lisa Murkowski</recipientName>
+      <amount>1000</amount>
+      <date>9/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Steptoe &amp; Johnson PAC</contributorName>
+      <payeeName>Nancy Pelosi for Congress</payeeName>
+      <recipientName>The Honorable Nancy Pelosi</recipientName>
+      <amount>2500</amount>
+      <date>9/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Steptoe &amp; Johnson PAC</contributorName>
+      <payeeName>Collin Peterson for Congress</payeeName>
+      <recipientName>The Honorable Collin Peterson</recipientName>
+      <amount>1000</amount>
+      <date>9/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Steptoe &amp; Johnson PAC</contributorName>
+      <payeeName>Emmer for Congress</payeeName>
+      <recipientName>The Honorable Tom Emmer</recipientName>
+      <amount>1000</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Steptoe &amp; Johnson PAC</contributorName>
+      <payeeName>DSCC</payeeName>
+      <recipientName>The Honorable DSCC</recipientName>
+      <amount>5000</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Steptoe &amp; Johnson PAC</contributorName>
+      <payeeName>Friends of Schumer</payeeName>
+      <recipientName>The Honorable Chuck Schumer</recipientName>
+      <amount>2500</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Steptoe &amp; Johnson PAC</contributorName>
+      <payeeName>Adrian Smith for Congress</payeeName>
+      <recipientName>The Honorable Adrian Smith</recipientName>
+      <amount>1000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Steptoe &amp; Johnson PAC</contributorName>
+      <payeeName>Wyden for Oregon</payeeName>
+      <recipientName>The Honorable Ron Wyden</recipientName>
+      <amount>1000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Steptoe &amp; Johnson PAC</contributorName>
+      <payeeName>Peters for Michigan</payeeName>
+      <recipientName>The Honorable Gary Peters</recipientName>
+      <amount>2500</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Steptoe &amp; Johnson PAC</contributorName>
+      <payeeName>Butterfield for Congress</payeeName>
+      <recipientName>The Honorable G.K. Butterfield</recipientName>
+      <amount>2500</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Steptoe &amp; Johnson PAC</contributorName>
+      <payeeName>Rodney Davis for Congress</payeeName>
+      <recipientName>The Honorable Rodney Davis</recipientName>
+      <amount>1000</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Steptoe &amp; Johnson PAC</contributorName>
+      <payeeName>NRSC</payeeName>
+      <recipientName>The Honorable NRSC</recipientName>
+      <amount>5000</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Steptoe &amp; Johnson PAC</contributorName>
+      <payeeName>Heinrich Victory Fund</payeeName>
+      <recipientName>The Honorable Martin Heinrich</recipientName>
+      <amount>1000</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Steptoe &amp; Johnson PAC</contributorName>
+      <payeeName>Upton for All of Us</payeeName>
+      <recipientName>The Honorable Fred Upton</recipientName>
+      <amount>1000</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Steptoe &amp; Johnson PAC</contributorName>
+      <payeeName>George Holding for Congress</payeeName>
+      <recipientName>The Honorable George Holding</recipientName>
+      <amount>1500</amount>
+      <date>10/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Steptoe &amp; Johnson PAC</contributorName>
+      <payeeName>Xochitl for New Mexico</payeeName>
+      <recipientName>The Honorable Xochitl Torres Small</recipientName>
+      <amount>1000</amount>
+      <date>10/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Steptoe &amp; Johnson PAC</contributorName>
+      <payeeName>Mike Levin for Congress</payeeName>
+      <recipientName>The Honorable Mike Levin</recipientName>
+      <amount>1000</amount>
+      <date>10/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Steptoe &amp; Johnson PAC</contributorName>
+      <payeeName>Kendra Horn for Congress</payeeName>
+      <recipientName>The Honorable Kendra Horn</recipientName>
+      <amount>1000</amount>
+      <date>10/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Steptoe &amp; Johnson PAC</contributorName>
+      <payeeName>Jenniffer for Congress</payeeName>
+      <recipientName>The Honorable Jenniffer  Gonzalez</recipientName>
+      <amount>1000</amount>
+      <date>10/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Steptoe &amp; Johnson PAC</contributorName>
+      <payeeName>Tina Smith for Minnesota</payeeName>
+      <recipientName>The Honorable Tina Smith</recipientName>
+      <amount>2500</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Steptoe &amp; Johnson PAC</contributorName>
+      <payeeName>Families for James Lankford</payeeName>
+      <recipientName>The Honorable James Lankford</recipientName>
+      <amount>1000</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Steptoe &amp; Johnson PAC</contributorName>
+      <payeeName>Friends of Ben McAdams</payeeName>
+      <recipientName>The Honorable Ben McAdams</recipientName>
+      <amount>2500</amount>
+      <date>10/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Steptoe &amp; Johnson PAC</contributorName>
+      <payeeName>Brindisi for Congress</payeeName>
+      <recipientName>The Honorable Anthony Brindisi</recipientName>
+      <amount>1000</amount>
+      <date>11/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Steptoe &amp; Johnson PAC</contributorName>
+      <payeeName>Armstrong for Congress</payeeName>
+      <recipientName>The Honorable Kelly Armstrong</recipientName>
+      <amount>1000</amount>
+      <date>11/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Steptoe &amp; Johnson PAC</contributorName>
+      <payeeName>Casten for Congress</payeeName>
+      <recipientName>The Honorable Sean Casten</recipientName>
+      <amount>1000</amount>
+      <date>11/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Steptoe &amp; Johnson PAC</contributorName>
+      <payeeName>Matsui for Congress</payeeName>
+      <recipientName>The Honorable Doris Matsui</recipientName>
+      <amount>2500</amount>
+      <date>11/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Steptoe &amp; Johnson PAC</contributorName>
+      <payeeName>Jamie Raskin for Congress</payeeName>
+      <recipientName>The Honorable Jamie Raskin</recipientName>
+      <amount>1000</amount>
+      <date>11/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Steptoe &amp; Johnson PAC</contributorName>
+      <payeeName>Brady for Congress</payeeName>
+      <recipientName>The Honorable Kevin Brady</recipientName>
+      <amount>1000</amount>
+      <date>11/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Steptoe &amp; Johnson PAC</contributorName>
+      <payeeName>Sean Patrick Maloney for Congress</payeeName>
+      <recipientName>The Honorable Sean Patrick Maloney</recipientName>
+      <amount>1000</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Steptoe &amp; Johnson PAC</contributorName>
+      <payeeName>Team Graham</payeeName>
+      <recipientName>The Honorable Lindsey Graham</recipientName>
+      <amount>1000</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Steptoe &amp; Johnson PAC</contributorName>
+      <payeeName>Joni for Iowa</payeeName>
+      <recipientName>The Honorable Joni Ernst</recipientName>
+      <amount>1000</amount>
+      <date>12/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Steptoe &amp; Johnson PAC</contributorName>
+      <payeeName>Mike Gallagher for Wisconsin</payeeName>
+      <recipientName>The Honorable Mike Gallagher</recipientName>
+      <amount>1000</amount>
+      <date>12/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Steptoe &amp; Johnson PAC</contributorName>
+      <payeeName>Collins for Senator</payeeName>
+      <recipientName>The Honorable Susan Collins</recipientName>
+      <amount>1000</amount>
+      <date>12/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Steptoe &amp; Johnson PAC</contributorName>
+      <payeeName>Friends of Denver Riggleman</payeeName>
+      <recipientName>The Honorable Denver Riggleman</recipientName>
+      <amount>1000</amount>
+      <date>12/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Steptoe &amp; Johnson PAC</contributorName>
+      <payeeName>Katko for Congress</payeeName>
+      <recipientName>The Honorable John Katko</recipientName>
+      <amount>1000</amount>
+      <date>12/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Steptoe &amp; Johnson PAC</contributorName>
+      <payeeName>Citizens for Waters</payeeName>
+      <recipientName>The Honorable Maxine Waters</recipientName>
+      <amount>2500</amount>
+      <date>12/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Steptoe &amp; Johnson PAC</contributorName>
+      <payeeName>Hoyer's Majority Fund</payeeName>
+      <recipientName>The Honorable Steny Hoyer</recipientName>
+      <amount>2500</amount>
+      <date>12/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Steptoe &amp; Johnson PAC</contributorName>
+      <payeeName>Himes for Congress</payeeName>
+      <recipientName>The Honorable Jim Himes</recipientName>
+      <amount>1000</amount>
+      <date>12/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Steptoe &amp; Johnson PAC</contributorName>
+      <payeeName>Hudson for Congress</payeeName>
+      <recipientName>The Honorable Richard Hudson</recipientName>
+      <amount>1000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Steptoe &amp; Johnson PAC</contributorName>
+      <payeeName>The Reed Committee</payeeName>
+      <recipientName>The Honorable Jack Reed</recipientName>
+      <amount>1500</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Steptoe &amp; Johnson PAC</contributorName>
+      <payeeName>Ann Wagner for Congress</payeeName>
+      <recipientName>The Honorable Ann Wagner</recipientName>
+      <amount>1000</amount>
+      <date>12/19/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>American Airlines, Inc.</organizationName>
+  <lobbyistPrefix>Mr.</lobbyistPrefix>
+  <lobbyistFirstName>Stephen</lobbyistFirstName>
+  <lobbyistMiddleName>S</lobbyistMiddleName>
+  <lobbyistLastName>Neuman</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>1422</senateRegID>
+  <houseRegID>30853</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>I am a deciding member of the American Airlines Inc. Political Action Committee. The PAC's contributions will be reported on American Airlines, Inc.'s LD-203. This report was prepared with reasonable due diligence.</comments>
+  <signedDate>1/20/2020 3:07:07 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Sharice Davids</payeeName>
+      <recipientName>Sharice Davids</recipientName>
+      <amount>1000.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Gina Ortiz</payeeName>
+      <recipientName>Gina Ortiz</recipientName>
+      <amount>250.00</amount>
+      <date>09/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Dick Durbin</payeeName>
+      <recipientName>Dick Durbin</recipientName>
+      <amount>1000.00</amount>
+      <date>07/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Mikie Sherrill</payeeName>
+      <recipientName>Mikie Sherrill
+</recipientName>
+      <amount>500.00</amount>
+      <date>07/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Steve Bullock</payeeName>
+      <recipientName>Steve Bullock</recipientName>
+      <amount>250.00</amount>
+      <date>07/23/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

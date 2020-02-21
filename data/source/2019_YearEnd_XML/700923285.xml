@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>Covanta Energy LLC</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>Theresa McCullough</contactName>
+  <senateRegID>30041</senateRegID>
+  <houseRegID>31949</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/29/2020 1:45:17 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>Covanta Energy LLC Political Action Committee</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Covanta Energy LLC Political Action Committee</contributorName>
+      <payeeName>Donald Payne Jr. for Congress</payeeName>
+      <recipientName>Donald Payne Jr.</recipientName>
+      <amount>1000.00</amount>
+      <date>7/15/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Covanta Energy LLC Political Action Committee</contributorName>
+      <payeeName>McEachin for Congress</payeeName>
+      <recipientName>Donald McEachin</recipientName>
+      <amount>1000.00</amount>
+      <date>7/29/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Covanta Energy LLC Political Action Committee</contributorName>
+      <payeeName>Chris Coons for Congress</payeeName>
+      <recipientName>Chris Coons</recipientName>
+      <amount>1000.00</amount>
+      <date>7/29/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Covanta Energy LLC Political Action Committee</contributorName>
+      <payeeName>Steve Daines for Montana</payeeName>
+      <recipientName>Steve Daines</recipientName>
+      <amount>1000.00</amount>
+      <date>7/29/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Covanta Energy LLC Political Action Committee</contributorName>
+      <payeeName>Families for Lankford</payeeName>
+      <recipientName>James Lankford</recipientName>
+      <amount>1000.00</amount>
+      <date>7/29/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Covanta Energy LLC Political Action Committee</contributorName>
+      <payeeName>Castor for Congress</payeeName>
+      <recipientName>Kathy Castor</recipientName>
+      <amount>1000.00</amount>
+      <date>8/1/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Covanta Energy LLC Political Action Committee</contributorName>
+      <payeeName>Donald Norcross for Congress</payeeName>
+      <recipientName>Donald Norcross</recipientName>
+      <amount>2500.00</amount>
+      <date>8/9/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Covanta Energy LLC Political Action Committee</contributorName>
+      <payeeName>The Reed Committee</payeeName>
+      <recipientName>Jack Reed</recipientName>
+      <amount>1000.00</amount>
+      <date>9/11/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Covanta Energy LLC Political Action Committee</contributorName>
+      <payeeName>Pascrell for Congress</payeeName>
+      <recipientName>Bill Pascrell</recipientName>
+      <amount>2500.00</amount>
+      <date>9/11/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Covanta Energy LLC Political Action Committee</contributorName>
+      <payeeName>Common Ground PAC</payeeName>
+      <recipientName>Tim Kaine</recipientName>
+      <amount>1000.00</amount>
+      <date>9/25/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Covanta Energy LLC Political Action Committee</contributorName>
+      <payeeName>Shaheen for Senate</payeeName>
+      <recipientName>Jeanne Shaheen</recipientName>
+      <amount>2500.00</amount>
+      <date>10/2/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Covanta Energy LLC Political Action Committee</contributorName>
+      <payeeName>Sires for Congress, Inc.</payeeName>
+      <recipientName>Albio Sires</recipientName>
+      <amount>1000.00</amount>
+      <date>10/2/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Covanta Energy LLC Political Action Committee</contributorName>
+      <payeeName>Larson for Congress</payeeName>
+      <recipientName>John Larson</recipientName>
+      <amount>2000.00</amount>
+      <date>10/18/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Covanta Energy LLC Political Action Committee</contributorName>
+      <payeeName>Friend of Jim Inhofe</payeeName>
+      <recipientName>Jim Inhofe</recipientName>
+      <amount>1000.00</amount>
+      <date>10/22/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Covanta Energy LLC Political Action Committee</contributorName>
+      <payeeName>Garamendi for Congress</payeeName>
+      <recipientName>John Garamendi</recipientName>
+      <amount>1000.00</amount>
+      <date>10/22/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Covanta Energy LLC Political Action Committee</contributorName>
+      <payeeName>Pascrell for Congress</payeeName>
+      <recipientName>Bill Pascrell</recipientName>
+      <amount>1000.00</amount>
+      <date>11/18/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Covanta Energy LLC Political Action Committee</contributorName>
+      <payeeName>Casten for Congress</payeeName>
+      <recipientName>Sean Casten</recipientName>
+      <amount>1000.00</amount>
+      <date>11/18/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Covanta Energy LLC Political Action Committee</contributorName>
+      <payeeName>Mikie Sherrill for Congress</payeeName>
+      <recipientName>Mikie Sherrill</recipientName>
+      <amount>1000.00</amount>
+      <date>11/18/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Covanta Energy LLC Political Action Committee</contributorName>
+      <payeeName>Wyden for Oregon</payeeName>
+      <recipientName>Ron Wyden</recipientName>
+      <amount>1000.00</amount>
+      <date>11/20/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Covanta Energy LLC Political Action Committee</contributorName>
+      <payeeName>DSCC the Democratic Senatorial Campaign Committee</payeeName>
+      <recipientName>Bob Menendez</recipientName>
+      <amount>10000.00</amount>
+      <date>11/25/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Covanta Energy LLC Political Action Committee</contributorName>
+      <payeeName>Synergy PAC</payeeName>
+      <recipientName>John Larson</recipientName>
+      <amount>1000.00</amount>
+      <date>12/4/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Covanta Energy LLC Political Action Committee</contributorName>
+      <payeeName>Paul Tonko for Congress</payeeName>
+      <recipientName>Paul Tonko</recipientName>
+      <amount>1000.00</amount>
+      <date>12/4/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Covanta Energy LLC Political Action Committee</contributorName>
+      <payeeName>Wyden for Oregon</payeeName>
+      <recipientName>Ron Wyden</recipientName>
+      <amount>1000.00</amount>
+      <date>12/13/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Covanta Energy LLC Political Action Committee</contributorName>
+      <payeeName>Denali Leadership PAC</payeeName>
+      <recipientName>Lisa Murkowski</recipientName>
+      <amount>2500.00</amount>
+      <date>12/13/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Covanta Energy LLC Political Action Committee</contributorName>
+      <payeeName>Collins for Senate</payeeName>
+      <recipientName>Susan Collins</recipientName>
+      <amount>1000.00</amount>
+      <date>12/17/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Covanta Energy LLC Political Action Committee</contributorName>
+      <payeeName>Anthony Brown for Congress</payeeName>
+      <recipientName>Anthony Brown</recipientName>
+      <amount>1000.00</amount>
+      <date>12/19/19</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

@@ -1,0 +1,998 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>K&amp;L GATES LLP</organizationName>
+  <lobbyistPrefix>Mr.</lobbyistPrefix>
+  <lobbyistFirstName>SCOTT</lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>NELSON</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>32098</senateRegID>
+  <houseRegID>31355</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/26/2020 3:45:13 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>K&amp;L Gates PAC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>Kaptur for Congress</payeeName>
+      <recipientName>Congresswoman Marcy Kaptur</recipientName>
+      <amount>1000</amount>
+      <date>07/01/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>McConnell Senate Committee</payeeName>
+      <recipientName>Senator Mitch McConnell</recipientName>
+      <amount>2500</amount>
+      <date>07/01/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>The Grassley Committee</payeeName>
+      <recipientName>Senator Charles Grassley</recipientName>
+      <amount>1000</amount>
+      <date>07/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>Karen Bass for Congress</payeeName>
+      <recipientName>Congresswoman Karen Bass</recipientName>
+      <amount>1000</amount>
+      <date>07/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>Debbie Dingell for Congress</payeeName>
+      <recipientName>Congresswoman Debbie Dingell</recipientName>
+      <amount>1000</amount>
+      <date>07/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>Jaime for Congress</payeeName>
+      <recipientName>Congresswoman Jaime Herrera Beutler</recipientName>
+      <amount>1500</amount>
+      <date>07/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>Friends of Mark Warner</payeeName>
+      <recipientName>Senator Mark Warner</recipientName>
+      <amount>500</amount>
+      <date>07/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>National Republican Senatorial Committee</payeeName>
+      <recipientName>National Republican Senatorial Committee</recipientName>
+      <amount>5000</amount>
+      <date>07/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>Stauber for Congress</payeeName>
+      <recipientName>Congressman Pete Stauber</recipientName>
+      <amount>500</amount>
+      <date>07/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>Perlmutter for Congress</payeeName>
+      <recipientName>Congressman Ed Perlmutter</recipientName>
+      <amount>1000</amount>
+      <date>07/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>Eddie Bernice Johnson for Congress</payeeName>
+      <recipientName>Congresswoman Eddie Bernice Johnson</recipientName>
+      <amount>1000</amount>
+      <date>07/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>Shaheen for Senate</payeeName>
+      <recipientName>Senator Jeanne Shaheen</recipientName>
+      <amount>1000</amount>
+      <date>08/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>The Markey Committee</payeeName>
+      <recipientName>Senator Ed Markey</recipientName>
+      <amount>1000</amount>
+      <date>08/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>Sinema for Arizona</payeeName>
+      <recipientName>Senator Kyrsten Sinema</recipientName>
+      <amount>1000</amount>
+      <date>08/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>Denny Heck for Congress</payeeName>
+      <recipientName>Congressman Denny Heck</recipientName>
+      <amount>2000</amount>
+      <date>08/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>People for Derek Kilmer</payeeName>
+      <recipientName>Congressman Derek Kilmer</recipientName>
+      <amount>500</amount>
+      <date>08/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>Meuser for Congress</payeeName>
+      <recipientName>Congressman Dan Meuser</recipientName>
+      <amount>1000</amount>
+      <date>08/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>Jimmy Panetta for Congress</payeeName>
+      <recipientName>Congressman Jimmy Panetta</recipientName>
+      <amount>2000</amount>
+      <date>08/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>Mike Thompson for Congress</payeeName>
+      <recipientName>Congressman Mike Thompson</recipientName>
+      <amount>1000</amount>
+      <date>08/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>Mikie Sherrill for Congress</payeeName>
+      <recipientName>Congresswoman Mikie Sherrill</recipientName>
+      <amount>1000</amount>
+      <date>08/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>Ken Calvert for Congress</payeeName>
+      <recipientName>Congressman Ken Calvert</recipientName>
+      <amount>1000</amount>
+      <date>08/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>Jeff Merkley for Oregon</payeeName>
+      <recipientName>Senator Jeff Merkley</recipientName>
+      <amount>2500</amount>
+      <date>08/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>People for Derek Kilmer</payeeName>
+      <recipientName>Congressman Derek Kilmer</recipientName>
+      <amount>500</amount>
+      <date>08/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>Adam Smith for Congress Committee</payeeName>
+      <recipientName>Congressman Adam Smith</recipientName>
+      <amount>1000</amount>
+      <date>09/02/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>Friends of David Schweikert</payeeName>
+      <recipientName>Congressman David Schweikert</recipientName>
+      <amount>1000</amount>
+      <date>09/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>Kind for Congress</payeeName>
+      <recipientName>Congressman Ron Kind</recipientName>
+      <amount>1000</amount>
+      <date>09/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>Kurt Schrader for Congress</payeeName>
+      <recipientName>Congressman Kurt Schrader</recipientName>
+      <amount>1000</amount>
+      <date>09/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>DeFazio for Congress</payeeName>
+      <recipientName>Congressman Peter DeFazio</recipientName>
+      <amount>1000</amount>
+      <date>09/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>Simpson for Congress</payeeName>
+      <recipientName>Congressman Mike Simpson</recipientName>
+      <amount>2000</amount>
+      <date>09/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>Doyle for Congress Committee</payeeName>
+      <recipientName>Congressman Mike Doyle</recipientName>
+      <amount>1000</amount>
+      <date>09/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>Friends of Dan Kildee</payeeName>
+      <recipientName>Congressman Dan Kildee</recipientName>
+      <amount>1000</amount>
+      <date>09/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>Friends of Jim Inhofe Committee</payeeName>
+      <recipientName>Senator Jim Inhofe</recipientName>
+      <amount>1000</amount>
+      <date>09/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>McConnell Senate Committee</payeeName>
+      <recipientName>Senator Mitch McConnell</recipientName>
+      <amount>2500</amount>
+      <date>09/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>Friends of David Joyce</payeeName>
+      <recipientName>Congressman David Joyce</recipientName>
+      <amount>1000</amount>
+      <date>09/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>National Republican Congressional Committee</payeeName>
+      <recipientName>National Republican Congressional Committee</recipientName>
+      <amount>5000</amount>
+      <date>09/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>Friends of Roy Blunt</payeeName>
+      <recipientName>Senator Roy Blunt</recipientName>
+      <amount>1000</amount>
+      <date>09/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>Mario Diaz Balart for Congress</payeeName>
+      <recipientName>Congressman Mario Diaz Balart</recipientName>
+      <amount>1000</amount>
+      <date>09/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>Shaheen for Senate</payeeName>
+      <recipientName>Senator Jeanne Shaheen</recipientName>
+      <amount>1000</amount>
+      <date>09/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>Kevin McCarthy for Congress</payeeName>
+      <recipientName>Congressman Kevin McCarthy</recipientName>
+      <amount>2500</amount>
+      <date>09/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>Joni for Iowa</payeeName>
+      <recipientName>Senator Joni Ernst</recipientName>
+      <amount>1000</amount>
+      <date>09/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>Van Drew for Congress</payeeName>
+      <recipientName>Congressman Jeff Van Drew</recipientName>
+      <amount>500</amount>
+      <date>09/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>The Markey Committee</payeeName>
+      <recipientName>Senator Ed Markey</recipientName>
+      <amount>1000</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>McHenry for Congress</payeeName>
+      <recipientName>Congressman Patrick McHenry</recipientName>
+      <amount>1000</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>Elise for Congress</payeeName>
+      <recipientName>Congresswoman Elise Stefanik</recipientName>
+      <amount>1000</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>Garamendi for Congress</payeeName>
+      <recipientName>Congressman John Garamendi</recipientName>
+      <amount>1000</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>Graves for Congress</payeeName>
+      <recipientName>Congressman Sam Graves</recipientName>
+      <amount>1000</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>DeFazio for Congress</payeeName>
+      <recipientName>Congressman Peter DeFazio</recipientName>
+      <amount>1000</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>Anna Eshoo for Congress</payeeName>
+      <recipientName>Congresswoman Anna Eshoo</recipientName>
+      <amount>1000</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>Tom Reed for Congress</payeeName>
+      <recipientName>Congressman Tom Reed</recipientName>
+      <amount>1000</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>Maloney for Congress</payeeName>
+      <recipientName>Congresswoman Carolyn Maloney</recipientName>
+      <amount>1000</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>Scott Peters for Congress</payeeName>
+      <recipientName>Congressman Scott Peters</recipientName>
+      <amount>1000</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>The Thom Tillis Committee</payeeName>
+      <recipientName>Senator Thom Tillis</recipientName>
+      <amount>1000</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>Martin Heinrich for Senate</payeeName>
+      <recipientName>Senator Martin Heinrich</recipientName>
+      <amount>500</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>Mike Levin for Congress</payeeName>
+      <recipientName>Congressman Mike Levin</recipientName>
+      <amount>1000</amount>
+      <date>10/01/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>Eddie Bernice Johnson for Congress</payeeName>
+      <recipientName>Congresswoman Eddie Bernice Johnson</recipientName>
+      <amount>1500</amount>
+      <date>10/02/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>Bonamici for Congress</payeeName>
+      <recipientName>Congresswoman Suzanne Bonamici</recipientName>
+      <amount>1000</amount>
+      <date>10/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>Friends of David Joyce</payeeName>
+      <recipientName>Congressman David Joyce</recipientName>
+      <amount>1000</amount>
+      <date>10/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>Blaine for Congress</payeeName>
+      <recipientName>Congressman Blaine Luetkemeyer</recipientName>
+      <amount>1000</amount>
+      <date>10/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>John Kennedy for US Senator</payeeName>
+      <recipientName>Senator John Kennedy</recipientName>
+      <amount>1000</amount>
+      <date>10/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>Boozman for Arkansas</payeeName>
+      <recipientName>Senator John Boozman</recipientName>
+      <amount>1000</amount>
+      <date>10/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>Greg Pence for Congress</payeeName>
+      <recipientName>Congressman Greg Pence</recipientName>
+      <amount>1000</amount>
+      <date>10/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>John Carter for Congress</payeeName>
+      <recipientName>Congressman John Carter</recipientName>
+      <amount>1000</amount>
+      <date>10/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>Capito for West Virginia</payeeName>
+      <recipientName>Senator Shelly Moore Capito</recipientName>
+      <amount>2500</amount>
+      <date>10/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>Sclise for Congress</payeeName>
+      <recipientName>Congressman Steve Scalise</recipientName>
+      <amount>1000</amount>
+      <date>10/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>People for Patty Murray</payeeName>
+      <recipientName>Senator Patty Murray</recipientName>
+      <amount>1000</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>New Democrat Coalition PAC</payeeName>
+      <recipientName>New Democrat Coalition PAC</recipientName>
+      <amount>5000</amount>
+      <date>10/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>Hoyer for Congress</payeeName>
+      <recipientName>Congressman Steny Hoyer</recipientName>
+      <amount>500</amount>
+      <date>10/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>Debbie Dingell for Congress</payeeName>
+      <recipientName>Congresswoman Debbie Dingell</recipientName>
+      <amount>1000</amount>
+      <date>10/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>Morgan Griffith for Congress</payeeName>
+      <recipientName>Congressman Morgan Griffith</recipientName>
+      <amount>1000</amount>
+      <date>10/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>Citizens to Elect Rick Larsen</payeeName>
+      <recipientName>Congressman Rick Larsen</recipientName>
+      <amount>2000</amount>
+      <date>10/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>Russ Fulcher for Idaho</payeeName>
+      <recipientName>Congressman Russ Fulcher</recipientName>
+      <amount>1000</amount>
+      <date>10/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>Kind for Congress</payeeName>
+      <recipientName>Congressman Ron Kind</recipientName>
+      <amount>1000</amount>
+      <date>10/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>Tammy for Illinois</payeeName>
+      <recipientName>Senator Tammy Duckworth</recipientName>
+      <amount>1500</amount>
+      <date>11/01/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>Cindy Hyde-Smith for U.S. Senate</payeeName>
+      <recipientName>Senator Cindy Hyde-Smith</recipientName>
+      <amount>1000</amount>
+      <date>11/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>Alaskans for Dan Sullivan</payeeName>
+      <recipientName>Senator Dan Sullivan</recipientName>
+      <amount>1500</amount>
+      <date>11/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>Friends of Bill Posey</payeeName>
+      <recipientName>Congressman Bill Posey</recipientName>
+      <amount>1000</amount>
+      <date>11/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>Rob Portman for US Senate</payeeName>
+      <recipientName>Senator Rob Portman</recipientName>
+      <amount>1000</amount>
+      <date>11/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>Glenn Grothman for Congress</payeeName>
+      <recipientName>Congressman Glenn Grothman</recipientName>
+      <amount>1000</amount>
+      <date>11/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>Brady for Congress</payeeName>
+      <recipientName>Congressman Kevin Brady</recipientName>
+      <amount>1000</amount>
+      <date>11/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>Steve Chabot for Congress</payeeName>
+      <recipientName>Congressman Steve Chabot</recipientName>
+      <amount>1000</amount>
+      <date>11/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>Friends of Denver Riggleman</payeeName>
+      <recipientName>Congressman Denver Riggleman</recipientName>
+      <amount>1000</amount>
+      <date>11/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>Cory Gardner for Senate</payeeName>
+      <recipientName>Senator Cory Gardner</recipientName>
+      <amount>3000</amount>
+      <date>11/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>Doyle for Congress Committee</payeeName>
+      <recipientName>Congressman Mike Doyle</recipientName>
+      <amount>1000</amount>
+      <date>11/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>Dan Newhouse for Congress</payeeName>
+      <recipientName>Congressman Dan Newhouse</recipientName>
+      <amount>1000</amount>
+      <date>11/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>Kay Granger for Congress</payeeName>
+      <recipientName>Congresswoman Kay Granger</recipientName>
+      <amount>2500</amount>
+      <date>11/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>Cleaver for Congress</payeeName>
+      <recipientName>Congressman Emanuel Cleaver</recipientName>
+      <amount>500</amount>
+      <date>11/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>Carper for Senate</payeeName>
+      <recipientName>Senator Tom Carper</recipientName>
+      <amount>1000</amount>
+      <date>11/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>The Markey Committee</payeeName>
+      <recipientName>Senator Ed Markey</recipientName>
+      <amount>1000</amount>
+      <date>11/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>Liz Cheney for Wyoming</payeeName>
+      <recipientName>Congresswoman Liz Cheney</recipientName>
+      <amount>1000</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>Peterson for Congress</payeeName>
+      <recipientName>Congressman Collin Peterson</recipientName>
+      <amount>1000</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>Pallone for Congress</payeeName>
+      <recipientName>Congressman Frank Pallone</recipientName>
+      <amount>2500</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>Earl Blumenauer for Congress</payeeName>
+      <recipientName>Congressman Earl Blumenauer</recipientName>
+      <amount>1000</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>Joni for Iowa</payeeName>
+      <recipientName>Senator Joni Ernst</recipientName>
+      <amount>1000</amount>
+      <date>12/02/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>Guy for Congress</payeeName>
+      <recipientName>Congressman Guy Reschenthaler</recipientName>
+      <amount>1000</amount>
+      <date>12/02/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>Shaheen for Senate</payeeName>
+      <recipientName>Senator Jeanne Shaheen</recipientName>
+      <amount>500</amount>
+      <date>12/03/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>Matsui for Congress</payeeName>
+      <recipientName>Congresswoman Doris Matsui</recipientName>
+      <amount>1000</amount>
+      <date>12/03/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>Rounds for Senate</payeeName>
+      <recipientName>Senator Mike Rounds</recipientName>
+      <amount>1000</amount>
+      <date>12/04/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>Collins for Senator</payeeName>
+      <recipientName>Senator Susan Collins</recipientName>
+      <amount>1000</amount>
+      <date>12/04/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>Steve Daines for Montana</payeeName>
+      <recipientName>Senator Steve Daines</recipientName>
+      <amount>3000</amount>
+      <date>12/04/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>Virginia Foxx for Congress</payeeName>
+      <recipientName>Congresswoman Virginia Foxx</recipientName>
+      <amount>1000</amount>
+      <date>12/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>Andy Barr for Congress</payeeName>
+      <recipientName>Congressman Andy Barr</recipientName>
+      <amount>1000</amount>
+      <date>12/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>Mike Gallagher for Wisconsin</payeeName>
+      <recipientName>Congressman Mike Gallagher</recipientName>
+      <amount>500</amount>
+      <date>12/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>Capito for West Virginia</payeeName>
+      <recipientName>Senator Shelly Moore Capito</recipientName>
+      <amount>2500</amount>
+      <date>12/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>Michael Waltz for Congress</payeeName>
+      <recipientName>Congressman Michael Waltz</recipientName>
+      <amount>1000</amount>
+      <date>12/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>Cooper for Congress Committee</payeeName>
+      <recipientName>Congressman Jim Cooper</recipientName>
+      <amount>1000</amount>
+      <date>12/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>Perdue for Senate</payeeName>
+      <recipientName>Senator David Perdue</recipientName>
+      <amount>1000</amount>
+      <date>12/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>Marco Rubio for Senate</payeeName>
+      <recipientName>Senator Marco Rubio</recipientName>
+      <amount>1000</amount>
+      <date>12/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>Jenniffer for Congress</payeeName>
+      <recipientName>Congresswoman Jennifer Gonzalez-Colon</recipientName>
+      <amount>1000</amount>
+      <date>12/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>Cloud for Congress</payeeName>
+      <recipientName>Congressman Michael Cloud</recipientName>
+      <amount>1000</amount>
+      <date>12/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>Maloney for Congress</payeeName>
+      <recipientName>Congresswoman Carolyn Maloney</recipientName>
+      <amount>2500</amount>
+      <date>12/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>Georgians for Kelly Loeffler</payeeName>
+      <recipientName>Senator Kelly Loeffler</recipientName>
+      <amount>1000</amount>
+      <date>12/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>Shaheen for Senate</payeeName>
+      <recipientName>Senator Jeanne Shaheen</recipientName>
+      <amount>500</amount>
+      <date>12/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>People for Patty Murray</payeeName>
+      <recipientName>Senator Patty Murray</recipientName>
+      <amount>1000</amount>
+      <date>12/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>Bonnie Watson Coleman for Congress</payeeName>
+      <recipientName>Congresswoman Bonnie Watson Coleman</recipientName>
+      <amount>500</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>K&amp;L Gates PAC</contributorName>
+      <payeeName>Alex Mooney for Congress</payeeName>
+      <recipientName>Congressman Alex Mooney</recipientName>
+      <amount>500</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Perimeter PAC</payeeName>
+      <recipientName>Sen. Tammy Duckworth</recipientName>
+      <amount>1500.00</amount>
+      <date>11/01/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Rosen for Nevada</payeeName>
+      <recipientName>Sen. Jacky Rosen</recipientName>
+      <amount>250.00</amount>
+      <date>09/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Jeff Merkley for Oregon</payeeName>
+      <recipientName>Sen. Jeff Merkley</recipientName>
+      <amount>1000.00</amount>
+      <date>08/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Kurt Schrader for Congress</payeeName>
+      <recipientName>Rep. Kurt Schrader</recipientName>
+      <amount>500.00</amount>
+      <date>09/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Tina Smith for Minnesota</payeeName>
+      <recipientName>Sen. Tina Smith</recipientName>
+      <amount>1000.00</amount>
+      <date>08/27/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

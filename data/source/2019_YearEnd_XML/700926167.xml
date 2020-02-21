@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>Ally Financial Inc.</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>Joshua Wilsusen</contactName>
+  <senateRegID>313737</senateRegID>
+  <houseRegID>39147</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/30/2020 5:17:30 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>
+  </noContributions>
+  <pacs>
+    <pac>
+      <name>Ally Financial Inc. Advocacy Political Action Committee</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ally Financial Inc. Advocacy Political Action Committee</contributorName>
+      <payeeName>Motor City Pac</payeeName>
+      <recipientName>Sen. Gary Peters</recipientName>
+      <amount>5000</amount>
+      <date>7/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ally Financial Inc. Advocacy Political Action Committee</contributorName>
+      <payeeName>Montanans For Tester</payeeName>
+      <recipientName>Sen. Jon Tester</recipientName>
+      <amount>1000</amount>
+      <date>7/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ally Financial Inc. Advocacy Political Action Committee</contributorName>
+      <payeeName>Sylvia Garcia For Congress</payeeName>
+      <recipientName>Rep. Sylvia Garcia</recipientName>
+      <amount>1000</amount>
+      <date>8/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ally Financial Inc. Advocacy Political Action Committee</contributorName>
+      <payeeName>Graves For Congress</payeeName>
+      <recipientName>Rep. Tom Graves</recipientName>
+      <amount>2000</amount>
+      <date>8/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ally Financial Inc. Advocacy Political Action Committee</contributorName>
+      <payeeName>Lance Gooden For Congress Committee</payeeName>
+      <recipientName>Rep. Lance Gooden</recipientName>
+      <amount>1000</amount>
+      <date>9/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ally Financial Inc. Advocacy Political Action Committee</contributorName>
+      <payeeName>Kansans For Marshall</payeeName>
+      <recipientName>Rep. Roger Marshall</recipientName>
+      <amount>2000</amount>
+      <date>9/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ally Financial Inc. Advocacy Political Action Committee</contributorName>
+      <payeeName>Balderson For Congress</payeeName>
+      <recipientName>Rep. Troy Balderson</recipientName>
+      <amount>1000</amount>
+      <date>9/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ally Financial Inc. Advocacy Political Action Committee</contributorName>
+      <payeeName>Citizens For Waters</payeeName>
+      <recipientName>Rep. Maxine Waters</recipientName>
+      <amount>2500</amount>
+      <date>9/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ally Financial Inc. Advocacy Political Action Committee</contributorName>
+      <payeeName>Scott Peters For Congress</payeeName>
+      <recipientName>Rep. Scott Peters</recipientName>
+      <amount>1000</amount>
+      <date>9/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ally Financial Inc. Advocacy Political Action Committee</contributorName>
+      <payeeName>Doug Jones For Senate Committee</payeeName>
+      <recipientName>Sen. Doug Jones</recipientName>
+      <amount>1300</amount>
+      <date>9/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ally Financial Inc. Advocacy Political Action Committee</contributorName>
+      <payeeName>Doug Jones For Senate Committee</payeeName>
+      <recipientName>Sen. Doug Jones</recipientName>
+      <amount>1000</amount>
+      <date>9/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ally Financial Inc. Advocacy Political Action Committee</contributorName>
+      <payeeName>Jeffries For Congress</payeeName>
+      <recipientName>Rep. Hakeem Jeffries</recipientName>
+      <amount>1000</amount>
+      <date>9/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ally Financial Inc. Advocacy Political Action Committee</contributorName>
+      <payeeName>Haley Stevens For Congress</payeeName>
+      <recipientName>Rep. Haley Stevens</recipientName>
+      <amount>1000</amount>
+      <date>9/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ally Financial Inc. Advocacy Political Action Committee</contributorName>
+      <payeeName>Mike Kelly For Congress</payeeName>
+      <recipientName>Rep. Mike Kelly</recipientName>
+      <amount>1000</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ally Financial Inc. Advocacy Political Action Committee</contributorName>
+      <payeeName>Clarke For Congress</payeeName>
+      <recipientName>Rep. Yvette Clarke</recipientName>
+      <amount>1000</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ally Financial Inc. Advocacy Political Action Committee</contributorName>
+      <payeeName>Karen Bass For Congress</payeeName>
+      <recipientName>Rep. Karen Bass</recipientName>
+      <amount>1000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ally Financial Inc. Advocacy Political Action Committee</contributorName>
+      <payeeName>Roger Williams For U.S. Congress Committee</payeeName>
+      <recipientName>Rep. Roger Williams</recipientName>
+      <amount>2500</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ally Financial Inc. Advocacy Political Action Committee</contributorName>
+      <payeeName>Scalise For Congress</payeeName>
+      <recipientName>Rep. Steve Scalise</recipientName>
+      <amount>5000</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ally Financial Inc. Advocacy Political Action Committee</contributorName>
+      <payeeName>Moran For Kansas</payeeName>
+      <recipientName>Sen. Jerry Moran</recipientName>
+      <amount>1000</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ally Financial Inc. Advocacy Political Action Committee</contributorName>
+      <payeeName>Citizens For John Rutherford</payeeName>
+      <recipientName>Rep. John Rutherford</recipientName>
+      <amount>1000</amount>
+      <date>10/1/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ally Financial Inc. Advocacy Political Action Committee</contributorName>
+      <payeeName>DCCC</payeeName>
+      <recipientName>DCCC</recipientName>
+      <amount>15000</amount>
+      <date>10/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ally Financial Inc. Advocacy Political Action Committee</contributorName>
+      <payeeName>NRCC</payeeName>
+      <recipientName>NRCC</recipientName>
+      <amount>15000</amount>
+      <date>10/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ally Financial Inc. Advocacy Political Action Committee</contributorName>
+      <payeeName>Sylvia Garcia For Congress</payeeName>
+      <recipientName>Rep. Sylvia Garcia</recipientName>
+      <amount>1000</amount>
+      <date>10/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ally Financial Inc. Advocacy Political Action Committee</contributorName>
+      <payeeName>William Timmons For Congress</payeeName>
+      <recipientName>Rep. William Timmons</recipientName>
+      <amount>1500</amount>
+      <date>10/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ally Financial Inc. Advocacy Political Action Committee</contributorName>
+      <payeeName>Friends Of Mark Warner</payeeName>
+      <recipientName>Sen. Mark Warner</recipientName>
+      <amount>1000</amount>
+      <date>10/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ally Financial Inc. Advocacy Political Action Committee</contributorName>
+      <payeeName>Friends Of Mark Warner</payeeName>
+      <recipientName>Sen. Mark Warner</recipientName>
+      <amount>4000</amount>
+      <date>10/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ally Financial Inc. Advocacy Political Action Committee</contributorName>
+      <payeeName>Equality PAC</payeeName>
+      <recipientName>Equality PAC</recipientName>
+      <amount>2500</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ally Financial Inc. Advocacy Political Action Committee</contributorName>
+      <payeeName>Brenda Lawrence For Congress</payeeName>
+      <recipientName>Rep. Brenda Lawrence</recipientName>
+      <amount>1000</amount>
+      <date>11/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ally Financial Inc. Advocacy Political Action Committee</contributorName>
+      <payeeName>Debbie Dingell For Congress</payeeName>
+      <recipientName>Rep. Debbie Dingell</recipientName>
+      <amount>1000</amount>
+      <date>11/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ally Financial Inc. Advocacy Political Action Committee</contributorName>
+      <payeeName>Texans For Jodey Arrington</payeeName>
+      <recipientName>Rep. Jodey Arrington</recipientName>
+      <amount>1000</amount>
+      <date>11/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ally Financial Inc. Advocacy Political Action Committee</contributorName>
+      <payeeName>New Democrat Coalition Action Fund</payeeName>
+      <recipientName>New Democrat Coalition Action Fund</recipientName>
+      <amount>5000</amount>
+      <date>11/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ally Financial Inc. Advocacy Political Action Committee</contributorName>
+      <payeeName>Walker 4 NC</payeeName>
+      <recipientName>Rep. Mark Walker</recipientName>
+      <amount>2000</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ally Financial Inc. Advocacy Political Action Committee</contributorName>
+      <payeeName>Citizens For Boyle</payeeName>
+      <recipientName>Rep. Brendan Boyle</recipientName>
+      <amount>1500</amount>
+      <date>12/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ally Financial Inc. Advocacy Political Action Committee</contributorName>
+      <payeeName>People For Derek Kilmer</payeeName>
+      <recipientName>Rep. Derek Kilmer</recipientName>
+      <amount>1500</amount>
+      <date>12/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ally Financial Inc. Advocacy Political Action Committee</contributorName>
+      <payeeName>Pete Aguilar For Congress</payeeName>
+      <recipientName>Rep. Pete Aguilar</recipientName>
+      <amount>2000</amount>
+      <date>12/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ally Financial Inc. Advocacy Political Action Committee</contributorName>
+      <payeeName>The Consumer Bankers Association Political Action Committee</payeeName>
+      <recipientName>The Conumer Bankers Association Political Action Committee</recipientName>
+      <amount>2500</amount>
+      <date>12/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ally Financial Inc. Advocacy Political Action Committee</contributorName>
+      <payeeName>Hudson For Congress</payeeName>
+      <recipientName>Rep. Richard Hudson</recipientName>
+      <amount>2500</amount>
+      <date>12/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ally Financial Inc. Advocacy Political Action Committee</contributorName>
+      <payeeName>McSally For Senate INC</payeeName>
+      <recipientName>Sen. Martha McSally</recipientName>
+      <amount>2000</amount>
+      <date>12/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Ally Financial Inc. Advocacy Political Action Committee</contributorName>
+      <payeeName>Steve Daines For Montana</payeeName>
+      <recipientName>Sen. Steve Daines</recipientName>
+      <amount>1000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

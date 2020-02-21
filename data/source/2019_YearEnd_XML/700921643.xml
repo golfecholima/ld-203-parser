@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>The American Institute of Architects</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>Sarah Dodge</contactName>
+  <senateRegID>2638</senateRegID>
+  <houseRegID>31089</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>True</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/28/2020 7:55:43 AM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>
+  </noContributions>
+  <pacs>
+    <pac>
+      <name>The American Institute of Architects</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The American Institute of Architects</contributorName>
+      <payeeName>Friends Of Ben Mcadams</payeeName>
+      <recipientName>Ben McAdams</recipientName>
+      <amount>-1000</amount>
+      <date>8/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The American Institute of Architects</contributorName>
+      <payeeName>Value in Electing Women PAC</payeeName>
+      <recipientName>Value in Electing Women PAC</recipientName>
+      <amount>1000</amount>
+      <date>7/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The American Institute of Architects</contributorName>
+      <payeeName>Walorski For Congress Inc</payeeName>
+      <recipientName>Jackie Walorski</recipientName>
+      <amount>1500</amount>
+      <date>7/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The American Institute of Architects</contributorName>
+      <payeeName>Mcconnell Senate Committee</payeeName>
+      <recipientName>Mitch McConnell</recipientName>
+      <amount>2500</amount>
+      <date>7/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The American Institute of Architects</contributorName>
+      <payeeName>Paul Cook For Congress</payeeName>
+      <recipientName>Paul Cook</recipientName>
+      <amount>2500</amount>
+      <date>7/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The American Institute of Architects</contributorName>
+      <payeeName>Jimmy Panetta For Congress</payeeName>
+      <recipientName>Jimmy Panetta</recipientName>
+      <amount>2500</amount>
+      <date>7/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The American Institute of Architects</contributorName>
+      <payeeName>Balderson For Congress</payeeName>
+      <recipientName>Troy Balderson</recipientName>
+      <amount>2500</amount>
+      <date>8/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The American Institute of Architects</contributorName>
+      <payeeName>Mike Bost For Congress Committee</payeeName>
+      <recipientName>Mike Bost</recipientName>
+      <amount>2500</amount>
+      <date>8/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The American Institute of Architects</contributorName>
+      <payeeName>Lahood For Congress</payeeName>
+      <recipientName>Darin LaHood</recipientName>
+      <amount>4000</amount>
+      <date>9/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The American Institute of Architects</contributorName>
+      <payeeName>Elizabeth Pannill Fletcher For Congress</payeeName>
+      <recipientName>Elizabeth Fletcher</recipientName>
+      <amount>1000</amount>
+      <date>9/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The American Institute of Architects</contributorName>
+      <payeeName>Sean Patrick Maloney For Congress</payeeName>
+      <recipientName>Sean Maloney</recipientName>
+      <amount>1000</amount>
+      <date>9/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The American Institute of Architects</contributorName>
+      <payeeName>Pascrell For Congress</payeeName>
+      <recipientName>William Pascrell</recipientName>
+      <amount>500</amount>
+      <date>9/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The American Institute of Architects</contributorName>
+      <payeeName>John Carter For Congress</payeeName>
+      <recipientName>John Carter</recipientName>
+      <amount>1000</amount>
+      <date>9/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The American Institute of Architects</contributorName>
+      <payeeName>Citizens For Boyle</payeeName>
+      <recipientName>Brendan Boyle</recipientName>
+      <amount>2500</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The American Institute of Architects</contributorName>
+      <payeeName>Scalise Leadership Fund</payeeName>
+      <recipientName>Scalise Leadership Fund</recipientName>
+      <amount>5000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The American Institute of Architects</contributorName>
+      <payeeName>Tim Scott For Senate</payeeName>
+      <recipientName>Timothy Scott</recipientName>
+      <amount>5000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The American Institute of Architects</contributorName>
+      <payeeName>Don Bacon For Congress</payeeName>
+      <recipientName>Donald Bacon</recipientName>
+      <amount>2500</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The American Institute of Architects</contributorName>
+      <payeeName>Adam Kinzinger - Future 1st Committee</payeeName>
+      <recipientName>Adam Kinzinger - Future 1st Committee</recipientName>
+      <amount>2500</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The American Institute of Architects</contributorName>
+      <payeeName>Friends Of Chris Smith</payeeName>
+      <recipientName>Christopher Smith</recipientName>
+      <amount>2500</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The American Institute of Architects</contributorName>
+      <payeeName>Katko For Congress</payeeName>
+      <recipientName>John Katko</recipientName>
+      <amount>2500</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The American Institute of Architects</contributorName>
+      <payeeName>Friends Of Roy Blunt</payeeName>
+      <recipientName>Roy Blunt</recipientName>
+      <amount>1000</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The American Institute of Architects</contributorName>
+      <payeeName>Paul Tonko For Congress</payeeName>
+      <recipientName>Paul Tonko</recipientName>
+      <amount>2500</amount>
+      <date>10/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The American Institute of Architects</contributorName>
+      <payeeName>Athena PAC</payeeName>
+      <recipientName>Kathy Castor</recipientName>
+      <amount>2500</amount>
+      <date>10/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The American Institute of Architects</contributorName>
+      <payeeName>Athena PAC</payeeName>
+      <recipientName>Kathy Castor</recipientName>
+      <amount>2500</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The American Institute of Architects</contributorName>
+      <payeeName>Hoyer For Congress</payeeName>
+      <recipientName>Steny Hoyer</recipientName>
+      <amount>5000</amount>
+      <date>11/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The American Institute of Architects</contributorName>
+      <payeeName>Charlie Crist For Congress</payeeName>
+      <recipientName>Charles Crist</recipientName>
+      <amount>2500</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The American Institute of Architects</contributorName>
+      <payeeName>Steil For Wisconsin, Inc.</payeeName>
+      <recipientName>Bryan Steil</recipientName>
+      <amount>2500</amount>
+      <date>12/16/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

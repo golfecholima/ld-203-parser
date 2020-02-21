@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>Chevron U.S.A. Inc.</organizationName>
+  <lobbyistPrefix>Ms.</lobbyistPrefix>
+  <lobbyistFirstName>Debra</lobbyistFirstName>
+  <lobbyistMiddleName>S</lobbyistMiddleName>
+  <lobbyistLastName>Marshall</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>9000</senateRegID>
+  <houseRegID>30865</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>12/26/2019 9:40:28 AM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>LAKER PAC
+c/o Fec Financial
+332 W Lee Highway Suite 303
+Warrenton VA 20186</payeeName>
+      <recipientName>Pete Stauber (R-MN)</recipientName>
+      <amount>50.00</amount>
+      <date>10/31/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Jim Lower for Congress
+PO Box 12309
+Lansing, MI 48901</payeeName>
+      <recipientName>Jim Lower (R-MI)</recipientName>
+      <amount>250.00</amount>
+      <date>7/1/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Feenstra for Congress
+641 2nd Street
+Hull IA 51239</payeeName>
+      <recipientName>Randy Feenstra (R-IA)</recipientName>
+      <amount>250.00</amount>
+      <date>7/1/19</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>GRANT THORNTON LLP</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>Danielle Kaster</contactName>
+  <senateRegID>301493</senateRegID>
+  <houseRegID>37786</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/26/2020 1:00:54 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>
+  </noContributions>
+  <pacs>
+    <pac>
+      <name>The Grant Thornton LLP Political Action Committee LLC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Grant Thornton LLP Political Action Committee LLC</contributorName>
+      <payeeName>Denny Heck for Congress</payeeName>
+      <recipientName>Rep. Denny Heck</recipientName>
+      <amount>2500</amount>
+      <date>7/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Grant Thornton LLP Political Action Committee LLC</contributorName>
+      <payeeName>DEREK PAC</payeeName>
+      <recipientName>Rep. Derek Kilmer</recipientName>
+      <amount>2500</amount>
+      <date>7/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Grant Thornton LLP Political Action Committee LLC</contributorName>
+      <payeeName>Evergreen PAC</payeeName>
+      <recipientName>Rep. Suzane DelBene</recipientName>
+      <amount>1000</amount>
+      <date>7/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Grant Thornton LLP Political Action Committee LLC</contributorName>
+      <payeeName>French Hill for Arkansas</payeeName>
+      <recipientName>Rep. French Hill</recipientName>
+      <amount>1750</amount>
+      <date>7/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Grant Thornton LLP Political Action Committee LLC</contributorName>
+      <payeeName>Kind for Congress Committee</payeeName>
+      <recipientName>Rep. Ron Kind</recipientName>
+      <amount>1000</amount>
+      <date>7/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Grant Thornton LLP Political Action Committee LLC</contributorName>
+      <payeeName>Oorbeek Group, The</payeeName>
+      <recipientName>Rep. French Hill (Non-Monetary Contribution)</recipientName>
+      <amount>750</amount>
+      <date>7/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Grant Thornton LLP Political Action Committee LLC</contributorName>
+      <payeeName>Oorbeek Group, The</payeeName>
+      <recipientName>Rep. Trey Hollingsworth (Non-Monetary Contribution)</recipientName>
+      <amount>750</amount>
+      <date>7/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Grant Thornton LLP Political Action Committee LLC</contributorName>
+      <payeeName>Oorbeek Group, The</payeeName>
+      <recipientName>Sen. Sonny Perdue (Non-Monetary Contribution)</recipientName>
+      <amount>750</amount>
+      <date>7/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Grant Thornton LLP Political Action Committee LLC</contributorName>
+      <payeeName>Perdue for Senate</payeeName>
+      <recipientName>Sen. Sonny Perdue</recipientName>
+      <amount>1750</amount>
+      <date>7/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Grant Thornton LLP Political Action Committee LLC</contributorName>
+      <payeeName>Scott Peters for Congress</payeeName>
+      <recipientName>Rep. Scott Peters</recipientName>
+      <amount>1000</amount>
+      <date>7/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Grant Thornton LLP Political Action Committee LLC</contributorName>
+      <payeeName>Trey for Congress</payeeName>
+      <recipientName>Rep. Trey Hollingsworth</recipientName>
+      <amount>1750</amount>
+      <date>7/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Grant Thornton LLP Political Action Committee LLC</contributorName>
+      <payeeName>Virginia Foxx for Congress</payeeName>
+      <recipientName>Rep. Virginia Foxx</recipientName>
+      <amount>2500</amount>
+      <date>7/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Grant Thornton LLP Political Action Committee LLC</contributorName>
+      <payeeName>Drew Ferguson for Congress Inc.</payeeName>
+      <recipientName>Rep. Drew Ferguson</recipientName>
+      <amount>2000</amount>
+      <date>7/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Grant Thornton LLP Political Action Committee LLC</contributorName>
+      <payeeName>HM Consulting</payeeName>
+      <recipientName>Rep. Brad Schneider (Non-Monetary Contribution)</recipientName>
+      <amount>650</amount>
+      <date>7/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Grant Thornton LLP Political Action Committee LLC</contributorName>
+      <payeeName>Carper for Senate</payeeName>
+      <recipientName>Sen. Tom Carper</recipientName>
+      <amount>1000</amount>
+      <date>7/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Grant Thornton LLP Political Action Committee LLC</contributorName>
+      <payeeName>Moore for Congress</payeeName>
+      <recipientName>Rep. Gwen Moore</recipientName>
+      <amount>1000</amount>
+      <date>7/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Grant Thornton LLP Political Action Committee LLC</contributorName>
+      <payeeName>Quigley for Congress</payeeName>
+      <recipientName>Rep.  Tom Quigley</recipientName>
+      <amount>2000</amount>
+      <date>7/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Grant Thornton LLP Political Action Committee LLC</contributorName>
+      <payeeName>Texans for Senator John Cornyn Inc.</payeeName>
+      <recipientName>Sen. John Cornyn</recipientName>
+      <amount>1000</amount>
+      <date>7/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Grant Thornton LLP Political Action Committee LLC</contributorName>
+      <payeeName>First in Freedom PAC</payeeName>
+      <recipientName>Rep. Richard Hudson, Sen. Thom Tillis and National Republican Congressional Committee and National Republican Senatorial Committee</recipientName>
+      <amount>2500.00</amount>
+      <date>9/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Grant Thornton LLP Political Action Committee LLC</contributorName>
+      <payeeName>Brian Higgins for Congress</payeeName>
+      <recipientName>Rep. Brian Higgins</recipientName>
+      <amount>2500</amount>
+      <date>9/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Grant Thornton LLP Political Action Committee LLC</contributorName>
+      <payeeName>Friends of Jim Clyburn</payeeName>
+      <recipientName>Rep. Jim Clyburn</recipientName>
+      <amount>1000</amount>
+      <date>9/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Grant Thornton LLP Political Action Committee LLC</contributorName>
+      <payeeName>Ron Estes for Congress</payeeName>
+      <recipientName>Rep. Ron Estes</recipientName>
+      <amount>2000</amount>
+      <date>9/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Grant Thornton LLP Political Action Committee LLC</contributorName>
+      <payeeName>IMPACT</payeeName>
+      <recipientName>Sen. Charles Schumer</recipientName>
+      <amount>1000</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Grant Thornton LLP Political Action Committee LLC</contributorName>
+      <payeeName>IMPACT</payeeName>
+      <recipientName>Sen. Charles Schumer</recipientName>
+      <amount>-1000</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Grant Thornton LLP Political Action Committee LLC</contributorName>
+      <payeeName>Families for James Lankford</payeeName>
+      <recipientName>Sen. Jim Lankford</recipientName>
+      <amount>2500</amount>
+      <date>10/8/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Grant Thornton LLP Political Action Committee LLC</contributorName>
+      <payeeName>First in Freedom PAC</payeeName>
+      <recipientName>Rep. Richard Hudson, Sen. Thom Tillis and National Republican Congressional Committee and National Republican Senatorial Committee</recipientName>
+      <amount>500</amount>
+      <date>10/8/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Grant Thornton LLP Political Action Committee LLC</contributorName>
+      <payeeName>HM Consulting</payeeName>
+      <recipientName>Rep. Richard E. Neal (Non-Monetary Contribution)</recipientName>
+      <amount>1000</amount>
+      <date>10/8/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Grant Thornton LLP Political Action Committee LLC</contributorName>
+      <payeeName>Joni for Iowa</payeeName>
+      <recipientName>Sen. Joni Ernst</recipientName>
+      <amount>2500</amount>
+      <date>10/8/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Grant Thornton LLP Political Action Committee LLC</contributorName>
+      <payeeName>Richard E. Neal for Congress Committee</payeeName>
+      <recipientName>Rep. Richard E. Neal</recipientName>
+      <amount>1500</amount>
+      <date>10/8/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Grant Thornton LLP Political Action Committee LLC</contributorName>
+      <payeeName>Peters for Michigan</payeeName>
+      <recipientName>Rep. Gary Peters</recipientName>
+      <amount>1500</amount>
+      <date>10/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Grant Thornton LLP Political Action Committee LLC</contributorName>
+      <payeeName>Texans for Jodey Arrington</payeeName>
+      <recipientName>Rep. Jodey Arrington</recipientName>
+      <amount>2000</amount>
+      <date>11/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Grant Thornton LLP Political Action Committee LLC</contributorName>
+      <payeeName>HM Consulting</payeeName>
+      <recipientName>Rep. Stephanie Murphy (Non-Monetary Contribution)</recipientName>
+      <amount>650</amount>
+      <date>11/7/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Grant Thornton LLP Political Action Committee LLC</contributorName>
+      <payeeName>HM Consulting</payeeName>
+      <recipientName>Rep. Stephanie Murphy (Non-Monetary Contribution)</recipientName>
+      <amount>-650</amount>
+      <date>11/7/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Grant Thornton LLP Political Action Committee LLC</contributorName>
+      <payeeName>HM Consulting</payeeName>
+      <recipientName>Rep. Tom Suozzi (Non-Monetary Contribution)</recipientName>
+      <amount>1000</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Grant Thornton LLP Political Action Committee LLC</contributorName>
+      <payeeName>HM Consulting</payeeName>
+      <recipientName>Rep. Ron Kind (Non-Monetary Contribution)</recipientName>
+      <amount>1000</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Grant Thornton LLP Political Action Committee LLC</contributorName>
+      <payeeName>Kind for Congress Committee</payeeName>
+      <recipientName>Rep. Ron Kind</recipientName>
+      <amount>1500</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Grant Thornton LLP Political Action Committee LLC</contributorName>
+      <payeeName>Suozzi for Congress</payeeName>
+      <recipientName>Rep. Tom Suozzi</recipientName>
+      <amount>1500</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Grant Thornton LLP Political Action Committee LLC</contributorName>
+      <payeeName>Collins for Senator</payeeName>
+      <recipientName>Sen. Susan Collins</recipientName>
+      <amount>1000.00</amount>
+      <date>12/2/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Grant Thornton LLP Political Action Committee LLC</contributorName>
+      <payeeName>Cory Gardner for Senate</payeeName>
+      <recipientName>Sen. Cory Gardner</recipientName>
+      <amount>1000</amount>
+      <date>12/2/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Grant Thornton LLP Political Action Committee LLC</contributorName>
+      <payeeName>Jason Smith for Congress</payeeName>
+      <recipientName>Rep. Jason Smith</recipientName>
+      <amount>2500</amount>
+      <date>12/2/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Grant Thornton LLP Political Action Committee LLC</contributorName>
+      <payeeName>Making Business Excel PAC (MBE PAC)</payeeName>
+      <recipientName>Sen. Mike Enzi</recipientName>
+      <amount>1000</amount>
+      <date>12/2/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Grant Thornton LLP Political Action Committee LLC</contributorName>
+      <payeeName>Thom Tillis Committee</payeeName>
+      <recipientName>Sen. Thom Tillis</recipientName>
+      <amount>1000</amount>
+      <date>12/2/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Grant Thornton LLP Political Action Committee LLC</contributorName>
+      <payeeName>Thom Tillis Committee</payeeName>
+      <recipientName>Sen. Thom Tillis</recipientName>
+      <amount>1500</amount>
+      <date>12/2/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Grant Thornton LLP Political Action Committee LLC</contributorName>
+      <payeeName>Granite Values</payeeName>
+      <recipientName>Sen. Maggie Hassan</recipientName>
+      <amount>5000</amount>
+      <date>12/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Grant Thornton LLP Political Action Committee LLC</contributorName>
+      <payeeName>Hudson for Congress</payeeName>
+      <recipientName>Rep. Richard Hudson</recipientName>
+      <amount>1500</amount>
+      <date>12/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Grant Thornton LLP Political Action Committee LLC</contributorName>
+      <payeeName>Mike Thompson for Congress</payeeName>
+      <recipientName>Rep. Mike Thompson</recipientName>
+      <amount>2500</amount>
+      <date>12/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Grant Thornton LLP Political Action Committee LLC</contributorName>
+      <payeeName>Bill Foster for Congress Committee</payeeName>
+      <recipientName>Rep. Bill Foster</recipientName>
+      <amount>-1000</amount>
+      <date>12/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Grant Thornton LLP Political Action Committee LLC</contributorName>
+      <payeeName>Bill Foster for Congress Committee</payeeName>
+      <recipientName>Rep. Bill Foster</recipientName>
+      <amount>1000</amount>
+      <date>12/11/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

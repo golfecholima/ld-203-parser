@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>ZIMMER BIOMET, INC.</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>Andrew James Franke</contactName>
+  <senateRegID>292755</senateRegID>
+  <houseRegID>37326</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/9/2020 10:35:54 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>Zimmer Biomet PAC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Zimmer Biomet PAC</contributorName>
+      <payeeName>Friends of Todd Young</payeeName>
+      <recipientName>Sen. Todd Young</recipientName>
+      <amount>2000.00</amount>
+      <date>07/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Zimmer Biomet PAC</contributorName>
+      <payeeName>Wyden for Senate</payeeName>
+      <recipientName>Sen. Ron Wyden</recipientName>
+      <amount>2000.00</amount>
+      <date>07/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Jim Banks for Congress, Inc.</payeeName>
+      <recipientName>Rep. James Banks</recipientName>
+      <amount>2000.00</amount>
+      <date>07/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Zimmer Biomet PAC</contributorName>
+      <payeeName>Jason Smith for Congress</payeeName>
+      <recipientName>Rep. Jason Smith</recipientName>
+      <amount>1000.00</amount>
+      <date>07/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Zimmer Biomet PAC</contributorName>
+      <payeeName>Mast for Congress</payeeName>
+      <recipientName>Rep. Brian Mast</recipientName>
+      <amount>2000.00</amount>
+      <date>09/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Zimmer Biomet PAC</contributorName>
+      <payeeName>Mullin for Congress</payeeName>
+      <recipientName>Rep. Mark Wayne Mullin</recipientName>
+      <amount>1000.00</amount>
+      <date>09/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Zimmer Biomet PAC</contributorName>
+      <payeeName>Elect Jim Baird for Congress</payeeName>
+      <recipientName>Rep. Jim Baird</recipientName>
+      <amount>1000.00</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Zimmer Biomet PAC</contributorName>
+      <payeeName>Blackburn for Senate</payeeName>
+      <recipientName>Sen. Marsha Blackburn</recipientName>
+      <amount>1500.00</amount>
+      <date>11/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Zimmer Biomet PAC</contributorName>
+      <payeeName>Bucshon for Congress</payeeName>
+      <recipientName>Rep. Larry Bucshon</recipientName>
+      <amount>2000.00</amount>
+      <date>11/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Zimmer Biomet PAC</contributorName>
+      <payeeName>Steve Daines for Montana</payeeName>
+      <recipientName>Sen. Steve Daines</recipientName>
+      <amount>2500.00</amount>
+      <date>11/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Zimmer Biomet PAC</contributorName>
+      <payeeName>Hudson for Congress</payeeName>
+      <recipientName>Rep. Richard Hudson</recipientName>
+      <amount>1000.00</amount>
+      <date>12/03/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Zimmer Biomet PAC</contributorName>
+      <payeeName>Rick Scott for Florida</payeeName>
+      <recipientName>Sen. Rick Scott</recipientName>
+      <amount>2000.00</amount>
+      <date>12/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Zimmer Biomet PAC</contributorName>
+      <payeeName>Josh Gottheimer for Congress</payeeName>
+      <recipientName>Rep. Josh Gottheimer</recipientName>
+      <amount>1000.00</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Zimmer Biomet PAC</contributorName>
+      <payeeName>Sinema for Arizona</payeeName>
+      <recipientName>Sen. Kyrsten Sinema</recipientName>
+      <amount>1000.00</amount>
+      <date>12/12/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

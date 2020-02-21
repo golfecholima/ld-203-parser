@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>HUNTSMAN INTERNATIONAL LLC</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>Kevin Gundersen</contactName>
+  <senateRegID>401105273</senateRegID>
+  <houseRegID>44411</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/30/2020 9:32:33 AM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>Huntsman Corporation PAC (Huntsman PAC)</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Huntsman Corporation PAC (Huntsman PAC)</contributorName>
+      <payeeName>Weber for Congress</payeeName>
+      <recipientName>Randy Weber</recipientName>
+      <amount>1000.00</amount>
+      <date>09/30/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Huntsman Corporation PAC (Huntsman PAC)</contributorName>
+      <payeeName>Byrne for Senate, Inc.</payeeName>
+      <recipientName>Bradley Byrne</recipientName>
+      <amount>2500.00</amount>
+      <date>09/30/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Huntsman Corporation PAC (Huntsman PAC)</contributorName>
+      <payeeName>Friends of Jim Inhofe</payeeName>
+      <recipientName>Jim Inhofe</recipientName>
+      <amount>1000.00</amount>
+      <date>09/30/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Huntsman Corporation PAC (Huntsman PAC)</contributorName>
+      <payeeName>Weber for Congress</payeeName>
+      <recipientName>Randy Weber</recipientName>
+      <amount>1500.00</amount>
+      <date>10/09/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Huntsman Corporation PAC (Huntsman PAC)</contributorName>
+      <payeeName>Sylvia Garcia for Congress</payeeName>
+      <recipientName>Sylvia Garcia</recipientName>
+      <amount>2500.00</amount>
+      <date>11/27/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Huntsman Corporation PAC (Huntsman PAC)</contributorName>
+      <payeeName>Ron Wright for Congress</payeeName>
+      <recipientName>Ron Wright</recipientName>
+      <amount>2500.00</amount>
+      <date>12/9/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Huntsman Corporation PAC (Huntsman PAC)</contributorName>
+      <payeeName>Making America Prosperous PAC</payeeName>
+      <recipientName>Kevin Brady</recipientName>
+      <amount>5000.00</amount>
+      <date>09/9/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Huntsman Corporation PAC (Huntsman PAC)</contributorName>
+      <payeeName>Louisiana Democratic Party</payeeName>
+      <recipientName>Louisiana Democratic Party</recipientName>
+      <amount>2500.00</amount>
+      <date>10/03/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Huntsman Corporation PAC (Huntsman PAC)</contributorName>
+      <payeeName>Garret Graves Victory Fund</payeeName>
+      <recipientName>Garret Graves</recipientName>
+      <amount>2500.00</amount>
+      <date>09/30/19</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

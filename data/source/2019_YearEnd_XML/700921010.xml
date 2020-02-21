@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>HUMAN RIGHTS CAMPAIGN</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>David Stacy</contactName>
+  <senateRegID>18901</senateRegID>
+  <houseRegID>32293</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/27/2020 12:08:44 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>
+  </noContributions>
+  <pacs>
+    <pac>
+      <name>Human Rights Campaign</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Human Rights Campaign</contributorName>
+      <payeeName>Arizona Democratic Party</payeeName>
+      <recipientName>Arizona Democratic Party</recipientName>
+      <amount>2500</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Human Rights Campaign</contributorName>
+      <payeeName>Committee to Elect Jared Golden</payeeName>
+      <recipientName>Committee to Elect Jared Golden</recipientName>
+      <amount>1000</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Human Rights Campaign</contributorName>
+      <payeeName>Democratic Party of Wisconsin</payeeName>
+      <recipientName>Democratic Party of Wisconsin</recipientName>
+      <amount>2500</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Human Rights Campaign</contributorName>
+      <payeeName>Democratic Senatorial Campaign Committee</payeeName>
+      <recipientName>Democratic Senatorial Campaign Committee</recipientName>
+      <amount>10000</amount>
+      <date>12/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Human Rights Campaign</contributorName>
+      <payeeName>Equality PAC</payeeName>
+      <recipientName>Equality PAC</recipientName>
+      <amount>2500</amount>
+      <date>11/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Human Rights Campaign</contributorName>
+      <payeeName>Friends Of Jim Clyburn</payeeName>
+      <recipientName>Friends Of Jim Clyburn</recipientName>
+      <amount>2500</amount>
+      <date>12/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Human Rights Campaign</contributorName>
+      <payeeName>Gina Ortiz Jones for Congress</payeeName>
+      <recipientName>Gina Ortiz Jones for Congress</recipientName>
+      <amount>1500</amount>
+      <date>12/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Human Rights Campaign</contributorName>
+      <payeeName>Gina Ortiz Jones for Congress</payeeName>
+      <recipientName>Gina Ortiz Jones for Congress</recipientName>
+      <amount>2500</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Human Rights Campaign</contributorName>
+      <payeeName>Human Rights Campaign Equality Votes PAC</payeeName>
+      <recipientName>Human Rights Campaign Equality Votes PAC</recipientName>
+      <amount>17000</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Human Rights Campaign</contributorName>
+      <payeeName>Jaime Harrison for US Senate</payeeName>
+      <recipientName>Jaime Harrison for US Senate</recipientName>
+      <amount>2000</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Human Rights Campaign</contributorName>
+      <payeeName>Jon Hoadley for Congress</payeeName>
+      <recipientName>Jon Hoadley for Congress</recipientName>
+      <amount>2500</amount>
+      <date>9/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Human Rights Campaign</contributorName>
+      <payeeName>Kendra Horn for Congress</payeeName>
+      <recipientName>Kendra Horn for Congress</recipientName>
+      <amount>1000</amount>
+      <date>11/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Human Rights Campaign</contributorName>
+      <payeeName>Michigan Democratic Party State Central Committee</payeeName>
+      <recipientName>Michigan Democratic Party State Central Committee</recipientName>
+      <amount>2500</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Human Rights Campaign</contributorName>
+      <payeeName>Pennsylvania Democratic Party</payeeName>
+      <recipientName>Pennsylvania Democratic Party</recipientName>
+      <amount>2500</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Human Rights Campaign</contributorName>
+      <payeeName>Rita Hart for Iowa</payeeName>
+      <recipientName>Rita Hart for Iowa</recipientName>
+      <amount>2500</amount>
+      <date>12/19/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

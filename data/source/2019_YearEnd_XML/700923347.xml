@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>INTERNATIONAL ASSOCIATION OF FIRE CHIEFS</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>Kenneth LaSala, Jr.</contactName>
+  <senateRegID>45788</senateRegID>
+  <houseRegID>34411</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>Both U.S. Fire Administrator Bryant and Deputy FEMA Administrator Gaynor were general session speakers at Fire Rescue International in August 2019, and received complementary registrations to the conference.</comments>
+  <signedDate>1/29/2020 2:14:09 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>Meeting Expenses</type>
+      <contributorName>Self</contributorName>
+      <payeeName>G. Keith Bryant</payeeName>
+      <recipientName>G. Keith Bryant</recipientName>
+      <amount>625.00</amount>
+      <date>08/08/2019</date>
+    </contribution>
+    <contribution>
+      <type>Meeting Expenses</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Peter Gaynor</payeeName>
+      <recipientName>Peter Gaynor</recipientName>
+      <amount>625.00</amount>
+      <date>08/08/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

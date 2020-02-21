@@ -1,0 +1,569 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>National Roofing Contractors Association</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>Duane L. Musser</contactName>
+  <senateRegID>28504</senateRegID>
+  <houseRegID>31078</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/30/2020 3:51:09 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>
+  </noContributions>
+  <pacs>
+    <pac>
+      <name>National Roofing Contractors Association ROOF PAC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Roofing Contractors Association ROOF PAC</contributorName>
+      <payeeName>Collins For Congress</payeeName>
+      <recipientName>Rep. Douglas Allen Collins</recipientName>
+      <amount>1000</amount>
+      <date>7/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Roofing Contractors Association ROOF PAC</contributorName>
+      <payeeName>Portman For Senate Committee</payeeName>
+      <recipientName>Sen. Rob J. Portman</recipientName>
+      <amount>1000</amount>
+      <date>7/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Roofing Contractors Association ROOF PAC</contributorName>
+      <payeeName>Steve Chabot For Congress</payeeName>
+      <recipientName>Rep. Steven Joseph Chabot</recipientName>
+      <amount>1000</amount>
+      <date>7/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Roofing Contractors Association ROOF PAC</contributorName>
+      <payeeName>Strategy PAC</payeeName>
+      <recipientName>Sen. Ronald H. Johnson</recipientName>
+      <amount>1000</amount>
+      <date>7/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Roofing Contractors Association ROOF PAC</contributorName>
+      <payeeName>Ben Cardin For Senate, Inc.</payeeName>
+      <recipientName>Sen. Benjamin L. Cardin</recipientName>
+      <amount>1000</amount>
+      <date>7/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Roofing Contractors Association ROOF PAC</contributorName>
+      <payeeName>Families For James Lankford</payeeName>
+      <recipientName>Sen. James Paul Lankford</recipientName>
+      <amount>1000</amount>
+      <date>7/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Roofing Contractors Association ROOF PAC</contributorName>
+      <payeeName>Kind For Congress Committee</payeeName>
+      <recipientName>Rep. Ronald James Kind</recipientName>
+      <amount>1000</amount>
+      <date>7/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Roofing Contractors Association ROOF PAC</contributorName>
+      <payeeName>Steve Daines For Montana</payeeName>
+      <recipientName>Sen. Steve David Daines</recipientName>
+      <amount>1000</amount>
+      <date>7/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Roofing Contractors Association ROOF PAC</contributorName>
+      <payeeName>Brady For Congress</payeeName>
+      <recipientName>Rep. Kevin Patrick Brady</recipientName>
+      <amount>1500</amount>
+      <date>9/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Roofing Contractors Association ROOF PAC</contributorName>
+      <payeeName>Cooper For Congress</payeeName>
+      <recipientName>Rep. James Hayes Cooper</recipientName>
+      <amount>1000</amount>
+      <date>9/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Roofing Contractors Association ROOF PAC</contributorName>
+      <payeeName>LEGPAC</payeeName>
+      <recipientName>Sen. Benjamin L. Cardin</recipientName>
+      <amount>1000</amount>
+      <date>9/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Roofing Contractors Association ROOF PAC</contributorName>
+      <payeeName>Pascrell For Congress</payeeName>
+      <recipientName>Rep. William James Pascrell, Jr.</recipientName>
+      <amount>1000</amount>
+      <date>9/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Roofing Contractors Association ROOF PAC</contributorName>
+      <payeeName>Rob Wittman For Congress</payeeName>
+      <recipientName>Rep. Robert Joseph Wittman</recipientName>
+      <amount>1000</amount>
+      <date>9/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Roofing Contractors Association ROOF PAC</contributorName>
+      <payeeName>Strategy PAC</payeeName>
+      <recipientName>Sen. Ronald H. Johnson</recipientName>
+      <amount>500</amount>
+      <date>9/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Roofing Contractors Association ROOF PAC</contributorName>
+      <payeeName>Capito For West Virginia</payeeName>
+      <recipientName>Sen. Shelley Moore Capito</recipientName>
+      <amount>1000</amount>
+      <date>9/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Roofing Contractors Association ROOF PAC</contributorName>
+      <payeeName>Committee To Re-Elect Nydia M. Velazquez To Congress</payeeName>
+      <recipientName>Rep. Nydia Margarita Velazquez</recipientName>
+      <amount>500</amount>
+      <date>9/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Roofing Contractors Association ROOF PAC</contributorName>
+      <payeeName>Committee To Re-Elect Nydia M. Velazquez To Congress</payeeName>
+      <recipientName>Rep. Nydia Margarita Velazquez</recipientName>
+      <amount>500</amount>
+      <date>9/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Roofing Contractors Association ROOF PAC</contributorName>
+      <payeeName>Guthrie For Congress</payeeName>
+      <recipientName>Rep. S. Brett Guthrie</recipientName>
+      <amount>1000</amount>
+      <date>9/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Roofing Contractors Association ROOF PAC</contributorName>
+      <payeeName>McCaul For Congress, Inc</payeeName>
+      <recipientName>Rep. Michael Thomas McCaul, Sr.</recipientName>
+      <amount>1000</amount>
+      <date>9/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Roofing Contractors Association ROOF PAC</contributorName>
+      <payeeName>Friends Of Hagedorn</payeeName>
+      <recipientName>Rep. James Hagedorn</recipientName>
+      <amount>1000</amount>
+      <date>9/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Roofing Contractors Association ROOF PAC</contributorName>
+      <payeeName>Wenstrup For Congress</payeeName>
+      <recipientName>Rep. Brad R. Wenstrup</recipientName>
+      <amount>1000</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Roofing Contractors Association ROOF PAC</contributorName>
+      <payeeName>Collins For Congress</payeeName>
+      <recipientName>Rep. Douglas Allen Collins</recipientName>
+      <amount>1000</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Roofing Contractors Association ROOF PAC</contributorName>
+      <payeeName>Collins For Senator</payeeName>
+      <recipientName>Sen. Susan Margaret Collins</recipientName>
+      <amount>1000</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Roofing Contractors Association ROOF PAC</contributorName>
+      <payeeName>Elise For Congress</payeeName>
+      <recipientName>Rep. Elise M. Stefanik</recipientName>
+      <amount>1000</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Roofing Contractors Association ROOF PAC</contributorName>
+      <payeeName>Friends Of Glenn Thompson</payeeName>
+      <recipientName>Rep. Glenn W. Thompson</recipientName>
+      <amount>1000</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Roofing Contractors Association ROOF PAC</contributorName>
+      <payeeName>Friends Of Raja For Congress</payeeName>
+      <recipientName>Rep. S. Raja Krishnamoorthi</recipientName>
+      <amount>1000</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Roofing Contractors Association ROOF PAC</contributorName>
+      <payeeName>Kurt Schrader For Congress</payeeName>
+      <recipientName>Rep. Kurt Schrader</recipientName>
+      <amount>1000</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Roofing Contractors Association ROOF PAC</contributorName>
+      <payeeName>Richard E Neal For Congress Committee</payeeName>
+      <recipientName>Rep. Richard Edmund Neal</recipientName>
+      <amount>1000</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Roofing Contractors Association ROOF PAC</contributorName>
+      <payeeName>Steve Chabot For Congress</payeeName>
+      <recipientName>Rep. Steven Joseph Chabot</recipientName>
+      <amount>3000</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Roofing Contractors Association ROOF PAC</contributorName>
+      <payeeName>Susan Wild For Congress</payeeName>
+      <recipientName>Rep. Susan Wild</recipientName>
+      <amount>1000</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Roofing Contractors Association ROOF PAC</contributorName>
+      <payeeName>Thom Tillis Committee</payeeName>
+      <recipientName>Sen. Thomas Roland Tillis</recipientName>
+      <amount>1000</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Roofing Contractors Association ROOF PAC</contributorName>
+      <payeeName>Tom Reed For Congress</payeeName>
+      <recipientName>Rep. Thomas W. Reed, II.</recipientName>
+      <amount>1500</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Roofing Contractors Association ROOF PAC</contributorName>
+      <payeeName>Ben Cline For Congress, Inc.</payeeName>
+      <recipientName>Rep. Benjamin L. Cline</recipientName>
+      <amount>1000</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Roofing Contractors Association ROOF PAC</contributorName>
+      <payeeName>Byrne For Senate, Inc.</payeeName>
+      <recipientName>Rep. Bradley Roberts Byrne</recipientName>
+      <amount>2500</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Roofing Contractors Association ROOF PAC</contributorName>
+      <payeeName>Walberg For Congress</payeeName>
+      <recipientName>Rep. Timothy L. Walberg</recipientName>
+      <amount>1500</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Roofing Contractors Association ROOF PAC</contributorName>
+      <payeeName>Marc Veasey Congressional Campaign Committee</payeeName>
+      <recipientName>Rep. Marc A. Veasey</recipientName>
+      <amount>1000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Roofing Contractors Association ROOF PAC</contributorName>
+      <payeeName>Collins For Senator</payeeName>
+      <recipientName>Sen. Susan Margaret Collins</recipientName>
+      <amount>4000</amount>
+      <date>9/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Roofing Contractors Association ROOF PAC</contributorName>
+      <payeeName>John Carter For Congress</payeeName>
+      <recipientName>Rep. John R. Carter</recipientName>
+      <amount>1000</amount>
+      <date>10/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Roofing Contractors Association ROOF PAC</contributorName>
+      <payeeName>Kind For Congress Committee</payeeName>
+      <recipientName>Rep. Ronald James Kind</recipientName>
+      <amount>1000</amount>
+      <date>10/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Roofing Contractors Association ROOF PAC</contributorName>
+      <payeeName>Ben Sasse For U.S. Senate, Inc.</payeeName>
+      <recipientName>Sen. Benjamin Eric Sasse</recipientName>
+      <amount>4000</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Roofing Contractors Association ROOF PAC</contributorName>
+      <payeeName>Castro For Congress</payeeName>
+      <recipientName>Rep. Joaquin Castro</recipientName>
+      <amount>1000</amount>
+      <date>10/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Roofing Contractors Association ROOF PAC</contributorName>
+      <payeeName>Devin Nunes Campaign Committee</payeeName>
+      <recipientName>Rep. Devin G. Nunes</recipientName>
+      <amount>1000</amount>
+      <date>10/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Roofing Contractors Association ROOF PAC</contributorName>
+      <payeeName>Kind For Congress Committee</payeeName>
+      <recipientName>Rep. Ronald James Kind</recipientName>
+      <amount>1000</amount>
+      <date>10/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Roofing Contractors Association ROOF PAC</contributorName>
+      <payeeName>McSally For Senate Inc</payeeName>
+      <recipientName>Sen. Martha Elizabeth McSally</recipientName>
+      <amount>1000</amount>
+      <date>10/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Roofing Contractors Association ROOF PAC</contributorName>
+      <payeeName>Tim Scott For Senate</payeeName>
+      <recipientName>Sen. Timothy Eugene Scott</recipientName>
+      <amount>1000</amount>
+      <date>10/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Roofing Contractors Association ROOF PAC</contributorName>
+      <payeeName>Team Graham, Inc.</payeeName>
+      <recipientName>Sen. Lindsey Olin Graham</recipientName>
+      <amount>1000</amount>
+      <date>10/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Roofing Contractors Association ROOF PAC</contributorName>
+      <payeeName>Steve Daines For Montana</payeeName>
+      <recipientName>Sen. Steve David Daines</recipientName>
+      <amount>1000</amount>
+      <date>11/7/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Roofing Contractors Association ROOF PAC</contributorName>
+      <payeeName>Blumenauer For Congress</payeeName>
+      <recipientName>Rep. Earl Francis Blumenauer</recipientName>
+      <amount>2500</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Roofing Contractors Association ROOF PAC</contributorName>
+      <payeeName>Lofgren For Congress</payeeName>
+      <recipientName>Rep. Zoe Lofgren</recipientName>
+      <amount>1000</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Roofing Contractors Association ROOF PAC</contributorName>
+      <payeeName>Sinema For Arizona</payeeName>
+      <recipientName>Sen. Kyrsten Sinema</recipientName>
+      <amount>1000</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Roofing Contractors Association ROOF PAC</contributorName>
+      <payeeName>Tom Reed For Congress</payeeName>
+      <recipientName>Rep. Thomas W. Reed, II.</recipientName>
+      <amount>1000</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Roofing Contractors Association ROOF PAC</contributorName>
+      <payeeName>Guthrie For Congress</payeeName>
+      <recipientName>Rep. S. Brett Guthrie</recipientName>
+      <amount>1000</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Roofing Contractors Association ROOF PAC</contributorName>
+      <payeeName>Families For James Lankford</payeeName>
+      <recipientName>Sen. James Paul Lankford</recipientName>
+      <amount>1000</amount>
+      <date>12/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Roofing Contractors Association ROOF PAC</contributorName>
+      <payeeName>Friends Of Denver Riggleman, Inc.</payeeName>
+      <recipientName>Rep. Denver L. Riggleman, III</recipientName>
+      <amount>1000</amount>
+      <date>12/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Roofing Contractors Association ROOF PAC</contributorName>
+      <payeeName>Lauren Underwood For Congress</payeeName>
+      <recipientName>Rep. Lauren A Underwood</recipientName>
+      <amount>1000</amount>
+      <date>12/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Roofing Contractors Association ROOF PAC</contributorName>
+      <payeeName>McKinley For Congress</payeeName>
+      <recipientName>Rep. David B. McKinley</recipientName>
+      <amount>1000</amount>
+      <date>12/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Roofing Contractors Association ROOF PAC</contributorName>
+      <payeeName>Pascrell For Congress</payeeName>
+      <recipientName>Rep. William James Pascrell, Jr.</recipientName>
+      <amount>1000</amount>
+      <date>12/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Roofing Contractors Association ROOF PAC</contributorName>
+      <payeeName>Tom Rice For Congress</payeeName>
+      <recipientName>Rep. Tom Rice</recipientName>
+      <amount>1000</amount>
+      <date>12/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Roofing Contractors Association ROOF PAC</contributorName>
+      <payeeName>Virginia Foxx For Congress</payeeName>
+      <recipientName>Rep. Virginia Ann Foxx</recipientName>
+      <amount>1000</amount>
+      <date>12/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Roofing Contractors Association ROOF PAC</contributorName>
+      <payeeName>Mike Crapo For US Senate</payeeName>
+      <recipientName>Sen. Michael Dean Crapo</recipientName>
+      <amount>500</amount>
+      <date>12/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Roofing Contractors Association ROOF PAC</contributorName>
+      <payeeName>Mike Crapo For US Senate</payeeName>
+      <recipientName>Sen. Michael Dean Crapo</recipientName>
+      <amount>1000</amount>
+      <date>12/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Roofing Contractors Association ROOF PAC</contributorName>
+      <payeeName>Promoting Our Republican Team PAC</payeeName>
+      <recipientName>Sen. Rob J. Portman</recipientName>
+      <amount>2000</amount>
+      <date>12/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Roofing Contractors Association ROOF PAC</contributorName>
+      <payeeName>Sinema For Arizona</payeeName>
+      <recipientName>Sen. Kyrsten Sinema</recipientName>
+      <amount>1000</amount>
+      <date>12/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Roofing Contractors Association ROOF PAC</contributorName>
+      <payeeName>Susan Wild For Congress</payeeName>
+      <recipientName>Rep. Susan Wild</recipientName>
+      <amount>1000</amount>
+      <date>12/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Roofing Contractors Association ROOF PAC</contributorName>
+      <payeeName>Jam PAC</payeeName>
+      <recipientName>Rep. Lloyd K. Smucker</recipientName>
+      <amount>2500</amount>
+      <date>12/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Roofing Contractors Association ROOF PAC</contributorName>
+      <payeeName>Thom Tillis Committee</payeeName>
+      <recipientName>Sen. Thomas Roland Tillis</recipientName>
+      <amount>2000</amount>
+      <date>12/9/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

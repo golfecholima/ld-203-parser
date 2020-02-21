@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>INTERNATIONAL ALLIANCE OF THEATRICAL STAGE EMPLOYEES</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>Tyler McIntosh</contactName>
+  <senateRegID>401105446</senateRegID>
+  <houseRegID>44581</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>Federal PAC full name: Political Action Committee of the International Alliance of Theatrical Stage Employees 
+
+ID: C00344325</comments>
+  <signedDate>1/29/2020 3:15:24 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>
+  </noContributions>
+  <pacs>
+    <pac>
+      <name>PAC of the Int Alliance of Theatrical Stage Employees</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC of the Int Alliance of Theatrical Stage Employees</contributorName>
+      <payeeName>Katie Porter for Congress</payeeName>
+      <recipientName>Congresswoman Katherine Porter</recipientName>
+      <amount>2500</amount>
+      <date>7/2/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC of the Int Alliance of Theatrical Stage Employees</contributorName>
+      <payeeName>Schiff for Congress</payeeName>
+      <recipientName>Congressman Adam Schiff</recipientName>
+      <amount>5000</amount>
+      <date>7/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC of the Int Alliance of Theatrical Stage Employees</contributorName>
+      <payeeName>Steve Cohen for Congress</payeeName>
+      <recipientName>Congressman Stephen Cohen</recipientName>
+      <amount>1000</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC of the Int Alliance of Theatrical Stage Employees</contributorName>
+      <payeeName>Scanlon For Congress</payeeName>
+      <recipientName>Congresswoman Mary Scanlon</recipientName>
+      <amount>2500</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC of the Int Alliance of Theatrical Stage Employees</contributorName>
+      <payeeName>Guy for Congress</payeeName>
+      <recipientName>Congressman Guy Reschenthaler</recipientName>
+      <amount>1000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC of the Int Alliance of Theatrical Stage Employees</contributorName>
+      <payeeName>Katko for Congress</payeeName>
+      <recipientName>Congressman John Katko</recipientName>
+      <amount>1000</amount>
+      <date>9/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC of the Int Alliance of Theatrical Stage Employees</contributorName>
+      <payeeName>Ted Lieu for Congress</payeeName>
+      <recipientName>Congressman Ted Lieu</recipientName>
+      <amount>2500</amount>
+      <date>10/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC of the Int Alliance of Theatrical Stage Employees</contributorName>
+      <payeeName>Jeffries for Congress</payeeName>
+      <recipientName>Congressman Hakeem Jeffries</recipientName>
+      <amount>1000</amount>
+      <date>11/1/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC of the Int Alliance of Theatrical Stage Employees</contributorName>
+      <payeeName>Ted Deutch for Congress Committee</payeeName>
+      <recipientName>Congressman Theodore Deutch</recipientName>
+      <amount>2500</amount>
+      <date>11/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC of the Int Alliance of Theatrical Stage Employees</contributorName>
+      <payeeName>Friends of Cheri Bustos</payeeName>
+      <recipientName>Congresswoman Cheri Bustos</recipientName>
+      <amount>5000</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC of the Int Alliance of Theatrical Stage Employees</contributorName>
+      <payeeName>Xochitl for New Mexico</payeeName>
+      <recipientName>Congresswoman Xochitl Torres Small</recipientName>
+      <amount>1000</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC of the Int Alliance of Theatrical Stage Employees</contributorName>
+      <payeeName>Tammy for Illinois</payeeName>
+      <recipientName>Senator L. Tammy Duckworth</recipientName>
+      <amount>2500</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC of the Int Alliance of Theatrical Stage Employees</contributorName>
+      <payeeName>Shaheen for Senate</payeeName>
+      <recipientName>Senator Jeanne Shaheen</recipientName>
+      <amount>2500</amount>
+      <date>12/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC of the Int Alliance of Theatrical Stage Employees</contributorName>
+      <payeeName>Mike Levin for Congress</payeeName>
+      <recipientName>Congressman Mike Levin</recipientName>
+      <amount>1000</amount>
+      <date>12/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC of the Int Alliance of Theatrical Stage Employees</contributorName>
+      <payeeName>Pramila for Congress</payeeName>
+      <recipientName>Congresswoman Pramila Jayapal</recipientName>
+      <amount>2500</amount>
+      <date>12/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC of the Int Alliance of Theatrical Stage Employees</contributorName>
+      <payeeName>Tom O'Halleran for Congress</payeeName>
+      <recipientName>Congressman Tom O'Halleran</recipientName>
+      <amount>2500</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC of the Int Alliance of Theatrical Stage Employees</contributorName>
+      <payeeName>Brindisi for Congress</payeeName>
+      <recipientName>Congressman Anthony Brindisi</recipientName>
+      <amount>2500</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC of the Int Alliance of Theatrical Stage Employees</contributorName>
+      <payeeName>Harley Rouda for Congress</payeeName>
+      <recipientName>Congressman Harley Rouda</recipientName>
+      <amount>1000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC of the Int Alliance of Theatrical Stage Employees</contributorName>
+      <payeeName>Friends of Lucy McBath</payeeName>
+      <recipientName>Congresswoman Lucia McBath</recipientName>
+      <amount>1000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC of the Int Alliance of Theatrical Stage Employees</contributorName>
+      <payeeName>Cindy Axne for Congress</payeeName>
+      <recipientName>Congresswoman Cindy Axne</recipientName>
+      <amount>1000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC of the Int Alliance of Theatrical Stage Employees</contributorName>
+      <payeeName>Conor Lamb for Congress</payeeName>
+      <recipientName>Congressman Conor Lamb</recipientName>
+      <amount>1000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC of the Int Alliance of Theatrical Stage Employees</contributorName>
+      <payeeName>Colin Allred for Congress</payeeName>
+      <recipientName>Congressman Colin Allred</recipientName>
+      <amount>1000</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>PAC of the Int Alliance of Theatrical Stage Employees</contributorName>
+      <payeeName>Kuster for Congress, Inc.</payeeName>
+      <recipientName>Congresswoman Ann Kuster</recipientName>
+      <amount>1500</amount>
+      <date>12/12/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

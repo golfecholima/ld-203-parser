@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>ENCOMPASS HEALTH CORPORATION (FKA HEALTHSOUTH CORPORATION)</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <zipext>
+  </zipext>
+  <contactName>JUSTIN R. HUNTER</contactName>
+  <senateRegID>296453</senateRegID>
+  <houseRegID>37497</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/29/2020 3:01:12 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>Encompass Health PAC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Encompass Health PAC</contributorName>
+      <payeeName>AMERICAN MEDICAL REHABILITATION PROVIDERS ASSOCIATION INC . PAC (AMRPA PAC)</payeeName>
+      <recipientName>AMRPA PAC</recipientName>
+      <amount>5000.00</amount>
+      <date>09/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Encompass Health PAC</contributorName>
+      <payeeName>FEDERATION OF AMERICAN HOSPITALS PAC (FEDPAC); (FKA AMERICAN HEALTH SYSTEMS PAC)</payeeName>
+      <recipientName>FEDPAC</recipientName>
+      <amount>5000.00</amount>
+      <date>09/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Encompass Health PAC</contributorName>
+      <payeeName>FRIENDS OF MARK WARNER</payeeName>
+      <recipientName>Senator Mark Warner</recipientName>
+      <amount>2500.00</amount>
+      <date>09/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Encompass Health PAC</contributorName>
+      <payeeName>MCSALLY FOR SENATE INC</payeeName>
+      <recipientName>Senator Martha McSally</recipientName>
+      <amount>2500.00</amount>
+      <date>09/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Encompass Health PAC</contributorName>
+      <payeeName>PERDUE VICTORY INC</payeeName>
+      <recipientName>Senator David Perdue</recipientName>
+      <amount>2500.00</amount>
+      <date>09/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Encompass Health PAC</contributorName>
+      <payeeName>KENTUCKY HOSPITAL ASSOCIATION CIRCLE OF FRIENDS</payeeName>
+      <recipientName>KENTUCKY HOSPITAL ASSOCIATION CIRCLE OF FRIENDS</recipientName>
+      <amount>2500.00</amount>
+      <date>09/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Encompass Health PAC</contributorName>
+      <payeeName>RELY ON YOUR BELIEFS FUND</payeeName>
+      <recipientName>Senator Roy Blunt</recipientName>
+      <amount>2500.00</amount>
+      <date>09/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Encompass Health PAC</contributorName>
+      <payeeName>RICHARD E NEAL FOR CONGRESS COMMITTEE</payeeName>
+      <recipientName>Congressman Richard Neal</recipientName>
+      <amount>2500.00</amount>
+      <date>09/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Encompass Health PAC</contributorName>
+      <payeeName>ROBERT ADERHOLT FOR CONGRESS</payeeName>
+      <recipientName>Congressman Robert Aderholt</recipientName>
+      <amount>2500.00</amount>
+      <date>09/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Encompass Health PAC</contributorName>
+      <payeeName>CAPITO FOR WEST VIRGINIA</payeeName>
+      <recipientName>Senator Shelley Moore Capito</recipientName>
+      <amount>2500.00</amount>
+      <date>09/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Encompass Health PAC</contributorName>
+      <payeeName>CORY GARDNER FOR SENATE</payeeName>
+      <recipientName>Senator Cory Gardner</recipientName>
+      <amount>2500.00</amount>
+      <date>09/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Encompass Health PAC</contributorName>
+      <payeeName>OORAH! POLITICAL ACTION COMMITTEE</payeeName>
+      <recipientName>Senator Todd Young</recipientName>
+      <amount>2500.00</amount>
+      <date>09/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Encompass Health PAC</contributorName>
+      <payeeName>WYDEN FOR SENATE</payeeName>
+      <recipientName>Senator Ron Wyden</recipientName>
+      <amount>2500.00</amount>
+      <date>09/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Encompass Health PAC</contributorName>
+      <payeeName>FAMILIES FOR JAMES LANKFORD</payeeName>
+      <recipientName>Senator James Lankford</recipientName>
+      <amount>1000.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Encompass Health PAC</contributorName>
+      <payeeName>TIM SCOTT FOR SENATE</payeeName>
+      <recipientName>Senator Tim Scott</recipientName>
+      <amount>2500.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Encompass Health PAC</contributorName>
+      <payeeName>LETS GET TO WORK PAC</payeeName>
+      <recipientName>Senator Rick Scott</recipientName>
+      <amount>2500.00</amount>
+      <date>09/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Encompass Health PAC</contributorName>
+      <payeeName>COLLINS FOR SENATOR</payeeName>
+      <recipientName>Senator Susan Collins</recipientName>
+      <amount>2500.00</amount>
+      <date>10/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Encompass Health PAC</contributorName>
+      <payeeName>HAPAC-FEDERAL</payeeName>
+      <recipientName>THE HOSPITAL AND HEALTHSYSTEM ASSOCIATION OF PENNSYLVANIA- FEDERAL POLITICAL ACTION COMMITTEE (HAPAC-FEDERAL)</recipientName>
+      <amount>2500.00</amount>
+      <date>12/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Encompass Health PAC</contributorName>
+      <payeeName>DONNA SHALALA FOR CONGRESS</payeeName>
+      <recipientName>Congresswoman Donna Shalala</recipientName>
+      <amount>2500.00</amount>
+      <date>12/16/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

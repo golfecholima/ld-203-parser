@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>TEXAS INSTRUMENTS INCORPORATED</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>Stephen Bonner</contactName>
+  <senateRegID>37904</senateRegID>
+  <houseRegID>31053</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>To the best of Texas Instruments' knowledge and based upon reasonable due diligence efforts, this report, including the required certification, is being submitted in compliance with the requirements set forth in the applicable statute.</comments>
+  <signedDate>1/21/2020 2:58:24 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>Texas Instruments Incorporated Political Action Committee</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Texas Instruments Incorporated Political Action Committee</contributorName>
+      <payeeName>Kind for Congress Committee</payeeName>
+      <recipientName>Representative Ron Kind</recipientName>
+      <amount>1000.00</amount>
+      <date>07/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Texas Instruments Incorporated Political Action Committee</contributorName>
+      <payeeName>Peters for Michigan</payeeName>
+      <recipientName>Senator Gary Peters</recipientName>
+      <amount>1000.00</amount>
+      <date>07/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Texas Instruments Incorporated Political Action Committee</contributorName>
+      <payeeName>Simpson for Congress</payeeName>
+      <recipientName>Representative Mike Simpson</recipientName>
+      <amount>1000.00</amount>
+      <date>07/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Texas Instruments Incorporated Political Action Committee</contributorName>
+      <payeeName>Roger Williams for U.S. Congress Committee</payeeName>
+      <recipientName>Representative Roger Williams</recipientName>
+      <amount>1000.00</amount>
+      <date>07/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Texas Instruments Incorporated Political Action Committee</contributorName>
+      <payeeName>Kuster for Congress, Inc.</payeeName>
+      <recipientName>Representative Ann Kuster</recipientName>
+      <amount>1000.00</amount>
+      <date>09/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Texas Instruments Incorporated Political Action Committee</contributorName>
+      <payeeName>Walorski for Congress, Inc.</payeeName>
+      <recipientName>Representative Jackie Walorski</recipientName>
+      <amount>1000.00</amount>
+      <date>09/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Texas Instruments Incorporated Political Action Committee</contributorName>
+      <payeeName>Terri Sewell for Congress</payeeName>
+      <recipientName>Representative Terri Sewell</recipientName>
+      <amount>1000.00</amount>
+      <date>09/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Texas Instruments Incorporated Political Action Committee</contributorName>
+      <payeeName>Collins for Congress</payeeName>
+      <recipientName>Representative Doug Collins</recipientName>
+      <amount>1000.00</amount>
+      <date>09/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Texas Instruments Incorporated Political Action Committee</contributorName>
+      <payeeName>Eddie Bernice Johnson for Congress</payeeName>
+      <recipientName>Representative Eddie Bernice Johnson</recipientName>
+      <amount>1000.00</amount>
+      <date>09/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Texas Instruments Incorporated Political Action Committee</contributorName>
+      <payeeName>Vincente Gonzalez for Congress</payeeName>
+      <recipientName>Representative Vincente Gonzalez</recipientName>
+      <amount>1000.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Texas Instruments Incorporated Political Action Committee</contributorName>
+      <payeeName>Texans for Jodey Arrington</payeeName>
+      <recipientName>Representative Jodey Arrington</recipientName>
+      <amount>1000.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Texas Instruments Incorporated Political Action Committee</contributorName>
+      <payeeName>Bera for Congress</payeeName>
+      <recipientName>Representative Ami Bera</recipientName>
+      <amount>1000.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Texas Instruments Incorporated Political Action Committee</contributorName>
+      <payeeName>LaHood for Congress</payeeName>
+      <recipientName>Representative Darin LaHood</recipientName>
+      <amount>1000.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Texas Instruments Incorporated Political Action Committee</contributorName>
+      <payeeName>Gerry Connolly for Congress</payeeName>
+      <recipientName>Representative Gerry Connolly for Congress</recipientName>
+      <amount>1000.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Texas Instruments Incorporated Political Action Committee</contributorName>
+      <payeeName>Paul Tonko for Congress</payeeName>
+      <recipientName>Representative Paul Tonko</recipientName>
+      <amount>1000.00</amount>
+      <date>10/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Texas Instruments Incorporated Political Action Committee</contributorName>
+      <payeeName>Lance Gooden for Congress Committee</payeeName>
+      <recipientName>Representative Lance Gooden</recipientName>
+      <amount>1000.00</amount>
+      <date>11/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Texas Instruments Incorporated Political Action Committee</contributorName>
+      <payeeName>Friends of David Schweikert</payeeName>
+      <recipientName>Representative David Schweikert</recipientName>
+      <amount>1000.00</amount>
+      <date>11/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Texas Instruments Incorporated Political Action Committee</contributorName>
+      <payeeName>Blumenauer for Congress</payeeName>
+      <recipientName>Representative Earl Blumenauer</recipientName>
+      <amount>2000.00</amount>
+      <date>11/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Texas Instruments Incorporated Political Action Committee</contributorName>
+      <payeeName>Friends of Raja for Congress</payeeName>
+      <recipientName>Representative Raja Krishnamoorthi</recipientName>
+      <amount>1000.00</amount>
+      <date>11/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Texas Instruments Incorporated Political Action Committee</contributorName>
+      <payeeName>People for Derek Kilmer</payeeName>
+      <recipientName>Representative Derek Kilmer</recipientName>
+      <amount>1000.00</amount>
+      <date>11/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Texas Instruments Incorporated Political Action Committee</contributorName>
+      <payeeName>Kind for Congress</payeeName>
+      <recipientName>Representative Ron Kind</recipientName>
+      <amount>1000.00</amount>
+      <date>11/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Texas Instruments Incorporated Political Action Committee</contributorName>
+      <payeeName>Tom Reed for Congress</payeeName>
+      <recipientName>Representative Tom Reed</recipientName>
+      <amount>1000.00</amount>
+      <date>11/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Texas Instruments Incorporated Political Action Committee</contributorName>
+      <payeeName>Texans for Henry Cuellar Congressional Campaign</payeeName>
+      <recipientName>Representative Henry Cuellar</recipientName>
+      <amount>1000.00</amount>
+      <date>12/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Texas Instruments Incorporated Political Action Committee</contributorName>
+      <payeeName>Kinzinger for Congress</payeeName>
+      <recipientName>Representative Adam Kinzinger</recipientName>
+      <amount>1000.00</amount>
+      <date>12/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Texas Instruments Incorporated Political Action Committee</contributorName>
+      <payeeName>Thom Tillis Committee</payeeName>
+      <recipientName>Senator Thom Tillis</recipientName>
+      <amount>1000.00</amount>
+      <date>12/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Texas Instruments Incorporated Political Action Committee</contributorName>
+      <payeeName>Marc Veasey Congressional Campaign Committee</payeeName>
+      <recipientName>Representative Marc Veasey</recipientName>
+      <amount>1000.00</amount>
+      <date>12/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Texas Instruments Incorporated Political Action Committee</contributorName>
+      <payeeName>Sylvia Garcia for Congress</payeeName>
+      <recipientName>Representative Sylvia Garcia</recipientName>
+      <amount>1000.00</amount>
+      <date>12/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Texas Instruments Incorporated Political Action Committee</contributorName>
+      <payeeName>Himes for Congress</payeeName>
+      <recipientName>Representative Jim Himes</recipientName>
+      <amount>1000.00</amount>
+      <date>12/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>Honorary Expenses</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Congressional Hispanic Caucus Institute</payeeName>
+      <recipientName>Rep. Pete Aguilar, Rep. Rueben Gallego, Rep. Jimmy Gomez, Rep. Grace Flores Napolitano, Rep. Raul Ruiz, Rep. Juan Vargas</recipientName>
+      <amount>30000.00</amount>
+      <date>10/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>Honorary Expenses</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Smithsonian Institution</payeeName>
+      <recipientName>Vice President Mike Pence, Sen. John Boozman, Sen. Patrick Leahy, Sen. David Perdue, Rep. Doris Matsui, Rep. Lucille Robal-Allard, Rep. John Shimkus</recipientName>
+      <amount>10000.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>Honorary Expenses</type>
+      <contributorName>Self</contributorName>
+      <payeeName>United States Capitol Historical Society</payeeName>
+      <recipientName>Sen. Roy Blunt, Sen. Bob Casey, Rep. Tom Cole, Rep. Gerry Connolly, Rep. Virginia Foxx, Rep. John B. Larson</recipientName>
+      <amount>5000.00</amount>
+      <date>11/21/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

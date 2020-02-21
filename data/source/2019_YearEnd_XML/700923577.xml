@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>SourceAmerica</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <zipext>
+  </zipext>
+  <contactName>Jeffrey W. McCaw</contactName>
+  <senateRegID>29345</senateRegID>
+  <houseRegID>33609</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>The information provided in report represents, to the best of my knowledge and as a result of reasonable due diligence, an accurate reflection of SourceAmerica compliance with this reporting requirement. </comments>
+  <signedDate>1/29/2020 3:40:20 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>Honorary Expenses</type>
+      <contributorName>Self</contributorName>
+      <payeeName>ECVC</payeeName>
+      <recipientName>Representative Brad Schneider</recipientName>
+      <amount>107.24</amount>
+      <date>07/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>Honorary Expenses</type>
+      <contributorName>Self</contributorName>
+      <payeeName>ECVC</payeeName>
+      <recipientName>Representative Salud Carbajal</recipientName>
+      <amount>107.24</amount>
+      <date>08/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>Honorary Expenses</type>
+      <contributorName>Self</contributorName>
+      <payeeName>ECVC</payeeName>
+      <recipientName>Representative Drew Ferguson</recipientName>
+      <amount>107.24</amount>
+      <date>08/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>Honorary Expenses</type>
+      <contributorName>Self</contributorName>
+      <payeeName>ECVC</payeeName>
+      <recipientName>Representative Mikie Sherrill</recipientName>
+      <amount>107.24</amount>
+      <date>08/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>Honorary Expenses</type>
+      <contributorName>Self</contributorName>
+      <payeeName>ECVC</payeeName>
+      <recipientName>Senator John Hoeven</recipientName>
+      <amount>107.24</amount>
+      <date>08/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>Honorary Expenses</type>
+      <contributorName>Self</contributorName>
+      <payeeName>ECVC</payeeName>
+      <recipientName>Representative Elaine Luria</recipientName>
+      <amount>107.24</amount>
+      <date>09/03/2019</date>
+    </contribution>
+    <contribution>
+      <type>Honorary Expenses</type>
+      <contributorName>Self</contributorName>
+      <payeeName>ECVC</payeeName>
+      <recipientName>Representative Joe Cunningham</recipientName>
+      <amount>107.24</amount>
+      <date>12/16/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

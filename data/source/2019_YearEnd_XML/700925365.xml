@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>Faegre Baker Daniels</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <zipext>
+  </zipext>
+  <contactName>Nicholas Manetto</contactName>
+  <senateRegID>5120</senateRegID>
+  <houseRegID>33247</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/30/2020 2:11:50 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>FaegreBD PAC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>FaegreBD PAC</contributorName>
+      <payeeName>Clay Jr. for Congress</payeeName>
+      <recipientName>William Lacy Clay</recipientName>
+      <amount>1000.00</amount>
+      <date>7/10/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>FaegreBD PAC</contributorName>
+      <payeeName>Michael Burgess for Congress</payeeName>
+      <recipientName>Michael Burgess</recipientName>
+      <amount>2500.00</amount>
+      <date>7/11/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>FaegreBD PAC</contributorName>
+      <payeeName>Trey for Congress</payeeName>
+      <recipientName>Trey Hollingsworth</recipientName>
+      <amount>1500.00</amount>
+      <date>7/16/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>FaegreBD PAC</contributorName>
+      <payeeName>Hoosier PAC</payeeName>
+      <recipientName>Mike Braun</recipientName>
+      <amount>1000.00</amount>
+      <date>7/18/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>FaegreBD PAC</contributorName>
+      <payeeName>New Pioneers PAC</payeeName>
+      <recipientName>Greg Walden</recipientName>
+      <amount>1000.00</amount>
+      <date>7/18/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>FaegreBD PAC</contributorName>
+      <payeeName>Lucille Roybal-Allard for Congress</payeeName>
+      <recipientName>Lucille Roybal-Allard</recipientName>
+      <amount>2500.00</amount>
+      <date>7/18/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>FaegreBD PAC</contributorName>
+      <payeeName>Peters for Michigan</payeeName>
+      <recipientName>Gary Peters</recipientName>
+      <amount>500.00</amount>
+      <date>7/25/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>FaegreBD PAC</contributorName>
+      <payeeName>McCollum for Congress</payeeName>
+      <recipientName>Betty McCollum</recipientName>
+      <amount>1000.00</amount>
+      <date>7/29/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>FaegreBD PAC</contributorName>
+      <payeeName>National Republican Congressional Committee (NRCC)</payeeName>
+      <recipientName>National Republican Congressional Committee (NRCC)</recipientName>
+      <amount>15000.00</amount>
+      <date>7/30/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>FaegreBD PAC</contributorName>
+      <payeeName>Durbin Victory Fund</payeeName>
+      <recipientName>Dick Durbin</recipientName>
+      <amount>1000.00</amount>
+      <date>8/27/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>FaegreBD PAC</contributorName>
+      <payeeName>Kind for Congress</payeeName>
+      <recipientName>Ronald James Kind</recipientName>
+      <amount>1000.00</amount>
+      <date>9/10/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>FaegreBD PAC</contributorName>
+      <payeeName>DelBene for Congress</payeeName>
+      <recipientName>Suzan DelBene</recipientName>
+      <amount>1000.00</amount>
+      <date>9/12/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>FaegreBD PAC</contributorName>
+      <payeeName>Friends of Roy Blunt</payeeName>
+      <recipientName>Roy Blunt</recipientName>
+      <amount>2500.00</amount>
+      <date>9/16/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>FaegreBD PAC</contributorName>
+      <payeeName>Friends of Raja for Congress</payeeName>
+      <recipientName>Raja Krishnamoorthi</recipientName>
+      <amount>1000.00</amount>
+      <date>9/17/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>FaegreBD PAC</contributorName>
+      <payeeName>Cathy McMorris Rodgers for Congress</payeeName>
+      <recipientName>Cathy McMorris Rodgers</recipientName>
+      <amount>2500.00</amount>
+      <date>9/18/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>FaegreBD PAC</contributorName>
+      <payeeName>Graves for Congress</payeeName>
+      <recipientName>Samuel Graves</recipientName>
+      <amount>1000.00</amount>
+      <date>9/18/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>FaegreBD PAC</contributorName>
+      <payeeName>Tony Cardenas for Congress</payeeName>
+      <recipientName>Tony Cardenas </recipientName>
+      <amount>1000.00</amount>
+      <date>9/18/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>FaegreBD PAC</contributorName>
+      <payeeName>Mike Kelly for Congress</payeeName>
+      <recipientName>Mike Kelly</recipientName>
+      <amount>1000.00</amount>
+      <date>9/19/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>FaegreBD PAC</contributorName>
+      <payeeName>Nita Lowey for Congress</payeeName>
+      <recipientName>Nita Lowey</recipientName>
+      <amount>1000.00</amount>
+      <date>9/20/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>FaegreBD PAC</contributorName>
+      <payeeName>Cindy Hyde-Smith for US Senate</payeeName>
+      <recipientName>Cindy Hyde-Smith</recipientName>
+      <amount>1000.00</amount>
+      <date>9/25/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>FaegreBD PAC</contributorName>
+      <payeeName>DeFazio for Congress</payeeName>
+      <recipientName>Peter DeFazio</recipientName>
+      <amount>1000.00</amount>
+      <date>9/25/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>FaegreBD PAC</contributorName>
+      <payeeName>McKinley for Congress</payeeName>
+      <recipientName>David McKinley</recipientName>
+      <amount>2500.00</amount>
+      <date>9/25/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>FaegreBD PAC</contributorName>
+      <payeeName>McCollum for Congress</payeeName>
+      <recipientName>Betty McCollum</recipientName>
+      <amount>1000.00</amount>
+      <date>10/15/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>FaegreBD PAC</contributorName>
+      <payeeName>Capito for West Virginia</payeeName>
+      <recipientName>Shelley Moore Capito</recipientName>
+      <amount>2500.00</amount>
+      <date>10/30/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>FaegreBD PAC</contributorName>
+      <payeeName>Tina Smith for Minnesota</payeeName>
+      <recipientName>Tina Smith</recipientName>
+      <amount>5000.00</amount>
+      <date>11/5/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>FaegreBD PAC</contributorName>
+      <payeeName>Sanford Bishop for Congress</payeeName>
+      <recipientName>Sanford Bishop</recipientName>
+      <amount>500.00</amount>
+      <date>11/14/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>FaegreBD PAC</contributorName>
+      <payeeName>Dr. Raul Ruiz for Congress</payeeName>
+      <recipientName>Raul Ruiz</recipientName>
+      <amount>1000.00</amount>
+      <date>11/14/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>FaegreBD PAC</contributorName>
+      <payeeName>Cory Gardner for Senate</payeeName>
+      <recipientName>Cory Gardner</recipientName>
+      <amount>2500.00</amount>
+      <date>11/19/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>FaegreBD PAC</contributorName>
+      <payeeName>Friends of Sherrod Brown</payeeName>
+      <recipientName>Sherrod Brown</recipientName>
+      <amount>1000.00</amount>
+      <date>12/3/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>FaegreBD PAC</contributorName>
+      <payeeName>Ron Johnson for Senate</payeeName>
+      <recipientName>Ron Johnson</recipientName>
+      <amount>1500.00</amount>
+      <date>12/3/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>FaegreBD PAC</contributorName>
+      <payeeName>Matsui for Congress</payeeName>
+      <recipientName>Doris Matsui </recipientName>
+      <amount>1000.00</amount>
+      <date>12/4/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>FaegreBD PAC</contributorName>
+      <payeeName>Schneider for Congress</payeeName>
+      <recipientName>Bradley Schneider </recipientName>
+      <amount>1000.00</amount>
+      <date>12/10/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>FaegreBD PAC</contributorName>
+      <payeeName>Liz Cheney for Wyoming</payeeName>
+      <recipientName>Liz Cheney</recipientName>
+      <amount>5000.00</amount>
+      <date>12/18/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>FaegreBD PAC</contributorName>
+      <payeeName>National Republican Senatorial Committee (NRSC)</payeeName>
+      <recipientName>National Republican Senatorial Committee (NRSC)</recipientName>
+      <amount>5000.00</amount>
+      <date>12/18/19</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

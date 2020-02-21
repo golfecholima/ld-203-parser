@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>Combest, Sell &amp; Associates, LLC</organizationName>
+  <lobbyistPrefix>Mr.</lobbyistPrefix>
+  <lobbyistFirstName>JEFF</lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>HARRISON</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>294198</senateRegID>
+  <houseRegID>37348</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/28/2020 10:10:16 AM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Hoeven for Senate</payeeName>
+      <recipientName>The Hon. John Hoeven</recipientName>
+      <amount>1500.00</amount>
+      <date>08/01/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>CONAPAC -- In Kind Contribution</payeeName>
+      <recipientName>The Hon. K. Michael Conaway</recipientName>
+      <amount>650.53</amount>
+      <date>09/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Fortenberry for Congress -- In Kind Contribution</payeeName>
+      <recipientName>The Hon. Jeff Fortenberry</recipientName>
+      <amount>164.82</amount>
+      <date>09/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Moolenaar for Congress -- In Kind Contribution</payeeName>
+      <recipientName>The Hon. John Moolenaar</recipientName>
+      <amount>164.82</amount>
+      <date>09/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Adrian Smith for Congress -- In Kind Contribution</payeeName>
+      <recipientName>The Hon. Adrian Smith</recipientName>
+      <amount>164.82</amount>
+      <date>09/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Granger for Congress -- In Kind Contribution</payeeName>
+      <recipientName>The Hon. Kay Granger</recipientName>
+      <amount>455.45</amount>
+      <date>09/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Newhouse for Congress -- In Kind Contribution</payeeName>
+      <recipientName>The Hon. Dan Newhouse</recipientName>
+      <amount>89.79</amount>
+      <date>09/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Rutherford for Congress -- In Kind Contribution</payeeName>
+      <recipientName>The Hon. John Rutherford</recipientName>
+      <amount>89.79</amount>
+      <date>09/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Diaz-Balart for Congress -- In Kind Contribution</payeeName>
+      <recipientName>The Hon. Mario Diaz Balart</recipientName>
+      <amount>89.79</amount>
+      <date>09/26/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>Sentry Insurance a Mutual Company</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <zipext>
+  </zipext>
+  <contactName>Kati Lorge</contactName>
+  <senateRegID>401104022</senateRegID>
+  <houseRegID>43259</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/13/2020 6:24:10 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>
+  </noContributions>
+  <pacs>
+    <pac>
+      <name>Sentry Insurance a Mutual Company Federal Political Action Committee</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Sentry Insurance a Mutual Company Federal Political Action Committee</contributorName>
+      <payeeName>Kind for Congress</payeeName>
+      <recipientName>Congressman Ron Kind</recipientName>
+      <amount>5000</amount>
+      <date>7/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Sentry Insurance a Mutual Company Federal Political Action Committee</contributorName>
+      <payeeName>Trucking Political Action Committee of the American Trucking Associations Inc.</payeeName>
+      <recipientName>Trucking Political Action Committee of the American Trucking Associations Inc.</recipientName>
+      <amount>1000</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Sentry Insurance a Mutual Company Federal Political Action Committee</contributorName>
+      <payeeName>Mario Diaz-Balart for Congress</payeeName>
+      <recipientName>Congressman Mario Diaz-Balart</recipientName>
+      <amount>1500</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Sentry Insurance a Mutual Company Federal Political Action Committee</contributorName>
+      <payeeName>Jim Himes for Congress</payeeName>
+      <recipientName>Congressman Jim Himes</recipientName>
+      <amount>1500</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Sentry Insurance a Mutual Company Federal Political Action Committee</contributorName>
+      <payeeName>American Property Casualty Insurance Association Political Action Committee (Insuring America PAC)</payeeName>
+      <recipientName>American Property Casualty Insurance Association Political Action Committee (Insuring America PAC)</recipientName>
+      <amount>5000</amount>
+      <date>10/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Sentry Insurance a Mutual Company Federal Political Action Committee</contributorName>
+      <payeeName>National Association of Mutual Insurance Companies PAC</payeeName>
+      <recipientName>National Association of Mutual Insurance Companies PAC</recipientName>
+      <amount>3000</amount>
+      <date>11/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Sentry Insurance a Mutual Company Federal Political Action Committee</contributorName>
+      <payeeName>Vargas for Congress</payeeName>
+      <recipientName>Congressman Juan Vargas</recipientName>
+      <amount>1000</amount>
+      <date>11/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Sentry Insurance a Mutual Company Federal Political Action Committee</contributorName>
+      <payeeName>Tammy Baldwin for Senate</payeeName>
+      <recipientName>Senator Tammy Baldwin</recipientName>
+      <amount>1000</amount>
+      <date>11/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Sentry Insurance a Mutual Company Federal Political Action Committee</contributorName>
+      <payeeName>Brady for Congress</payeeName>
+      <recipientName>Congressman Kevin Brady</recipientName>
+      <amount>1000</amount>
+      <date>11/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Sentry Insurance a Mutual Company Federal Political Action Committee</contributorName>
+      <payeeName>Steil for Wisconsin Inc.</payeeName>
+      <recipientName>Congressman Bryan Steil</recipientName>
+      <amount>2500</amount>
+      <date>11/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Sentry Insurance a Mutual Company Federal Political Action Committee</contributorName>
+      <payeeName>Glenn Grothman for Congress</payeeName>
+      <recipientName>Congressman Glenn Grothman</recipientName>
+      <amount>2500</amount>
+      <date>12/2/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

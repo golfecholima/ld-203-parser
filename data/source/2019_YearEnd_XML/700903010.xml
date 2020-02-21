@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>NATIONAL MILK PRODUCERS FEDERATION</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>Paul Bleiberg</contactName>
+  <senateRegID>28207</senateRegID>
+  <houseRegID>30687</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>12/30/2019 11:43:37 AM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>National Milk Producers Federation PAC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Milk Producers Federation PAC</contributorName>
+      <payeeName>Great Lakes PAC</payeeName>
+      <recipientName>Sen. Debbie Stabenow</recipientName>
+      <amount>2500.00</amount>
+      <date>07/08/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Milk Producers Federation PAC</contributorName>
+      <payeeName>Simpson for Congress</payeeName>
+      <recipientName>Rep. Mike Simpson</recipientName>
+      <amount>1000.00</amount>
+      <date>07/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Milk Producers Federation PAC</contributorName>
+      <payeeName>Great Lakes PAC</payeeName>
+      <recipientName>Sen. Debbie Stabenow</recipientName>
+      <amount>2500.00</amount>
+      <date>07/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Milk Producers Federation PAC</contributorName>
+      <payeeName>Dan Newhouse for Congress</payeeName>
+      <recipientName>Rep. Dan Newhouse</recipientName>
+      <amount>2500.00</amount>
+      <date>07/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Milk Producers Federation PAC</contributorName>
+      <payeeName>DelBene for Congress</payeeName>
+      <recipientName>Rep. Suzan DelBene</recipientName>
+      <amount>1500.00</amount>
+      <date>07/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Milk Producers Federation PAC</contributorName>
+      <payeeName>Finkenauer for Congress</payeeName>
+      <recipientName>Rep. Abby Finkenauer</recipientName>
+      <amount>500.00</amount>
+      <date>09/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Milk Producers Federation PAC</contributorName>
+      <payeeName>Welch for Congress</payeeName>
+      <recipientName>Rep. Peter Welch</recipientName>
+      <amount>2000.00</amount>
+      <date>09/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Milk Producers Federation PAC</contributorName>
+      <payeeName>Friends of Cheri Bustos</payeeName>
+      <recipientName>Rep. Cheri Bustos</recipientName>
+      <amount>1000.00</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Milk Producers Federation PAC</contributorName>
+      <payeeName>Marcia L. Fudge for Congress</payeeName>
+      <recipientName>Rep. Marcia Fudge</recipientName>
+      <amount>2000.00</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Milk Producers Federation PAC</contributorName>
+      <payeeName>Kind for Congress</payeeName>
+      <recipientName>Rep. Ron Kind</recipientName>
+      <amount>500.00</amount>
+      <date>10/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Milk Producers Federation PAC</contributorName>
+      <payeeName>Kuster for Congress</payeeName>
+      <recipientName>Rep. Ann Kuster</recipientName>
+      <amount>1000.00</amount>
+      <date>12/02/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Milk Producers Federation PAC</contributorName>
+      <payeeName>Elissa Slotkin for Congress</payeeName>
+      <recipientName>Rep. Elissa Slotkin</recipientName>
+      <amount>500.00</amount>
+      <date>12/02/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

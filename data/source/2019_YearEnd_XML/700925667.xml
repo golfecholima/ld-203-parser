@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>EMD SERONO, INC.</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <zipext>
+  </zipext>
+  <contactName>Wendy Sussman</contactName>
+  <senateRegID>48736</senateRegID>
+  <houseRegID>34558</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/30/2020 3:24:12 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>
+  </noContributions>
+  <pacs>
+    <pac>
+      <name>EMD Serono Inc Political Action Committee</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>EMD Serono Inc Political Action Committee</contributorName>
+      <payeeName>PERIMETER PAC</payeeName>
+      <recipientName>SEN. TAMMY DUCKWORTH</recipientName>
+      <amount>1000</amount>
+      <date>7/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>EMD Serono Inc Political Action Committee</contributorName>
+      <payeeName>HEALTHCARE FREEDOM FUND</payeeName>
+      <recipientName>REP. PHIL E. ROE</recipientName>
+      <amount>1000</amount>
+      <date>7/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>EMD Serono Inc Political Action Committee</contributorName>
+      <payeeName>FRIENDS OF NEAL DUNN</payeeName>
+      <recipientName>REP. NEAL DUNN</recipientName>
+      <amount>1000</amount>
+      <date>7/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>EMD Serono Inc Political Action Committee</contributorName>
+      <payeeName>STAND WITH SANCHEZ</payeeName>
+      <recipientName>REP. LINDA SANCHEZ</recipientName>
+      <amount>1000</amount>
+      <date>7/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>EMD Serono Inc Political Action Committee</contributorName>
+      <payeeName>PERIMETER PAC</payeeName>
+      <recipientName>SEN. TAMMY DUCKWORTH</recipientName>
+      <amount>1000</amount>
+      <date>7/8/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>EMD Serono Inc Political Action Committee</contributorName>
+      <payeeName>LIZ CHENEY FOR WYOMING</payeeName>
+      <recipientName>REP. LIZ L. CHENEY</recipientName>
+      <amount>1000</amount>
+      <date>7/1/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>EMD Serono Inc Political Action Committee</contributorName>
+      <payeeName>FRIENDS OF JIM CLYBURN</payeeName>
+      <recipientName>REP. JAMES E. CLYBURN</recipientName>
+      <amount>1000</amount>
+      <date>7/1/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>EMD Serono Inc Political Action Committee</contributorName>
+      <payeeName>JOE KENNEDY FOR CONGRESS</payeeName>
+      <recipientName>REP. JOE P. KENNEDY, III</recipientName>
+      <amount>2500</amount>
+      <date>7/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>EMD Serono Inc Political Action Committee</contributorName>
+      <payeeName>MCCONNELL FOR MAJORITY LEADER COMMITTEE</payeeName>
+      <recipientName>SEN. MITCH MCCONNELL</recipientName>
+      <amount>2000</amount>
+      <date>7/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>EMD Serono Inc Political Action Committee</contributorName>
+      <payeeName>BOB CASEY FOR SENATE INC.</payeeName>
+      <recipientName>SEN. BOB CASEY</recipientName>
+      <amount>1000</amount>
+      <date>7/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>EMD Serono Inc Political Action Committee</contributorName>
+      <payeeName>SCHNEIDER FOR CONGRESS</payeeName>
+      <recipientName>REP. BRADLEY S. SCHNEIDER</recipientName>
+      <amount>2000</amount>
+      <date>7/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>EMD Serono Inc Political Action Committee</contributorName>
+      <payeeName>BELIEVE IN AMERICA PAC</payeeName>
+      <recipientName>SEN. MITT ROMNEY</recipientName>
+      <amount>2500</amount>
+      <date>7/7/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>EMD Serono Inc Political Action Committee</contributorName>
+      <payeeName>BUDDY PAC</payeeName>
+      <recipientName>REP. BUDDY CARTER</recipientName>
+      <amount>2500</amount>
+      <date>7/7/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>EMD Serono Inc Political Action Committee</contributorName>
+      <payeeName>RON ESTES FOR CONGRESS</payeeName>
+      <recipientName>REP. RON ESTES</recipientName>
+      <amount>1000</amount>
+      <date>7/7/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>EMD Serono Inc Political Action Committee</contributorName>
+      <payeeName>KIND FOR CONGRESS COMMITTEE</payeeName>
+      <recipientName>REP. RON J. KIND</recipientName>
+      <amount>1000</amount>
+      <date>7/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>EMD Serono Inc Political Action Committee</contributorName>
+      <payeeName>GEORGE HOLDING FOR CONGRESS INC.</payeeName>
+      <recipientName>REP. GEORGE E.B. HOLDING</recipientName>
+      <amount>2000</amount>
+      <date>7/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>EMD Serono Inc Political Action Committee</contributorName>
+      <payeeName>SCOTT PETERS FOR CONGRESS</payeeName>
+      <recipientName>REP. SCOTT PETERS</recipientName>
+      <amount>1000</amount>
+      <date>7/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>EMD Serono Inc Political Action Committee</contributorName>
+      <payeeName>JASON SMITH FOR CONGRESS</payeeName>
+      <recipientName>REP. JASON T. SMITH</recipientName>
+      <amount>3000</amount>
+      <date>8/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>EMD Serono Inc Political Action Committee</contributorName>
+      <payeeName>ROBIN KELLY FOR CONGRESS</payeeName>
+      <recipientName>REP. ROBIN L. KELLY</recipientName>
+      <amount>1000</amount>
+      <date>8/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>EMD Serono Inc Political Action Committee</contributorName>
+      <payeeName>THE BILL KEATING COMMITTEE</payeeName>
+      <recipientName>REP. BILL R. KEATING</recipientName>
+      <amount>2000</amount>
+      <date>8/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>EMD Serono Inc Political Action Committee</contributorName>
+      <payeeName>BERA FOR CONGRESS</payeeName>
+      <recipientName>REP. AMI BERA</recipientName>
+      <amount>1500</amount>
+      <date>8/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>EMD Serono Inc Political Action Committee</contributorName>
+      <payeeName>JACKIE SPEIER FOR CONGRESS</payeeName>
+      <recipientName>REP. JACKIE SPEIER</recipientName>
+      <amount>1000</amount>
+      <date>8/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>EMD Serono Inc Political Action Committee</contributorName>
+      <payeeName>THE MARKEY COMMITTEE</payeeName>
+      <recipientName>SEN. ED MARKEY</recipientName>
+      <amount>2500</amount>
+      <date>8/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>EMD Serono Inc Political Action Committee</contributorName>
+      <payeeName>SCOTT PETERS FOR CONGRESS</payeeName>
+      <recipientName>REP. SCOTT PETERS</recipientName>
+      <amount>2000</amount>
+      <date>8/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>EMD Serono Inc Political Action Committee</contributorName>
+      <payeeName>GLENN GROTHMAN FOR CONGRESS</payeeName>
+      <recipientName>REP. GLENN S. GROTHMAN</recipientName>
+      <amount>-1000</amount>
+      <date>9/1/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>EMD Serono Inc Political Action Committee</contributorName>
+      <payeeName>MADISON PAC</payeeName>
+      <recipientName>REP. RICHARD E. NEAL</recipientName>
+      <amount>5000</amount>
+      <date>9/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>EMD Serono Inc Political Action Committee</contributorName>
+      <payeeName>WENSTRUP FOR CONGRESS</payeeName>
+      <recipientName>REP. BRAD R. WENSTRUP</recipientName>
+      <amount>1000</amount>
+      <date>9/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>EMD Serono Inc Political Action Committee</contributorName>
+      <payeeName>PROMOTING OUR REPUBLICAN TEAM PAC</payeeName>
+      <recipientName>SEN. ROB PORTMAN</recipientName>
+      <amount>1500</amount>
+      <date>10/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>EMD Serono Inc Political Action Committee</contributorName>
+      <payeeName>NEW PIONEERS PAC</payeeName>
+      <recipientName>REP. GREG P. WALDEN</recipientName>
+      <amount>1000</amount>
+      <date>10/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>EMD Serono Inc Political Action Committee</contributorName>
+      <payeeName>HUDSON FOR CONGRESS</payeeName>
+      <recipientName>REP. RICHARD L. HUDSON, JR.</recipientName>
+      <amount>1000</amount>
+      <date>10/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>EMD Serono Inc Political Action Committee</contributorName>
+      <payeeName>ANN WAGNER FOR CONGRESS</payeeName>
+      <recipientName>REP. ANN L. WAGNER</recipientName>
+      <amount>1000</amount>
+      <date>10/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>EMD Serono Inc Political Action Committee</contributorName>
+      <payeeName>FRIENDS OF PAT TOOMEY</payeeName>
+      <recipientName>SEN. PAT J. TOOMEY</recipientName>
+      <amount>1500</amount>
+      <date>10/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>EMD Serono Inc Political Action Committee</contributorName>
+      <payeeName>SHAHEEN FOR SENATE</payeeName>
+      <recipientName>SEN. JEANNE SHAHEEN</recipientName>
+      <amount>2500</amount>
+      <date>11/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>EMD Serono Inc Political Action Committee</contributorName>
+      <payeeName>BUDDY CARTER FOR CONGRESS</payeeName>
+      <recipientName>REP. BUDDY CARTER</recipientName>
+      <amount>1500</amount>
+      <date>11/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>EMD Serono Inc Political Action Committee</contributorName>
+      <payeeName>SCALISE LEADERSHIP FUND</payeeName>
+      <recipientName>REP. STEVE J. SCALISE AND NATIONAL REPUBLICAN CONGRESSIONAL COMMITTEE</recipientName>
+      <amount>5000.00</amount>
+      <date>11/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>EMD Serono Inc Political Action Committee</contributorName>
+      <payeeName>WENSTRUP FOR CONGRESS</payeeName>
+      <recipientName>REP. BRAD R. WENSTRUP</recipientName>
+      <amount>1500</amount>
+      <date>11/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>EMD Serono Inc Political Action Committee</contributorName>
+      <payeeName>STEVE DAINES FOR MONTANA</payeeName>
+      <recipientName>SEN. STEVE DAINES</recipientName>
+      <amount>1500</amount>
+      <date>11/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>EMD Serono Inc Political Action Committee</contributorName>
+      <payeeName>HUDSON FOR CONGRESS</payeeName>
+      <recipientName>REP. RICHARD L. HUDSON, JR</recipientName>
+      <amount>1000</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>EMD Serono Inc Political Action Committee</contributorName>
+      <payeeName>FRIENDS OF NEAL DUNN</payeeName>
+      <recipientName>REP. NEAL DUNN</recipientName>
+      <amount>3000</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>EMD Serono Inc Political Action Committee</contributorName>
+      <payeeName>THOM TILLIS COMMITTEE</payeeName>
+      <recipientName>SEN. THOM R. TILLIS</recipientName>
+      <amount>1500</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>EMD Serono Inc Political Action Committee</contributorName>
+      <payeeName>RON ESTES FOR CONGRESS</payeeName>
+      <recipientName>REP. RON ESTES</recipientName>
+      <amount>1000</amount>
+      <date>12/13/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

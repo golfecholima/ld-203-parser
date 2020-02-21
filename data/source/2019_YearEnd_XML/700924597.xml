@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>CohnReznick LLP</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>Michael Dietz</contactName>
+  <senateRegID>401103453</senateRegID>
+  <houseRegID>42733</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/30/2020 10:56:49 AM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>CohnReznick LLP PAC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CohnReznick LLP PAC</contributorName>
+      <payeeName>Kenny Marchant for Congress</payeeName>
+      <recipientName>Congressman Kenny Marchant </recipientName>
+      <amount>1000.00</amount>
+      <date>08/02/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CohnReznick LLP PAC</contributorName>
+      <payeeName>Cory Gardner for Senate</payeeName>
+      <recipientName>Senator Cory Gardner </recipientName>
+      <amount>1000.00</amount>
+      <date>08/07/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CohnReznick LLP PAC</contributorName>
+      <payeeName>The Reed Committee</payeeName>
+      <recipientName>Senator Jack Reed </recipientName>
+      <amount>1000.00</amount>
+      <date>08/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CohnReznick LLP PAC</contributorName>
+      <payeeName>Oorah! PAC 
+</payeeName>
+      <recipientName>Senator Todd Young</recipientName>
+      <amount>2500.00</amount>
+      <date>07/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CohnReznick LLP PAC</contributorName>
+      <payeeName>Collins for Senator</payeeName>
+      <recipientName>Senator Susan Collins </recipientName>
+      <amount>1000.00</amount>
+      <date>09/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CohnReznick LLP PAC</contributorName>
+      <payeeName>Blumenauer for Congress 
+</payeeName>
+      <recipientName>Congressman Earl Blumenauer</recipientName>
+      <amount>5000.00</amount>
+      <date>09/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CohnReznick LLP PAC</contributorName>
+      <payeeName>Stephanie Murphy for Congress
+</payeeName>
+      <recipientName>Congresswoman Stephanie Murphy</recipientName>
+      <amount>2500.00</amount>
+      <date>10/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CohnReznick LLP PAC</contributorName>
+      <payeeName>Walorski for Congress</payeeName>
+      <recipientName>Congresswoman Jackie Walorski </recipientName>
+      <amount>1000.00</amount>
+      <date>11/27/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

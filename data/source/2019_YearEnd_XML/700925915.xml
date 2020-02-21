@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>PITNEY BOWES INC.</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <zipext>
+  </zipext>
+  <contactName>Leigh Walton</contactName>
+  <senateRegID>31598</senateRegID>
+  <houseRegID>32874</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/30/2020 4:20:34 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>Pitney Bowes Inc. Political Action Committee</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Pitney Bowes Inc. Political Action Committee</contributorName>
+      <payeeName>Virginia Foxx for Congress</payeeName>
+      <recipientName>Virginia Foxx</recipientName>
+      <amount>1000.00</amount>
+      <date>07/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Pitney Bowes Inc. Political Action Committee</contributorName>
+      <payeeName>DSCC (Democratic Senatorial Campaign Committee)</payeeName>
+      <recipientName>Party Committee</recipientName>
+      <amount>5000.00</amount>
+      <date>09/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Pitney Bowes Inc. Political Action Committee</contributorName>
+      <payeeName>Clay Jr. for Congress Committee</payeeName>
+      <recipientName>William Lacy Clay Jr.</recipientName>
+      <amount>1000.00</amount>
+      <date>09/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Pitney Bowes Inc. Political Action Committee</contributorName>
+      <payeeName>Maloney for Congress</payeeName>
+      <recipientName>Carolyn Maloney</recipientName>
+      <amount>1000.00</amount>
+      <date>09/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Pitney Bowes Inc. Political Action Committee</contributorName>
+      <payeeName>Friends of Rosa DeLauro</payeeName>
+      <recipientName>Rosa DeLauro</recipientName>
+      <amount>1000.00</amount>
+      <date>09/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Pitney Bowes Inc. Political Action Committee</contributorName>
+      <payeeName>Make it Work PAC</payeeName>
+      <recipientName>Angus King</recipientName>
+      <amount>1500.00</amount>
+      <date>10/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Pitney Bowes Inc. Political Action Committee</contributorName>
+      <payeeName>Kind for Congress Committee</payeeName>
+      <recipientName>Ron Kind</recipientName>
+      <amount>1000.00</amount>
+      <date>10/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Pitney Bowes Inc. Political Action Committee</contributorName>
+      <payeeName>Cory Gardner for Senate</payeeName>
+      <recipientName>Cory Gardner</recipientName>
+      <amount>1000.00</amount>
+      <date>11/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Pitney Bowes Inc. Political Action Committee</contributorName>
+      <payeeName>Carper for Senate</payeeName>
+      <recipientName>Tom Carper</recipientName>
+      <amount>1000.00</amount>
+      <date>11/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Pitney Bowes Inc. Political Action Committee</contributorName>
+      <payeeName>Meadows Freedom Fund</payeeName>
+      <recipientName>Mark Meadows</recipientName>
+      <amount>1000.00</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Pitney Bowes Inc. Political Action Committee</contributorName>
+      <payeeName>Friends of Ben McAdams</payeeName>
+      <recipientName>Ben McAdams</recipientName>
+      <amount>1000.00</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Pitney Bowes Inc. Political Action Committee</contributorName>
+      <payeeName>Finkenauer for Congress</payeeName>
+      <recipientName>Abby Finkenauer</recipientName>
+      <amount>1000.00</amount>
+      <date>12/04/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Pitney Bowes Inc. Political Action Committee</contributorName>
+      <payeeName>Maloney for Congress</payeeName>
+      <recipientName>Carolyn Maloney</recipientName>
+      <amount>2500.00</amount>
+      <date>12/04/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Pitney Bowes Inc. Political Action Committee</contributorName>
+      <payeeName>Families for James Lankford</payeeName>
+      <recipientName>James Lankford</recipientName>
+      <amount>1000.00</amount>
+      <date>12/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Pitney Bowes Inc. Political Action Committee</contributorName>
+      <payeeName>Portman for Senate Committee</payeeName>
+      <recipientName>Rob Portman</recipientName>
+      <amount>2500.00</amount>
+      <date>12/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Pitney Bowes Inc. Political Action Committee</contributorName>
+      <payeeName>Friends of Ben McAdams</payeeName>
+      <recipientName>Ben McAdams</recipientName>
+      <amount>1000.00</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Pitney Bowes Inc. Political Action Committee</contributorName>
+      <payeeName>NRSC (National Republic Senatorial Committee)</payeeName>
+      <recipientName>Party Committee</recipientName>
+      <amount>5000.00</amount>
+      <date>12/18/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

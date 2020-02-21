@@ -1,0 +1,1422 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>UBS AMERICAS, INC.</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <zipext>
+  </zipext>
+  <contactName>JOHN SAVERCOOL</contactName>
+  <senateRegID>78436</senateRegID>
+  <houseRegID>36329</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>My certification below is to the best of my knowledge based on reasonable due diligence.</comments>
+  <signedDate>1/30/2020 11:58:16 AM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>
+  </noContributions>
+  <pacs>
+    <pac>
+      <name>UBS Americas Inc. Political Action Committee (UBS PAC)</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Keep America Rolling PAC</payeeName>
+      <recipientName>Rep. G. Mike J. Kelly</recipientName>
+      <amount>5000</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Ted Lieu For Congress</payeeName>
+      <recipientName>Rep. Ted W. Lieu</recipientName>
+      <amount>1000</amount>
+      <date>7/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>R Senate PAC</payeeName>
+      <recipientName>Sen. John Cornyn, III</recipientName>
+      <amount>5000</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Joining Ideas To Motivate Movement For You (JIMMY PAC)</payeeName>
+      <recipientName>Rep. James V. Panetta</recipientName>
+      <amount>5000</amount>
+      <date>8/7/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Anthony Brown For Congress</payeeName>
+      <recipientName>Rep. Anthony Gregory Brown</recipientName>
+      <amount>2500</amount>
+      <date>7/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Dwight Evans For Congress</payeeName>
+      <recipientName>Rep. Dwight Evans</recipientName>
+      <amount>2500</amount>
+      <date>7/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>At The Table!</payeeName>
+      <recipientName>Rep. Grace Meng</recipientName>
+      <amount>2500</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Friends Of Cheri Bustos</payeeName>
+      <recipientName>Rep. Cheryl L. Bustos</recipientName>
+      <amount>2500</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Clay JR. For Congress</payeeName>
+      <recipientName>Rep. William Lacy Clay, Jr.</recipientName>
+      <amount>1500</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Lance Gooden For Congress Committee</payeeName>
+      <recipientName>Rep. Lance Gooden</recipientName>
+      <amount>2500</amount>
+      <date>8/7/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>McHenry For Congress</payeeName>
+      <recipientName>Rep. Patrick Timothy McHenry</recipientName>
+      <amount>5000</amount>
+      <date>8/7/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Sean Patrick Maloney For Congress</payeeName>
+      <recipientName>Rep. Sean Patrick Maloney</recipientName>
+      <amount>2500</amount>
+      <date>11/1/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Next Century Fund</payeeName>
+      <recipientName>Sen. Richard M. Burr</recipientName>
+      <amount>5000</amount>
+      <date>12/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Al Lawson For Congress</payeeName>
+      <recipientName>Rep. Alfred J. Lawson, Jr.</recipientName>
+      <amount>2500</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Denny Heck For Congress</payeeName>
+      <recipientName>Rep. Dennis Heck</recipientName>
+      <amount>3500</amount>
+      <date>8/7/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>In The Arena PAC</payeeName>
+      <recipientName>Rep. J. French Hill</recipientName>
+      <amount>5000</amount>
+      <date>8/7/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Stanton For Congress</payeeName>
+      <recipientName>Rep. Greg Stanton</recipientName>
+      <amount>-1000</amount>
+      <date>7/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Schneider For Congress</payeeName>
+      <recipientName>Rep. Bradley Scott Schneider</recipientName>
+      <amount>1000</amount>
+      <date>7/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Jersey Values PAC</payeeName>
+      <recipientName>Rep. Joshua S. Gottheimer</recipientName>
+      <amount>5000</amount>
+      <date>12/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Beatty For Congress</payeeName>
+      <recipientName>Rep. Joyce Beatty</recipientName>
+      <amount>1000</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Smart Solutions PAC</payeeName>
+      <recipientName>Sen. Jacky Rosen</recipientName>
+      <amount>5000</amount>
+      <date>8/7/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Josh Gottheimer For Congress</payeeName>
+      <recipientName>Rep. Joshua S. Gottheimer</recipientName>
+      <amount>1000</amount>
+      <date>8/7/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>The Reed Committee</payeeName>
+      <recipientName>Sen. Jack Francis Reed</recipientName>
+      <amount>2500</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Steve Daines For Montana</payeeName>
+      <recipientName>Sen. Steve David Daines</recipientName>
+      <amount>5000</amount>
+      <date>8/7/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Together Holding Our Majority PAC</payeeName>
+      <recipientName>Sen. Thomas Roland Tillis</recipientName>
+      <amount>5000</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Jeffries For Congress</payeeName>
+      <recipientName>Rep. Hakeem S. Jeffries</recipientName>
+      <amount>3500</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Chris Coons For Delaware</payeeName>
+      <recipientName>Sen. Christopher Andrew Coons</recipientName>
+      <amount>5000</amount>
+      <date>8/7/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Cathy McMorris Rodgers For Congress</payeeName>
+      <recipientName>Rep. Cathy McMorris Rodgers</recipientName>
+      <amount>5000</amount>
+      <date>7/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Upton For All Of Us</payeeName>
+      <recipientName>Rep. Frederick Stephen Upton</recipientName>
+      <amount>2500</amount>
+      <date>12/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Elizabeth Pannill Fletcher For Congress</payeeName>
+      <recipientName>Rep. Elizabeth Pannill Fletcher</recipientName>
+      <amount>2500</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Pelican PAC</payeeName>
+      <recipientName>Sen. John Neely Kennedy</recipientName>
+      <amount>5000</amount>
+      <date>12/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Sherman For Congress</payeeName>
+      <recipientName>Rep. Bradley James Sherman</recipientName>
+      <amount>2500</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Families For James Lankford</payeeName>
+      <recipientName>Sen. James Paul Lankford</recipientName>
+      <amount>5000</amount>
+      <date>8/7/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Alex Mooney For Congress</payeeName>
+      <recipientName>Rep. Alexander X. Mooney</recipientName>
+      <amount>5000</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Drew Ferguson For Congress Inc.</payeeName>
+      <recipientName>Rep. A. Drew Ferguson, IV</recipientName>
+      <amount>5000</amount>
+      <date>8/7/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Giving Willingly Empowering Nationally (GWEN) PAC</payeeName>
+      <recipientName>Rep. Gwendolynne Sophia Moore</recipientName>
+      <amount>5000</amount>
+      <date>8/7/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Friends For Gregory Meeks</payeeName>
+      <recipientName>Rep. Gregory Weldon Meeks</recipientName>
+      <amount>1000</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Friends Of Don Beyer</payeeName>
+      <recipientName>Rep. Donald S. Beyer, Jr.</recipientName>
+      <amount>1500</amount>
+      <date>11/1/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Peterson For Congress</payeeName>
+      <recipientName>Rep. Collin Clark Peterson</recipientName>
+      <amount>2500</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Lance Gooden For Congress Committee</payeeName>
+      <recipientName>Rep. Lance Gooden</recipientName>
+      <amount>-2500</amount>
+      <date>8/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Kind For Congress Committee</payeeName>
+      <recipientName>Rep. Ronald James Kind</recipientName>
+      <amount>1000</amount>
+      <date>11/1/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Friends Of Denver Riggleman, Inc.</payeeName>
+      <recipientName>Rep. Denver L. Riggleman, III</recipientName>
+      <amount>5000</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Walorski For Congress Inc</payeeName>
+      <recipientName>Rep. Jacqueline Walorski</recipientName>
+      <amount>5000</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Connolly For Congress</payeeName>
+      <recipientName>Rep. Gerald E. Connolly</recipientName>
+      <amount>1500</amount>
+      <date>7/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Trey For Congress</payeeName>
+      <recipientName>Rep. Trey Hollingsworth</recipientName>
+      <amount>5000</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Electing Majority Making Effective Republicans</payeeName>
+      <recipientName>Rep. Thomas Earl Emmer, Jr.</recipientName>
+      <amount>5000</amount>
+      <date>11/1/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Team Hagerty</payeeName>
+      <recipientName>Bill Hagerty</recipientName>
+      <amount>5000</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Larson For Congress</payeeName>
+      <recipientName>Rep. John Barry Larson</recipientName>
+      <amount>2500</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Lisa Blunt Rochester For Congress</payeeName>
+      <recipientName>Rep. Lisa Blunt Rochester</recipientName>
+      <amount>1500</amount>
+      <date>8/7/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Perlmutter For Congress</payeeName>
+      <recipientName>Rep. Edwin George Perlmutter</recipientName>
+      <amount>2500</amount>
+      <date>8/7/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Southern California Fund</payeeName>
+      <recipientName>Rep. Bradley James Sherman</recipientName>
+      <amount>2500</amount>
+      <date>12/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Narragansett Bay PAC</payeeName>
+      <recipientName>Sen. Jack Francis Reed</recipientName>
+      <amount>5000</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Jimmy Gomez For Congress</payeeName>
+      <recipientName>Rep. Jimmy Gomez</recipientName>
+      <amount>2500</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Friends For Gregory Meeks</payeeName>
+      <recipientName>Rep. Gregory Weldon Meeks</recipientName>
+      <amount>500</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Forward Together PAC</payeeName>
+      <recipientName>Sen. Mark Robert Warner</recipientName>
+      <amount>5000</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Suozzi For Congress</payeeName>
+      <recipientName>Rep. Thomas R. Suozzi</recipientName>
+      <amount>2500</amount>
+      <date>8/7/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Lisa Blunt Rochester For Congress</payeeName>
+      <recipientName>Rep. Lisa Blunt Rochester</recipientName>
+      <amount>1500</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Debbie For Congress</payeeName>
+      <recipientName>Rep. Debbie Mucarsel-Powell</recipientName>
+      <amount>1000</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>David Scott For Congress</payeeName>
+      <recipientName>Rep. David Albert Scott</recipientName>
+      <amount>2500</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Emmer For Congress</payeeName>
+      <recipientName>Rep. Thomas Earl Emmer, Jr.</recipientName>
+      <amount>5000</amount>
+      <date>8/7/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Perlmutter For Congress</payeeName>
+      <recipientName>Rep. Edwin George Perlmutter</recipientName>
+      <amount>2500</amount>
+      <date>12/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>The Madison PAC</payeeName>
+      <recipientName>Rep. Richard Edmund Neal</recipientName>
+      <amount>5000</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Huizenga For Congress</payeeName>
+      <recipientName>Rep. William Patrick Huizenga</recipientName>
+      <amount>5000</amount>
+      <date>8/7/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Mike Kelly For Congress</payeeName>
+      <recipientName>Rep. G. Mike J. Kelly</recipientName>
+      <amount>5000</amount>
+      <date>8/7/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Terri Sewell For Congress</payeeName>
+      <recipientName>Rep. Terri Andrea Sewell</recipientName>
+      <amount>2500</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Mike Thompson For Congress</payeeName>
+      <recipientName>Rep. Michael C. Thompson</recipientName>
+      <amount>2500</amount>
+      <date>7/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Defense, Economic Renewal, Education And Knowledge PAC</payeeName>
+      <recipientName>Rep. Derek Kilmer</recipientName>
+      <amount>5000</amount>
+      <date>11/1/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Joni For Iowa</payeeName>
+      <recipientName>Sen. Joni Kay Ernst</recipientName>
+      <amount>5000</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Bridge The Gap PAC</payeeName>
+      <recipientName>Rep. Bradley Scott Schneider</recipientName>
+      <amount>2500</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Ted Budd For Congress</payeeName>
+      <recipientName>Rep. Theodore Paul Budd</recipientName>
+      <amount>5000</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Walden For Congress</payeeName>
+      <recipientName>Rep. Gregory Paul Walden</recipientName>
+      <amount>5000</amount>
+      <date>8/7/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Jimmy Panetta For Congress</payeeName>
+      <recipientName>Rep. James V. Panetta</recipientName>
+      <amount>2500</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Carolyn's PAC</payeeName>
+      <recipientName>Rep. Carolyn B. Maloney</recipientName>
+      <amount>5000</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Walorski For Congress Inc</payeeName>
+      <recipientName>Rep. Jacqueline Walorski</recipientName>
+      <amount>4000</amount>
+      <date>7/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Jason Smith For Congress</payeeName>
+      <recipientName>Rep. Jason Thomas Smith</recipientName>
+      <amount>5000</amount>
+      <date>8/7/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Abraham Lincoln PAC</payeeName>
+      <recipientName>Rep. Darin M. LaHood</recipientName>
+      <amount>5000</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Liz Cheney For Wyoming</payeeName>
+      <recipientName>Rep. Elizabeth Cheney</recipientName>
+      <amount>5000</amount>
+      <date>8/7/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Vern Buchanan For Congress</payeeName>
+      <recipientName>Rep. Vernon Gale Buchanan</recipientName>
+      <amount>5000</amount>
+      <date>8/7/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Joe Neguse For Congress</payeeName>
+      <recipientName>Rep. Joe Neguse</recipientName>
+      <amount>1000</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Shaheen For Senate</payeeName>
+      <recipientName>Sen. Jeanne Shaheen</recipientName>
+      <amount>2500</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Cleaver For Congress</payeeName>
+      <recipientName>Rep. Emanuel Cleaver, II</recipientName>
+      <amount>2500</amount>
+      <date>8/7/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Ann Wagner For Congress</payeeName>
+      <recipientName>Rep. Ann Louise Wagner</recipientName>
+      <amount>5000</amount>
+      <date>7/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>The Reed Committee</payeeName>
+      <recipientName>Sen. Jack Francis Reed</recipientName>
+      <amount>1500</amount>
+      <date>8/7/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Country Roads PAC</payeeName>
+      <recipientName>Sen. Joseph Manchin, III</recipientName>
+      <amount>5000</amount>
+      <date>12/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Southern California Fund</payeeName>
+      <recipientName>Rep. Bradley James Sherman</recipientName>
+      <amount>2500</amount>
+      <date>8/7/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Project West Political Action Committee</payeeName>
+      <recipientName>Sen. Cory Gardner</recipientName>
+      <amount>5000</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Marc Veasey Congressional Campaign Committee</payeeName>
+      <recipientName>Rep. Marc A. Veasey</recipientName>
+      <amount>2000</amount>
+      <date>11/1/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Angie Craig For Congress</payeeName>
+      <recipientName>Rep. Angela Dawn Craig</recipientName>
+      <amount>1500</amount>
+      <date>12/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Stephanie Murphy For Congress</payeeName>
+      <recipientName>Rep. Stephanie N. Murphy</recipientName>
+      <amount>2500</amount>
+      <date>7/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Friends Of Bill Posey</payeeName>
+      <recipientName>Rep. William Posey</recipientName>
+      <amount>5000</amount>
+      <date>7/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Blue Hen Federal PAC</payeeName>
+      <recipientName>Sen. Christopher Andrew Coons</recipientName>
+      <amount>5000</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Kevin McCarthy For Congress</payeeName>
+      <recipientName>Rep. Kevin Owen McCarthy</recipientName>
+      <amount>5000</amount>
+      <date>8/7/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Democrats Reshaping America (DREAMPAC)</payeeName>
+      <recipientName>Rep. Linda T. Sanchez</recipientName>
+      <amount>2500</amount>
+      <date>8/7/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Blaine For Congress</payeeName>
+      <recipientName>Rep. W. Blaine Luetkemeyer</recipientName>
+      <amount>5000</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Ca Luv PAC (CALIFORNIA LEADERSHIP UNITED FOR VICTORY PAC)</payeeName>
+      <recipientName>Rep. Peter Ray Aguilar</recipientName>
+      <amount>-5000</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>The Reed Committee</payeeName>
+      <recipientName>Sen. Jack Francis Reed</recipientName>
+      <amount>1000</amount>
+      <date>8/7/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Vargas For Congress</payeeName>
+      <recipientName>Rep. Juan Carlos Vargas</recipientName>
+      <amount>2500</amount>
+      <date>8/7/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Friends Of Ben McAdams</payeeName>
+      <recipientName>Rep. Ben McAdams</recipientName>
+      <amount>2500</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Gallego For Arizona</payeeName>
+      <recipientName>Rep. Ruben M. Gallego</recipientName>
+      <amount>2500</amount>
+      <date>7/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Suozzi For Congress</payeeName>
+      <recipientName>Rep. Thomas R. Suozzi</recipientName>
+      <amount>1000</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Wenstrup For Congress</payeeName>
+      <recipientName>Rep. Brad R. Wenstrup</recipientName>
+      <amount>5000</amount>
+      <date>8/7/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Darren Soto For Congress</payeeName>
+      <recipientName>Rep. Darren Michael Soto</recipientName>
+      <amount>2500</amount>
+      <date>8/7/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Donald Norcross For Congress</payeeName>
+      <recipientName>Rep. Donald W. Norcross</recipientName>
+      <amount>2500</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Heartland Values PAC</payeeName>
+      <recipientName>Sen. John Randolph Thune</recipientName>
+      <amount>5000</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Build America PAC</payeeName>
+      <recipientName>Rep. Gregory Weldon Meeks</recipientName>
+      <amount>5000</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>CHERPAC</payeeName>
+      <recipientName>Rep. Cheryl L. Bustos</recipientName>
+      <amount>5000</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Kaine For Virginia</payeeName>
+      <recipientName>Sen. Timothy Michael Kaine</recipientName>
+      <amount>2500</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Kathleen Rice For Congress</payeeName>
+      <recipientName>Rep. Kathleen Maura Rice</recipientName>
+      <amount>2500</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Brian Higgins For Congress</payeeName>
+      <recipientName>Rep. Brian M. Higgins</recipientName>
+      <amount>2500</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Kirkpatrick For Congress</payeeName>
+      <recipientName>Rep. Ann L. Kirkpatrick</recipientName>
+      <amount>2500</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Finkenauer For Congress</payeeName>
+      <recipientName>Rep. Abby Finkenauer</recipientName>
+      <amount>2500</amount>
+      <date>7/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Beatty For Congress</payeeName>
+      <recipientName>Rep. Joyce Beatty</recipientName>
+      <amount>3000</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Joe Neguse For Congress</payeeName>
+      <recipientName>Rep. Joe Neguse</recipientName>
+      <amount>1500</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Nutmeg PAC</payeeName>
+      <recipientName>Sen. Richard Blumenthal</recipientName>
+      <amount>5000</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Ca Luv PAC (CALIFORNIA LEADERSHIP UNITED FOR VICTORY PAC)</payeeName>
+      <recipientName>Rep. Peter Ray Aguilar</recipientName>
+      <amount>5000</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>French Hill For Arkansas</payeeName>
+      <recipientName>Rep. J. French Hill</recipientName>
+      <amount>5000</amount>
+      <date>7/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Darren Soto For Congress</payeeName>
+      <recipientName>Rep. Darren Michael Soto</recipientName>
+      <amount>2500</amount>
+      <date>7/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Friends Of Jim Clyburn</payeeName>
+      <recipientName>Rep. James E. Clyburn</recipientName>
+      <amount>1000</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Jobs, Education, &amp; Families First - Jeff PAC</payeeName>
+      <recipientName>Rep. Hakeem S. Jeffries</recipientName>
+      <amount>5000</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Stanton For Congress</payeeName>
+      <recipientName>Rep. Greg Stanton</recipientName>
+      <amount>1000</amount>
+      <date>7/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Bera For Congress</payeeName>
+      <recipientName>Rep. Amerish B. Bera</recipientName>
+      <amount>1000</amount>
+      <date>11/1/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Building America's Republican Representation PAC</payeeName>
+      <recipientName>Rep. Garland Hale Barr, IV</recipientName>
+      <amount>5000</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Davidson For Congress</payeeName>
+      <recipientName>Rep. Warren Davidson</recipientName>
+      <amount>5000</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Scalise For Congress</payeeName>
+      <recipientName>Rep. Stephen Joseph Scalise</recipientName>
+      <amount>5000</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>McSally For Senate Inc</payeeName>
+      <recipientName>Sen. Martha Elizabeth McSally</recipientName>
+      <amount>5000</amount>
+      <date>8/7/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Ratcliffe For Congress</payeeName>
+      <recipientName>Rep. John Lee Ratcliffe</recipientName>
+      <amount>5000</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Ann PAC</payeeName>
+      <recipientName>Rep. Ann Louise Wagner</recipientName>
+      <amount>5000</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Friends Of Jim Clyburn</payeeName>
+      <recipientName>Rep. James E. Clyburn</recipientName>
+      <amount>1500</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Jeffries For Congress</payeeName>
+      <recipientName>Rep. Hakeem S. Jeffries</recipientName>
+      <amount>1500</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>DelBene for Congress</payeeName>
+      <recipientName>Rep. Suzan Kay DelBene</recipientName>
+      <amount>1500</amount>
+      <date>11/1/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Tom O'Halleran For Congress</payeeName>
+      <recipientName>Rep. Tom O'Halleran</recipientName>
+      <amount>1000</amount>
+      <date>11/1/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Grace For New York</payeeName>
+      <recipientName>Rep. Grace Meng</recipientName>
+      <amount>2500</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Haley Stevens For Congress</payeeName>
+      <recipientName>Rep. Haley M. Stevens</recipientName>
+      <amount>2500</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Kennedy For Massachusetts</payeeName>
+      <recipientName>Rep. Joseph Patrick Kennedy, III</recipientName>
+      <amount>5000</amount>
+      <date>8/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Himes For Congress</payeeName>
+      <recipientName>Rep. James Andrew Himes</recipientName>
+      <amount>2500</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Duffy For Wisconsin</payeeName>
+      <recipientName>Sean Patrick Duffy</recipientName>
+      <amount>5000</amount>
+      <date>8/7/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Pete King For Congress Committee</payeeName>
+      <recipientName>Rep. Peter T. King</recipientName>
+      <amount>5000</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Elise For Congress</payeeName>
+      <recipientName>Rep. Elise M. Stefanik</recipientName>
+      <amount>5000</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Richmond For Congress</payeeName>
+      <recipientName>Rep. Cedric Levon Richmond</recipientName>
+      <amount>2500</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>LOBO PAC</payeeName>
+      <recipientName>Sen. Martin Heinrich</recipientName>
+      <amount>5000</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Tom O'Halleran For Congress</payeeName>
+      <recipientName>Rep. Tom O'Halleran</recipientName>
+      <amount>1500</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Making America Prosperous PAC</payeeName>
+      <recipientName>Rep. Kevin Patrick Brady</recipientName>
+      <amount>5000</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Hoyer For Congress</payeeName>
+      <recipientName>Rep. Steny Hamilton Hoyer</recipientName>
+      <amount>2500</amount>
+      <date>8/7/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Scott Peters For Congress</payeeName>
+      <recipientName>Rep. Scott H. Peters</recipientName>
+      <amount>2500</amount>
+      <date>7/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Chrissy Houlahan For Congress</payeeName>
+      <recipientName>Rep. Christina J. Houlahan</recipientName>
+      <amount>1500</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Portman For Senate Committee</payeeName>
+      <recipientName>Sen. Rob J. Portman</recipientName>
+      <amount>5000</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>McHenry For Congress</payeeName>
+      <recipientName>Rep. Patrick Timothy McHenry</recipientName>
+      <amount>-5000</amount>
+      <date>8/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Cleaver For Congress</payeeName>
+      <recipientName>Rep. Emanuel Cleaver, II</recipientName>
+      <amount>1000</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Smucker For Congress</payeeName>
+      <recipientName>Rep. Lloyd K. Smucker</recipientName>
+      <amount>5000</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Moore For Congress</payeeName>
+      <recipientName>Rep. Gwendolynne Sophia Moore</recipientName>
+      <amount>1000</amount>
+      <date>11/1/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Darren Soto For Congress</payeeName>
+      <recipientName>Rep. Darren Michael Soto</recipientName>
+      <amount>-2500</amount>
+      <date>7/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Friends Of Bill Posey</payeeName>
+      <recipientName>Rep. William Posey</recipientName>
+      <amount>-5000</amount>
+      <date>7/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Marc Veasey Congressional Campaign Committee</payeeName>
+      <recipientName>Rep. Marc A. Veasey</recipientName>
+      <amount>1000</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>McCaul For Congress, Inc</payeeName>
+      <recipientName>Rep. Michael Thomas McCaul, Sr.</recipientName>
+      <amount>5000</amount>
+      <date>7/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Ted Lieu For Congress</payeeName>
+      <recipientName>Rep. Ted W. Lieu</recipientName>
+      <amount>1000</amount>
+      <date>11/1/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Mad 4 Pa PAC</payeeName>
+      <recipientName>Rep. Madeleine Dean</recipientName>
+      <amount>1500</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>AMERIPAC The Fund for a Greater America</payeeName>
+      <recipientName>Rep. Steny Hamilton Hoyer</recipientName>
+      <amount>5000</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Ca Luv PAC (CALIFORNIA LEADERSHIP UNITED FOR VICTORY PAC)</payeeName>
+      <recipientName>Rep. Peter Ray Aguilar</recipientName>
+      <amount>5000</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>McConnell Senate Committee</payeeName>
+      <recipientName>Sen. Mitch McConnell</recipientName>
+      <amount>5000</amount>
+      <date>12/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Stivers For Congress</payeeName>
+      <recipientName>Rep. Steve Stivers</recipientName>
+      <amount>5000</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Friends Of Cheri Bustos</payeeName>
+      <recipientName>Rep. Cheryl L. Bustos</recipientName>
+      <amount>1000</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Granite Values PAC</payeeName>
+      <recipientName>Sen. Margaret Wood Hassan</recipientName>
+      <amount>5000</amount>
+      <date>11/1/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Casten For Congress</payeeName>
+      <recipientName>Rep. Sean Casten</recipientName>
+      <amount>1000</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>George Holding For Congress Inc.</payeeName>
+      <recipientName>Rep. George E. Holding</recipientName>
+      <amount>5000</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Sharice For Congress</payeeName>
+      <recipientName>Rep. Sharice Davids</recipientName>
+      <amount>1000</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Stephanie Murphy For Congress</payeeName>
+      <recipientName>Rep. Stephanie N. Murphy</recipientName>
+      <amount>5000</amount>
+      <date>12/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Cowboy PAC</payeeName>
+      <recipientName>Rep. Elizabeth Cheney</recipientName>
+      <amount>5000</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Zeldin For Congress</payeeName>
+      <recipientName>Rep. Lee M. Zeldin</recipientName>
+      <amount>5000</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Friends Of Ben McAdams</payeeName>
+      <recipientName>Rep. Ben McAdams</recipientName>
+      <amount>5000</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Getting Stuff Done PAC (GSD-PAC)</payeeName>
+      <recipientName>Sen. Kyrsten Sinema</recipientName>
+      <amount>5000</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>At The Table!</payeeName>
+      <recipientName>Rep. Grace Meng</recipientName>
+      <amount>2500</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Developing A New Generation PAC (DANG PAC)</payeeName>
+      <recipientName>Rep. Stephanie N. Murphy</recipientName>
+      <amount>5000</amount>
+      <date>8/7/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>UBS Americas Inc. Political Action Committee (UBS PAC)</contributorName>
+      <payeeName>Team Graham, Inc.</payeeName>
+      <recipientName>Sen. Lindsey Olin Graham</recipientName>
+      <amount>5000</amount>
+      <date>12/19/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

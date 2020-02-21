@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>Lockridge, Grindal, Nauen, PLLP</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <zipext>
+  </zipext>
+  <contactName>Carol Mraz</contactName>
+  <senateRegID>23053</senateRegID>
+  <houseRegID>31034</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/22/2020 11:12:10 AM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Doug Burgum for North Dakota</payeeName>
+      <recipientName>Doug Burgum</recipientName>
+      <amount>2500.00</amount>
+      <date>07/08/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>House Republican Leadership (North Dakota)</payeeName>
+      <recipientName>House Republican Leadership (North Dakota)</recipientName>
+      <amount>2000.00</amount>
+      <date>07/12/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>House Republican Caucus (North Dakota)</payeeName>
+      <recipientName>House Republican Caucus (North Dakota)</recipientName>
+      <amount>250.00</amount>
+      <date>07/29/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Senate Republican Caucus (North Dakota)</payeeName>
+      <recipientName>Senate Republican Caucus (North Dakota)</recipientName>
+      <amount>1000.00</amount>
+      <date>08/02/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Peterson for Congress</payeeName>
+      <recipientName>Congressman Collin Peterson</recipientName>
+      <amount>1000.00</amount>
+      <date>08/06/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Hoeven for Senate</payeeName>
+      <recipientName>Senator John Hoeven</recipientName>
+      <amount>1500.00</amount>
+      <date>08/22/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>District 30 Republicans (North Dakota)</payeeName>
+      <recipientName>District 30 Republicans (North Dakota)</recipientName>
+      <amount>500.00</amount>
+      <date>09/11/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Peterson for Congress</payeeName>
+      <recipientName>Congressman Collin Peterson</recipientName>
+      <amount>1500.00</amount>
+      <date>09/18/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Tom Emmer for Congress</payeeName>
+      <recipientName>Congressman Tom Emmer</recipientName>
+      <amount>4500.00</amount>
+      <date>09/06/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Davids - Haaland Victory Fund</payeeName>
+      <recipientName>Rep. Sharice Davids (KS-03)
+Rep. Deb Haaland (NM-01)</recipientName>
+      <amount>1000.00</amount>
+      <date>10/10/19</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

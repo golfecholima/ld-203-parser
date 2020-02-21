@@ -1,0 +1,547 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>Sierra Nevada Corporation</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>Jacquie Manoukian </contactName>
+  <senateRegID>400899626</senateRegID>
+  <houseRegID>41993</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/30/2020 10:49:59 AM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>SIERRA NEVADA CORPORATION PAC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>SIERRA NEVADA CORPORATION PAC</contributorName>
+      <payeeName>Amodei For Nevada
+</payeeName>
+      <recipientName>Congressman Mark Amodei </recipientName>
+      <amount>1000.00</amount>
+      <date>07/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>SIERRA NEVADA CORPORATION PAC</contributorName>
+      <payeeName>Citizens For Turner
+</payeeName>
+      <recipientName>Congressman Michael Turner </recipientName>
+      <amount>1000.00</amount>
+      <date>07/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>SIERRA NEVADA CORPORATION PAC</contributorName>
+      <payeeName>Don Bacon For Congress
+</payeeName>
+      <recipientName>Congressman Don Bacon</recipientName>
+      <amount>1000.00</amount>
+      <date>07/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>SIERRA NEVADA CORPORATION PAC</contributorName>
+      <payeeName>Hoyer For Congress
+</payeeName>
+      <recipientName>Congressman Steny Hoyer </recipientName>
+      <amount>1000.00</amount>
+      <date>07/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>SIERRA NEVADA CORPORATION PAC</contributorName>
+      <payeeName>Hudson for Congress </payeeName>
+      <recipientName>Congressman Richard Hudson </recipientName>
+      <amount>1000.00</amount>
+      <date>07/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>SIERRA NEVADA CORPORATION PAC</contributorName>
+      <payeeName>Michael Waltz For Congress
+</payeeName>
+      <recipientName>Congressman Michael Waltz</recipientName>
+      <amount>1000.00</amount>
+      <date>07/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>SIERRA NEVADA CORPORATION PAC</contributorName>
+      <payeeName>Narragansett Bay PAC
+</payeeName>
+      <recipientName>Senator Jack Reed </recipientName>
+      <amount>3000.00</amount>
+      <date>07/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>SIERRA NEVADA CORPORATION PAC</contributorName>
+      <payeeName>Project West PAC
+</payeeName>
+      <recipientName>Senator Cory Gardner</recipientName>
+      <amount>1000.00</amount>
+      <date>07/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>SIERRA NEVADA CORPORATION PAC</contributorName>
+      <payeeName>MARSHA PAC
+</payeeName>
+      <recipientName>Senator Marsha Blackburn </recipientName>
+      <amount>1000.00</amount>
+      <date>07/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>SIERRA NEVADA CORPORATION PAC</contributorName>
+      <payeeName>Moran For Kansas
+</payeeName>
+      <recipientName>Senator Jerry Moran</recipientName>
+      <amount>2500.00</amount>
+      <date>08/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>SIERRA NEVADA CORPORATION PAC</contributorName>
+      <payeeName>Moran For Kansas
+</payeeName>
+      <recipientName>Senator Jerry Moran</recipientName>
+      <amount>500.00</amount>
+      <date>08/02/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>SIERRA NEVADA CORPORATION PAC</contributorName>
+      <payeeName>Elise For Congress
+</payeeName>
+      <recipientName>Congresswoman Elise Stefanik </recipientName>
+      <amount>1500.00</amount>
+      <date>08/08/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>SIERRA NEVADA CORPORATION PAC</contributorName>
+      <payeeName>Lamborn For Congress
+</payeeName>
+      <recipientName>Congressman Doug Lamborn </recipientName>
+      <amount>1000.00</amount>
+      <date>08/08/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>SIERRA NEVADA CORPORATION PAC</contributorName>
+      <payeeName>Lamborn For Congress
+</payeeName>
+      <recipientName>Congressman Doug Lamborn</recipientName>
+      <amount>500.00</amount>
+      <date>08/08/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>SIERRA NEVADA CORPORATION PAC</contributorName>
+      <payeeName>National Republican Senatorial Committee</payeeName>
+      <recipientName>Republican Senate Candidates </recipientName>
+      <amount>10000.00</amount>
+      <date>08/08/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>SIERRA NEVADA CORPORATION PAC</contributorName>
+      <payeeName>Project West PAC
+</payeeName>
+      <recipientName>Senator Cory Gardner </recipientName>
+      <amount>1500.00</amount>
+      <date>08/08/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>SIERRA NEVADA CORPORATION PAC</contributorName>
+      <payeeName>Citizens For John Rutherford
+</payeeName>
+      <recipientName>Congressman John Rutherford</recipientName>
+      <amount>1000.00</amount>
+      <date>09/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>SIERRA NEVADA CORPORATION PAC</contributorName>
+      <payeeName>Devin Nunes Campaign Committee
+</payeeName>
+      <recipientName>Congressman Devin Nunes </recipientName>
+      <amount>1500.00</amount>
+      <date>09/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>SIERRA NEVADA CORPORATION PAC</contributorName>
+      <payeeName>Hudson For Congress
+</payeeName>
+      <recipientName>Congressman Richard Hudson</recipientName>
+      <amount>1000.00</amount>
+      <date>09/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>SIERRA NEVADA CORPORATION PAC</contributorName>
+      <payeeName>Ken Calvert For Congress Committee
+</payeeName>
+      <recipientName>Congressman Ken Calvert</recipientName>
+      <amount>1000.00</amount>
+      <date>09/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>SIERRA NEVADA CORPORATION PAC</contributorName>
+      <payeeName>McSally For Senate Inc
+</payeeName>
+      <recipientName>Senator Martha McSally </recipientName>
+      <amount>1000.00</amount>
+      <date>09/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>SIERRA NEVADA CORPORATION PAC</contributorName>
+      <payeeName>People's Voice PAC
+</payeeName>
+      <recipientName>Senator Tammy Baldwin</recipientName>
+      <amount>2500.00</amount>
+      <date>09/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>SIERRA NEVADA CORPORATION PAC</contributorName>
+      <payeeName>STAPAC
+</payeeName>
+      <recipientName>Congressman Mac Thornberry</recipientName>
+      <amount>2500.00</amount>
+      <date>09/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>SIERRA NEVADA CORPORATION PAC</contributorName>
+      <payeeName>Michael Waltz For Congress
+</payeeName>
+      <recipientName>Congressman Michael Waltz </recipientName>
+      <amount>1000.00</amount>
+      <date>09/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>SIERRA NEVADA CORPORATION PAC</contributorName>
+      <payeeName>Visclosky For Congress
+</payeeName>
+      <recipientName>Congressman Peter Visclosky </recipientName>
+      <amount>1000.00</amount>
+      <date>09/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>SIERRA NEVADA CORPORATION PAC</contributorName>
+      <payeeName>Common Sense Common Solutions Political Action Committee </payeeName>
+      <recipientName>Congresswoman Kay Granger </recipientName>
+      <amount>5000.00</amount>
+      <date>10/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>SIERRA NEVADA CORPORATION PAC</contributorName>
+      <payeeName>Defend America PAC </payeeName>
+      <recipientName>Senator Richard Shelby </recipientName>
+      <amount>2000.00</amount>
+      <date>10/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>SIERRA NEVADA CORPORATION PAC</contributorName>
+      <payeeName>Dr Brian Babin For Congress
+</payeeName>
+      <recipientName>Congressman Brian Babin</recipientName>
+      <amount>1000.00</amount>
+      <date>10/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>SIERRA NEVADA CORPORATION PAC</contributorName>
+      <payeeName>Friends Of Bill Posey
+</payeeName>
+      <recipientName>Congressman Bill Posey </recipientName>
+      <amount>1500.00</amount>
+      <date>10/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>SIERRA NEVADA CORPORATION PAC</contributorName>
+      <payeeName>Lucas For Congress
+</payeeName>
+      <recipientName>Congressman Frank Lucas </recipientName>
+      <amount>1500.00</amount>
+      <date>10/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>SIERRA NEVADA CORPORATION PAC</contributorName>
+      <payeeName>Mario Diaz-Balart For Congress
+</payeeName>
+      <recipientName>Congressman Mario Diaz-Balart</recipientName>
+      <amount>2500.00</amount>
+      <date>10/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>SIERRA NEVADA CORPORATION PAC</contributorName>
+      <payeeName>Womack For Congress Committee
+</payeeName>
+      <recipientName>Congressman Stephen Womack </recipientName>
+      <amount>1500.00</amount>
+      <date>10/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>SIERRA NEVADA CORPORATION PAC</contributorName>
+      <payeeName>A New Direction PAC
+</payeeName>
+      <recipientName>Senator Jeanne Shaheen</recipientName>
+      <amount>1500.00</amount>
+      <date>10/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>SIERRA NEVADA CORPORATION PAC</contributorName>
+      <payeeName>Amodei For Nevada
+</payeeName>
+      <recipientName>Congressman Mark Amodei </recipientName>
+      <amount>1000.00</amount>
+      <date>10/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>SIERRA NEVADA CORPORATION PAC</contributorName>
+      <payeeName>Citizens For John Rutherford
+</payeeName>
+      <recipientName>Congressman John Rutherford </recipientName>
+      <amount>1000.00</amount>
+      <date>10/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>SIERRA NEVADA CORPORATION PAC</contributorName>
+      <payeeName>DEFEND AMERICA PAC
+</payeeName>
+      <recipientName>Senator Richard Shelby </recipientName>
+      <amount>2000.00</amount>
+      <date>10/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>SIERRA NEVADA CORPORATION PAC</contributorName>
+      <payeeName>Don Bacon For Congress
+</payeeName>
+      <recipientName>Congressman Don Bacon </recipientName>
+      <amount>1000.00</amount>
+      <date>10/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>SIERRA NEVADA CORPORATION PAC</contributorName>
+      <payeeName>Dutch Ruppersberger For Congress
+</payeeName>
+      <recipientName>Congressman Dutch Ruppersberger</recipientName>
+      <amount>1000.00</amount>
+      <date>10/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>SIERRA NEVADA CORPORATION PAC</contributorName>
+      <payeeName>Elise For Congress
+</payeeName>
+      <recipientName>Congresswoman Elise Stefanik </recipientName>
+      <amount>1000.00</amount>
+      <date>10/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>SIERRA NEVADA CORPORATION PAC</contributorName>
+      <payeeName>Ken Calvert For Congress Committee
+</payeeName>
+      <recipientName>Congressman Ken Calvert </recipientName>
+      <amount>1000.00</amount>
+      <date>10/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>SIERRA NEVADA CORPORATION PAC</contributorName>
+      <payeeName>Ken Calvert For Congress Committee
+</payeeName>
+      <recipientName>Congressman Ken Calvert </recipientName>
+      <amount>3000.00</amount>
+      <date>10/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>SIERRA NEVADA CORPORATION PAC</contributorName>
+      <payeeName>Palazzo For Congress
+</payeeName>
+      <recipientName>Congressman Steve Palazzo </recipientName>
+      <amount>1000.00</amount>
+      <date>10/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>SIERRA NEVADA CORPORATION PAC</contributorName>
+      <payeeName>Pringle for Congress, INC. </payeeName>
+      <recipientName>Congressman Chris Pringle </recipientName>
+      <amount>500.00</amount>
+      <date>10/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>SIERRA NEVADA CORPORATION PAC</contributorName>
+      <payeeName>The Reed Committee</payeeName>
+      <recipientName>Senator Jack Reed </recipientName>
+      <amount>2000.00</amount>
+      <date>10/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>SIERRA NEVADA CORPORATION PAC</contributorName>
+      <payeeName>Tammy Baldwin For Senate
+</payeeName>
+      <recipientName>Senator Tammy Baldwin</recipientName>
+      <amount>2500.00</amount>
+      <date>11/01/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>SIERRA NEVADA CORPORATION PAC</contributorName>
+      <payeeName>Elise For Congress
+</payeeName>
+      <recipientName>Congresswoman Elise Stefanik </recipientName>
+      <amount>1500.00</amount>
+      <date>12/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>SIERRA NEVADA CORPORATION PAC</contributorName>
+      <payeeName>Elise For Congress
+</payeeName>
+      <recipientName>Congresswoman Elise Stefanik </recipientName>
+      <amount>1000.00</amount>
+      <date>12/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>SIERRA NEVADA CORPORATION PAC</contributorName>
+      <payeeName>Kay Granger Campaign Fund
+</payeeName>
+      <recipientName>Congresswoman Kay Granger </recipientName>
+      <amount>1000.00</amount>
+      <date>12/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>SIERRA NEVADA CORPORATION PAC</contributorName>
+      <payeeName>Kay Granger Campaign Fund
+</payeeName>
+      <recipientName>Congresswoman Kay Granger </recipientName>
+      <amount>1000.00</amount>
+      <date>12/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>SIERRA NEVADA CORPORATION PAC</contributorName>
+      <payeeName>Michael Waltz For Congress
+</payeeName>
+      <recipientName>Congressman Michael Waltz</recipientName>
+      <amount>1000.00</amount>
+      <date>12/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>SIERRA NEVADA CORPORATION PAC</contributorName>
+      <payeeName>Smart Solutions PAC
+</payeeName>
+      <recipientName>Senator Jacklyn Rosen</recipientName>
+      <amount>2000.00</amount>
+      <date>12/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>SIERRA NEVADA CORPORATION PAC</contributorName>
+      <payeeName>Thom Tillis Committee
+</payeeName>
+      <recipientName>Senator Thom Tillis</recipientName>
+      <amount>2000.00</amount>
+      <date>12/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>SIERRA NEVADA CORPORATION PAC</contributorName>
+      <payeeName>Thom Tillis Committee
+</payeeName>
+      <recipientName>Senator Thom Tillis</recipientName>
+      <amount>1000.00</amount>
+      <date>12/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>SIERRA NEVADA CORPORATION PAC</contributorName>
+      <payeeName>Lamborn For Congress
+</payeeName>
+      <recipientName>Congressman Doug Lamborn</recipientName>
+      <amount>500.00</amount>
+      <date>12/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>SIERRA NEVADA CORPORATION PAC</contributorName>
+      <payeeName>McSally For Senate Inc
+</payeeName>
+      <recipientName>Senator Martha McSally </recipientName>
+      <amount>1000.00</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>SIERRA NEVADA CORPORATION PAC</contributorName>
+      <payeeName>Kay Granger Campaign Fund
+</payeeName>
+      <recipientName>Congresswoman Kay Granger </recipientName>
+      <amount>4000.00</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>SIERRA NEVADA CORPORATION PAC</contributorName>
+      <payeeName>Don Bacon For Congress
+</payeeName>
+      <recipientName>Congressman Don Bacon (contribution refunded)</recipientName>
+      <amount>1000.00</amount>
+      <date>11/26/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

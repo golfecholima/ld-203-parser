@@ -1,0 +1,881 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>JPMORGAN CHASE HOLDINGS LLC</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <zipext>
+  </zipext>
+  <contactName>Timothy Berry</contactName>
+  <senateRegID>401104236</senateRegID>
+  <houseRegID>43442</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>The disclosures and certification herein are made to the best of my knowledge based upon the Organizations reasonable due diligence and good faith efforts. Entry #23 reported on the 2019 Mid Year LD-203 was voided.</comments>
+  <signedDate>1/30/2020 9:31:41 AM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>
+  </noContributions>
+  <pacs>
+    <pac>
+      <name>JPMorgan Chase &amp; Co. Federal Political Action Committee</name>
+    </pac>
+    <pac>
+      <name>JPMorgan Chase &amp; Co. PAC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JPMorgan Chase &amp; Co. Federal Political Action Committee</contributorName>
+      <payeeName>Friends Of Dan Kildee</payeeName>
+      <recipientName>Rep. Daniel Timothy Kildee</recipientName>
+      <amount>1000</amount>
+      <date>7/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JPMorgan Chase &amp; Co. Federal Political Action Committee</contributorName>
+      <payeeName>David Scott For Congress</payeeName>
+      <recipientName>Rep. David Albert Scott</recipientName>
+      <amount>1000</amount>
+      <date>7/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JPMorgan Chase &amp; Co. Federal Political Action Committee</contributorName>
+      <payeeName>Karen Bass For Congress</payeeName>
+      <recipientName>Rep. Karen Ruth Bass</recipientName>
+      <amount>1000</amount>
+      <date>7/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JPMorgan Chase &amp; Co. Federal Political Action Committee</contributorName>
+      <payeeName>Russ Fulcher For Idaho</payeeName>
+      <recipientName>Rep. Russell M. Fulcher</recipientName>
+      <amount>1000</amount>
+      <date>7/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JPMorgan Chase &amp; Co. Federal Political Action Committee</contributorName>
+      <payeeName>Cleaver For Congress</payeeName>
+      <recipientName>Rep. Emanuel Cleaver, II</recipientName>
+      <amount>1500</amount>
+      <date>7/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JPMorgan Chase &amp; Co. Federal Political Action Committee</contributorName>
+      <payeeName>People For Derek Kilmer</payeeName>
+      <recipientName>Rep. Derek Kilmer</recipientName>
+      <amount>2500</amount>
+      <date>7/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JPMorgan Chase &amp; Co. Federal Political Action Committee</contributorName>
+      <payeeName>Richmond For Congress</payeeName>
+      <recipientName>Rep. Cedric Levon Richmond</recipientName>
+      <amount>1000</amount>
+      <date>8/2/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JPMorgan Chase &amp; Co. Federal Political Action Committee</contributorName>
+      <payeeName>Friends Of Ben McAdams</payeeName>
+      <recipientName>Rep. Ben McAdams</recipientName>
+      <amount>1500</amount>
+      <date>8/2/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JPMorgan Chase &amp; Co. Federal Political Action Committee</contributorName>
+      <payeeName>Wenstrup For Congress</payeeName>
+      <recipientName>Rep. Brad R. Wenstrup</recipientName>
+      <amount>2000</amount>
+      <date>8/2/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JPMorgan Chase &amp; Co. Federal Political Action Committee</contributorName>
+      <payeeName>Richard E Neal For Congress Committee</payeeName>
+      <recipientName>Rep. Richard Edmund Neal</recipientName>
+      <amount>2500</amount>
+      <date>8/2/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JPMorgan Chase &amp; Co. Federal Political Action Committee</contributorName>
+      <payeeName>Hoyer For Congress</payeeName>
+      <recipientName>Rep. Steny Hamilton Hoyer</recipientName>
+      <amount>2500</amount>
+      <date>8/2/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JPMorgan Chase &amp; Co. Federal Political Action Committee</contributorName>
+      <payeeName>Chris Coons For Delaware</payeeName>
+      <recipientName>Sen. Christopher Andrew Coons</recipientName>
+      <amount>2500</amount>
+      <date>8/2/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JPMorgan Chase &amp; Co. Federal Political Action Committee</contributorName>
+      <payeeName>Kay Granger Campaign Fund</payeeName>
+      <recipientName>Rep. Kay Granger</recipientName>
+      <amount>1000</amount>
+      <date>8/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JPMorgan Chase &amp; Co. Federal Political Action Committee</contributorName>
+      <payeeName>Friends For Gregory Meeks</payeeName>
+      <recipientName>Rep. Gregory Weldon Meeks</recipientName>
+      <amount>1500</amount>
+      <date>8/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JPMorgan Chase &amp; Co. Federal Political Action Committee</contributorName>
+      <payeeName>Friends Of Jim Clyburn</payeeName>
+      <recipientName>Rep. James E. Clyburn</recipientName>
+      <amount>3000</amount>
+      <date>8/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JPMorgan Chase &amp; Co. Federal Political Action Committee</contributorName>
+      <payeeName>At The Table!</payeeName>
+      <recipientName>Rep. Grace Meng</recipientName>
+      <amount>100</amount>
+      <date>9/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JPMorgan Chase &amp; Co. Federal Political Action Committee</contributorName>
+      <payeeName>Friends Of Bennie Thompson</payeeName>
+      <recipientName>Rep. Bennie G. Thompson</recipientName>
+      <amount>1000</amount>
+      <date>9/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JPMorgan Chase &amp; Co. Federal Political Action Committee</contributorName>
+      <payeeName>Citizens For John Rutherford</payeeName>
+      <recipientName>Rep. John H. Rutherford</recipientName>
+      <amount>1000</amount>
+      <date>9/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JPMorgan Chase &amp; Co. Federal Political Action Committee</contributorName>
+      <payeeName>Sanford Bishop For Congress</payeeName>
+      <recipientName>Rep. Sanford D. Bishop, Jr.</recipientName>
+      <amount>1000</amount>
+      <date>9/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JPMorgan Chase &amp; Co. Federal Political Action Committee</contributorName>
+      <payeeName>Forward Together PAC</payeeName>
+      <recipientName>Sen. Mark Robert Warner</recipientName>
+      <amount>1000</amount>
+      <date>9/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JPMorgan Chase &amp; Co. Federal Political Action Committee</contributorName>
+      <payeeName>Al Lawson For Congress</payeeName>
+      <recipientName>Rep. Alfred J. Lawson, Jr.</recipientName>
+      <amount>1500</amount>
+      <date>9/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JPMorgan Chase &amp; Co. PAC</contributorName>
+      <payeeName>Promoting Our Republican Team PAC</payeeName>
+      <recipientName>Sen. Rob J. Portman</recipientName>
+      <amount>2000</amount>
+      <date>9/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JPMorgan Chase &amp; Co. Federal Political Action Committee</contributorName>
+      <payeeName>Upper Hand Fund</payeeName>
+      <recipientName>Rep. William Patrick Huizenga</recipientName>
+      <amount>5000</amount>
+      <date>9/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JPMorgan Chase &amp; Co. Federal Political Action Committee</contributorName>
+      <payeeName>Getting Stuff Done PAC (GSD-PAC)</payeeName>
+      <recipientName>Sen. Kyrsten Sinema</recipientName>
+      <amount>5000</amount>
+      <date>9/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JPMorgan Chase &amp; Co. Federal Political Action Committee</contributorName>
+      <payeeName>Katherine Clark For Congress</payeeName>
+      <recipientName>Rep. Katherine M. Clark</recipientName>
+      <amount>1000</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JPMorgan Chase &amp; Co. Federal Political Action Committee</contributorName>
+      <payeeName>Austin Scott For Congress Inc</payeeName>
+      <recipientName>Rep. James Austin Scott</recipientName>
+      <amount>2000</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JPMorgan Chase &amp; Co. Federal Political Action Committee</contributorName>
+      <payeeName>Tom Rice For Congress</payeeName>
+      <recipientName>Rep. Tom Rice</recipientName>
+      <amount>2000</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JPMorgan Chase &amp; Co. Federal Political Action Committee</contributorName>
+      <payeeName>McHenry For Congress</payeeName>
+      <recipientName>Rep. Patrick Timothy McHenry</recipientName>
+      <amount>2500</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JPMorgan Chase &amp; Co. Federal Political Action Committee</contributorName>
+      <payeeName>Emmer For Congress</payeeName>
+      <recipientName>Rep. Thomas Earl Emmer, Jr.</recipientName>
+      <amount>2500</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JPMorgan Chase &amp; Co. Federal Political Action Committee</contributorName>
+      <payeeName>Innovation Political Action Committee</payeeName>
+      <recipientName>Rep. Patrick Timothy McHenry</recipientName>
+      <amount>5000</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JPMorgan Chase &amp; Co. Federal Political Action Committee</contributorName>
+      <payeeName>George Holding For Congress Inc.</payeeName>
+      <recipientName>Rep. George E. Holding</recipientName>
+      <amount>1000</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JPMorgan Chase &amp; Co. Federal Political Action Committee</contributorName>
+      <payeeName>Stivers For Congress</payeeName>
+      <recipientName>Rep. Steve Stivers</recipientName>
+      <amount>1500</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JPMorgan Chase &amp; Co. Federal Political Action Committee</contributorName>
+      <payeeName>Alex Mooney For Congress</payeeName>
+      <recipientName>Rep. Alexander X. Mooney</recipientName>
+      <amount>2000</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JPMorgan Chase &amp; Co. Federal Political Action Committee</contributorName>
+      <payeeName>Anthony Gonzalez For Congress</payeeName>
+      <recipientName>Rep. Anthony E Gonzalez</recipientName>
+      <amount>2000</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JPMorgan Chase &amp; Co. Federal Political Action Committee</contributorName>
+      <payeeName>Steil For Wisconsin, Inc.</payeeName>
+      <recipientName>Rep. Bryan G. Steil</recipientName>
+      <amount>2000</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JPMorgan Chase &amp; Co. Federal Political Action Committee</contributorName>
+      <payeeName>Texans For Henry Cuellar Congressional Campaign</payeeName>
+      <recipientName>Rep. Henry Roberto Cuellar</recipientName>
+      <amount>2000</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JPMorgan Chase &amp; Co. Federal Political Action Committee</contributorName>
+      <payeeName>Lance Gooden For Congress Committee</payeeName>
+      <recipientName>Rep. Lance Gooden</recipientName>
+      <amount>2000</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JPMorgan Chase &amp; Co. Federal Political Action Committee</contributorName>
+      <payeeName>Ron Estes For Congress</payeeName>
+      <recipientName>Rep. Ron Estes</recipientName>
+      <amount>2000</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JPMorgan Chase &amp; Co. Federal Political Action Committee</contributorName>
+      <payeeName>Emmer For Congress</payeeName>
+      <recipientName>Rep. Thomas Earl Emmer, Jr.</recipientName>
+      <amount>2000</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JPMorgan Chase &amp; Co. Federal Political Action Committee</contributorName>
+      <payeeName>Perdue For Senate</payeeName>
+      <recipientName>Sen. David Alfred Perdue, Jr.</recipientName>
+      <amount>2000</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JPMorgan Chase &amp; Co. PAC</contributorName>
+      <payeeName>Common Values PAC</payeeName>
+      <recipientName>Sen. John Anthony Barrasso</recipientName>
+      <amount>2000</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JPMorgan Chase &amp; Co. PAC</contributorName>
+      <payeeName>Heartland Values PAC</payeeName>
+      <recipientName>Sen. John Randolph Thune</recipientName>
+      <amount>2000</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JPMorgan Chase &amp; Co. Federal Political Action Committee</contributorName>
+      <payeeName>Josh Gottheimer For Congress</payeeName>
+      <recipientName>Rep. Joshua S. Gottheimer</recipientName>
+      <amount>2500</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JPMorgan Chase &amp; Co. Federal Political Action Committee</contributorName>
+      <payeeName>Blaine For Congress</payeeName>
+      <recipientName>Rep. W. Blaine Luetkemeyer</recipientName>
+      <amount>2500</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JPMorgan Chase &amp; Co. Federal Political Action Committee</contributorName>
+      <payeeName>McConnell Senate Committee</payeeName>
+      <recipientName>Sen. Mitch McConnell</recipientName>
+      <amount>5000</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JPMorgan Chase &amp; Co. PAC</contributorName>
+      <payeeName>Bluegrass Committee</payeeName>
+      <recipientName>Sen. Mitch McConnell</recipientName>
+      <amount>5000</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JPMorgan Chase &amp; Co. Federal Political Action Committee</contributorName>
+      <payeeName>Steve Daines For Montana</payeeName>
+      <recipientName>Sen. Steve David Daines</recipientName>
+      <amount>500</amount>
+      <date>10/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JPMorgan Chase &amp; Co. Federal Political Action Committee</contributorName>
+      <payeeName>Steve Daines For Montana</payeeName>
+      <recipientName>Sen. Steve David Daines</recipientName>
+      <amount>500</amount>
+      <date>10/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JPMorgan Chase &amp; Co. PAC</contributorName>
+      <payeeName>Dakota PAC</payeeName>
+      <recipientName>Sen. John Henry Hoeven, III</recipientName>
+      <amount>2000</amount>
+      <date>10/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JPMorgan Chase &amp; Co. Federal Political Action Committee</contributorName>
+      <payeeName>Perdue For Senate</payeeName>
+      <recipientName>Sen. David Alfred Perdue, Jr.</recipientName>
+      <amount>500</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JPMorgan Chase &amp; Co. Federal Political Action Committee</contributorName>
+      <payeeName>Perdue For Senate</payeeName>
+      <recipientName>Sen. David Alfred Perdue, Jr.</recipientName>
+      <amount>500</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JPMorgan Chase &amp; Co. Federal Political Action Committee</contributorName>
+      <payeeName>Joni For Iowa</payeeName>
+      <recipientName>Sen. Joni Kay Ernst</recipientName>
+      <amount>500</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JPMorgan Chase &amp; Co. Federal Political Action Committee</contributorName>
+      <payeeName>Sanford Bishop For Congress</payeeName>
+      <recipientName>Rep. Sanford D. Bishop, Jr.</recipientName>
+      <amount>1000</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JPMorgan Chase &amp; Co. Federal Political Action Committee</contributorName>
+      <payeeName>Jason Smith For Congress</payeeName>
+      <recipientName>Rep. Jason Thomas Smith</recipientName>
+      <amount>2000</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JPMorgan Chase &amp; Co. Federal Political Action Committee</contributorName>
+      <payeeName>At The Table!</payeeName>
+      <recipientName>Rep. Grace Meng</recipientName>
+      <amount>150</amount>
+      <date>11/8/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JPMorgan Chase &amp; Co. Federal Political Action Committee</contributorName>
+      <payeeName>Scott Peters For Congress</payeeName>
+      <recipientName>Rep. Scott H. Peters</recipientName>
+      <amount>1000</amount>
+      <date>11/8/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JPMorgan Chase &amp; Co. Federal Political Action Committee</contributorName>
+      <payeeName>David Scott For Congress</payeeName>
+      <recipientName>Rep. David Albert Scott</recipientName>
+      <amount>1500</amount>
+      <date>11/8/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JPMorgan Chase &amp; Co. Federal Political Action Committee</contributorName>
+      <payeeName>Jobs And Innovation Matter PAC (JIM PAC)</payeeName>
+      <recipientName>Rep. James Andrew Himes</recipientName>
+      <amount>2500</amount>
+      <date>11/8/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JPMorgan Chase &amp; Co. Federal Political Action Committee</contributorName>
+      <payeeName>Stephanie Murphy For Congress</payeeName>
+      <recipientName>Rep. Stephanie N. Murphy</recipientName>
+      <amount>2500</amount>
+      <date>11/8/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JPMorgan Chase &amp; Co. PAC</contributorName>
+      <payeeName>Treasure State PAC</payeeName>
+      <recipientName>Sen. Jon Tester</recipientName>
+      <amount>2500</amount>
+      <date>11/8/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JPMorgan Chase &amp; Co. Federal Political Action Committee</contributorName>
+      <payeeName>Manchin For West Virginia</payeeName>
+      <recipientName>Sen. Joseph Manchin, III</recipientName>
+      <amount>2500</amount>
+      <date>11/8/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JPMorgan Chase &amp; Co. Federal Political Action Committee</contributorName>
+      <payeeName>Collins For Senator</payeeName>
+      <recipientName>Sen. Susan Margaret Collins</recipientName>
+      <amount>2500</amount>
+      <date>11/8/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JPMorgan Chase &amp; Co. Federal Political Action Committee</contributorName>
+      <payeeName>Schneider For Congress</payeeName>
+      <recipientName>Rep. Bradley Scott Schneider</recipientName>
+      <amount>1000</amount>
+      <date>11/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JPMorgan Chase &amp; Co. Federal Political Action Committee</contributorName>
+      <payeeName>Brian Higgins For Congress</payeeName>
+      <recipientName>Rep. Brian M. Higgins</recipientName>
+      <amount>1000</amount>
+      <date>11/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JPMorgan Chase &amp; Co. Federal Political Action Committee</contributorName>
+      <payeeName>Westerman For Congress</payeeName>
+      <recipientName>Rep. Bruce E. Westerman</recipientName>
+      <amount>1000</amount>
+      <date>11/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JPMorgan Chase &amp; Co. Federal Political Action Committee</contributorName>
+      <payeeName>Richmond For Congress</payeeName>
+      <recipientName>Rep. Cedric Levon Richmond</recipientName>
+      <amount>1000</amount>
+      <date>11/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JPMorgan Chase &amp; Co. Federal Political Action Committee</contributorName>
+      <payeeName>Terri Sewell For Congress</payeeName>
+      <recipientName>Rep. Terri Andrea Sewell</recipientName>
+      <amount>1000</amount>
+      <date>11/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JPMorgan Chase &amp; Co. Federal Political Action Committee</contributorName>
+      <payeeName>Suozzi For Congress</payeeName>
+      <recipientName>Rep. Thomas R. Suozzi</recipientName>
+      <amount>1000</amount>
+      <date>11/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JPMorgan Chase &amp; Co. Federal Political Action Committee</contributorName>
+      <payeeName>Steve Daines For Montana</payeeName>
+      <recipientName>Sen. Steve David Daines</recipientName>
+      <amount>1000</amount>
+      <date>11/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JPMorgan Chase &amp; Co. Federal Political Action Committee</contributorName>
+      <payeeName>Lucas For Congress</payeeName>
+      <recipientName>Rep. Frank Dean Lucas</recipientName>
+      <amount>2000</amount>
+      <date>11/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JPMorgan Chase &amp; Co. Federal Political Action Committee</contributorName>
+      <payeeName>Fighting For Missouri PAC</payeeName>
+      <recipientName>Sen. Josh D. Hawley</recipientName>
+      <amount>2000</amount>
+      <date>11/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JPMorgan Chase &amp; Co. Federal Political Action Committee</contributorName>
+      <payeeName>Defense, Economic Renewal, Education And Knowledge PAC</payeeName>
+      <recipientName>Rep. Derek Kilmer</recipientName>
+      <amount>3000</amount>
+      <date>11/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JPMorgan Chase &amp; Co. Federal Political Action Committee</contributorName>
+      <payeeName>First State PAC</payeeName>
+      <recipientName>Sen. Thomas Richard Carper</recipientName>
+      <amount>5000</amount>
+      <date>11/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JPMorgan Chase &amp; Co. Federal Political Action Committee</contributorName>
+      <payeeName>DSCC</payeeName>
+      <recipientName>DSCC</recipientName>
+      <amount>15000</amount>
+      <date>11/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JPMorgan Chase &amp; Co. Federal Political Action Committee</contributorName>
+      <payeeName>CHC BOLD PAC</payeeName>
+      <recipientName>CHC BOLD PAC</recipientName>
+      <amount>5000</amount>
+      <date>11/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JPMorgan Chase &amp; Co. Federal Political Action Committee</contributorName>
+      <payeeName>Texans For Jodey Arrington</payeeName>
+      <recipientName>Rep. Jodey Cook Arrington</recipientName>
+      <amount>1000</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JPMorgan Chase &amp; Co. PAC</contributorName>
+      <payeeName>Razor PAC</payeeName>
+      <recipientName>Rep. Stephen Allen Womack</recipientName>
+      <amount>1000</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JPMorgan Chase &amp; Co. PAC</contributorName>
+      <payeeName>Fund For A Conservative Future</payeeName>
+      <recipientName>Sen. James M. Inhofe</recipientName>
+      <amount>1000</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JPMorgan Chase &amp; Co. Federal Political Action Committee</contributorName>
+      <payeeName>Loudermilk For Congress</payeeName>
+      <recipientName>Rep. Barry Dean Loudermilk</recipientName>
+      <amount>2000</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JPMorgan Chase &amp; Co. Federal Political Action Committee</contributorName>
+      <payeeName>Davidson For Congress</payeeName>
+      <recipientName>Rep. Warren Davidson</recipientName>
+      <amount>2000</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JPMorgan Chase &amp; Co. Federal Political Action Committee</contributorName>
+      <payeeName>Responsibility And Freedom Work PAC (RFWPAC)</payeeName>
+      <recipientName>Sen. Roger Frederick Wicker</recipientName>
+      <amount>2000</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JPMorgan Chase &amp; Co. Federal Political Action Committee</contributorName>
+      <payeeName>Fostering Progress PAC</payeeName>
+      <recipientName>Rep. Bill Foster</recipientName>
+      <amount>2500</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JPMorgan Chase &amp; Co. PAC</contributorName>
+      <payeeName>AMERIPAC The Fund for a Greater America</payeeName>
+      <recipientName>Rep. Steny Hamilton Hoyer</recipientName>
+      <amount>2500</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JPMorgan Chase &amp; Co. Federal Political Action Committee</contributorName>
+      <payeeName>Georgia PAC</payeeName>
+      <recipientName>Rep. Tom Graves</recipientName>
+      <amount>2500</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JPMorgan Chase &amp; Co. Federal Political Action Committee</contributorName>
+      <payeeName>Rounds For Senate</payeeName>
+      <recipientName>Sen. M. Michael Rounds</recipientName>
+      <amount>2500</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JPMorgan Chase &amp; Co. Federal Political Action Committee</contributorName>
+      <payeeName>Freedom Fund</payeeName>
+      <recipientName>Sen. Michael Dean Crapo</recipientName>
+      <amount>5000</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JPMorgan Chase &amp; Co. Federal Political Action Committee</contributorName>
+      <payeeName>Tomorrow Is Meaningful PAC</payeeName>
+      <recipientName>Sen. Timothy Eugene Scott</recipientName>
+      <amount>5000</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JPMorgan Chase &amp; Co. Federal Political Action Committee</contributorName>
+      <payeeName>New Democrat Coalition Action Fund</payeeName>
+      <recipientName>New Democrat Coalition Action Fund</recipientName>
+      <amount>5000</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JPMorgan Chase &amp; Co. Federal Political Action Committee</contributorName>
+      <payeeName>Cory Gardner For Senate</payeeName>
+      <recipientName>Sen. Cory Gardner</recipientName>
+      <amount>500</amount>
+      <date>12/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JPMorgan Chase &amp; Co. Federal Political Action Committee</contributorName>
+      <payeeName>Brenda Lawrence For Congress</payeeName>
+      <recipientName>Rep. Brenda L. Lawrence</recipientName>
+      <amount>1000</amount>
+      <date>12/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JPMorgan Chase &amp; Co. Federal Political Action Committee</contributorName>
+      <payeeName>Friends Of Jim Clyburn</payeeName>
+      <recipientName>Rep. James E. Clyburn</recipientName>
+      <amount>1000</amount>
+      <date>12/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JPMorgan Chase &amp; Co. Federal Political Action Committee</contributorName>
+      <payeeName>Arkansas For Leadership Political Action Committee (ARKPAC)</payeeName>
+      <recipientName>Sen. John Nichols Boozman</recipientName>
+      <amount>1000</amount>
+      <date>12/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JPMorgan Chase &amp; Co. Federal Political Action Committee</contributorName>
+      <payeeName>McSally For Senate Inc</payeeName>
+      <recipientName>Sen. Martha Elizabeth McSally</recipientName>
+      <amount>1000</amount>
+      <date>12/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JPMorgan Chase &amp; Co. Federal Political Action Committee</contributorName>
+      <payeeName>Kustoff For Congress</payeeName>
+      <recipientName>Rep. David F. Kustoff</recipientName>
+      <amount>2000</amount>
+      <date>12/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JPMorgan Chase &amp; Co. Federal Political Action Committee</contributorName>
+      <payeeName>Defense, Economic Renewal, Education And Knowledge PAC</payeeName>
+      <recipientName>Rep. Derek Kilmer</recipientName>
+      <amount>2000</amount>
+      <date>12/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JPMorgan Chase &amp; Co. Federal Political Action Committee</contributorName>
+      <payeeName>French Hill For Arkansas</payeeName>
+      <recipientName>Rep. J. French Hill</recipientName>
+      <amount>2000</amount>
+      <date>12/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JPMorgan Chase &amp; Co. Federal Political Action Committee</contributorName>
+      <payeeName>Stephanie Murphy For Congress</payeeName>
+      <recipientName>Rep. Stephanie N. Murphy</recipientName>
+      <amount>2000</amount>
+      <date>12/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JPMorgan Chase &amp; Co. Federal Political Action Committee</contributorName>
+      <payeeName>Evergreen PAC</payeeName>
+      <recipientName>Rep. Suzan Kay DelBene</recipientName>
+      <amount>2000</amount>
+      <date>12/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JPMorgan Chase &amp; Co. Federal Political Action Committee</contributorName>
+      <payeeName>Ted Budd For Congress</payeeName>
+      <recipientName>Rep. Theodore Paul Budd</recipientName>
+      <amount>2000</amount>
+      <date>12/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JPMorgan Chase &amp; Co. Federal Political Action Committee</contributorName>
+      <payeeName>Cory Gardner For Senate</payeeName>
+      <recipientName>Sen. Cory Gardner</recipientName>
+      <amount>2000</amount>
+      <date>12/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JPMorgan Chase &amp; Co. Federal Political Action Committee</contributorName>
+      <payeeName>Believe In America PAC</payeeName>
+      <recipientName>Sen. Mitt Romney</recipientName>
+      <amount>2000</amount>
+      <date>12/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JPMorgan Chase &amp; Co. Federal Political Action Committee</contributorName>
+      <payeeName>Drew Ferguson For Congress Inc.</payeeName>
+      <recipientName>Rep. A. Drew Ferguson, IV</recipientName>
+      <amount>2500</amount>
+      <date>12/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JPMorgan Chase &amp; Co. Federal Political Action Committee</contributorName>
+      <payeeName>Granite Values PAC</payeeName>
+      <recipientName>Sen. Margaret Wood Hassan</recipientName>
+      <amount>2500</amount>
+      <date>12/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JPMorgan Chase &amp; Co. Federal Political Action Committee</contributorName>
+      <payeeName>Zeldin For Congress</payeeName>
+      <recipientName>Rep. Lee M. Zeldin</recipientName>
+      <amount>3000</amount>
+      <date>12/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>JPMorgan Chase &amp; Co. Federal Political Action Committee</contributorName>
+      <payeeName>Brady For Congress</payeeName>
+      <recipientName>Rep. Kevin Patrick Brady</recipientName>
+      <amount>5000</amount>
+      <date>12/23/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

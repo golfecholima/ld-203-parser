@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>Direct Supply, Inc.</organizationName>
+  <lobbyistPrefix>Ms.</lobbyistPrefix>
+  <lobbyistFirstName>Genevieve</lobbyistFirstName>
+  <lobbyistMiddleName>Elizabeth</lobbyistMiddleName>
+  <lobbyistLastName>Hillis</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>401103282</senateRegID>
+  <houseRegID>42573</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>Filer serves as board member of Direct Supply Inc. Partners PAC and as board member of American Health Care Association PAC.  Applicable PAC contributions appear on LD-203 reports for those PAC's connected organizations.</comments>
+  <signedDate>1/29/2020 10:30:13 AM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>true</noContributions>
+  <pacs>
+    <pac>
+      <name>American Health Care Association Political Action Committee</name>
+    </pac>
+    <pac>
+      <name>Direct Supply, Inc. Partners PAC (DSI Partners PAC)</name>
+    </pac>
+  </pacs>
+  <contributions>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

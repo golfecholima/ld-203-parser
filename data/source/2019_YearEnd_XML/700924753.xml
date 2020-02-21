@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>Appraisal Institute</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>WILLIAM GARBER</contactName>
+  <contactPhone>
+  </contactPhone>
+  <senateRegID>4163</senateRegID>
+  <houseRegID>33621</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/30/2020 11:38:41 AM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>
+  </noContributions>
+  <pacs>
+    <pac>
+      <name>Appraisal Institute PAC (AI PAC)</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Appraisal Institute PAC (AI PAC)</contributorName>
+      <payeeName>Friends of Mark Warner</payeeName>
+      <recipientName>Mark Warner</recipientName>
+      <amount>1000.00</amount>
+      <date>07/03/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Appraisal Institute PAC (AI PAC)</contributorName>
+      <payeeName>Huizenga for Congress</payeeName>
+      <recipientName>Bill Huizenga</recipientName>
+      <amount>2500.00</amount>
+      <date>07/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Appraisal Institute PAC (AI PAC)</contributorName>
+      <payeeName>Hawaii Senate Victory Fund</payeeName>
+      <recipientName>Brian Schatz</recipientName>
+      <amount>2500.00</amount>
+      <date>07/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Appraisal Institute PAC (AI PAC)</contributorName>
+      <payeeName>Davidson for Congress</payeeName>
+      <recipientName>Warren Davidson</recipientName>
+      <amount>1000.00</amount>
+      <date>07/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Appraisal Institute PAC (AI PAC)</contributorName>
+      <payeeName>Perlmutter for Congress</payeeName>
+      <recipientName>Ed Perlmutter</recipientName>
+      <amount>1000.00</amount>
+      <date>07/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Appraisal Institute PAC (AI PAC)</contributorName>
+      <payeeName>Steve Daines for Montana</payeeName>
+      <recipientName>Steven Daines</recipientName>
+      <amount>2500.00</amount>
+      <date>07/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Appraisal Institute PAC (AI PAC)</contributorName>
+      <payeeName>Josh Gottheimer for Congress</payeeName>
+      <recipientName>Josh Gottheimer</recipientName>
+      <amount>1000.00</amount>
+      <date>07/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Appraisal Institute PAC (AI PAC)</contributorName>
+      <payeeName>Crapo Victory Committee</payeeName>
+      <recipientName>Michael Crapo</recipientName>
+      <amount>1500.00</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Appraisal Institute PAC (AI PAC)</contributorName>
+      <payeeName>Crapo Victory Committee</payeeName>
+      <recipientName>Michael Crapo</recipientName>
+      <amount>1000.00</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Appraisal Institute PAC (AI PAC)</contributorName>
+      <payeeName>Citizens for Waters</payeeName>
+      <recipientName>Maxine Waters</recipientName>
+      <amount>2500.00</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Appraisal Institute PAC (AI PAC)</contributorName>
+      <payeeName>Team McHenry</payeeName>
+      <recipientName>Patrick McHenry</recipientName>
+      <amount>2500.00</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Appraisal Institute PAC (AI PAC)</contributorName>
+      <payeeName>Perdue for Senate</payeeName>
+      <recipientName>David Perdue</recipientName>
+      <amount>1000.00</amount>
+      <date>09/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Appraisal Institute PAC (AI PAC)</contributorName>
+      <payeeName>Anthony Gonzalez for Congress</payeeName>
+      <recipientName>Anthony Gonzalez</recipientName>
+      <amount>1500.00</amount>
+      <date>09/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Appraisal Institute PAC (AI PAC)</contributorName>
+      <payeeName>Perlmutter for Congress</payeeName>
+      <recipientName>Ed Perlmutter</recipientName>
+      <amount>1000.00</amount>
+      <date>09/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Appraisal Institute PAC (AI PAC)</contributorName>
+      <payeeName>Crapo Victory Committee</payeeName>
+      <recipientName>Michael Crapo</recipientName>
+      <amount>2500.00</amount>
+      <date>11/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Appraisal Institute PAC (AI PAC)</contributorName>
+      <payeeName>BLAINE PAC</payeeName>
+      <recipientName>Blaine Luetkemeyer</recipientName>
+      <amount>3500.00</amount>
+      <date>11/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Appraisal Institute PAC (AI PAC)</contributorName>
+      <payeeName>Blaine for Congress</payeeName>
+      <recipientName>Blaine Luetkemeyer</recipientName>
+      <amount>1000.00</amount>
+      <date>11/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Appraisal Institute PAC (AI PAC)</contributorName>
+      <payeeName>Kustoff for Congress</payeeName>
+      <recipientName>David Kustoff</recipientName>
+      <amount>2500.00</amount>
+      <date>11/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Appraisal Institute PAC (AI PAC)</contributorName>
+      <payeeName>Friends of Denver Riggleman</payeeName>
+      <recipientName>Denver Riggleman</recipientName>
+      <amount>1000.00</amount>
+      <date>12/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Appraisal Institute PAC (AI PAC)</contributorName>
+      <payeeName>Davidson for Congress</payeeName>
+      <recipientName>Warren Davidson</recipientName>
+      <amount>1000.00</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Appraisal Institute PAC (AI PAC)</contributorName>
+      <payeeName>Anthony Gonzalez for Congress</payeeName>
+      <recipientName>Anthony Gonzalez</recipientName>
+      <amount>1000.00</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Appraisal Institute PAC (AI PAC)</contributorName>
+      <payeeName>Steve Daines for Montana</payeeName>
+      <recipientName>Steven Daines</recipientName>
+      <amount>2500.00</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Appraisal Institute PAC (AI PAC)</contributorName>
+      <payeeName>Steve Daines for Montana</payeeName>
+      <recipientName>Steven Daines</recipientName>
+      <amount>500.00</amount>
+      <date>12/18/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

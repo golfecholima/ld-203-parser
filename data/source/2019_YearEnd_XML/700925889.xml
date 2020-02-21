@@ -1,0 +1,558 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>Dominion Energy, Inc.</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <zipext>
+  </zipext>
+  <contactName>Ann Loomis</contactName>
+  <senateRegID>45004</senateRegID>
+  <houseRegID>34225</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/30/2020 4:15:45 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>Dominion Energy Inc. Political Action Committee</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dominion Energy Inc. Political Action Committee</contributorName>
+      <payeeName>Wicker For Senate</payeeName>
+      <recipientName>Senator Roger Wicker</recipientName>
+      <amount>2500.00</amount>
+      <date>7/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dominion Energy Inc. Political Action Committee</contributorName>
+      <payeeName>William Timmons For Congress</payeeName>
+      <recipientName>Congressman William Timmons </recipientName>
+      <amount>1000.00</amount>
+      <date>7/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dominion Energy Inc. Political Action Committee</contributorName>
+      <payeeName>New South Leadership PAC</payeeName>
+      <recipientName>Leadership PAC - Congressman GK Butterfield</recipientName>
+      <amount>5000.00</amount>
+      <date>7/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dominion Energy Inc. Political Action Committee</contributorName>
+      <payeeName>Marcia L. Fudge for Congress</payeeName>
+      <recipientName>Congresswoman Marcia Fudge</recipientName>
+      <amount>1500.00</amount>
+      <date>7/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dominion Energy Inc. Political Action Committee</contributorName>
+      <payeeName>Deb Fischer for US Senate</payeeName>
+      <recipientName>Senator Deb Fischer</recipientName>
+      <amount>1000.00</amount>
+      <date>7/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dominion Energy Inc. Political Action Committee</contributorName>
+      <payeeName>William Timmons For Congress</payeeName>
+      <recipientName>Congressman William Timmons</recipientName>
+      <amount>1000.00</amount>
+      <date>7/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dominion Energy Inc. Political Action Committee</contributorName>
+      <payeeName>Tom Rice For Congress</payeeName>
+      <recipientName>Congressman Tom Rice</recipientName>
+      <amount>1000.00</amount>
+      <date>7/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dominion Energy Inc. Political Action Committee</contributorName>
+      <payeeName>Friends of Cheri Bustos</payeeName>
+      <recipientName>Congresswoman Cheri Bustos</recipientName>
+      <amount>1000.00</amount>
+      <date>7/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dominion Energy Inc. Political Action Committee</contributorName>
+      <payeeName>Next Century Fund</payeeName>
+      <recipientName>Leadership PAC - Senator Richard Burr</recipientName>
+      <amount>5000.00</amount>
+      <date>8/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dominion Energy Inc. Political Action Committee</contributorName>
+      <payeeName>Miller Victory Fund</payeeName>
+      <recipientName>Congresswoman Carol Miller</recipientName>
+      <amount>1000.00</amount>
+      <date>8/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dominion Energy Inc. Political Action Committee</contributorName>
+      <payeeName>Paul Tonko for Congress</payeeName>
+      <recipientName>Congressman Paul Tonko</recipientName>
+      <amount>2500.00</amount>
+      <date>9/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dominion Energy Inc. Political Action Committee</contributorName>
+      <payeeName>Gibbs for Congress</payeeName>
+      <recipientName>Congressman Robert Gibbs</recipientName>
+      <amount>1000.00</amount>
+      <date>9/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dominion Energy Inc. Political Action Committee</contributorName>
+      <payeeName>Friends of Glenn Thompson</payeeName>
+      <recipientName>Congressman Glenn Thompson</recipientName>
+      <amount>1000.00</amount>
+      <date>9/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dominion Energy Inc. Political Action Committee</contributorName>
+      <payeeName>Tim Ryan for Congress</payeeName>
+      <recipientName>Congressman Tim Ryan </recipientName>
+      <amount>2500.00</amount>
+      <date>9/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dominion Energy Inc. Political Action Committee</contributorName>
+      <payeeName>Fred Keller for Congress</payeeName>
+      <recipientName>Congressman Fred Keller</recipientName>
+      <amount>1000.00</amount>
+      <date>9/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dominion Energy Inc. Political Action Committee</contributorName>
+      <payeeName>Joe Wilson for Congress</payeeName>
+      <recipientName>Congressman Joe Wilson</recipientName>
+      <amount>2000.00</amount>
+      <date>9/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dominion Energy Inc. Political Action Committee</contributorName>
+      <payeeName>Conservative Roundtable</payeeName>
+      <recipientName>Congressman George Holding</recipientName>
+      <amount>2500.00</amount>
+      <date>9/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dominion Energy Inc. Political Action Committee</contributorName>
+      <payeeName>Tom Rice For Congress</payeeName>
+      <recipientName>Congressman Tom Rice</recipientName>
+      <amount>1500.00</amount>
+      <date>9/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dominion Energy Inc. Political Action Committee</contributorName>
+      <payeeName>David Rouzer For Congress</payeeName>
+      <recipientName>Congressman David Rouzer</recipientName>
+      <amount>1500.00</amount>
+      <date>9/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dominion Energy Inc. Political Action Committee</contributorName>
+      <payeeName>Liz Cheney For Wyoming</payeeName>
+      <recipientName>Congresswoman Elizabeth Cheney</recipientName>
+      <amount>1000.00</amount>
+      <date>9/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dominion Energy Inc. Political Action Committee</contributorName>
+      <payeeName>Curtis For Congress</payeeName>
+      <recipientName>Congressman John Curtis </recipientName>
+      <amount>1000.00</amount>
+      <date>9/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dominion Energy Inc. Political Action Committee</contributorName>
+      <payeeName>Friends Of Ben McAdams</payeeName>
+      <recipientName>Congressman Ben McAdams </recipientName>
+      <amount>1000.00</amount>
+      <date>9/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dominion Energy Inc. Political Action Committee</contributorName>
+      <payeeName>Walden for Congress</payeeName>
+      <recipientName>Congressman Greg Walden</recipientName>
+      <amount>2500.00</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dominion Energy Inc. Political Action Committee</contributorName>
+      <payeeName>Blaine For Congress</payeeName>
+      <recipientName>Congressman Blaine Luetkemeyer </recipientName>
+      <amount>1000.00</amount>
+      <date>9/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dominion Energy Inc. Political Action Committee</contributorName>
+      <payeeName>Tim Scott for Senate</payeeName>
+      <recipientName>Senator Tim Scott </recipientName>
+      <amount>1000.00</amount>
+      <date>9/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dominion Energy Inc. Political Action Committee</contributorName>
+      <payeeName>Carper For Senate</payeeName>
+      <recipientName>Senator Thomas Carper</recipientName>
+      <amount>2500.00</amount>
+      <date>9/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dominion Energy Inc. Political Action Committee</contributorName>
+      <payeeName>Friends for Chris Stewart, Inc.</payeeName>
+      <recipientName>Congressman Chris Stewart</recipientName>
+      <amount>1000.00</amount>
+      <date>9/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dominion Energy Inc. Political Action Committee</contributorName>
+      <payeeName>Bishop for Congress</payeeName>
+      <recipientName>Congressman James Daniel Bishop</recipientName>
+      <amount>1000.00</amount>
+      <date>9/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dominion Energy Inc. Political Action Committee</contributorName>
+      <payeeName>David Price For Congress</payeeName>
+      <recipientName>Congressman David Price</recipientName>
+      <amount>1000.00</amount>
+      <date>9/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dominion Energy Inc. Political Action Committee</contributorName>
+      <payeeName>Meadows Freedom Fund</payeeName>
+      <recipientName>Leadership PAC - Congressman Mark Meadows - Your Voice Counts</recipientName>
+      <amount>1000.00</amount>
+      <date>9/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dominion Energy Inc. Political Action Committee</contributorName>
+      <payeeName>Vern Buchanan For Congress</payeeName>
+      <recipientName>Congressman Vern Buchanan</recipientName>
+      <amount>1000.00</amount>
+      <date>9/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dominion Energy Inc. Political Action Committee</contributorName>
+      <payeeName>Richmond For Congress</payeeName>
+      <recipientName>Congressman Cedric Richmond</recipientName>
+      <amount>2500.00</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dominion Energy Inc. Political Action Committee</contributorName>
+      <payeeName>Carol For Congress</payeeName>
+      <recipientName>Congresswoman Carol Miller</recipientName>
+      <amount>1000.00</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dominion Energy Inc. Political Action Committee</contributorName>
+      <payeeName>Elizabeth Pannill Fletcher For Congress</payeeName>
+      <recipientName>Congressman Elizabeth Fletcher</recipientName>
+      <amount>1000.00</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dominion Energy Inc. Political Action Committee</contributorName>
+      <payeeName>Latta for Congress</payeeName>
+      <recipientName>Congressman Bob Latta</recipientName>
+      <amount>1500.00</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dominion Energy Inc. Political Action Committee</contributorName>
+      <payeeName>Latta for Congress</payeeName>
+      <recipientName>Congressman Bob Latta</recipientName>
+      <amount>1000.00</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dominion Energy Inc. Political Action Committee</contributorName>
+      <payeeName>Friends of Bennie Thompson</payeeName>
+      <recipientName>Congressman Bennie Thompson</recipientName>
+      <amount>1000.00</amount>
+      <date>9/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dominion Energy Inc. Political Action Committee</contributorName>
+      <payeeName>Tom Reed for Congress</payeeName>
+      <recipientName>Congressman Tom Reed</recipientName>
+      <amount>2500.00</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dominion Energy Inc. Political Action Committee</contributorName>
+      <payeeName>Ben Cline For Congress, Inc.</payeeName>
+      <recipientName>Congressman Benjamin Cline</recipientName>
+      <amount>2500.00</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dominion Energy Inc. Political Action Committee</contributorName>
+      <payeeName>Guy For Congress</payeeName>
+      <recipientName>Congressman Guy Reschenthaler</recipientName>
+      <amount>1000.00</amount>
+      <date>9/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dominion Energy Inc. Political Action Committee</contributorName>
+      <payeeName>Tom Rice For Congress</payeeName>
+      <recipientName>Congressman Tom Rice</recipientName>
+      <amount>1000.00</amount>
+      <date>10/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dominion Energy Inc. Political Action Committee</contributorName>
+      <payeeName>Garret Graves For Congress</payeeName>
+      <recipientName>Congressman Garret Graves</recipientName>
+      <amount>2500.00</amount>
+      <date>10/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dominion Energy Inc. Political Action Committee</contributorName>
+      <payeeName>Gerry Connolly for Congress</payeeName>
+      <recipientName>Congressman Gerry Connolly</recipientName>
+      <amount>1500.00</amount>
+      <date>10/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dominion Energy Inc. Political Action Committee</contributorName>
+      <payeeName>Tim Scott for Senate</payeeName>
+      <recipientName>Senator Tim Scott</recipientName>
+      <amount>1000.00</amount>
+      <date>10/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dominion Energy Inc. Political Action Committee</contributorName>
+      <payeeName>Tim Scott for Senate</payeeName>
+      <recipientName>Senator Tim Scott</recipientName>
+      <amount>1500.00</amount>
+      <date>10/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dominion Energy Inc. Political Action Committee</contributorName>
+      <payeeName>Greater Tomorrow PAC</payeeName>
+      <recipientName>Leadership PAC - Congressman Glenn Thompson</recipientName>
+      <amount>1000.00</amount>
+      <date>10/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dominion Energy Inc. Political Action Committee</contributorName>
+      <payeeName>Ted Budd For Congress</payeeName>
+      <recipientName>Congressman Theodore Budd</recipientName>
+      <amount>1000.00</amount>
+      <date>10/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dominion Energy Inc. Political Action Committee</contributorName>
+      <payeeName>Wicker For Senate</payeeName>
+      <recipientName>Senator Roger Wicker</recipientName>
+      <amount>2500.00</amount>
+      <date>10/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dominion Energy Inc. Political Action Committee</contributorName>
+      <payeeName>Clarke For Congress</payeeName>
+      <recipientName>Congressman Yvette Clarke</recipientName>
+      <amount>1000.00</amount>
+      <date>10/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dominion Energy Inc. Political Action Committee</contributorName>
+      <payeeName>Brady For Congress</payeeName>
+      <recipientName>Congressman Kevin Brady</recipientName>
+      <amount>2500.00</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dominion Energy Inc. Political Action Committee</contributorName>
+      <payeeName>McEachin For Congress</payeeName>
+      <recipientName>Congressman Donald McEachin </recipientName>
+      <amount>1000.00</amount>
+      <date>10/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dominion Energy Inc. Political Action Committee</contributorName>
+      <payeeName>McEachin For Congress</payeeName>
+      <recipientName>Congressman Donald McEachin </recipientName>
+      <amount>1500.00</amount>
+      <date>10/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dominion Energy Inc. Political Action Committee</contributorName>
+      <payeeName>Walker 4 NC</payeeName>
+      <recipientName>Congressman Mark Walker </recipientName>
+      <amount>1000.00</amount>
+      <date>11/7/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dominion Energy Inc. Political Action Committee</contributorName>
+      <payeeName>Hudson For Congress</payeeName>
+      <recipientName>Congressman Richard Hudson </recipientName>
+      <amount>2500.00</amount>
+      <date>11/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dominion Energy Inc. Political Action Committee</contributorName>
+      <payeeName>Mckinley for Congress</payeeName>
+      <recipientName>Congressman David McKinley </recipientName>
+      <amount>2500.00</amount>
+      <date>11/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dominion Energy Inc. Political Action Committee</contributorName>
+      <payeeName>Mike Kelly for Congress</payeeName>
+      <recipientName>Congressman Mike Kelly </recipientName>
+      <amount>1000.00</amount>
+      <date>11/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dominion Energy Inc. Political Action Committee</contributorName>
+      <payeeName>Morelle For Congress</payeeName>
+      <recipientName>Congressman Joseph Morelle </recipientName>
+      <amount>1000.00</amount>
+      <date>11/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dominion Energy Inc. Political Action Committee</contributorName>
+      <payeeName>Friends Of Don Beyer</payeeName>
+      <recipientName>Congressman Don Beyer </recipientName>
+      <amount>2500.00</amount>
+      <date>11/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dominion Energy Inc. Political Action Committee</contributorName>
+      <payeeName>Balderson For Congress</payeeName>
+      <recipientName>Congressman Troy Balderson </recipientName>
+      <amount>2500.00</amount>
+      <date>11/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dominion Energy Inc. Political Action Committee</contributorName>
+      <payeeName>Jeff Duncan For Congress</payeeName>
+      <recipientName>Congressman Jeff Duncan </recipientName>
+      <amount>2500.00</amount>
+      <date>12/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dominion Energy Inc. Political Action Committee</contributorName>
+      <payeeName>Dogwood PAC</payeeName>
+      <recipientName>Leadership PAC - Congressman Don McEaching</recipientName>
+      <amount>5000.00</amount>
+      <date>12/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Dominion Energy Inc. Political Action Committee</contributorName>
+      <payeeName>Friends of Pat Toomey</payeeName>
+      <recipientName>Senator Pat Toomey </recipientName>
+      <amount>1000.00</amount>
+      <date>12/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>Honorary Expenses</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Lexington Medical Center Foundation</payeeName>
+      <recipientName>Butch Wallace, Office of Congressman Joe Wilson, serves on the Board.</recipientName>
+      <amount>17500.00</amount>
+      <date>07/08/2019</date>
+    </contribution>
+    <contribution>
+      <type>Honorary Expenses</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Better Days 2020</payeeName>
+      <recipientName>Mandee Grant, Office of Senator Mitt Romney is co-founder and serves on the Board.</recipientName>
+      <amount>25000.00</amount>
+      <date>8/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>Honorary Expenses</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Signature Theatre</payeeName>
+      <recipientName>Congresswoman Elise Stefanik serves on the Board.</recipientName>
+      <amount>10000.00</amount>
+      <date>11/01/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

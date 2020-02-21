@@ -1,0 +1,3024 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>Raytheon Company</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>Edward Fortunato</contactName>
+  <senateRegID>32828</senateRegID>
+  <houseRegID>32210</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/30/2020 6:31:44 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>Raytheon PAC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Dan Newhouse For Congress</payeeName>
+      <recipientName>Newhouse, Dan</recipientName>
+      <amount>2500</amount>
+      <date>7/2/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Chuck Fleischmann For Congress Committee, Inc.</payeeName>
+      <recipientName>Fleischmann, Chuck</recipientName>
+      <amount>1000</amount>
+      <date>7/2/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Conaway For Congress</payeeName>
+      <recipientName>Conaway, Michael</recipientName>
+      <amount>1000</amount>
+      <date>7/2/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Kuster For Congress, Inc</payeeName>
+      <recipientName>Kuster, Ann</recipientName>
+      <amount>2500</amount>
+      <date>7/2/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Scalise For Congress</payeeName>
+      <recipientName>Scalise, Steve</recipientName>
+      <amount>2500</amount>
+      <date>7/2/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Friends Of Dave Joyce</payeeName>
+      <recipientName>Joyce, Dave</recipientName>
+      <amount>1000</amount>
+      <date>7/2/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Rounds For Senate</payeeName>
+      <recipientName>Rounds, Mike</recipientName>
+      <amount>1000</amount>
+      <date>7/2/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>McSally For Senate Inc</payeeName>
+      <recipientName>McSally, Martha</recipientName>
+      <amount>1000</amount>
+      <date>7/2/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Don Bacon For Congress</payeeName>
+      <recipientName>Bacon, Donald</recipientName>
+      <amount>1000</amount>
+      <date>7/2/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Ron Estes For Congress</payeeName>
+      <recipientName>Estes, Ron</recipientName>
+      <amount>1000</amount>
+      <date>7/2/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Lucille Roybal-Allard For Congress</payeeName>
+      <recipientName>Roybal-Allard, Lucille</recipientName>
+      <amount>2500</amount>
+      <date>7/2/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Courtney For Congress</payeeName>
+      <recipientName>Courtney, Joseph</recipientName>
+      <amount>2500</amount>
+      <date>7/2/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>People For Patty Murray</payeeName>
+      <recipientName>Murray, Patty</recipientName>
+      <amount>2500</amount>
+      <date>7/2/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Langevin For Congress</payeeName>
+      <recipientName>Langevin, Jim</recipientName>
+      <amount>4000</amount>
+      <date>7/2/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Langevin For Congress</payeeName>
+      <recipientName>Langevin, Jim</recipientName>
+      <amount>1000</amount>
+      <date>7/2/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Cathy McMorris Rodgers For Congress</payeeName>
+      <recipientName>McMorris Rodgers, Cathy</recipientName>
+      <amount>1000</amount>
+      <date>7/2/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Support To Ensure Victory Everywhere PAC - STEVE PAC</payeeName>
+      <recipientName>Stivers, Steve</recipientName>
+      <amount>5000</amount>
+      <date>7/2/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Team Graham, Inc.</payeeName>
+      <recipientName>Graham, Lindsey</recipientName>
+      <amount>1000</amount>
+      <date>7/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Alaskans For Don Young</payeeName>
+      <recipientName>Young, Don</recipientName>
+      <amount>1000</amount>
+      <date>7/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Steve Daines For Montana</payeeName>
+      <recipientName>Daines, Steve</recipientName>
+      <amount>1000</amount>
+      <date>7/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Friends Of Pat Toomey</payeeName>
+      <recipientName>Toomey, Pat</recipientName>
+      <amount>1000</amount>
+      <date>7/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Friends Of Cheri Bustos</payeeName>
+      <recipientName>Bustos, Cheri</recipientName>
+      <amount>1000</amount>
+      <date>7/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Friends Of Dave Joyce</payeeName>
+      <recipientName>Joyce, Dave</recipientName>
+      <amount>1000</amount>
+      <date>7/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Tim Scott For Senate</payeeName>
+      <recipientName>Scott, Tim</recipientName>
+      <amount>1000</amount>
+      <date>7/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Lobo PAC</payeeName>
+      <recipientName>Heinrich, Martin</recipientName>
+      <amount>2500</amount>
+      <date>7/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>McSally For Senate Inc</payeeName>
+      <recipientName>McSally, Martha</recipientName>
+      <amount>1000</amount>
+      <date>7/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Hoosier PAC</payeeName>
+      <recipientName>Braun, Mike</recipientName>
+      <amount>1000</amount>
+      <date>7/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Friends Of Jim Inhofe</payeeName>
+      <recipientName>Inhofe, Jim</recipientName>
+      <amount>2000</amount>
+      <date>7/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Save America PAC</payeeName>
+      <recipientName>Risch, James</recipientName>
+      <amount>3000</amount>
+      <date>7/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>ARKANSAS FOR LEADERSHIP POLITICAL ACTION COMMITTEE (ARKPAC)</payeeName>
+      <recipientName>Boozman, John</recipientName>
+      <amount>2500</amount>
+      <date>7/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Ben Sasse For U.S. Senate, Inc.</payeeName>
+      <recipientName>Sasse, Ben</recipientName>
+      <amount>1000</amount>
+      <date>7/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Mario Diaz-Balart For Congress</payeeName>
+      <recipientName>Diaz-Balart, Mario</recipientName>
+      <amount>2000</amount>
+      <date>7/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Cooper For Congress</payeeName>
+      <recipientName>Cooper, Jim</recipientName>
+      <amount>3000</amount>
+      <date>7/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Jim Banks For Congress, Inc.</payeeName>
+      <recipientName>Banks, James</recipientName>
+      <amount>1000</amount>
+      <date>7/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Mike Kelly For Congress</payeeName>
+      <recipientName>Kelly, Mike</recipientName>
+      <amount>2500</amount>
+      <date>8/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Vern Buchanan For Congress</payeeName>
+      <recipientName>Buchanan, Vern</recipientName>
+      <amount>1000</amount>
+      <date>8/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>OORAH! POLITICAL ACTION COMMITTEE</payeeName>
+      <recipientName>Young, Todd</recipientName>
+      <amount>2500</amount>
+      <date>8/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Gallego For Arizona</payeeName>
+      <recipientName>Gallego, Ruben</recipientName>
+      <amount>2500</amount>
+      <date>8/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Nebraska Sandhills PAC</payeeName>
+      <recipientName>Fischer, Deb</recipientName>
+      <amount>2500</amount>
+      <date>8/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>The Reed Committee</payeeName>
+      <recipientName>Reed, Jack</recipientName>
+      <amount>2000</amount>
+      <date>8/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Kelly For Congress</payeeName>
+      <recipientName>Kelly, Trent</recipientName>
+      <amount>1000</amount>
+      <date>8/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Rick W. Allen For Congress</payeeName>
+      <recipientName>Allen, Rick</recipientName>
+      <amount>1000</amount>
+      <date>8/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Dutch Ruppersberger For Congress Committee</payeeName>
+      <recipientName>Ruppersberger, C.A.</recipientName>
+      <amount>1500</amount>
+      <date>8/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Cindy Hyde-Smith For Us Senate</payeeName>
+      <recipientName>Hyde-Smith, Cindy</recipientName>
+      <amount>1000</amount>
+      <date>8/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Charlie Crist For Congress</payeeName>
+      <recipientName>Crist, Charles</recipientName>
+      <amount>2500</amount>
+      <date>8/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Veronica Escobar For Congress</payeeName>
+      <recipientName>Escobar, Veronica</recipientName>
+      <amount>1000</amount>
+      <date>8/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Rick W. Allen For Congress</payeeName>
+      <recipientName>Allen, Rick</recipientName>
+      <amount>1000</amount>
+      <date>8/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Liz Cheney For Wyoming</payeeName>
+      <recipientName>Cheney, Elizabeth</recipientName>
+      <amount>1000</amount>
+      <date>8/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Votetipton.Com</payeeName>
+      <recipientName>Tipton, Scott</recipientName>
+      <amount>1000</amount>
+      <date>8/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Texans For Henry Cuellar Congressional Campaign</payeeName>
+      <recipientName>Cuellar, Henry</recipientName>
+      <amount>1000</amount>
+      <date>8/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Austin Scott For Congress Inc</payeeName>
+      <recipientName>Scott, Austin</recipientName>
+      <amount>1000</amount>
+      <date>8/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Terri Sewell For Congress</payeeName>
+      <recipientName>Sewell, Terri</recipientName>
+      <amount>1000</amount>
+      <date>8/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Leahy For U.S. Senator Committee</payeeName>
+      <recipientName>Leahy, Patrick</recipientName>
+      <amount>500</amount>
+      <date>8/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Leahy For U.S. Senator Committee</payeeName>
+      <recipientName>Leahy, Patrick</recipientName>
+      <amount>500</amount>
+      <date>8/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Alaskans For Dan Sullivan</payeeName>
+      <recipientName>Sullivan, Daniel</recipientName>
+      <amount>1000</amount>
+      <date>8/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>People For Derek Kilmer</payeeName>
+      <recipientName>Kilmer, Derek</recipientName>
+      <amount>1000</amount>
+      <date>8/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Walorski For Congress Inc</payeeName>
+      <recipientName>Walorski, Jackie</recipientName>
+      <amount>500</amount>
+      <date>8/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Walorski For Congress Inc</payeeName>
+      <recipientName>Walorski, Jackie</recipientName>
+      <amount>500</amount>
+      <date>8/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Citizens For Turner</payeeName>
+      <recipientName>Turner, Michael</recipientName>
+      <amount>1000</amount>
+      <date>8/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Stanton For Congress</payeeName>
+      <recipientName>Stanton, Greg</recipientName>
+      <amount>2000</amount>
+      <date>8/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Hawkeye PAC, The</payeeName>
+      <recipientName>Grassley, Charles</recipientName>
+      <amount>1000</amount>
+      <date>8/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Freedom 21: Fighting For Freedom In The 21st Century</payeeName>
+      <recipientName>Stewart, Chris</recipientName>
+      <amount>2500</amount>
+      <date>8/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Making America Prosperous PAC</payeeName>
+      <recipientName>Brady, Kevin</recipientName>
+      <amount>1000</amount>
+      <date>8/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Kaptur For Congress</payeeName>
+      <recipientName>Kaptur, Marcy</recipientName>
+      <amount>1000</amount>
+      <date>8/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Garamendi For Congress</payeeName>
+      <recipientName>Garamendi, John</recipientName>
+      <amount>1000</amount>
+      <date>8/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Friends Of Dave Joyce</payeeName>
+      <recipientName>Joyce, Dave</recipientName>
+      <amount>1000</amount>
+      <date>8/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Cathy McMorris Rodgers For Congress</payeeName>
+      <recipientName>McMorris Rodgers, Cathy</recipientName>
+      <amount>1000</amount>
+      <date>8/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Bonnie Watson Coleman For Congress</payeeName>
+      <recipientName>Watson Coleman, Bonnie</recipientName>
+      <amount>2000</amount>
+      <date>8/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Chuck Fleischmann For Congress Committee, Inc.</payeeName>
+      <recipientName>Fleischmann, Chuck</recipientName>
+      <amount>1000</amount>
+      <date>8/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Richard E Neal For Congress Committee</payeeName>
+      <recipientName>Neal, Richard</recipientName>
+      <amount>1000</amount>
+      <date>8/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Lamborn For Congress</payeeName>
+      <recipientName>Lamborn, Doug</recipientName>
+      <amount>1000</amount>
+      <date>8/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Sanford Bishop For Congress</payeeName>
+      <recipientName>Bishop, Sanford</recipientName>
+      <amount>500</amount>
+      <date>8/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Sanford Bishop For Congress</payeeName>
+      <recipientName>Bishop, Sanford</recipientName>
+      <amount>1000</amount>
+      <date>8/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Promoting Our Republican Team PAC</payeeName>
+      <recipientName>Portman, Rob</recipientName>
+      <amount>1000</amount>
+      <date>8/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Biggs For Congress</payeeName>
+      <recipientName>Biggs, Andy</recipientName>
+      <amount>1000</amount>
+      <date>8/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Jim Risch For U.S. Senate Committee</payeeName>
+      <recipientName>Risch, James</recipientName>
+      <amount>3000</amount>
+      <date>8/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Visclosky For Congress</payeeName>
+      <recipientName>Visclosky, Peter</recipientName>
+      <amount>1000</amount>
+      <date>8/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Kaine For Virginia</payeeName>
+      <recipientName>Kaine, Tim</recipientName>
+      <amount>1000</amount>
+      <date>8/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Cotton For Senate, Inc.</payeeName>
+      <recipientName>Cotton, Tom</recipientName>
+      <amount>1000</amount>
+      <date>8/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Marc Veasey Congressional Campaign Committee</payeeName>
+      <recipientName>Veasey, Marc</recipientName>
+      <amount>1000</amount>
+      <date>8/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Pete Aguilar For Congress</payeeName>
+      <recipientName>Aguilar, Pete</recipientName>
+      <amount>1000</amount>
+      <date>8/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Friends For Chris Stewart, Inc.</payeeName>
+      <recipientName>Stewart, Chris</recipientName>
+      <amount>1000</amount>
+      <date>8/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Stand With Sanchez</payeeName>
+      <recipientName>Sanchez, Linda</recipientName>
+      <amount>2500</amount>
+      <date>8/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Diana Degette For Congress</payeeName>
+      <recipientName>DeGette, Diana</recipientName>
+      <amount>1000</amount>
+      <date>8/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Families For James Lankford</payeeName>
+      <recipientName>Lankford, James</recipientName>
+      <amount>1000</amount>
+      <date>8/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Mccaul For Congress, Inc</payeeName>
+      <recipientName>McCaul, Michael</recipientName>
+      <amount>1000</amount>
+      <date>8/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Eddie Bernice Johnson For Congress</payeeName>
+      <recipientName>Johnson, Eddie</recipientName>
+      <amount>1000</amount>
+      <date>8/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Peters For Michigan</payeeName>
+      <recipientName>Peters, Gary</recipientName>
+      <amount>500</amount>
+      <date>8/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Peters For Michigan</payeeName>
+      <recipientName>Peters, Gary</recipientName>
+      <amount>500</amount>
+      <date>8/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Dr John Joyce For Congress</payeeName>
+      <recipientName>Joyce, John</recipientName>
+      <amount>500</amount>
+      <date>9/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Adam Smith For Congress Committee</payeeName>
+      <recipientName>Smith, Adam</recipientName>
+      <amount>5000</amount>
+      <date>9/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Simpson For Congress</payeeName>
+      <recipientName>Simpson, Mike</recipientName>
+      <amount>1000</amount>
+      <date>9/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Pingree For Congress</payeeName>
+      <recipientName>Pingree, Chellie</recipientName>
+      <amount>5000</amount>
+      <date>9/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Courtney For Congress</payeeName>
+      <recipientName>Courtney, Joseph</recipientName>
+      <amount>2500</amount>
+      <date>9/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>DENALI LEADERSHIP PAC</payeeName>
+      <recipientName>Murkowski, Lisa</recipientName>
+      <amount>2500</amount>
+      <date>9/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Van Taylor Campaign</payeeName>
+      <recipientName>Taylor, Van</recipientName>
+      <amount>2000</amount>
+      <date>9/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Van Taylor Campaign</payeeName>
+      <recipientName>Taylor, Van</recipientName>
+      <amount>500</amount>
+      <date>9/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Friends Of Dick Durbin Committee</payeeName>
+      <recipientName>Durbin, Richard</recipientName>
+      <amount>1500</amount>
+      <date>9/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Friends Of Dick Durbin Committee</payeeName>
+      <recipientName>Durbin, Richard</recipientName>
+      <amount>3500</amount>
+      <date>9/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>PRAIRIE POLITICAL ACTION COMMITTEE</payeeName>
+      <recipientName>Durbin, Richard</recipientName>
+      <amount>5000</amount>
+      <date>9/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Collins For Senator</payeeName>
+      <recipientName>Collins, Susan</recipientName>
+      <amount>1500</amount>
+      <date>9/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Engel For Congress</payeeName>
+      <recipientName>Engel, Eliot</recipientName>
+      <amount>3000</amount>
+      <date>9/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Engel For Congress</payeeName>
+      <recipientName>Engel, Eliot</recipientName>
+      <amount>1000</amount>
+      <date>9/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Texans For Senator John Cornyn Inc.</payeeName>
+      <recipientName>Cornyn, John</recipientName>
+      <amount>1000</amount>
+      <date>9/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Van Taylor Campaign</payeeName>
+      <recipientName>Taylor, Van</recipientName>
+      <amount>1000</amount>
+      <date>9/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>The Bill Keating Committee</payeeName>
+      <recipientName>Keating, William</recipientName>
+      <amount>4000</amount>
+      <date>9/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>The Bill Keating Committee</payeeName>
+      <recipientName>Keating, William</recipientName>
+      <amount>5000</amount>
+      <date>9/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>NEXT CENTURY FUND</payeeName>
+      <recipientName>Burr, Richard</recipientName>
+      <amount>4000</amount>
+      <date>9/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Thom Tillis Committee</payeeName>
+      <recipientName>Tillis, Thom</recipientName>
+      <amount>1000</amount>
+      <date>9/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Connolly For Congress</payeeName>
+      <recipientName>Connolly, Gerald</recipientName>
+      <amount>5000</amount>
+      <date>9/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Connolly For Congress</payeeName>
+      <recipientName>Connolly, Gerald</recipientName>
+      <amount>5000</amount>
+      <date>9/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Carper For Senate</payeeName>
+      <recipientName>Carper, Thomas</recipientName>
+      <amount>1000</amount>
+      <date>9/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>George Holding For Congress Inc.</payeeName>
+      <recipientName>Holding, George</recipientName>
+      <amount>1000</amount>
+      <date>9/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>DUTCH PAC</payeeName>
+      <recipientName>Ruppersberger, C.A.</recipientName>
+      <amount>2500</amount>
+      <date>9/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Gallego For Arizona</payeeName>
+      <recipientName>Gallego, Ruben</recipientName>
+      <amount>2500</amount>
+      <date>9/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Gallego For Arizona</payeeName>
+      <recipientName>Gallego, Ruben</recipientName>
+      <amount>2500</amount>
+      <date>9/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>DIRIGO PAC</payeeName>
+      <recipientName>Collins, Susan</recipientName>
+      <amount>2500</amount>
+      <date>9/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>The Reed Committee</payeeName>
+      <recipientName>Reed, Jack</recipientName>
+      <amount>1000</amount>
+      <date>9/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Katko For Congress</payeeName>
+      <recipientName>Katko, John</recipientName>
+      <amount>1000</amount>
+      <date>9/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Cartwright For Congress</payeeName>
+      <recipientName>Cartwright, Matt</recipientName>
+      <amount>1000</amount>
+      <date>9/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Lucille Roybal-Allard For Congress</payeeName>
+      <recipientName>Roybal-Allard, Lucille</recipientName>
+      <amount>2500</amount>
+      <date>9/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Defazio For Congress</payeeName>
+      <recipientName>DeFazio, Peter</recipientName>
+      <amount>2500</amount>
+      <date>9/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>People For Derek Kilmer</payeeName>
+      <recipientName>Kilmer, Derek</recipientName>
+      <amount>2000</amount>
+      <date>9/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Langevin For Congress</payeeName>
+      <recipientName>Langevin, Jim</recipientName>
+      <amount>4000</amount>
+      <date>9/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Bonamici For Congress</payeeName>
+      <recipientName>Bonamici, Suzanne</recipientName>
+      <amount>2000</amount>
+      <date>9/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Bonamici For Congress</payeeName>
+      <recipientName>Bonamici, Suzanne</recipientName>
+      <amount>500</amount>
+      <date>9/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Scott Peters For Congress</payeeName>
+      <recipientName>Peters, Scott</recipientName>
+      <amount>2000</amount>
+      <date>9/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Bob Casey For Senate Inc</payeeName>
+      <recipientName>Casey, Bob</recipientName>
+      <amount>2000</amount>
+      <date>9/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>John Carter For Congress</payeeName>
+      <recipientName>Carter, John</recipientName>
+      <amount>1000</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Stivers For Congress</payeeName>
+      <recipientName>Stivers, Steve</recipientName>
+      <amount>2500</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>MAKE IT WORK PAC</payeeName>
+      <recipientName>King, Angus</recipientName>
+      <amount>5000</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>McSally For Senate Inc</payeeName>
+      <recipientName>McSally, Martha</recipientName>
+      <amount>1000</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Donald Norcross For Congress</payeeName>
+      <recipientName>Norcross, Donald</recipientName>
+      <amount>1000</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>EUREKA POLITICAL ACTION COMMITTEE</payeeName>
+      <recipientName>Calvert, Ken</recipientName>
+      <amount>1000</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Van Taylor Campaign</payeeName>
+      <recipientName>Taylor, Van</recipientName>
+      <amount>3500</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Joe Neguse For Congress</payeeName>
+      <recipientName>Neguse, Joseph</recipientName>
+      <amount>1000</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Liz Cheney For Wyoming</payeeName>
+      <recipientName>Cheney, Elizabeth</recipientName>
+      <amount>1000</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Vicky Hartzler For Congress</payeeName>
+      <recipientName>Hartzler, Vicky</recipientName>
+      <amount>1000</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Tammy For Illinois</payeeName>
+      <recipientName>Duckworth, Tammy</recipientName>
+      <amount>1000</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Tammy For Illinois</payeeName>
+      <recipientName>Duckworth, Tammy</recipientName>
+      <amount>1500</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Mikie Sherrill For Congress</payeeName>
+      <recipientName>Sherrill, Rebecca</recipientName>
+      <amount>1000</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Schatz For Senate</payeeName>
+      <recipientName>Schatz, Brian</recipientName>
+      <amount>2000</amount>
+      <date>10/1/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Schatz For Senate</payeeName>
+      <recipientName>Schatz, Brian</recipientName>
+      <amount>500</amount>
+      <date>10/1/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>EUREKA POLITICAL ACTION COMMITTEE</payeeName>
+      <recipientName>Calvert, Ken</recipientName>
+      <amount>1500</amount>
+      <date>10/1/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Bringing Everyone Together Through Advocacy</payeeName>
+      <recipientName>McCollum, Betty</recipientName>
+      <amount>5000</amount>
+      <date>10/1/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Leahy For U.S. Senator Committee</payeeName>
+      <recipientName>Leahy, Patrick</recipientName>
+      <amount>1000</amount>
+      <date>10/1/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Manchin For West Virginia</payeeName>
+      <recipientName>Manchin, Joe</recipientName>
+      <amount>3000</amount>
+      <date>10/1/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>John Lewis For Congress</payeeName>
+      <recipientName>Lewis, John</recipientName>
+      <amount>1500</amount>
+      <date>10/1/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Stabenow For Us Senate</payeeName>
+      <recipientName>Stabenow, Debbie</recipientName>
+      <amount>2500</amount>
+      <date>10/1/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Grassley Committee Inc</payeeName>
+      <recipientName>Grassley, Charles</recipientName>
+      <amount>2500</amount>
+      <date>10/1/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>FORWARD TOGETHER PAC</payeeName>
+      <recipientName>Warner, Mark</recipientName>
+      <amount>5000</amount>
+      <date>10/1/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Womack For Congress Committee</payeeName>
+      <recipientName>Womack, Stephen</recipientName>
+      <amount>4000</amount>
+      <date>10/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Boozman For Arkansas</payeeName>
+      <recipientName>Boozman, John</recipientName>
+      <amount>1000</amount>
+      <date>10/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Votetipton.Com</payeeName>
+      <recipientName>Tipton, Scott</recipientName>
+      <amount>2500</amount>
+      <date>10/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>IMPACT</payeeName>
+      <recipientName>Schumer, Charles</recipientName>
+      <amount>5000</amount>
+      <date>10/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Tom Reed For Congress</payeeName>
+      <recipientName>Reed, Tom</recipientName>
+      <amount>1000</amount>
+      <date>10/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Westerman For Congress</payeeName>
+      <recipientName>Westerman, Bruce</recipientName>
+      <amount>2500</amount>
+      <date>10/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Friends For Chris Stewart, Inc.</payeeName>
+      <recipientName>Stewart, Chris</recipientName>
+      <amount>2500</amount>
+      <date>10/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>FUND FOR THE MAJORITY PAC</payeeName>
+      <recipientName>Feinstein, Dianne</recipientName>
+      <amount>5000</amount>
+      <date>10/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Promoting Our Republican Team PAC</payeeName>
+      <recipientName>Portman, Rob</recipientName>
+      <amount>2500</amount>
+      <date>10/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Buck For Colorado</payeeName>
+      <recipientName>Buck, Ken</recipientName>
+      <amount>2500</amount>
+      <date>10/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Buck For Colorado</payeeName>
+      <recipientName>Buck, Ken</recipientName>
+      <amount>1000</amount>
+      <date>10/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Lamborn For Congress</payeeName>
+      <recipientName>Lamborn, Doug</recipientName>
+      <amount>1500</amount>
+      <date>10/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Lamborn For Congress</payeeName>
+      <recipientName>Lamborn, Doug</recipientName>
+      <amount>1000</amount>
+      <date>10/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Chrissy Houlahan For Congress</payeeName>
+      <recipientName>Houlahan, Chrissy</recipientName>
+      <amount>2500</amount>
+      <date>10/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Wenstrup For Congress</payeeName>
+      <recipientName>Wenstrup, Brad</recipientName>
+      <amount>2500</amount>
+      <date>10/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Friends Of Bill Posey</payeeName>
+      <recipientName>Posey, Bill</recipientName>
+      <amount>3000</amount>
+      <date>10/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>DEMOCRATS RESHAPING AMERICA (DREAMPAC)</payeeName>
+      <recipientName>Sanchez, Linda</recipientName>
+      <amount>2500</amount>
+      <date>10/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Larson For Congress</payeeName>
+      <recipientName>Larson, John</recipientName>
+      <amount>1500</amount>
+      <date>10/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Larson For Congress</payeeName>
+      <recipientName>Larson, John</recipientName>
+      <amount>5000</amount>
+      <date>10/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>MADISON PAC; THE</payeeName>
+      <recipientName>Neal, Richard</recipientName>
+      <amount>5000</amount>
+      <date>10/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Hoyer For Congress</payeeName>
+      <recipientName>Hoyer, Steny</recipientName>
+      <amount>2500</amount>
+      <date>10/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Nita Lowey For Congress</payeeName>
+      <recipientName>Lowey, Nita</recipientName>
+      <amount>4000</amount>
+      <date>10/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Nita Lowey For Congress</payeeName>
+      <recipientName>Lowey, Nita</recipientName>
+      <amount>5000</amount>
+      <date>10/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Committee for Leadership and Progress</payeeName>
+      <recipientName>Lowey, Nita</recipientName>
+      <amount>5000</amount>
+      <date>10/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Nebraska Sandhills PAC</payeeName>
+      <recipientName>Fischer, Deb</recipientName>
+      <amount>2500</amount>
+      <date>10/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Price For Congress</payeeName>
+      <recipientName>Price, David</recipientName>
+      <amount>4000</amount>
+      <date>10/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Price For Congress</payeeName>
+      <recipientName>Price, David</recipientName>
+      <amount>3000</amount>
+      <date>10/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Defazio For Congress</payeeName>
+      <recipientName>DeFazio, Peter</recipientName>
+      <amount>1500</amount>
+      <date>10/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Defazio For Congress</payeeName>
+      <recipientName>DeFazio, Peter</recipientName>
+      <amount>5000</amount>
+      <date>10/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Eddie Bernice Johnson For Congress</payeeName>
+      <recipientName>Johnson, Eddie</recipientName>
+      <amount>4000</amount>
+      <date>10/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Eddie Bernice Johnson For Congress</payeeName>
+      <recipientName>Johnson, Eddie</recipientName>
+      <amount>2500</amount>
+      <date>10/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Friends Of Bennie Thompson</payeeName>
+      <recipientName>Thompson, Bennie</recipientName>
+      <amount>5000</amount>
+      <date>10/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Friends Of Bennie Thompson</payeeName>
+      <recipientName>Thompson, Bennie</recipientName>
+      <amount>1000</amount>
+      <date>10/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Tim Ryan For Congress</payeeName>
+      <recipientName>Ryan, Tim</recipientName>
+      <amount>5000</amount>
+      <date>10/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Tim Ryan For Congress</payeeName>
+      <recipientName>Ryan, Tim</recipientName>
+      <amount>1000</amount>
+      <date>10/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Vicky Hartzler For Congress</payeeName>
+      <recipientName>Hartzler, Vicky</recipientName>
+      <amount>1000</amount>
+      <date>10/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Tammy For Illinois</payeeName>
+      <recipientName>Duckworth, Tammy</recipientName>
+      <amount>1500</amount>
+      <date>10/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Cramer For Senate</payeeName>
+      <recipientName>Cramer, Kevin</recipientName>
+      <amount>1000</amount>
+      <date>10/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Patriots For Perry</payeeName>
+      <recipientName>Perry, Scott</recipientName>
+      <amount>1000</amount>
+      <date>10/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Engel For Congress</payeeName>
+      <recipientName>Engel, Eliot</recipientName>
+      <amount>1000</amount>
+      <date>10/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Hoeven For Senate</payeeName>
+      <recipientName>Hoeven, John</recipientName>
+      <amount>1000</amount>
+      <date>10/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Anthony Brown For Congress</payeeName>
+      <recipientName>Brown, Anthony</recipientName>
+      <amount>3000</amount>
+      <date>10/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Bergmanforcongress</payeeName>
+      <recipientName>Bergman, Jack</recipientName>
+      <amount>1000</amount>
+      <date>10/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Westerman For Congress</payeeName>
+      <recipientName>Westerman, Bruce</recipientName>
+      <amount>1000</amount>
+      <date>10/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Jeff Fortenberry For United States Congress</payeeName>
+      <recipientName>Fortenberry, Jeff</recipientName>
+      <amount>2500</amount>
+      <date>10/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Friends Of Dave Joyce</payeeName>
+      <recipientName>Joyce, Dave</recipientName>
+      <amount>500</amount>
+      <date>10/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Friends Of Dave Joyce</payeeName>
+      <recipientName>Joyce, Dave</recipientName>
+      <amount>500</amount>
+      <date>10/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Andy Barr For Congress, Inc.</payeeName>
+      <recipientName>Barr, Andy</recipientName>
+      <amount>1000</amount>
+      <date>10/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Guthrie For Congress</payeeName>
+      <recipientName>Guthrie, Brett</recipientName>
+      <amount>1000</amount>
+      <date>10/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>IMPACT COMMITTEE</payeeName>
+      <recipientName>Turner, Michael</recipientName>
+      <amount>4000</amount>
+      <date>10/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Pete Aguilar For Congress</payeeName>
+      <recipientName>Aguilar, Pete</recipientName>
+      <amount>500</amount>
+      <date>10/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Pete Aguilar For Congress</payeeName>
+      <recipientName>Aguilar, Pete</recipientName>
+      <amount>1000</amount>
+      <date>10/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Trey For Congress</payeeName>
+      <recipientName>Hollingsworth, Trey</recipientName>
+      <amount>1000</amount>
+      <date>10/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Mike Rogers For Congress</payeeName>
+      <recipientName>Rogers, Mike</recipientName>
+      <amount>4000</amount>
+      <date>10/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>AMERICAN SECURITY PAC</payeeName>
+      <recipientName>Rogers, Mike</recipientName>
+      <amount>3000</amount>
+      <date>10/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>DEFEND AMERICA PAC</payeeName>
+      <recipientName>Shelby, Richard</recipientName>
+      <amount>4000</amount>
+      <date>10/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Friends Of Bill Posey</payeeName>
+      <recipientName>Posey, Bill</recipientName>
+      <amount>2000</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Friends Of Bill Posey</payeeName>
+      <recipientName>Posey, Bill</recipientName>
+      <amount>1000</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Stephanie Murphy For Congress</payeeName>
+      <recipientName>Murphy, Stephanie</recipientName>
+      <amount>5000</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Perlmutter For Congress</payeeName>
+      <recipientName>Perlmutter, Edwin</recipientName>
+      <amount>1000</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Perlmutter For Congress</payeeName>
+      <recipientName>Perlmutter, Edwin</recipientName>
+      <amount>5000</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>EXCELSIOR PAC</payeeName>
+      <recipientName>Reed, Tom</recipientName>
+      <amount>2500</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Scott For Congress</payeeName>
+      <recipientName>Scott, Robert</recipientName>
+      <amount>2000</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Cory Gardner For Senate</payeeName>
+      <recipientName>Gardner, Cory</recipientName>
+      <amount>3500</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Morgan Griffith For Congress</payeeName>
+      <recipientName>Griffith, Morgan</recipientName>
+      <amount>1000</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Kelly For Congress</payeeName>
+      <recipientName>Kelly, Trent</recipientName>
+      <amount>1000</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Kelly For Congress</payeeName>
+      <recipientName>Kelly, Trent</recipientName>
+      <amount>1500</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>John Kennedy For Us</payeeName>
+      <recipientName>Kennedy, John</recipientName>
+      <amount>2500</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Freedom 21: Fighting For Freedom In The 21st Century</payeeName>
+      <recipientName>Stewart, Chris</recipientName>
+      <amount>2500</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Carper For Senate</payeeName>
+      <recipientName>Carper, Thomas</recipientName>
+      <amount>2000</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Veronica Escobar For Congress</payeeName>
+      <recipientName>Escobar, Veronica</recipientName>
+      <amount>2000</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>People For Patty Murray</payeeName>
+      <recipientName>Murray, Patty</recipientName>
+      <amount>1500</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>People For Patty Murray</payeeName>
+      <recipientName>Murray, Patty</recipientName>
+      <amount>1000</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Palazzo For Congress</payeeName>
+      <recipientName>Palazzo, Steven</recipientName>
+      <amount>2000</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Palazzo For Congress</payeeName>
+      <recipientName>Palazzo, Steven</recipientName>
+      <amount>500</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Don Bacon For Congress</payeeName>
+      <recipientName>Bacon, Donald</recipientName>
+      <amount>2500</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Pascrell For Congress</payeeName>
+      <recipientName>Pascrell, William</recipientName>
+      <amount>5000</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Elise For Congress</payeeName>
+      <recipientName>Stefanik, Elise</recipientName>
+      <amount>2000</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Elise For Congress</payeeName>
+      <recipientName>Stefanik, Elise</recipientName>
+      <amount>500</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Friends Of Michael Guest</payeeName>
+      <recipientName>Guest, Michael</recipientName>
+      <amount>2500</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Serving Our Country (SOC) PAC</payeeName>
+      <recipientName>Carbajal, Salud</recipientName>
+      <amount>2500</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Abraham Lincoln PAC</payeeName>
+      <recipientName>LaHood, Darin</recipientName>
+      <amount>5000</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Citizens To Elect Rick Larsen</payeeName>
+      <recipientName>Larsen, Rick</recipientName>
+      <amount>2500</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Cole For Congress</payeeName>
+      <recipientName>Cole, Thomas</recipientName>
+      <amount>3000</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>CONSERVATIVE OPPURTUNITY LEADERSHIP AND ENTERPRISE PAC (COLE PAC)</payeeName>
+      <recipientName>Cole, Thomas</recipientName>
+      <amount>5000</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>PUGET PAC</payeeName>
+      <recipientName>Larsen, Rick</recipientName>
+      <amount>2500</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Joni For Iowa</payeeName>
+      <recipientName>Ernst, Joni</recipientName>
+      <amount>4500</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Katherine Clark For Congress</payeeName>
+      <recipientName>Clark, Katherine</recipientName>
+      <amount>2500</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Friends Of Todd Young, Inc.</payeeName>
+      <recipientName>Young, Todd</recipientName>
+      <amount>2500</amount>
+      <date>10/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Cotton For Senate, Inc.</payeeName>
+      <recipientName>Cotton, Tom</recipientName>
+      <amount>1000</amount>
+      <date>10/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Westerman For Congress</payeeName>
+      <recipientName>Westerman, Bruce</recipientName>
+      <amount>1000</amount>
+      <date>10/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Chuck Fleischmann For Congress Committee, Inc.</payeeName>
+      <recipientName>Fleischmann, Chuck</recipientName>
+      <amount>1000</amount>
+      <date>10/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Biggs For Congress</payeeName>
+      <recipientName>Biggs, Andy</recipientName>
+      <amount>1000</amount>
+      <date>10/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Marc Veasey Congressional Campaign Committee</payeeName>
+      <recipientName>Veasey, Marc</recipientName>
+      <amount>3000</amount>
+      <date>10/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Elect Jim Baird For Congress</payeeName>
+      <recipientName>Baird, James</recipientName>
+      <amount>1500</amount>
+      <date>10/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Diana Degette For Congress</payeeName>
+      <recipientName>DeGette, Diana</recipientName>
+      <amount>4000</amount>
+      <date>10/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Kaptur For Congress</payeeName>
+      <recipientName>Kaptur, Marcy</recipientName>
+      <amount>2000</amount>
+      <date>10/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Friends Of Rosa Delauro</payeeName>
+      <recipientName>DeLauro, Rosa</recipientName>
+      <amount>2500</amount>
+      <date>10/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Visclosky For Congress</payeeName>
+      <recipientName>Visclosky, Peter</recipientName>
+      <amount>2000</amount>
+      <date>10/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Mike Kelly For Congress</payeeName>
+      <recipientName>Kelly, Mike</recipientName>
+      <amount>2500</amount>
+      <date>10/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Dutch Ruppersberger For Congress Committee</payeeName>
+      <recipientName>Ruppersberger, C.A.</recipientName>
+      <amount>3000</amount>
+      <date>10/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Tom Reed For Congress</payeeName>
+      <recipientName>Reed, Tom</recipientName>
+      <amount>2500</amount>
+      <date>10/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Friends Of Rosa Delauro</payeeName>
+      <recipientName>DeLauro, Rosa</recipientName>
+      <amount>1500</amount>
+      <date>10/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>People For Derek Kilmer</payeeName>
+      <recipientName>Kilmer, Derek</recipientName>
+      <amount>2500</amount>
+      <date>10/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Michael Waltz For Congress</payeeName>
+      <recipientName>Waltz, Michael</recipientName>
+      <amount>1000</amount>
+      <date>10/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Ron Estes For Congress</payeeName>
+      <recipientName>Estes, Ron</recipientName>
+      <amount>1000</amount>
+      <date>10/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Visclosky For Congress</payeeName>
+      <recipientName>Visclosky, Peter</recipientName>
+      <amount>5000</amount>
+      <date>10/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Scott Peters For Congress</payeeName>
+      <recipientName>Peters, Scott</recipientName>
+      <amount>1000</amount>
+      <date>10/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Scott Peters For Congress</payeeName>
+      <recipientName>Peters, Scott</recipientName>
+      <amount>1500</amount>
+      <date>10/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Friends Of Rosa Delauro</payeeName>
+      <recipientName>DeLauro, Rosa</recipientName>
+      <amount>1000</amount>
+      <date>10/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Veronica Escobar For Congress</payeeName>
+      <recipientName>Escobar, Veronica</recipientName>
+      <amount>1000</amount>
+      <date>10/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Diana Degette For Congress</payeeName>
+      <recipientName>DeGette, Diana</recipientName>
+      <amount>1000</amount>
+      <date>10/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Patriots For Perry</payeeName>
+      <recipientName>Perry, Scott</recipientName>
+      <amount>1000</amount>
+      <date>11/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Womack For Congress Committee</payeeName>
+      <recipientName>Womack, Stephen</recipientName>
+      <amount>1000</amount>
+      <date>11/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Friends Of Pat Toomey</payeeName>
+      <recipientName>Toomey, Pat</recipientName>
+      <amount>1500</amount>
+      <date>11/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>People For Derek Kilmer</payeeName>
+      <recipientName>Kilmer, Derek</recipientName>
+      <amount>2500</amount>
+      <date>11/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Cathy McMorris Rodgers For Congress</payeeName>
+      <recipientName>McMorris Rodgers, Cathy</recipientName>
+      <amount>1000</amount>
+      <date>11/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Bonamici For Congress</payeeName>
+      <recipientName>Bonamici, Suzanne</recipientName>
+      <amount>2000</amount>
+      <date>11/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Lucille Roybal-Allard For Congress</payeeName>
+      <recipientName>Roybal-Allard, Lucille</recipientName>
+      <amount>1000</amount>
+      <date>11/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Cartwright For Congress</payeeName>
+      <recipientName>Cartwright, Matt</recipientName>
+      <amount>1000</amount>
+      <date>11/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Dan Newhouse For Congress</payeeName>
+      <recipientName>Newhouse, Dan</recipientName>
+      <amount>2500</amount>
+      <date>11/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Graves For Congress</payeeName>
+      <recipientName>Graves, Samuel</recipientName>
+      <amount>1000</amount>
+      <date>11/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Kind For Congress Committee</payeeName>
+      <recipientName>Kind, Ron</recipientName>
+      <amount>2500</amount>
+      <date>11/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Kevin Mccarthy For Congress</payeeName>
+      <recipientName>McCarthy, Kevin</recipientName>
+      <amount>2500</amount>
+      <date>11/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Peters For Michigan</payeeName>
+      <recipientName>Peters, Gary</recipientName>
+      <amount>1000</amount>
+      <date>11/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Charlie Crist For Congress</payeeName>
+      <recipientName>Crist, Charles</recipientName>
+      <amount>1500</amount>
+      <date>11/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Charlie Crist For Congress</payeeName>
+      <recipientName>Crist, Charles</recipientName>
+      <amount>1000</amount>
+      <date>11/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Garamendi For Congress</payeeName>
+      <recipientName>Garamendi, John</recipientName>
+      <amount>2000</amount>
+      <date>11/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Moolenaar For Congress</payeeName>
+      <recipientName>Moolenaar, John</recipientName>
+      <amount>1000</amount>
+      <date>11/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Jeff Fortenberry For United States Congress</payeeName>
+      <recipientName>Fortenberry, Jeff</recipientName>
+      <amount>2500</amount>
+      <date>11/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Yarmuth For Congress</payeeName>
+      <recipientName>Yarmuth, John</recipientName>
+      <amount>4000</amount>
+      <date>11/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Maggie For Nh</payeeName>
+      <recipientName>Hassan, Margaret</recipientName>
+      <amount>5000</amount>
+      <date>11/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Stephen Lynch For Congress</payeeName>
+      <recipientName>Lynch, Stephen</recipientName>
+      <amount>2000</amount>
+      <date>11/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Case For Congress</payeeName>
+      <recipientName>Case, Edward</recipientName>
+      <amount>1000</amount>
+      <date>11/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Friends Of Michael Guest</payeeName>
+      <recipientName>Guest, Michael</recipientName>
+      <amount>1000</amount>
+      <date>11/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>George Holding For Congress Inc.</payeeName>
+      <recipientName>Holding, George</recipientName>
+      <amount>1000</amount>
+      <date>11/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Garamendi For Congress</payeeName>
+      <recipientName>Garamendi, John</recipientName>
+      <amount>1000</amount>
+      <date>11/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Garamendi For Congress</payeeName>
+      <recipientName>Garamendi, John</recipientName>
+      <amount>1000</amount>
+      <date>11/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Texans For Henry Cuellar Congressional Campaign</payeeName>
+      <recipientName>Cuellar, Henry</recipientName>
+      <amount>1000</amount>
+      <date>11/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Cotton For Senate, Inc.</payeeName>
+      <recipientName>Cotton, Tom</recipientName>
+      <amount>1500</amount>
+      <date>11/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Cotton For Senate, Inc.</payeeName>
+      <recipientName>Cotton, Tom</recipientName>
+      <amount>5000</amount>
+      <date>11/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Lahood For Congress</payeeName>
+      <recipientName>LaHood, Darin</recipientName>
+      <amount>2500</amount>
+      <date>11/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Friends Of Jim Clyburn</payeeName>
+      <recipientName>Clyburn, James</recipientName>
+      <amount>5000</amount>
+      <date>11/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>AMERIPAC: THE FUND FOR A GREATER AMERICA</payeeName>
+      <recipientName>Hoyer, Steny</recipientName>
+      <amount>5000</amount>
+      <date>11/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>OCEAN STATE POLITICAL ACTION COMMITTEE (OSPAC)</payeeName>
+      <recipientName>Langevin, Jim</recipientName>
+      <amount>5000</amount>
+      <date>11/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>BUILDING RELATIONSHIPS IN DIVERSE GEOGRAPHIC ENVIRONMENTS PAC (BRIDGE PAC)</payeeName>
+      <recipientName>Clyburn, James</recipientName>
+      <amount>5000</amount>
+      <date>11/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>SYNERGY PAC</payeeName>
+      <recipientName>Larson, John</recipientName>
+      <amount>5000</amount>
+      <date>11/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>HUSKY PAC</payeeName>
+      <recipientName>Courtney, Joseph</recipientName>
+      <amount>5000</amount>
+      <date>11/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>COMMONWEALTH PAC</payeeName>
+      <recipientName>Connolly, Gerald</recipientName>
+      <amount>5000</amount>
+      <date>11/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Green Mountain PAC</payeeName>
+      <recipientName>Leahy, Patrick</recipientName>
+      <amount>4000</amount>
+      <date>11/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>LEGPAC</payeeName>
+      <recipientName>Cardin, Benjamin</recipientName>
+      <amount>3000</amount>
+      <date>11/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Andre Carson For Congress</payeeName>
+      <recipientName>Carson, Andre</recipientName>
+      <amount>5000</amount>
+      <date>11/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Susan Davis For Congress</payeeName>
+      <recipientName>Davis, Susan</recipientName>
+      <amount>2500</amount>
+      <date>11/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Susan Davis For Congress</payeeName>
+      <recipientName>Davis, Susan</recipientName>
+      <amount>2500</amount>
+      <date>11/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Mccollum For Congress</payeeName>
+      <recipientName>McCollum, Betty</recipientName>
+      <amount>1500</amount>
+      <date>11/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Mccollum For Congress</payeeName>
+      <recipientName>McCollum, Betty</recipientName>
+      <amount>1000</amount>
+      <date>11/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Sherman For Congress</payeeName>
+      <recipientName>Sherman, Brad</recipientName>
+      <amount>3000</amount>
+      <date>11/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Napolitano For Congress</payeeName>
+      <recipientName>Napolitano, Grace</recipientName>
+      <amount>3000</amount>
+      <date>11/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Quigley For Congress</payeeName>
+      <recipientName>Quigley, Michael</recipientName>
+      <amount>3000</amount>
+      <date>11/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Lois Frankel For Congress</payeeName>
+      <recipientName>Frankel, Lois</recipientName>
+      <amount>3000</amount>
+      <date>11/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Alan Lowenthal For Congress</payeeName>
+      <recipientName>Lowenthal, Alan</recipientName>
+      <amount>3000</amount>
+      <date>11/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Richard E Neal For Congress Committee</payeeName>
+      <recipientName>Neal, Richard</recipientName>
+      <amount>500</amount>
+      <date>11/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Richard E Neal For Congress Committee</payeeName>
+      <recipientName>Neal, Richard</recipientName>
+      <amount>1000</amount>
+      <date>11/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Salud Carbajal For Congress</payeeName>
+      <recipientName>Carbajal, Salud</recipientName>
+      <amount>500</amount>
+      <date>11/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Salud Carbajal For Congress</payeeName>
+      <recipientName>Carbajal, Salud</recipientName>
+      <amount>1000</amount>
+      <date>11/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Hoyer For Congress</payeeName>
+      <recipientName>Hoyer, Steny</recipientName>
+      <amount>2500</amount>
+      <date>11/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>HOLDING ONTO OREGON'S PRIORITIES (HOOPS PAC)</payeeName>
+      <recipientName>Wyden, Ron</recipientName>
+      <amount>2500</amount>
+      <date>11/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Blumenthal For Connecticut</payeeName>
+      <recipientName>Blumenthal, Richard</recipientName>
+      <amount>2000</amount>
+      <date>11/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Blumenthal For Connecticut</payeeName>
+      <recipientName>Blumenthal, Richard</recipientName>
+      <amount>500</amount>
+      <date>11/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Friends Of Chris Murphy</payeeName>
+      <recipientName>Murphy, Chris</recipientName>
+      <amount>2000</amount>
+      <date>11/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Friends Of Don Beyer</payeeName>
+      <recipientName>Beyer, Don</recipientName>
+      <amount>2000</amount>
+      <date>11/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Jason Smith For Congress</payeeName>
+      <recipientName>Smith, Jason</recipientName>
+      <amount>500</amount>
+      <date>11/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Cathy McMorris Rodgers For Congress</payeeName>
+      <recipientName>McMorris Rodgers, Cathy</recipientName>
+      <amount>500</amount>
+      <date>11/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Haley Stevens For Congress</payeeName>
+      <recipientName>Stevens, Haley</recipientName>
+      <amount>3000</amount>
+      <date>11/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Menendez For Senate</payeeName>
+      <recipientName>Menendez, Robert</recipientName>
+      <amount>1000</amount>
+      <date>11/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Peters For Michigan</payeeName>
+      <recipientName>Peters, Gary</recipientName>
+      <amount>2000</amount>
+      <date>11/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Pascrell For Congress</payeeName>
+      <recipientName>Pascrell, William</recipientName>
+      <amount>1000</amount>
+      <date>11/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Jason Smith For Congress</payeeName>
+      <recipientName>Smith, Jason</recipientName>
+      <amount>500</amount>
+      <date>11/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Wexton For Congress</payeeName>
+      <recipientName>Wexton, Jennifer</recipientName>
+      <amount>1500</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Wexton For Congress</payeeName>
+      <recipientName>Wexton, Jennifer</recipientName>
+      <amount>5000</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Terri Sewell For Congress</payeeName>
+      <recipientName>Sewell, Terri</recipientName>
+      <amount>3000</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Terri Sewell For Congress</payeeName>
+      <recipientName>Sewell, Terri</recipientName>
+      <amount>1000</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Kaine For Virginia</payeeName>
+      <recipientName>Kaine, Tim</recipientName>
+      <amount>2000</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Texans For Henry Cuellar Congressional Campaign</payeeName>
+      <recipientName>Cuellar, Henry</recipientName>
+      <amount>2500</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Pascrell For Congress</payeeName>
+      <recipientName>Pascrell, William</recipientName>
+      <amount>1000</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Grace For New York</payeeName>
+      <recipientName>Meng, Grace</recipientName>
+      <amount>1500</amount>
+      <date>11/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Simpson For Congress</payeeName>
+      <recipientName>Simpson, Mike</recipientName>
+      <amount>1000</amount>
+      <date>11/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Rick W. Allen For Congress</payeeName>
+      <recipientName>Allen, Rick</recipientName>
+      <amount>2000</amount>
+      <date>11/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Rick W. Allen For Congress</payeeName>
+      <recipientName>Allen, Rick</recipientName>
+      <amount>3000</amount>
+      <date>11/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Texas Republicans United Political Action Committee (TRU PAC)</payeeName>
+      <recipientName>McCaul, Michael</recipientName>
+      <amount>1000</amount>
+      <date>11/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Promoting Our Republican Team PAC</payeeName>
+      <recipientName>Portman, Rob</recipientName>
+      <amount>1500</amount>
+      <date>11/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Boozman For Arkansas</payeeName>
+      <recipientName>Boozman, John</recipientName>
+      <amount>2500</amount>
+      <date>11/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Haley Stevens For Congress</payeeName>
+      <recipientName>Stevens, Haley</recipientName>
+      <amount>1000</amount>
+      <date>11/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Jim Banks For Congress, Inc.</payeeName>
+      <recipientName>Banks, James</recipientName>
+      <amount>1000</amount>
+      <date>11/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Ben Cline For Congress, Inc.</payeeName>
+      <recipientName>Cline, Benjamin</recipientName>
+      <amount>1000</amount>
+      <date>11/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Thom Tillis Committee</payeeName>
+      <recipientName>Tillis, Thom</recipientName>
+      <amount>1000</amount>
+      <date>11/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Michael Waltz For Congress</payeeName>
+      <recipientName>Waltz, Michael</recipientName>
+      <amount>2000</amount>
+      <date>11/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Michael Waltz For Congress</payeeName>
+      <recipientName>Waltz, Michael</recipientName>
+      <amount>500</amount>
+      <date>11/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Cathy McMorris Rodgers For Congress</payeeName>
+      <recipientName>McMorris Rodgers, Cathy</recipientName>
+      <amount>1000</amount>
+      <date>11/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>HELP AMERICA'S LEADERS POLITICAL ACTION COMMITTEE (HALPAC)</payeeName>
+      <recipientName>Rogers, Hal</recipientName>
+      <amount>5000</amount>
+      <date>11/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Above The Best PAC</payeeName>
+      <recipientName>Brown, Anthony</recipientName>
+      <amount>5000</amount>
+      <date>11/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Robert Aderholt For Congress</payeeName>
+      <recipientName>Aderholt, Robert</recipientName>
+      <amount>3000</amount>
+      <date>11/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Rosen For Nevada</payeeName>
+      <recipientName>Rosen, Jacklyn</recipientName>
+      <amount>2500</amount>
+      <date>11/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Committee For A Democratic Future</payeeName>
+      <recipientName>DeLauro, Rosa</recipientName>
+      <amount>5000</amount>
+      <date>11/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>AMERICAN DEFENSE AND MILITARY PAC (ADAM PAC)</payeeName>
+      <recipientName>Smith, Adam</recipientName>
+      <amount>5000</amount>
+      <date>11/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Joe Neguse For Congress</payeeName>
+      <recipientName>Neguse, Joseph</recipientName>
+      <amount>1000</amount>
+      <date>12/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Michael Waltz For Congress</payeeName>
+      <recipientName>Waltz, Michael</recipientName>
+      <amount>2500</amount>
+      <date>12/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Friends Of Sessions Senate Committee Inc</payeeName>
+      <recipientName>Sessions, Jeff</recipientName>
+      <amount>5000</amount>
+      <date>12/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Dr John Joyce For Congress</payeeName>
+      <recipientName>Joyce, John</recipientName>
+      <amount>1000</amount>
+      <date>12/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Team Graham, Inc.</payeeName>
+      <recipientName>Graham, Lindsey</recipientName>
+      <amount>1000</amount>
+      <date>12/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>REACHING FOR A BRIGHTER AMERICA PAC</payeeName>
+      <recipientName>Aderholt, Robert</recipientName>
+      <amount>3500</amount>
+      <date>12/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Joe Wilson For Congress</payeeName>
+      <recipientName>Wilson, Joe</recipientName>
+      <amount>1000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Rely On Your Beliefs Fund</payeeName>
+      <recipientName>Blunt, Roy</recipientName>
+      <amount>5000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>HAWAII PAC</payeeName>
+      <recipientName>Schatz, Brian</recipientName>
+      <amount>5000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Zeldin For Congress</payeeName>
+      <recipientName>Zeldin, Lee</recipientName>
+      <amount>2000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Austin Scott For Congress Inc</payeeName>
+      <recipientName>Scott, Austin</recipientName>
+      <amount>1000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>WELLS PAC</payeeName>
+      <recipientName>Scott, Austin</recipientName>
+      <amount>5000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Jason Smith For Congress</payeeName>
+      <recipientName>Smith, Jason</recipientName>
+      <amount>1500</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Golden Rule PAC</payeeName>
+      <recipientName>Crist, Charles</recipientName>
+      <amount>2500</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>PATRIOT POLITICAL ACTION COMMITTEE</payeeName>
+      <recipientName>Palazzo, Steven</recipientName>
+      <amount>2500</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Raytheon PAC</contributorName>
+      <payeeName>Andy Barr For Congress, Inc.</payeeName>
+      <recipientName>Barr, Andy</recipientName>
+      <amount>1000</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>Presidential Library Expenses</type>
+      <contributorName>Self</contributorName>
+      <payeeName>The Ronald Reagan Presidential Foundation and Institute</payeeName>
+      <recipientName>Ronald Reagan</recipientName>
+      <amount>100000.00</amount>
+      <date>10/15/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

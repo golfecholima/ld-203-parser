@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>ENCANA OIL &amp; GAS (USA) INC.</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <zipext>
+  </zipext>
+  <contactName>Shea Loper</contactName>
+  <senateRegID>401104544</senateRegID>
+  <houseRegID>43722</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/30/2020 10:47:25 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>Encana Oil &amp; Gas (USA) Inc. PAC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Encana Oil &amp; Gas (USA) Inc. PAC</contributorName>
+      <payeeName>Lucas for Congress</payeeName>
+      <recipientName>Representative Frank Lucas</recipientName>
+      <amount>2500.00</amount>
+      <date>07/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Encana Oil &amp; Gas (USA) Inc. PAC</contributorName>
+      <payeeName>Claire Chase for Congress</payeeName>
+      <recipientName>Claire Chase</recipientName>
+      <amount>1000.00</amount>
+      <date>09/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Encana Oil &amp; Gas (USA) Inc. PAC</contributorName>
+      <payeeName>Elizabeth Pannill Fletcher for Congress</payeeName>
+      <recipientName>Representative Lizzie Fletcher</recipientName>
+      <amount>1000.00</amount>
+      <date>09/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Encana Oil &amp; Gas (USA) Inc. PAC</contributorName>
+      <payeeName>Liz Cheney for Wyoming</payeeName>
+      <recipientName>Representative Liz Cheney</recipientName>
+      <amount>2500.00</amount>
+      <date>09/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Encana Oil &amp; Gas (USA) Inc. PAC</contributorName>
+      <payeeName>Texans for Henry Cuellar Congressional Campaign</payeeName>
+      <recipientName>Representative Henry Cuellar</recipientName>
+      <amount>2500.00</amount>
+      <date>09/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Encana Oil &amp; Gas (USA) Inc. PAC</contributorName>
+      <payeeName>Friends of Jim Inhofe</payeeName>
+      <recipientName>Senator Jim Inhofe</recipientName>
+      <amount>2500.00</amount>
+      <date>08/21/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

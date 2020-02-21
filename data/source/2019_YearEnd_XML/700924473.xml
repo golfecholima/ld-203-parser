@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>CENTENE CORPORATION</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <zipext>
+  </zipext>
+  <contactName>James Farnsworth</contactName>
+  <senateRegID>306578</senateRegID>
+  <houseRegID>38604</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/30/2020 10:30:28 AM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>
+  </noContributions>
+  <pacs>
+    <pac>
+      <name>Centene Corporation Political Action Committee (Centene PAC)</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Centene Corporation Political Action Committee (Centene PAC)</contributorName>
+      <payeeName>Perdue for Senate</payeeName>
+      <recipientName>David Perdue</recipientName>
+      <amount>5000.00</amount>
+      <date>07/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Centene Corporation Political Action Committee (Centene PAC)</contributorName>
+      <payeeName>Perdue for Senate</payeeName>
+      <recipientName>David Perdue</recipientName>
+      <amount>5000.00</amount>
+      <date>07/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Centene Corporation Political Action Committee (Centene PAC)</contributorName>
+      <payeeName>Dwight Evans for Congress</payeeName>
+      <recipientName>Dwight Evans</recipientName>
+      <amount>1000.00</amount>
+      <date>07/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Centene Corporation Political Action Committee (Centene PAC)</contributorName>
+      <payeeName>Perdue for Senate</payeeName>
+      <recipientName>David Perdue</recipientName>
+      <amount>2500.00</amount>
+      <date>07/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Centene Corporation Political Action Committee (Centene PAC)</contributorName>
+      <payeeName>Perdue for Senate</payeeName>
+      <recipientName>David Perdue</recipientName>
+      <amount>5000.00</amount>
+      <date>07/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Centene Corporation Political Action Committee (Centene PAC)</contributorName>
+      <payeeName>One Georgia PAC</payeeName>
+      <recipientName>David Perdue</recipientName>
+      <amount>5000.00</amount>
+      <date>07/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Centene Corporation Political Action Committee (Centene PAC)</contributorName>
+      <payeeName>Walorski for Congress</payeeName>
+      <recipientName>Jackie Walorski</recipientName>
+      <amount>1500.00</amount>
+      <date>07/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Centene Corporation Political Action Committee (Centene PAC)</contributorName>
+      <payeeName>Walden for Congress</payeeName>
+      <recipientName>Greg Walden</recipientName>
+      <amount>2500.00</amount>
+      <date>07/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Centene Corporation Political Action Committee (Centene PAC)</contributorName>
+      <payeeName>Shaheen For Senate</payeeName>
+      <recipientName>Jeanne Shaheen</recipientName>
+      <amount>1300.00</amount>
+      <date>08/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Centene Corporation Political Action Committee (Centene PAC)</contributorName>
+      <payeeName>A New Direction PAC</payeeName>
+      <recipientName>Jeanne Shaheen</recipientName>
+      <amount>5000.00</amount>
+      <date>08/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Centene Corporation Political Action Committee (Centene PAC)</contributorName>
+      <payeeName>DSCC</payeeName>
+      <recipientName>Dem Sen Camp Cmte(DSCC)-Federal Acct</recipientName>
+      <amount>15000.00</amount>
+      <date>09/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Centene Corporation Political Action Committee (Centene PAC)</contributorName>
+      <payeeName>Graves for Congress</payeeName>
+      <recipientName>Sam Graves</recipientName>
+      <amount>1000.00</amount>
+      <date>09/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Centene Corporation Political Action Committee (Centene PAC)</contributorName>
+      <payeeName>Liz Cheney for Wyoming</payeeName>
+      <recipientName>Elizabeth Cheney</recipientName>
+      <amount>1000.00</amount>
+      <date>09/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Centene Corporation Political Action Committee (Centene PAC)</contributorName>
+      <payeeName>Guthrie for Congress</payeeName>
+      <recipientName>Brett Guthrie</recipientName>
+      <amount>2000.00</amount>
+      <date>09/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Centene Corporation Political Action Committee (Centene PAC)</contributorName>
+      <payeeName>Doug Jones for Senate</payeeName>
+      <recipientName>Doug Jones</recipientName>
+      <amount>2500.00</amount>
+      <date>09/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Centene Corporation Political Action Committee (Centene PAC)</contributorName>
+      <payeeName>Friends of Cheri Bustos</payeeName>
+      <recipientName>Cheri Bustos</recipientName>
+      <amount>2500.00</amount>
+      <date>09/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Centene Corporation Political Action Committee (Centene PAC)</contributorName>
+      <payeeName>Peters for Michigan</payeeName>
+      <recipientName>Gary Peters</recipientName>
+      <amount>2500.00</amount>
+      <date>09/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Centene Corporation Political Action Committee (Centene PAC)</contributorName>
+      <payeeName>Clay Jr. for Congress</payeeName>
+      <recipientName>William Clay Jr.</recipientName>
+      <amount>2000.00</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Centene Corporation Political Action Committee (Centene PAC)</contributorName>
+      <payeeName>Clarke for Congress</payeeName>
+      <recipientName>Yvette Clarke</recipientName>
+      <amount>2500.00</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Centene Corporation Political Action Committee (Centene PAC)</contributorName>
+      <payeeName>Schiff for Congress</payeeName>
+      <recipientName>Adam Schiff</recipientName>
+      <amount>5000.00</amount>
+      <date>09/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Centene Corporation Political Action Committee (Centene PAC)</contributorName>
+      <payeeName>Smart Solutions PAC</payeeName>
+      <recipientName>Jacky Rosen</recipientName>
+      <amount>5000.00</amount>
+      <date>10/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Centene Corporation Political Action Committee (Centene PAC)</contributorName>
+      <payeeName>Karen Bass for Congress</payeeName>
+      <recipientName>Karen Bass</recipientName>
+      <amount>4000.00</amount>
+      <date>10/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Centene Corporation Political Action Committee (Centene PAC)</contributorName>
+      <payeeName>Greg Pence for Congress</payeeName>
+      <recipientName>Greg Pence</recipientName>
+      <amount>1000.00</amount>
+      <date>10/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Centene Corporation Political Action Committee (Centene PAC)</contributorName>
+      <payeeName>Karen Bass for Congress</payeeName>
+      <recipientName>Karen Bass</recipientName>
+      <amount>1000.00</amount>
+      <date>10/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Centene Corporation Political Action Committee (Centene PAC)</contributorName>
+      <payeeName>Hoosier PAC</payeeName>
+      <recipientName>Mike Braun</recipientName>
+      <amount>1000.00</amount>
+      <date>10/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Centene Corporation Political Action Committee (Centene PAC)</contributorName>
+      <payeeName>Brian Fitzpatrick for Congress</payeeName>
+      <recipientName>Brian Fitzpatrick</recipientName>
+      <amount>1000.00</amount>
+      <date>10/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Centene Corporation Political Action Committee (Centene PAC)</contributorName>
+      <payeeName>Oorah! PAC</payeeName>
+      <recipientName>Todd Young</recipientName>
+      <amount>1000.00</amount>
+      <date>11/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Centene Corporation Political Action Committee (Centene PAC)</contributorName>
+      <payeeName>Scott Fitzgerald for Congress</payeeName>
+      <recipientName>Scott Fitzgerald</recipientName>
+      <amount>5000.00</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Centene Corporation Political Action Committee (Centene PAC)</contributorName>
+      <payeeName>Kentucky Democratic Party-Federal Acct</payeeName>
+      <recipientName>Kentucky State Democratic Central Executive Cmte</recipientName>
+      <amount>5000.00</amount>
+      <date>11/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Centene Corporation Political Action Committee (Centene PAC)</contributorName>
+      <payeeName>Cotton Victory Committee</payeeName>
+      <recipientName>Thomas Cotton</recipientName>
+      <amount>1000.00</amount>
+      <date>12/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Centene Corporation Political Action Committee (Centene PAC)</contributorName>
+      <payeeName>Ann Wagner for Congress</payeeName>
+      <recipientName>Ann Wagner</recipientName>
+      <amount>5000.00</amount>
+      <date>12/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Centene Corporation Political Action Committee (Centene PAC)</contributorName>
+      <payeeName>Ann Wagner for Congress</payeeName>
+      <recipientName>Ann Wagner</recipientName>
+      <amount>5000.00</amount>
+      <date>12/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Centene Corporation Political Action Committee (Centene PAC)</contributorName>
+      <payeeName>Georgians for Kelly Loeffler</payeeName>
+      <recipientName>Kelly Loeffler</recipientName>
+      <amount>2500.00</amount>
+      <date>12/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Centene Corporation Political Action Committee (Centene PAC)</contributorName>
+      <payeeName>NRCC</payeeName>
+      <recipientName>Natl Rep Cong Cmte(NRCC)-Federal Acct</recipientName>
+      <amount>15000.00</amount>
+      <date>12/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Centene Corporation Political Action Committee (Centene PAC)</contributorName>
+      <payeeName>National Republican Senatorial Committee</payeeName>
+      <recipientName>Natl Rep Sen Cmte(NRSC)-Federal Acct</recipientName>
+      <amount>15000.00</amount>
+      <date>12/26/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

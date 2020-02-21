@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>National Grain and Feed Association</organizationName>
+  <lobbyistPrefix>Mr.</lobbyistPrefix>
+  <lobbyistFirstName>Bobby</lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>Frederick</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>40011078</senateRegID>
+  <houseRegID>39775</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/27/2020 4:17:22 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>Grain and Feed PAC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Grain and Feed PAC</contributorName>
+      <payeeName>Bob Casey for Senate Inc</payeeName>
+      <recipientName>Bob Casey</recipientName>
+      <amount>1000.00</amount>
+      <date>11/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Grain and Feed PAC</contributorName>
+      <payeeName>Crawford for Congress</payeeName>
+      <recipientName>Rick Crawford</recipientName>
+      <amount>1000.00</amount>
+      <date>9/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Grain and Feed PAC</contributorName>
+      <payeeName>Dan Lipinski for Congress</payeeName>
+      <recipientName>Dan Lipinski</recipientName>
+      <amount>1000.00</amount>
+      <date>07/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Grain and Feed PAC</contributorName>
+      <payeeName>Friends of Glenn Thompson</payeeName>
+      <recipientName>G.T. Thompson</recipientName>
+      <amount>1000.00</amount>
+      <date>10/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Grain and Feed PAC</contributorName>
+      <payeeName>Joni for Iowa</payeeName>
+      <recipientName>Joni Ernst</recipientName>
+      <amount>2500.00</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Grain and Feed PAC</contributorName>
+      <payeeName>Rodney For Congress</payeeName>
+      <recipientName>Rodney Davis</recipientName>
+      <amount>1500.00</amount>
+      <date>11/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Grain and Feed PAC</contributorName>
+      <payeeName>Stabenow for US Senate</payeeName>
+      <recipientName>Debbie Stabenow</recipientName>
+      <amount>1000.00</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Grain and Feed PAC</contributorName>
+      <payeeName>Steve Daines for Montana</payeeName>
+      <recipientName>Steven Daines</recipientName>
+      <amount>1000.00</amount>
+      <date>10/30/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

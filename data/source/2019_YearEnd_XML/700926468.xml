@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>Harbinger Strategies, LLC</organizationName>
+  <lobbyistPrefix>Mr.</lobbyistPrefix>
+  <lobbyistFirstName>Steve</lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>Stombres</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>401103523</senateRegID>
+  <houseRegID>42812</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/30/2020 8:13:51 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>John Moolenaar for Congress</payeeName>
+      <recipientName>Rep. John Moolenaar (R - MI - 04)</recipientName>
+      <amount>1000.00</amount>
+      <date>7/16/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>McCarthy Victory Fund</payeeName>
+      <recipientName>Rep. Kevin McCarthy (R - CA - 23)</recipientName>
+      <amount>1000.00</amount>
+      <date>7/16/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Wesley Hunt for Congress</payeeName>
+      <recipientName>Candidate Wesley Hunt (TX-07)</recipientName>
+      <amount>500.00</amount>
+      <date>7/25/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>David Joyce for Congress</payeeName>
+      <recipientName>Rep. David Joyce (R - OH - 14)</recipientName>
+      <amount>1000.00</amount>
+      <date>7/25/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Adam Kinzinger for Congress</payeeName>
+      <recipientName>Rep. Adam Kinzinger (R - IL - 16)</recipientName>
+      <amount>1000.00</amount>
+      <date>9/23/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Families for James Lankford </payeeName>
+      <recipientName>Sen. James Lankford (R - OK)</recipientName>
+      <amount>1000.00</amount>
+      <date>9/29/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Vern Buchanan for Congress</payeeName>
+      <recipientName>Rep. Vern Buchanan (R - FL - 16)</recipientName>
+      <amount>1000.00</amount>
+      <date>9/29/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Anthony Gonzalez for Congress</payeeName>
+      <recipientName>Rep. Anthony Gonzalez (R - OH - 16)</recipientName>
+      <amount>1000.00</amount>
+      <date>9/29/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Rosemary Becchi for Congress</payeeName>
+      <recipientName>Candidate Rosemary Becchi (R - NJ) </recipientName>
+      <amount>500.00</amount>
+      <date>9/29/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Bill Cassidy for Senate</payeeName>
+      <recipientName>Sen. Bill Cassidy (R - LA)</recipientName>
+      <amount>500.00</amount>
+      <date>8/7/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Mike Turner for Congress</payeeName>
+      <recipientName>Rep. Mike Turner (R - OH)</recipientName>
+      <amount>1000.00</amount>
+      <date>8/18/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Mike Rogers for Congress</payeeName>
+      <recipientName>Rep. Mike Rogers (R - AL - 03)</recipientName>
+      <amount>1000.00</amount>
+      <date>11/18/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>John Moolenaar for Congress</payeeName>
+      <recipientName>Rep. John Moolenaar (R - MI - 04)</recipientName>
+      <amount>1000.00</amount>
+      <date>11/22/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Smucker for Congress</payeeName>
+      <recipientName>Rep. Lloyd Smucker (R - PA-11)</recipientName>
+      <amount>1000.00</amount>
+      <date>11/22/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Richard Hudson for Congress</payeeName>
+      <recipientName>Rep. Richard Hudson (R - NC-08)</recipientName>
+      <amount>1000.00</amount>
+      <date>11/22/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Tina Ramirez for Congress</payeeName>
+      <recipientName>Candidate Tina Ramirez (R - VA)</recipientName>
+      <amount>1000.00</amount>
+      <date>11/22/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Cathy McMorris Rodgers for U.S. Congress</payeeName>
+      <recipientName>Rep. Cathy McMorris Rodgers (R - WA - 05)</recipientName>
+      <amount>2000.00</amount>
+      <date>12/11/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Friends of Roy Blunt</payeeName>
+      <recipientName>Sen. Roy Blunt (R - MO)</recipientName>
+      <amount>500.00</amount>
+      <date>12/14/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Friends of Pat Toomey</payeeName>
+      <recipientName>Sen. Pat Toomey (R-PA)</recipientName>
+      <amount>1000.00</amount>
+      <date>12/18/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Ashley Hinson for Congress</payeeName>
+      <recipientName>Rep. Ashley Hinson (R - IA)</recipientName>
+      <amount>1000.00</amount>
+      <date>12/21/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Jason Church for Wisconsin</payeeName>
+      <recipientName>Candidate Capt. Jason Church (R - WI)</recipientName>
+      <amount>500.00</amount>
+      <date>12/30/19</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

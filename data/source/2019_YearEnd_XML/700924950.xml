@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>News Corporation</organizationName>
+  <lobbyistPrefix>Mr.</lobbyistPrefix>
+  <lobbyistFirstName>TODD</lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>THORPE</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>401103985</senateRegID>
+  <houseRegID>43221</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>I am a Board member of NEWS CORPORATION PAC, an SSF. The PAC's contributions will be disclosed on the News Corporation Form LD-203. My disclosure is to the best of my knowledge and based on reasonable due diligence.
+</comments>
+  <signedDate>1/30/2020 12:31:53 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>News Corporation PAC (News Corp PAC)</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Team Graham</payeeName>
+      <recipientName>Sen. Lindsey Graham</recipientName>
+      <amount>1000.00</amount>
+      <date>09/23/19</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

@@ -1,0 +1,1201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>National Association of Insurance and Financial Advisors</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>Gayle Schreiber</contactName>
+  <senateRegID>26901</senateRegID>
+  <houseRegID>30246</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/30/2020 2:07:27 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>
+  </noContributions>
+  <pacs>
+    <pac>
+      <name>NAIFAPAC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Clay Jr. For Congress</payeeName>
+      <recipientName>Clay, William</recipientName>
+      <amount>1000</amount>
+      <date>7/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Friends For Chris Stewart, Inc.</payeeName>
+      <recipientName>Stewart, Chris</recipientName>
+      <amount>1000</amount>
+      <date>7/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Perdue For Senate</payeeName>
+      <recipientName>Perdue, David</recipientName>
+      <amount>1500</amount>
+      <date>7/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Katko For Congress</payeeName>
+      <recipientName>Katko, John</recipientName>
+      <amount>2000</amount>
+      <date>7/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Stephanie Murphy For Congress</payeeName>
+      <recipientName>Murphy, Stephanie</recipientName>
+      <amount>2500</amount>
+      <date>7/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Drew Ferguson For Congress Inc.</payeeName>
+      <recipientName>Ferguson, A. Drew</recipientName>
+      <amount>2000</amount>
+      <date>7/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Steil For Wisconsin, Inc.</payeeName>
+      <recipientName>Steil, Bryan</recipientName>
+      <amount>2000</amount>
+      <date>7/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Debbie Lesko For Congress</payeeName>
+      <recipientName>Lesko, Debbie</recipientName>
+      <amount>1000</amount>
+      <date>7/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Veronica Escobar For Congress</payeeName>
+      <recipientName>Escobar, Veronica</recipientName>
+      <amount>1000</amount>
+      <date>7/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Ann Wagner For Congress</payeeName>
+      <recipientName>Wagner, Ann</recipientName>
+      <amount>500</amount>
+      <date>7/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Martha Roby For Congress</payeeName>
+      <recipientName>Roby, Martha</recipientName>
+      <amount>1000</amount>
+      <date>7/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Terri Sewell For Congress</payeeName>
+      <recipientName>Sewell, Terri</recipientName>
+      <amount>2500</amount>
+      <date>7/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Brady For Congress</payeeName>
+      <recipientName>Brady, Kevin</recipientName>
+      <amount>2500</amount>
+      <date>7/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Louie Gohmert For Congress Committee</payeeName>
+      <recipientName>Gohmert, Louie</recipientName>
+      <amount>1000</amount>
+      <date>7/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Texans For Henry Cuellar Congressional Campaign</payeeName>
+      <recipientName>Cuellar, Henry</recipientName>
+      <amount>2500</amount>
+      <date>7/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Lucas For Congress</payeeName>
+      <recipientName>Lucas, Frank</recipientName>
+      <amount>3000</amount>
+      <date>7/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Friends Of Jim Inhofe</payeeName>
+      <recipientName>Inhofe, Jim</recipientName>
+      <amount>5000</amount>
+      <date>7/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Cole For Congress</payeeName>
+      <recipientName>Cole, Thomas</recipientName>
+      <amount>1000</amount>
+      <date>7/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Billy Long For Congress</payeeName>
+      <recipientName>Long, Billy</recipientName>
+      <amount>1000</amount>
+      <date>7/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Mullin For Congress</payeeName>
+      <recipientName>Mullin, Markwayne</recipientName>
+      <amount>1000</amount>
+      <date>7/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Beatty For Congress</payeeName>
+      <recipientName>Beatty, Joyce</recipientName>
+      <amount>500</amount>
+      <date>7/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Kendra Horn For Congress</payeeName>
+      <recipientName>Horn, Kendra</recipientName>
+      <amount>1000</amount>
+      <date>7/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Suozzi For Congress</payeeName>
+      <recipientName>Suozzi, Thomas</recipientName>
+      <amount>2500</amount>
+      <date>7/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Balderson For Congress</payeeName>
+      <recipientName>Balderson, Troy</recipientName>
+      <amount>1000</amount>
+      <date>7/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Hern For Congress</payeeName>
+      <recipientName>Hern, Kevin</recipientName>
+      <amount>1000</amount>
+      <date>7/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Jimmy Panetta For Congress</payeeName>
+      <recipientName>Panetta, Jimmy</recipientName>
+      <amount>2000</amount>
+      <date>7/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Davidson For Congress</payeeName>
+      <recipientName>Davidson, Warren</recipientName>
+      <amount>2500</amount>
+      <date>7/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Texans For Jodey Arrington</payeeName>
+      <recipientName>Arrington, Jodey</recipientName>
+      <amount>2000</amount>
+      <date>7/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Vicente Gonzalez For Congress</payeeName>
+      <recipientName>Gonzalez, Vicente</recipientName>
+      <amount>5000</amount>
+      <date>7/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Roger Williams For U S Congress Committee</payeeName>
+      <recipientName>Williams, Roger</recipientName>
+      <amount>2000</amount>
+      <date>7/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Friends Of Dan Kildee</payeeName>
+      <recipientName>Kildee, Dan</recipientName>
+      <amount>1000</amount>
+      <date>7/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Bill Flores For Congress</payeeName>
+      <recipientName>Flores, Bill</recipientName>
+      <amount>1000</amount>
+      <date>7/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Devin Nunes Campaign Committee</payeeName>
+      <recipientName>Nunes, Devin</recipientName>
+      <amount>5000</amount>
+      <date>7/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Conaway For Congress</payeeName>
+      <recipientName>Conaway, Michael</recipientName>
+      <amount>1000</amount>
+      <date>7/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Kenny Marchant For Congress</payeeName>
+      <recipientName>Marchant, Kenny</recipientName>
+      <amount>2000</amount>
+      <date>7/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Stephen Lynch For Congress</payeeName>
+      <recipientName>Lynch, Stephen</recipientName>
+      <amount>2000</amount>
+      <date>7/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Texans For Senator John Cornyn Inc.</payeeName>
+      <recipientName>Cornyn, John</recipientName>
+      <amount>2000</amount>
+      <date>7/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Judy Chu For Congress</payeeName>
+      <recipientName>Chu, Judy</recipientName>
+      <amount>1000</amount>
+      <date>7/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Friends Of Dusty Johnson</payeeName>
+      <recipientName>Johnson, Dustin</recipientName>
+      <amount>1000</amount>
+      <date>7/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Mikie Sherrill For Congress</payeeName>
+      <recipientName>Sherrill, Rebecca</recipientName>
+      <amount>1000</amount>
+      <date>7/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Armstrong For Congress</payeeName>
+      <recipientName>Armstrong, Kelly</recipientName>
+      <amount>1000</amount>
+      <date>7/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>John Rose For Tennessee</payeeName>
+      <recipientName>Rose, John</recipientName>
+      <amount>2000</amount>
+      <date>8/1/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Gary Palmer For Congress</payeeName>
+      <recipientName>Palmer, Gary</recipientName>
+      <amount>1000</amount>
+      <date>8/1/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Kustoff For Congress</payeeName>
+      <recipientName>Kustoff, David</recipientName>
+      <amount>2000</amount>
+      <date>8/1/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Rounds For Senate</payeeName>
+      <recipientName>Rounds, Mike</recipientName>
+      <amount>2000</amount>
+      <date>8/1/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Mark Pocan For Congress</payeeName>
+      <recipientName>Pocan, Mark</recipientName>
+      <amount>1000</amount>
+      <date>8/1/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Jeff Fortenberry For United States Congress</payeeName>
+      <recipientName>Fortenberry, Jeff</recipientName>
+      <amount>1000</amount>
+      <date>8/1/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Conaway For Congress</payeeName>
+      <recipientName>Conaway, Michael</recipientName>
+      <amount>-1000</amount>
+      <date>8/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Martha Roby For Congress</payeeName>
+      <recipientName>Roby, Martha</recipientName>
+      <amount>-1000</amount>
+      <date>8/5/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Andy Barr For Congress, Inc.</payeeName>
+      <recipientName>Barr, Andy</recipientName>
+      <amount>1000</amount>
+      <date>8/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>George Holding For Congress Inc.</payeeName>
+      <recipientName>Holding, George</recipientName>
+      <amount>2000</amount>
+      <date>8/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Marcia Fudge For Congress</payeeName>
+      <recipientName>Fudge, Marcia</recipientName>
+      <amount>1000</amount>
+      <date>8/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Stand With Sanchez</payeeName>
+      <recipientName>Sanchez, Linda</recipientName>
+      <amount>2500</amount>
+      <date>8/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Friends Of Mark Warner</payeeName>
+      <recipientName>Warner, Mark</recipientName>
+      <amount>2500</amount>
+      <date>8/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Mike Thompson For Congress</payeeName>
+      <recipientName>Thompson, Mike</recipientName>
+      <amount>2000</amount>
+      <date>8/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Cleaver For Congress</payeeName>
+      <recipientName>Cleaver, Emanuel</recipientName>
+      <amount>2000</amount>
+      <date>8/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Nancy Pelosi For Congress</payeeName>
+      <recipientName>Pelosi, Nancy</recipientName>
+      <amount>2500</amount>
+      <date>8/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Pascrell For Congress</payeeName>
+      <recipientName>Pascrell, William</recipientName>
+      <amount>1000</amount>
+      <date>8/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Friends For Gregory Meeks</payeeName>
+      <recipientName>Meeks, Gregory</recipientName>
+      <amount>1000</amount>
+      <date>8/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Ted Budd For Congress</payeeName>
+      <recipientName>Budd, Theodore</recipientName>
+      <amount>2000</amount>
+      <date>8/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Lahood For Congress</payeeName>
+      <recipientName>LaHood, Darin</recipientName>
+      <amount>2500</amount>
+      <date>8/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Anthony Gonzalez For Congress</payeeName>
+      <recipientName>Gonzalez, Anthony</recipientName>
+      <amount>2000</amount>
+      <date>8/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Moolenaar For Congress</payeeName>
+      <recipientName>Moolenaar, John</recipientName>
+      <amount>1000</amount>
+      <date>8/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Ron Estes For Congress</payeeName>
+      <recipientName>Estes, Ron</recipientName>
+      <amount>2000</amount>
+      <date>8/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Wenstrup For Congress</payeeName>
+      <recipientName>Wenstrup, Brad</recipientName>
+      <amount>2500</amount>
+      <date>8/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Fred Keller For Congress</payeeName>
+      <recipientName>Keller, Fred</recipientName>
+      <amount>1000</amount>
+      <date>8/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Friends Of Glenn Thompson</payeeName>
+      <recipientName>Thompson, Glenn</recipientName>
+      <amount>1000</amount>
+      <date>8/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Austin Scott For Congress Inc</payeeName>
+      <recipientName>Scott, Austin</recipientName>
+      <amount>-2000</amount>
+      <date>8/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Austin Scott For Congress Inc</payeeName>
+      <recipientName>Scott, Austin</recipientName>
+      <amount>2000</amount>
+      <date>8/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Hudson For Congress</payeeName>
+      <recipientName>Hudson, Richard</recipientName>
+      <amount>1000</amount>
+      <date>8/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Pallone For Congress</payeeName>
+      <recipientName>Pallone, Frank</recipientName>
+      <amount>1000</amount>
+      <date>8/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Kenny Marchant For Congress</payeeName>
+      <recipientName>Marchant, Kenny</recipientName>
+      <amount>-2000</amount>
+      <date>8/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Friends Of Jim Clyburn</payeeName>
+      <recipientName>Clyburn, James</recipientName>
+      <amount>1000</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Bill Foster For Congress</payeeName>
+      <recipientName>Foster, Bill</recipientName>
+      <amount>2500</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Brian Higgins For Congress</payeeName>
+      <recipientName>Higgins, Brian</recipientName>
+      <amount>2500</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Guthrie For Congress</payeeName>
+      <recipientName>Guthrie, Brett</recipientName>
+      <amount>1000</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Blaine For Congress</payeeName>
+      <recipientName>Luetkemeyer, Blaine</recipientName>
+      <amount>1000</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Huizenga For Congress</payeeName>
+      <recipientName>Huizenga, Bill</recipientName>
+      <amount>1000</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Friends Of Denver Riggleman, Inc.</payeeName>
+      <recipientName>Riggleman, Denver</recipientName>
+      <amount>2000</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Anthony Brown For Congress</payeeName>
+      <recipientName>Brown, Anthony</recipientName>
+      <amount>1000</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Ben Sasse For U.S. Senate, Inc.</payeeName>
+      <recipientName>Sasse, Ben</recipientName>
+      <amount>1000</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Loudermilk For Congress</payeeName>
+      <recipientName>Loudermilk, Barry</recipientName>
+      <amount>2500</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Kustoff For Congress</payeeName>
+      <recipientName>Kustoff, David</recipientName>
+      <amount>1000</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Duffy For Wisconsin</payeeName>
+      <recipientName>Duffy, Sean</recipientName>
+      <amount>-2000</amount>
+      <date>10/1/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Huizenga For Congress</payeeName>
+      <recipientName>Huizenga, Bill</recipientName>
+      <amount>2000</amount>
+      <date>10/8/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Denny Heck For Congress</payeeName>
+      <recipientName>Heck, Denny</recipientName>
+      <amount>1000</amount>
+      <date>10/8/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Charlie Crist For Congress</payeeName>
+      <recipientName>Crist, Charles</recipientName>
+      <amount>1000</amount>
+      <date>10/8/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Mooney For Congress</payeeName>
+      <recipientName>Mooney, Alex</recipientName>
+      <amount>1000</amount>
+      <date>10/8/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Zeldin For Congress</payeeName>
+      <recipientName>Zeldin, Lee</recipientName>
+      <amount>500</amount>
+      <date>10/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Loudermilk For Congress</payeeName>
+      <recipientName>Loudermilk, Barry</recipientName>
+      <amount>1000</amount>
+      <date>10/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Emmer For Congress</payeeName>
+      <recipientName>Emmer, Tom</recipientName>
+      <amount>500</amount>
+      <date>10/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Ben Sasse For U.S. Senate, Inc.</payeeName>
+      <recipientName>Sasse, Ben</recipientName>
+      <amount>2500</amount>
+      <date>10/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Josh Gottheimer For Congress</payeeName>
+      <recipientName>Gottheimer, Joshua</recipientName>
+      <amount>1000</amount>
+      <date>10/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Schneider For Congress</payeeName>
+      <recipientName>Schneider, Bradley</recipientName>
+      <amount>1000</amount>
+      <date>10/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Texans For Jodey Arrington</payeeName>
+      <recipientName>Arrington, Jodey</recipientName>
+      <amount>1000</amount>
+      <date>10/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Delbene For Congress</payeeName>
+      <recipientName>DelBene, Suzan</recipientName>
+      <amount>1000</amount>
+      <date>10/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Vicente Gonzalez For Congress</payeeName>
+      <recipientName>Gonzalez, Vicente</recipientName>
+      <amount>-5000</amount>
+      <date>10/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Vicente Gonzalez For Congress</payeeName>
+      <recipientName>Gonzalez, Vicente</recipientName>
+      <amount>1000</amount>
+      <date>10/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Friends Of Ben Mcadams</payeeName>
+      <recipientName>McAdams, Ben</recipientName>
+      <amount>1000</amount>
+      <date>10/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Katie Porter For Congress</payeeName>
+      <recipientName>Porter, Katherine</recipientName>
+      <amount>1000</amount>
+      <date>10/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Casten For Congress</payeeName>
+      <recipientName>Casten, Sean</recipientName>
+      <amount>1000</amount>
+      <date>10/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Cindy Axne For Congress</payeeName>
+      <recipientName>Axne, Cindy</recipientName>
+      <amount>1000</amount>
+      <date>10/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Judy Chu For Congress</payeeName>
+      <recipientName>Chu, Judy</recipientName>
+      <amount>1750</amount>
+      <date>10/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Himes For Congress</payeeName>
+      <recipientName>Himes, Jim</recipientName>
+      <amount>2500</amount>
+      <date>10/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Friends Of Bill Posey</payeeName>
+      <recipientName>Posey, Bill</recipientName>
+      <amount>1000</amount>
+      <date>10/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Perlmutter For Congress</payeeName>
+      <recipientName>Perlmutter, Edwin</recipientName>
+      <amount>1000</amount>
+      <date>10/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Sylvia Garcia For Congress</payeeName>
+      <recipientName>Garcia, Sylvia</recipientName>
+      <amount>1000</amount>
+      <date>10/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Mooney For Congress</payeeName>
+      <recipientName>Mooney, Alex</recipientName>
+      <amount>1000</amount>
+      <date>10/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Zeldin For Congress</payeeName>
+      <recipientName>Zeldin, Lee</recipientName>
+      <amount>1000</amount>
+      <date>11/1/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Emmer For Congress</payeeName>
+      <recipientName>Emmer, Tom</recipientName>
+      <amount>2500</amount>
+      <date>11/1/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Texans For Jodey Arrington</payeeName>
+      <recipientName>Arrington, Jodey</recipientName>
+      <amount>1000</amount>
+      <date>11/1/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Ron Estes For Congress</payeeName>
+      <recipientName>Estes, Ron</recipientName>
+      <amount>2000</amount>
+      <date>11/1/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Ron Estes For Congress</payeeName>
+      <recipientName>Estes, Ron</recipientName>
+      <amount>3000</amount>
+      <date>11/1/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>John Rose For Tennessee</payeeName>
+      <recipientName>Rose, John</recipientName>
+      <amount>1000</amount>
+      <date>11/1/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Martin Heinrich For Senate</payeeName>
+      <recipientName>Heinrich, Martin</recipientName>
+      <amount>2000</amount>
+      <date>11/1/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Walberg For Congress</payeeName>
+      <recipientName>Walberg, Tim</recipientName>
+      <amount>1000</amount>
+      <date>11/1/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Mike Crapo For Us Senate</payeeName>
+      <recipientName>Crapo, Mike</recipientName>
+      <amount>2500</amount>
+      <date>11/1/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Clay Jr. For Congress</payeeName>
+      <recipientName>Clay, William</recipientName>
+      <amount>1000</amount>
+      <date>11/1/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Portman For Senate Committee</payeeName>
+      <recipientName>Portman, Rob</recipientName>
+      <amount>1000</amount>
+      <date>11/1/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Mike Kelly For Congress</payeeName>
+      <recipientName>Kelly, Mike</recipientName>
+      <amount>2500</amount>
+      <date>11/1/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Judy Chu For Congress</payeeName>
+      <recipientName>Chu, Judy</recipientName>
+      <amount>-1000</amount>
+      <date>11/7/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Tim Scott For Senate</payeeName>
+      <recipientName>Scott, Tim</recipientName>
+      <amount>1500</amount>
+      <date>11/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Tim Scott For Senate</payeeName>
+      <recipientName>Scott, Tim</recipientName>
+      <amount>1000</amount>
+      <date>11/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Kind For Congress Committee</payeeName>
+      <recipientName>Kind, Ron</recipientName>
+      <amount>1500</amount>
+      <date>11/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Moore For Congress</payeeName>
+      <recipientName>Moore, Gwendolynne</recipientName>
+      <amount>1000</amount>
+      <date>11/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>John Rose For Tennessee</payeeName>
+      <recipientName>Rose, John</recipientName>
+      <amount>1000</amount>
+      <date>11/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Friends Of Ben Mcadams</payeeName>
+      <recipientName>McAdams, Ben</recipientName>
+      <amount>1500</amount>
+      <date>11/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Friends Of Ben Mcadams</payeeName>
+      <recipientName>McAdams, Ben</recipientName>
+      <amount>1000</amount>
+      <date>11/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Delbene For Congress</payeeName>
+      <recipientName>DelBene, Suzan</recipientName>
+      <amount>1500</amount>
+      <date>11/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Delbene For Congress</payeeName>
+      <recipientName>DelBene, Suzan</recipientName>
+      <amount>1000</amount>
+      <date>11/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Jason Smith For Congress</payeeName>
+      <recipientName>Smith, Jason</recipientName>
+      <amount>1000</amount>
+      <date>11/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Thom Tillis Committee</payeeName>
+      <recipientName>Tillis, Thom</recipientName>
+      <amount>1000</amount>
+      <date>11/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Wenstrup For Congress</payeeName>
+      <recipientName>Wenstrup, Brad</recipientName>
+      <amount>2500</amount>
+      <date>11/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Moore For Congress</payeeName>
+      <recipientName>Moore, Gwendolynne</recipientName>
+      <amount>2500</amount>
+      <date>11/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Kind For Congress Committee</payeeName>
+      <recipientName>Kind, Ron</recipientName>
+      <amount>1000</amount>
+      <date>12/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Jeff Fortenberry For United States Congress</payeeName>
+      <recipientName>Fortenberry, Jeff</recipientName>
+      <amount>0</amount>
+      <date>12/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Tom Reed For Congress</payeeName>
+      <recipientName>Reed, Tom</recipientName>
+      <amount>2500</amount>
+      <date>12/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Friends Of Bill Posey</payeeName>
+      <recipientName>Posey, Bill</recipientName>
+      <amount>1000</amount>
+      <date>12/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Blaine For Congress</payeeName>
+      <recipientName>Luetkemeyer, Blaine</recipientName>
+      <amount>2000</amount>
+      <date>12/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Mikie Sherrill For Congress</payeeName>
+      <recipientName>Sherrill, Rebecca</recipientName>
+      <amount>1000</amount>
+      <date>12/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Cindy Axne For Congress</payeeName>
+      <recipientName>Axne, Cindy</recipientName>
+      <amount>500</amount>
+      <date>12/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Cindy Axne For Congress</payeeName>
+      <recipientName>Axne, Cindy</recipientName>
+      <amount>2000</amount>
+      <date>12/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Lance Gooden For Congress Committee</payeeName>
+      <recipientName>Gooden, Lance</recipientName>
+      <amount>2000</amount>
+      <date>12/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Suozzi For Congress</payeeName>
+      <recipientName>Suozzi, Thomas</recipientName>
+      <amount>1000</amount>
+      <date>12/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>NAIFAPAC</contributorName>
+      <payeeName>Jeff Fortenberry For United States Congress</payeeName>
+      <recipientName>Fortenberry, Jeff</recipientName>
+      <amount>0</amount>
+      <date>12/31/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>Leonardo DRS, Inc.</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>Jason Rinsky</contactName>
+  <senateRegID>58157</senateRegID>
+  <houseRegID>35269</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/27/2020 11:42:50 AM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>
+  </noContributions>
+  <pacs>
+    <pac>
+      <name>Leonardo DRS PAC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Leonardo DRS PAC</contributorName>
+      <payeeName>Kay Granger Campaign Fund</payeeName>
+      <recipientName>Kay Granger</recipientName>
+      <amount>2000.00</amount>
+      <date>07/01/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Leonardo DRS PAC</contributorName>
+      <payeeName>Josh Hawley for Senate</payeeName>
+      <recipientName>Joshua Hawley</recipientName>
+      <amount>2000.00</amount>
+      <date>07/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Leonardo DRS PAC</contributorName>
+      <payeeName>Fund for A Conservative Future</payeeName>
+      <recipientName>James Inhofe</recipientName>
+      <amount>2500.00</amount>
+      <date>07/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Leonardo DRS PAC</contributorName>
+      <payeeName>Courtney for Congress</payeeName>
+      <recipientName>Joseph Courtney</recipientName>
+      <amount>2000.00</amount>
+      <date>07/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Leonardo DRS PAC</contributorName>
+      <payeeName>Friends of Glenn Thompson</payeeName>
+      <recipientName>Glenn Thompson</recipientName>
+      <amount>1000.00</amount>
+      <date>07/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Leonardo DRS PAC</contributorName>
+      <payeeName>Vicky Hartzler for Congress</payeeName>
+      <recipientName>Vicky Hartzler</recipientName>
+      <amount>1000.00</amount>
+      <date>07/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Leonardo DRS PAC</contributorName>
+      <payeeName>Langevin for Congress</payeeName>
+      <recipientName>James Langevin</recipientName>
+      <amount>1000.00</amount>
+      <date>07/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Leonardo DRS PAC</contributorName>
+      <payeeName>Narragansett Bay PAC</payeeName>
+      <recipientName>Jack Reed</recipientName>
+      <amount>5000.00</amount>
+      <date>07/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Leonardo DRS PAC</contributorName>
+      <payeeName>Tammy Baldwin for Senate</payeeName>
+      <recipientName>Tammy Baldwin</recipientName>
+      <amount>1000.00</amount>
+      <date>08/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Leonardo DRS PAC</contributorName>
+      <payeeName>Dutch Ruppersberger for Congress</payeeName>
+      <recipientName>Dutch Ruppersberger</recipientName>
+      <amount>2500.00</amount>
+      <date>08/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Leonardo DRS PAC</contributorName>
+      <payeeName>America's First PAC</payeeName>
+      <recipientName>Rob Wittman</recipientName>
+      <amount>2500.00</amount>
+      <date>09/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Leonardo DRS PAC</contributorName>
+      <payeeName>Castor for Congress</payeeName>
+      <recipientName>Kathy Castor</recipientName>
+      <amount>1000.00</amount>
+      <date>09/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Leonardo DRS PAC</contributorName>
+      <payeeName>Friends of Raja for Congress</payeeName>
+      <recipientName>S. Raja Krishnamoorthi</recipientName>
+      <amount>1000.00</amount>
+      <date>09/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Leonardo DRS PAC</contributorName>
+      <payeeName>Team Graham Inc.</payeeName>
+      <recipientName>Lindsey Graham</recipientName>
+      <amount>1000.00</amount>
+      <date>09/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Leonardo DRS PAC</contributorName>
+      <payeeName>Schatz for Senate</payeeName>
+      <recipientName>Brian Schatz</recipientName>
+      <amount>1000.00</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Leonardo DRS PAC</contributorName>
+      <payeeName>Adam Smith for Congress Committee</payeeName>
+      <recipientName>Adam Smith</recipientName>
+      <amount>2500.00</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Leonardo DRS PAC</contributorName>
+      <payeeName>Reed Committee</payeeName>
+      <recipientName>Jack Reed</recipientName>
+      <amount>3500.00</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Leonardo DRS PAC</contributorName>
+      <payeeName>Reed Committee</payeeName>
+      <recipientName>Jack Reed</recipientName>
+      <amount>1500.00</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Leonardo DRS PAC</contributorName>
+      <payeeName>Michael Waltz for Congress</payeeName>
+      <recipientName>Michael Waltz</recipientName>
+      <amount>2000.00</amount>
+      <date>09/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Leonardo DRS PAC</contributorName>
+      <payeeName>Wexton For Congress</payeeName>
+      <recipientName>Jennifer Wexton</recipientName>
+      <amount>1000.00</amount>
+      <date>09/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Leonardo DRS PAC</contributorName>
+      <payeeName>American Defense and Military PAC (ADAM PAC)</payeeName>
+      <recipientName>Adam Smith</recipientName>
+      <amount>2500.00</amount>
+      <date>09/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Leonardo DRS PAC</contributorName>
+      <payeeName>Zeldin for Congress</payeeName>
+      <recipientName>Lee Zeldin</recipientName>
+      <amount>1000.00</amount>
+      <date>09/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Leonardo DRS PAC</contributorName>
+      <payeeName>John Carter for Congress</payeeName>
+      <recipientName>John Carter</recipientName>
+      <amount>1000.00</amount>
+      <date>09/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Leonardo DRS PAC</contributorName>
+      <payeeName>Pete Aguilar for Congress</payeeName>
+      <recipientName>Pete Aguilar</recipientName>
+      <amount>1000.00</amount>
+      <date>09/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Leonardo DRS PAC</contributorName>
+      <payeeName>Dr. John Joyce for Congress</payeeName>
+      <recipientName>John Joyce</recipientName>
+      <amount>1500.00</amount>
+      <date>10/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Leonardo DRS PAC</contributorName>
+      <payeeName>Vicky Hartzler for Congress</payeeName>
+      <recipientName>Vicky Hartzler</recipientName>
+      <amount>1000.00</amount>
+      <date>10/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Leonardo DRS PAC</contributorName>
+      <payeeName>Blaine for Congress</payeeName>
+      <recipientName>Blaine Luetkemeyer</recipientName>
+      <amount>1000.00</amount>
+      <date>11/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Leonardo DRS PAC</contributorName>
+      <payeeName>Scott Peters for Congress</payeeName>
+      <recipientName>Scott Peters</recipientName>
+      <amount>2500.00</amount>
+      <date>11/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Leonardo DRS PAC</contributorName>
+      <payeeName>Friends of Jahana Hayes</payeeName>
+      <recipientName>Jahana Hayes</recipientName>
+      <amount>1000.00</amount>
+      <date>11/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Leonardo DRS PAC</contributorName>
+      <payeeName>Dr. John Joyce for Congress</payeeName>
+      <recipientName>John Joyce</recipientName>
+      <amount>1000.00</amount>
+      <date>11/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Leonardo DRS PAC</contributorName>
+      <payeeName>Bergman For Congress</payeeName>
+      <recipientName>John Bergman</recipientName>
+      <amount>1000.00</amount>
+      <date>11/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Leonardo DRS PAC</contributorName>
+      <payeeName>Pete Aguilar for Congress</payeeName>
+      <recipientName>Pete Aguilar</recipientName>
+      <amount>1000.00</amount>
+      <date>11/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Leonardo DRS PAC</contributorName>
+      <payeeName>Vicky Hartzler for Congress</payeeName>
+      <recipientName>Vicky Hartzler</recipientName>
+      <amount>1000.00</amount>
+      <date>12/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Leonardo DRS PAC</contributorName>
+      <payeeName>Adam Smith for Congress Committee</payeeName>
+      <recipientName>Adam Smith</recipientName>
+      <amount>2500.00</amount>
+      <date>12/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Leonardo DRS PAC</contributorName>
+      <payeeName>Courtney for Congress</payeeName>
+      <recipientName>Joseph Courtney</recipientName>
+      <amount>2500.00</amount>
+      <date>12/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Leonardo DRS PAC</contributorName>
+      <payeeName>Thom Tillis Committee</payeeName>
+      <recipientName>Thom Tillis</recipientName>
+      <amount>2000.00</amount>
+      <date>12/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Leonardo DRS PAC</contributorName>
+      <payeeName>Thom Tillis Committee</payeeName>
+      <recipientName>Thom Tillis</recipientName>
+      <amount>500.00</amount>
+      <date>12/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Leonardo DRS PAC</contributorName>
+      <payeeName>Jason Smith for Congress</payeeName>
+      <recipientName>Jason Smith</recipientName>
+      <amount>1000.00</amount>
+      <date>12/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Leonardo DRS PAC</contributorName>
+      <payeeName>Texans for Henry Cuellar</payeeName>
+      <recipientName>Henry Cuellar</recipientName>
+      <amount>1000.00</amount>
+      <date>12/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Leonardo DRS PAC</contributorName>
+      <payeeName>Fund for A Conservative Future</payeeName>
+      <recipientName>James Inhofe</recipientName>
+      <amount>2500.00</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Leonardo DRS PAC</contributorName>
+      <payeeName>Friends of Bill Posey</payeeName>
+      <recipientName>Bill Posey</recipientName>
+      <amount>1000.00</amount>
+      <date>12/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Leonardo DRS PAC</contributorName>
+      <payeeName>Guy for Congress</payeeName>
+      <recipientName>Guy Reschenthaler</recipientName>
+      <amount>1000.00</amount>
+      <date>12/23/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

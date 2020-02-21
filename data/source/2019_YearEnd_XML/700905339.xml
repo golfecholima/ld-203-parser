@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>MARSHALL &amp; POPP, LLC</organizationName>
+  <lobbyistPrefix>Mrs.</lobbyistPrefix>
+  <lobbyistFirstName>Monica</lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>Popp</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>401105121</senateRegID>
+  <houseRegID>44305</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/13/2020 2:32:32 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Texas State Republican Party</payeeName>
+      <recipientName>Various Texas State Republican Candidates</recipientName>
+      <amount>750.00</amount>
+      <date>7/1/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Kentucky State Republican Party</payeeName>
+      <recipientName>Various Kentucky State Republican Candidates</recipientName>
+      <amount>2500.00</amount>
+      <date>7/1/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Thom Tillis</payeeName>
+      <recipientName>U.S. Senator Thom Tillis</recipientName>
+      <amount>1000.00</amount>
+      <date>8/1/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Walden for Congress</payeeName>
+      <recipientName>U.S. Representative Greg Walden</recipientName>
+      <amount>1000.00</amount>
+      <date>8/19/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Ernst for Senate</payeeName>
+      <recipientName>U.S. Senator Joni Ernst</recipientName>
+      <amount>1500.00</amount>
+      <date>9/1/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Deb Fischer for U.S. Senate</payeeName>
+      <recipientName>U.S. Senator Deb Fischer</recipientName>
+      <amount>250.00</amount>
+      <date>9/29/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Scalise for Congress</payeeName>
+      <recipientName>U.S. Representative Steve Scalise</recipientName>
+      <amount>1000.00</amount>
+      <date>9/29/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Amanda Makki for Congress</payeeName>
+      <recipientName>Amanda Makki, Candidate for U.S. House of Representatives</recipientName>
+      <amount>250.00</amount>
+      <date>9/29/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Perdue for U.S. Senate</payeeName>
+      <recipientName>U.S. Senator David Perdue</recipientName>
+      <amount>500.00</amount>
+      <date>10/1/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Cory Gardner for Senate</payeeName>
+      <recipientName>U.S. Senator Cory Gardner</recipientName>
+      <amount>250.00</amount>
+      <date>10/1/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>National Republican Senatorial Committee
+Article One Program</payeeName>
+      <recipientName>Various Republican Senatorial Candidates</recipientName>
+      <amount>1875.00</amount>
+      <date>10/11/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>National Republican Senatorial Committee 
+Article One Program</payeeName>
+      <recipientName>Various Republican Senatorial Candidates</recipientName>
+      <amount>1875.00</amount>
+      <date>10/11/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>T. Scott for South Carolina</payeeName>
+      <recipientName>U.S. Senator Tim Scott</recipientName>
+      <amount>500.00</amount>
+      <date>10/15/19</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

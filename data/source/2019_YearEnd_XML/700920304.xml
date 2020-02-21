@@ -1,0 +1,953 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>International Union of Painters and Allied Trades</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>Britton Loftin</contactName>
+  <senateRegID>19833</senateRegID>
+  <houseRegID>31994</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/24/2020 2:54:58 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>International Union of Painters And Allied Trades Political Action Together Political Committee</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>New Jersey Democratic State Committee</payeeName>
+      <recipientName>New Jersey Democratic State Committee (Federal Acct.)</recipientName>
+      <amount>5000.00</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>Schupp For Congress</payeeName>
+      <recipientName>Schupp, Jill</recipientName>
+      <amount>5000</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>Pascrell For Congress</payeeName>
+      <recipientName>Pascrell, William</recipientName>
+      <amount>2200</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>8th Congressional District Democratic Party</payeeName>
+      <recipientName>8th Congressional District Democratic Party (Federal Acct.)</recipientName>
+      <amount>280.00</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>Amy for America</payeeName>
+      <recipientName>Klobuchar, Amy</recipientName>
+      <amount>500</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>McDermott For Congress</payeeName>
+      <recipientName>McDermott, Thomas</recipientName>
+      <amount>2800.00</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>Clarke For Congress</payeeName>
+      <recipientName>Clarke, Yvette</recipientName>
+      <amount>5000</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>Pete Stauber For Congress</payeeName>
+      <recipientName>Stauber, Peter</recipientName>
+      <amount>2500</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>Pete Stauber For Congress</payeeName>
+      <recipientName>Stauber, Peter</recipientName>
+      <amount>2500</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>Friends Of Dan Feehan</payeeName>
+      <recipientName>Feehan, Daniel</recipientName>
+      <amount>5000</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>Brenda Lawrence For Congress</payeeName>
+      <recipientName>Lawrence, Brenda</recipientName>
+      <amount>2500</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>Emmer For Congress</payeeName>
+      <recipientName>Emmer, Tom</recipientName>
+      <amount>2500</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>Friends Of Dan Kildee</payeeName>
+      <recipientName>Kildee, Daniel</recipientName>
+      <amount>5000</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>Val Demings For Congress</payeeName>
+      <recipientName>Demings, Val</recipientName>
+      <amount>2500</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>Lois Frankel For Congress</payeeName>
+      <recipientName>Frankel, Lois</recipientName>
+      <amount>2500</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>Horsford For Congress</payeeName>
+      <recipientName>Horsford, Steven</recipientName>
+      <amount>2500</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>Cicilline Committee</payeeName>
+      <recipientName>Cicilline, David</recipientName>
+      <amount>1500</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>Langevin For Congress</payeeName>
+      <recipientName>Langevin, Jim</recipientName>
+      <amount>1500</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>Hoyer For Congress</payeeName>
+      <recipientName>Hoyer, Steny</recipientName>
+      <amount>500</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>Hoyer For Congress</payeeName>
+      <recipientName>Hoyer, Steny</recipientName>
+      <amount>1500</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>Blue Majority PAC</payeeName>
+      <recipientName>Pocan, Mark</recipientName>
+      <amount>5000.00</amount>
+      <date>12/9/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>Elissa Slotkin For Congress</payeeName>
+      <recipientName>Slotkin, Elissa</recipientName>
+      <amount>5000</amount>
+      <date>11/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>Paul Tonko For Congress</payeeName>
+      <recipientName>Tonko, Paul</recipientName>
+      <amount>2500</amount>
+      <date>11/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>Moore For Congress</payeeName>
+      <recipientName>Moore, Gwen</recipientName>
+      <amount>2500</amount>
+      <date>11/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>DCCC</payeeName>
+      <recipientName>DCCC</recipientName>
+      <amount>15000</amount>
+      <date>11/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>Reclaim America PAC</payeeName>
+      <recipientName>Rubio, Marco</recipientName>
+      <amount>1000</amount>
+      <date>11/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>True North PAC</payeeName>
+      <recipientName>Sullivan, Daniel</recipientName>
+      <amount>2500</amount>
+      <date>11/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>Dr John Joyce For Congress</payeeName>
+      <recipientName>Joyce, John</recipientName>
+      <amount>1000</amount>
+      <date>11/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>Balderson For Congress</payeeName>
+      <recipientName>Balderson, William</recipientName>
+      <amount>1000</amount>
+      <date>11/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>Meuser For Congress</payeeName>
+      <recipientName>Meuser, Daniel</recipientName>
+      <amount>1000</amount>
+      <date>11/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>Burchett For Congress</payeeName>
+      <recipientName>Burchett, Tim</recipientName>
+      <amount>1000</amount>
+      <date>11/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>Mast For Congress</payeeName>
+      <recipientName>Mast, Brian</recipientName>
+      <amount>2000</amount>
+      <date>11/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>Don Bacon For Congress</payeeName>
+      <recipientName>Bacon, Donald</recipientName>
+      <amount>2000</amount>
+      <date>11/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>Stivers For Congress</payeeName>
+      <recipientName>Stivers, Steve</recipientName>
+      <amount>1000</amount>
+      <date>11/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>Wicker For Senate</payeeName>
+      <recipientName>Wicker, Roger</recipientName>
+      <amount>2500</amount>
+      <date>11/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>Zeldin For Congress</payeeName>
+      <recipientName>Zeldin, Lee</recipientName>
+      <amount>2000</amount>
+      <date>11/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>Steve Daines For Montana</payeeName>
+      <recipientName>Daines, Steve</recipientName>
+      <amount>2000</amount>
+      <date>11/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>Rodney For Congress</payeeName>
+      <recipientName>Davis, Rodney</recipientName>
+      <amount>2500</amount>
+      <date>11/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>Friends Of Dave Joyce</payeeName>
+      <recipientName>Joyce, David</recipientName>
+      <amount>5000</amount>
+      <date>11/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>Frederica S. Wilson For Congress</payeeName>
+      <recipientName>Wilson, Frederica</recipientName>
+      <amount>2500</amount>
+      <date>11/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>Price For Congress</payeeName>
+      <recipientName>Price, David</recipientName>
+      <amount>2500</amount>
+      <date>11/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>Friends Of Chris Smith</payeeName>
+      <recipientName>Smith, Christopher</recipientName>
+      <amount>1000</amount>
+      <date>11/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>Friends Of Jim Clyburn</payeeName>
+      <recipientName>Clyburn, James</recipientName>
+      <amount>5000</amount>
+      <date>11/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>Pete King For Congress Committee</payeeName>
+      <recipientName>King, Pete</recipientName>
+      <amount>2500</amount>
+      <date>11/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>A Whole Lot Of People For Grijalva Congressional C</payeeName>
+      <recipientName>Grijalva, Raul</recipientName>
+      <amount>2500</amount>
+      <date>11/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>DeFazio For Congress</payeeName>
+      <recipientName>DeFazio, Peter</recipientName>
+      <amount>2500.00</amount>
+      <date>11/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>North Dakota Democratic Nonpartisan League Party</payeeName>
+      <recipientName>North Dakota Democratic Nonpartisan League Party (Federal Acct.)</recipientName>
+      <amount>2500.00</amount>
+      <date>10/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>Committee for a Livable Future</payeeName>
+      <recipientName>Blumenauer, Earl</recipientName>
+      <amount>5000.00</amount>
+      <date>10/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>CHC BOLD PAC</payeeName>
+      <recipientName>Members of the Congressional Hispanic Caucus</recipientName>
+      <amount>5000.00</amount>
+      <date>10/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>Alyse For Alaska</payeeName>
+      <recipientName>Galvin, Alyse</recipientName>
+      <amount>5000</amount>
+      <date>10/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>Alyse For Alaska</payeeName>
+      <recipientName>Galvin, Alyse</recipientName>
+      <amount>5000</amount>
+      <date>10/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>Denny Heck For Congress</payeeName>
+      <recipientName>Heck, Dennis</recipientName>
+      <amount>5000</amount>
+      <date>10/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>Denny Heck For Congress</payeeName>
+      <recipientName>Heck, Dennis</recipientName>
+      <amount>5000</amount>
+      <date>10/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>Blumenauer For Congress</payeeName>
+      <recipientName>Blumenauer, Earl</recipientName>
+      <amount>5000</amount>
+      <date>10/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>Wisconsin Assembly Democratic Campaign Committee</payeeName>
+      <recipientName>Wisconsin Assembly Democratic Campaign Committee (Federal Acct.)</recipientName>
+      <amount>1000.00</amount>
+      <date>10/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>Nate McMurray For Congress</payeeName>
+      <recipientName>McMurray, Nathan</recipientName>
+      <amount>5000</amount>
+      <date>10/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>Tina Smith For Minnesota</payeeName>
+      <recipientName>Smith, Tina</recipientName>
+      <amount>5000</amount>
+      <date>10/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>Angie Craig For Congress</payeeName>
+      <recipientName>Craig, Angela</recipientName>
+      <amount>5000</amount>
+      <date>10/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>Sires For Congress</payeeName>
+      <recipientName>Sires, Albio</recipientName>
+      <amount>2500</amount>
+      <date>10/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>Maloney For Congress</payeeName>
+      <recipientName>Maloney, Carolyn</recipientName>
+      <amount>5000</amount>
+      <date>10/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>Cal For Nc (Us Senate)</payeeName>
+      <recipientName>Cunningham, Cal</recipientName>
+      <amount>2500</amount>
+      <date>10/7/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>Dr. Al Gross For U.S. Senate</payeeName>
+      <recipientName>Gross, Al</recipientName>
+      <amount>5000</amount>
+      <date>10/7/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>Dr. Al Gross For U.S. Senate</payeeName>
+      <recipientName>Gross, Al</recipientName>
+      <amount>5000</amount>
+      <date>10/7/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>Haley Stevens For Congress</payeeName>
+      <recipientName>Stevens, Haley</recipientName>
+      <amount>5000</amount>
+      <date>10/7/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>Darren Soto For Congress</payeeName>
+      <recipientName>Soto, Darren</recipientName>
+      <amount>5000</amount>
+      <date>10/7/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>People's Voice PAC</payeeName>
+      <recipientName>Baldwin, Tammy</recipientName>
+      <amount>5000</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>Nate McMurray For Congress</payeeName>
+      <recipientName>McMurray, Nathan</recipientName>
+      <amount>5000</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>Friends Of Clint Koble</payeeName>
+      <recipientName>Koble, Clint</recipientName>
+      <amount>2500</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>Susie Lee For Congress</payeeName>
+      <recipientName>Lee, Susie</recipientName>
+      <amount>5000</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>Titus For Congress</payeeName>
+      <recipientName>Titus, Dina</recipientName>
+      <amount>2500</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>McNerney For Congress</payeeName>
+      <recipientName>McNerney, Gerald</recipientName>
+      <amount>5000</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>Lofgren For Congress</payeeName>
+      <recipientName>Lofgren, Zoe</recipientName>
+      <amount>5000</amount>
+      <date>9/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>Alaska Democratic Party - Federal Account</payeeName>
+      <recipientName>Alaska Democratic Party - Federal Account</recipientName>
+      <amount>5000</amount>
+      <date>9/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>Adam Smith For Congress Committee</payeeName>
+      <recipientName>Smith, Adam</recipientName>
+      <amount>5000</amount>
+      <date>9/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>Adam Smith For Congress Committee</payeeName>
+      <recipientName>Smith, Adam</recipientName>
+      <amount>5000</amount>
+      <date>9/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>Elect Carolyn Long</payeeName>
+      <recipientName>Long, Carolyn</recipientName>
+      <amount>5000</amount>
+      <date>9/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>Elect Carolyn Long</payeeName>
+      <recipientName>Long, Carolyn</recipientName>
+      <amount>5000</amount>
+      <date>9/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>Van Drew For Congress</payeeName>
+      <recipientName>Van Drew, Jeff</recipientName>
+      <amount>2500</amount>
+      <date>9/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>Van Drew For Congress</payeeName>
+      <recipientName>Van Drew, Jeff</recipientName>
+      <amount>2500</amount>
+      <date>9/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>Andy Kim For Congress</payeeName>
+      <recipientName>Kim, Andy</recipientName>
+      <amount>2500</amount>
+      <date>9/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>Andy Kim For Congress</payeeName>
+      <recipientName>Kim, Andy</recipientName>
+      <amount>2500</amount>
+      <date>9/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>Charlie Crist For Congress</payeeName>
+      <recipientName>Crist, Charlie</recipientName>
+      <amount>2500</amount>
+      <date>9/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>Donald Norcross For Congress</payeeName>
+      <recipientName>Norcross, Donald</recipientName>
+      <amount>5000</amount>
+      <date>9/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>Pallone For Congress</payeeName>
+      <recipientName>Pallone, Frank</recipientName>
+      <amount>5000</amount>
+      <date>9/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>People For Patty Murray</payeeName>
+      <recipientName>Murray, Patty</recipientName>
+      <amount>3000</amount>
+      <date>9/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>Pascrell For Congress</payeeName>
+      <recipientName>Pascrell, William</recipientName>
+      <amount>2800</amount>
+      <date>9/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>New Hampshire Democratic Party - Federal Account</payeeName>
+      <recipientName>New Hampshire Democratic Party - Federal Account</recipientName>
+      <amount>5000</amount>
+      <date>8/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>DSCC</payeeName>
+      <recipientName>DSCC</recipientName>
+      <amount>15000</amount>
+      <date>8/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>Congressional Progressive Caucus PAC</payeeName>
+      <recipientName>Members of the Congressional Progressive Caucus PAC</recipientName>
+      <amount>5000.00</amount>
+      <date>8/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>Congressional Black Caucus PAC</payeeName>
+      <recipientName>Members of the Congressional Black Caucus</recipientName>
+      <amount>5000.00</amount>
+      <date>8/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>Chris Pappas For Congress</payeeName>
+      <recipientName>Pappas, Chris</recipientName>
+      <amount>2500</amount>
+      <date>8/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>Lori Trahan For Congress Committee</payeeName>
+      <recipientName>Trahan, Lori</recipientName>
+      <amount>2500</amount>
+      <date>8/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>Committee To Elect Jared Golden</payeeName>
+      <recipientName>Golden, Jared</recipientName>
+      <amount>2500</amount>
+      <date>8/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>Kuster For Congress, Inc</payeeName>
+      <recipientName>Kuster, Ann</recipientName>
+      <amount>2500</amount>
+      <date>8/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>Lindsey Boylan For Congress</payeeName>
+      <recipientName>Boylan, Lindsey</recipientName>
+      <amount>2500</amount>
+      <date>8/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>Wexton For Congress</payeeName>
+      <recipientName>Wexton, Jennifer</recipientName>
+      <amount>1000</amount>
+      <date>8/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>Friends Of Raja For Congress</payeeName>
+      <recipientName>Krishnamoorthi, S. Raja</recipientName>
+      <amount>5000</amount>
+      <date>8/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>Connolly For Congress</payeeName>
+      <recipientName>Connolly, Gerald</recipientName>
+      <amount>1000</amount>
+      <date>8/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>Langevin For Congress</payeeName>
+      <recipientName>Langevin, Jim</recipientName>
+      <amount>1000</amount>
+      <date>8/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>Cummings For Congress Campaign Committee</payeeName>
+      <recipientName>Cummings, Elijah</recipientName>
+      <amount>1000</amount>
+      <date>8/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>Schiff For Congress</payeeName>
+      <recipientName>Schiff, Adam</recipientName>
+      <amount>3000</amount>
+      <date>8/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>Anthony Brown For Congress</payeeName>
+      <recipientName>Brown, Anthony</recipientName>
+      <amount>2000</amount>
+      <date>7/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>Johnson For Congress</payeeName>
+      <recipientName>Johnson, Bill</recipientName>
+      <amount>2000</amount>
+      <date>7/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>Darren Soto For Congress</payeeName>
+      <recipientName>Soto, Darren</recipientName>
+      <amount>5000</amount>
+      <date>7/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>Debbie Wasserman Schultz For Congress</payeeName>
+      <recipientName>Wasserman-Schultz, Debbie</recipientName>
+      <amount>2500</amount>
+      <date>7/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>Delbene For Congress</payeeName>
+      <recipientName>Delbene, Suzan</recipientName>
+      <amount>5000</amount>
+      <date>7/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>Delbene For Congress</payeeName>
+      <recipientName>Delbene, Suzan</recipientName>
+      <amount>5000</amount>
+      <date>7/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>Sean Patrick Maloney For Congress</payeeName>
+      <recipientName>Maloney, Sean</recipientName>
+      <amount>2000</amount>
+      <date>7/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>Jeffries For Congress</payeeName>
+      <recipientName>Jeffries, Hakeem</recipientName>
+      <amount>2500</amount>
+      <date>7/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>Bonamici For Congress</payeeName>
+      <recipientName>Bonamici, Suzanne</recipientName>
+      <amount>5000</amount>
+      <date>7/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>Bonamici For Congress</payeeName>
+      <recipientName>Bonamici, Suzanne</recipientName>
+      <amount>5000</amount>
+      <date>7/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>Lisa Blunt Rochester For Congress</payeeName>
+      <recipientName>Blunt Rochester, Lisa</recipientName>
+      <amount>2500</amount>
+      <date>7/1/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>Lois Frankel For Congress</payeeName>
+      <recipientName>Frankel, Lois</recipientName>
+      <amount>2500</amount>
+      <date>7/1/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>International Union of Painters And Allied Trades Political Action Together Political Committee</contributorName>
+      <payeeName>LaHood for Congress</payeeName>
+      <recipientName>LaHood, Darin
+</recipientName>
+      <amount>2500.00</amount>
+      <date>11/04/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

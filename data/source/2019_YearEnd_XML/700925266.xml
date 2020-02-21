@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>Giffords</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>Peter Ambler</contactName>
+  <senateRegID>401103180</senateRegID>
+  <houseRegID>42479</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/30/2020 1:53:26 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>
+  </noContributions>
+  <pacs>
+    <pac>
+      <name>Giffords PAC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Giffords PAC</contributorName>
+      <payeeName>Friends of Lucy McBath</payeeName>
+      <recipientName>Rep. Lucy McBath</recipientName>
+      <amount>1000</amount>
+      <date>9/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Giffords PAC</contributorName>
+      <payeeName>Harley Rouda for Congress</payeeName>
+      <recipientName>Rep. Harley Rouda</recipientName>
+      <amount>1000</amount>
+      <date>9/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Giffords PAC</contributorName>
+      <payeeName>Katie Porter for Congress</payeeName>
+      <recipientName>Rep. Katie Porter</recipientName>
+      <amount>1000</amount>
+      <date>9/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Giffords PAC</contributorName>
+      <payeeName>Mike Levin for Congress</payeeName>
+      <recipientName>Rep. Mike Levin</recipientName>
+      <amount>1000</amount>
+      <date>9/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Giffords PAC</contributorName>
+      <payeeName>Pramila for Congress</payeeName>
+      <recipientName>Rep. Pramila Jayapal</recipientName>
+      <amount>1000</amount>
+      <date>9/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Giffords PAC</contributorName>
+      <payeeName>Doug Jones for Senate</payeeName>
+      <recipientName>Sen. Doug Jones</recipientName>
+      <amount>5000</amount>
+      <date>9/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Giffords PAC</contributorName>
+      <payeeName>Stanton for Congress</payeeName>
+      <recipientName>Rep. Greg Stanton</recipientName>
+      <amount>1000</amount>
+      <date>9/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Giffords PAC</contributorName>
+      <payeeName>Susan Wild for Congress</payeeName>
+      <recipientName>Rep. Susan Wild</recipientName>
+      <amount>1000</amount>
+      <date>10/7/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Giffords PAC</contributorName>
+      <payeeName>Nevadans for Steven Horsford</payeeName>
+      <recipientName>Rep. Steven Horsford</recipientName>
+      <amount>1000</amount>
+      <date>10/7/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Giffords PAC</contributorName>
+      <payeeName>Joe Neguse for Congress</payeeName>
+      <recipientName>Rep. Joe Neguse</recipientName>
+      <amount>1000</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Giffords PAC</contributorName>
+      <payeeName>Cisneros for Congress</payeeName>
+      <recipientName>Rep. Gil Cisneros</recipientName>
+      <amount>1000</amount>
+      <date>11/7/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Giffords PAC</contributorName>
+      <payeeName>Karen Bass for Congress</payeeName>
+      <recipientName>Rep. Karen Bass</recipientName>
+      <amount>1000</amount>
+      <date>11/7/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Giffords PAC</contributorName>
+      <payeeName>Serving Our Country PAC</payeeName>
+      <recipientName>Rep. Salud Carbajal</recipientName>
+      <amount>1000</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Giffords PAC</contributorName>
+      <payeeName>Norma Torres for Congress</payeeName>
+      <recipientName>Rep. Norma Torres</recipientName>
+      <amount>1000</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Giffords PAC</contributorName>
+      <payeeName>Ted Deutch for Congress Committee</payeeName>
+      <recipientName>Rep. Ted Deutch</recipientName>
+      <amount>1000</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Giffords PAC</contributorName>
+      <payeeName>Spanberger for Congress</payeeName>
+      <recipientName>Rep. Abigail Spanberger</recipientName>
+      <amount>1000</amount>
+      <date>12/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Giffords PAC</contributorName>
+      <payeeName>Friends of Jim Clyburn</payeeName>
+      <recipientName>Rep. Jim Clyburn</recipientName>
+      <amount>1000.00</amount>
+      <date>12/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Giffords PAC</contributorName>
+      <payeeName>Haley Stevens for Congress</payeeName>
+      <recipientName>Rep. Haley Stevens</recipientName>
+      <amount>1000</amount>
+      <date>12/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Giffords PAC</contributorName>
+      <payeeName>People for Ben</payeeName>
+      <recipientName>Rep. Ben Ray Lujan</recipientName>
+      <amount>2500</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Giffords PAC</contributorName>
+      <payeeName>Josh Harder for Congress</payeeName>
+      <recipientName>Rep. Josh Harder</recipientName>
+      <amount>1000</amount>
+      <date>12/19/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

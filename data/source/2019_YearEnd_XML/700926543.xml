@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>Broadcom Inc.</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <zipext>
+  </zipext>
+  <contactName>John Emling</contactName>
+  <senateRegID>54803</senateRegID>
+  <houseRegID>35096</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/30/2020 10:02:50 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>Broadcom Inc. Political Action Committee</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Broadcom Inc. Political Action Committee</contributorName>
+      <payeeName>Bluegrass Committee</payeeName>
+      <recipientName>Mitch McConnell</recipientName>
+      <amount>5000.00</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Broadcom Inc. Political Action Committee</contributorName>
+      <payeeName>Cornyn for Senate</payeeName>
+      <recipientName>John Cornyn</recipientName>
+      <amount>2800.00</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Broadcom Inc. Political Action Committee</contributorName>
+      <payeeName>Casey for Senate</payeeName>
+      <recipientName>Bob Casey</recipientName>
+      <amount>2800.00</amount>
+      <date>10/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Broadcom Inc. Political Action Committee</contributorName>
+      <payeeName>Eshoo for Congress</payeeName>
+      <recipientName>Anna Eshoo</recipientName>
+      <amount>1000.00</amount>
+      <date>10/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Broadcom Inc. Political Action Committee</contributorName>
+      <payeeName>McHenry for Congress</payeeName>
+      <recipientName>Patrick McHenry</recipientName>
+      <amount>2800.00</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Broadcom Inc. Political Action Committee</contributorName>
+      <payeeName>Nunes for Congress</payeeName>
+      <recipientName>Devin Nunes</recipientName>
+      <amount>1000.00</amount>
+      <date>10/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Broadcom Inc. Political Action Committee</contributorName>
+      <payeeName>Pallone for Congress</payeeName>
+      <recipientName>Frank Pallone</recipientName>
+      <amount>2800.00</amount>
+      <date>10/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Broadcom Inc. Political Action Committee</contributorName>
+      <payeeName>Tillis for Senate</payeeName>
+      <recipientName>Thom Tillis</recipientName>
+      <amount>2800.00</amount>
+      <date>9/24/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

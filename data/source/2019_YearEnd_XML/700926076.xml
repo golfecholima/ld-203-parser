@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>Arent Fox LLP</organizationName>
+  <lobbyistPrefix>Mr.</lobbyistPrefix>
+  <lobbyistFirstName>Norman</lobbyistFirstName>
+  <lobbyistMiddleName>Frederick</lobbyistMiddleName>
+  <lobbyistLastName>Lent</lobbyistLastName>
+  <lobbyistSuffix>III</lobbyistSuffix>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>4208</senateRegID>
+  <houseRegID>30861</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/30/2020 4:54:12 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>Arent Fox LLP PAC (AFPac)</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Arent Fox LLP PAC (AFPac)</contributorName>
+      <payeeName>CITIZENS FOR BOYLE</payeeName>
+      <recipientName>Rep. Brendan Boyle</recipientName>
+      <amount>500.00</amount>
+      <date>07/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Arent Fox LLP PAC (AFPac)</contributorName>
+      <payeeName>DEVIN NUNES CAMPAIGN COMMITTEE</payeeName>
+      <recipientName>Rep. Devin Nunes</recipientName>
+      <amount>1000.00</amount>
+      <date>07/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Arent Fox LLP PAC (AFPac)</contributorName>
+      <payeeName>DR. RAUL RUIZ FOR CONGRESS</payeeName>
+      <recipientName>Rep. Raul Ruiz</recipientName>
+      <amount>500.00</amount>
+      <date>07/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Arent Fox LLP PAC (AFPac)</contributorName>
+      <payeeName>ENGEL FOR CONGRESS</payeeName>
+      <recipientName>Rep. Eliot Engel</recipientName>
+      <amount>500.00</amount>
+      <date>07/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Arent Fox LLP PAC (AFPac)</contributorName>
+      <payeeName>JEFF FORTENBERRY FOR UNITED STATES CONGRESS</payeeName>
+      <recipientName>Rep. Jeff Fortenberry</recipientName>
+      <amount>500.00</amount>
+      <date>07/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Arent Fox LLP PAC (AFPac)</contributorName>
+      <payeeName>MAGGIE FOR NH</payeeName>
+      <recipientName>Sen. Maggie Hassan</recipientName>
+      <amount>1000.00</amount>
+      <date>07/02/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Arent Fox LLP PAC (AFPac)</contributorName>
+      <payeeName>MCHENRY FOR CONGRESS</payeeName>
+      <recipientName>Rep. Patrick McHenry</recipientName>
+      <amount>1000.00</amount>
+      <date>07/02/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Arent Fox LLP PAC (AFPac)</contributorName>
+      <payeeName>MOOLENAAR FOR CONGRESS</payeeName>
+      <recipientName>Rep. John Moolenaar</recipientName>
+      <amount>500.00</amount>
+      <date>07/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Arent Fox LLP PAC (AFPac)</contributorName>
+      <payeeName>PALLONE FOR CONGRESS</payeeName>
+      <recipientName>Rep. Frank Pallone </recipientName>
+      <amount>500.00</amount>
+      <date>07/03/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Arent Fox LLP PAC (AFPac)</contributorName>
+      <payeeName>FRIENDS FOR GREGORY MEEKS</payeeName>
+      <recipientName>Rep. Gregory Meeks</recipientName>
+      <amount>1000.00</amount>
+      <date>08/01/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Arent Fox LLP PAC (AFPac)</contributorName>
+      <payeeName>FRIENDS OF MARK WARNER</payeeName>
+      <recipientName>Sen. Mark Warner</recipientName>
+      <amount>1000.00</amount>
+      <date>08/01/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Arent Fox LLP PAC (AFPac)</contributorName>
+      <payeeName>BACKPAC</payeeName>
+      <recipientName>Rep. Don Beyer</recipientName>
+      <amount>1000.00</amount>
+      <date>09/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Arent Fox LLP PAC (AFPac)</contributorName>
+      <payeeName>DURBIN VICTORY FUND</payeeName>
+      <recipientName>Sen. Richard Durbin</recipientName>
+      <amount>1000.00</amount>
+      <date>09/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Arent Fox LLP PAC (AFPac)</contributorName>
+      <payeeName>DWIGHT EVANS FOR CONGRESS</payeeName>
+      <recipientName>Rep. Dwight Evans</recipientName>
+      <amount>1000.00</amount>
+      <date>09/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Arent Fox LLP PAC (AFPac)</contributorName>
+      <payeeName>FRIENDS OF GREGORY MEEKS</payeeName>
+      <recipientName>Rep. Gregory Meeks</recipientName>
+      <amount>1000.00</amount>
+      <date>09/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Arent Fox LLP PAC (AFPac)</contributorName>
+      <payeeName>FRIENDS OF JOHN THUNE</payeeName>
+      <recipientName>Sen. John Thune</recipientName>
+      <amount>1000.00</amount>
+      <date>09/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Arent Fox LLP PAC (AFPac)</contributorName>
+      <payeeName>MIKE GALLAGHER FOR WISCONSIN</payeeName>
+      <recipientName>Rep. Mike Gallagher</recipientName>
+      <amount>1000.00</amount>
+      <date>09/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Arent Fox LLP PAC (AFPac)</contributorName>
+      <payeeName>PETERS FOR MICHIGAN</payeeName>
+      <recipientName>Sen. Gary Peters</recipientName>
+      <amount>1000.00</amount>
+      <date>09/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Arent Fox LLP PAC (AFPac)</contributorName>
+      <payeeName>PORTMAN FOR SENATE COMMITTEE</payeeName>
+      <recipientName>Sen. Rob Portman</recipientName>
+      <amount>1000.00</amount>
+      <date>09/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Arent Fox LLP PAC (AFPac)</contributorName>
+      <payeeName>RICHARD E NEAL FOR CONGRESS COMMITTEE</payeeName>
+      <recipientName>Rep. Richard Neal</recipientName>
+      <amount>2000.00</amount>
+      <date>09/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Arent Fox LLP PAC (AFPac)</contributorName>
+      <payeeName>STAND WITH SANCHEZ</payeeName>
+      <recipientName>Rep. Linda Sanchez</recipientName>
+      <amount>500.00</amount>
+      <date>09/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Arent Fox LLP PAC (AFPac)</contributorName>
+      <payeeName>SUOZZI FOR CONGRESS</payeeName>
+      <recipientName>Rep. Tom Suozzi</recipientName>
+      <amount>1000.00</amount>
+      <date>09/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Arent Fox LLP PAC (AFPac)</contributorName>
+      <payeeName>SUOZZI FOR CONGRESS</payeeName>
+      <recipientName>Rep. Tom Suozzi</recipientName>
+      <amount>1000.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Arent Fox LLP PAC (AFPac)</contributorName>
+      <payeeName>CHRISSY HOULAHAN FOR CONGRESS</payeeName>
+      <recipientName>Rep. Chrissy Houlahan</recipientName>
+      <amount>500.00</amount>
+      <date>10/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Arent Fox LLP PAC (AFPac)</contributorName>
+      <payeeName>KATKO FOR CONGRESS</payeeName>
+      <recipientName>Rep. John Katko</recipientName>
+      <amount>500.00</amount>
+      <date>10/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Arent Fox LLP PAC (AFPac)</contributorName>
+      <payeeName>LANGEVIN FOR CONGRESS</payeeName>
+      <recipientName>Rep. James Langevin</recipientName>
+      <amount>500.00</amount>
+      <date>10/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Arent Fox LLP PAC (AFPac)</contributorName>
+      <payeeName>PETE KING FOR CONGRESS COMMITTEE</payeeName>
+      <recipientName>Rep. Pete King</recipientName>
+      <amount>500.00</amount>
+      <date>10/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Arent Fox LLP PAC (AFPac)</contributorName>
+      <payeeName>VAN HOLLEN FOR SENATE</payeeName>
+      <recipientName>Sen. Chris Van Hollen</recipientName>
+      <amount>2500.00</amount>
+      <date>10/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Arent Fox LLP PAC (AFPac)</contributorName>
+      <payeeName>CITIZENS FOR ELEANOR HOLMES NORTON</payeeName>
+      <recipientName>Rep. Eleanor Holmes Norton</recipientName>
+      <amount>1000.00</amount>
+      <date>11/08/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Arent Fox LLP PAC (AFPac)</contributorName>
+      <payeeName>JONI FOR IOWA</payeeName>
+      <recipientName>Sen. Joni Ernst</recipientName>
+      <amount>1000.00</amount>
+      <date>11/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Arent Fox LLP PAC (AFPac)</contributorName>
+      <payeeName>KATHLEEN RICE FOR CONGRESS</payeeName>
+      <recipientName>Rep. Kathleen Rice</recipientName>
+      <amount>500.00</amount>
+      <date>11/08/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Arent Fox LLP PAC (AFPac)</contributorName>
+      <payeeName>PALLONE FOR CONGRESS</payeeName>
+      <recipientName>Rep. Frank Pallone </recipientName>
+      <amount>1000.00</amount>
+      <date>11/08/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Arent Fox LLP PAC (AFPac)</contributorName>
+      <payeeName>SHAHEEN FOR SENATE</payeeName>
+      <recipientName>Sen. Jeanne Shaheen</recipientName>
+      <amount>2000.00</amount>
+      <date>11/08/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Arent Fox LLP PAC (AFPac)</contributorName>
+      <payeeName>TOGETHER EVERYONE REALIZES REAL IMPACT AKA TERRI PAC</payeeName>
+      <recipientName>Rep. Terri Sewell</recipientName>
+      <amount>500.00</amount>
+      <date>11/08/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Arent Fox LLP PAC (AFPac)</contributorName>
+      <payeeName>ZELDIN FOR CONGRESS</payeeName>
+      <recipientName>Rep. Lee Zeldin</recipientName>
+      <amount>500.00</amount>
+      <date>11/08/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Arent Fox LLP PAC (AFPac)</contributorName>
+      <payeeName>FRIENDS OF JIM INHOFE</payeeName>
+      <recipientName>Sen. James Inhofe
+
+</recipientName>
+      <amount>1000.00</amount>
+      <date>12/02/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Arent Fox LLP PAC (AFPac)</contributorName>
+      <payeeName>MCSALLY FOR SENATE INC</payeeName>
+      <recipientName>Sen. Martha McSally</recipientName>
+      <amount>500.00</amount>
+      <date>12/02/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Arent Fox LLP PAC (AFPac)</contributorName>
+      <payeeName>ROUNDS FOR SENATE</payeeName>
+      <recipientName>Sen. Mike Rounds</recipientName>
+      <amount>1000.00</amount>
+      <date>12/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Richard Neal for Congress</payeeName>
+      <recipientName>Rep. Richard Neal</recipientName>
+      <amount>500.00</amount>
+      <date>08/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Richard Neal for Congress</payeeName>
+      <recipientName>Rep. Richard Neal</recipientName>
+      <amount>250.00</amount>
+      <date>08/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Bacon Victory Committee/Bacon for Congress</payeeName>
+      <recipientName>Rep. Don Bacon</recipientName>
+      <amount>500.00</amount>
+      <date>08/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Buckeye Liberty PAC</payeeName>
+      <recipientName>Rep. Jim Jordan</recipientName>
+      <amount>500.00</amount>
+      <date>09/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Tom Suozzi for Congress</payeeName>
+      <recipientName>Rep. Tom Suozzi</recipientName>
+      <amount>250.00</amount>
+      <date>10/01/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Friends of Jim Hagedorn</payeeName>
+      <recipientName>Rep. Jim Hagedorn</recipientName>
+      <amount>250.00</amount>
+      <date>10/01/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Upton for All of Us</payeeName>
+      <recipientName>Rep. Fred Upton</recipientName>
+      <amount>1000.00</amount>
+      <date>10/02/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Chris Van Hollen for Senate</payeeName>
+      <recipientName>Sen. Chris Van Hollen</recipientName>
+      <amount>250.00</amount>
+      <date>10/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>The Markey Committee</payeeName>
+      <recipientName>Sen. Ed Markey</recipientName>
+      <amount>500.00</amount>
+      <date>10/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>John Katko for Congress</payeeName>
+      <recipientName>Rep. John Katko</recipientName>
+      <amount>250.00</amount>
+      <date>10/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Pete King for Congress</payeeName>
+      <recipientName>Rep. Pete King</recipientName>
+      <amount>500.00</amount>
+      <date>11/07/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Jeanne Shaheen for Senate</payeeName>
+      <recipientName>Sen. Jeanne Shaheen</recipientName>
+      <amount>250.00</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Kevin Brady for Congress</payeeName>
+      <recipientName>Rep. Kevin Brady</recipientName>
+      <amount>250.00</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Buddy Carter for Congress</payeeName>
+      <recipientName>Rep. Buddy Carter</recipientName>
+      <amount>500.00</amount>
+      <date>12/08/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Tom Reed for Congress</payeeName>
+      <recipientName>Rep. Tom Reed</recipientName>
+      <amount>500.00</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>John Katko for Congress</payeeName>
+      <recipientName>Rep. John Katko</recipientName>
+      <amount>500.00</amount>
+      <date>12/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Tom Suozzi for Congress</payeeName>
+      <recipientName>Rep. Tom Suozzi</recipientName>
+      <amount>500.00</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Yvette Clarke for Congress</payeeName>
+      <recipientName>Rep. Yvette Clarke</recipientName>
+      <amount>750.00</amount>
+      <date>12/23/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>CBS Corporation</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>JOHN S. ORLANDO</contactName>
+  <contactPhone>
+  </contactPhone>
+  <senateRegID>305076</senateRegID>
+  <houseRegID>38225</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>Debbie Dingell for Congress check issued on 10/11/2018 was voided on 12/2/2019.
+Issa for Congress check issued on 12/3/2019 was voided on 12/11/2019.</comments>
+  <signedDate>1/14/2020 11:07:22 AM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>CBS Corporation PAC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CBS Corporation PAC</contributorName>
+      <payeeName>Durbin Victory Fund</payeeName>
+      <recipientName>Richard Durbin</recipientName>
+      <amount>1000.00</amount>
+      <date>07/08/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CBS Corporation PAC</contributorName>
+      <payeeName>Engel for Congress</payeeName>
+      <recipientName>Eliot Engel</recipientName>
+      <amount>2000.00</amount>
+      <date>07/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CBS Corporation PAC</contributorName>
+      <payeeName>Olson for Congress</payeeName>
+      <recipientName>Pete Olson</recipientName>
+      <amount>2000.00</amount>
+      <date>07/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CBS Corporation PAC</contributorName>
+      <payeeName>Richard E Neal for Congress Committee</payeeName>
+      <recipientName>Richard Neal</recipientName>
+      <amount>1500.00</amount>
+      <date>09/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CBS Corporation PAC</contributorName>
+      <payeeName>Ted Lieu for Congress</payeeName>
+      <recipientName>Ted Lieu</recipientName>
+      <amount>1000.00</amount>
+      <date>09/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CBS Corporation PAC</contributorName>
+      <payeeName>Armstrong for Congress</payeeName>
+      <recipientName>Kelly Armstrong</recipientName>
+      <amount>1000.00</amount>
+      <date>09/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CBS Corporation PAC</contributorName>
+      <payeeName>Pete Aguilar for Congress</payeeName>
+      <recipientName>Pete Aguilar</recipientName>
+      <amount>500.00</amount>
+      <date>09/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CBS Corporation PAC</contributorName>
+      <payeeName>Buckeye Victory Fund</payeeName>
+      <recipientName>Jim Jordan</recipientName>
+      <amount>1000.00</amount>
+      <date>09/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CBS Corporation PAC</contributorName>
+      <payeeName>Stabenow for U S Senate</payeeName>
+      <recipientName>Debbie Stabenow</recipientName>
+      <amount>1500.00</amount>
+      <date>09/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CBS Corporation PAC</contributorName>
+      <payeeName>RFWPAC</payeeName>
+      <recipientName>Roger Wicker</recipientName>
+      <amount>1000.00</amount>
+      <date>09/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CBS Corporation PAC</contributorName>
+      <payeeName>Debbie Wasserman Schultz for Congress</payeeName>
+      <recipientName>Debbie Wasserman Schultz</recipientName>
+      <amount>1000.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CBS Corporation PAC</contributorName>
+      <payeeName>Collins for Congress</payeeName>
+      <recipientName>Doug Collins</recipientName>
+      <amount>2500.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CBS Corporation PAC</contributorName>
+      <payeeName>Kurt Schrader for Congress</payeeName>
+      <recipientName>Kurt Schrader</recipientName>
+      <amount>2500.00</amount>
+      <date>10/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CBS Corporation PAC</contributorName>
+      <payeeName>Friends of Schumer</payeeName>
+      <recipientName>Charles Schumer</recipientName>
+      <amount>2500.00</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CBS Corporation PAC</contributorName>
+      <payeeName>Paul Tonko for Congress</payeeName>
+      <recipientName>Paul Tonko</recipientName>
+      <amount>1000.00</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CBS Corporation PAC</contributorName>
+      <payeeName>Moolenaar for Congress</payeeName>
+      <recipientName>John Moolenaar</recipientName>
+      <amount>500.00</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CBS Corporation PAC</contributorName>
+      <payeeName>Katko for Congress</payeeName>
+      <recipientName>John Katko</recipientName>
+      <amount>1000.00</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CBS Corporation PAC</contributorName>
+      <payeeName>Team Graham Inc.</payeeName>
+      <recipientName>Lindsey Graham</recipientName>
+      <amount>1500.00</amount>
+      <date>11/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CBS Corporation PAC</contributorName>
+      <payeeName>Team Graham Inc</payeeName>
+      <recipientName>Lindsey Graham</recipientName>
+      <amount>1000.00</amount>
+      <date>11/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CBS Corporation PAC</contributorName>
+      <payeeName>Billy Long for Congress</payeeName>
+      <recipientName>Billy Long</recipientName>
+      <amount>2000.00</amount>
+      <date>11/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CBS Corporation PAC</contributorName>
+      <payeeName>Billy Long for Congress</payeeName>
+      <recipientName>Billy Long</recipientName>
+      <amount>500.00</amount>
+      <date>11/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CBS Corporation PAC</contributorName>
+      <payeeName>Michael Burgess for Congress</payeeName>
+      <recipientName>Michael Burgess</recipientName>
+      <amount>1000.00</amount>
+      <date>11/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CBS Corporation PAC</contributorName>
+      <payeeName>Green Mountain PAC</payeeName>
+      <recipientName>Patrick Leahy</recipientName>
+      <amount>2500.00</amount>
+      <date>11/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CBS Corporation PAC</contributorName>
+      <payeeName>Wolverine PAC</payeeName>
+      <recipientName>Debbie Dingell</recipientName>
+      <amount>2500.00</amount>
+      <date>11/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CBS Corporation PAC</contributorName>
+      <payeeName>Friends of John Thune</payeeName>
+      <recipientName>John Thune</recipientName>
+      <amount>1000.00</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CBS Corporation PAC</contributorName>
+      <payeeName>Welch for Congress</payeeName>
+      <recipientName>Peter Welch</recipientName>
+      <amount>1000.00</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CBS Corporation PAC</contributorName>
+      <payeeName>Guthrie for Congress</payeeName>
+      <recipientName>Brett Guthrie</recipientName>
+      <amount>1000.00</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CBS Corporation PAC</contributorName>
+      <payeeName>Montanans for Tester</payeeName>
+      <recipientName>Jon Tester</recipientName>
+      <amount>1000.00</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CBS Corporation PAC</contributorName>
+      <payeeName>McConnell Senate Committee</payeeName>
+      <recipientName>Mitch McConnell</recipientName>
+      <amount>2000.00</amount>
+      <date>11/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CBS Corporation PAC</contributorName>
+      <payeeName>Hoyer for Congress</payeeName>
+      <recipientName>Steny Hoyer</recipientName>
+      <amount>2500.00</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CBS Corporation PAC</contributorName>
+      <payeeName>Scott Peters for Congress</payeeName>
+      <recipientName>Scott Peters</recipientName>
+      <amount>1000.00</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CBS Corporation PAC</contributorName>
+      <payeeName>Deb Fischer for US Senate Inc</payeeName>
+      <recipientName>Deb Fischer</recipientName>
+      <amount>1000.00</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CBS Corporation PAC</contributorName>
+      <payeeName>Mike Johnson for Louisiana</payeeName>
+      <recipientName>Mike Johnson</recipientName>
+      <amount>1500.00</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CBS Corporation PAC</contributorName>
+      <payeeName>Capito for West Virginia</payeeName>
+      <recipientName>Shelley Moore Capito</recipientName>
+      <amount>1000.00</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CBS Corporation PAC</contributorName>
+      <payeeName>Emmer for Congress</payeeName>
+      <recipientName>Tom Emmer</recipientName>
+      <amount>1000.00</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CBS Corporation PAC</contributorName>
+      <payeeName>Moran for Kansas</payeeName>
+      <recipientName>Jerry Moran</recipientName>
+      <amount>1000.00</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CBS Corporation PAC</contributorName>
+      <payeeName>Rick Scott for Florida</payeeName>
+      <recipientName>Rick Scott</recipientName>
+      <amount>1000.00</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CBS Corporation PAC</contributorName>
+      <payeeName>Darren Soto for Congress</payeeName>
+      <recipientName>Darren Soto</recipientName>
+      <amount>1000.00</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CBS Corporation PAC</contributorName>
+      <payeeName>Alaskans for Dan Sullivan</payeeName>
+      <recipientName>Dan Sullivan</recipientName>
+      <amount>1000.00</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CBS Corporation PAC</contributorName>
+      <payeeName>Marc Veasey Congressional Campaign Committee</payeeName>
+      <recipientName>Marc Veasey</recipientName>
+      <amount>1000.00</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CBS Corporation PAC</contributorName>
+      <payeeName>McCarthy Victory Fund</payeeName>
+      <recipientName>Kevin McCarthy</recipientName>
+      <amount>2000.00</amount>
+      <date>11/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CBS Corporation PAC</contributorName>
+      <payeeName>Mikie Sherrill for Congress</payeeName>
+      <recipientName>Mikie Sherrill</recipientName>
+      <amount>1000.00</amount>
+      <date>11/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CBS Corporation PAC</contributorName>
+      <payeeName>Debbie Dingell for Congress</payeeName>
+      <recipientName>Debbie Dingell</recipientName>
+      <amount>1000.00</amount>
+      <date>12/02/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CBS Corporation PAC</contributorName>
+      <payeeName>Issa for Congress</payeeName>
+      <recipientName>Darrell Issa</recipientName>
+      <amount>1000.00</amount>
+      <date>12/03/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CBS Corporation PAC</contributorName>
+      <payeeName>Darrell Issa for Congress</payeeName>
+      <recipientName>Darrell Issa</recipientName>
+      <amount>1000.00</amount>
+      <date>12/04/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CBS Corporation PAC</contributorName>
+      <payeeName>Issa for Congress</payeeName>
+      <recipientName>Darrell Issa</recipientName>
+      <amount>1000.00</amount>
+      <date>12/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>CBS Corporation PAC</contributorName>
+      <payeeName>Tom O'Halleran for Congress</payeeName>
+      <recipientName>Tom O'Halleran</recipientName>
+      <amount>1000.00</amount>
+      <date>12/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>Honorary Expenses</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Congressional Black Caucus Foundation Inc.</payeeName>
+      <recipientName>Members of the Congressional Black Caucus Foundation Inc.</recipientName>
+      <amount>10000.00</amount>
+      <date>7/29/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

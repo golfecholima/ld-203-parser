@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>Oath Inc. and Various Subsidiaries</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <zipext>
+  </zipext>
+  <contactName>April Boyd</contactName>
+  <senateRegID>49178</senateRegID>
+  <houseRegID>34581</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/30/2020 6:29:03 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>
+  </noContributions>
+  <pacs>
+    <pac>
+      <name>Verizon Media/Oath Inc. Political Action Committee (Verizon Media PAC)</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Media/Oath Inc. Political Action Committee (Verizon Media PAC)</contributorName>
+      <payeeName>Anna Eshoo For Congress</payeeName>
+      <recipientName>Rep. Anna G. Eshoo</recipientName>
+      <amount>1000</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Media/Oath Inc. Political Action Committee (Verizon Media PAC)</contributorName>
+      <payeeName>Armstrong For Congress</payeeName>
+      <recipientName>Rep. Kelly M. Armstrong</recipientName>
+      <amount>1000</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Media/Oath Inc. Political Action Committee (Verizon Media PAC)</contributorName>
+      <payeeName>Bucshon For Congress</payeeName>
+      <recipientName>Rep. Larry Dean Bucshon</recipientName>
+      <amount>1000</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Media/Oath Inc. Political Action Committee (Verizon Media PAC)</contributorName>
+      <payeeName>Clarke For Congress</payeeName>
+      <recipientName>Rep. Yvette Diana Clarke</recipientName>
+      <amount>1000</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Media/Oath Inc. Political Action Committee (Verizon Media PAC)</contributorName>
+      <payeeName>CMR Political Action Committee</payeeName>
+      <recipientName>Rep. Cathy McMorris Rodgers</recipientName>
+      <amount>1000</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Media/Oath Inc. Political Action Committee (Verizon Media PAC)</contributorName>
+      <payeeName>Collins For Congress</payeeName>
+      <recipientName>Rep. Douglas Allen Collins</recipientName>
+      <amount>1000</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Media/Oath Inc. Political Action Committee (Verizon Media PAC)</contributorName>
+      <payeeName>Free State PAC</payeeName>
+      <recipientName>Sen. Jerry W. Moran</recipientName>
+      <amount>1000</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Media/Oath Inc. Political Action Committee (Verizon Media PAC)</contributorName>
+      <payeeName>Friends Of Mazie Hirono</payeeName>
+      <recipientName>Sen. Mazie Keiko Hirono</recipientName>
+      <amount>2000</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Media/Oath Inc. Political Action Committee (Verizon Media PAC)</contributorName>
+      <payeeName>Gillibrand 2020</payeeName>
+      <recipientName>Sen. Kirsten Elizabeth Gillibrand</recipientName>
+      <amount>1000</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Media/Oath Inc. Political Action Committee (Verizon Media PAC)</contributorName>
+      <payeeName>Lead Encourage Elect PAC</payeeName>
+      <recipientName>Sen. Michael Shumway Lee</recipientName>
+      <amount>2000</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Media/Oath Inc. Political Action Committee (Verizon Media PAC)</contributorName>
+      <payeeName>Leadership For America Today Tomorrow And Always PAC</payeeName>
+      <recipientName>Rep. Robert E. Latta</recipientName>
+      <amount>1000</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Media/Oath Inc. Political Action Committee (Verizon Media PAC)</contributorName>
+      <payeeName>Lofgren For Congress</payeeName>
+      <recipientName>Rep. Zoe Lofgren</recipientName>
+      <amount>2000</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Media/Oath Inc. Political Action Committee (Verizon Media PAC)</contributorName>
+      <payeeName>McEachin For Congress</payeeName>
+      <recipientName>Rep. A. Donald McEachin</recipientName>
+      <amount>1000</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Media/Oath Inc. Political Action Committee (Verizon Media PAC)</contributorName>
+      <payeeName>McNerney For Congress</payeeName>
+      <recipientName>Rep. Gerald M. McNerney</recipientName>
+      <amount>1000</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Media/Oath Inc. Political Action Committee (Verizon Media PAC)</contributorName>
+      <payeeName>Oorah! Political Action Committee</payeeName>
+      <recipientName>Sen. Todd Christopher Young</recipientName>
+      <amount>1000</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Media/Oath Inc. Political Action Committee (Verizon Media PAC)</contributorName>
+      <payeeName>Ratcliffe For Congress</payeeName>
+      <recipientName>Rep. John Lee Ratcliffe</recipientName>
+      <amount>1000</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Media/Oath Inc. Political Action Committee (Verizon Media PAC)</contributorName>
+      <payeeName>Richmond For Congress</payeeName>
+      <recipientName>Rep. Cedric Levon Richmond</recipientName>
+      <amount>2000</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Media/Oath Inc. Political Action Committee (Verizon Media PAC)</contributorName>
+      <payeeName>Rosen For Nevada</payeeName>
+      <recipientName>Sen. Jacky Rosen</recipientName>
+      <amount>1000</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Media/Oath Inc. Political Action Committee (Verizon Media PAC)</contributorName>
+      <payeeName>Sinema For Arizona</payeeName>
+      <recipientName>Sen. Kyrsten Sinema</recipientName>
+      <amount>1000</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Media/Oath Inc. Political Action Committee (Verizon Media PAC)</contributorName>
+      <payeeName>Ted Lieu For Congress</payeeName>
+      <recipientName>Rep. Ted W. Lieu</recipientName>
+      <amount>1000</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Media/Oath Inc. Political Action Committee (Verizon Media PAC)</contributorName>
+      <payeeName>Wexton For Congress</payeeName>
+      <recipientName>Rep. Jennifer T. Wexton</recipientName>
+      <amount>1000</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Media/Oath Inc. Political Action Committee (Verizon Media PAC)</contributorName>
+      <payeeName>Anna Eshoo For Congress</payeeName>
+      <recipientName>Rep. Anna G. Eshoo</recipientName>
+      <amount>1000</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Media/Oath Inc. Political Action Committee (Verizon Media PAC)</contributorName>
+      <payeeName>Armstrong For Congress</payeeName>
+      <recipientName>Rep. Kelly M. Armstrong</recipientName>
+      <amount>1000</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Media/Oath Inc. Political Action Committee (Verizon Media PAC)</contributorName>
+      <payeeName>Bucshon For Congress</payeeName>
+      <recipientName>Rep. Larry Dean Bucshon</recipientName>
+      <amount>1000</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Media/Oath Inc. Political Action Committee (Verizon Media PAC)</contributorName>
+      <payeeName>Clarke For Congress</payeeName>
+      <recipientName>Rep. Yvette Diana Clarke</recipientName>
+      <amount>1000</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Media/Oath Inc. Political Action Committee (Verizon Media PAC)</contributorName>
+      <payeeName>CMR Political Action Committee</payeeName>
+      <recipientName>Rep. Cathy McMorris Rodgers</recipientName>
+      <amount>1000</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Media/Oath Inc. Political Action Committee (Verizon Media PAC)</contributorName>
+      <payeeName>Collins For Congress</payeeName>
+      <recipientName>Rep. Douglas Allen Collins</recipientName>
+      <amount>1000</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Media/Oath Inc. Political Action Committee (Verizon Media PAC)</contributorName>
+      <payeeName>Free State PAC</payeeName>
+      <recipientName>Sen. Jerry W. Moran</recipientName>
+      <amount>1000</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Media/Oath Inc. Political Action Committee (Verizon Media PAC)</contributorName>
+      <payeeName>Friends Of Mazie Hirono</payeeName>
+      <recipientName>Sen. Mazie Keiko Hirono</recipientName>
+      <amount>2000</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Media/Oath Inc. Political Action Committee (Verizon Media PAC)</contributorName>
+      <payeeName>Gillibrand 2020</payeeName>
+      <recipientName>Sen. Kirsten Elizabeth Gillibrand</recipientName>
+      <amount>1000</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Media/Oath Inc. Political Action Committee (Verizon Media PAC)</contributorName>
+      <payeeName>Lead Encourage Elect PAC</payeeName>
+      <recipientName>Sen. Michael Shumway Lee</recipientName>
+      <amount>2000</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Media/Oath Inc. Political Action Committee (Verizon Media PAC)</contributorName>
+      <payeeName>Leadership For America Today Tomorrow And Always PAC</payeeName>
+      <recipientName>Rep. Robert E. Latta</recipientName>
+      <amount>1000</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Media/Oath Inc. Political Action Committee (Verizon Media PAC)</contributorName>
+      <payeeName>Lofgren For Congress</payeeName>
+      <recipientName>Rep. Zoe Lofgren</recipientName>
+      <amount>2000</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Media/Oath Inc. Political Action Committee (Verizon Media PAC)</contributorName>
+      <payeeName>McEachin For Congress</payeeName>
+      <recipientName>Rep. A. Donald McEachin</recipientName>
+      <amount>1000</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Media/Oath Inc. Political Action Committee (Verizon Media PAC)</contributorName>
+      <payeeName>McNerney For Congress</payeeName>
+      <recipientName>Rep. Gerald M. McNerney</recipientName>
+      <amount>1000</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Media/Oath Inc. Political Action Committee (Verizon Media PAC)</contributorName>
+      <payeeName>Oorah! Political Action Committee</payeeName>
+      <recipientName>Sen. Todd Christopher Young</recipientName>
+      <amount>1000</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Media/Oath Inc. Political Action Committee (Verizon Media PAC)</contributorName>
+      <payeeName>Ratcliffe For Congress</payeeName>
+      <recipientName>Rep. John Lee Ratcliffe</recipientName>
+      <amount>1000</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Media/Oath Inc. Political Action Committee (Verizon Media PAC)</contributorName>
+      <payeeName>Richmond For Congress</payeeName>
+      <recipientName>Rep. Cedric Levon Richmond</recipientName>
+      <amount>2000</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Media/Oath Inc. Political Action Committee (Verizon Media PAC)</contributorName>
+      <payeeName>Rosen For Nevada</payeeName>
+      <recipientName>Sen. Jacky Rosen</recipientName>
+      <amount>1000</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Media/Oath Inc. Political Action Committee (Verizon Media PAC)</contributorName>
+      <payeeName>Sinema For Arizona</payeeName>
+      <recipientName>Sen. Kyrsten Sinema</recipientName>
+      <amount>1000</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Media/Oath Inc. Political Action Committee (Verizon Media PAC)</contributorName>
+      <payeeName>Ted Lieu For Congress</payeeName>
+      <recipientName>Rep. Ted W. Lieu</recipientName>
+      <amount>1000</amount>
+      <date>12/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Verizon Media/Oath Inc. Political Action Committee (Verizon Media PAC)</contributorName>
+      <payeeName>Wexton For Congress</payeeName>
+      <recipientName>Rep. Jennifer T. Wexton</recipientName>
+      <amount>1000</amount>
+      <date>12/20/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

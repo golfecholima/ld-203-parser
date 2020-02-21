@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>THE COOK GROUP INC.</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <zipext>
+  </zipext>
+  <contactName>Allison Giles</contactName>
+  <senateRegID>87654</senateRegID>
+  <houseRegID>36626</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/29/2020 12:18:47 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>Cook Group Inc PAC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cook Group Inc PAC</contributorName>
+      <payeeName>Shaheen for Senate</payeeName>
+      <recipientName>Sen. Jeanne Shaheen (D-NH)</recipientName>
+      <amount>1000.00</amount>
+      <date>09/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cook Group Inc PAC</contributorName>
+      <payeeName>Elect Jim Baird for Congress</payeeName>
+      <recipientName>Rep. Jim Baird (R-IN-4)</recipientName>
+      <amount>1000.00</amount>
+      <date>09/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cook Group Inc PAC</contributorName>
+      <payeeName>Cassidy for Senate</payeeName>
+      <recipientName>Sen. Bill Cassidy (R-LA)</recipientName>
+      <amount>1000.00</amount>
+      <date>10/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cook Group Inc PAC</contributorName>
+      <payeeName>Scott Peters for Congress</payeeName>
+      <recipientName>Rep. Scott Peters (D-CA-52)</recipientName>
+      <amount>1000.00</amount>
+      <date>10/28/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cook Group Inc PAC</contributorName>
+      <payeeName>Friends of Schumer</payeeName>
+      <recipientName>Sen. Chuck Schumer (D-NY)</recipientName>
+      <amount>1000.00</amount>
+      <date>11/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cook Group Inc PAC</contributorName>
+      <payeeName>Grassley Committee</payeeName>
+      <recipientName>Sen. Chuck Grassley (R-IA)</recipientName>
+      <amount>1000.00</amount>
+      <date>09/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cook Group Inc PAC</contributorName>
+      <payeeName>Steve Daines for Montana</payeeName>
+      <recipientName>Sen. Steve Daines (R-MT)</recipientName>
+      <amount>1000.00</amount>
+      <date>11/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cook Group Inc PAC</contributorName>
+      <payeeName>Craig for Congress</payeeName>
+      <recipientName>Rep. Angie Craig (D-MN-2)</recipientName>
+      <amount>1000.00</amount>
+      <date>11/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cook Group Inc PAC</contributorName>
+      <payeeName>Collins Victory Committee</payeeName>
+      <recipientName>Sen. Susan Collins (R-ME)</recipientName>
+      <amount>1000.00</amount>
+      <date>11/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cook Group Inc PAC</contributorName>
+      <payeeName>Anna Eshoo for Congress</payeeName>
+      <recipientName>Rep. Anna Eshoo (D-CA-18)</recipientName>
+      <amount>1000.00</amount>
+      <date>12/03/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cook Group Inc PAC</contributorName>
+      <payeeName>Virginia Foxx for Congress</payeeName>
+      <recipientName>Rep. Virginia Foxx (R-NC-5)</recipientName>
+      <amount>1000.00</amount>
+      <date>12/03/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cook Group Inc PAC</contributorName>
+      <payeeName>Elise for Congress</payeeName>
+      <recipientName>Rep. Elise Stefanik (R-NY-221)</recipientName>
+      <amount>1000.00</amount>
+      <date>12/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cook Group Inc PAC</contributorName>
+      <payeeName>Sinema for Arizona</payeeName>
+      <recipientName>Sen. Kyrsten Sinema (D-AZ)</recipientName>
+      <amount>1000.00</amount>
+      <date>12/10/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

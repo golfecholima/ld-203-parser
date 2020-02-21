@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>Ernst &amp; Young LLP (Washington Council Ernst &amp; Young)</organizationName>
+  <lobbyistPrefix>Mr.</lobbyistPrefix>
+  <lobbyistFirstName>DAVE</lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>KOSHGARIAN</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>57475</senateRegID>
+  <houseRegID>35185</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/30/2020 4:49:33 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>Sunrise</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Warren for President</payeeName>
+      <recipientName>Elizabeth Warren</recipientName>
+      <amount>100.00</amount>
+      <date>07/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Michael Bennet for President</payeeName>
+      <recipientName>Michael Bennet</recipientName>
+      <amount>50.00</amount>
+      <date>07/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Beto 4 President</payeeName>
+      <recipientName>Beto O'Rourke</recipientName>
+      <amount>50.00</amount>
+      <date>08/07/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>John Hickenlooper for US Senate</payeeName>
+      <recipientName>John Hickenlooper</recipientName>
+      <amount>50.00</amount>
+      <date>08/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Sara Gideon for Maine</payeeName>
+      <recipientName>Sara Gideon</recipientName>
+      <amount>25.00</amount>
+      <date>09/04/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Beto 4 America</payeeName>
+      <recipientName>Beto O'Rourke</recipientName>
+      <amount>50.00</amount>
+      <date>09/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Alexandria Ocasio-Cortez 2018</payeeName>
+      <recipientName>Alexandria Ocasio-Cortez</recipientName>
+      <amount>9.00</amount>
+      <date>09/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Marie Newman for Congress</payeeName>
+      <recipientName>Marie Newman</recipientName>
+      <amount>9.00</amount>
+      <date>09/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Warren for President</payeeName>
+      <recipientName>Elizabeth Warren</recipientName>
+      <amount>50.00</amount>
+      <date>09/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Democratic National Committee</payeeName>
+      <recipientName>DNC</recipientName>
+      <amount>50.00</amount>
+      <date>09/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Justice Democrats</payeeName>
+      <recipientName>Justice Democrats</recipientName>
+      <amount>27.00</amount>
+      <date>07/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Justice Democrats</payeeName>
+      <recipientName>Justice Democrats</recipientName>
+      <amount>9.00</amount>
+      <date>09/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>DelBene for Congress</payeeName>
+      <recipientName>Suzan DelBene</recipientName>
+      <amount>500.00</amount>
+      <date>10/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Alexandria Ocasio-Cortez 2018</payeeName>
+      <recipientName>Alexandria Ocasio-Cortez</recipientName>
+      <amount>27.00</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Alexandria Ocasio-Cortez 2018</payeeName>
+      <recipientName>Alexandria Ocasio-Cortez</recipientName>
+      <amount>50.00</amount>
+      <date>10/31/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Sara Gideon for Senate</payeeName>
+      <recipientName>Sara Gideon</recipientName>
+      <amount>25.00</amount>
+      <date>11/04/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Alexandria Ocasio-Cortez 2020</payeeName>
+      <recipientName>Alexandria Ocasio-Cortez</recipientName>
+      <amount>50.00</amount>
+      <date>11/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Sara Gideon for Senate</payeeName>
+      <recipientName>Sara Gideon</recipientName>
+      <amount>25.00</amount>
+      <date>12/04/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Cory Booker for President</payeeName>
+      <recipientName>Cory Booker</recipientName>
+      <amount>50.00</amount>
+      <date>12/04/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Alexandria Ocasio-Cortez 2020</payeeName>
+      <recipientName>Alexandria Ocasio-Cortez </recipientName>
+      <amount>50.00</amount>
+      <date>12/31/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

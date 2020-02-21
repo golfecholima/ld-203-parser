@@ -1,0 +1,600 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>Akin, Gump, Strauss, Hauer &amp; Feld</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>Brian Pomper</contactName>
+  <senateRegID>682</senateRegID>
+  <houseRegID>31784</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>After performing reasonable due diligence and to the best of my knowledge this is a complete and accurate report of contributions and Akin Gump Strauss Hauer &amp; Feld LLP is in compliance with the Standing Ruled of the House and Senate.</comments>
+  <signedDate>1/30/2020 2:20:20 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>
+  </noContributions>
+  <pacs>
+    <pac>
+      <name>AGSH&amp;F Civic Action Committee</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AGSH&amp;F Civic Action Committee</contributorName>
+      <payeeName>David Schweikert for Congress</payeeName>
+      <recipientName>David Schweikert</recipientName>
+      <amount>250</amount>
+      <date>7/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AGSH&amp;F Civic Action Committee</contributorName>
+      <payeeName>Dwight Evans for Congress</payeeName>
+      <recipientName>Dwight Evans</recipientName>
+      <amount>1875</amount>
+      <date>7/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AGSH&amp;F Civic Action Committee</contributorName>
+      <payeeName>Fletcher for Congress</payeeName>
+      <recipientName>Lizzie Fletcher</recipientName>
+      <amount>250</amount>
+      <date>7/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AGSH&amp;F Civic Action Committee</contributorName>
+      <payeeName>Friends of Dick Durbin</payeeName>
+      <recipientName>Dick Durbin</recipientName>
+      <amount>2000</amount>
+      <date>7/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AGSH&amp;F Civic Action Committee</contributorName>
+      <payeeName>Friends of Mark Warner</payeeName>
+      <recipientName>Mark Warner</recipientName>
+      <amount>750</amount>
+      <date>7/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AGSH&amp;F Civic Action Committee</contributorName>
+      <payeeName>John Larson for Congress</payeeName>
+      <recipientName>John Larson</recipientName>
+      <amount>750</amount>
+      <date>7/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AGSH&amp;F Civic Action Committee</contributorName>
+      <payeeName>Lucille Roybal-Allard for Congress</payeeName>
+      <recipientName>Lucille Roybal-Allard</recipientName>
+      <amount>750</amount>
+      <date>7/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AGSH&amp;F Civic Action Committee</contributorName>
+      <payeeName>Matsui for Congress</payeeName>
+      <recipientName>Doris Matsui</recipientName>
+      <amount>2000</amount>
+      <date>7/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AGSH&amp;F Civic Action Committee</contributorName>
+      <payeeName>Mike Thompson for Congress</payeeName>
+      <recipientName>Mike Thompson</recipientName>
+      <amount>1500</amount>
+      <date>7/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AGSH&amp;F Civic Action Committee</contributorName>
+      <payeeName>Simpson for Congress</payeeName>
+      <recipientName>Mike Simpson</recipientName>
+      <amount>750</amount>
+      <date>7/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AGSH&amp;F Civic Action Committee</contributorName>
+      <payeeName>Terri Sewell for Congress</payeeName>
+      <recipientName>Terri Sewell</recipientName>
+      <amount>750</amount>
+      <date>7/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AGSH&amp;F Civic Action Committee</contributorName>
+      <payeeName>Titus for Congress</payeeName>
+      <recipientName>Dina Titus</recipientName>
+      <amount>250</amount>
+      <date>7/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AGSH&amp;F Civic Action Committee</contributorName>
+      <payeeName>Walden for Congress</payeeName>
+      <recipientName>Greg Walden</recipientName>
+      <amount>750</amount>
+      <date>7/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AGSH&amp;F Civic Action Committee</contributorName>
+      <payeeName>Zeldin for Congress</payeeName>
+      <recipientName>Lee Zeldin</recipientName>
+      <amount>750</amount>
+      <date>7/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AGSH&amp;F Civic Action Committee</contributorName>
+      <payeeName>Friends of Roy Blunt</payeeName>
+      <recipientName>Roy Blunt</recipientName>
+      <amount>2500</amount>
+      <date>7/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AGSH&amp;F Civic Action Committee</contributorName>
+      <payeeName>Heartland Values PAC</payeeName>
+      <recipientName>John Thune</recipientName>
+      <amount>1500</amount>
+      <date>7/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AGSH&amp;F Civic Action Committee</contributorName>
+      <payeeName>Heartland Values PAC</payeeName>
+      <recipientName>John Thune</recipientName>
+      <amount>2500</amount>
+      <date>7/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AGSH&amp;F Civic Action Committee</contributorName>
+      <payeeName>LaHood for Congress</payeeName>
+      <recipientName>Ray LaHood</recipientName>
+      <amount>500</amount>
+      <date>7/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AGSH&amp;F Civic Action Committee</contributorName>
+      <payeeName>Angerholzer Bros Consulting LLC</payeeName>
+      <recipientName>In-Kind Hoyer for Congress</recipientName>
+      <amount>1700</amount>
+      <date>8/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AGSH&amp;F Civic Action Committee</contributorName>
+      <payeeName>Angerholzer Bros Consulting LLC</payeeName>
+      <recipientName>In-Kind Sanford for Congress</recipientName>
+      <amount>1200</amount>
+      <date>8/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AGSH&amp;F Civic Action Committee</contributorName>
+      <payeeName>Bob Casey for Senate</payeeName>
+      <recipientName>Bob Casey</recipientName>
+      <amount>820.5</amount>
+      <date>8/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AGSH&amp;F Civic Action Committee</contributorName>
+      <payeeName>Citizens for Waters</payeeName>
+      <recipientName>Maxine Waters</recipientName>
+      <amount>688.56</amount>
+      <date>8/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AGSH&amp;F Civic Action Committee</contributorName>
+      <payeeName>Citizens for Waters</payeeName>
+      <recipientName>Maxine Waters</recipientName>
+      <amount>4311.44</amount>
+      <date>8/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AGSH&amp;F Civic Action Committee</contributorName>
+      <payeeName>Hoyer for Congress</payeeName>
+      <recipientName>Steny Hoyer</recipientName>
+      <amount>3300</amount>
+      <date>8/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AGSH&amp;F Civic Action Committee</contributorName>
+      <payeeName>Team Graham</payeeName>
+      <recipientName>Lindsey Graham</recipientName>
+      <amount>5000</amount>
+      <date>8/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AGSH&amp;F Civic Action Committee</contributorName>
+      <payeeName>Collins for Senator</payeeName>
+      <recipientName>Susan Collins</recipientName>
+      <amount>500</amount>
+      <date>8/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AGSH&amp;F Civic Action Committee</contributorName>
+      <payeeName>John Katko for Congress</payeeName>
+      <recipientName>John Katko</recipientName>
+      <amount>1500</amount>
+      <date>8/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AGSH&amp;F Civic Action Committee</contributorName>
+      <payeeName>McSally for Senate Inc.</payeeName>
+      <recipientName>Martha McSally</recipientName>
+      <amount>500</amount>
+      <date>8/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AGSH&amp;F Civic Action Committee</contributorName>
+      <payeeName>Doug Collins for Congress</payeeName>
+      <recipientName>Doug Collins</recipientName>
+      <amount>2500</amount>
+      <date>9/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AGSH&amp;F Civic Action Committee</contributorName>
+      <payeeName>Friends of Pat Toomey</payeeName>
+      <recipientName>Pat Toomey</recipientName>
+      <amount>2000</amount>
+      <date>9/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AGSH&amp;F Civic Action Committee</contributorName>
+      <payeeName>Walorski for Congress</payeeName>
+      <recipientName>Jackie Walorski</recipientName>
+      <amount>750</amount>
+      <date>9/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>Honorary Expenses</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Convergence Center for Policy</payeeName>
+      <recipientName>Rep. Derek Kilmer</recipientName>
+      <amount>5000.00</amount>
+      <date>9/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AGSH&amp;F Civic Action Committee</contributorName>
+      <payeeName>Alamo PAC</payeeName>
+      <recipientName>John Cornyn</recipientName>
+      <amount>937.5</amount>
+      <date>9/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AGSH&amp;F Civic Action Committee</contributorName>
+      <payeeName>Boozman for Arkansas</payeeName>
+      <recipientName>John Boozman</recipientName>
+      <amount>750</amount>
+      <date>9/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AGSH&amp;F Civic Action Committee</contributorName>
+      <payeeName>Collins for Senator</payeeName>
+      <recipientName>Susan Collins</recipientName>
+      <amount>2500</amount>
+      <date>9/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AGSH&amp;F Civic Action Committee</contributorName>
+      <payeeName>Denny Heck for Congress</payeeName>
+      <recipientName>Denny Heck</recipientName>
+      <amount>500</amount>
+      <date>9/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AGSH&amp;F Civic Action Committee</contributorName>
+      <payeeName>Jason Smith for Congress</payeeName>
+      <recipientName>Jason Smith</recipientName>
+      <amount>750</amount>
+      <date>9/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AGSH&amp;F Civic Action Committee</contributorName>
+      <payeeName>Jimmy Panetta for Congress</payeeName>
+      <recipientName>Jimmy Panetta</recipientName>
+      <amount>500</amount>
+      <date>9/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AGSH&amp;F Civic Action Committee</contributorName>
+      <payeeName>Steil for Wisconsin</payeeName>
+      <recipientName>Bryan Steil</recipientName>
+      <amount>2500.00</amount>
+      <date>9/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AGSH&amp;F Civic Action Committee</contributorName>
+      <payeeName>The Thom Tillis Committee</payeeName>
+      <recipientName>Thom Tillis</recipientName>
+      <amount>750</amount>
+      <date>9/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AGSH&amp;F Civic Action Committee</contributorName>
+      <payeeName>Vern Buchanan for Congress</payeeName>
+      <recipientName>Vern Buchanan</recipientName>
+      <amount>1000</amount>
+      <date>9/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AGSH&amp;F Civic Action Committee</contributorName>
+      <payeeName>Adrian Smith for Congress</payeeName>
+      <recipientName>Adrian Smith</recipientName>
+      <amount>1000</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AGSH&amp;F Civic Action Committee</contributorName>
+      <payeeName>Marco Rubio for Senate</payeeName>
+      <recipientName>Marco Rubio</recipientName>
+      <amount>1500</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AGSH&amp;F Civic Action Committee</contributorName>
+      <payeeName>PAC to the Future</payeeName>
+      <recipientName>Nancy Pelosi</recipientName>
+      <amount>5000</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AGSH&amp;F Civic Action Committee</contributorName>
+      <payeeName>Perdue for Senate</payeeName>
+      <recipientName>David Perdue</recipientName>
+      <amount>2000</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AGSH&amp;F Civic Action Committee</contributorName>
+      <payeeName>Tom Reed for Congress</payeeName>
+      <recipientName>Tom Reed</recipientName>
+      <amount>750</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AGSH&amp;F Civic Action Committee</contributorName>
+      <payeeName>Van Taylor Campaign</payeeName>
+      <recipientName>Van Taylor</recipientName>
+      <amount>750</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>Honorary Expenses</type>
+      <contributorName>Self</contributorName>
+      <payeeName>LBJ Foundation</payeeName>
+      <recipientName>Speaker Nancy Pelosi</recipientName>
+      <amount>10000.00</amount>
+      <date>10/3/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AGSH&amp;F Civic Action Committee</contributorName>
+      <payeeName>National Republican Congressional Committee</payeeName>
+      <recipientName>NRCC</recipientName>
+      <amount>15000</amount>
+      <date>10/7/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AGSH&amp;F Civic Action Committee</contributorName>
+      <payeeName>Ron Estes for Congress</payeeName>
+      <recipientName>Ron Estes</recipientName>
+      <amount>500</amount>
+      <date>10/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AGSH&amp;F Civic Action Committee</contributorName>
+      <payeeName>Jennifer for Congress</payeeName>
+      <recipientName>Jenniffer Gonzaez Colon</recipientName>
+      <amount>1000</amount>
+      <date>11/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AGSH&amp;F Civic Action Committee</contributorName>
+      <payeeName>Friends of Mazie Hirono</payeeName>
+      <recipientName>Mazie Hirono</recipientName>
+      <amount>1500</amount>
+      <date>11/7/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AGSH&amp;F Civic Action Committee</contributorName>
+      <payeeName>Friends of Schumer</payeeName>
+      <recipientName>Chuck Schumer</recipientName>
+      <amount>5600</amount>
+      <date>11/7/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AGSH&amp;F Civic Action Committee</contributorName>
+      <payeeName>Mike Gallagher for Wisconsin</payeeName>
+      <recipientName>Mike Gallagher</recipientName>
+      <amount>2500</amount>
+      <date>11/7/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AGSH&amp;F Civic Action Committee</contributorName>
+      <payeeName>New Millennium PAC</payeeName>
+      <recipientName>Robert Menendez</recipientName>
+      <amount>2000</amount>
+      <date>11/7/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AGSH&amp;F Civic Action Committee</contributorName>
+      <payeeName>Project West PAC</payeeName>
+      <recipientName>Cory Gardner</recipientName>
+      <amount>1000</amount>
+      <date>11/7/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AGSH&amp;F Civic Action Committee</contributorName>
+      <payeeName>LaHood for Congress</payeeName>
+      <recipientName>Darin LaHood</recipientName>
+      <amount>2500</amount>
+      <date>11/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>Honorary Expenses</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Congressional Hispanic Leadership Institute</payeeName>
+      <recipientName>Rep. Nita Lowey, Rep. Kay Granger</recipientName>
+      <amount>15000.00</amount>
+      <date>11/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AGSH&amp;F Civic Action Committee</contributorName>
+      <payeeName>Democrats Win Seats PAC</payeeName>
+      <recipientName>Debbie Wasserman Schultz</recipientName>
+      <amount>500</amount>
+      <date>11/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AGSH&amp;F Civic Action Committee</contributorName>
+      <payeeName>Dwight Evans for Congress</payeeName>
+      <recipientName>Dwight Evans</recipientName>
+      <amount>500</amount>
+      <date>11/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AGSH&amp;F Civic Action Committee</contributorName>
+      <payeeName>Roger Williams for US Congress</payeeName>
+      <recipientName>Roger Williams</recipientName>
+      <amount>2000</amount>
+      <date>11/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AGSH&amp;F Civic Action Committee</contributorName>
+      <payeeName>Zeldin for Congress</payeeName>
+      <recipientName>Lee Zeldin</recipientName>
+      <amount>750</amount>
+      <date>11/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AGSH&amp;F Civic Action Committee</contributorName>
+      <payeeName>Andy Barr for Congress</payeeName>
+      <recipientName>Andy Barr</recipientName>
+      <amount>1000</amount>
+      <date>12/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AGSH&amp;F Civic Action Committee</contributorName>
+      <payeeName>Capito for West Virginia</payeeName>
+      <recipientName>Shelley Moore Capito</recipientName>
+      <amount>750</amount>
+      <date>12/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AGSH&amp;F Civic Action Committee</contributorName>
+      <payeeName>Cedric Richmond for Congress</payeeName>
+      <recipientName>Cedric Richmond</recipientName>
+      <amount>1000</amount>
+      <date>12/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AGSH&amp;F Civic Action Committee</contributorName>
+      <payeeName>Friends of Jim Inhofe</payeeName>
+      <recipientName>Jim Inhofe</recipientName>
+      <amount>3000</amount>
+      <date>12/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AGSH&amp;F Civic Action Committee</contributorName>
+      <payeeName>Hal Rogers for Congress</payeeName>
+      <recipientName>Hal Rogers</recipientName>
+      <amount>1500</amount>
+      <date>12/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AGSH&amp;F Civic Action Committee</contributorName>
+      <payeeName>Peters for Michigan</payeeName>
+      <recipientName>Gary Peters</recipientName>
+      <amount>1000</amount>
+      <date>12/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AGSH&amp;F Civic Action Committee</contributorName>
+      <payeeName>Wenstrup for Congress</payeeName>
+      <recipientName>Brad Wenstrup</recipientName>
+      <amount>750</amount>
+      <date>12/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>AGSH&amp;F Civic Action Committee</contributorName>
+      <payeeName>Together We Rise</payeeName>
+      <recipientName>Judy Chu</recipientName>
+      <amount>1000</amount>
+      <date>12/16/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

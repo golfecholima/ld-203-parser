@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>LINCOLN NATIONAL CORPORATION</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>Helene Rayder</contactName>
+  <senateRegID>22872</senateRegID>
+  <houseRegID>30776</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/31/2020 11:25:39 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>Lincoln Financial Group PAC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Lincoln Financial Group PAC</contributorName>
+      <payeeName>Don Bacon for Congress</payeeName>
+      <recipientName>Don Bacon</recipientName>
+      <amount>1000.00</amount>
+      <date>11/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Lincoln Financial Group PAC</contributorName>
+      <payeeName>Jim Banks for Congress</payeeName>
+      <recipientName>Jim Banks</recipientName>
+      <amount>1000.00</amount>
+      <date>11/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Lincoln Financial Group PAC</contributorName>
+      <payeeName>Citizens for Boyle</payeeName>
+      <recipientName>Brendan Boyle</recipientName>
+      <amount>2500.00</amount>
+      <date>09/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Lincoln Financial Group PAC</contributorName>
+      <payeeName>George Holding for Congress</payeeName>
+      <recipientName>George Holding</recipientName>
+      <amount>2500.00</amount>
+      <date>09/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Lincoln Financial Group PAC</contributorName>
+      <payeeName>Mike Kelly for Congress</payeeName>
+      <recipientName>Mike Kelly</recipientName>
+      <amount>2500.00</amount>
+      <date>07/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Lincoln Financial Group PAC</contributorName>
+      <payeeName>Mike Kelly for Congress</payeeName>
+      <recipientName>Mike Kelly</recipientName>
+      <amount>2500.00</amount>
+      <date>11/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Lincoln Financial Group PAC</contributorName>
+      <payeeName>Kind for Congress</payeeName>
+      <recipientName>Ron Kind</recipientName>
+      <amount>1000.00</amount>
+      <date>11/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Lincoln Financial Group PAC</contributorName>
+      <payeeName>Kuster for Congress</payeeName>
+      <recipientName>Ann Kuster</recipientName>
+      <amount>2500.00</amount>
+      <date>07/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Lincoln Financial Group PAC</contributorName>
+      <payeeName>Kuster for Congress</payeeName>
+      <recipientName>Ann Kuster</recipientName>
+      <amount>1000.00</amount>
+      <date>11/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Lincoln Financial Group PAC</contributorName>
+      <payeeName>Larson for Congress</payeeName>
+      <recipientName>John Larson</recipientName>
+      <amount>2500.00</amount>
+      <date>09/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Lincoln Financial Group PAC</contributorName>
+      <payeeName>Moore for Congress</payeeName>
+      <recipientName>Gwen Moore</recipientName>
+      <amount>2000.00</amount>
+      <date>09/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Lincoln Financial Group PAC</contributorName>
+      <payeeName>Scanlon for Congress</payeeName>
+      <recipientName>Mary Gay Scanlon</recipientName>
+      <amount>2000.00</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Lincoln Financial Group PAC</contributorName>
+      <payeeName>Adrian Smith for Congress</payeeName>
+      <recipientName>Adrian Smith</recipientName>
+      <amount>1000.00</amount>
+      <date>09/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Lincoln Financial Group PAC</contributorName>
+      <payeeName>Stivers for Congress</payeeName>
+      <recipientName>Steve Stivers</recipientName>
+      <amount>2000.00</amount>
+      <date>07/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Lincoln Financial Group PAC</contributorName>
+      <payeeName>Walberg for Congress</payeeName>
+      <recipientName>Tim Walberg</recipientName>
+      <amount>1000.00</amount>
+      <date>11/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Lincoln Financial Group PAC</contributorName>
+      <payeeName>Walorski for Congress</payeeName>
+      <recipientName>Jackie Walorski</recipientName>
+      <amount>2500.00</amount>
+      <date>09/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Lincoln Financial Group PAC</contributorName>
+      <payeeName>Walorski for Congress</payeeName>
+      <recipientName>Jackie Walorski</recipientName>
+      <amount>1500.00</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Lincoln Financial Group PAC</contributorName>
+      <payeeName>Ben Cardin for Senate</payeeName>
+      <recipientName>Ben Cardin</recipientName>
+      <amount>1000.00</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Lincoln Financial Group PAC</contributorName>
+      <payeeName>Collins for Senate</payeeName>
+      <recipientName>Susan Collins</recipientName>
+      <amount>1500.00</amount>
+      <date>11/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Lincoln Financial Group PAC</contributorName>
+      <payeeName>Mike Crapo for US Senate</payeeName>
+      <recipientName>Mike Crapo</recipientName>
+      <amount>3000.00</amount>
+      <date>09/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Lincoln Financial Group PAC</contributorName>
+      <payeeName>Deb Fischer for US Senate</payeeName>
+      <recipientName>Deb Fischer</recipientName>
+      <amount>1000.00</amount>
+      <date>09/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Lincoln Financial Group PAC</contributorName>
+      <payeeName>Maggie for NH</payeeName>
+      <recipientName>Maggie Hassan</recipientName>
+      <amount>1000.00</amount>
+      <date>07/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Lincoln Financial Group PAC</contributorName>
+      <payeeName>Kaine for Virginia</payeeName>
+      <recipientName>Tim Kaine</recipientName>
+      <amount>3000.00</amount>
+      <date>09/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Lincoln Financial Group PAC</contributorName>
+      <payeeName>Angus King for Senate</payeeName>
+      <recipientName>Angus King</recipientName>
+      <amount>1000.00</amount>
+      <date>09/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Lincoln Financial Group PAC</contributorName>
+      <payeeName>Peters for Michigan</payeeName>
+      <recipientName>Gary Peters</recipientName>
+      <amount>2000.00</amount>
+      <date>07/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Lincoln Financial Group PAC</contributorName>
+      <payeeName>Ben Sasse for US Senate</payeeName>
+      <recipientName>Ben Sasse</recipientName>
+      <amount>1000.00</amount>
+      <date>09/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Lincoln Financial Group PAC</contributorName>
+      <payeeName>Tim Scott for Senate</payeeName>
+      <recipientName>Tim Scott</recipientName>
+      <amount>2000.00</amount>
+      <date>09/06/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Lincoln Financial Group PAC</contributorName>
+      <payeeName>Shaheen for Senate</payeeName>
+      <recipientName>Jeanne Shaheen</recipientName>
+      <amount>2000.00</amount>
+      <date>09/06/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

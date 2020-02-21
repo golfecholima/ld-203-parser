@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>ROWLAND STRATEGY GROUP LLC</organizationName>
+  <lobbyistPrefix>Mr.</lobbyistPrefix>
+  <lobbyistFirstName>JAMES</lobbyistFirstName>
+  <lobbyistMiddleName>A</lobbyistMiddleName>
+  <lobbyistLastName>ROWLAND</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>401104274</senateRegID>
+  <houseRegID>43503</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/29/2020 11:48:51 AM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>McCarthy Victory Fund</payeeName>
+      <recipientName>Kevin McCarthy</recipientName>
+      <amount>2500.00</amount>
+      <date>10/14/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Amanda Adkins for Congress</payeeName>
+      <recipientName>Amanda Adkins</recipientName>
+      <amount>1000.00</amount>
+      <date>10/23/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Valadao for Congress</payeeName>
+      <recipientName>David Valadao</recipientName>
+      <amount>500.00</amount>
+      <date>10/30/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Meadows Freedom Fund</payeeName>
+      <recipientName>Mark Meadows</recipientName>
+      <amount>1000.00</amount>
+      <date>7/17/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Valadao for Congress</payeeName>
+      <recipientName>David Valadao</recipientName>
+      <amount>1000.00</amount>
+      <date>9/10/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Young for Congress</payeeName>
+      <recipientName>David Young</recipientName>
+      <amount>1000.00</amount>
+      <date>9/11/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Deb Fischer for US Senate</payeeName>
+      <recipientName>Deb Fischer</recipientName>
+      <amount>250.00</amount>
+      <date>9/19/19</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

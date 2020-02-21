@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>CERNER CORPORATION</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>Peter Henry</contactName>
+  <senateRegID>296830</senateRegID>
+  <houseRegID>37528</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/30/2020 6:21:02 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>Cerner Corporation PAC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cerner Corporation PAC</contributorName>
+      <payeeName>Ron Estes for Congress</payeeName>
+      <recipientName>Ron Estes</recipientName>
+      <amount>2500.00</amount>
+      <date>07/08/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cerner Corporation PAC</contributorName>
+      <payeeName>Jackie Speier for Congress</payeeName>
+      <recipientName>Jackie Speier</recipientName>
+      <amount>2500.00</amount>
+      <date>07/08/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cerner Corporation PAC</contributorName>
+      <payeeName>John Carter for Congress</payeeName>
+      <recipientName>John Carter</recipientName>
+      <amount>3500.00</amount>
+      <date>09/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cerner Corporation PAC</contributorName>
+      <payeeName>Nita Lowey for Congress</payeeName>
+      <recipientName>Nita Lowey</recipientName>
+      <amount>2500.00</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cerner Corporation PAC</contributorName>
+      <payeeName>Citizens to Election Rick Larsen</payeeName>
+      <recipientName>Rick Larsen</recipientName>
+      <amount>2500.00</amount>
+      <date>09/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cerner Corporation PAC</contributorName>
+      <payeeName>Kelly for Congress</payeeName>
+      <recipientName>Trent Kelly</recipientName>
+      <amount>2500.00</amount>
+      <date>09/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cerner Corporation PAC</contributorName>
+      <payeeName>M-PAC</payeeName>
+      <recipientName>Patty Murray</recipientName>
+      <amount>5000.00</amount>
+      <date>10/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cerner Corporation PAC</contributorName>
+      <payeeName>Jaime for Congress</payeeName>
+      <recipientName>Jaime Herrera Beutler</recipientName>
+      <amount>2000.00</amount>
+      <date>10/22/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cerner Corporation PAC</contributorName>
+      <payeeName>Friends of Cheri Bustos</payeeName>
+      <recipientName>Cheri Bustos</recipientName>
+      <amount>2500.00</amount>
+      <date>11/01/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cerner Corporation PAC</contributorName>
+      <payeeName>Cathy McMorris Rodgers for Congress</payeeName>
+      <recipientName>Cathy McMorris Rodgers</recipientName>
+      <amount>2500.00</amount>
+      <date>11/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cerner Corporation PAC</contributorName>
+      <payeeName>Denny Heck for Congress</payeeName>
+      <recipientName>Denny Heck</recipientName>
+      <amount>2000.00</amount>
+      <date>11/18/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cerner Corporation PAC</contributorName>
+      <payeeName>Healthcare Freedom Fund</payeeName>
+      <recipientName>Phil Roe</recipientName>
+      <amount>2500.00</amount>
+      <date>11/21/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cerner Corporation PAC</contributorName>
+      <payeeName>Jim Banks for Congress</payeeName>
+      <recipientName>Jim Banks</recipientName>
+      <amount>2500.00</amount>
+      <date>12/09/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cerner Corporation PAC</contributorName>
+      <payeeName>Chrissy Houlahan for Congress</payeeName>
+      <recipientName>Chrissy Houlahan</recipientName>
+      <amount>2500.00</amount>
+      <date>12/11/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cerner Corporation PAC</contributorName>
+      <payeeName>Julia Brownley for Congress</payeeName>
+      <recipientName>Julia Brownley</recipientName>
+      <amount>2500.00</amount>
+      <date>12/11/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cerner Corporation PAC</contributorName>
+      <payeeName>Together Holding Our Majority</payeeName>
+      <recipientName>Thom Tillis</recipientName>
+      <amount>2500.00</amount>
+      <date>12/26/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cerner Corporation PAC</contributorName>
+      <payeeName>Arkansas for Leadership Political Action Committee</payeeName>
+      <recipientName>John Boozman</recipientName>
+      <amount>2500.00</amount>
+      <date>12/26/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Cerner Corporation PAC</contributorName>
+      <payeeName>FreeState PAC</payeeName>
+      <recipientName>Jerry Moran</recipientName>
+      <amount>2500.00</amount>
+      <date>12/26/19</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

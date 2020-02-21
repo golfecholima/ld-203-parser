@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>PEABODY INVESTMENTS CORP.</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>Michael Flannigan</contactName>
+  <senateRegID>297990</senateRegID>
+  <houseRegID>37587</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/28/2020 4:35:12 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>Peabody Energy Corporation Political Action Committee</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Peabody Energy Corporation Political Action Committee</contributorName>
+      <payeeName>Defend America PAC</payeeName>
+      <recipientName>Sen. Richard Shelby</recipientName>
+      <amount>5000.00</amount>
+      <date>07/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Peabody Energy Corporation Political Action Committee</contributorName>
+      <payeeName>Walden for Congress</payeeName>
+      <recipientName>Rep. Greg Walden</recipientName>
+      <amount>1000.00</amount>
+      <date>07/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Peabody Energy Corporation Political Action Committee</contributorName>
+      <payeeName>McSally for Senate Inc.</payeeName>
+      <recipientName>Sen. Martha McSally </recipientName>
+      <amount>1000.00</amount>
+      <date>07/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Peabody Energy Corporation Political Action Committee</contributorName>
+      <payeeName>Cowboy PAC</payeeName>
+      <recipientName>Rep. Liz Cheney</recipientName>
+      <amount>5000.00</amount>
+      <date>07/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Peabody Energy Corporation Political Action Committee</contributorName>
+      <payeeName>Making Business Excel Political Action Committee</payeeName>
+      <recipientName>Sen. Mike Enzi</recipientName>
+      <amount>2000.00</amount>
+      <date>07/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Peabody Energy Corporation Political Action Committee</contributorName>
+      <payeeName>Common Values PAC</payeeName>
+      <recipientName>Sen. John Barrasso</recipientName>
+      <amount>5000.00</amount>
+      <date>07/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Peabody Energy Corporation Political Action Committee</contributorName>
+      <payeeName>Volunteers for Shimkus</payeeName>
+      <recipientName>Rep. John Shimkus </recipientName>
+      <amount>1000.00</amount>
+      <date>07/25/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Peabody Energy Corporation Political Action Committee</contributorName>
+      <payeeName>Wild and Wonderful PAC</payeeName>
+      <recipientName>Sen. Shelley Moore Capito </recipientName>
+      <amount>375.00</amount>
+      <date>09/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Peabody Energy Corporation Political Action Committee</contributorName>
+      <payeeName>Jobs, Opportunity, and New Ideas PAC</payeeName>
+      <recipientName>Sen. Joni Ernst</recipientName>
+      <amount>375.00</amount>
+      <date>09/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Peabody Energy Corporation Political Action Committee</contributorName>
+      <payeeName>Nebraska Sandhills PAC</payeeName>
+      <recipientName>Sen. Deb Fischer </recipientName>
+      <amount>375.00</amount>
+      <date>09/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Peabody Energy Corporation Political Action Committee</contributorName>
+      <payeeName>Making a responsible Stand for Households in America PAC </payeeName>
+      <recipientName>Sen. Marsha Blackburn</recipientName>
+      <amount>375.00</amount>
+      <date>09/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Peabody Energy Corporation Political Action Committee</contributorName>
+      <payeeName>Thunderbolt PAC</payeeName>
+      <recipientName>Sen. Martha McSally </recipientName>
+      <amount>375.00</amount>
+      <date>09/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Peabody Energy Corporation Political Action Committee</contributorName>
+      <payeeName>Ann PAC</payeeName>
+      <recipientName>Rep. Ann Wagner</recipientName>
+      <amount>1500.00</amount>
+      <date>09/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Peabody Energy Corporation Political Action Committee</contributorName>
+      <payeeName>Denali Leadership PAC</payeeName>
+      <recipientName>Sen. Lisa Murkowski</recipientName>
+      <amount>375.00</amount>
+      <date>09/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Peabody Energy Corporation Political Action Committee</contributorName>
+      <payeeName>Dirigo PAC</payeeName>
+      <recipientName>Sen. Susan Collins</recipientName>
+      <amount>375.00</amount>
+      <date>09/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Peabody Energy Corporation Political Action Committee</contributorName>
+      <payeeName>Conservatives Harvesting Success PAC</payeeName>
+      <recipientName>Sen. Cindy Hyde-Smith </recipientName>
+      <amount>375.00</amount>
+      <date>09/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Peabody Energy Corporation Political Action Committee</contributorName>
+      <payeeName>Armstrong for Congress </payeeName>
+      <recipientName>Rep. Kelly Armstrong</recipientName>
+      <amount>1000.00</amount>
+      <date>09/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Peabody Energy Corporation Political Action Committee</contributorName>
+      <payeeName>Friends of John Barrasso </payeeName>
+      <recipientName>Sen. John Barrasso</recipientName>
+      <amount>625.00</amount>
+      <date>10/08/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Peabody Energy Corporation Political Action Committee</contributorName>
+      <payeeName>Bill Cassidy for US Senate</payeeName>
+      <recipientName>Sen. Bill Cassidy</recipientName>
+      <amount>625.00</amount>
+      <date>10/08/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Peabody Energy Corporation Political Action Committee</contributorName>
+      <payeeName>Continuing America's Strength &amp; Security PAC </payeeName>
+      <recipientName>Sen. Bill Cassidy </recipientName>
+      <amount>625.00</amount>
+      <date>10/08/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Peabody Energy Corporation Political Action Committee</contributorName>
+      <payeeName>Cory Gardner for Senate</payeeName>
+      <recipientName>Sen. Cory Gardner</recipientName>
+      <amount>1000.00</amount>
+      <date>10/08/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Peabody Energy Corporation Political Action Committee</contributorName>
+      <payeeName>Mike Bost for Congress Committee</payeeName>
+      <recipientName>Rep. Mike Bost</recipientName>
+      <amount>1000.00</amount>
+      <date>10/08/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Peabody Energy Corporation Political Action Committee</contributorName>
+      <payeeName>Common Values PAC</payeeName>
+      <recipientName>Sen. John Barrasso</recipientName>
+      <amount>625.00</amount>
+      <date>10/08/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Peabody Energy Corporation Political Action Committee</contributorName>
+      <payeeName>Manchin for West Virginia</payeeName>
+      <recipientName>Sen. Joe Manchin</recipientName>
+      <amount>1500.00</amount>
+      <date>12/06/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

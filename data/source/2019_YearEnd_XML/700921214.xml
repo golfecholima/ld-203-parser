@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>National Shooting Sports Foundation</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <zipext>
+  </zipext>
+  <contactName>Patrick Rothwell</contactName>
+  <senateRegID>400958766</senateRegID>
+  <houseRegID>35057</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/27/2020 2:31:13 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>National Shooting Sports Foundation PAC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Shooting Sports Foundation PAC</contributorName>
+      <payeeName>Westerman for Congress</payeeName>
+      <recipientName>N/A</recipientName>
+      <amount>1000.00</amount>
+      <date>07/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Shooting Sports Foundation PAC</contributorName>
+      <payeeName>Steve Daines for Montana</payeeName>
+      <recipientName>N/A</recipientName>
+      <amount>2500.00</amount>
+      <date>07/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Shooting Sports Foundation PAC</contributorName>
+      <payeeName>Mike Kelly for Congress</payeeName>
+      <recipientName>N/A</recipientName>
+      <amount>2500.00</amount>
+      <date>07/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Shooting Sports Foundation PAC</contributorName>
+      <payeeName>Joe Wilson for Congress</payeeName>
+      <recipientName>N/A</recipientName>
+      <amount>1000.00</amount>
+      <date>07/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Shooting Sports Foundation PAC</contributorName>
+      <payeeName>McCarthy Victory Fund</payeeName>
+      <recipientName>N/A</recipientName>
+      <amount>2500.00</amount>
+      <date>07/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Shooting Sports Foundation PAC</contributorName>
+      <payeeName>Zeldin for Congress</payeeName>
+      <recipientName>N/A</recipientName>
+      <amount>1000.00</amount>
+      <date>07/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Shooting Sports Foundation PAC</contributorName>
+      <payeeName>Hudson for Congress</payeeName>
+      <recipientName>N/A</recipientName>
+      <amount>1600.00</amount>
+      <date>07/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Shooting Sports Foundation PAC</contributorName>
+      <payeeName>John Carter for Congress</payeeName>
+      <recipientName>N/A</recipientName>
+      <amount>2500.00</amount>
+      <date>07/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Shooting Sports Foundation PAC</contributorName>
+      <payeeName>Trey for Congress</payeeName>
+      <recipientName>N/A</recipientName>
+      <amount>1000.00</amount>
+      <date>07/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Shooting Sports Foundation PAC</contributorName>
+      <payeeName>Adrian Smith for Congress</payeeName>
+      <recipientName>N/A</recipientName>
+      <amount>4000.00</amount>
+      <date>08/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Shooting Sports Foundation PAC</contributorName>
+      <payeeName>Drew Ferguson for Congress Inc.</payeeName>
+      <recipientName>N/A</recipientName>
+      <amount>2500.00</amount>
+      <date>08/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Shooting Sports Foundation PAC</contributorName>
+      <payeeName>Westerman for Congress</payeeName>
+      <recipientName>N/A</recipientName>
+      <amount>4000.00</amount>
+      <date>08/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Shooting Sports Foundation PAC</contributorName>
+      <payeeName>Brady for Congress</payeeName>
+      <recipientName>N/A</recipientName>
+      <amount>5000.00</amount>
+      <date>08/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Shooting Sports Foundation PAC</contributorName>
+      <payeeName>Guy for Congress</payeeName>
+      <recipientName>N/A</recipientName>
+      <amount>2500.00</amount>
+      <date>08/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Shooting Sports Foundation PAC</contributorName>
+      <payeeName>Elise for Congress</payeeName>
+      <recipientName>N/A</recipientName>
+      <amount>2500.00</amount>
+      <date>08/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Shooting Sports Foundation PAC</contributorName>
+      <payeeName>McCarthy Victory Fund</payeeName>
+      <recipientName>N/A</recipientName>
+      <amount>10000.00</amount>
+      <date>08/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Shooting Sports Foundation PAC</contributorName>
+      <payeeName>Alamo PAC</payeeName>
+      <recipientName>N/A</recipientName>
+      <amount>5000.00</amount>
+      <date>08/22/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Shooting Sports Foundation PAC</contributorName>
+      <payeeName>Bill Cassidy for US Senate</payeeName>
+      <recipientName>N/A</recipientName>
+      <amount>2500.00</amount>
+      <date>09/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Shooting Sports Foundation PAC</contributorName>
+      <payeeName>Graves for Congress</payeeName>
+      <recipientName>N/A</recipientName>
+      <amount>1000.00</amount>
+      <date>09/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Shooting Sports Foundation PAC</contributorName>
+      <payeeName>Michael Waltz for Congress</payeeName>
+      <recipientName>N/A</recipientName>
+      <amount>2500.00</amount>
+      <date>09/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Shooting Sports Foundation PAC</contributorName>
+      <payeeName>Jaime for Congress</payeeName>
+      <recipientName>N/A</recipientName>
+      <amount>1000.00</amount>
+      <date>09/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Shooting Sports Foundation PAC</contributorName>
+      <payeeName>Cory Gardner for Senate</payeeName>
+      <recipientName>N/A</recipientName>
+      <amount>3286.91</amount>
+      <date>09/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Shooting Sports Foundation PAC</contributorName>
+      <payeeName>Friends of Glenn Thompson</payeeName>
+      <recipientName>N/A</recipientName>
+      <amount>2500.00</amount>
+      <date>09/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Shooting Sports Foundation PAC</contributorName>
+      <payeeName>Capito for West Virginia</payeeName>
+      <recipientName>N/A</recipientName>
+      <amount>5000.00</amount>
+      <date>09/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Shooting Sports Foundation PAC</contributorName>
+      <payeeName>Shooting Star Shotgun Sports, LLC</payeeName>
+      <recipientName>Texans for Jodey Arrington</recipientName>
+      <amount>130.00</amount>
+      <date>09/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Shooting Sports Foundation PAC</contributorName>
+      <payeeName>Prince George's Trap &amp; Skeet Center</payeeName>
+      <recipientName>Texans for Jodey Arrington</recipientName>
+      <amount>1205.44</amount>
+      <date>09/20/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Shooting Sports Foundation PAC</contributorName>
+      <payeeName>Shooting Star Shotgun Sports, LLC</payeeName>
+      <recipientName>Ted Budd for Congress</recipientName>
+      <amount>225.00</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Shooting Sports Foundation PAC</contributorName>
+      <payeeName>Prince George's Trap &amp; Skeet Center</payeeName>
+      <recipientName>Ted Budd for Congress</recipientName>
+      <amount>1750.44</amount>
+      <date>09/23/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Shooting Sports Foundation PAC</contributorName>
+      <payeeName>Shooting Star Shotgun Sports, LLC</payeeName>
+      <recipientName>Womack for Congress Committee</recipientName>
+      <amount>225.00</amount>
+      <date>10/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Shooting Sports Foundation PAC</contributorName>
+      <payeeName>Prince George's Trap &amp; Skeet Center</payeeName>
+      <recipientName>Womack for Congress Committee</recipientName>
+      <amount>1744.08</amount>
+      <date>10/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Shooting Sports Foundation PAC</contributorName>
+      <payeeName>Shooting Star Shotgun Sports, LLC</payeeName>
+      <recipientName>Alex Mooney for Congress</recipientName>
+      <amount>165.00</amount>
+      <date>10/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Shooting Sports Foundation PAC</contributorName>
+      <payeeName>Prince George's Trap &amp; Skeet Center</payeeName>
+      <recipientName>Alex Mooney for Congress</recipientName>
+      <amount>1150.00</amount>
+      <date>10/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Shooting Sports Foundation PAC</contributorName>
+      <payeeName>Shooting Star Shotgun Sports, LLC</payeeName>
+      <recipientName>Citizens for John Rutherford</recipientName>
+      <amount>225.00</amount>
+      <date>10/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Shooting Sports Foundation PAC</contributorName>
+      <payeeName>Prince George's Trap &amp; Skeet Center</payeeName>
+      <recipientName>Citizens for John Rutherford</recipientName>
+      <amount>1900.00</amount>
+      <date>10/21/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Shooting Sports Foundation PAC</contributorName>
+      <payeeName>Andy Harris for Congress</payeeName>
+      <recipientName>N/A</recipientName>
+      <amount>2500.00</amount>
+      <date>11/01/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Shooting Sports Foundation PAC</contributorName>
+      <payeeName>Jim Risch For U.S. Senate Committee</payeeName>
+      <recipientName>N/A</recipientName>
+      <amount>5000.00</amount>
+      <date>11/01/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Shooting Sports Foundation PAC</contributorName>
+      <payeeName>Gary Palmer for Congress</payeeName>
+      <recipientName>N/A</recipientName>
+      <amount>2000.00</amount>
+      <date>11/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Shooting Sports Foundation PAC</contributorName>
+      <payeeName>Collins for Congress</payeeName>
+      <recipientName>N/A</recipientName>
+      <amount>2500.00</amount>
+      <date>11/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Shooting Sports Foundation PAC</contributorName>
+      <payeeName>Rodney for Congress</payeeName>
+      <recipientName>N/A</recipientName>
+      <amount>2000.00</amount>
+      <date>12/01/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Shooting Sports Foundation PAC</contributorName>
+      <payeeName>Lisa Murkowski for Senate</payeeName>
+      <recipientName>N/A</recipientName>
+      <amount>1000.00</amount>
+      <date>12/09/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Shooting Sports Foundation PAC</contributorName>
+      <payeeName>McSally for Senate Inc.</payeeName>
+      <recipientName>N/A</recipientName>
+      <amount>2500.00</amount>
+      <date>12/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Shooting Sports Foundation PAC</contributorName>
+      <payeeName>Mike Bost for Congress Committee</payeeName>
+      <recipientName>N/A</recipientName>
+      <amount>1000.00</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>National Shooting Sports Foundation PAC</contributorName>
+      <payeeName>American Victory PAC</payeeName>
+      <recipientName>N/A</recipientName>
+      <amount>5000.00</amount>
+      <date>12/16/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

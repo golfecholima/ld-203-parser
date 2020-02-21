@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>Mellon Financial Services Corporation #1</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <zipext>
+  </zipext>
+  <contactName>David Vandivier</contactName>
+  <senateRegID>24863</senateRegID>
+  <houseRegID>31048</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>My certification and disclosure are to the best of my knowledge and are based on reasonable due diligence. </comments>
+  <signedDate>1/30/2020 11:47:18 AM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>
+  </noContributions>
+  <pacs>
+    <pac>
+      <name>Political Action Committee / The Bank of New York Mellon Corporation - Federal</name>
+    </pac>
+    <pac>
+      <name>BiPartisan Political Action Committee / The Bank of New York Mellon Corporation     
+</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>BiPartisan Political Action Committee / The Bank of New York Mellon Corporation     
+</contributorName>
+      <payeeName>Blue Dog PAC</payeeName>
+      <recipientName>Blue Dog PAC</recipientName>
+      <amount>5000</amount>
+      <date>7/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>BiPartisan Political Action Committee / The Bank of New York Mellon Corporation     
+</contributorName>
+      <payeeName>New Democrat Coalition PAC</payeeName>
+      <recipientName>New Democrat Coalition PAC</recipientName>
+      <amount>5000</amount>
+      <date>7/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>BiPartisan Political Action Committee / The Bank of New York Mellon Corporation     
+</contributorName>
+      <payeeName>Perdue for Senate</payeeName>
+      <recipientName>David Perdue</recipientName>
+      <amount>2500</amount>
+      <date>8/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>BiPartisan Political Action Committee / The Bank of New York Mellon Corporation     
+</contributorName>
+      <payeeName>Rosen Victory Fund</payeeName>
+      <recipientName>Jackie Rosen (via Rosen for Nevada)</recipientName>
+      <amount>5000.00</amount>
+      <date>9/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>BiPartisan Political Action Committee / The Bank of New York Mellon Corporation     
+</contributorName>
+      <payeeName>Impact</payeeName>
+      <recipientName>Charles Schumer</recipientName>
+      <amount>5000</amount>
+      <date>9/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>BiPartisan Political Action Committee / The Bank of New York Mellon Corporation     
+</contributorName>
+      <payeeName>PAC to the Future</payeeName>
+      <recipientName>Nancy Pelosi</recipientName>
+      <amount>2500</amount>
+      <date>9/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>BiPartisan Political Action Committee / The Bank of New York Mellon Corporation     
+</contributorName>
+      <payeeName>STEVE PAC</payeeName>
+      <recipientName>Steve Stivers</recipientName>
+      <amount>5000</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>BiPartisan Political Action Committee / The Bank of New York Mellon Corporation     
+</contributorName>
+      <payeeName>MARSHA PAC</payeeName>
+      <recipientName>Marsha Blackburn</recipientName>
+      <amount>2000</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>BiPartisan Political Action Committee / The Bank of New York Mellon Corporation     
+</contributorName>
+      <payeeName>America Works</payeeName>
+      <recipientName>Sherrod Brown</recipientName>
+      <amount>5000</amount>
+      <date>10/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>BiPartisan Political Action Committee / The Bank of New York Mellon Corporation     
+</contributorName>
+      <payeeName>Granite Values PAC</payeeName>
+      <recipientName>Maggie Hassan</recipientName>
+      <amount>2500</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Political Action Committee / The Bank of New York Mellon Corporation - Federal</contributorName>
+      <payeeName>Andy Barr for Congress</payeeName>
+      <recipientName>Andy Barr</recipientName>
+      <amount>2500</amount>
+      <date>7/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Political Action Committee / The Bank of New York Mellon Corporation - Federal</contributorName>
+      <payeeName>William Timmons for Congress</payeeName>
+      <recipientName>William Timmons</recipientName>
+      <amount>500</amount>
+      <date>7/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Political Action Committee / The Bank of New York Mellon Corporation - Federal</contributorName>
+      <payeeName>Carper for Senate</payeeName>
+      <recipientName>Tom Carper</recipientName>
+      <amount>1000</amount>
+      <date>7/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Political Action Committee / The Bank of New York Mellon Corporation - Federal</contributorName>
+      <payeeName>Kaine for Virginia</payeeName>
+      <recipientName>Tim Kaine</recipientName>
+      <amount>1000</amount>
+      <date>7/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Political Action Committee / The Bank of New York Mellon Corporation - Federal</contributorName>
+      <payeeName>Jeffries for Congress</payeeName>
+      <recipientName>Hakeem Jeffries</recipientName>
+      <amount>1500</amount>
+      <date>7/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Political Action Committee / The Bank of New York Mellon Corporation - Federal</contributorName>
+      <payeeName>Davis for Congress/Friends of Davis</payeeName>
+      <recipientName>Danny Davis</recipientName>
+      <amount>1500</amount>
+      <date>7/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Political Action Committee / The Bank of New York Mellon Corporation - Federal</contributorName>
+      <payeeName>Dan Crenshaw for Congress</payeeName>
+      <recipientName>Dan Crenshaw</recipientName>
+      <amount>1000</amount>
+      <date>7/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Political Action Committee / The Bank of New York Mellon Corporation - Federal</contributorName>
+      <payeeName>votetipton.com</payeeName>
+      <recipientName>Scott Tipton</recipientName>
+      <amount>1000</amount>
+      <date>7/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Political Action Committee / The Bank of New York Mellon Corporation - Federal</contributorName>
+      <payeeName>Friends for Gregory Meeks</payeeName>
+      <recipientName>Gregory Meeks</recipientName>
+      <amount>1500</amount>
+      <date>8/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Political Action Committee / The Bank of New York Mellon Corporation - Federal</contributorName>
+      <payeeName>Chrissy Houlahan for Congress</payeeName>
+      <recipientName>Chrissy Houlahan</recipientName>
+      <amount>1000</amount>
+      <date>8/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Political Action Committee / The Bank of New York Mellon Corporation - Federal</contributorName>
+      <payeeName>Sinema for Arizona</payeeName>
+      <recipientName>Kyrsten Sinema</recipientName>
+      <amount>500</amount>
+      <date>8/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Political Action Committee / The Bank of New York Mellon Corporation - Federal</contributorName>
+      <payeeName>Meuser for Congress</payeeName>
+      <recipientName>Dan Meuser</recipientName>
+      <amount>1000</amount>
+      <date>8/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Political Action Committee / The Bank of New York Mellon Corporation - Federal</contributorName>
+      <payeeName>Mike Kelly for Congress</payeeName>
+      <recipientName>Mike Kelly</recipientName>
+      <amount>1000</amount>
+      <date>9/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Political Action Committee / The Bank of New York Mellon Corporation - Federal</contributorName>
+      <payeeName>Mike Thompson for Congress</payeeName>
+      <recipientName>Mike Thompson</recipientName>
+      <amount>2000</amount>
+      <date>9/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Political Action Committee / The Bank of New York Mellon Corporation - Federal</contributorName>
+      <payeeName>Blaine for Congress</payeeName>
+      <recipientName>Blaine Luetkemeyer</recipientName>
+      <amount>1000</amount>
+      <date>9/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Political Action Committee / The Bank of New York Mellon Corporation - Federal</contributorName>
+      <payeeName>Kustoff for Congress</payeeName>
+      <recipientName>David Kustoff</recipientName>
+      <amount>1500</amount>
+      <date>9/4/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Political Action Committee / The Bank of New York Mellon Corporation - Federal</contributorName>
+      <payeeName>Loudermilk for Congress</payeeName>
+      <recipientName>Barry Loudermilk</recipientName>
+      <amount>1000</amount>
+      <date>9/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Political Action Committee / The Bank of New York Mellon Corporation - Federal</contributorName>
+      <payeeName>McHenry for Congress</payeeName>
+      <recipientName>Patrick McHenry</recipientName>
+      <amount>1000</amount>
+      <date>9/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Political Action Committee / The Bank of New York Mellon Corporation - Federal</contributorName>
+      <payeeName>Zeldin for Congress</payeeName>
+      <recipientName>Lee Zeldin</recipientName>
+      <amount>1000</amount>
+      <date>9/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Political Action Committee / The Bank of New York Mellon Corporation - Federal</contributorName>
+      <payeeName>Schweikert for Congress</payeeName>
+      <recipientName>David Schweikert</recipientName>
+      <amount>1000</amount>
+      <date>9/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Political Action Committee / The Bank of New York Mellon Corporation - Federal</contributorName>
+      <payeeName>McSally for Senate</payeeName>
+      <recipientName>Martha McSally</recipientName>
+      <amount>1000</amount>
+      <date>9/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Political Action Committee / The Bank of New York Mellon Corporation - Federal</contributorName>
+      <payeeName>Citizens for Waters</payeeName>
+      <recipientName>Maxine Waters</recipientName>
+      <amount>1000</amount>
+      <date>9/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Political Action Committee / The Bank of New York Mellon Corporation - Federal</contributorName>
+      <payeeName>Chris Coons for Delaware</payeeName>
+      <recipientName>Chris Coons</recipientName>
+      <amount>1000</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Political Action Committee / The Bank of New York Mellon Corporation - Federal</contributorName>
+      <payeeName>Blaine for Congress</payeeName>
+      <recipientName>Blaine Luetkemeyer</recipientName>
+      <amount>2000</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Political Action Committee / The Bank of New York Mellon Corporation - Federal</contributorName>
+      <payeeName>Blaine for Congress</payeeName>
+      <recipientName>Blaine Luetkemeyer</recipientName>
+      <amount>500</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Political Action Committee / The Bank of New York Mellon Corporation - Federal</contributorName>
+      <payeeName>Davidson for Congress</payeeName>
+      <recipientName>Warren Davidson</recipientName>
+      <amount>1000</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Political Action Committee / The Bank of New York Mellon Corporation - Federal</contributorName>
+      <payeeName>Richard E. Neal for Congress</payeeName>
+      <recipientName>Richard Neal</recipientName>
+      <amount>1500</amount>
+      <date>9/24/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Political Action Committee / The Bank of New York Mellon Corporation - Federal</contributorName>
+      <payeeName>Casten for Congress</payeeName>
+      <recipientName>Sean Casten</recipientName>
+      <amount>2500</amount>
+      <date>10/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Political Action Committee / The Bank of New York Mellon Corporation - Federal</contributorName>
+      <payeeName>Nevadans for Steven Horsford</payeeName>
+      <recipientName>Steven Horsford</recipientName>
+      <amount>1000</amount>
+      <date>10/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Political Action Committee / The Bank of New York Mellon Corporation - Federal</contributorName>
+      <payeeName>Josh Gottheimer for Congress</payeeName>
+      <recipientName>Josh Gottheimer</recipientName>
+      <amount>1000</amount>
+      <date>10/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Political Action Committee / The Bank of New York Mellon Corporation - Federal</contributorName>
+      <payeeName>Mikie Sherrill for Congress</payeeName>
+      <recipientName>Mikie Sherrill</recipientName>
+      <amount>1000</amount>
+      <date>10/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Political Action Committee / The Bank of New York Mellon Corporation - Federal</contributorName>
+      <payeeName>Davis for Congress/Friends of Davis</payeeName>
+      <recipientName>Danny Davis</recipientName>
+      <amount>1000</amount>
+      <date>10/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Political Action Committee / The Bank of New York Mellon Corporation - Federal</contributorName>
+      <payeeName>Ben Sasse for U.S. Senate</payeeName>
+      <recipientName>Ben Sasse</recipientName>
+      <amount>1000</amount>
+      <date>10/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Political Action Committee / The Bank of New York Mellon Corporation - Federal</contributorName>
+      <payeeName>Cleaver for Congress</payeeName>
+      <recipientName>Emanuel Cleaver</recipientName>
+      <amount>1000</amount>
+      <date>10/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Political Action Committee / The Bank of New York Mellon Corporation - Federal</contributorName>
+      <payeeName>The Reed Committee</payeeName>
+      <recipientName>Jack Reed</recipientName>
+      <amount>1000</amount>
+      <date>10/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Political Action Committee / The Bank of New York Mellon Corporation - Federal</contributorName>
+      <payeeName>Casten for Congress</payeeName>
+      <recipientName>Sean Casten</recipientName>
+      <amount>1000</amount>
+      <date>10/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Political Action Committee / The Bank of New York Mellon Corporation - Federal</contributorName>
+      <payeeName>Nevadans for Steven Horsford</payeeName>
+      <recipientName>Steven Horsford</recipientName>
+      <amount>1000</amount>
+      <date>10/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Political Action Committee / The Bank of New York Mellon Corporation - Federal</contributorName>
+      <payeeName>Finkenauer for Congress</payeeName>
+      <recipientName>Abby Finkenauer</recipientName>
+      <amount>1000</amount>
+      <date>10/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Political Action Committee / The Bank of New York Mellon Corporation - Federal</contributorName>
+      <payeeName>Zeldin for Congress</payeeName>
+      <recipientName>Lee Zeldin</recipientName>
+      <amount>500</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Political Action Committee / The Bank of New York Mellon Corporation - Federal</contributorName>
+      <payeeName>Haley Stevens for Congress</payeeName>
+      <recipientName>Haley stevens</recipientName>
+      <amount>1000</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Political Action Committee / The Bank of New York Mellon Corporation - Federal</contributorName>
+      <payeeName>Friends of Ben McAdams</payeeName>
+      <recipientName>Ben McAdams</recipientName>
+      <amount>1000</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Political Action Committee / The Bank of New York Mellon Corporation - Federal</contributorName>
+      <payeeName>Chrissy Houlahan for Congress</payeeName>
+      <recipientName>Chrissy Houlahan</recipientName>
+      <amount>1000</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Political Action Committee / The Bank of New York Mellon Corporation - Federal</contributorName>
+      <payeeName>Friends of Jim Clyburn</payeeName>
+      <recipientName>Jim Clyburn</recipientName>
+      <amount>1000</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Political Action Committee / The Bank of New York Mellon Corporation - Federal</contributorName>
+      <payeeName>William Timmons for Congress</payeeName>
+      <recipientName>William Timmons</recipientName>
+      <amount>1000</amount>
+      <date>10/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Political Action Committee / The Bank of New York Mellon Corporation - Federal</contributorName>
+      <payeeName>Hoyer for Congress</payeeName>
+      <recipientName>Steny H. Hoyer</recipientName>
+      <amount>2500</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Political Action Committee / The Bank of New York Mellon Corporation - Federal</contributorName>
+      <payeeName>Friends of Dan Kildee</payeeName>
+      <recipientName>Dan Kildee</recipientName>
+      <amount>1000</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Political Action Committee / The Bank of New York Mellon Corporation - Federal</contributorName>
+      <payeeName>Anthony Gonzalez for Congress</payeeName>
+      <recipientName>Anthony Gonzalez</recipientName>
+      <amount>1000</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Political Action Committee / The Bank of New York Mellon Corporation - Federal</contributorName>
+      <payeeName>votetipton.com</payeeName>
+      <recipientName>Scott Tipton</recipientName>
+      <amount>1000</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Political Action Committee / The Bank of New York Mellon Corporation - Federal</contributorName>
+      <payeeName>Zeldin for Congress</payeeName>
+      <recipientName>Lee Zeldin</recipientName>
+      <amount>1000</amount>
+      <date>11/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Political Action Committee / The Bank of New York Mellon Corporation - Federal</contributorName>
+      <payeeName>Josh Hawley for Senate</payeeName>
+      <recipientName>Josh Hawley</recipientName>
+      <amount>1000</amount>
+      <date>12/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Political Action Committee / The Bank of New York Mellon Corporation - Federal</contributorName>
+      <payeeName>Ted Budd for Congress</payeeName>
+      <recipientName>Ted Budd</recipientName>
+      <amount>2000</amount>
+      <date>12/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Political Action Committee / The Bank of New York Mellon Corporation - Federal</contributorName>
+      <payeeName>Friends of Denver Riggleman</payeeName>
+      <recipientName>Denver Riggleman</recipientName>
+      <amount>1000</amount>
+      <date>12/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Political Action Committee / The Bank of New York Mellon Corporation - Federal</contributorName>
+      <payeeName>Steil for Wisconsin</payeeName>
+      <recipientName>Bryan Steil</recipientName>
+      <amount>1000</amount>
+      <date>12/6/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Political Action Committee / The Bank of New York Mellon Corporation - Federal</contributorName>
+      <payeeName>Hoyer for Congress</payeeName>
+      <recipientName>Steny H. Hoyer</recipientName>
+      <amount>2500</amount>
+      <date>12/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Political Action Committee / The Bank of New York Mellon Corporation - Federal</contributorName>
+      <payeeName>Ted Budd for Congress</payeeName>
+      <recipientName>Ted Budd</recipientName>
+      <amount>500</amount>
+      <date>12/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Political Action Committee / The Bank of New York Mellon Corporation - Federal</contributorName>
+      <payeeName>Ted Budd for Congress</payeeName>
+      <recipientName>Ted Budd</recipientName>
+      <amount>500</amount>
+      <date>12/16/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>Cornerstone Government Affairs, Inc.</organizationName>
+  <lobbyistPrefix>Mr.</lobbyistPrefix>
+  <lobbyistFirstName>William</lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>Smith</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>75557</senateRegID>
+  <houseRegID>36051</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/31/2020 12:00:55 AM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Guthrie for Congress</payeeName>
+      <recipientName>Rep. Brett Guthrie</recipientName>
+      <amount>500.00</amount>
+      <date>07/11/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Dan Newhouse for Congress</payeeName>
+      <recipientName>Rep. Dan Newhouse</recipientName>
+      <amount>500.00</amount>
+      <date>07/15/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Kennedy for Senate</payeeName>
+      <recipientName>Senator John Kennedy</recipientName>
+      <amount>500.00</amount>
+      <date>07/17/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Friends for Chris Stewart, Inc.</payeeName>
+      <recipientName>Rep. Chris Stewart</recipientName>
+      <amount>500.00</amount>
+      <date>07/25/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Vern Buchanan for Congress</payeeName>
+      <recipientName>Rep. Vern Buchanan</recipientName>
+      <amount>250.00</amount>
+      <date>11/22/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Young for Iowa</payeeName>
+      <recipientName>The Honorable David Young</recipientName>
+      <amount>250.00</amount>
+      <date>10/28/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Church for Wisconsin</payeeName>
+      <recipientName>Mr. Jason Church</recipientName>
+      <amount>250.00</amount>
+      <date>11/14/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Friends of David Joyce</payeeName>
+      <recipientName>Rep. Dave Joyce</recipientName>
+      <amount>500.00</amount>
+      <date>11/19/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Young for Iowa, Inc.</payeeName>
+      <recipientName>The Honorable David Young</recipientName>
+      <amount>250.00</amount>
+      <date>11/20/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Womack for Congress</payeeName>
+      <recipientName>Rep. Steve Womack</recipientName>
+      <amount>500.00</amount>
+      <date>12/10/19</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

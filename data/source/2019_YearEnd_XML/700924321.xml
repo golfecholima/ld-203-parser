@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>L</filerType>
+  <organizationName>Squire Patton Boggs</organizationName>
+  <lobbyistPrefix>Ms.</lobbyistPrefix>
+  <lobbyistFirstName>SARAH</lobbyistFirstName>
+  <lobbyistMiddleName>GROOTHUIS</lobbyistMiddleName>
+  <lobbyistLastName>VILMS</lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactPrefix>
+  </contactPrefix>
+  <contactName>
+  </contactName>
+  <senateRegID>30906</senateRegID>
+  <houseRegID>31917</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>True</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/30/2020 9:57:27 AM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Durbin for Senate</payeeName>
+      <recipientName>Senator Dick Durbin</recipientName>
+      <amount>250.00</amount>
+      <date>11/17/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>Self</contributorName>
+      <payeeName>Donate to Mark Warner</payeeName>
+      <recipientName>Senator Mark Warner</recipientName>
+      <amount>300.00</amount>
+      <date>9/21/19</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

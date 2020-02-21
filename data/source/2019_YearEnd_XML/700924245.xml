@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>Poet, LLC</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <address2>
+  </address2>
+  <zipext>
+  </zipext>
+  <contactName>Kyle Gilley</contactName>
+  <senateRegID>308230</senateRegID>
+  <houseRegID>38412</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/30/2020 9:32:36 AM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>
+  </noContributions>
+  <pacs>
+    <pac>
+      <name>POET PAC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>POET PAC</contributorName>
+      <payeeName>CHRIS COONS FOR DELAWARE</payeeName>
+      <recipientName>Sen Christopher A Coons</recipientName>
+      <amount>1000.00</amount>
+      <date>09/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>POET PAC</contributorName>
+      <payeeName>DCCC</payeeName>
+      <recipientName>DEMOCRATIC CONGRESSIONAL CAMPAIGN COMMITTEE</recipientName>
+      <amount>15000.00</amount>
+      <date>09/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>POET PAC</contributorName>
+      <payeeName>ELECTING MAJORITY MAKING EFFECTIVE REPUBLICANS</payeeName>
+      <recipientName>Rep Thomas E Emmer Jr</recipientName>
+      <amount>5000.00</amount>
+      <date>09/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>POET PAC</contributorName>
+      <payeeName>EMMER FOR CONGRESS</payeeName>
+      <recipientName>Rep Thomas E Emmer Jr</recipientName>
+      <amount>5000.00</amount>
+      <date>09/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>POET PAC</contributorName>
+      <payeeName>FRIENDS OF CHERI BUSTOS</payeeName>
+      <recipientName>Rep Cheri L Bustos</recipientName>
+      <amount>5000.00</amount>
+      <date>09/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>POET PAC</contributorName>
+      <payeeName>FRIENDS OF CHERI BUSTOS</payeeName>
+      <recipientName>Rep Cheri L Bustos</recipientName>
+      <amount>5000.00</amount>
+      <date>09/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>POET PAC</contributorName>
+      <payeeName>Jason Smith for Congress</payeeName>
+      <recipientName>Rep Jason T Smith</recipientName>
+      <amount>5000.00</amount>
+      <date>09/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>POET PAC</contributorName>
+      <payeeName>MIKE BOST FOR CONGRESS COMMITTEE</payeeName>
+      <recipientName>Rep Mike Bost</recipientName>
+      <amount>1000.00</amount>
+      <date>09/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>POET PAC</contributorName>
+      <payeeName>MR SOUTHERN MISSOURIAN IN THE HOUSE PAC</payeeName>
+      <recipientName>Rep Jason T Smith</recipientName>
+      <amount>5000.00</amount>
+      <date>09/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>POET PAC</contributorName>
+      <payeeName>RESTORING OUR NATION RON PAC</payeeName>
+      <recipientName>Rep Ron Estes</recipientName>
+      <amount>5000.00</amount>
+      <date>09/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>POET PAC</contributorName>
+      <payeeName>RON ESTES FOR CONGRESS</payeeName>
+      <recipientName>Rep Ron Estes</recipientName>
+      <amount>5000.00</amount>
+      <date>09/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>POET PAC</contributorName>
+      <payeeName>RON ESTES FOR CONGRESS</payeeName>
+      <recipientName>Rep Ron Estes</recipientName>
+      <amount>5000.00</amount>
+      <date>09/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>POET PAC</contributorName>
+      <payeeName>ROUNDS FOR SENATE</payeeName>
+      <recipientName>Marion Michael Rounds</recipientName>
+      <amount>5000.00</amount>
+      <date>09/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>POET PAC</contributorName>
+      <payeeName>THE PETER NORBECK LEADERSHIP PAC</payeeName>
+      <recipientName>Sen Mike Rounds</recipientName>
+      <amount>5000.00</amount>
+      <date>09/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>POET PAC</contributorName>
+      <payeeName>VICKY HARTZLER FOR CONGRESS</payeeName>
+      <recipientName>Rep Vicky Jo Hartzler</recipientName>
+      <amount>5000.00</amount>
+      <date>09/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>POET PAC</contributorName>
+      <payeeName>FRIENDS OF DAN KILDEE</payeeName>
+      <recipientName>Rep Dan T Kildee</recipientName>
+      <amount>5000.00</amount>
+      <date>09/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>POET PAC</contributorName>
+      <payeeName>NUTMEG PAC</payeeName>
+      <recipientName>Sen Richard Blumenthal</recipientName>
+      <amount>1000.00</amount>
+      <date>09/27/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>POET PAC</contributorName>
+      <payeeName>BEN SASSE FOR US SENATE INC</payeeName>
+      <recipientName>Sen Ben Sasse</recipientName>
+      <amount>5000.00</amount>
+      <date>12/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>POET PAC</contributorName>
+      <payeeName>CARPER FOR SENATE</payeeName>
+      <recipientName>Sen Tom R Carper</recipientName>
+      <amount>2500.00</amount>
+      <date>12/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>POET PAC</contributorName>
+      <payeeName>CINDY AXNE FOR CONGRESS</payeeName>
+      <recipientName>Rep Cindy Axne</recipientName>
+      <amount>5000.00</amount>
+      <date>12/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>POET PAC</contributorName>
+      <payeeName>CINDY AXNE FOR CONGRESS</payeeName>
+      <recipientName>Rep Cindy Axne</recipientName>
+      <amount>5000.00</amount>
+      <date>12/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>POET PAC</contributorName>
+      <payeeName>DELGADO FOR CONGRESS</payeeName>
+      <recipientName>Rep Antonio Delgado</recipientName>
+      <amount>5000.00</amount>
+      <date>12/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>POET PAC</contributorName>
+      <payeeName>FINKENAUER FOR CONGRESS</payeeName>
+      <recipientName>Rep Abby Finkenauer</recipientName>
+      <amount>3000.00</amount>
+      <date>12/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>POET PAC</contributorName>
+      <payeeName>Friends Of Dick Durbin Committee</payeeName>
+      <recipientName>Sen Dick Durbin</recipientName>
+      <amount>5000.00</amount>
+      <date>12/16/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>POET PAC</contributorName>
+      <payeeName>ANGIE CRAIG FOR CONGRESS</payeeName>
+      <recipientName>Rep Angie Craig</recipientName>
+      <amount>5000.00</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>POET PAC</contributorName>
+      <payeeName>ANGIE CRAIG FOR CONGRESS</payeeName>
+      <recipientName>Rep Angie Craig</recipientName>
+      <amount>2500.00</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>POET PAC</contributorName>
+      <payeeName>ARMSTRONG FOR CONGRESS</payeeName>
+      <recipientName>Kelly Armstrong</recipientName>
+      <amount>5000.00</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>POET PAC</contributorName>
+      <payeeName>FRIENDS OF DUSTY JOHNSON</payeeName>
+      <recipientName>Dusty Johnson</recipientName>
+      <amount>5000.00</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>POET PAC</contributorName>
+      <payeeName>FRIENDS OF DUSTY JOHNSON</payeeName>
+      <recipientName>Dusty Johnson</recipientName>
+      <amount>5000.00</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>POET PAC</contributorName>
+      <payeeName>FRIENDS OF RAJA FOR CONGRESS</payeeName>
+      <recipientName>Rep Raja Krishnamoorthi</recipientName>
+      <amount>2500.00</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>POET PAC</contributorName>
+      <payeeName>HALEY STEVENS FOR CONGRESS</payeeName>
+      <recipientName>Rep Haley Stevens</recipientName>
+      <amount>5000.00</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>POET PAC</contributorName>
+      <payeeName>JASON CROW FOR CONGRESS</payeeName>
+      <recipientName>Rep Jason Crow</recipientName>
+      <amount>5000.00</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>POET PAC</contributorName>
+      <payeeName>Jason Smith for Congress</payeeName>
+      <recipientName>Rep Jason T Smith</recipientName>
+      <amount>5000.00</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>POET PAC</contributorName>
+      <payeeName>PALLONE FOR CONGRESS</payeeName>
+      <recipientName>Rep Frank J Pallone Jr</recipientName>
+      <amount>5000.00</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>POET PAC</contributorName>
+      <payeeName>PAUL TONKO FOR CONGRESS</payeeName>
+      <recipientName>Rep Paul D Tonko</recipientName>
+      <amount>5000.00</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>POET PAC</contributorName>
+      <payeeName>PAUL TONKO FOR CONGRESS</payeeName>
+      <recipientName>Rep Paul D Tonko</recipientName>
+      <amount>5000.00</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>POET PAC</contributorName>
+      <payeeName>PERIMETER PAC</payeeName>
+      <recipientName>Sen Tammy Duckworth</recipientName>
+      <amount>5000.00</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>POET PAC</contributorName>
+      <payeeName>PETERSON FOR CONGRESS</payeeName>
+      <recipientName>Rep Collin C Peterson</recipientName>
+      <amount>2500.00</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>POET PAC</contributorName>
+      <payeeName>PETERSON FOR CONGRESS</payeeName>
+      <recipientName>Rep Collin C Peterson</recipientName>
+      <amount>5000.00</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>POET PAC</contributorName>
+      <payeeName>SMART SOLUTIONS PAC</payeeName>
+      <recipientName>Sen Jacklyn S Rosen</recipientName>
+      <amount>5000.00</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>POET PAC</contributorName>
+      <payeeName>TOM OHALLERAN FOR CONGRESS</payeeName>
+      <recipientName>Rep Tom OHalleran</recipientName>
+      <amount>5000.00</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>POET PAC</contributorName>
+      <payeeName>AMERICA WORKS FEDERAL PAC</payeeName>
+      <recipientName>Sen Sherrod C Brown</recipientName>
+      <amount>5000.00</amount>
+      <date>12/18/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

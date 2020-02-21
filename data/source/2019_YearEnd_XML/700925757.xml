@@ -1,0 +1,798 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>WellCare Health Plans, Inc.</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <zipext>
+  </zipext>
+  <contactName>Heather Sidwell Morris</contactName>
+  <senateRegID>401103270</senateRegID>
+  <houseRegID>42566</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/30/2020 3:44:46 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>WellCare Health Plans, Inc. PAC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>WellCare Health Plans, Inc. PAC</contributorName>
+      <payeeName>AMERIPAC</payeeName>
+      <recipientName>Congressman Steny Hoyer</recipientName>
+      <amount>5000.00</amount>
+      <date>12/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>WellCare Health Plans, Inc. PAC</contributorName>
+      <payeeName>Bera For Congress</payeeName>
+      <recipientName>Congressman Amerish Bera</recipientName>
+      <amount>1000.00</amount>
+      <date>08/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>WellCare Health Plans, Inc. PAC</contributorName>
+      <payeeName>Bera For Congress</payeeName>
+      <recipientName>Congressman Amerish Bera </recipientName>
+      <amount>1500.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>WellCare Health Plans, Inc. PAC</contributorName>
+      <payeeName>Bilirakis for Congress</payeeName>
+      <recipientName>Congressman Gus Bilirakis</recipientName>
+      <amount>2500.00</amount>
+      <date>11/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>WellCare Health Plans, Inc. PAC</contributorName>
+      <payeeName>Bill Cassidy for U.S. Senate</payeeName>
+      <recipientName>Senator William Cassidy</recipientName>
+      <amount>5000.00</amount>
+      <date>09/12/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>WellCare Health Plans, Inc. PAC</contributorName>
+      <payeeName>Bluegrass Committee</payeeName>
+      <recipientName>Senator Mitch McConnell</recipientName>
+      <amount>2500.00</amount>
+      <date>09/24/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>WellCare Health Plans, Inc. PAC</contributorName>
+      <payeeName>Blumenthal for Connecticut</payeeName>
+      <recipientName>Senator Richard Blumenthal</recipientName>
+      <amount>2500.00</amount>
+      <date>09/30/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>WellCare Health Plans, Inc. PAC</contributorName>
+      <payeeName>Brady for Congress</payeeName>
+      <recipientName>Congressman Kevin Brady</recipientName>
+      <amount>2500.00</amount>
+      <date>10/03/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>WellCare Health Plans, Inc. PAC</contributorName>
+      <payeeName>Castor for Congress</payeeName>
+      <recipientName>Congresswoman Kathy Castor</recipientName>
+      <amount>1000.00</amount>
+      <date>09/30/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>WellCare Health Plans, Inc. PAC</contributorName>
+      <payeeName>Catherine Cortez Masto for Senate</payeeName>
+      <recipientName>Congresswoman Catherine Cortez Masto</recipientName>
+      <amount>5000.00</amount>
+      <date>11/18/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>WellCare Health Plans, Inc. PAC</contributorName>
+      <payeeName>Charlie Crist for Congress</payeeName>
+      <recipientName>Congressman Charlie Crist</recipientName>
+      <amount>1000.00</amount>
+      <date>11/07/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>WellCare Health Plans, Inc. PAC</contributorName>
+      <payeeName>Chris Coons for Delaware</payeeName>
+      <recipientName>Senator Christopher Coons</recipientName>
+      <amount>2500.00</amount>
+      <date>12/10/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>WellCare Health Plans, Inc. PAC</contributorName>
+      <payeeName>Citizens for Boyle</payeeName>
+      <recipientName>Congressman Brendan Boyle </recipientName>
+      <amount>1000.00</amount>
+      <date>09/30/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>WellCare Health Plans, Inc. PAC</contributorName>
+      <payeeName>Collins for Senator</payeeName>
+      <recipientName>Senator Susan M. Collins</recipientName>
+      <amount>4000.00</amount>
+      <date>09/12/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>WellCare Health Plans, Inc. PAC</contributorName>
+      <payeeName>Common Values PAC</payeeName>
+      <recipientName>Senator John Barrasso</recipientName>
+      <amount>5000.00</amount>
+      <date>09/12/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>WellCare Health Plans, Inc. PAC</contributorName>
+      <payeeName>Cory Gardner for Senate</payeeName>
+      <recipientName>Congressman Cory Gardner</recipientName>
+      <amount>2500.00</amount>
+      <date>09/12/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>WellCare Health Plans, Inc. PAC</contributorName>
+      <payeeName>Darren Soto for Congress</payeeName>
+      <recipientName>Congressman Darren Soto</recipientName>
+      <amount>1000.00</amount>
+      <date>07/11/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>WellCare Health Plans, Inc. PAC</contributorName>
+      <payeeName>Debbie Dingell for Congress </payeeName>
+      <recipientName>Congresswoman Debbie Dingell</recipientName>
+      <amount>1000.00</amount>
+      <date>09/30/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>WellCare Health Plans, Inc. PAC</contributorName>
+      <payeeName>DelBene for Congress</payeeName>
+      <recipientName>Congresswoman Suzan DelBene</recipientName>
+      <amount>1000.00</amount>
+      <date>09/30/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>WellCare Health Plans, Inc. PAC</contributorName>
+      <payeeName>DIRIGO PAC</payeeName>
+      <recipientName>Senator Susan Collins</recipientName>
+      <amount>1000.00</amount>
+      <date>09/12/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>WellCare Health Plans, Inc. PAC</contributorName>
+      <payeeName>Doggett for Congress</payeeName>
+      <recipientName>Congressman Lloyd Doggett</recipientName>
+      <amount>1000.00</amount>
+      <date>09/30/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>WellCare Health Plans, Inc. PAC</contributorName>
+      <payeeName>Doug Jones for Senate Committee</payeeName>
+      <recipientName>Senator Doug Jones</recipientName>
+      <amount>2500.00</amount>
+      <date>11/18/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>WellCare Health Plans, Inc. PAC</contributorName>
+      <payeeName>Dr. Raul Ruiz for Congress</payeeName>
+      <recipientName>Congressman Raul Ruiz</recipientName>
+      <amount>1000.00</amount>
+      <date>09/30/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>WellCare Health Plans, Inc. PAC</contributorName>
+      <payeeName>Dwight Evans for Congress</payeeName>
+      <recipientName>Congressman Dwight Evans</recipientName>
+      <amount>1000.00</amount>
+      <date>09/30/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>WellCare Health Plans, Inc. PAC</contributorName>
+      <payeeName>Elise for Congress</payeeName>
+      <recipientName>Congresswoman Elise Stefanik</recipientName>
+      <amount>1000.00</amount>
+      <date>11/26/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>WellCare Health Plans, Inc. PAC</contributorName>
+      <payeeName>First State PAC</payeeName>
+      <recipientName>Senator Thomas Carper</recipientName>
+      <amount>2500.00</amount>
+      <date>11/18/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>WellCare Health Plans, Inc. PAC</contributorName>
+      <payeeName>First State PAC</payeeName>
+      <recipientName>Senator Thomas Carper</recipientName>
+      <amount>2500.00</amount>
+      <date>12/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>WellCare Health Plans, Inc. PAC</contributorName>
+      <payeeName>Freedom Fund</payeeName>
+      <recipientName>Congressman Michael Crapo</recipientName>
+      <amount>2500.00</amount>
+      <date>12/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>WellCare Health Plans, Inc. PAC</contributorName>
+      <payeeName>Friends of Cheri Bustos</payeeName>
+      <recipientName>Congresswoman Cheri Bustos</recipientName>
+      <amount>5000.00</amount>
+      <date>09/30/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>WellCare Health Plans, Inc. PAC</contributorName>
+      <payeeName>Friends of Dick Durbin Committee</payeeName>
+      <recipientName>Senator Richard Durbin</recipientName>
+      <amount>5000.00</amount>
+      <date>11/18/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>WellCare Health Plans, Inc. PAC</contributorName>
+      <payeeName>Friends of John Thune</payeeName>
+      <recipientName>Senator John Thune</recipientName>
+      <amount>5000.00</amount>
+      <date>09/13/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>WellCare Health Plans, Inc. PAC</contributorName>
+      <payeeName>Friends of Mark Warner</payeeName>
+      <recipientName>Senator Mark Warner</recipientName>
+      <amount>5000.00</amount>
+      <date>11/18/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>WellCare Health Plans, Inc. PAC</contributorName>
+      <payeeName>Friends of Pat Toomey</payeeName>
+      <recipientName>Senator Patrick Toomey</recipientName>
+      <amount>5000.00</amount>
+      <date>12/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>WellCare Health Plans, Inc. PAC</contributorName>
+      <payeeName>Gary Palmer for Congress</payeeName>
+      <recipientName>Congressman Gary Palmer</recipientName>
+      <amount>2500.00</amount>
+      <date>12/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>WellCare Health Plans, Inc. PAC</contributorName>
+      <payeeName>Guthrie for Congress</payeeName>
+      <recipientName>Congressman Brett Guthrie</recipientName>
+      <amount>2500.00</amount>
+      <date>12/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>WellCare Health Plans, Inc. PAC</contributorName>
+      <payeeName>Himes for Congress</payeeName>
+      <recipientName>Congressman Jim Himes</recipientName>
+      <amount>1000.00</amount>
+      <date>09/30/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>WellCare Health Plans, Inc. PAC</contributorName>
+      <payeeName>Hoyer for Congress</payeeName>
+      <recipientName>Congressman Steny Hoyer</recipientName>
+      <amount>2500.00</amount>
+      <date>10/17/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>WellCare Health Plans, Inc. PAC</contributorName>
+      <payeeName>Hoyer Majority Fund</payeeName>
+      <recipientName>Congressman Steny Hoyer</recipientName>
+      <amount>2500.00</amount>
+      <date>09/05/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>WellCare Health Plans, Inc. PAC</contributorName>
+      <payeeName>IMPACT</payeeName>
+      <recipientName>Senator Charles Schumer</recipientName>
+      <amount>5000.00</amount>
+      <date>12/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>WellCare Health Plans, Inc. PAC</contributorName>
+      <payeeName>Innovation PAC</payeeName>
+      <recipientName>Congressman Patrick McHenry</recipientName>
+      <amount>2500.00</amount>
+      <date>12/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>WellCare Health Plans, Inc. PAC</contributorName>
+      <payeeName>Jason Smith for Congress</payeeName>
+      <recipientName>Congressman Jason Smith</recipientName>
+      <amount>2500.00</amount>
+      <date>11/26/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>WellCare Health Plans, Inc. PAC</contributorName>
+      <payeeName>Jeffries for Congress</payeeName>
+      <recipientName>Congressman Hakeem Jeffries </recipientName>
+      <amount>1000.00</amount>
+      <date>09/30/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>WellCare Health Plans, Inc. PAC</contributorName>
+      <payeeName>John Kennedy for U. S. Senate</payeeName>
+      <recipientName>Senator John Kennedy</recipientName>
+      <amount>2000.00</amount>
+      <date>09/12/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>WellCare Health Plans, Inc. PAC</contributorName>
+      <payeeName>John Lewis for Congress</payeeName>
+      <recipientName>Congressman John Lewis</recipientName>
+      <amount>1000.00</amount>
+      <date>10/17/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>WellCare Health Plans, Inc. PAC</contributorName>
+      <payeeName>Johnson for Congress </payeeName>
+      <recipientName>Congressman Bill Johnson</recipientName>
+      <amount>1000.00</amount>
+      <date>12/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>WellCare Health Plans, Inc. PAC</contributorName>
+      <payeeName>Kay Granger Campaign Fund</payeeName>
+      <recipientName>Congresswoman Kay Granger </recipientName>
+      <amount>2500.00</amount>
+      <date>11/26/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>WellCare Health Plans, Inc. PAC</contributorName>
+      <payeeName>Kentucky State Democratic Central Executive Committee</payeeName>
+      <recipientName>Kentucky State Democratic Central Executive Committee</recipientName>
+      <amount>5000.00</amount>
+      <date>12/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>WellCare Health Plans, Inc. PAC</contributorName>
+      <payeeName>Kind for Congress Committee</payeeName>
+      <recipientName>Congressman Ronald James Kind</recipientName>
+      <amount>1000.00</amount>
+      <date>10/17/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>WellCare Health Plans, Inc. PAC</contributorName>
+      <payeeName>Kurt Schrader for Congress</payeeName>
+      <recipientName>Congressman Kurt Schrader</recipientName>
+      <amount>2500.00</amount>
+      <date>08/05/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>WellCare Health Plans, Inc. PAC</contributorName>
+      <payeeName>Larson for Congress</payeeName>
+      <recipientName>Congressman John Larson</recipientName>
+      <amount>1000.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>WellCare Health Plans, Inc. PAC</contributorName>
+      <payeeName>Latta for Congress</payeeName>
+      <recipientName>Congressman Robert Latta</recipientName>
+      <amount>1500.00</amount>
+      <date>12/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>WellCare Health Plans, Inc. PAC</contributorName>
+      <payeeName>Lone Star Leadership PAC</payeeName>
+      <recipientName>Congressman Michael Burgess</recipientName>
+      <amount>1500.00</amount>
+      <date>12/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>WellCare Health Plans, Inc. PAC</contributorName>
+      <payeeName>The Madison PAC</payeeName>
+      <recipientName>Congressman Richard Neal</recipientName>
+      <amount>5000.00</amount>
+      <date>10/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>WellCare Health Plans, Inc. PAC</contributorName>
+      <payeeName>Maggie for NH</payeeName>
+      <recipientName>Senator Maggie Hassan</recipientName>
+      <amount>2500.00</amount>
+      <date>12/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>WellCare Health Plans, Inc. PAC</contributorName>
+      <payeeName>Making a Responsible Stand for Households in America PAC</payeeName>
+      <recipientName>Senator Marsha Blackburn</recipientName>
+      <amount>2500.00</amount>
+      <date>09/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>WellCare Health Plans, Inc. PAC</contributorName>
+      <payeeName>Making Business Excel PAC</payeeName>
+      <recipientName>Senator Mike Enzi</recipientName>
+      <amount>5000.00</amount>
+      <date>09/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>WellCare Health Plans, Inc. PAC</contributorName>
+      <payeeName>Marc Veasey Congressional Campaign Committee</payeeName>
+      <recipientName>Congressman Marc Veasey</recipientName>
+      <amount>1000.00</amount>
+      <date>10/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>WellCare Health Plans, Inc. PAC</contributorName>
+      <payeeName>McConnell Senate Committee</payeeName>
+      <recipientName>Senator Mitch McConnell</recipientName>
+      <amount>5000.00</amount>
+      <date>09/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>WellCare Health Plans, Inc. PAC</contributorName>
+      <payeeName>Mike Kelly for Congress</payeeName>
+      <recipientName>Congressman Mike Kelly</recipientName>
+      <amount>2250.00</amount>
+      <date>12/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>WellCare Health Plans, Inc. PAC</contributorName>
+      <payeeName>Mike Thompson for Congress</payeeName>
+      <recipientName>Congressman Mike Thompson</recipientName>
+      <amount>3500.00</amount>
+      <date>10/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>WellCare Health Plans, Inc. PAC</contributorName>
+      <payeeName>Mike Thompson for Congress</payeeName>
+      <recipientName>Congressman Mike Thompson</recipientName>
+      <amount>1500.00</amount>
+      <date>11/07/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>WellCare Health Plans, Inc. PAC</contributorName>
+      <payeeName>Nevadans for Steven Horsford</payeeName>
+      <recipientName>Congressman Steven Horsford</recipientName>
+      <amount>1000.00</amount>
+      <date>09/05/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>WellCare Health Plans, Inc. PAC</contributorName>
+      <payeeName>Next Century Fund</payeeName>
+      <recipientName>Senator Richard Burr</recipientName>
+      <amount>5000.00</amount>
+      <date>11/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>WellCare Health Plans, Inc. PAC</contributorName>
+      <payeeName>Oorah! PAC</payeeName>
+      <recipientName>Senator Todd Young</recipientName>
+      <amount>1000.00</amount>
+      <date>07/29/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>WellCare Health Plans, Inc. PAC</contributorName>
+      <payeeName>Pallone for Congress</payeeName>
+      <recipientName>Congressman Frank Pallone, Jr.</recipientName>
+      <amount>2500.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>WellCare Health Plans, Inc. PAC</contributorName>
+      <payeeName>Pallone for Congress</payeeName>
+      <recipientName>Congressman Frank Pallone, Jr.</recipientName>
+      <amount>1000.00</amount>
+      <date>10/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>WellCare Health Plans, Inc. PAC</contributorName>
+      <payeeName>Paul Tonko for Congress</payeeName>
+      <recipientName>Congressman Paul Tonko</recipientName>
+      <amount>1000.00</amount>
+      <date>10/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>WellCare Health Plans, Inc. PAC</contributorName>
+      <payeeName>People for Patty Murray</payeeName>
+      <recipientName>Senator Patty Murray</recipientName>
+      <amount>2500.00</amount>
+      <date>11/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>WellCare Health Plans, Inc. PAC</contributorName>
+      <payeeName>People for Patty Murray</payeeName>
+      <recipientName>Senator Patty Murray</recipientName>
+      <amount>2500.00</amount>
+      <date>11/26/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>WellCare Health Plans, Inc. PAC</contributorName>
+      <payeeName>Peters for Michigan</payeeName>
+      <recipientName>Senator Gary Peters</recipientName>
+      <amount>2500.00</amount>
+      <date>12/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>WellCare Health Plans, Inc. PAC</contributorName>
+      <payeeName>Rosen Victory Fund</payeeName>
+      <recipientName>Senator Jacky Rosen</recipientName>
+      <amount>5000.00</amount>
+      <date>07/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>WellCare Health Plans, Inc. PAC</contributorName>
+      <payeeName>Scalise Leadership Fund</payeeName>
+      <recipientName>Congressman Steve Scalise</recipientName>
+      <amount>5000.00</amount>
+      <date>10/03/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>WellCare Health Plans, Inc. PAC</contributorName>
+      <payeeName>Schatz for Senate</payeeName>
+      <recipientName>Senator Brian Schatz</recipientName>
+      <amount>2500.00</amount>
+      <date>12/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>WellCare Health Plans, Inc. PAC</contributorName>
+      <payeeName>Brad Schneider for Congress</payeeName>
+      <recipientName>Congressman Bradley Schneider</recipientName>
+      <amount>2500.00</amount>
+      <date>07/11/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>WellCare Health Plans, Inc. PAC</contributorName>
+      <payeeName>Scott Peters for Congress</payeeName>
+      <recipientName>Congressman Scott Peters</recipientName>
+      <amount>2500.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>WellCare Health Plans, Inc. PAC</contributorName>
+      <payeeName>Shaheen for Senate</payeeName>
+      <recipientName>Senator Jeanne Shaheen</recipientName>
+      <amount>1000.00</amount>
+      <date>11/07/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>WellCare Health Plans, Inc. PAC</contributorName>
+      <payeeName>Shaheen for Senate</payeeName>
+      <recipientName>Senator Jeanne Shaheen</recipientName>
+      <amount>2500.00</amount>
+      <date>12/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>WellCare Health Plans, Inc. PAC</contributorName>
+      <payeeName>Sinema for Arizona</payeeName>
+      <recipientName>Senator Krysten Sinema</recipientName>
+      <amount>5000.00</amount>
+      <date>11/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>WellCare Health Plans, Inc. PAC</contributorName>
+      <payeeName>Stabenow for US Senate</payeeName>
+      <recipientName>Senator Debbie Stabenow</recipientName>
+      <amount>2500.00</amount>
+      <date>11/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>WellCare Health Plans, Inc. PAC</contributorName>
+      <payeeName>Stand with Sanchez</payeeName>
+      <recipientName>Congresswoman Linda Sanchez</recipientName>
+      <amount>1000.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>WellCare Health Plans, Inc. PAC</contributorName>
+      <payeeName>Stephanie Murphy for Congress</payeeName>
+      <recipientName>Congresswoman Stephanie Murphy</recipientName>
+      <amount>1000.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>WellCare Health Plans, Inc. PAC</contributorName>
+      <payeeName>Tammy Baldwin for Senate</payeeName>
+      <recipientName>Senator Tammy Baldwin</recipientName>
+      <amount>2500.00</amount>
+      <date>12/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>WellCare Health Plans, Inc. PAC</contributorName>
+      <payeeName>Tammy for Illinois</payeeName>
+      <recipientName>Senator Tammy Duckworth</recipientName>
+      <amount>2500.00</amount>
+      <date>11/18/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>WellCare Health Plans, Inc. PAC</contributorName>
+      <payeeName>TENN Political Action Committee Inc.</payeeName>
+      <recipientName>Senator Lamar Alexander</recipientName>
+      <amount>5000.00</amount>
+      <date>08/14/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>WellCare Health Plans, Inc. PAC</contributorName>
+      <payeeName>Terri Sewell for Congress</payeeName>
+      <recipientName>Congresswoman Terri Sewell</recipientName>
+      <amount>1000.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>WellCare Health Plans, Inc. PAC</contributorName>
+      <payeeName>Texans for Jodey Arrington</payeeName>
+      <recipientName>Congressman Jodey Arrington</recipientName>
+      <amount>2500.00</amount>
+      <date>09/12/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>WellCare Health Plans, Inc. PAC</contributorName>
+      <payeeName>Texans for Jodey Arrington</payeeName>
+      <recipientName>Congressman Jodey Arrington</recipientName>
+      <amount>2500.00</amount>
+      <date>12/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>WellCare Health Plans, Inc. PAC</contributorName>
+      <payeeName>Texans for Senator John Cornyn Inc.</payeeName>
+      <recipientName>Senator John Cornyn</recipientName>
+      <amount>4000.00</amount>
+      <date>09/13/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>WellCare Health Plans, Inc. PAC</contributorName>
+      <payeeName>The Hawkeye PAC</payeeName>
+      <recipientName>Senator Chuck Grassley</recipientName>
+      <amount>5000.00</amount>
+      <date>09/19/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>WellCare Health Plans, Inc. PAC</contributorName>
+      <payeeName>Tina Smith for Minnesota</payeeName>
+      <recipientName>Senator Tina Smith</recipientName>
+      <amount>2500.00</amount>
+      <date>12/10/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>WellCare Health Plans, Inc. PAC</contributorName>
+      <payeeName>Tom Reed for Congress</payeeName>
+      <recipientName>Congressman Tom Reed</recipientName>
+      <amount>2000.00</amount>
+      <date>12/17/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>WellCare Health Plans, Inc. PAC</contributorName>
+      <payeeName>Tony Cardenas for Congress</payeeName>
+      <recipientName>Congressman Tony Cardenas</recipientName>
+      <amount>2500.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>WellCare Health Plans, Inc. PAC</contributorName>
+      <payeeName>Val Demings for Congress</payeeName>
+      <recipientName>Congresswoman Valdez Demings</recipientName>
+      <amount>500.00</amount>
+      <date>09/30/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>WellCare Health Plans, Inc. PAC</contributorName>
+      <payeeName>Walden for Congress</payeeName>
+      <recipientName>Congressman Gregory Walden</recipientName>
+      <amount>1000.00</amount>
+      <date>08/15/2019</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>WellCare Health Plans, Inc. PAC</contributorName>
+      <payeeName>Walorski for Congress</payeeName>
+      <recipientName>Congresswoman Jackie Walorski</recipientName>
+      <amount>2250.00</amount>
+      <date>12/10/2019</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>

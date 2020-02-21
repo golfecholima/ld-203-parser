@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='../../rpt.xslt'?>
+<CONTRIBUTIONDISCLOSURE>
+  <filerType>O</filerType>
+  <organizationName>The Glover Park Group LLC</organizationName>
+  <lobbyistPrefix>
+  </lobbyistPrefix>
+  <lobbyistFirstName>
+  </lobbyistFirstName>
+  <lobbyistMiddleName>
+  </lobbyistMiddleName>
+  <lobbyistLastName>
+  </lobbyistLastName>
+  <lobbyistSuffix>
+  </lobbyistSuffix>
+  <lobbyistID>
+  </lobbyistID>
+  <zipext>
+  </zipext>
+  <contactName>Joel Johnson</contactName>
+  <senateRegID>86196</senateRegID>
+  <houseRegID>36548</houseRegID>
+  <reportYear>2019</reportYear>
+  <reportType>YY</reportType>
+  <amendment>False</amendment>
+  <comments>
+  </comments>
+  <signedDate>1/30/2020 2:46:38 PM</signedDate>
+  <certifiedcontent>true</certifiedcontent>
+  <noContributions>false</noContributions>
+  <pacs>
+    <pac>
+      <name>The Glover Park PAC</name>
+    </pac>
+  </pacs>
+  <contributions>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Glover Park PAC</contributorName>
+      <payeeName>Durbin Victory Fund</payeeName>
+      <recipientName>Durbin Victory Fund</recipientName>
+      <amount>1000.00</amount>
+      <date>7/25/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Glover Park PAC</contributorName>
+      <payeeName>Devin Nunes Campaign Committee</payeeName>
+      <recipientName>Devin Nunes Campaign Committee</recipientName>
+      <amount>1000.00</amount>
+      <date>7/25/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Glover Park PAC</contributorName>
+      <payeeName>Engel for Congress</payeeName>
+      <recipientName>Engel for Congress</recipientName>
+      <amount>1000.00</amount>
+      <date>7/25/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Glover Park PAC</contributorName>
+      <payeeName>Karen Bass for Congress</payeeName>
+      <recipientName>Karen Bass for Congress</recipientName>
+      <amount>1000.00</amount>
+      <date>7/25/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Glover Park PAC</contributorName>
+      <payeeName>Rodney for Congress</payeeName>
+      <recipientName>Rodney for Congress</recipientName>
+      <amount>1000.00</amount>
+      <date>7/25/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Glover Park PAC</contributorName>
+      <payeeName>Buddy Carter for Congress</payeeName>
+      <recipientName>Buddy Carter for Congress</recipientName>
+      <amount>500.00</amount>
+      <date>7/25/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Glover Park PAC</contributorName>
+      <payeeName>Ratcliffe for Congress</payeeName>
+      <recipientName>Ratcliffe for Congress</recipientName>
+      <amount>1000.00</amount>
+      <date>8/21/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Glover Park PAC</contributorName>
+      <payeeName>Bill Flores for Congress</payeeName>
+      <recipientName>Bill Flores for Congress</recipientName>
+      <amount>1000.00</amount>
+      <date>8/21/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Glover Park PAC</contributorName>
+      <payeeName>Nancy Pelosi for Congress</payeeName>
+      <recipientName>Nancy Pelosi for Congress</recipientName>
+      <amount>1000.00</amount>
+      <date>8/21/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Glover Park PAC</contributorName>
+      <payeeName> Suozzi For Congress</payeeName>
+      <recipientName>Suozzi For Congress</recipientName>
+      <amount>1000.00</amount>
+      <date>8/21/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Glover Park PAC</contributorName>
+      <payeeName>Congressional Black Caucus PAC</payeeName>
+      <recipientName>Congressional Black Caucus PAC</recipientName>
+      <amount>2500.00</amount>
+      <date>8/21/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Glover Park PAC</contributorName>
+      <payeeName>Van Hollen For Senate</payeeName>
+      <recipientName>Van Hollen For Senate</recipientName>
+      <amount>1000.00</amount>
+      <date>9/6/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Glover Park PAC</contributorName>
+      <payeeName>Pallone For Congress</payeeName>
+      <recipientName>Pallone For Congress</recipientName>
+      <amount>1000.00</amount>
+      <date>9/26/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Glover Park PAC</contributorName>
+      <payeeName>Doyle For Congress Committee</payeeName>
+      <recipientName>Doyle For Congress Committee</recipientName>
+      <amount>1000.00</amount>
+      <date>9/26/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Glover Park PAC</contributorName>
+      <payeeName>Neal Victory Fund</payeeName>
+      <recipientName>Neal Victory Fund</recipientName>
+      <amount>1500.00</amount>
+      <date>9/26/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Glover Park PAC</contributorName>
+      <payeeName>Shaheen For Senate</payeeName>
+      <recipientName>Shaheen For Senate</recipientName>
+      <amount>1000.00</amount>
+      <date>9/26/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Glover Park PAC</contributorName>
+      <payeeName>Chris Coons For Delaware</payeeName>
+      <recipientName>Chris Coons For Delaware</recipientName>
+      <amount>1750.00</amount>
+      <date>9/26/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Glover Park PAC</contributorName>
+      <payeeName>Chris Coons For Delaware</payeeName>
+      <recipientName>Chris Coons For Delaware</recipientName>
+      <amount>1750.00</amount>
+      <date>9/26/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Glover Park PAC</contributorName>
+      <payeeName>Citizens For Waters</payeeName>
+      <recipientName>Citizens For Waters</recipientName>
+      <amount>1000.00</amount>
+      <date>9/26/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Glover Park PAC</contributorName>
+      <payeeName>Welch For Congress</payeeName>
+      <recipientName>Welch For Congress</recipientName>
+      <amount>1000.00</amount>
+      <date>9/26/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Glover Park PAC</contributorName>
+      <payeeName>DeFazio For Congress</payeeName>
+      <recipientName>DeFazio For Congress</recipientName>
+      <amount>1000.00</amount>
+      <date>9/26/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Glover Park PAC</contributorName>
+      <payeeName>Buckeye Victory Fund</payeeName>
+      <recipientName>Buckeye Victory Fund</recipientName>
+      <amount>1000.00</amount>
+      <date>9/26/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Glover Park PAC</contributorName>
+      <payeeName>Responsibility And Freedom Work PAC</payeeName>
+      <recipientName>Responsibility And Freedom Work PAC</recipientName>
+      <amount>1000.00</amount>
+      <date>9/26/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Glover Park PAC</contributorName>
+      <payeeName>Armstrong For Congress</payeeName>
+      <recipientName>Armstrong For Congress</recipientName>
+      <amount>1000.00</amount>
+      <date>9/27/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Glover Park PAC</contributorName>
+      <payeeName>Butterfield For Congress</payeeName>
+      <recipientName>Butterfield For Congress</recipientName>
+      <amount>1000.00</amount>
+      <date>12/4/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Glover Park PAC</contributorName>
+      <payeeName>Tom O'Halleran For Congress</payeeName>
+      <recipientName>Tom O'Halleran For Congress</recipientName>
+      <amount>1000.00</amount>
+      <date>12/4/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Glover Park PAC</contributorName>
+      <payeeName>Friends Of Schumer</payeeName>
+      <recipientName>Friends Of Schumer</recipientName>
+      <amount>1000.00</amount>
+      <date>12/4/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Glover Park PAC</contributorName>
+      <payeeName>Paul Tonko For Congress</payeeName>
+      <recipientName>Paul Tonko For Congress</recipientName>
+      <amount>1500.00</amount>
+      <date>12/4/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Glover Park PAC</contributorName>
+      <payeeName>Lofgren For Congress</payeeName>
+      <recipientName>Lofgren For Congress</recipientName>
+      <amount>1000.00</amount>
+      <date>12/4/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Glover Park PAC</contributorName>
+      <payeeName>Richard E. Neal For Congress Committee</payeeName>
+      <recipientName>Richard E. Neal For Congress Committee</recipientName>
+      <amount>1000.00</amount>
+      <date>12/4/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Glover Park PAC</contributorName>
+      <payeeName>Josh Hawley For Senate</payeeName>
+      <recipientName>Josh Hawley For Senate</recipientName>
+      <amount>3000.00</amount>
+      <date>12/4/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Glover Park PAC</contributorName>
+      <payeeName>Casten For Congress</payeeName>
+      <recipientName>Casten For Congress</recipientName>
+      <amount>1000.00</amount>
+      <date>12/4/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Glover Park PAC</contributorName>
+      <payeeName>Carper For Senate</payeeName>
+      <recipientName>Carper For Senate</recipientName>
+      <amount>2500.00</amount>
+      <date>12/19/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Glover Park PAC</contributorName>
+      <payeeName>Blumenthal For Connecticut</payeeName>
+      <recipientName>Blumenthal For Connecticut</recipientName>
+      <amount>1000.00</amount>
+      <date>12/19/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Glover Park PAC</contributorName>
+      <payeeName>Collins For Congress</payeeName>
+      <recipientName>Collins For Congress</recipientName>
+      <amount>1000.00</amount>
+      <date>12/19/19</date>
+    </contribution>
+    <contribution>
+      <type>FECA</type>
+      <contributorName>The Glover Park PAC</contributorName>
+      <payeeName>Citizens For Rush</payeeName>
+      <recipientName>Citizens For Rush</recipientName>
+      <amount>1000.00</amount>
+      <date>12/19/19</date>
+    </contribution>
+  </contributions>
+</CONTRIBUTIONDISCLOSURE>
