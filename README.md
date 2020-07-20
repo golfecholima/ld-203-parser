@@ -1,10 +1,8 @@
 # LD-203 Parser
 
-A project to generate a CSV from the House LD-203 .xml files.
+A project to generate a CSV from the House lobbying disclosure bulk .xml files.
 
 *Created by George LeVines (<george.levines@gmail.com>)*
-
-*Reporter: George LeVines (<george.levines@gmail.com>)*
 
 ## Project goal
 
@@ -16,13 +14,10 @@ A project to generate a CSV from the House LD-203 .xml files.
 
 *TK: List people & contact info for people involved in the project*
 
-[Responsibility matrix](url-to-responsibility matrix)
-
-[HIRUFF Q&A](url-to-hiruff)
-
 ### Data sources
 
-*TK: List access info & contact info for data sources used in the project*
+* [House lobbying disclosure](https://disclosurespreview.house.gov/?index=%22lobbying-disclosures%22&size=10&sort=[{%22_score%22:true},{%22field%22:%22registrant.name%22,%22order%22:%22asc%22}])
+* Base URL example for each .xml file: `https://disclosurespreview.house.gov/ld/ldxmlrelease/2013/Q4/300630152.xml`
 
 ## Technical
 
